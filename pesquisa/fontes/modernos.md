@@ -261,3 +261,35 @@ portuguesa) dá a lista completa em segundos. Os arquivos são ISO-8859-1. Para 
   leituras do dia, usar ewtn.com/daily-readings/AAAA-MM-DD ou ucatholic.com.
 - **Bossuet**: `Œuvres complètes` (Guérin, 1885) no archive.org, `oeuvrescompl01boss`…`oeuvrescomplt10boss`
   (OCR em `…_djvu.txt`); a lista sai de `https://archive.org/advancedsearch.php?q=creator%3A%28Bossuet%29+AND+title%3A%28oeuvres%29&fl%5B%5D=identifier&rows=300&output=json`.
+
+## 12. Achados novos do Sl 35 (2026-10-17)
+
+- **Divinum Officium sem a API do GitHub**: a busca de código (`gh api search/code`) estoura o limite de
+  5000/h, compartilhado com as outras conversas. Melhor baixar só as pastas latinas (~19 MB) e usar `grep`:
+  `curl -sL https://codeload.github.com/DivinumOfficium/divinum-officium/tar.gz/refs/heads/master | tar xz --wildcards '*/web/www/missa/Latin/*' '*/web/www/horas/Latin/*'`.
+  As linhas `!Ps 34:13` dão a referência; no Ofício, procurar frases acentuadas («nocéntes», «frámeam»).
+- **Liturgia das Horas, Ofício das Leituras em latim**: o Universalis em latim
+  (`https://universalis.com/L/<AAAAMMDD>/readings.htm`) abre pelo WebFetch e traz antífonas, título, frase do
+  NT e versículos de cada parte. Achar a data: a semana do saltério = número da semana do Tempo Comum
+  módulo 4 (1 → I, 2 → II, 3 → III, 0 → IV). Em espanhol: es.catholic.net (`imprimir.php?id=…`); em inglês:
+  divineoffice.org. O texto brasileiro da CNBB não está na internet.
+- **Missal de 2002 (latim)**: o Clerus tem o Missale Romanum inteiro, página a página
+  (`http://www.clerus.org/bibliaclerusonline/en/gld.htm` = Semana Santa, p. 285; `glh.htm`, `gli.htm` = Páscoa e
+  Tempo Comum); baixar e procurar a frase acentuada. Serve para ver o que o Missal de 1970/2002 manteve do antigo.
+- **Clerus mistura as numerações** (Sl 35 hebraico e «Ps 35» da Vulgata na mesma página de citações):
+  conferir cada entrada.
+- **Catecismo**: as notas da edição portuguesa têm numeração própria (o § 304 traz «Cf. Sl 22; 32; 35…»
+  na nota 140; na inglesa é a 166); procurar também o número do salmo dentro de listas («; 35;»).
+- **Lecionário**: quadros completos de catholic-resources.org para conferir se um salmo é responsorial:
+  `1970USL-Sundays.htm` (es.catholic-resources.org), `1998USL-Solemnities.htm`, `1970USL-WeekdaysA.htm`
+  (tempos fortes) e `1970USL-WeekdaysB.htm` (Tempo Comum), em `https://catholic-resources.org/Lectionary/`.
+- **São João da Cruz**: o `.doc` da DCO (cp1252) se lê sem conversor: `open(...,'rb').read().decode('cp1252')`;
+  traz as duas redações do *Cântico* e da *Chama*; cita a Vulgata como «Sal. 34, 3».
+- **Santa Teresa** (DCO, espanhol): `Libro_de_La_Vida`, `Camino_de_Perfeccion`, `Libro_de_Las_Moradas` (PDF,
+  `pdftotext -enc UTF-8`) e `Las_Fundaciones` (.doc). Faltam *Exclamaciones* e *Conceptos del amor de Dios*.
+- **Bossuet, *Liber Psalmorum cum notis*** (1691, notas latinas breves a cada salmo, com a versão de
+  Jerônimo segundo o hebraico ao lado; prefácio *Dissertatio de Psalmis*, cap. I § XIV sobre as imprecações):
+  archive.org `bub_gb_UbL9v0BLte8C` (Veneza, 1801). OCR ruim: renderizar a página do PDF com PyMuPDF
+  (`fitz`, instalado) e ler a imagem. Página do PDF = página do livro + 4 (Sl 34 = pp. 152–155 = PDF 156–159).
+- **Newman**: os endereços do newmanreader são `https://` (o `http://` dá 302 e o `curl -f` grava a página de
+  redirecionamento). 259 sermões em ~1 min com `xargs -P 16`.
