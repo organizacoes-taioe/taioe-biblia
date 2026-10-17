@@ -2,421 +2,512 @@
  {
   "id": "genesis",
   "nome": "Gênesis",
+  "testamento": "AT",
   "grupo": "Pentateuco",
   "capitulos": 50
  },
  {
   "id": "exodo",
   "nome": "Êxodo",
+  "testamento": "AT",
   "grupo": "Pentateuco",
   "capitulos": 40
  },
  {
   "id": "levitico",
   "nome": "Levítico",
+  "testamento": "AT",
   "grupo": "Pentateuco",
   "capitulos": 27
  },
  {
   "id": "numeros",
   "nome": "Números",
+  "testamento": "AT",
   "grupo": "Pentateuco",
   "capitulos": 36
  },
  {
   "id": "deuteronomio",
   "nome": "Deuteronômio",
+  "testamento": "AT",
   "grupo": "Pentateuco",
   "capitulos": 34
  },
  {
   "id": "josue",
   "nome": "Josué",
-  "grupo": "Livros Históricos",
+  "testamento": "AT",
+  "grupo": "Livros históricos",
   "capitulos": 24
  },
  {
   "id": "juizes",
   "nome": "Juízes",
-  "grupo": "Livros Históricos",
+  "testamento": "AT",
+  "grupo": "Livros históricos",
   "capitulos": 21
  },
  {
   "id": "rute",
   "nome": "Rute",
-  "grupo": "Livros Históricos",
+  "testamento": "AT",
+  "grupo": "Livros históricos",
   "capitulos": 4
  },
  {
   "id": "1samuel",
   "nome": "I Samuel",
-  "grupo": "Livros Históricos",
+  "testamento": "AT",
+  "grupo": "Livros históricos",
   "capitulos": 31
  },
  {
   "id": "2samuel",
   "nome": "II Samuel",
-  "grupo": "Livros Históricos",
+  "testamento": "AT",
+  "grupo": "Livros históricos",
   "capitulos": 24
  },
  {
   "id": "1reis",
   "nome": "I Reis",
-  "grupo": "Livros Históricos",
+  "testamento": "AT",
+  "grupo": "Livros históricos",
   "capitulos": 22
  },
  {
   "id": "2reis",
   "nome": "II Reis",
-  "grupo": "Livros Históricos",
+  "testamento": "AT",
+  "grupo": "Livros históricos",
   "capitulos": 25
  },
  {
   "id": "1cronicas",
   "nome": "I Crônicas",
-  "grupo": "Livros Históricos",
+  "testamento": "AT",
+  "grupo": "Livros históricos",
   "capitulos": 29
  },
  {
   "id": "2cronicas",
   "nome": "II Crônicas",
-  "grupo": "Livros Históricos",
+  "testamento": "AT",
+  "grupo": "Livros históricos",
   "capitulos": 36
  },
  {
   "id": "esdras",
   "nome": "Esdras",
-  "grupo": "Livros Históricos",
+  "testamento": "AT",
+  "grupo": "Livros históricos",
   "capitulos": 10
  },
  {
   "id": "neemias",
   "nome": "Neemias",
-  "grupo": "Livros Históricos",
+  "testamento": "AT",
+  "grupo": "Livros históricos",
   "capitulos": 13
  },
  {
   "id": "tobias",
   "nome": "Tobias",
-  "grupo": "Livros Históricos",
+  "testamento": "AT",
+  "grupo": "Livros históricos",
   "capitulos": 14
  },
  {
   "id": "judite",
   "nome": "Judite",
-  "grupo": "Livros Históricos",
+  "testamento": "AT",
+  "grupo": "Livros históricos",
   "capitulos": 16
  },
  {
   "id": "ester",
   "nome": "Ester",
-  "grupo": "Livros Históricos",
+  "testamento": "AT",
+  "grupo": "Livros históricos",
   "capitulos": 10
  },
  {
   "id": "1macabeus",
   "nome": "I Macabeus",
-  "grupo": "Livros Históricos",
+  "testamento": "AT",
+  "grupo": "Livros históricos",
   "capitulos": 16
  },
  {
   "id": "2macabeus",
   "nome": "II Macabeus",
-  "grupo": "Livros Históricos",
+  "testamento": "AT",
+  "grupo": "Livros históricos",
   "capitulos": 15
  },
  {
   "id": "jo",
   "nome": "Jó",
-  "grupo": "Livros Sapienciais",
+  "testamento": "AT",
+  "grupo": "Livros sapienciais",
   "capitulos": 42
  },
  {
   "id": "salmos",
   "nome": "Salmos",
-  "grupo": "Saltério",
+  "testamento": "AT",
+  "grupo": "Livros sapienciais",
   "capitulos": 150
  },
  {
   "id": "proverbios",
   "nome": "Provérbios",
-  "grupo": "Livros Sapienciais",
+  "testamento": "AT",
+  "grupo": "Livros sapienciais",
   "capitulos": 31
  },
  {
   "id": "eclesiastes",
   "nome": "Eclesiastes",
-  "grupo": "Livros Sapienciais",
+  "testamento": "AT",
+  "grupo": "Livros sapienciais",
   "capitulos": 12
  },
  {
   "id": "cantico",
   "nome": "Cântico dos Cânticos",
-  "grupo": "Livros Sapienciais",
+  "testamento": "AT",
+  "grupo": "Livros sapienciais",
   "capitulos": 8
  },
  {
   "id": "sabedoria",
   "nome": "Sabedoria",
-  "grupo": "Livros Sapienciais",
+  "testamento": "AT",
+  "grupo": "Livros sapienciais",
   "capitulos": 19
  },
  {
   "id": "eclesiastico",
   "nome": "Eclesiástico",
-  "grupo": "Livros Sapienciais",
+  "testamento": "AT",
+  "grupo": "Livros sapienciais",
   "capitulos": 51
  },
  {
   "id": "isaias",
   "nome": "Isaías",
-  "grupo": "Livros Proféticos",
+  "testamento": "AT",
+  "grupo": "Livros proféticos",
   "capitulos": 66
  },
  {
   "id": "jeremias",
   "nome": "Jeremias",
-  "grupo": "Livros Proféticos",
+  "testamento": "AT",
+  "grupo": "Livros proféticos",
   "capitulos": 52
  },
  {
   "id": "lamentacoes",
   "nome": "Lamentações",
-  "grupo": "Livros Proféticos",
+  "testamento": "AT",
+  "grupo": "Livros proféticos",
   "capitulos": 5
  },
  {
   "id": "baruc",
   "nome": "Baruc",
-  "grupo": "Livros Proféticos",
+  "testamento": "AT",
+  "grupo": "Livros proféticos",
   "capitulos": 6
  },
  {
   "id": "ezequiel",
   "nome": "Ezequiel",
-  "grupo": "Livros Proféticos",
+  "testamento": "AT",
+  "grupo": "Livros proféticos",
   "capitulos": 48
  },
  {
   "id": "daniel",
   "nome": "Daniel",
-  "grupo": "Livros Proféticos",
+  "testamento": "AT",
+  "grupo": "Livros proféticos",
   "capitulos": 14
  },
  {
   "id": "oseias",
   "nome": "Oseias",
-  "grupo": "Livros Proféticos",
+  "testamento": "AT",
+  "grupo": "Livros proféticos",
   "capitulos": 14
  },
  {
   "id": "joel",
   "nome": "Joel",
-  "grupo": "Livros Proféticos",
+  "testamento": "AT",
+  "grupo": "Livros proféticos",
   "capitulos": 4
  },
  {
   "id": "amos",
   "nome": "Amós",
-  "grupo": "Livros Proféticos",
+  "testamento": "AT",
+  "grupo": "Livros proféticos",
   "capitulos": 9
  },
  {
   "id": "abdias",
   "nome": "Abdias",
-  "grupo": "Livros Proféticos",
+  "testamento": "AT",
+  "grupo": "Livros proféticos",
   "capitulos": 1
  },
  {
   "id": "jonas",
   "nome": "Jonas",
-  "grupo": "Livros Proféticos",
+  "testamento": "AT",
+  "grupo": "Livros proféticos",
   "capitulos": 4
  },
  {
   "id": "miqueias",
   "nome": "Miqueias",
-  "grupo": "Livros Proféticos",
+  "testamento": "AT",
+  "grupo": "Livros proféticos",
   "capitulos": 7
  },
  {
   "id": "naum",
   "nome": "Naum",
-  "grupo": "Livros Proféticos",
+  "testamento": "AT",
+  "grupo": "Livros proféticos",
   "capitulos": 3
  },
  {
   "id": "habacuc",
   "nome": "Habacuc",
-  "grupo": "Livros Proféticos",
+  "testamento": "AT",
+  "grupo": "Livros proféticos",
   "capitulos": 3
  },
  {
   "id": "sofonias",
   "nome": "Sofonias",
-  "grupo": "Livros Proféticos",
+  "testamento": "AT",
+  "grupo": "Livros proféticos",
   "capitulos": 3
  },
  {
   "id": "ageu",
   "nome": "Ageu",
-  "grupo": "Livros Proféticos",
+  "testamento": "AT",
+  "grupo": "Livros proféticos",
   "capitulos": 2
  },
  {
   "id": "zacarias",
   "nome": "Zacarias",
-  "grupo": "Livros Proféticos",
+  "testamento": "AT",
+  "grupo": "Livros proféticos",
   "capitulos": 14
  },
  {
   "id": "malaquias",
   "nome": "Malaquias",
-  "grupo": "Livros Proféticos",
+  "testamento": "AT",
+  "grupo": "Livros proféticos",
   "capitulos": 3
+ },
+ {
+  "id": "mateus",
+  "nome": "Mateus",
+  "testamento": "NT",
+  "grupo": "Evangelhos e Atos",
+  "capitulos": 28
+ },
+ {
+  "id": "marcos",
+  "nome": "Marcos",
+  "testamento": "NT",
+  "grupo": "Evangelhos e Atos",
+  "capitulos": 16
+ },
+ {
+  "id": "lucas",
+  "nome": "Lucas",
+  "testamento": "NT",
+  "grupo": "Evangelhos e Atos",
+  "capitulos": 24
+ },
+ {
+  "id": "joao",
+  "nome": "João",
+  "testamento": "NT",
+  "grupo": "Evangelhos e Atos",
+  "capitulos": 21
  },
  {
   "id": "atos",
   "nome": "Atos dos Apóstolos",
-  "grupo": "Novo Testamento",
+  "testamento": "NT",
+  "grupo": "Evangelhos e Atos",
   "capitulos": 28
  },
  {
   "id": "romanos",
   "nome": "Romanos",
+  "testamento": "NT",
   "grupo": "Cartas de São Paulo",
   "capitulos": 16
  },
  {
   "id": "1corintios",
   "nome": "I Coríntios",
+  "testamento": "NT",
   "grupo": "Cartas de São Paulo",
   "capitulos": 16
  },
  {
   "id": "2corintios",
   "nome": "II Coríntios",
+  "testamento": "NT",
   "grupo": "Cartas de São Paulo",
   "capitulos": 13
  },
  {
   "id": "galatas",
   "nome": "Gálatas",
+  "testamento": "NT",
   "grupo": "Cartas de São Paulo",
   "capitulos": 6
  },
  {
   "id": "efesios",
   "nome": "Efésios",
+  "testamento": "NT",
   "grupo": "Cartas de São Paulo",
   "capitulos": 6
  },
  {
   "id": "filipenses",
   "nome": "Filipenses",
+  "testamento": "NT",
   "grupo": "Cartas de São Paulo",
   "capitulos": 4
  },
  {
   "id": "colossenses",
   "nome": "Colossenses",
+  "testamento": "NT",
   "grupo": "Cartas de São Paulo",
   "capitulos": 4
  },
  {
   "id": "1tessalonicenses",
   "nome": "I Tessalonicenses",
+  "testamento": "NT",
   "grupo": "Cartas de São Paulo",
   "capitulos": 5
  },
  {
   "id": "2tessalonicenses",
   "nome": "II Tessalonicenses",
+  "testamento": "NT",
   "grupo": "Cartas de São Paulo",
   "capitulos": 3
  },
  {
   "id": "1timoteo",
   "nome": "I Timóteo",
+  "testamento": "NT",
   "grupo": "Cartas de São Paulo",
   "capitulos": 6
  },
  {
   "id": "2timoteo",
   "nome": "II Timóteo",
+  "testamento": "NT",
   "grupo": "Cartas de São Paulo",
   "capitulos": 4
  },
  {
   "id": "tito",
   "nome": "Tito",
+  "testamento": "NT",
   "grupo": "Cartas de São Paulo",
   "capitulos": 3
  },
  {
   "id": "filemon",
   "nome": "Filêmon",
+  "testamento": "NT",
   "grupo": "Cartas de São Paulo",
   "capitulos": 1
  },
  {
   "id": "hebreus",
   "nome": "Hebreus",
-  "grupo": "Novo Testamento",
+  "testamento": "NT",
+  "grupo": "Cartas de São Paulo",
   "capitulos": 13
  },
  {
   "id": "tiago",
   "nome": "Tiago",
-  "grupo": "Cartas Católicas",
+  "testamento": "NT",
+  "grupo": "Cartas católicas e Apocalipse",
   "capitulos": 5
  },
  {
   "id": "1pedro",
   "nome": "I Pedro",
-  "grupo": "Cartas Católicas",
+  "testamento": "NT",
+  "grupo": "Cartas católicas e Apocalipse",
   "capitulos": 5
  },
  {
   "id": "2pedro",
   "nome": "II Pedro",
-  "grupo": "Cartas Católicas",
+  "testamento": "NT",
+  "grupo": "Cartas católicas e Apocalipse",
   "capitulos": 3
  },
  {
   "id": "1joao",
   "nome": "I João",
-  "grupo": "Cartas Católicas",
+  "testamento": "NT",
+  "grupo": "Cartas católicas e Apocalipse",
   "capitulos": 5
  },
  {
   "id": "2joao",
   "nome": "II João",
-  "grupo": "Cartas Católicas",
+  "testamento": "NT",
+  "grupo": "Cartas católicas e Apocalipse",
   "capitulos": 1
  },
  {
   "id": "3joao",
   "nome": "III João",
-  "grupo": "Cartas Católicas",
+  "testamento": "NT",
+  "grupo": "Cartas católicas e Apocalipse",
   "capitulos": 1
  },
  {
   "id": "judas",
   "nome": "Judas",
-  "grupo": "Cartas Católicas",
+  "testamento": "NT",
+  "grupo": "Cartas católicas e Apocalipse",
   "capitulos": 1
  },
  {
   "id": "apocalipse",
   "nome": "Apocalipse",
-  "grupo": "Novo Testamento",
+  "testamento": "NT",
+  "grupo": "Cartas católicas e Apocalipse",
   "capitulos": 22
- },
- {
-  "id": "evangelhos",
-  "nome": "Evangelhos cronológicos",
-  "grupo": "Novo Testamento",
-  "capitulos": 202
  }
 ]

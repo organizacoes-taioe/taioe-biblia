@@ -30,9 +30,13 @@ vm.runInContext(fs.readFileSync(path.join(ANTIGO, 'livros', `${livro}.js`), 'utf
 const versos = (ctx.window.TEXTOS_SEED[livro] || {})[cap];
 if (!versos) { console.error(`${livro} ${cap} não existe no projeto antigo`); process.exit(1); }
 
-// Registro dos livros: id, nome, grupo, capítulos.
-const registro = Object.entries(LIVROS).map(([id, l]) => ({ id, nome: l.nome, grupo: l.grupo, capitulos: l.capitulos }));
-fs.writeFileSync(path.join(RAIZ, 'conteudo', 'livros.json'), JSON.stringify(registro, null, 1) + '\n');
+// Registro dos livros: id, nome, grupo, capítulos. Só na primeira vez: depois ele é da Taioé
+// (73 livros, com o testamento e os quatro Evangelhos) e não se sobrescreve.
+const arqLivros = path.join(RAIZ, 'conteudo', 'livros.json');
+if (!fs.existsSync(arqLivros)) {
+  const registro = Object.entries(LIVROS).map(([id, l]) => ({ id, nome: l.nome, grupo: l.grupo, capitulos: l.capitulos }));
+  fs.writeFileSync(arqLivros, JSON.stringify(registro, null, 1) + '\n');
+}
 
 const destino = path.join(RAIZ, 'conteudo', livro, String(cap).padStart(3, '0') + '.json');
 if (fs.existsSync(destino)) { console.error(`${destino} já existe: o texto vivo é o da Taioé`); process.exit(1); }

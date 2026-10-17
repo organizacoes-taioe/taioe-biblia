@@ -76,7 +76,16 @@ h1 { font-weight: 400; line-height: 1.15; }
 .capa .subtitulo { font-family: var(--sans); font-size: .62em; letter-spacing: .2em; text-transform: uppercase; color: var(--tinta-tenue); margin: .4em 0 1.6em; }
 .capa .intro { text-align: left; }
 .intro p { margin: 0 0 .85em; }
-.disponiveis h2 { font-family: var(--sans); font-size: .62em; letter-spacing: .14em; text-transform: uppercase; color: var(--tinta-tenue); font-weight: 600; margin: 2em 0 .8em; text-align: left; }
+/* índice dos livros, no início */
+.indice-livros { text-align: left; margin-top: 1.4em; }
+.testamento h2 { font-family: var(--sans); font-size: .62em; letter-spacing: .14em; text-transform: uppercase; color: var(--tinta-tenue); font-weight: 600; margin: 2.2em 0 .2em; padding-bottom: .5em; border-bottom: 1px solid var(--linha); }
+.testamento h3 { font-size: .8em; font-weight: 600; font-style: italic; color: var(--tinta-suave); margin: 1.1em 0 .25em; }
+.livros { margin: 0; line-height: 1.6; }
+.livros a, .livros .vazio { white-space: nowrap; }
+.livros a { color: var(--realce); font-weight: 600; text-decoration: none; }
+.livros a:hover { text-decoration: underline; }
+.livros .vazio { color: var(--tinta-tenue); }
+.livros .sep { color: var(--tinta-tenue); opacity: .6; }
 
 .caminhos { display: flex; flex-direction: column; gap: .6em; text-align: left; }
 .caminho, .tema {
