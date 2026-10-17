@@ -26,8 +26,12 @@ salmo. Domínio público.
   palavra latina rara do versículo (ex.: *speravimus*, *metuentes*, *firmati*) mostra onde ele usa
   o versículo nas obras ascéticas (*Del gran mezzo della preghiera*, *Sermoni compendiati*,
   *Storia delle eresie*…). Foi assim que saíram os achados do Sl 32 fora da *Traduzione*.
-  Os rótulos de obra na página de concordância vêm deslocados de uma linha: confiar no link.
-  Script de busca usado: ver `salmos/033/relatorio-modernos.md`.
+  Os rótulos de obra na página de concordância vêm deslocados de uma linha: confiar no link
+  (o `<TITLE>` da página aberta dá a obra certa). Página da letra: `_FA<c>.HTM`, com `c` = base 36
+  de (2 + posição da letra, A = 0): A=2, B=3 … I=A, L=D, M=E, P=H, R=J, S=K, T=L, V=N.
+  Script de busca usado: ver `salmos/033/relatorio-modernos.md` e `salmos/034/relatorio-modernos.md`.
+- Já localizados: Sl 32 e Sl 33 (Vulgata) em `_P36Y` (Matinas da féria II, salmos VII e VIII);
+  ed. Bassano 1775, Sl 33 nas pp. 124–127. Afonso numera os versículos sem o título.
 - **Edição antiga (fac-símile)**: Bassano, Remondini, 1775, https://archive.org/details/bub_gb_faALk7DIOkYC
   (texto OCR: `https://archive.org/download/bub_gb_faALk7DIOkYC/bub_gb_faALk7DIOkYC_djvu.txt`).
   O índice alfabético dos incipit, no começo do livro, dá o número do salmo e a página
@@ -95,6 +99,9 @@ Ambrósio, Orígenes, Jerônimo, Cassiodoro). **Direito autoral da LEV**: só ci
     2005-05-11 B · Magnificat: 2006-02-15 B.
   - A lista foi montada lendo o título de cada audiência de 2001–2006; se um salmo de Laudes ou
     Vésperas não aparece, conferir o índice anual (`…/audiences/<AAAA>.index.html`).
+- Salmo que só está na Hora Média ou no Ofício das Leituras **não tem catequese** (ex.: Sl 34 [33]).
+  Onde cada salmo está na Liturgia das Horas: https://catholic-resources.org/LoH/Psalter-Index.html
+  (numeração hebraica; «DP» = Hora Média, «OR» = Ofício das Leituras).
 - Bento XVI, outra série («Escola de oração», 2011): Sl 3 (2011-09-07), 22 [21] (2011-09-14),
   23 (2011-10-05), 126 (2011-10-12), 136 [135] (2011-10-19), 119 [118] (2011-11-09),
   110 [109] (2011-11-16). Aqui a numeração é a hebraica, com a grega entre colchetes.
@@ -117,6 +124,12 @@ Ambrósio, Orígenes, Jerônimo, Cassiodoro). **Direito autoral da LEV**: só ci
 - *Verbum Domini* (Bento XVI, 2010), *Laudato si'* (Francisco, 2015) e as encíclicas em geral:
   buscar «Sal <n>» no texto italiano de vatican.va (numeração hebraica).
 - Homilias papais: o Clerus (acima) indexa as de João Paulo II e Bento XVI por versículo.
+- **Varredura rápida** (Sl 34, 2026-10-17): baixar o italiano de vatican.va e procurar «Sal <n>» e
+  «Sal <n-1> [<n>]» (João Paulo II escreve «Sal 33 [34],9»). Documentos já varridos e URLs em
+  `salmos/034/relatorio-modernos.md` § 3 (Francisco, Bento XVI, João Paulo II e *Dilexi te* de Leão XIV,
+  `…/content/leo-xiv/it/apost_exhortations/documents/20251004-dilexi-te.html`). Mensagens do Dia Mundial
+  dos Pobres: `…/francesco/it/messages/poveri/documents/papa-francesco_<AAAAMMDD>_messaggio-<…>.html`
+  (2018 = Sl 34,7).
 - Homilias de Bento XVI no Te Deum de 31 de dezembro (2005–2012), `…/homilies/<AAAA>/documents/hf_ben-xvi_hom_<AAAA>1231_te-deum.html`:
   conferidas para o Sl 32,22 — não o comentam.
 
@@ -130,11 +143,18 @@ Ambrósio, Orígenes, Jerônimo, Cassiodoro). **Direito autoral da LEV**: só ci
   (Te Deum). Cada citação traz a referência na linha `!Ps 32:5-6`.
   **Achar todos os usos de um salmo**: `gh api -X GET search/code -f q='"Ps 32" repo:DivinumOfficium/divinum-officium path:web/www/missa/Latin'`
   (e `path:web/www/horas/Latin` para o Ofício). Domínio público.
+  No Ofício a referência quase não aparece: buscar uma palavra **acentuada** do versículo como está no
+  texto (`Immíttet`, `Gustáte`). `Psalterium/Psalmi/Psalmi minor.txt` tem Prima, Terça, Sexta, Noa e
+  Completas do saltério de 1911 (ex.: Sl 33 nas Completas de quarta-feira); `Psalmi matutinum.txt`,
+  seção `[Daya1]` etc., é a distribuição tridentina. A busca de código do GitHub devolve no máximo
+  algumas dezenas de arquivos e às vezes omite `Commune/`.
 - **Lecionário de 1981 (Ordo Lectionum Missae)**: quadro dos domingos e festas com os salmos
   responsoriais: https://es.catholic-resources.org/Lectionary/1970USL-Sundays.htm (EUA, com versículos)
   e https://church.catholic-resources.org/Lectionary/1992Canada.htm. Refrões latinos: PDFs do
   romanliturgy.org, padrão `https://www.romanliturgy.org/wordpress/wp-content/uploads/<AAAA>/<MM>/Ps-<n>-<celebração>.pdf`
-  (achar pela busca «romanliturgy.org Ps <n>»). Adições de 2015 (Vigília de Pentecostes etc.):
+  (achar pela busca «romanliturgy.org Ps <n>»; melhor: `https://www.romanliturgy.org/?s=Ps+<n>` lista
+  os posts «OLM <número>», e cada post tem o link do PDF `Ps-<n>-….pdf`). Solenidades e festas:
+  https://catholic-resources.org/Lectionary/1998USL-Solemnities.htm (os `…-Feasts.htm` não existem). Adições de 2015 (Vigília de Pentecostes etc.):
   https://www.vatican.va/roman_curia/congregations/ccdds/notitiae/2015/olm-additiones.pdf. Textos do
   Lecionário e do Missal atuais: só citação curta.
 - **Liturgia das Horas**: Universalis (inglês, mostra o dia): `https://universalis.com/<AAAAMMDD>/lauds.htm`
@@ -153,6 +173,13 @@ Teresinha, Elisabete da Trindade, Newman etc.). Regras práticas até agora:
   um por tomo, em https://www.donboscosanto.eu/francesco_di_sales/ (t. III *Introduction*, t. IV–V
   *Traitté*, t. VI *Entretiens*, t. VII–X Sermões). A *Introduction* inteira também no fr.wikisource
   («Introduction à la vie dévote (Boulenger)/Texte entier»).
+- Francisco de Sales, varredura completa: `oeuvresdesaintfr01fran` … `20fran` no archive.org (`_djvu.txt`;
+  o t. V não tem OCR), ~25 MB; procurar as margens «Ps. xxxiii» com as leituras do OCR (`xxxm`, `xxxin`,
+  `Psaim.`) e as palavras latinas raras do versículo. Os títulos e datas dos sermões estão em maiúsculas
+  («SERMON POUR LE…») logo acima.
+- Vianney: *Sermons* (1883), 4 tomos num só OCR, `sermons-du-venerable-serviteur-de-dieu-jean-baptiste-marie-vianney-4-tomes`
+  (cita os salmos de memória, em francês; buscar a frase francesa). Teresinha: não há OCR da *Histoire
+  d'une âme* no archive.org.
 - São João da Cruz, Santa Teresa, Santa Catarina (*Dialogo*): obras completas em .doc/.pdf na
   Documenta Catholica Omnia, `https://documentacatholicaomnia.eu/03d/` (ex.
   `1542-1591,_Ioannes_a_Cruce,_Opera_Omnia,_ES.doc`, com acentos; os PDFs têm numeração própria de
@@ -207,3 +234,30 @@ portuguesa) dá a lista completa em segundos. Os arquivos são ISO-8859-1. Para 
   lista todas as perícopes de Números (só Nm 20, sexta da 3ª semana da Quaresma). Para o Breviário,
   o mesmo com `path:web/www/horas/Latin` (busca por «Num 12» deu só falsos positivos).
 - **Universalis**: bloqueia `curl` e cobra pelo Ofício das Leituras; para ele, usar outro breviário.
+
+## 11. Achados novos de Nm 13 (2026-10-17)
+
+- **Francisco de Sales, índice escriturístico**: o t. XXVII da edição de Annecy (Table analytique),
+  `https://www.donboscosanto.eu/francesco_di_sales/27-Oeuvres%20de%20S.%20Francois%20de%20Sales-Tome%20XXVII-Table%20analytique-web.pdf`,
+  tem um **Index scripturaire** com todas as citações bíblicas das *Œuvres* (tomo e página, versículos
+  na numeração da Vulgata). Baixar, `pdftotext`, e procurar o livro (ex.: «NOMBRES»): dá os lugares em
+  segundos, inclusive nas cartas (t. XI–XXI), que a busca de palavras não cobre. Os tomos com «-web» no
+  nome são os leves.
+- **Clerus (Biblia Clerus)**: o índice de cada livro é navegável sem busca: `http://www.clerus.org/bibliaclerusonline/en/65g.htm`
+  → livro (Números = `wu.htm`) → capítulo (`gpg.htm#rk` para Nm 13) → no fim de cada perícope, o link
+  das citações (ex.: `9abv11m.htm` = Nm 13,1-24). Mostra Padres, Magistério, Lecionário e Antônio de Pádua.
+- **Cantus Index, busca de texto**: `https://cantusindex.org/json-text/<palavra>` devolve, em JSON (com BOM:
+  ler com `utf-8-sig`), o texto inteiro de antífonas, responsórios, hinos e **sequências** (inclusive as do
+  *Analecta Hymnica*, ids `ah<vol><nº>`) que contêm a palavra. Achou três sequências com o cacho de
+  Escol («botrum», «botrus», «vecte», «bajulus»). A página `https://cantusindex.org/id/<id>` abre a peça.
+- **Iconografia tipológica**: Warburg Institute Iconographic Database
+  (`https://iconographic.warburg.sas.ac.uk/`), com as inscrições do altar de Verdun (Klosterneuburg, 1181)
+  e as cenas do *Speculum humanae salvationis*, classificadas por versículo.
+- **Liturgia das Horas, ciclo de um ano**: índice bíblico do Ofício das Leituras por Felix Just,
+  `https://catholic-resources.org/LoH/OfficeOfReadings-Biblical-Index.html` (livro → dia e página do volume
+  americano). Números na Quaresma: Nm 11,4-6.10-30; Nm 12,16–13,3.17-33 (quinta da 4ª semana); Nm 14,1-25
+  (sexta da 4ª semana); Nm 20,1-13; 21,4-9 (dias dos outros a conferir no índice).
+- **Bloqueios**: bible.usccb.org (desafio anti-robô) e escriva.org (403) não abrem por `curl`; para as
+  leituras do dia, usar ewtn.com/daily-readings/AAAA-MM-DD ou ucatholic.com.
+- **Bossuet**: `Œuvres complètes` (Guérin, 1885) no archive.org, `oeuvrescompl01boss`…`oeuvrescomplt10boss`
+  (OCR em `…_djvu.txt`); a lista sai de `https://archive.org/advancedsearch.php?q=creator%3A%28Bossuet%29+AND+title%3A%28oeuvres%29&fl%5B%5D=identifier&rows=300&output=json`.

@@ -86,3 +86,40 @@ Numeração: todos usam a da LXX (o nosso Sl 33 é o «32» deles, λβʹ).
   *Hexaémeron* segue a ed. Giet (SC 26), com «[PG 1, 1]» = homilia 1, § 1.
 - Não estão no khazarzar: Teodoreto, *Interpretatio in xiv epistulas Pauli* (PG 82); Teofilato (PG 123–126);
   Ecumênio sobre as cartas (PG 118–119 tem só o Apocalipse em edição moderna). Efrém: nada em grego útil.
+
+## Usos litúrgicos e buscas em massa (primeiro uso: Sl 34 = LXX 33, 2026-10-17, `../salmos/034/relatorio-gregos.md`)
+
+| Fonte | Arquivo no khazarzar | Nota |
+|---|---|---|
+| São Cirilo de Jerusalém, *Catequeses mistagógicas* | `Cyrillus Hierosolymitanus_PG 33/Mystagogiae.pdf` | ed. Reischl–Rupp: «[PG 5, 20]» = Mistagógica 5, § 20. A 5 descreve a missa de Jerusalém (prefácio, comunhão): procurar ali os salmos cantados na liturgia. |
+| *Constituições Apostólicas* (anônima, c. 380) | `Constitutiones Apostolorum_PG 01/Constitutiones Apostolorum.pdf` | edição moderna, sem colunas da PG; a liturgia está no livro VIII (comunhão: VIII, 13). Buscar sem acentos (`ψαλμοσ δε λεγεσθω`): o número do salmo vem colado («ὁ λγἐντῷ»). |
+| Orígenes, *Sobre a oração*; *Contra Celso* | `Origenes_PG 11-17/De oratione.pdf`; `…/Contra Celsum.pdf` | Koetschau: «[PG 31, 5]» = cap. 31, § 5; Borret: «[PG 8, 34]» = livro VIII, § 34. |
+| São Gregório de Nissa, homilias de festa e de mártires | `Gregory of Nyssa_PG 44-46/De sancto Theodoro.pdf`, `In diem luminum.pdf`, `De iis qui baptismum differunt.pdf` | algumas com colunas da PG (Teodoro: PG 46), outras pela GNO. |
+
+- **Basílio, homilia sobre o Sl 33 (LXX)**: PG 29, 349–388, logo depois da do Sl 32 no mesmo PDF; 14 seções, cujos números só se
+  leem no OCR da PG 29 (o OCR perdeu a coluna da seção 3). As homilias de Basílio comentam o salmo inteiro: usar sempre que existam.
+- **Eusébio** para no meio de alguns salmos (no Sl 33, no v. 10): conferir até onde vai antes de contar com ele.
+- **Atanásio, *Expositiones***: no Sl 33 várias glosas são idênticas às de Teodoreto e de Cirilo, **sem colchetes** no PDF; comparar
+  sempre com Teodoreto antes de atribuir a Atanásio.
+- **Dídimo (Tura)** cobre o Sl 33 inteiro (págs. 184–203; ed. Gronewald, PTA 8); a lacuna é só no Sl 32, 1–12.
+- **Busca em massa**: baixar a pasta inteira de um autor (curl no índice da pasta, um PDF por linha) e converter com `gregos-limpar.py`
+  leva tempo: Crisóstomo (~400 PDFs, ~130 MB) passa de 40 minutos; começar em segundo plano logo no início. Ao decodificar os nomes
+  dos arquivos, cuidado com `%20` (no Git Bash, `printf '%b'` não converte; o nome saiu com «x20»). Os resultados mais úteis vêm das
+  homilias batismais (Nazianzeno 39–40, Basílio 13, Nissa), das de mártires e das catequeses.
+- **Jo 19,36**: os gregos ligam «osso não se quebrará» ao cordeiro pascal (Ex 12,46), não ao Sl 33,21 (Cirilo, *Com. a João* e *De
+  adoratione*; Crisóstomo, *Hom. 15 sobre 1 Cor*).
+
+## Acréscimos de Nm 13 (2026-10-17, `../numeros/013/relatorio-gregos.md`)
+
+| Autor | Obra | Onde | Nota |
+|---|---|---|---|
+| Epístola de Barnabé | 12, 8–9 | khazarzar `Barnabas_PG 02/Barnabae epistula.pdf` | marcadores «[PG 12, 8]» = capítulo e versículo |
+| São Justino | *Diálogo com Trifão* | khazarzar `Iustinus_PG 06/Dialogus cum Tryphone.pdf` | sem colunas nem capítulos; o OCR mistura letras latinas («Aὐσῆς») e põe «·» por «ῥ» |
+| Eusébio | *Demonstratio evangelica*; *Historia ecclesiastica*; *Eclogae propheticae*; *Onomasticon* | khazarzar `Eusebius Caesariensis_PG 19-24/`: as *Eclogae* estão no PDF «Generalis elementaria introductio» (ed. Gaisford 1842; «ΙΑʹ» = I, 11); o *Onomasticon* segue Klostermann (1904), com a referência bíblica de cada verbete | DE e HE: «[PG 4, 17] .3» = livro, capítulo, § (ed. GCS), não coluna |
+| São Cirilo de Alexandria | *De adoratione* V («Sobre a coragem em Cristo») | PG 68, 372–376 | Nm 13–14 lido com Dt 20,8: a pusilanimidade que contagia |
+| São Gregório de Nissa | *Homilias sobre o Cântico* 3 (Ct 1,14) | GNO VI, 98–99 | o «verdadeiro cacho» nas varas de madeira (Nm 13,23) |
+| Santo Anfilóquio de Icônio | *In Zacchaeum* | khazarzar `Amphilochius Iconiensis_PG 39/` (ed. Datema, CCSG 3, 1978: citação curta) | Raab e Zaqueu, Josué e Jesus |
+| Procópio de Gaza | *In Numeros* | OCR da PG 87/1 (`patrologiaecurs267unkngoog`), Nm 13: c. 829–830 | só latim; compila Cirilo e Nissa |
+
+- Busca de «ὡσεὶ ἀκρίδες»: quase todas as ocorrências são de Is 40,22, não de Nm 13,33. O padrão «Ὡσηέ» acha sobretudo
+  o profeta Oseias: para Josué, buscar «Αὐσῆ».
