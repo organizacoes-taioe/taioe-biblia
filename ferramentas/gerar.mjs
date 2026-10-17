@@ -287,25 +287,29 @@ ${passos(viz, (t) => t.titulo, (t) => `${urlT}${t.id}/`, 'Navegação entre tema
 
 // ---------------------------------------------------------------- índices
 
+// Os 73 livros, por Testamento e pelos grupos de livros.json, numa linha corrida. Livro com
+// capítulo pronto vira link para a sua grade; os outros ficam apagados, sem link.
 function paginaInicio(caps) {
-  const porLivro = [];
-  for (const l of LIVROS) {
-    const cs = caps.filter((c) => c.livro === l.id);
-    if (cs.length) porLivro.push([l, cs]);
-  }
+  const tem = new Set(caps.map((c) => c.livro));
+  const testamento = (sigla, nome) => {
+    const grupos = [];
+    for (const l of LIVROS.filter((x) => x.testamento === sigla)) {
+      if (!grupos.length || grupos[grupos.length - 1][0] !== l.grupo) grupos.push([l.grupo, []]);
+      grupos[grupos.length - 1][1].push(l);
+    }
+    return `<section class="testamento" aria-labelledby="t-${sigla}">
+<h2 id="t-${sigla}">${nome}</h2>
+${grupos.map(([g, ls]) => `<h3>${esc(g)}</h3>
+<p class="livros">${ls.map((l) => (tem.has(l.id) ? `<a href="${BASE}${l.id}/">${esc(l.nome)}</a>` : `<span class="vazio">${esc(l.nome)}</span>`)).join('<span class="sep" aria-hidden="true">&nbsp;· </span>')}</p>`).join('\n')}
+</section>`;
+  };
   const corpo = `<article class="folha capa">
 <h1>Bíblia Taioé</h1>
 <p class="subtitulo">Sagrada Escritura</p>
-<div class="intro">
-<p>Tradução dos originais, em português do Brasil, com notas para o leitor comum e os comentários dos Padres da Igreja e dos santos de todos os tempos, trecho por trecho.</p>
-<p>Os capítulos entram um de cada vez.</p>
-</div>
-<section class="disponiveis" aria-labelledby="titulo-disp">
-<h2 id="titulo-disp">Já disponíveis</h2>
-<nav class="caminhos" aria-label="Capítulos disponíveis">
-${porLivro.map(([l, cs]) => cs.map((c) => `<a class="caminho" href="${BASE}${c.livro}/${c.cap}/"><span class="caminho-nome">${esc(rotuloCap(c.livro, c.cap).longo)}</span><span class="caminho-texto">${esc(l.nome)}</span></a>`).join('\n')).join('\n')}
+<nav class="indice-livros" aria-label="Livros da Bíblia">
+${testamento('AT', 'Antigo Testamento')}
+${testamento('NT', 'Novo Testamento')}
 </nav>
-</section>
 </article>`;
   return pagina({ titulo: 'Bíblia Taioé', descricao: 'A Sagrada Escritura traduzida dos originais, com notas e os comentários dos Padres da Igreja e dos santos.', inicio: true, corpo, classe: 'pag-inicio' });
 }
