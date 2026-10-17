@@ -132,3 +132,28 @@ Não há índice bíblico livre e completo das obras de Agostinho. O que funcion
 - Pistas temáticas: os etíopes = as nações (En. in Ps. 71,12; 73,16; 67,40 de memória);
   a visão de Deus por Moisés (*Gen. ad litt.* XII, 26–28; Ep. 147, 13; *De Trin.* II, 16–17;
   *Contra Maximinum* I, 15); a mansidão de Moisés (*Contra Gaudentium* I, 19,20).
+
+## 4. Salmo 33 da Vulgata (= Sl 34; primeiro uso 2026-10-17, `salmos/034/relatorio-agostinho.md`)
+
+- **Só dois sermões, nenhuma glosa ditada**: arquivo 044 = sermo 1 (só o título, PL 36, 300–307),
+  045 = sermo 2 (vv. 2–23, PL 36, 307–322). No PDF do PL 36 (§ 1.2): págs. 116–127 (índice 0).
+  O NPNF (`1801034`) só traz o sermo 2, resumido e com a numeração um a menos.
+- Sermões que comentam um salmo inteiro ou um versículo dele aparecem no título dos *Sermones de
+  Scripturis* («De eo quod scriptum est in Psalmo XXXIII…» = Sermo 16, PL 38, 121): procurar
+  `grep "SERMO .* Psalmo <número romano>"` no arquivo 776_7334 do Corpus Corporum.
+- **Corpus Corporum, mais depressa**: baixar só as obras-chave em paralelo (10 por vez, ~3 min):
+  work → texto: Cartas 742 → 7300; *De doctr. christ.* 747 → 7305; *De serm. Dom. in monte*
+  749 → 7307; *In ep. Io.* 764 → 7322; *In Io.* 765 → 7323; *Enarrationes* 771 → 7329 (Sl 1–~75)
+  e 21501 → 21385; *Sermones de sanctis* 775 → 7333, *de Scripturis* 776 → 7334, *de tempore*
+  777 → 7335; *Confissões* 712 → 7270. As 140 em ordem levam mais de 30 min. As notas de Migne
+  («NNN: (Psal. XXXIII, v)») usam a numeração da Vulgata com o título como v. 1 no Sl 33.
+  Permalinks: `cps_2.AugHip.Confes2`, `.InEpJoA`, `.InJoEvT`, `.SeDeSc`, `.EnInPs`.
+- Armadilha do `aug2txt.py`: não trocar `* *` por espaço (cola `**9.** *Inquisivi` em `**9.* …`).
+- **Nm 13 (2026-10-17)**: as *Enarrationes* no Corpus são **dois textos**: 7329 (Sl 1–79, PL 36) e **21385**
+  (Sl 80–150, PL 37); *De civitate Dei* = texto **21364**. Pistas temáticas: o nome de Josué = Jesus (Sermão 352, 4;
+  *Contra Faustum* XVI, 19–20 e XII, 31; *Quaest. in Hept.* II, 103); Cristo, o cacho pendurado no madeiro
+  (En. in Ps. 8, 2; *Contra Faustum* XII, 31 e 42; alusões em En. in Ps. 55, 4; 83, 1; Sermões 191, 1 e 267);
+  a terra desejável desprezada por falta de fé (En. in Ps. 105, 22). Ver `../numeros/013/relatorio-origenes-agostinho.md`.
+  Sermões fora das coleções dos Maurinos: «Sermones 1» (obra 2519 → texto 7504) e «Sermones 2» (2528 → **7513**,
+  os quatro de A. Mai, autenticidade discutida; o III, sobre Caná, traz os dois carregadores do cacho de Nm 13,24).
+  O `ccall` de todas as obras travou duas vezes depois da obra 2458: baixar as que interessam pelo número do texto.

@@ -212,3 +212,71 @@ santo: citar como «Orígenes», sem título, e dizer que é a tradução de Ruf
   Números); a coluna da PG 12 não sai daí: conferir no PDF da PG se for preciso.
 - Rábano Mauro, *Enarrationes in librum Numerorum* (Corpus Corporum 8898, PL 108) copia Orígenes
   quase palavra por palavra: serve para conferir o latim de Rufino num trecho duvidoso.
+
+## 6. Aprendido no Sl 34 (33), 2026-10-17 (`salmos/034/relatorio-latinos.md`)
+
+- Ids novos: **São Bento** (1163), *Regula cum commentariis* = texto **21434** (PL 66; a Regra em
+  parágrafos numerados, cada um seguido do comentário de Martène e outros; o Prólogo está nas
+  col. 215D–218). **Ambrósio**: *De mysteriis* **6971**, *De sacramentis* **6976**, *Apologia
+  Prophetae David* 6945 e *altera* 6946. **Cassiano**: *Collationes* **7530**, *De institutis*
+  **7531** (permalinks `cps_2.JoaCas.Collat` e `cps_2.JoaCas.DeCoIn`).
+- Permalinks conferidos (o sufixo varia e não se adivinha: copiar do topo do arquivo baixado):
+  Ambrósio `AmbMed.DeMys`, `AmbMed.EnInXiP`; Jerônimo, cartas `HieStr.Episto32`; Hilário
+  `HilPic.TrSuPs`; Bernardo `BerCla.DeCon4`, `BerCla.InDoPa`, `BerCla.SeDeDi2`, `BerCla.Episto308`,
+  `BerCla.InFeOmS`, `BerCla.SeInCaC`; Arnóbio `ArnJun.CoInPs`; Bruno de Segni `BruAst.ExInPs3`;
+  Bruno Cartuxo `BruCar.ExInPs2`; Lombardo `PetLom.CoInPs3`; *Breviarium* `AuInAuH.BrInPs`;
+  Haimo `HayHal.CoInPs2`; pseudo-Beda `AuInBe.DeLiPs`; Gregório `GreI.HoInEv`.
+- **O Corpus Corporum pode ficar muito lento** (17/10, à noite: ~1 texto por minuto no `ccall.py`).
+  Baixar só os textos certos com `cc.py dl <texto>`, vários em paralelo (cada um levou ~1 min). Os
+  arquivos já baixados numa conversa anterior ficam no scratchpad dela: procurar antes de baixar.
+- Formatos das notas de Migne, para o `grep`: Bernardo, Ambrósio, Hilário, Gregório
+  `(Psal. XXXIII, 9)`; **Jerônimo, cartas: algarismos** `(Psal. 33. 9)` ou `(Ps. 33)`; **Cassiano:
+  sem versículo** `(Psal. XXXIII)`. A numeração das notas é a da Clementina (com o título como v. 1
+  nos salmos com título), mas erra às vezes por um: conferir o texto.
+- **Cassiodoro e Belarmino não numeram o título**: nos salmos com título, o «Vers. N» deles é o v.
+  N+1 da Clementina. Tomás não numera (segue o texto).
+- Belarmino, t. X: o Sl 33 está nas pp. 202–208 (`grep -n "PSALMUS  XXXIII"`; o dele começa em
+  «BELLARMINl  EXPLANATIO.», com OCR variável do nome: procurar `EXPLANATIO`).
+- Jerônimo, *Tractatus*: além das homilias sobre o próprio salmo, as de outros salmos citam muito
+  (ex.: *Tract. de Ps. XV*, série II, p. 25, sobre o anjo do v. 8). Buscar no `_djvu.txt` com os
+  espaços normalizados (o OCR tem espaços duplos e hifenização) e pelas notas de rodapé de Morin
+  (`Ps. 33, 9`).
+- Santos em língua vulgar (Catarina, Teresa, João da Cruz, Inácio, Francisco de Sales): não estão na
+  PL; a busca na internet por um versículo não dá nada. Se for preciso, baixar as obras completas
+  (Wikisource, archive.org) e varrer pelo texto do versículo em castelhano/italiano/francês.
+
+## 7. Aprendido em Nm 13, 2026-10-18 (`numeros/013/relatorio-latinos.md`)
+
+- **O servidor do Corpus Corporum fica lento** (cada `navigate.php` leva 30–40 s quando há várias
+  chamadas em paralelo); listar todas as obras de 30 autores levou mais de meia hora. Melhor: baixar
+  direto pelo `idno` do texto os já conhecidos (as tabelas acima) e, para o resto, listar as obras
+  do autor (uma chamada por autor), escolher pelo nome e só então pedir os textos dessas obras.
+- Texto (`idno`) de obras novas, úteis para o Pentateuco e para o tema da terra prometida:
+
+| autor | obra | texto | PL |
+|---|---|---|---|
+| São Bruno de Segni (2171) | Expositio in Pentateuchum (21519) | **21403** (*In Numeros* começa na linha «INCIPIT EXPOSITIO IN NUMEROS») | 164 |
+| Tertuliano (867) | Adversus Judaeos **62**; Adversus Marcionem **63** | | 2 |
+| Lactâncio (902) | Divinae institutiones IV **6810**; Epitome **6814** | | 6 |
+| Cipriano (878) | Testimonia **21445** | | 4 |
+| Máximo de Turim (1102) | Homiliae **7652** (a Hom. 79 estava entre os sermões de Ambrósio) | | 57 |
+| Beda (1397) | Homiliae **8509**; In Cantica **8455**; In Samuelem **8459**; «In Pentateuchum» (espúrio) **8461** | | 91–94 |
+| Ricardo de São Vítor (2350) | De exterminatione mali **11536**; Benjamin major **11527** | | 196 |
+| «Hugo de S. Victore?» (2229) | Posteriores excerptiones **11052** (= *Allegoriae in VT* e *in NT*, hoje de Ricardo, *Liber exceptionum*); Miscellanea **11093** | | 175–177 |
+| Hugo de São Vítor (2230) | De sacramentis **11082** | | 176 |
+| Honório de Autun (2211) | Speculum Ecclesiae **11000**; In Cantica **10988** | | 172 |
+| São Pedro Damião (928) | De quadragesima et XLII mansionibus **10104**; De bono status religiosi **10076** | | 145 |
+| São Bernardo (2268) | Sermones de diversis **11257**; In psalmum Qui habitat **11246** (e as outras obras, quase todas com `idno` entre 11189 e 11258) | | 183–184 |
+| Ambrósio (958) | Expositio in Ps. 118 **6966**; De Joseph **21359**; De mysteriis **6971** | | 14–16 |
+| Gregório (1165) | Concordia testimoniorum **8103**; In I Regum **21352** | | 79 |
+| Euquério (1068) | Formulae spiritalis intelligentiae **7549** (dicionário de símbolos: «Botrus, Ecclesia, sive corpus Domini») | | 50 |
+
+- **Cornélio a Lápide, *In Numeros***: t. II da ed. Vivès (archive.org `commentariainscr02lapi_0`):
+  página impressa P = imagem `page/n<P+31>.jpg` (Nm 13 = pp. 255–261). O OCR (`_djvu.txt`) mistura
+  as duas colunas; transcrever da imagem o trecho que entrar nos achados.
+- **Corpus Thomisticum inteiro**: as 464 páginas de `iopera.html` (todos os links `c*`, `s*`, `q*`,
+  `o*`) baixam em ~2 min com 10 conexões; a página é ISO-8859-1, e cada parágrafo tem `TITLE="Super
+  Heb., cap. 3 l. 2"`. As citações vêm como «Num. XIII» ou «Num. 13».
+- Busca que funcionou para um capítulo narrativo: as palavras raras da Vulgata Clementina do próprio
+  capítulo (*in vecte*, *phalanga*, *botryo*, *praecoquae*, *compescens murmur*), não só as notas de
+  Migne, que em muitas obras não marcam a citação.
