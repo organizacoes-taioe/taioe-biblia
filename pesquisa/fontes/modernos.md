@@ -149,4 +149,61 @@ Ver o `relatorio-modernos.md` de cada capítulo: o que se achou e onde (Francisc
 Teresinha, Elisabete da Trindade, Newman etc.). Regras práticas até agora:
 - Newman: http://www.newmanreader.org tem os sermões completos e busca.
 - Teresinha: https://www.archives-carmel-lisieux.fr (manuscritos, cartas, poesias, com busca).
-- Francisco de Sales: edição de Annecy (Œuvres, 1892–1964) no archive.org e na Gallica.
+- Francisco de Sales: edição de Annecy (Œuvres, 1892–1964) no archive.org e na Gallica; PDFs com OCR,
+  um por tomo, em https://www.donboscosanto.eu/francesco_di_sales/ (t. III *Introduction*, t. IV–V
+  *Traitté*, t. VI *Entretiens*, t. VII–X Sermões). A *Introduction* inteira também no fr.wikisource
+  («Introduction à la vie dévote (Boulenger)/Texte entier»).
+- São João da Cruz, Santa Teresa, Santa Catarina (*Dialogo*): obras completas em .doc/.pdf na
+  Documenta Catholica Omnia, `https://documentacatholicaomnia.eu/03d/` (ex.
+  `1542-1591,_Ioannes_a_Cruce,_Opera_Omnia,_ES.doc`, com acentos; os PDFs têm numeração própria de
+  capítulos e OCR às vezes falho). Baixar e procurar a referência («Números», «Núm.»).
+- Newman: baixar todos os sermões do newmanreader (`/works/parochial/volume<N>/sermon<M>.html`,
+  `/works/discourses/discourse<N>.html`) e procurar o nome bíblico; os PPS são do período anglicano.
+
+## 7. São Tomás em toda a obra (fora dos Salmos) — primeiro uso: Nm 12, 2026-10-17
+
+Para achar **todas** as vezes que Tomás cita um capítulo: baixar do Corpus Thomisticum as ~290
+páginas da *Suma* (`sth1001`…`sth4090`, I = `sth1`, I-II = `sth2`, II-II = `sth3`, III = `sth4`),
+*Contra gentiles* (`scg*`), *De veritate* (`qdv*`), *Sentenças* (`snp*`) e os comentários bíblicos
+(`cio` Jó, `cps` Salmos, `cis` Isaías, `cph` Jeremias, `cmt` Catena/Mt, `cih` João, `cro` Rm,
+`c1c`/`c2c` Coríntios, `cgl` Gl, `cep` Ef, `ct1`/`ct2` Timóteo, `che` Hebreus…). A lista de páginas
+sai de `https://www.corpusthomisticum.org/iopera.html` (links `href=…org/<pág>.html`); 16 downloads
+em paralelo levam ~45 s (53 MB). Converter de ISO-8859-1 e buscar a referência como Tomás a escreve:
+`Num. XII`, `Num. 12`, `Numer. XII` (e uma frase-chave do versículo). Cada parágrafo é
+`<P TITLE="I q. 12 a. 11 arg. 2">` com o número `[28763]`. Script: `win.py` (janela em volta do achado)
+e `para.py` (parágrafo inteiro), no scratchpad da conversa; refazer é rápido.
+Páginas da *Suma* usadas: `sth1003` (I q. 3–14), `sth3061` (II-II q. 61–78: detração, murmuração),
+`sth3155` (q. 155–170), `sth3171` (q. 171–178: profecia e arrebatamento), `sth4002` (III q. 2–15).
+
+## 8. Cornélio a Lápide, *Commentaria in Scripturam Sacram* (séc. XVII)
+
+Jesuíta, não canonizado: citar como «escritor». Comenta **toda a Bíblia, menos Jó e Salmos**,
+versículo a versículo, juntando os Padres, os medievais e os exegetas (Tostado/«Abulensis», Lira,
+Ruperto), com longas aplicações morais cheias de exemplos. Domínio público.
+- Edição usada: Vivès, Paris, 1866–1868, ed. Augustin Crampon (21 vol. + suplementos). No archive.org,
+  série `commentariainscrNNlapi` (com variantes `_0`, `_1`: são exemplares/edições diferentes; conferir
+  o título no começo do `_djvu.txt`). **Confirmado**: `commentariainscr02lapi_0` = t. II, Levítico,
+  Números, Deuteronômio (Nm 12 nas pp. 251–255, linhas 39515–40326 do OCR). Atenção:
+  `commentariainscr02lapi` é **outra** edição (Lyon, Pelagaud), t. II = Josué a Macabeus.
+- Outras séries: `commentariiinsac01lapi`…`09lapi` (1840), `commentariainsac07lapi`…`10lapi` (Nápoles?
+  1854, «Editio Xysto Riario Sfortiae dicata»), e volumes avulsos do séc. XVII (`bub_gb_*`).
+  Busca: `https://archive.org/advancedsearch.php?q=creator%3A%28lapide%29&fl%5B%5D=identifier&fl%5B%5D=title&rows=100&output=json`.
+- Achar um capítulo no OCR: `grep -n "CAPUT DUODECIMUM\|IN NUMEROS"` (os títulos dos capítulos vêm
+  por extenso). OCR bom, mas Æ sai «JE»/«ZE», as notas da margem entram no meio do texto, e os
+  números de página se estropiam: conferir na imagem.
+
+## 9. Catecismo: busca em todos os arquivos
+
+O índice `prima-pagina-cic_po.html` lista 34 arquivos; baixar todos e procurar «Nm 12» (sigla
+portuguesa) dá a lista completa em segundos. Os arquivos são ISO-8859-1. Para Nm 12: só §§ 2576–2577.
+
+## 10. Liturgia: dias de semana e o Missal antigo
+
+- Leituras dos **dias de semana** (Lecionário de 1981, ciclo de dois anos: ano I = ímpar, ano II = par):
+  não há quadro único conferido ainda; as páginas do dia (Franciscan Media, catholicreadings.org,
+  liturgia.silvestrini.org com um epub por dia, ex. `…/epubs/2021-08-03.epub`) dão leitura e salmo.
+  Nm 12,1-13: terça-feira da 18ª semana, ano I.
+- **Missal antigo**: `gh api -X GET search/code -f q='"!Num" repo:DivinumOfficium/divinum-officium path:web/www/missa/Latin'`
+  lista todas as perícopes de Números (só Nm 20, sexta da 3ª semana da Quaresma). Para o Breviário,
+  o mesmo com `path:web/www/horas/Latin` (busca por «Num 12» deu só falsos positivos).
+- **Universalis**: bloqueia `curl` e cobra pelo Ofício das Leituras; para ele, usar outro breviário.

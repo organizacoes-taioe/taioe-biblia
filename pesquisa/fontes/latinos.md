@@ -46,7 +46,19 @@ Autores e textos já identificados (autor → obra → texto):
 | Pedro Lombardo (2327) | Commentaria in Psalmos (6407) | **11455** | 191 |
 | São Bernardo (2268) | 72 textos (sermões, tratados, cartas); Sermones in Cantica **11258** | | 182–185 |
 | Alcuíno (1047) | só De usu Psalmorum (3679), sem comentário salmo a salmo | | 100–101 |
-| Gerhoh de Reichersberg (2330), Ruperto de Deutz (2195), Honório de Autun (2211) | não consultados | | |
+| Gerhoh de Reichersberg (2330), Honório de Autun (2211) | não consultados | | |
+| Ruperto de Deutz (2195) | De Trinitate et operibus ejus (comentário à Bíblia inteira, do Gênesis aos Evangelhos) | **10873** | 167 |
+| Rábano Mauro (1518) | Enarrationes in librum Numerorum (3875) **8898**; Comm. in Genesim **8885**; Expositiones in Leviticum (3877) | | 107–108 |
+| Santo Isidoro (1318) | Quaestiones in Vetus Testamentum (21546) **21433**; Allegoriae (3196) **8202**; De ortu et obitu Patrum (3203) **8209**; Sententiae (3212) **8218** | | 83 |
+| pseudo-Beda (1395) | Quaestiones super Genesim/Exodum/Leviticum/Numeros (3467: **8484**)/Deuteronomium/Jesu Nave/Regum | | 93 |
+| «Beda» (1397) | Commentarii in Pentateuchum (3444) **8461** (espúrio) | | 91 |
+| Paterius (1280) | Expositio Veteris ac Novi Testamenti (3103) **8106**: excertos de Gregório por livro | | 79 |
+| Hugo de São Vítor (2230) | Adnotationes in Pentateuchon **11054** | | 175 |
+| São Gregório Magno (1165) | também: Epistolae **8064**; In Cant. **8105**; In I Regum **21352** (hoje de Pedro de Cava) | | 77–79 |
+| Santo Ambrósio (958) | também: De officiis **6974**; Epist. classis I **21400**; classis II **6979**; Apologia David **6945**; In Lucam **6965**; De Noe **21361**; De institutione virginis **21372**; De virginibus **21380** | | 14–16 |
+| São Jerônimo (879) | também: Adversus Iovinianum **7149**; In Sophoniam **7180**; Quaest. hebr. in Gen. **7160**; In Isaiam **7170** | | 23–25 |
+| João Cassiano (1063) | Collationes **7530**; De institutis **7531** | | 49 |
+| São Pedro Damião (928) | Epistolae **10045**; Collectanea in VT (de seu discípulo João) **10066** | | 144–145 |
 
 
 ### Corpus Thomisticum: São Tomás
@@ -141,3 +153,62 @@ da coleção, identificadores `doctorisecstati*`). Procurar no Google Books ou n
   Clementina: anotar a leitura que o autor comenta.
 - Não confundir os dois Brunos: o de Segni (Bruno Astensis, PL 164) e o Cartuxo (PL 152). «Bruno
   Coloniensis» no Corpus Corporum é outro (só um diploma).
+
+## 4. Comentários latinos ao Pentateuco e a Números (primeiro uso: Nm 12, 2026-10-17)
+
+Ver `numeros/012/relatorio-latinos.md`. Busca que funcionou: as notas de Migne (`Num. XII`; no
+Jerônimo a PL usa algarismos, `Num. 12. 3`) e as palavras da Vulgata **Clementina** (os Padres leem
+*mitissimus*, não o *humillimus* da Nova Vulgata). Para achar o capítulo dentro de um comentário,
+procurar o primeiro versículo e o título `(CAP. XII.)` que Migne põe nos títulos de capítulo.
+
+- **Ruperto de Deutz**, *De Trinitate et operibus eius* (c. 1112–1117): comentário de toda a
+  Escritura em 42 livros; *In Numeros* em dois livros, capítulos curtos com título, versículo a
+  versículo, sentido literal e depois alegórico. Original, vivo, cheio de observações humanas. É o
+  melhor latino para Números (e provavelmente para o Pentateuco). PL 167 (texto **10873**, 5,7 MB;
+  `grep -n "IN NUMEROS\|IN LEVITICUM\|IN DEUTERONOMIUM"` acha os livros).
+- **Rábano Mauro**, *Enarrationes in librum Numerorum* (PL 108): compilação, com as fontes às vezes
+  indicadas (*Ex Augustino*): Orígenes (Rufino), Agostinho (*Quaest. in Hept.*), Jerônimo (Ep. 78),
+  Isidoro. Útil para ter Orígenes latino em texto; quase nada próprio. Também Gênesis, Êxodo,
+  Levítico, Deuteronômio.
+- **Santo Isidoro**, *Quaestiones in Vetus Testamentum* (PL 83, 207–424): Gênesis a Macabeus,
+  alegórico e breve, por capítulos; em Números segue as mansões de Nm 33 (de Jerônimo, Ep. 78).
+  *Allegoriae* (PL 83, 97–130): uma frase por personagem; boa chave alegórica.
+- **pseudo-Beda**, *Quaestiones super …* (PL 93): copiam Isidoro. **«Beda», *In Pentateuchum***
+  (PL 91, 189–394): espúrio, breve, quase nada. Beda autêntico não comentou o Pentateuco além do
+  Gênesis (*In principium Genesis*, não conferido) e do Tabernáculo (*De tabernaculo*, Ex 25–30).
+- **Paterius**, *Liber testimoniorum* (PL 79): excertos de Gregório Magno organizados por livro e
+  capítulo da Bíblia; atalho para achar o que Gregório disse de um versículo (mas tem lacunas: em
+  Números salta do cap. 11 ao 16).
+- **Hugo de São Vítor**, *Adnotationes in Pentateuchon* (PL 175, 29–86): notas literais, poucas em
+  Números (só até o cap. 14 da obra).
+- **São Jerônimo**, Ep. 78 a Fabíola, *De XLII mansionibus* (PL 22, 698–724): as 42 mansões de
+  Nm 33, cada uma com o episódio ligado a ela (Haserot = Nm 12; Cades = Nm 20 etc.). Fonte de
+  Isidoro, Rábano e da Glosa para Números.
+- **Glosa Ordinária**: não está no Corpus Corporum; para o Pentateuco é sobretudo Orígenes,
+  Isidoro e Rábano.
+
+## 5. Orígenes latino (Rufino e Jerônimo): as homilias sobre o Pentateuco e os históricos
+
+Primeiro uso: Nm 12, 2026-10-17 (`numeros/012/relatorio-origenes-agostinho.md`). Orígenes não é
+santo: citar como «Orígenes», sem título, e dizer que é a tradução de Rufino.
+
+- **No Corpus Corporum só há** (autor 1049): homilias sobre o Cântico (7164), Isaías (7172),
+  Jeremias e Ezequiel (7182, de Jerônimo), as 39 sobre Lucas (7192). **As homilias sobre Gn, Ex,
+  Lv, Nm, Js, Jz, 1Rs (Sm) não estão** (são da PG 12, que o Corpus não tem).
+- **Edição crítica de domínio público: Baehrens, GCS (Origenes Werke)**, no archive.org, com OCR
+  (`_djvu.txt`) e imagens por página:
+  - Bd. 6 (GCS 29, 1920): homilias sobre **Gênesis, Êxodo, Levítico** → `origenes-werke.-bd-6-1920`;
+  - Bd. 7 (GCS 30, 1921): homilias sobre **Números (28), Josué (26), Juízes (9)** →
+    `origenes-werke.-bd-7-1921` (Nm hom. 7 = págs. 37–48);
+  - Bd. 8 (GCS 33, 1925): homilias sobre **1 Samuel, Cântico, Isaías, Jeremias, Ezequiel** e o
+    Comentário ao Cântico → `GCS33` ou `origenes-werke.-bd.-8-1925`.
+- Página impressa P = leaf P+36 no Bd. 7 (conferir em `..._page_numbers.json` nos outros);
+  imagem: `https://archive.org/download/<id>/page/n<leaf>.jpg` (3542×5251, legível; recortar com
+  PIL); link para o leitor: `https://archive.org/details/<id>/page/<P>/mode/1up`.
+- O OCR mistura o aparato crítico, as referências («vgl.») e os números de linha e **perde linhas
+  inteiras**: transcrever da imagem (um subagente fez as 12 páginas da hom. 7 em ~8 min).
+  Achar uma homilia: `grep -n "HOMILIA VII\|in Numeros Homilia"` (os cabeçalhos de página).
+- As margens dão as páginas de Delarue («Del.», = PG) e de Lommatzsch («Lomm.», t. 10 para
+  Números); a coluna da PG 12 não sai daí: conferir no PDF da PG se for preciso.
+- Rábano Mauro, *Enarrationes in librum Numerorum* (Corpus Corporum 8898, PL 108) copia Orígenes
+  quase palavra por palavra: serve para conferir o latim de Rufino num trecho duvidoso.

@@ -1,0 +1,936 @@
+[
+  {
+    "id": "cirilo-glaph-num-12-2a",
+    "autor": "São Cirilo de Alexandria",
+    "autor_id": "cirilo",
+    "datas": "c. 376–444",
+    "titulo_autor": "patriarca de Alexandria, Doutor da Igreja",
+    "obra": "Comentários elegantes ao Pentateuco (Glaphyra in Numeros)",
+    "passagem": "Glaph. in Num., «Sobre Cristo e a Sinagoga», 2",
+    "edicao": "PG 69, 596",
+    "versiculos": [
+      1
+    ],
+    "trecho": "1",
+    "lingua": "grc",
+    "original": "Νομοθέτης γὰρ ὁ Χριστὸς, καὶ μεσίτης Θεοῦ καὶ ἀνθρώπων, ὥσπερ οὖν ἦν ἀμέλει κἀκεῖνος. Ἐπεὶ καὶ οὗτος ἡμῖν κατεσήμαινε λέγων· Προφήτην ὑμῖν ἀναστήσει Κύριος ὁ Θεὸς ὑμῶν ἐκ τῶν ἀδελφῶν ὑμῶν, ὡς ἐμέ. Εἰς δέ γε τὸ σχῆμα τῆς Ἰουδαίων ἱερωσύνης Ἀαρὼν ληφθήσεται, καὶ ἀναπληρώσει τῆς Συναγωγῆς τὸ πρόσωπον ἡ Μαριάμ. Κατηγόρευσαν τοίνυν τοῦ Σωτῆρος ἡμῶν Χριστοῦ καὶ οἱ τῶν Ἰουδαίων πρεσβύτεροι, καὶ αὐτὴ δὲ μετ' ἐκείνων ἡ Συναγωγὴ, τὴν τῶν θείων ἐνταλμάτων παράβασιν ἐγκαλοῦντες αὐτῷ, διά γε τοῦ λέγειν· Εἰ ἦν οὗτος παρὰ Θεοῦ ὁ ἄνθρωπος, οὐκ ἂν ἔλυε τὸ Σάββατον. Διεπρίοντο δὲ καὶ καθ' ἕτερον τρόπον, ὅτι τὴν μέλαιναν, τουτέστι, τὴν ἐξ ἐθνῶν Ἐκκλησίαν, ἐμνηστεύετο, καὶ ἐπεγάμει τρόπον τινὰ τῇ πρώτῃ, τουτέστι τῇ Ἰσραηλίτιδι, ἥτις ἦν πάλιν ἡ Συναγωγή.",
+    "fonte_url": "http://khazarzar.skeptik.net/pgm/PG_Migne/Cyril%20of%20Alexandria_PG%2068-77/Glaphyra%20in%20Pentateuchum.pdf",
+    "traducao_pt": "Pois Cristo é legislador e mediador entre Deus e os homens, como também aquele [Moisés] certamente era. É o que o próprio Moisés nos indicava ao dizer: «O Senhor vosso Deus vos suscitará dentre vossos irmãos um profeta como eu». Aarão será tomado como figura do sacerdócio dos judeus, e Maria fará as vezes da Sinagoga. Pois também os anciãos dos judeus, e com eles a própria Sinagoga, acusaram nosso Salvador Cristo, culpando-o de transgredir os mandamentos divinos, quando diziam: «Se este homem viesse de Deus, não violaria o sábado». E se irritavam ainda por outro motivo: porque ele tomava como esposa a negra, isto é, a Igreja vinda dos gentios, e de certo modo a desposava ao lado da primeira, isto é, da israelita, que era a Sinagoga.",
+    "temas": [
+      "a etíope, figura da Igreja dos gentios",
+      "Maria e Aarão, figura da Sinagoga e do sacerdócio antigo",
+      "Moisés, figura de Cristo"
+    ],
+    "resumo": "Moisés é figura de Cristo; Maria, da Sinagoga; a esposa negra, da Igreja dos gentios que Cristo desposa.",
+    "relevancia": 3,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "cirilo-glaph-num-12-2c",
+    "autor": "São Cirilo de Alexandria",
+    "autor_id": "cirilo",
+    "datas": "c. 376–444",
+    "titulo_autor": "patriarca de Alexandria, Doutor da Igreja",
+    "obra": "Comentários elegantes ao Pentateuco (Glaphyra in Numeros)",
+    "passagem": "Glaph. in Num., 2",
+    "edicao": "PG 69, 597",
+    "versiculos": [
+      2
+    ],
+    "trecho": "1",
+    "lingua": "grc",
+    "original": "Ἐξ ἀλαζονείας ὁ λόγος, ἐκ διακένου φυσήματος ἡ φωνή. Χρῆναι γὰρ δή που φρονοῦντας ὀρθῶς μὴ πάντως εἰς ἴσον ἀναβαίνειν ἐπείγεσθαι μέτρον τῷ δικαίως ἀκούσαντι· Οἶδά σε παρὰ πάντας, καὶ χάριν εὗρες παρ' ἐμοί· ἀνατιθέναι μᾶλλον τὰ ἐφ' οἷς τετίμηνται χαριστήρια, τὴν ἄνωθεν ὡρισμένην οὐχ ὑπερβαίνοντες τάξιν· οὔτε μὴν ἁρπάζοντας ἑαυτοῖς τὴν οὕτω δοθεῖσαν τιμήν.",
+    "fonte_url": "http://khazarzar.skeptik.net/pgm/PG_Migne/Cyril%20of%20Alexandria_PG%2068-77/Glaphyra%20in%20Pentateuchum.pdf",
+    "traducao_pt": "A palavra vem da soberba; a voz, de um orgulho vazio. Quem pensa direito não deve de modo algum ter pressa em subir à mesma medida daquele que ouviu com justiça: «Eu te conheço mais que a todos, e achaste graça diante de mim»; deve antes dar graças pelas honras que recebeu, sem ultrapassar a ordem fixada do alto e sem roubar para si a honra que foi dada desse modo [a outro].",
+    "temas": [
+      "a inveja dos irmãos",
+      "a humildade de aceitar o próprio lugar"
+    ],
+    "resumo": "«Deus não falou também por nós?» é palavra de soberba: cada um agradeça o dom que recebeu, sem cobiçar o lugar do outro.",
+    "relevancia": 2,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "cirilo-glaph-num-12-2d",
+    "autor": "São Cirilo de Alexandria",
+    "autor_id": "cirilo",
+    "datas": "c. 376–444",
+    "titulo_autor": "patriarca de Alexandria, Doutor da Igreja",
+    "obra": "Comentários elegantes ao Pentateuco (Glaphyra in Numeros)",
+    "passagem": "Glaph. in Num., 2",
+    "edicao": "PG 69, 597",
+    "versiculos": [
+      2,
+      3
+    ],
+    "trecho": "1",
+    "lingua": "grc",
+    "original": "Ἀλαζονείας ὡς ἔοικεν ἀφορμὴν τὴν Μωσέως ἐποιοῦντο πραότητα Μαριάμ τε καὶ Ἀαρών. Ἀλλ' ἐπὶ τούτῳ καὶ δυσωποῦντος ἐκείνου χαλεπαίνει Θεὸς, καὶ αὐτόκλητος ἐπὶ τὸ δικαίως ἀγανακτεῖν κατὰ τῶν ἐξυβρίσαι τετολμηκότων ἔρχεται τὴν ἐπὶ τῷ γνησίῳ λειτουργῷ καταφρόνησιν, εἰς αὐτὸν οἰκειούμενος. Οὕτω νοήσεις καὶ ἐπὶ Χριστοῦ. Ἀπὸ μὲν γὰρ τῆς ἐνούσης αὐτῷ πραότητός τε καὶ φιλανθρωπίας προαλέστεροί πως εἰς καταφρόνησιν ἦσαν οἱ Φαρισαῖοι.",
+    "fonte_url": "http://khazarzar.skeptik.net/pgm/PG_Migne/Cyril%20of%20Alexandria_PG%2068-77/Glaphyra%20in%20Pentateuchum.pdf",
+    "traducao_pt": "Ao que parece, Maria e Aarão fizeram da mansidão de Moisés uma ocasião para a soberba. Mas, justamente por isso, enquanto ele se calava envergonhado, Deus se indigna e vem por si mesmo, sem ser chamado, irar-se com justiça contra os que ousaram ultrajá-lo, tomando como feito a si o desprezo contra o seu servo verdadeiro. Assim entenderás também no caso de Cristo: por causa da mansidão e da bondade que havia nele, os fariseus eram mais rápidos em desprezá-lo.",
+    "temas": [
+      "a mansidão de Moisés",
+      "Deus defende o manso",
+      "a ofensa ao servo de Deus atinge o próprio Deus"
+    ],
+    "resumo": "Os irmãos abusaram da mansidão de Moisés; por isso Deus, sem ser chamado, toma a defesa do servo calado.",
+    "relevancia": 3,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "teodoreto-qnum-22a",
+    "autor": "Teodoreto de Ciro",
+    "autor_id": "teodoreto",
+    "datas": "c. 393–c. 460",
+    "titulo_autor": "bispo de Ciro, exegeta da escola de Antioquia",
+    "obra": "Questões sobre Números (Quaestiones in Numeros)",
+    "passagem": "Quaest. in Num. 22",
+    "edicao": "PG 80, 373–376",
+    "versiculos": [
+      1,
+      2
+    ],
+    "trecho": "1",
+    "lingua": "grc",
+    "original": "τὴν Σεπφώραν τοίνυν ὠνόμασεν αἰθιόπισσαν· τὸ γὰρ Σαβὰ ἔθνος αἰθιοπικόν ἐστιν. ὁ γὰρ εὐαγγελιστής φησιν· \" βασίλισσα αἰθιόπων ἀναστήσεται, καὶ κατακρινεῖ τὴν γε νεὰν ταύτην \". ἀλλ' ἡ τῶν βασιλειῶν ἱστορία βασίλισσαν Σαβὰ προσηγόρευσε ταύτην. Σαβὰ δὲ καλεῖται τῶν ὁμηριτῶν τὸ ἔθνος· τούτοις οἱ μαδιηναῖοι πελάζουσιν. ἐπειδὴ τοίνυν ὁ Ἀαρὼν ἰσραηλῖτιν ἠγάγετο, ἀλλόφυλον δὲ ὁ Μωϋσῆς, μικροψυχίας γενομένης, ταύτην αὐτῷ τὴν λοιδορίαν προσήνεγκαν. καὶ μαρτυρεῖ δὲ τῇ τελειοτάτῃ ἀρετῇ τοῦ νομοθέτου τῶν ἀδελφῶν ἡ παροινία· ἀπορήσαντες γὰρ δηλονότι κατηγορίας ἑτέρας, τῆς γυναικὸς αὐτῷ τὸν ψόγον ἐπήνεγκαν.",
+    "fonte_url": "http://khazarzar.skeptik.net/pgm/PG_Migne/Theodoretus%20of%20Cyrrhus_PG%2080-84/Quaestiones%20in%20Octateuchum.pdf",
+    "traducao_pt": "Foi, portanto, Séfora que [a Escritura] chamou de etíope, pois o povo de Sabá é etíope. O evangelista diz: «A rainha dos etíopes se levantará e condenará esta geração»; mas a história dos Reis a chama rainha de Sabá. E Sabá é o nome do povo dos homeritas, de quem os madianitas são vizinhos. Como Aarão tinha casado com uma israelita e Moisés com uma estrangeira, nasceu uma mesquinhez, e lhe lançaram este insulto. Essa insolência dos irmãos, aliás, é testemunho da virtude perfeitíssima do legislador: não achando, evidentemente, nenhuma outra acusação, lançaram-lhe em rosto a mulher.",
+    "temas": [
+      "a mulher etíope é Séfora",
+      "a inveja dos irmãos",
+      "a virtude de Moisés"
+    ],
+    "resumo": "Para Teodoreto, a etíope é a própria Séfora (madianita, vizinha de Sabá); os irmãos, sem outra culpa para lhe apontar, criticaram a mulher.",
+    "relevancia": 3,
+    "direitos": "domínio público (texto conferido com a PG 80)"
+  },
+  {
+    "id": "ireneu-ah-4-20-12",
+    "autor": "Santo Ireneu de Lião",
+    "autor_id": "ireneu",
+    "datas": "c. 130–c. 202",
+    "titulo_autor": "bispo de Lião, mártir, Doutor da Igreja",
+    "obra": "Contra as heresias (Adversus haereses)",
+    "passagem": "Adv. haer. IV, 20, 12",
+    "edicao": "ed. Massuet IV, 20, 12 (PG 7); ed. Harvey II, 224",
+    "versiculos": [
+      1,
+      10,
+      14
+    ],
+    "trecho": "1",
+    "lingua": "la",
+    "original": "Sic autem et Moyses Aethiopissam accipiebat uxorem, quam ipse Israelitidem fecit, praesignificans quoniam oleaster inseritur in olivam, et participans pinguedinis ejus erit. […] propter hoc per nuptias Moysi nuptiae Verbi ostendebantur, et per Aethiopissam conjugem, ea quae ex gentibus est, Ecclesia manifestabatur; cui qui detrahunt, et incusant, et derident eam, non erunt mundi. Leprosi enim erunt, et abjicientur a justorum castris.",
+    "fonte_url": "https://archive.org/details/sanctiirenaeiep00harvgoog",
+    "traducao_pt": "Assim também Moisés recebeu por esposa uma etíope, e ele mesmo a fez israelita, prefigurando que a oliveira brava é enxertada na oliveira e participará da sua seiva. […] Por isso, nas núpcias de Moisés se mostravam as núpcias do Verbo, e na esposa etíope se manifestava a Igreja que vem dos gentios. Os que a difamam, a acusam e zombam dela não serão puros: ficarão leprosos e serão expulsos do acampamento dos justos.",
+    "temas": [
+      "a etíope, figura da Igreja dos gentios",
+      "a oliveira brava enxertada (Rm 11)",
+      "a lepra de quem fala mal da Igreja"
+    ],
+    "resumo": "A etíope que Moisés faz israelita é a Igreja dos gentios enxertada em Israel; quem a difama fica leproso, como Maria.",
+    "relevancia": 3,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "nissa-vm-2-256",
+    "autor": "São Gregório de Nissa",
+    "autor_id": "gregorio-nissa",
+    "datas": "c. 335–c. 395",
+    "titulo_autor": "bispo de Nissa, Padre da Capadócia",
+    "obra": "Vida de Moisés (De vita Moysis)",
+    "passagem": "Vida de Moisés II, 256–257",
+    "edicao": "PG 44, c. 413 (GNO VII/1, II, 256–257)",
+    "versiculos": [
+      1,
+      2
+    ],
+    "trecho": "1",
+    "lingua": "grc",
+    "original": "Μετὰ ταῦτα γὰρ φθόνος αὐτῷ παρὰ τῶν ἀδελφῶν ἐπιφύεται, φθόνος τὸ ἀρχέκακον πάθος, ὁ τοῦ θανάτου πατήρ, ἡ πρώτη τῆς ἁμαρτίας εἴσοδος, ἡ τῆς κακίας ῥίζα, ἡ τῆς λύπης γένεσις, ἡ τῶν συμφορῶν μήτηρ, ἡ τῆς ἀπειθείας ὑπόθεσις, ἡ τῆς αἰσχύνης ἀρχή. Φθόνος ἡμᾶς τοῦ παραδείσου ἐξῴκισεν, ὄφις κατὰ τῆς Εὔας γενόμενος. Φθόνος τοῦ ξύλου τῆς ζωῆς ἀπετείχισε καὶ τῶν ἱερῶν ἐνδυμάτων γυμνώσας τοῖς τῆς συκῆς φύλλοις δι' αἰσχύνης ὑπήγαγε.",
+    "fonte_url": "http://khazarzar.skeptik.net/pgm/PG_Migne/Gregory%20of%20Nyssa_PG%2044-46/De%20vita%20Mosis.pdf",
+    "traducao_pt": "Depois disso, a inveja brota contra ele da parte dos irmãos: a inveja, paixão que é princípio dos males, pai da morte, primeira porta do pecado, raiz da maldade, origem da tristeza, mãe das desgraças, causa da desobediência, começo da vergonha. A inveja nos expulsou do paraíso, feita serpente contra Eva. A inveja nos murou o acesso à árvore da vida e, despindo-nos das vestes santas, nos levou envergonhados às folhas da figueira.",
+    "temas": [
+      "a inveja dos irmãos",
+      "a inveja, raiz dos males"
+    ],
+    "resumo": "Ladainha da inveja: ela, que tirou o homem do paraíso, é a que se levanta contra Moisés.",
+    "relevancia": 3,
+    "direitos": "citação curta"
+  },
+  {
+    "id": "nissa-vm-2-258",
+    "autor": "São Gregório de Nissa",
+    "autor_id": "gregorio-nissa",
+    "datas": "c. 335–c. 395",
+    "titulo_autor": "bispo de Nissa, Padre da Capadócia",
+    "obra": "Vida de Moisés (De vita Moysis)",
+    "passagem": "Vida de Moisés II, 258",
+    "edicao": "PG 44, c. 413–416 (GNO VII/1, II, 258)",
+    "versiculos": [
+      1,
+      2
+    ],
+    "trecho": "1",
+    "lingua": "grc",
+    "original": "Φθόνος ὁ ταῖς εὐπραγίαις τῶν ἀνθρώπων ἐποδυνώμενος καὶ ταῖς συμφοραῖς ἐπεμβαίνων. Φθείρεσθαι τοὺς νεκροβόρους γύπας τῷ μύρῳ λέγουσι. Πρὸς γὰρ τὸ δυσῶδες καὶ διεφθορὸς αὐτῶν ἡ φύσις ᾠκείωται. Καὶ ὁ τῇ νόσῳ ταύτῃ κρατούμενος τῇ μὲν εὐημερίᾳ τῶν πέλας οἷόν τινος μύρου προσβολῇ καταφθείρεται, εἰ δέ τι πάθος ἐκ συμφορᾶς ἴδοι, πρὸς τοῦτο καθίπταται καὶ τὸ ἀγκύλον ἐπάγει στόμα, τὰ κεκρυμμένα ἐξέλκων τοῦ δυστυχήματος.",
+    "fonte_url": "http://khazarzar.skeptik.net/pgm/PG_Migne/Gregory%20of%20Nyssa_PG%2044-46/De%20vita%20Mosis.pdf",
+    "traducao_pt": "A inveja sofre com a felicidade dos homens e pisa nas suas desgraças. Dizem que os abutres que comem carniça morrem com o perfume, porque a natureza deles se acostumou ao que é fétido e podre. Assim também quem está tomado por esta doença se consome com o bem-estar dos outros como com o cheiro de um perfume; mas, se vê alguma dor nascida de uma desgraça, voa para ela e mete o bico curvo, arrancando o que estava escondido do infortúnio.",
+    "temas": [
+      "a inveja",
+      "a detração que busca o mal do outro"
+    ],
+    "resumo": "O invejoso é como o abutre: o bem dos outros o mata; o mal dos outros o atrai.",
+    "relevancia": 2,
+    "direitos": "citação curta"
+  },
+  {
+    "id": "nazianzeno-or-36-5",
+    "autor": "São Gregório Nazianzeno",
+    "autor_id": "gregorio-nazianzeno",
+    "datas": "c. 329–390",
+    "titulo_autor": "bispo de Constantinopla, «o Teólogo», Doutor da Igreja",
+    "obra": "Discurso 36 (Sobre si mesmo)",
+    "passagem": "Or. 36, 5",
+    "edicao": "PG 36, 269–272",
+    "versiculos": [
+      1,
+      2,
+      10
+    ],
+    "trecho": "1",
+    "lingua": "grc",
+    "original": "Ὡς ἀπόλοιτο ἐξ ἀνθρώπων ὁ φθόνος, ἡ δαπάνη τῶν ἐχόντων, ὁ τῶν πασχόντων ἰὸς, τὸ μόνον τῶν παθῶν ἀδικώτατόν τε ἅμα καὶ δικαιότατον· τὸ μὲν, ὅτι πᾶσι διοχλεῖ τοῖς καλοῖς· τὸ δὲ, ὅτι τήκει τοὺς ἔχοντας. […] Οὗτος καὶ Δαθὰν καὶ Ἀβειρὼν κατέχωσε κατὰ Μωσέως μανέντας, καὶ Μαριὰμ ἐλέπρωσε κατὰ τοῦ ἀδελφοῦ μόνον γογγύσασαν.",
+    "fonte_url": "http://khazarzar.skeptik.net/pgm/PG_Migne/Gregory%20of%20Nazianzus_PG%2035-38/",
+    "traducao_pt": "Pereça dentre os homens a inveja, que devora quem a tem e envenena quem a sofre, a mais injusta e ao mesmo tempo a mais justa das paixões: injusta, porque perturba todos os que são bons; justa, porque consome os que a têm. […] Ela soterrou Datã e Abiram, enfurecidos contra Moisés, e cobriu de lepra Maria, que só tinha murmurado contra o irmão.",
+    "temas": [
+      "a inveja",
+      "a murmuração contra Moisés",
+      "a lepra de Maria"
+    ],
+    "resumo": "A inveja, que consome quem a tem, foi o que fez Maria leprosa por ter «só murmurado» contra o irmão.",
+    "relevancia": 2,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "nissa-castigatione",
+    "autor": "São Gregório de Nissa",
+    "autor_id": "gregorio-nissa",
+    "datas": "c. 335–c. 395",
+    "titulo_autor": "bispo de Nissa, Padre da Capadócia",
+    "obra": "Contra os que levam a mal as repreensões (Adversus eos qui castigationes aegre ferunt)",
+    "passagem": "Adv. castig.",
+    "edicao": "PG 46, 316",
+    "versiculos": [
+      1,
+      2
+    ],
+    "trecho": "1",
+    "lingua": "grc",
+    "original": "Καὶ τοσοῦτόν γέ ἐστιν εὐπρόσκρουστον προστασία λαοῦ καὶ τὸ διδασκαλικὸν ἐπιτήδευμα, ὥστε οὐδὲ οἱ ἀδελφοὶ τοῦ Μωϋσέως ἐφείσαντο· ἀλλὰ καὶ Μαρία κατελάλει, καὶ Ἀρὼν ἐλοιδόρει, καὶ τὸ φορτικὸν τῆς ἀρχῆς τὴν φυσικὴν παρώξυνεν εὔνοιαν, καὶ τοὺς οἰκειοτάτους τῷ πολυμόχθῳ ἀνδρὶ ἐπανέστησεν. Ἀλλ' οὐδὲν περὶ τοῦτο· ὁ μὲν γὰρ ἦν Μωϋσῆς, καὶ οὐδὲν ἑαυτοῦ χείρων ἐγένετο· οἱ δὲ τῶν εἰς τὸν ἡγεμόνα πλημμελημάτων παρὰ Θεοῦ τὰς δίκας καὶ ἀπῃτήθησαν, καὶ ἀπέτισαν.",
+    "fonte_url": "http://khazarzar.skeptik.net/pgm/PG_Migne/Gregory%20of%20Nyssa_PG%2044-46/",
+    "traducao_pt": "Tão exposto a ofensas é o governo do povo e o ofício de ensinar que nem os irmãos de Moisés o pouparam: também Maria o difamava e Aarão o insultava; o peso do cargo irritou o afeto natural e levantou contra aquele homem tão sofrido os que lhe eram mais próximos. Mas nada disso o atingiu: ele continuou sendo Moisés, e não ficou pior do que era; os outros, porém, tiveram de prestar contas a Deus pelas faltas contra o chefe, e pagaram.",
+    "temas": [
+      "a cruz de quem governa",
+      "a murmuração contra o superior",
+      "Moisés não piora com a ofensa"
+    ],
+    "resumo": "Quem guia os outros é alvo de críticas, até dos irmãos; Moisés continuou Moisés, e os que o difamaram responderam a Deus.",
+    "relevancia": 2,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "crisostomo-ps44-5",
+    "autor": "São João Crisóstomo",
+    "autor_id": "crisostomo",
+    "datas": "c. 349–407",
+    "titulo_autor": "bispo de Constantinopla, Doutor da Igreja",
+    "obra": "Comentário aos Salmos (Expositiones in Psalmos), Sl 44",
+    "passagem": "In Ps. 44, 5",
+    "edicao": "PG 55, 191–192",
+    "versiculos": [
+      3,
+      13
+    ],
+    "trecho": "1",
+    "lingua": "grc",
+    "original": "Ἐπεὶ καὶ Δαυῒδ καὶ Μωϋσῆς πρᾶοι ἦσαν. Διὸ περὶ μὲν ἐκείνου φησὶν ἡ Γραφή· Μνήσθητι, Κύριε, τοῦ Δαυῒδ καὶ πάσης τῆς πραότητος αὐτοῦ· περὶ δὲ Μωϋσέως, ὅτι Ἦν πραότατος Μωϋσῆς πάντων ἀνθρώπων τῶν ἐπὶ τῆς γῆς· ἀλλ' ὅμως φαίνονται οὗτοι οἱ πάντων πραότατοι, μάλιστα πάντων ἀμυνόμενοι. […] Τί δὲ Μωϋσῆς; Ὑπὲρ τῶν λιθασάντων αὐτὸν, ὑπὲρ τῶν ἀνελόντων, τό γε εἰς αὐτοὺς ἧκον, ἄκουσον τί φησιν· Εἰ μὲν ἀφῇς αὐτοῖς τὴν ἁμαρτίαν, ἄφες· εἰ δὲ μὴ, κἀμὲ ἐξάλειψον ἐκ τῆς βίβλου ἧς ἔγραψας. Ἑτέρων δὲ πάλιν αὐτὸν εἰς ζῆλον κινούντων, καὶ παροξυνόντων εἰς ἀγανάκτησιν, τὰ φιλόσοφα ἐκεῖνα ἐφθέγξατο ῥήματα λέγων· Τίς δώῃ πάντα τὸν λαὸν Κυρίου προφήτας εἶναι; Ὑπὲρ δὲ τῆς ἀδελφῆς πάλιν λοιδορησάσης αὐτὸν, ὅσην τίθεται τὴν ἱκετηρίαν!",
+    "fonte_url": "http://khazarzar.skeptik.net/pgm/PG_Migne/John%20Chrysostom_PG%2047-64/Expositiones%20in%20Psalmos.pdf",
+    "traducao_pt": "Também Davi e Moisés eram mansos. Por isso a Escritura diz daquele: «Lembra-te, Senhor, de Davi e de toda a sua mansidão»; e de Moisés: «Moisés era o mais manso de todos os homens da terra». E, no entanto, esses que eram os mais mansos de todos aparecem como os que mais defendem [a causa de Deus]. […] E Moisés? Ouve o que diz em favor dos que o apedrejavam, dos que, quanto deles dependia, o matavam: «Se perdoas o pecado deles, perdoa; senão, apaga-me também do livro que escreveste». E, quando outros o provocavam ao ciúme e o instigavam à indignação, disse aquelas palavras cheias de sabedoria: «Quem dera todo o povo do Senhor fosse profeta!». E pela irmã, quando ela o insultou, que súplica ele faz!",
+    "temas": [
+      "a mansidão de Moisés",
+      "a mansidão não é fraqueza",
+      "a oração por quem nos ofendeu"
+    ],
+    "resumo": "Moisés, o mais manso, é forte quando se trata de Deus e manso quando se trata de si: reza pelos que o apedrejam e pela irmã que o insultou.",
+    "relevancia": 2,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "crisostomo-1cor-1-2",
+    "autor": "São João Crisóstomo",
+    "autor_id": "crisostomo",
+    "datas": "c. 349–407",
+    "titulo_autor": "bispo de Constantinopla, Doutor da Igreja",
+    "obra": "Homilias sobre a 1ª carta aos Coríntios",
+    "passagem": "In 1 Cor. hom. 1, 2",
+    "edicao": "PG 61, 15",
+    "versiculos": [
+      3
+    ],
+    "trecho": "1",
+    "lingua": "grc",
+    "original": "Οὐδὲν οὕτω θαυμαστὸν ποιεῖ τὸν Χριστιανὸν, ὡς ταπεινοφροσύνη. Ἄκουσον γοῦν τοῦ Ἀβραὰμ λέγοντος· Ἐγὼ δέ εἰμι γῆ καὶ σποδός· καὶ τοῦ Θεοῦ περὶ Μωϋσέως πάλιν, ὅτι πραότατος ἦν πάντων ἀνθρώπων. Οὐδεὶς γὰρ ἐκείνου ταπεινότερος γέγονεν, ὃς δῆμον τοσοῦτον ἄγων, καὶ τὸν βασιλέα καὶ τὸ στρατόπεδον ἅπαν τῶν Αἰγυπτίων καθάπερ μυίας καταποντίσας, καὶ τοσαῦτα μὲν ἐν Αἰγύπτῳ, τοσαῦτα δὲ ἐπὶ τῆς Ἐρυθρᾶς θαλάσσης ἐργασάμενος καὶ ἐπὶ τῆς ἐρήμου, καὶ τοσαύτης ἀπολαύσας μαρτυρίας, ὡς εἷς τῶν πολλῶν ὢν, οὕτω διέκειτο· καὶ τοῦ κηδεστοῦ γαμβρὸς ταπεινότερος ἦν, καὶ ἐδέχετο τὴν παρ' ἐκείνου γνώμην.",
+    "fonte_url": "http://khazarzar.skeptik.net/pgm/PG_Migne/John%20Chrysostom_PG%2047-64/In%20epistulam%20i%20ad%20Corinthios.pdf",
+    "traducao_pt": "Nada torna o cristão tão admirável como a humildade. Ouve Abraão dizer: «Eu sou terra e cinza»; e Deus dizer de Moisés que era o mais manso de todos os homens. Ninguém foi mais humilde do que ele: guiando um povo tão grande, tendo afogado como moscas o rei e todo o exército dos egípcios, tendo feito tantas coisas no Egito, tantas no mar Vermelho e no deserto, e tendo recebido um testemunho tão grande, sentia-se como um qualquer; era, como genro, mais humilde que o sogro, e aceitava o conselho dele.",
+    "temas": [
+      "a mansidão e a humildade de Moisés"
+    ],
+    "resumo": "A mansidão de Moisés é humildade: o maior dos chefes aceitava conselho do sogro, como um qualquer.",
+    "relevancia": 2,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "cirilo-glaph-num-12-3a",
+    "autor": "São Cirilo de Alexandria",
+    "autor_id": "cirilo",
+    "datas": "c. 376–444",
+    "titulo_autor": "patriarca de Alexandria, Doutor da Igreja",
+    "obra": "Comentários elegantes ao Pentateuco (Glaphyra in Numeros)",
+    "passagem": "Glaph. in Num., 3",
+    "edicao": "PG 69, 600",
+    "versiculos": [
+      6,
+      7,
+      8
+    ],
+    "trecho": "2",
+    "lingua": "grc",
+    "original": "Μωσῆς τὸ ἐξαίρετον, ἐν θεοπτίαις παρὰ τοὺς ἄλλους διὰ τούτου τετήρηται, καὶ τὸ ἐξηλλαγμένως δύνασθαι τῶν θείων παρακροᾶσθαι λόγων, ἐπεμαρτυρήθη καλῶς. Τοῦτο δ' ἂν ἴδοις ἀληθέστερον ἐπὶ Χριστῷ. Οὐ γὰρ ὥσπερ ἐν προφήταις ἐλάλησεν ὁ Θεὸς καὶ Πατὴρ, οὕτω καὶ ἐν Υἱῷ. Ἀλλ' οἱ μὲν οὖν διὰ τοῦ Πνεύματος ἐχορηγοῦντο τὴν γνῶσιν ὧν ἔδει μαθεῖν. Ὁ δὲ οἶδεν οὐ διδακτῶς τὰ ἐν πνεύματι βουλεύματα, ὡς σοφία καὶ βουλὴ τοῦ γεννήσαντος. Καὶ οἱ μὲν μακάριοι προφῆται τὴν δι' αἰνιγμάτων ἐδέχοντο θεωρίαν τῆς δόξης αὐτοῦ. Θεὸν γὰρ οὐδεὶς ἑώρακε πώποτε. Θεωρεῖται δὲ μόνῳ τῷ κατὰ φύσιν Υἱῷ.",
+    "fonte_url": "http://khazarzar.skeptik.net/pgm/PG_Migne/Cyril%20of%20Alexandria_PG%2068-77/Glaphyra%20in%20Pentateuchum.pdf",
+    "traducao_pt": "Assim se guarda para Moisés o privilégio nas visões de Deus acima dos outros, e com razão se dá testemunho de que ele podia ouvir as palavras divinas de modo diferente. Mas isto poderás ver com mais verdade em Cristo. Pois Deus Pai não falou no Filho como falou nos profetas. Estes recebiam do Espírito o conhecimento do que deviam aprender; ele, porém, conhece sem ser ensinado os desígnios do Espírito, porque é a Sabedoria e o Conselho de quem o gerou. Os bem-aventurados profetas recebiam por enigmas a visão da glória de Deus, pois «ninguém jamais viu a Deus»; mas ele é visto pelo único que é Filho por natureza.",
+    "temas": [
+      "Moisés, o maior dos profetas",
+      "Cristo, mais que Moisés",
+      "ver a Deus"
+    ],
+    "resumo": "Moisés tem o privilégio de ouvir a Deus «boca a boca»; mas isso se cumpre em verdade só no Filho, que vê o Pai.",
+    "relevancia": 3,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "cirilo-glaph-num-12-3b",
+    "autor": "São Cirilo de Alexandria",
+    "autor_id": "cirilo",
+    "datas": "c. 376–444",
+    "titulo_autor": "patriarca de Alexandria, Doutor da Igreja",
+    "obra": "Comentários elegantes ao Pentateuco (Glaphyra in Numeros)",
+    "passagem": "Glaph. in Num., 3",
+    "edicao": "PG 69, 600–601",
+    "versiculos": [
+      7
+    ],
+    "trecho": "2",
+    "lingua": "grc",
+    "original": "Εἰσφέρει γε μὴν καὶ πολλὴν ὁ λόγος τὴν ἐπὶ Χριστῷ διαφορὰν, ὡς πρὸς ἅπαντας τοὺς ἐτέρους, Ἐν ὅλῳ γὰρ τῷ οἴκῳ μου πιστός ἐστιν. Ἢ οὐχὶ διὰ τούτου μερικὴν μέν τινα καὶ συμμεμετρημένην τὴν οἰκονομίαν ἐπιδεικνύει, τὴν διὰ νόμου καὶ προφητῶν; γενικὴν δὲ καὶ καθόλου τὴν διὰ Χριστοῦ; Ὁ μὲν γὰρ νόμος ἕνα τὸν ἐξ Ἰσραὴλ ἔσωζεν οἶκον· Χριστὸς δὲ οὐχ οὕτως, σύμπαντά τε τὸν κόσμον διὰ πίστεως τῆς εἰς αὐτὸν, καὶ δι' αἵματος τοῦ ἰδίου ἀγοράζων, κατὰ τὸ γεγραμμένον, τῷ Θεῷ καὶ Πατρί.",
+    "fonte_url": "http://khazarzar.skeptik.net/pgm/PG_Migne/Cyril%20of%20Alexandria_PG%2068-77/Glaphyra%20in%20Pentateuchum.pdf",
+    "traducao_pt": "A palavra mostra também uma grande diferença entre Cristo e todos os outros: «Ele é fiel em toda a minha casa». Não mostra ela, por isso, que a economia da Lei e dos profetas era parcial e medida, e geral e universal a de Cristo? Pois a Lei salvava uma só casa, a de Israel; Cristo não: ele resgata para Deus Pai o mundo inteiro, pela fé nele e pelo seu próprio sangue, como está escrito.",
+    "temas": [
+      "fiel em toda a minha casa (Hb 3,2–6)",
+      "Cristo salva o mundo inteiro"
+    ],
+    "resumo": "«Fiel em toda a casa»: Moisés cuidava de uma casa, Israel; Cristo resgata o mundo todo.",
+    "relevancia": 2,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "teodoreto-qnum-22b",
+    "autor": "Teodoreto de Ciro",
+    "autor_id": "teodoreto",
+    "datas": "c. 393–c. 460",
+    "titulo_autor": "bispo de Ciro, exegeta da escola de Antioquia",
+    "obra": "Questões sobre Números (Quaestiones in Numeros)",
+    "passagem": "Quaest. in Num. 22",
+    "edicao": "PG 80, 376",
+    "versiculos": [
+      8,
+      9,
+      10
+    ],
+    "trecho": "2",
+    "lingua": "grc",
+    "original": "ἀληθὴς ἄρα ὁ λόγος ἐκεῖνος, ὁ φάσκων· \" ἐμοὶ ἐκδίκησις, ἐγὼ ἀνταποδώσω λέγει Κύριος \". διδασκόμεθα γὰρ καὶ διὰ τούτων καὶ δι' ἐκείνων, μὴ ἀμύνεσθαι τοὺς ἀδικοῦντας, ἀλλὰ τὴν θείαν ψῆφον προσμένειν, μάλα τῶν ἀδικουμένων προμηθουμένην, ὥσπερ ἀμέλει καὶ τότε Μωϋσῆ σιγῶντος τῇ Μαριὰμ τὴν λέπραν ἐπήνεγκεν.",
+    "fonte_url": "http://khazarzar.skeptik.net/pgm/PG_Migne/Theodoretus%20of%20Cyrrhus_PG%2080-84/Quaestiones%20in%20Octateuchum.pdf",
+    "traducao_pt": "É verdadeira, portanto, aquela palavra que diz: «A mim pertence a vingança; eu retribuirei, diz o Senhor». Por estas e por aquelas passagens aprendemos a não nos vingar de quem nos faz injustiça, mas a esperar a sentença divina, que cuida muito dos injustiçados, como naquela ocasião em que, enquanto Moisés se calava, [Deus] mandou a lepra a Maria.",
+    "temas": [
+      "Deus defende o manso",
+      "não se vingar",
+      "o silêncio de Moisés"
+    ],
+    "resumo": "Moisés se cala e Deus o defende: lição para não revidar e esperar a justiça de Deus.",
+    "relevancia": 3,
+    "direitos": "domínio público (texto conferido com a PG 80)"
+  },
+  {
+    "id": "ireneu-ah-4-20-9",
+    "autor": "Santo Ireneu de Lião",
+    "autor_id": "ireneu",
+    "datas": "c. 130–c. 202",
+    "titulo_autor": "bispo de Lião, mártir, Doutor da Igreja",
+    "obra": "Contra as heresias (Adversus haereses)",
+    "passagem": "Adv. haer. IV, 20, 9",
+    "edicao": "ed. Massuet IV, 20, 9 (PG 7); ed. Harvey II, 220–221",
+    "versiculos": [
+      8
+    ],
+    "trecho": "2",
+    "lingua": "la",
+    "original": "Et Verbum quidem loquebatur Moysi apparens in conspectu, quemadmodum si quis loquatur ad amicum suum. Moyses vero cupivit manifeste videre eum qui secum loqueretur […]. Et propter hoc facie ad faciem confabulatus est cum eo in altitudine montis, adsistente etiam Helia, quemadmodum Evangelium retulit, restituens in fine pristinam repromissionem. Non igitur manifeste ipsam faciem Dei videbant prophetae, sed dispositiones et mysteria, per quae inciperet homo videre Deum.",
+    "fonte_url": "https://archive.org/details/sanctiirenaeiep00harvgoog",
+    "traducao_pt": "O Verbo falava a Moisés aparecendo diante dele, como alguém fala com o seu amigo. Mas Moisés desejou ver claramente aquele que falava com ele […]. Por isso [o Verbo] conversou face a face com ele no alto do monte, estando presente também Elias, como contou o Evangelho, cumprindo no fim a promessa antiga. Os profetas, portanto, não viam claramente a própria face de Deus, mas os desígnios e os mistérios pelos quais o homem começaria a ver a Deus.",
+    "temas": [
+      "boca a boca: Moisés e o Verbo",
+      "Moisés viu a Deus?",
+      "a Transfiguração cumpre a promessa"
+    ],
+    "resumo": "Quem falava com Moisés «como a um amigo» era o Verbo; a promessa de vê-lo face a face se cumpriu no Tabor, na Transfiguração.",
+    "relevancia": 3,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "basilio-hex-1-1",
+    "autor": "São Basílio Magno",
+    "autor_id": "basilio",
+    "datas": "c. 330–379",
+    "titulo_autor": "bispo de Cesareia da Capadócia, Doutor da Igreja",
+    "obra": "Homilias sobre o Hexaémeron",
+    "passagem": "Hex. 1, 1",
+    "edicao": "PG 29, 4–5",
+    "versiculos": [
+      6,
+      7,
+      8
+    ],
+    "trecho": "2",
+    "lingua": "grc",
+    "original": "Ὃς ὀγδοηκοστὸν ἤδη γεγονὼς ἔτος, εἶδε Θεὸν ὡς ἀνθρώπῳ ἰδεῖν δυνατὸν, μᾶλλον δὲ ὡς οὐδενὶ τῶν ἄλλων ὑπῆρξε κατὰ τὴν μαρτυρίαν αὐτὴν τοῦ Θεοῦ, ὅτι Ἐὰν γένηται προφήτης ὑμῶν τῷ Κυρίῳ, ἐν ὁράματι αὐτῷ γνωσθήσομαι, καὶ ἐν ὕπνῳ λαλήσω αὐτῷ. Οὐχ οὕτως ὡς ὁ θεράπων μου Μωϋσῆς, ἐν ὅλῳ τῷ οἴκῳ μου πιστός ἐστι· στόμα κατὰ στόμα λαλήσω αὐτῷ, ἐν εἴδει, καὶ οὐ δι' αἰνιγμάτων. Οὗτος τοίνυν ὁ τῆς αὐτοπροσώπου θέας τοῦ Θεοῦ ἐξίσου τοῖς ἀγγέλοις ἀξιωθεὶς, ἐξ ὧν ἤκουσε παρὰ τοῦ Θεοῦ διαλέγεται ἡμῖν. Ἀκούσωμεν τοίνυν ἀληθείας ῥημάτων οὐκ ἐν πειθοῖς σοφίας ἀνθρωπίνης, ἀλλ' ἐν διδακτοῖς Πνεύματος λαληθεῖσιν· ὧν τὸ τέλος οὐχ ὁ τῶν ἀκουόντων ἔπαινος, ἀλλ' ἡ σωτηρία τῶν διδασκομένων.",
+    "fonte_url": "http://khazarzar.skeptik.net/pgm/PG_Migne/Basilius%20Caesariensis_PG%2029-32/Homiliae%20in%20hexaemeron.pdf",
+    "traducao_pt": "Com oitenta anos, ele viu a Deus como é possível a um homem ver, ou melhor, como não foi dado a nenhum outro, segundo o testemunho do próprio Deus: «Se houver entre vós um profeta do Senhor, eu me darei a conhecer a ele em visão e lhe falarei em sonho. Não é assim com o meu servo Moisés, que é fiel em toda a minha casa: boca a boca lhe falarei, claramente e não por enigmas». Pois é este, que foi julgado digno, como os anjos, de ver a Deus face a face, quem nos fala do que ouviu de Deus. Ouçamos, então, palavras de verdade, ditas não com discursos persuasivos da sabedoria humana, mas no ensinamento do Espírito; palavras cuja finalidade não é o aplauso de quem ouve, mas a salvação de quem aprende.",
+    "temas": [
+      "boca a boca: Moisés e Deus",
+      "Moisés, o maior dos profetas",
+      "a autoridade da Escritura"
+    ],
+    "resumo": "Basílio abre o Hexaémeron com Nm 12,6–8: confiamos no relato da criação porque quem o escreve falou com Deus face a face.",
+    "relevancia": 3,
+    "direitos": "domínio público (texto da PG 29)"
+  },
+  {
+    "id": "crisostomo-mt-78-4",
+    "autor": "São João Crisóstomo",
+    "autor_id": "crisostomo",
+    "datas": "c. 349–407",
+    "titulo_autor": "bispo de Constantinopla, Doutor da Igreja",
+    "obra": "Homilias sobre Mateus",
+    "passagem": "In Mt. hom. 78, 4",
+    "edicao": "PG 58, 716–717",
+    "versiculos": [
+      3,
+      8
+    ],
+    "trecho": "2",
+    "lingua": "grc",
+    "original": "Οὐχ οὕτως ἀσπάζεται προφητῶν στόμα, ὡς ἐπιεικῶν καὶ πράων ἀνθρώπων. Πολλοὶ γὰρ ἐροῦσί μοι, φησὶν, Οὐ τῷ σῷ ὀνόματι προεφητεύσαμεν; Καὶ ἐρῶ αὐτοῖς· Οὐκ οἶδα ὑμᾶς. Τὸ δὲ τοῦ Μωϋσέως, ἐπειδὴ σφόδρα ἐπιεικὴς ἦν καὶ πρᾶος, (Ὁ γὰρ Μωϋσῆς, φησὶν, ἄνθρωπος πραότατος παρὰ πάντας τοὺς ἀνθρώπους τοὺς ἐπὶ τῆς γῆς·) οὕτως ἠσπάζετο καὶ ἐφίλει, ὡς εἰπεῖν, Ἐνώπιος ἐνωπίῳ, στόμα κατὰ στόμα ἐλάλει, ὡσανεὶ φίλος πρὸς τὸν ἑαυτοῦ φίλον.",
+    "fonte_url": "http://khazarzar.skeptik.net/pgm/PG_Migne/John%20Chrysostom_PG%2047-64/In%20Matthaeum.pdf",
+    "traducao_pt": "[Deus] não beija tanto a boca dos profetas quanto a dos homens bondosos e mansos. Pois muitos me dirão, diz ele: «Não profetizamos em teu nome?», e eu lhes direi: «Não vos conheço». Mas a boca de Moisés, porque ele era muito bondoso e manso («Moisés», diz, «era o homem mais manso de todos os homens da terra»), assim ele a acolhia e a beijava, a ponto de dizer: falava com ele cara a cara, boca a boca, como um amigo com o seu amigo.",
+    "temas": [
+      "boca a boca: a amizade com Deus",
+      "a mansidão de Moisés"
+    ],
+    "resumo": "Deus falou «boca a boca» com Moisés por causa da mansidão dele: Deus beija mais a boca dos mansos que a dos profetas.",
+    "relevancia": 3,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "nissa-cant-1",
+    "autor": "São Gregório de Nissa",
+    "autor_id": "gregorio-nissa",
+    "datas": "c. 335–c. 395",
+    "titulo_autor": "bispo de Nissa, Padre da Capadócia",
+    "obra": "Homilias sobre o Cântico dos Cânticos",
+    "passagem": "In Cant. hom. 1",
+    "edicao": "GNO VI, 31–32 (PG 44, c. 777)",
+    "versiculos": [
+      8
+    ],
+    "trecho": "2",
+    "lingua": "grc",
+    "original": "οὕτως ὁ Μωϋσῆς, ἡ νύμφη, τὸν νυμφίον ἐφίλει κατὰ τὴν ἐν τῷ Ἄισματι παρθένον τὴν λέγουσαν Φιλησάτω με ἀπὸ φιλημάτων στόματος αὐτοῦ, ὃς διὰ τῆς στόμα κατὰ στόμα γινομένης αὐτῷ παρὰ τοῦ θεοῦ ὁμιλίας, καθὼς μαρτυρεῖ ἡ γραφή, ἔτι ἐν ἐπιθυμίᾳ μείζονι τῶν τοιούτων φιλημάτων ἐγίνετο μετὰ τοσαύτας θεοφανείας ὡς μήπω τεθεαμένος ἰδεῖν ἀξιῶν τὸν ποθούμενον […]",
+    "fonte_url": "http://khazarzar.skeptik.net/pgm/PG_Migne/Gregory%20of%20Nyssa_PG%2044-46/In%20Canticum%20canticorum.pdf",
+    "traducao_pt": "Assim Moisés, a esposa, beijava o Esposo, como a virgem do Cântico que diz: «Beije-me com os beijos da sua boca»; ele, que pela conversa boca a boca que Deus tinha com ele, como atesta a Escritura, ficava num desejo ainda maior desses beijos depois de tantas aparições de Deus, pedindo para ver o Amado como se nunca o tivesse visto […].",
+    "temas": [
+      "boca a boca: a amizade com Deus",
+      "o desejo de Deus que não se sacia"
+    ],
+    "resumo": "Moisés, que falava com Deus boca a boca, é como a esposa do Cântico: quanto mais recebe, mais deseja.",
+    "relevancia": 3,
+    "direitos": "citação curta"
+  },
+  {
+    "id": "basilio-rbt-25",
+    "autor": "São Basílio Magno",
+    "autor_id": "basilio",
+    "datas": "c. 330–379",
+    "titulo_autor": "bispo de Cesareia da Capadócia, Doutor da Igreja",
+    "obra": "Regras breves (Regulae brevius tractatae)",
+    "passagem": "Reg. brev. 25",
+    "edicao": "PG 31, 1100–1101",
+    "versiculos": [
+      8
+    ],
+    "trecho": "2",
+    "lingua": "grc",
+    "original": "ΕΡΩΤΗΣΙΣ ΚΕʹ. Τί ἐστι καταλαλιά. ΑΠΟΚΡΙΣΙΣ. Δύο καιροὺς εἶναι ἡγοῦμαι, καθ' οὓς ἔξεστιν εἰπεῖν τι περί τινος φαῦλον· ὅτε ἀνάγκην ἔχει τις βουλεύσασθαι μετὰ καὶ ἑτέρων τῶν εἰς τοῦτο δεδοκιμασμένων πῶς διορθωθῇ ὁ ἡμαρτηκώς· καὶ πάλιν ὅταν χρεία γένηται ἀσφαλίσασθαί τινας τοὺς ἐξ ἀγνοίας δυναμένους πολλάκις συναναμιγῆναι τῷ κακῷ ὡς καλῷ, τοῦ Ἀποστόλου παραγγέλλοντος, μὴ συναναμίγνυσθαι τοῖς τοιούτοις, μή ποτε λάβῃ τις βρόχους τῇ ἑαυτοῦ ψυχῇ. Ὅπερ εὑρίσκομεν τὸν αὐτὸν Ἀπόστολον πεποιηκότα δι' ὧν γράφει Τιμοθέῳ, ὅτι Ἀλέξανδρος ὁ χαλκεὺς πολλά μοι κακὰ ἐνεδείξατο, ὃν καὶ σὺ φυλάσσου· λίαν γὰρ ἀνθέστηκε τοῖς ἡμετέροις λόγοις. Ἐκτὸς δὲ τῆς τοιαύτης ἀνάγκης ὁ λέγων τι κατά τινος, ἵνα αὐτὸ τοῦτο διαβάλῃ, ἢ διασύρῃ, κατάλαλός ἐστι, κἂν ἀληθὲς ᾖ τὸ λεγόμενον.",
+    "fonte_url": "http://khazarzar.skeptik.net/pgm/PG_Migne/Basilius%20Caesariensis_PG%2029-32/",
+    "traducao_pt": "Pergunta 25. O que é a detração? Resposta. Penso que há dois casos em que é permitido dizer algo de mal de alguém: quando é preciso se aconselhar com outros, aprovados para isso, sobre como corrigir quem pecou; e quando é necessário prevenir alguns que, por ignorância, poderiam muitas vezes se misturar com o mal como se fosse bem, já que o Apóstolo manda não se misturar com tais pessoas, para que ninguém ponha laço à própria alma. É o que vemos o mesmo Apóstolo fazer quando escreve a Timóteo: «Alexandre, o ferreiro, me fez muito mal; guarda-te também tu dele, porque se opôs fortemente às nossas palavras». Fora desse tipo de necessidade, quem diz algo contra alguém para difamá-lo ou ridicularizá-lo é detrator, mesmo que seja verdade o que diz.",
+    "temas": [
+      "a detração",
+      "quando é lícito falar dos defeitos alheios"
+    ],
+    "resumo": "Basílio define a detração: falar mal de alguém sem necessidade de corrigir ou prevenir é detração, mesmo que seja verdade.",
+    "relevancia": 2,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "basilio-rbt-26-27",
+    "autor": "São Basílio Magno",
+    "autor_id": "basilio",
+    "datas": "c. 330–379",
+    "titulo_autor": "bispo de Cesareia da Capadócia, Doutor da Igreja",
+    "obra": "Regras breves (Regulae brevius tractatae)",
+    "passagem": "Reg. brev. 26–27",
+    "edicao": "PG 31, 1101",
+    "versiculos": [
+      8,
+      10,
+      13
+    ],
+    "trecho": "2",
+    "lingua": "grc",
+    "original": "Ὁ καταλαλῶν ἀδελφοῦ, ἢ ἀκούων καταλαλοῦντος καὶ ἀνεχόμενος, τίνος, ἐστὶν ἄξιος. ΑΠΟΚΡΙΣΙΣ. Ἀφορισμοῦ καὶ ἀμφότεροι. Τὸν γὰρ καταλαλοῦντα λάθρα τοῦ πλησίον αὐτοῦ, τοῦτον ἐξεδίωκον. Καὶ ἀλλαχοῦ εἴρηται· Μὴ ἡδέως ἄκουε καταλαλοῦντος, ἵνα μὴ ἐξαρθῇς. ΕΡΩΤΗΣΙΣ ΚΖʹ. Ἐὰν δὲ τοῦ προεστῶτος καταλαλήσῃ, πῶς αὐτῷ προσέξομεν. ΑΠΟΚΡΙΣΙΣ. Φανερὸν τοῦτο τὸ κρῖμα ἐκ τῆς ὀργῆς τοῦ Θεοῦ, τῆς ἐπὶ Μαριὰμ, ἡνίκα κατελάλησε Μωϋσέως, ἧς τὸ ἁμάρτημα, οὐδὲ αὐτοῦ Μωϋσέως δεομένου, ἀνεκδίκητον ἀφῆκεν ὁ Θεός.",
+    "fonte_url": "http://khazarzar.skeptik.net/pgm/PG_Migne/Basilius%20Caesariensis_PG%2029-32/",
+    "traducao_pt": "[Pergunta 26.] Quem fala mal de um irmão, ou quem ouve alguém falar mal e o tolera, que merece? Resposta. Os dois merecem ser afastados [da comunidade]. Pois está escrito: «Quem difamava às ocultas o seu próximo, a esse eu expulsava». E em outro lugar: «Não ouças com gosto o detrator, para não seres arrancado». Pergunta 27. E se alguém fala mal do superior, como devemos tratá-lo? Resposta. A sentença está clara na ira de Deus contra Maria, quando ela falou mal de Moisés: Deus não deixou impune o seu pecado, nem mesmo quando o próprio Moisés pediu por ela.",
+    "temas": [
+      "a detração",
+      "falar mal do superior",
+      "também quem ouve a detração tem culpa"
+    ],
+    "resumo": "Nas Regras de Basílio, o castigo de Maria é a norma para quem fala mal do superior; e quem ouve a detração com gosto também é culpado.",
+    "relevancia": 3,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "crisostomo-hb-5-3",
+    "autor": "São João Crisóstomo",
+    "autor_id": "crisostomo",
+    "datas": "c. 349–407",
+    "titulo_autor": "bispo de Constantinopla, Doutor da Igreja",
+    "obra": "Homilias sobre a carta aos Hebreus",
+    "passagem": "In Hebr. hom. 5, 2–3",
+    "edicao": "PG 63, 48–49",
+    "versiculos": [
+      7
+    ],
+    "trecho": "2",
+    "lingua": "grc",
+    "original": "Καθάπερ γάρ τις ἐπίτροπος καὶ οἰκονόμος οἰκίας, οὕτως ἦν ὁ Μωϋσῆς ἐν τῷ λαῷ. Ὅτι γὰρ οἶκον ἐνταῦθα τὸν λαόν φησιν, ἐπήγαγεν, Οὗ οἶκός ἐσμεν ἡμεῖς· τουτέστιν· Ἐν τῇ κτίσει αὐτοῦ ἐσμεν. […] Καὶ Μωϋσῆς μὲν πιστὸς ἐν ὅλῳ τῷ οἴκῳ αὐτοῦ, ὡς θεράπων, εἰς μαρτύριον τῶν λαληθησομένων. Ἰδοὺ καὶ ἄλλη ὑπεροχὴ ἡ ἀπὸ τοῦ Υἱοῦ καὶ τῶν δούλων. Ὁρᾷς πάλιν ὅτι γνησιότητα διὰ τῆς τοῦ Υἱοῦ προσηγορίας αἰνίττεται; Χριστὸς δὲ, ὡς Υἱὸς ἐπὶ τὸν οἶκον αὐτοῦ. Εἶδες πῶς ποίημα καὶ ποιητὴν διίστησι, πῶς δοῦλον καὶ Υἱόν; κἀκεῖνος μὲν εἰς τὰ πατρῷα ὡς Δεσπότης εἰσέρχεται, οὗτος δὲ ὡς δοῦλος.",
+    "fonte_url": "http://khazarzar.skeptik.net/pgm/PG_Migne/John%20Chrysostom_PG%2047-64/In%20epistulam%20ad%20Hebraeos.pdf",
+    "traducao_pt": "Como um administrador e ecônomo de uma casa, assim era Moisés no meio do povo. Que aqui chama de casa o povo, mostra-o quando acrescenta: «Casa que somos nós», isto é: somos obra sua. […] «Moisés foi fiel em toda a casa dele, como servo, para dar testemunho do que havia de ser dito». Eis outra superioridade, a do Filho sobre os servos. Vês de novo como, pelo nome de Filho, ele dá a entender que é Filho legítimo? «Cristo, porém, como Filho, está à frente da sua casa». Vês como distingue a obra e o artífice, o servo e o Filho? Um entra nos bens do Pai como Senhor; o outro, como servo.",
+    "temas": [
+      "fiel em toda a minha casa (Hb 3,2–6)",
+      "Moisés servo, Cristo Filho",
+      "a casa de Deus é o povo"
+    ],
+    "resumo": "Comentando Hb 3, Crisóstomo explica Nm 12,7: a «casa» é o povo; Moisés era nela ecônomo fiel, servo; Cristo é o Filho e Senhor da casa.",
+    "relevancia": 2,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "cirilo-glaph-num-12-3c",
+    "autor": "São Cirilo de Alexandria",
+    "autor_id": "cirilo",
+    "datas": "c. 376–444",
+    "titulo_autor": "patriarca de Alexandria, Doutor da Igreja",
+    "obra": "Comentários elegantes ao Pentateuco (Glaphyra in Numeros)",
+    "passagem": "Glaph. in Num., 3",
+    "edicao": "PG 69, 601",
+    "versiculos": [
+      9,
+      10
+    ],
+    "trecho": "3",
+    "lingua": "grc",
+    "original": "Λεπρῶσα δὲ παραχρῆμα ἐφαίνετο Μαριὰμ, καὶ οὐχ ἀπλῶς, ἀλλ' ὡς χιών. Καὶ γὰρ ταῖς εἰς Χριστὸν παροινίαις, καὶ τοῖς ἀνοσίοις τῶν Ἰουδαίων τολμήμασιν ἐπασχάλλουσα, καὶ διατεθεῖσα πικρῶς ἀνέπτη τρόπον τινὰ, καὶ ἀναπεφοίτηκε τῆς Συναγωγῆς, ἡ θεία τε καὶ ἀκήρατος φύσις, κατὰ τὸ εἰρημένον παρὰ Χριστοῦ· Ἐγκαταλέλοιπα τὸν οἶκόν μου, ἀφῆκα τὴν κληρονομίαν μου. Καταβεβηκὼς γὰρ ὁ Κύριος ἐν στύλῳ νεφέλης ὡς νεφέλη πάλιν ἀποφοιτᾷ, κατὰ τὸν ἐν γράμματι τύπον. Ἐπειδὴ δὲ τῆς τῶν Ἰουδαίων Συναγωγῆς εἰκότως ἀπενοσφίζετο, ἀκάθαρτος ἀνεδείχθη παραχρῆμα· καὶ ἀκάθαρτος οὐχ ἁπλῶς, ἀλλ' εἰς ἀκρότητα δραμοῦσα τοῦ πάθους. Τὸ γὰρ σφόδρα καταλευκαίνεσθαι τὸν λεπρωθέντα λέγειν, τῆς νόσου τὴν ἐπίτασιν ἔχει. Τί δ' ἂν γένοιτο χιόνος τὸ λευκότερον;",
+    "fonte_url": "http://khazarzar.skeptik.net/pgm/PG_Migne/Cyril%20of%20Alexandria_PG%2068-77/Glaphyra%20in%20Pentateuchum.pdf",
+    "traducao_pt": "Maria logo apareceu leprosa, e não de qualquer modo, mas como a neve. Pois, irritada com os ultrajes contra Cristo e com as audácias ímpias dos judeus, e ferida com amargura, a natureza divina e pura como que levantou voo e se afastou da Sinagoga, segundo o que Cristo disse: «Abandonei a minha casa, deixei a minha herança». O Senhor, que tinha descido na coluna de nuvem, retira-se de novo como nuvem, conforme a figura da letra. E, uma vez que se afastou, com razão, da Sinagoga dos judeus, ela logo se mostrou impura; e impura não de qualquer modo, mas chegando ao extremo da doença. Dizer que o leproso ficou muito branco indica a gravidade da doença. E o que há de mais branco que a neve?",
+    "temas": [
+      "a lepra de Maria",
+      "a nuvem que se retira: Deus deixa a Sinagoga",
+      "a lepra, figura do pecado"
+    ],
+    "resumo": "A nuvem se retira e Maria fica leprosa: quando a graça de Deus deixa a Sinagoga, ela aparece impura ao extremo.",
+    "relevancia": 2,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "teodoreto-qnum-23",
+    "autor": "Teodoreto de Ciro",
+    "autor_id": "teodoreto",
+    "datas": "c. 393–c. 460",
+    "titulo_autor": "bispo de Ciro, exegeta da escola de Antioquia",
+    "obra": "Questões sobre Números (Quaestiones in Numeros)",
+    "passagem": "Quaest. in Num. 23",
+    "edicao": "PG 80, 376",
+    "versiculos": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      15
+    ],
+    "trecho": "3",
+    "lingua": "grc",
+    "original": "Τί δήποτε τῶν δύο λελοιδορηκότων, ἐκείνη δίκας ἔτισε μόνη; Πρῶτον ἐπειδὴ μεῖζον ἦν τῆς γυναικὸς τὸ πλημμέλημα· τῷ ἄρρενι γὰρ καὶ ἡ φύσις καὶ ὁ νόμος ὑποτάττει τὸ θῆλυ. ἔπειτα εἶχέ τινα μετρίαν συγγνώμην ὁ Ἀαρών, καὶ ὡς τῷ χρόνῳ πρεσβύτερος, καὶ ὡς ἀρχιερωσύνης ἠξιωμένος. πρὸς δὲ τούτοις, ἐπειδὴ ἀκάθαρτος ὁ λεπρὸς ἐδόκει εἶναι κατὰ τὸν νόμον, ῥίζα δὲ τῶν ἱερέων καὶ κρηπὶς ἦν ὁ Ἀαρών, ἵνα μὴ εἰς ἅπαν διαβῇ τὸ γένος τὸ ὄνειδος, τὴν ἴσην οὐκ ἐπήγαγεν αὐτῷ τιμωρίαν, ἀλλὰ διὰ τῆς ἀδελφῆς ἐφόβησεν ὁμοῦ καὶ ἐπαίδευσεν. οὕτω γὰρ αὐτὸν τὸ πάθος ἠνίασεν, ὅτι πρὸ τῆς τοῦτο δεξαμένης αὐτὸς τὸν ἠδικημένον ἱκέτευσε λῦσαι τῇ πρεσβείᾳ τὴν συμφοράν· ὁ δὲ οὐκ ἠμέλησεν, ἀλλ' αὐτίκα τὴν ἱκετηρίαν προσήνεγκεν. εἶτα ὁ φιλάνθρωπος ἐδίδαξε Κύριος, ὡς οὐ δικαστικῶς αὐτήν, ἀλλὰ πατρικῶς ἐπαίδευσεν. ἔφη γάρ, \" εἰ ὁ πατὴρ αὐτῆς ἐμπτύων ἐνέπτυσεν εἰς τὸ πρόσωπον αὐτῆς, οὐκ ἐντραπήσεται; ἑπτὰ ἡμέρας ἀφορισθήσεται ἔξω τῆς παρεμβολῆς, καὶ μετὰ ταῦτα εἰσελεύσεται \". συνέζευκται δὲ καὶ τιμὴ τῇ ἀτιμίᾳ· οὐκ ἀπῆρε γὰρ ὁ λαὸς ἕως ἀπηλλάγη τοῦ πάθους.",
+    "fonte_url": "http://khazarzar.skeptik.net/pgm/PG_Migne/Theodoretus%20of%20Cyrrhus_PG%2080-84/Quaestiones%20in%20Octateuchum.pdf",
+    "traducao_pt": "Por que, se foram dois os que insultaram, só ela foi castigada? Primeiro, porque a falta da mulher era maior: a natureza e a lei sujeitam a mulher ao homem. Depois, Aarão merecia alguma indulgência, por ser mais velho e por ter sido honrado com o sumo sacerdócio. Além disso, como pela lei o leproso era tido por impuro, e Aarão era a raiz e o fundamento dos sacerdotes, para que a vergonha não passasse a toda a descendência, [Deus] não lhe deu o mesmo castigo, mas, pela irmã, o assustou e o corrigiu ao mesmo tempo. E a dor o feriu tanto que, antes daquela que a recebera, ele mesmo suplicou ao ofendido que desfizesse a desgraça com a sua intercessão; e este não descuidou, mas logo apresentou a súplica. Então o Senhor, que ama os homens, ensinou que a corrigia não como juiz, mas como pai. Disse: «Se o pai dela lhe tivesse cuspido no rosto, ela não ficaria envergonhada? Fique sete dias fora do acampamento e depois voltará». E à desonra juntou-se uma honra: o povo não partiu enquanto ela não ficou livre do mal.",
+    "temas": [
+      "a lepra de Maria",
+      "por que Aarão não ficou leproso",
+      "a oração de Moisés",
+      "Deus corrige como pai",
+      "o povo espera Maria"
+    ],
+    "resumo": "Por que só Maria ficou leprosa; Aarão pede ao ofendido, Moisés reza logo, e Deus corrige como pai; e o povo espera por ela.",
+    "relevancia": 3,
+    "direitos": "domínio público (texto conferido com a PG 80)"
+  },
+  {
+    "id": "cirilo-glaph-num-12-4a",
+    "autor": "São Cirilo de Alexandria",
+    "autor_id": "cirilo",
+    "datas": "c. 376–444",
+    "titulo_autor": "patriarca de Alexandria, Doutor da Igreja",
+    "obra": "Comentários elegantes ao Pentateuco (Glaphyra in Numeros)",
+    "passagem": "Glaph. in Num., 4",
+    "edicao": "PG 69, 604",
+    "versiculos": [
+      13,
+      14
+    ],
+    "trecho": "3",
+    "lingua": "grc",
+    "original": "Ἡμῖν ὡς ἐν εἰκόνι διαδεικνύοντος τοῦ λόγου, ὅτι ταχεῖα μὲν εἰς ἐλεεῖν, καὶ τρόπον τινὰ πρὸς τὸ παρακαλεῖν ἑαυτὴν ἡ θεία φύσις ἑτοιμοτάτη, τῷ δὲ πλήθει πολλάκις ἢ τῷ μεγέθει τῶν ἡμετέρων πταισμάτων ἀποτραχύνεται, καὶ τὴν ἐπὶ τοῖς ἐνόχοις φιλανθρωπίαν ἀναδύεται. Σημαίνει δὲ κἀκεῖνο, κατά γε τὸν ἡμέτερον νοῦν, ὅτι πολλὴ μὲν ἁγίων πρεσβεία ἀναβέβηκε πρὸς τὸν Θεὸν, ὑπὲρ τοῦ Ἰσραήλ· οὐκ ἐνδεχομένου δὲ τοῦ μὴ κολασθήσεσθαι πρέπειν αὐτὸν, οὐκ ἐπὶ τοῖς τυχοῦσι κατεγνωσμένων, δεύτερον ἐτίθει τῆς δίκης τὸν ἔλεον.",
+    "fonte_url": "http://khazarzar.skeptik.net/pgm/PG_Migne/Cyril%20of%20Alexandria_PG%2068-77/Glaphyra%20in%20Pentateuchum.pdf",
+    "traducao_pt": "A palavra nos mostra, como numa imagem, que a natureza divina é rápida para ter compaixão e, de certo modo, prontíssima a deixar-se suplicar; mas muitas vezes, pela quantidade ou pela gravidade das nossas faltas, ela se torna severa e retarda a bondade para com os culpados. E isto também significa, a meu ver, que subiu a Deus uma grande intercessão dos santos por Israel; mas, como não convinha que ficasse sem castigo, condenado por faltas nada comuns, [Deus] pôs a misericórdia depois da justiça.",
+    "temas": [
+      "a oração de Moisés",
+      "Deus pronto a perdoar",
+      "justiça e misericórdia"
+    ],
+    "resumo": "Deus é rápido em ter misericórdia, mas às vezes a gravidade do pecado faz a misericórdia vir depois da justiça.",
+    "relevancia": 2,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "cirilo-glaph-num-12-4b",
+    "autor": "São Cirilo de Alexandria",
+    "autor_id": "cirilo",
+    "datas": "c. 376–444",
+    "titulo_autor": "patriarca de Alexandria, Doutor da Igreja",
+    "obra": "Comentários elegantes ao Pentateuco (Glaphyra in Numeros)",
+    "passagem": "Glaph. in Num., 4",
+    "edicao": "PG 69, 604–605",
+    "versiculos": [
+      14,
+      15
+    ],
+    "trecho": "3",
+    "lingua": "grc",
+    "original": "Ἐκπέμπεται τοίνυν ἡ Μαριὰμ ἐπὶ τῇ λέπρᾳ κάτοχος. Ἀλλ' οὐκ ἐξῇρε, φησὶν, ὁ λαὸς, ἕως ἐκαθαρίσθη Μαριάμ. Περιμενοῦμεν γὰρ καὶ ἡμεῖς οἱ πιστεύοντες εἰς Χριστὸν τὸν τῶν Ἰουδαίων καθαρισμὸν, δῆλον δὲ ὅτι τὸν διὰ πίστεως. Οὕτω τε τὸ λοιπὸν τὰς ἐν τῷδε τῷ βίῳ καταλιπόντες σκηνὰς, ἐπὶ τὴν ἄνω πόλιν ἀναζεύξομεν, καὶ εἰς τὴν τῆς ἐπαγγελίας ἀναδραμούμεθα γῆν.",
+    "fonte_url": "http://khazarzar.skeptik.net/pgm/PG_Migne/Cyril%20of%20Alexandria_PG%2068-77/Glaphyra%20in%20Pentateuchum.pdf",
+    "traducao_pt": "Maria é mandada para fora, presa da lepra. Mas o povo, diz [a Escritura], não partiu enquanto Maria não foi purificada. Pois também nós, os que cremos em Cristo, esperaremos a purificação dos judeus, evidentemente a que vem pela fé. E assim, deixando no fim as tendas desta vida, partiremos para a cidade do alto e subiremos à terra da promessa.",
+    "temas": [
+      "o povo espera Maria",
+      "a esperança da conversão de Israel",
+      "a caminhada para a terra prometida"
+    ],
+    "resumo": "O povo que espera Maria para partir é a Igreja, que espera a purificação de Israel pela fé antes de entrar na pátria do céu.",
+    "relevancia": 3,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "crisostomo-statuis-20-4",
+    "autor": "São João Crisóstomo",
+    "autor_id": "crisostomo",
+    "datas": "c. 349–407",
+    "titulo_autor": "bispo de Constantinopla, Doutor da Igreja",
+    "obra": "Homilias ao povo de Antioquia (Sobre as estátuas)",
+    "passagem": "Ad pop. Ant. hom. 20, 4",
+    "edicao": "PG 49, 202–203",
+    "versiculos": [
+      1,
+      13,
+      14
+    ],
+    "trecho": "3",
+    "lingua": "grc",
+    "original": "Κατελάλησέ ποτε τοῦ Μωϋσέως ἡ Μαρία· τί οὖν ὁ Θεός; Λέπραν ἐπαφῆκεν αὐτῇ, καὶ ἀκάθαρτον αὐτὴν ἐποίησε, καίτοι γε τὰ ἄλλα οὖσαν ἐπιεικῆ καὶ σώφρονα· εἶτα τοῦ Μωϋσέως αὐτοῦ τοῦ ὑβρισμένου παρακαλοῦντος ἀφεῖναι τὴν ὀργὴν, οὐκ ἠνέσχετο ὁ Θεός· ἀλλὰ τί φησιν; Εἰ ἐμπτύων ἐνέπτυσεν ὁ πατὴρ αὐτῆς εἰς τὸ πρόσωπον, οὐκ ἂν ἐνετράπη; Μεινάτω, φησὶν, ἔξω τῆς παρεμβολῆς ἑπτὰ ἡμέρας. Ὃ δὲ λέγει τοιοῦτόν ἐστιν· Εἰ πατέρα, φησὶν, εἶχε καὶ ἐξ ὄψεως αὐτὴν ἐποίησεν, οὐκ ἂν ἤνεγκε τὴν ἐπιτίμησιν; Σὲ μὲν ἀποδέχομαι τῆς φιλαδελφίας καὶ τῆς πραότητος καὶ τῆς ἐπιεικείας· ἐγὼ δὲ οἶδα πότε αὐτὴν ἀφεῖναι δεῖ τῆς κολάσεως.",
+    "fonte_url": "http://khazarzar.skeptik.net/pgm/PG_Migne/John%20Chrysostom_PG%2047-64/Ad%20populum%20Antiochenum.pdf",
+    "traducao_pt": "Certa vez, Maria falou mal de Moisés. E Deus, o que fez? Mandou-lhe a lepra e a tornou impura, embora no resto ela fosse boa e modesta. Depois, quando o próprio Moisés, o ofendido, pedia que Deus deixasse a ira, Deus não aceitou. O que diz? «Se o pai dela lhe tivesse cuspido no rosto, ela não ficaria envergonhada? Fique fora do acampamento sete dias». O que quer dizer é isto: Se ela tivesse um pai e ele a tivesse repreendido diante de todos, não suportaria a repreensão? Eu te louvo pelo amor à irmã, pela mansidão e pela bondade; mas eu sei quando é preciso livrá-la do castigo.",
+    "temas": [
+      "a lepra de Maria",
+      "a oração por quem nos ofendeu",
+      "Deus corrige como pai"
+    ],
+    "resumo": "Moisés, o ofendido, é o primeiro a pedir por Maria; Deus louva a sua bondade, mas sabe a hora de tirar o castigo, como um pai.",
+    "relevancia": 3,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "crisostomo-mt-5-4",
+    "autor": "São João Crisóstomo",
+    "autor_id": "crisostomo",
+    "datas": "c. 349–407",
+    "titulo_autor": "bispo de Constantinopla, Doutor da Igreja",
+    "obra": "Homilias sobre Mateus",
+    "passagem": "In Mt. hom. 5, 4",
+    "edicao": "PG 57, 59–60",
+    "versiculos": [
+      13,
+      14
+    ],
+    "trecho": "3",
+    "lingua": "grc",
+    "original": "Κἂν ὑπὲρ ἀδελφῆς τις παρακαλῇ μὴ προσηκόντως, ἀκούσεται πάλιν ὅπερ Μωϋσῆς· Εἰ ἐμπτύων ἐνέπτυσεν ὁ πατὴρ εἰς τὸ πρόσωπον αὐτῆς. Μὴ δὴ πρὸς ἑτέρους ὦμεν κεχηνότες. Ἔχουσι μὲν γὰρ δύναμιν αἱ εὐχαὶ τῶν ἁγίων μεγίστην, ἀλλ' ὅταν καὶ ἡμεῖς μετανοῶμεν καὶ γινώμεθα βελτίους. Ἐπεὶ καὶ Μωϋσῆς τὸν ἀδελφὸν τὸν ἑαυτοῦ καὶ μυριάδας ἑξήκοντα τῆς θεηλάτου τότε ὀργῆς ἐξαρπάσας, τὴν ἀδελφὴν οὐκ ἴσχυσεν ἐξελέσθαι· καίτοιγε οὐκ ἴσον τὸ ἁμάρτημα ἦν· ἐκείνη μὲν γὰρ τὸν Μωϋσέα ὕβρισεν· ἐνταῦθα δὲ ἀσέβεια ἦν τὸ τολμηθέν.",
+    "fonte_url": "http://khazarzar.skeptik.net/pgm/PG_Migne/John%20Chrysostom_PG%2047-64/In%20Matthaeum.pdf",
+    "traducao_pt": "Se alguém pede pela irmã de modo não conveniente, ouvirá de novo o que ouviu Moisés: «Se o pai dela lhe tivesse cuspido no rosto…». Não fiquemos, pois, de boca aberta esperando pelos outros. As orações dos santos têm, sim, um poder enorme, mas quando também nós nos arrependemos e nos tornamos melhores. Pois Moisés, que tinha arrancado da ira de Deus o próprio irmão e seiscentos mil homens, não conseguiu livrar a irmã; e, no entanto, o pecado não era igual: ela tinha insultado Moisés; ali, o que se ousou foi uma impiedade.",
+    "temas": [
+      "a oração dos santos",
+      "a conversão pessoal",
+      "a oração de Moisés"
+    ],
+    "resumo": "A oração dos santos ajuda muito, mas não dispensa a nossa conversão: nem Moisés livrou logo a irmã.",
+    "relevancia": 2,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "basilio-ira-10",
+    "autor": "São Basílio Magno",
+    "autor_id": "basilio",
+    "datas": "c. 330–379",
+    "titulo_autor": "bispo de Cesareia da Capadócia, Doutor da Igreja",
+    "obra": "Homilia 10, Contra os irados (Adversus eos qui irascuntur)",
+    "passagem": "Hom. 10 (De ira)",
+    "edicao": "PG 31, 360",
+    "versiculos": [
+      1,
+      13
+    ],
+    "trecho": "3",
+    "lingua": "grc",
+    "original": "Τούτοις πρόσθες καὶ τὸ τοῦ Μωϋσέως καλόν. Ἐκεῖνος, ὑπὸ Ἀαρὼν καὶ Μαρίας λοιδορηθεὶς, οὐ κατενέτυχε τῷ Θεῷ, ἀλλὰ προσηύχετο ὑπὲρ αὐτῶν. Τίνων βούλει μαθητὴς εἶναι μᾶλλον, τῶν θεοφιλῶν καὶ μακαρίων ἀνδρῶν, ἢ τῶν ὑπὸ τοῦ πνεύματος τῆς πονηρίας πεπληρωμένων;",
+    "fonte_url": "http://khazarzar.skeptik.net/pgm/PG_Migne/Basilius%20Caesariensis_PG%2029-32/Homilia%20adversus%20eos%20qui%20irascuntur.pdf",
+    "traducao_pt": "A isto acrescenta o belo exemplo de Moisés. Insultado por Aarão e por Maria, ele não os acusou diante de Deus, mas rezou por eles. De quem preferes ser discípulo: dos homens amigos de Deus e bem-aventurados, ou dos que estão cheios do espírito do mal?",
+    "temas": [
+      "a oração por quem nos ofendeu",
+      "a mansidão de Moisés"
+    ],
+    "resumo": "Insultado pelos irmãos, Moisés não os acusou diante de Deus, mas rezou por eles: é ele que devemos imitar.",
+    "relevancia": 3,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "nissa-vm-2-260-261",
+    "autor": "São Gregório de Nissa",
+    "autor_id": "gregorio-nissa",
+    "datas": "c. 335–c. 395",
+    "titulo_autor": "bispo de Nissa, Padre da Capadócia",
+    "obra": "Vida de Moisés (De vita Moysis)",
+    "passagem": "Vida de Moisés II, 260–261",
+    "edicao": "PG 44, c. 416 (GNO VII/1, II, 260–261)",
+    "versiculos": [
+      1,
+      2,
+      13
+    ],
+    "trecho": "3",
+    "lingua": "grc",
+    "original": "Πέμπει γὰρ καὶ κατ' ἐκείνου τὸ βέλος ὁ φθόνος, ἀλλ' οὐ καθικνεῖται ἡ βολὴ τοῦ ὕψους, ἐν ᾧ ἦν Μωϋσῆς. Ἠτόνησε γὰρ ἡ νευρὰ τῆς πονηρίας τοσοῦτον ἀποτοξεῦσαι τὸ πάθος, ὡς ἀπὸ τῶν προνενοσηκότων καὶ εἰς αὐτὸν διαβῆναι. Ἀλλ' ὁ μὲν Ἀαρὼν καὶ ἡ Μαριὰμ τῷ πάθει τῆς βασκανίας ἐτρώθησαν καὶ οἷόν τι τόξον τοῦ φθόνου γίνονται, ἀντὶ βέλους τὸν κατ' αὐτοῦ λόγον ἀποτοξεύσαντες. Ὁ δὲ τοσοῦτον ἀπέσχεν ἐν κοινωνίᾳ γενέσθαι τοῦ ἀρρωστήματος, ὥστε καὶ θεραπεύει τῶν νενοσηκότων τὸ πάθος, οὐ μόνον αὐτὸς πρὸς τὴν ἄμυναν τῶν λελυπηκότων μένων ἀκίνητος, ἀλλὰ καὶ τὸν Θεὸν ἤδη ὑπὲρ αὐτῶν ἱλεούμενος, δεικνύς, οἶμαι, δι' ὧν ἐποίησεν, ὅτι ὁ καλῶς τῷ θυρεῷ τῆς ἀρετῆς περιπεφραγμένος ταῖς ἀκίσι τῶν βελῶν οὐκ ἀμύσσεται.",
+    "fonte_url": "http://khazarzar.skeptik.net/pgm/PG_Migne/Gregory%20of%20Nyssa_PG%2044-46/De%20vita%20Mosis.pdf",
+    "traducao_pt": "Também contra ele a inveja lança a sua flecha, mas o tiro não alcança a altura em que estava Moisés. A corda da maldade não teve força para disparar a paixão a ponto de passar dos que já estavam doentes até ele. Aarão e Maria foram feridos pela paixão da inveja e se tornaram como que o arco da inveja, disparando contra ele, em lugar de flecha, a palavra. Mas ele ficou tão longe de participar da doença que até curou a paixão dos doentes: não só permaneceu imóvel, sem se vingar dos que o tinham ferido, mas ainda aplacou a Deus em favor deles, mostrando, creio eu, pelo que fez, que quem está bem protegido pelo escudo da virtude não é ferido pelas pontas das flechas.",
+    "temas": [
+      "a inveja dos irmãos",
+      "a oração por quem nos ofendeu",
+      "a virtude, escudo contra a ofensa"
+    ],
+    "resumo": "A flecha da inveja não alcança Moisés, que está no alto com Deus; ele não revida e ainda cura os irmãos com a oração.",
+    "relevancia": 3,
+    "direitos": "citação curta"
+  },
+  {
+    "id": "nissa-vm-2-263",
+    "autor": "São Gregório de Nissa",
+    "autor_id": "gregorio-nissa",
+    "datas": "c. 335–c. 395",
+    "titulo_autor": "bispo de Nissa, Padre da Capadócia",
+    "obra": "Vida de Moisés (De vita Moysis)",
+    "passagem": "Vida de Moisés II, 263",
+    "edicao": "PG 44, c. 416 (GNO VII/1, II, 263)",
+    "versiculos": [
+      13
+    ],
+    "trecho": "3",
+    "lingua": "grc",
+    "original": "Οὔτε γὰρ ἐνέπεσεν αὐτῷ ἡ ἀμυντικὴ κατὰ τῶν λελυπηκότων ὁρμή, οὔτε καταδικασθέντων αὐτῶν παρὰ τῆς ἀδεκάστου κρίσεως τὸ πρὸς τὴν φύσιν ἠγνόησε δίκαιον, ἀλλ' ἱκέτης ἐγένετο τοῦ Θεοῦ ὑπὲρ τῶν ἀδελφῶν. Ὅπερ οὐκ ἂν ἐποίησεν, εἰ μὴ κατόπιν τοῦ Θεοῦ ἦν, τοῦ τὰ ὄπισθεν αὐτῷ πρὸς τὴν ἀσφαλῆ τῆς ἀρετῆς ὁδηγίαν προδείξαντος.",
+    "fonte_url": "http://khazarzar.skeptik.net/pgm/PG_Migne/Gregory%20of%20Nyssa_PG%2044-46/De%20vita%20Mosis.pdf",
+    "traducao_pt": "Nem lhe veio o impulso de se vingar dos que o tinham ferido, nem, quando eles foram condenados pelo julgamento imparcial, esqueceu o que é justo segundo a natureza [o laço de sangue]; mas se fez suplicante diante de Deus pelos irmãos. Isto ele não teria feito se não estivesse atrás de Deus, que lhe mostrava as costas para guiá-lo com segurança no caminho da virtude.",
+    "temas": [
+      "a oração por quem nos ofendeu",
+      "seguir a Deus"
+    ],
+    "resumo": "Moisés reza pelos irmãos porque caminha atrás de Deus: só quem segue a Deus perdoa assim.",
+    "relevancia": 2,
+    "direitos": "citação curta"
+  },
+  {
+    "id": "nazianzeno-ep-77-8",
+    "autor": "São Gregório Nazianzeno",
+    "autor_id": "gregorio-nazianzeno",
+    "datas": "c. 329–390",
+    "titulo_autor": "bispo de Constantinopla, «o Teólogo», Doutor da Igreja",
+    "obra": "Cartas",
+    "passagem": "Ep. 77, 8 (a Teodoro de Tiana)",
+    "edicao": "PG 37, 141–145",
+    "versiculos": [
+      13
+    ],
+    "trecho": "3",
+    "lingua": "grc",
+    "original": "Ἐπῃνέθη καὶ Μωϋσῆς, ὅτι τὸν Αἰγύπτιον ἀνεῖλε τῷ Ἰσραηλίτῃ περιαλγήσας· ἀλλ' ἐθαυμάσθη πλέον, ὅτι Μαριὰμ τὴν ἀδελφὴν διὰ τὸ γογγύσαι λεπρωθεῖσαν διὰ τῆς εὐχῆς ἐθεράπευσε.",
+    "fonte_url": "http://khazarzar.skeptik.net/pgm/PG_Migne/Gregory%20of%20Nazianzus_PG%2035-38/Epistulae.pdf",
+    "traducao_pt": "Moisés também foi louvado por ter matado o egípcio, condoído do israelita; mas foi mais admirado por ter curado com a sua oração Maria, a irmã, que ficara leprosa por ter murmurado.",
+    "temas": [
+      "a oração por quem nos ofendeu",
+      "perdoar é maior que punir"
+    ],
+    "resumo": "Gregório, pedindo perdão para os que o agrediram: Moisés é mais admirável curando a irmã com a oração do que punindo o egípcio.",
+    "relevancia": 3,
+    "direitos": "citação curta"
+  },
+  {
+    "id": "crisostomo-stagirio-3",
+    "autor": "São João Crisóstomo",
+    "autor_id": "crisostomo",
+    "datas": "c. 349–407",
+    "titulo_autor": "bispo de Constantinopla, Doutor da Igreja",
+    "obra": "A Estagírio, atormentado pelo demônio (Ad Stagirium)",
+    "passagem": "Ad Stag. III",
+    "edicao": "PG 47, 477",
+    "versiculos": [
+      10,
+      13
+    ],
+    "trecho": "3",
+    "lingua": "grc",
+    "original": "Σὺ δὲ ταύτας ἀκούων τὰς δυσκολίας, μὴ ταύτας μόνον συμβεβηκέναι νόμιζε, καίτοι καὶ τῶν κειμένων οὐκ ὀλίγας παρέλιπον, τοὺς πολέμους, τὰς τῶν ἐχθρῶν ἐναντιώσεις, τὰς μακρὰς ὁδοιπορίας, τῆς ἀδελφῆς τὴν ὕβριν, τὴν τιμωρίαν, ἐφ' ᾗ μᾶλλον ἐκεῖνος ὁ πραότατος ἤλγησε Μωσῆς.",
+    "fonte_url": "http://khazarzar.skeptik.net/pgm/PG_Migne/John%20Chrysostom_PG%2047-64/Ad%20Stagirium%20a%20daemone%20vexatum.pdf",
+    "traducao_pt": "E tu, ouvindo estas dificuldades, não penses que só elas lhe aconteceram; deixei de lado não poucas das que estão escritas: as guerras, a oposição dos inimigos, as longas caminhadas, o insulto da irmã e o castigo dela, que doeu mais àquele mansíssimo Moisés [que o próprio insulto].",
+    "temas": [
+      "a mansidão de Moisés",
+      "a dor pelo castigo de quem nos ofendeu"
+    ],
+    "resumo": "Entre os sofrimentos de Moisés está o insulto da irmã; mas o castigo dela doeu mais nele do que a ofensa.",
+    "relevancia": 2,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "pseudo-crisostomo-ps100-4",
+    "autor": "São João Crisóstomo",
+    "autor_id": "crisostomo",
+    "datas": "c. 349–407",
+    "titulo_autor": "bispo de Constantinopla, Doutor da Igreja",
+    "obra": "Homilia sobre o Salmo 100 (atribuída; autoria duvidosa)",
+    "passagem": "In Ps. 100, 4",
+    "edicao": "PG 55, 633–634",
+    "versiculos": [
+      1,
+      8,
+      10
+    ],
+    "trecho": "3",
+    "lingua": "grc",
+    "original": "Μάθωμεν καλὸν μάθημα, ἀγαπητοὶ, μὴ μόνον μὴ καταλαλεῖν, ἀλλὰ μηδὲ ἀκούειν καταλαλιᾶς. Δεινὸν γὰρ κακὸν ἡ καταλαλιὰ, ἀκατάστατον δαιμόνιον, μηδέποτε εἰρηνικὸν τὸν ἄνθρωπον ἀπεργαζόμενον. Τί γὰρ οὐκ ἔστι κακὸν ἀπὸ καταλαλιᾶς; Ἐξ αὐτῆς ἔχθραι ἀναφύονται, ἔρεις δι' αὐτῆς συνίστανται, διχοστασίαι ἀπ' αὐτῆς τὴν ἀρχὴν λαμβάνουσιν, ὑπόνοιαι πονηραὶ ἐκεῖθεν γενόμεναι τῶν μυρίων κακῶν τὰς αἰτίας παρέχουσι· μῖσος ὥσπερ ἀπὸ πηγῆς ἐξ αὐτῆς βρύει· […] Οἶδε καὶ τὴν ψυχὴν ἀγριάνασαν ἀποστῆσαι τῆς ἀδελφικῆς κοινωνίας, καὶ ἐχθρὸν τὸν πρὸ ὀλίγου φίλον ἄνευ αἰτίας ἀποδεῖξαι. Αὕτη καὶ Μαρίας τῆς ἀδελφῆς Μωϋσέως ἁψαμένη, λεπρῶσαν ἀφ' ἑαυτῆς παρευθὺ ἀπέδειξεν, ὀργὴν δὲ κατ' αὐτῆς καὶ θυμὸν ἐπήγαγε παρὰ τοῦ Δεσπότου.",
+    "fonte_url": "http://khazarzar.skeptik.net/pgm/PG_Migne/John%20Chrysostom_PG%2047-64/In%20Psalmum%20100.pdf",
+    "traducao_pt": "Aprendamos uma bela lição, caríssimos: não só não falar mal dos outros, mas nem sequer ouvir quem fala mal. Pois a detração é um mal terrível, um demônio inquieto, que nunca deixa o homem em paz. Que mal não vem da detração? Dela nascem as inimizades, por ela surgem as brigas, dela começam as divisões; as suspeitas más que daí nascem são causa de mil males; dela brota o ódio como de uma fonte. […] Ela sabe afastar da comunhão fraterna a alma enfurecida e fazer inimigo, sem motivo, quem pouco antes era amigo. Foi ela que, tocando Maria, a irmã de Moisés, a mostrou logo leprosa e atraiu sobre ela a ira e o furor do Senhor.",
+    "temas": [
+      "a detração",
+      "a lepra de Maria"
+    ],
+    "resumo": "Sermão contra a detração (atribuído a Crisóstomo): foi ela que fez Maria leprosa.",
+    "relevancia": 2,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "cirilo-ador-14",
+    "autor": "São Cirilo de Alexandria",
+    "autor_id": "cirilo",
+    "datas": "c. 376–444",
+    "titulo_autor": "patriarca de Alexandria, Doutor da Igreja",
+    "obra": "Sobre a adoração em espírito e verdade (De adoratione)",
+    "passagem": "De ador. XIV",
+    "edicao": "PG 68, 889",
+    "versiculos": [
+      10,
+      12,
+      13
+    ],
+    "trecho": "3",
+    "lingua": "grc",
+    "original": "Λέπρα τοίνυν ἐστὶ, σαρκὸς νέκρωσις, καὶ βορὸν ὅτι μάλιστα τὸ πάθος. Τοιγάρτοι καὶ ὁ θεσπέσιος Μωσῆς λελεπρωμένης αὐτῷ τῆς Μαρίας, περιδεὴς γεγονὼς, ἄθυμός τε λίαν, ἐλιπάρει, λέγων· «Ὁ Θεὸς, δέομαί σου, ἴασαι αὐτὴν,» ἔφη γάρ· «Μὴ γένηται ὡσεὶ ἔκτρωμα ἐκπορευόμενον ἐκ μήτρας μητρὸς, καὶ καταφάγεται τὸ ἥμισυ τῶν σαρκῶν αὐτῆς.» […] σημαίνει μὲν ἡμῖν ὁ λεπρὸς, τὸν τοῖς εἰς νεότητα πάθεσι ποικίλοις κατεστιγμένον.",
+    "fonte_url": "http://khazarzar.skeptik.net/pgm/PG_Migne/Cyril%20of%20Alexandria_PG%2068-77/De%20adoratione%20et%20cultu%20in%20spiritu%20et%20veritate.pdf",
+    "traducao_pt": "A lepra é a morte da carne, e uma doença que devora como nenhuma outra. Por isso também o divino Moisés, quando Maria ficou leprosa, cheio de medo e muito abatido, suplicava: «Ó Deus, peço-te, cura-a»; pois dizia: «Que ela não fique como um aborto que sai do ventre da mãe, e a doença devore metade da sua carne». […] O leproso significa para nós aquele que está manchado pelas várias paixões da juventude.",
+    "temas": [
+      "a lepra, figura do pecado",
+      "a oração de Moisés"
+    ],
+    "resumo": "A lepra é morte da carne; por isso Moisés, aflito, pede a cura da irmã. Espiritualmente, o leproso é quem está marcado pelas paixões.",
+    "relevancia": 2,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "procopio-num-12-3",
+    "autor": "Procópio de Gaza",
+    "autor_id": "procopio",
+    "datas": "c. 465–c. 528",
+    "titulo_autor": "retor cristão de Gaza, compilador de cadeias exegéticas",
+    "obra": "Comentário a Números (cadeia sobre o Octateuco)",
+    "passagem": "In Num. 12, 3",
+    "edicao": "PG 87/1, 825–826",
+    "versiculos": [
+      3
+    ],
+    "trecho": "1",
+    "lingua": "grc",
+    "original": "Σιωπῇ γὰρ ἔφερε τὴν αἰτίαν ἀπὸ πραότητος. Καὶ ἀναγράφει τὸ ἐγκώμιον ἑαυτοῦ, ὥσπερ καὶ τὸ ἁμάρτημα, φιλαλήθης ὤν, καὶ μηδὲν ἀποκρυπτόμενος, ὥσπερ Δαβὶδ καὶ πάντες οἱ ἄλλοι.",
+    "fonte_url": "https://archive.org/details/patrologiaecurs267unkngoog",
+    "traducao_pt": "Por mansidão, ele suportava a acusação em silêncio. E escreve o próprio elogio, como escreve também o próprio pecado, porque amava a verdade e não escondia nada, como Davi e todos os outros.",
+    "temas": [
+      "a mansidão de Moisés",
+      "por que Moisés escreve o próprio elogio"
+    ],
+    "resumo": "Moisés registra o próprio elogio pela mesma razão por que registra os próprios pecados: por amor à verdade.",
+    "relevancia": 2,
+    "direitos": "domínio público (grego reconstruído de OCR ruim da PG 87/1; conferido com o latim de Clauser)"
+  }
+]

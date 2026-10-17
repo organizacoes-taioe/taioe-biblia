@@ -105,3 +105,30 @@ Não há índice bíblico livre e completo das obras de Agostinho. O que funcion
   `https://www.newadvent.org/fathers/<código>.htm`): Confissões 1101, Cartas 1102, Cidade de Deus
   1201, Doutrina cristã 1202, Trindade 1301, Enchiridion 1302, Sermões sobre o NT 1603,
   Tratados sobre João 1701, Comentário à 1 João 1702 (códigos de memória, conferir).
+
+## 3. Pentateuco e Antigo Testamento (primeiro uso: Nm 12, 2026-10-17)
+
+- **O Corpus Corporum tem as 140 obras dele no PL, inclusive as *Enarrationes* (obra 771, texto
+  7329, e «[2]» 21501/21385) e os sermões** (775–784, 2519, 2528). A observação acima («não tem as
+  *Enarrationes*») vale só para a **busca de frase**, que não as indexa; baixando os arquivos, tudo
+  se acha com `grep`. Autor `900`; script `ccall.py` (baixa todas as obras de um autor, 6 em
+  paralelo, ~10 min) descrito em `numeros/012/relatorio-origenes-agostinho.md` e em `latinos.md`.
+  Achar um versículo: `grep -o -E "Num(er)?\.? ?XII\b[^;)]{0,15}"` nas notas (são poucas: Migne
+  anota pouco nas obras de Agostinho), depois frases-chave da Vetus Latina dele.
+- Obras (work → texto) úteis para o AT: *Quaestiones in Heptateuchum* 754 → **7312** (PL 34,
+  547–824; questões curtas, quase sempre literais, livro a livro: I Gn, II Ex, III Lv, IV Nm a partir
+  da linha «LIBER QUARTUS», V Dt, VI Js, VII Jz; cada questão começa com «[Ib. XII, 1.]»);
+  CSEL 28/1 (Zycha, 1895, domínio público) no Corpus como texto **15028** (o mesmo arquivo traz
+  as *Locutiones*), com página CSEL; *Locutiones in Heptateuchum* 753 → **7311** (só gramática,
+  mas mostra a Vetus Latina dele); *De Genesi ad litteram* 744 → **7302** (livro XII = as visões,
+  Moisés e Paulo); Cartas 742 → **7300** (Carta 147 *De videndo Deo* nas linhas ~29000–30500);
+  *De Trinitate* 2456 → **7441** (II–III: as teofanias do AT); *Contra Faustum* 2447 → **7432**
+  (defesa dos patriarcas e de Moisés contra os maniqueus; nada sobre Nm 12); *De civitate Dei*
+  21481; *Contra Gaudentium* 2473 → 7458; *In Ioannis ev.* 765 → 7323.
+- **Pseudo-Agostinho** (autor 1024, «Auctor incertus (Augustinus Hipponensis?)»): *Sermones
+  supposititii de Scripturis* **7338** (PL 39; muitos de Cesário de Arles: conferir), *De
+  mirabilibus sacrae Scripturae* **7315** (Agostinho Hibérnico, 655; questões literais sobre todo o
+  AT), *Sermones ad fratres in eremo* **7388** (autor 1028?, medieval). Citar com a autoria certa.
+- Pistas temáticas: os etíopes = as nações (En. in Ps. 71,12; 73,16; 67,40 de memória);
+  a visão de Deus por Moisés (*Gen. ad litt.* XII, 26–28; Ep. 147, 13; *De Trin.* II, 16–17;
+  *Contra Maximinum* I, 15); a mansidão de Moisés (*Contra Gaudentium* I, 19,20).

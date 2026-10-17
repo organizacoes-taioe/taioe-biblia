@@ -61,3 +61,28 @@ Numeração: todos usam a da LXX (o nosso Sl 33 é o «32» deles, λβʹ).
   Orígenes ou Cirilo repetir uma homilia de Basílio, citar Basílio.
 - **Traduções antigas** de domínio público dos comentários gregos aos Salmos praticamente não existem; o
   latim da PG (ao lado do grego, no OCR do archive.org) serve para conferir.
+
+## Comentários ao Pentateuco e ao Octateuco (primeiro uso: Nm 12, 2026-10-17, `../numeros/012/relatorio-gregos.md`)
+
+| Autor | Obra | PG | Cobre | Onde | Como achar |
+|---|---|---|---|---|---|
+| São Cirilo de Alexandria | *Glaphyra in Pentateuchum* | 69, 9–678 | episódios escolhidos de Gn, Ex, Lv, Nm, Dt, lidos como figura de Cristo e da Igreja (Nm: 589–641) | khazarzar `Cyril of Alexandria_PG 68-77/Glaphyra in Pentateuchum.pdf` (texto da PG) | títulos «ΓΛΑΦΥΡΩΝ ΕΙΣ ΤΟΥΣ ΑΡΙΘΜΟΥΣ», depois «Περὶ …»; seções «βʹ.», «γʹ.» |
+| São Cirilo | *De adoratione et cultu in spiritu et veritate* (17 livros, diálogo com Paládio) | 68, 133–1125 | a Lei de Moisés por temas (lepra, sacrifícios, sacerdócio) | khazarzar, mesmo diretório | «ΛΟΓΟΣ …»; falas «{ΚΥΡ.}», «{ΠΑΛΛ.}» |
+| Teodoreto de Ciro | *Quaestiones in Octateuchum* | 80, 77–528 | Gn a Rt, por perguntas (Nm: 349–400) | khazarzar `Theodoretus of Cyrrhus_PG 80-84/Quaestiones in Octateuchum.pdf`: segue a ed. Fernández Marcos–Sáenz-Badillos (1979), **sem colunas da PG**; números soltos no texto são linhas da edição | perguntas «XXII», «XXIII»; colunas da PG no OCR do archive.org `bim_early-english-books-1641-1700_patrologiae-cursus-completus-_1860_80` |
+| Procópio de Gaza | *Commentarii in Octateuchum* | 87/1, 21–1080 | Gn a Rt; cadeia que copia Cirilo, Teodoreto, Orígenes | **não está no khazarzar** (só as cartas e declamações); PG 87/1 no archive.org `patrologiaecurs267unkngoog` (Nm: 793–897). Para Ex–Rt a PG só tem o latim de Clauser, com escólios gregos | buscar o latim da Vulgata do versículo |
+| Orígenes | *Selecta* e *Adnotationes* (escólios de cadeia) em Gn, Ex, Lv, Nm, Dt | 12; 17 | glosas curtas | khazarzar `Origenes_PG 11-17/Adnotationes in Numeros.pdf` etc. | «ΚΕΦ. ΙΒʹ. Στίχ. …» = capítulo e versículo. As *Homilias sobre Números* só existem no latim de Rufino (PG 12; ver latinos) |
+| São Gregório de Nissa | *Vida de Moisés* | 44, 297–430 | a vida inteira de Moisés: I = história, II = contemplação | khazarzar `Gregory of Nyssa_PG 44-46/De vita Mosis.pdf`: segue a GNO VII/1 (Musurillo), «[PG 2, 256]» = livro II, § 256 | colunas da PG no OCR `patrologiaecursu44mignuoft` (latim legível) |
+| Santo Ireneu | *Contra as heresias* | 7 | tipologia de Moisés: IV, 20 (Massuet) = IV, 34 (Harvey) | ed. Harvey vol. 2: `sanctiirenaeiep00harvgoog` (o vol. 1 é `sanctiirenaeiep01harvgoog`); OCR legível; à margem, as referências bíblicas | buscar o latim do versículo |
+
+- As colunas de início e fim de cada obra (e das partes sobre Nm) nesta tabela são aproximadas; conferidas só as de Nm 12 (Cirilo 69, 589–605; Teodoreto 80, 373–376; Procópio 87/1, 823–828; Nissa 44, c. 317 e 413–416).
+- **Crisóstomo**: não comentou Números nem Êxodo (só *Gênesis*, homilias e sermões). Para o Pentateuco, buscar nas
+  homilias: com todos os ~400 PDFs baixados, uma busca sem acentos acha as citações em minutos. Cuidado: na
+  pasta do Crisóstomo há espúrios (*In Ps. 100*, *Synopsis scripturae*, *Contra theatra*, *Eclogae*, que repetem
+  trechos autênticos) e obras em edição moderna (*Catecheses ad illuminandos*, Wenger; *De inani gloria*,
+  Malingrey: só citação curta).
+- **Nomes repetidos**: Nazianzeno e Nissa têm cada um um `Epistulae.pdf`; ao baixar as duas pastas para o mesmo
+  diretório, um sobrescreve o outro. O de Nazianzeno segue Gallay («[PG 77, 8]» = carta 77, § 8).
+- **Basílio**: o `Asceticon magnum` traz as *Regras longas* e as *breves* (perguntas «ΕΡΩΤΗΣΙΣ ΚΖʹ»); o
+  *Hexaémeron* segue a ed. Giet (SC 26), com «[PG 1, 1]» = homilia 1, § 1.
+- Não estão no khazarzar: Teodoreto, *Interpretatio in xiv epistulas Pauli* (PG 82); Teofilato (PG 123–126);
+  Ecumênio sobre as cartas (PG 118–119 tem só o Apocalipse em edição moderna). Efrém: nada em grego útil.

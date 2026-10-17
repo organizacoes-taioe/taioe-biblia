@@ -1,0 +1,913 @@
+[
+  {
+    "id": "ambrosio-apoldavid-17-18",
+    "autor": "Santo Ambrósio",
+    "autor_id": "ambrosio",
+    "datas": "c. 340–397",
+    "titulo_autor": "bispo de Milão, Doutor da Igreja",
+    "obra": "Apologia do profeta Davi (Apologia prophetae David)",
+    "passagem": "17–18",
+    "edicao": "PL 14, 858D–859A",
+    "versiculos": [
+      1,
+      2,
+      10
+    ],
+    "trecho": "1",
+    "lingua": "la",
+    "original": "Iterum tantus sacerdos locum incidit offensionis cum sorore sua Maria. Nam dum fratri uterque obtrectat quod alienigenam accepisset uxorem, illico Maria contagio maculosae carnis effloruit. Quo loci evidentis fuit figura mysterii, quod sacerdotalis ille populus patrum fraterno populo posterioribus temporibus derogaret, Aethiopissae illius nesciens sacramentum. Nam si cognovisset, non reprehendisset, quod cum veteri mysterio conveniret. Itaque cum Judaeus eum qui ex Gentibus credidit, dicit esse communem, et vult a Lege secernere, lepram habet, quam non poterit evadere, nisi spiritalis ei legis agnitio ad veniam fuerit suffragata.",
+    "fonte_url": "https://mlat.uzh.ch/browser/cps_2.AmbMed.ApPrDa",
+    "traducao_pt": "De novo, um sacerdote tão grande tropeçou, junto com sua irmã Maria. Enquanto os dois falavam mal do irmão porque ele tinha tomado uma esposa estrangeira, logo a carne de Maria se cobriu de manchas de lepra. Ali houve uma figura clara de um mistério: o povo sacerdotal dos pais haveria de falar mal, nos últimos tempos, do povo irmão, sem conhecer o sacramento daquela etíope. Se o tivesse conhecido, não teria repreendido o que estava de acordo com o antigo mistério. Assim, quando o judeu diz que é impuro aquele que veio dos gentios para a fé, e quer separá-lo da Lei, ele tem a lepra, e não poderá escapar dela, a não ser que o entendimento espiritual da Lei o ajude a obter o perdão.",
+    "temas": [
+      "a etíope, figura da Igreja dos gentios",
+      "Maria, figura da Sinagoga",
+      "a lepra como figura do pecado"
+    ],
+    "resumo": "A murmuração contra a esposa estrangeira é figura da Sinagoga que despreza a Igreja vinda dos gentios; só o entendimento espiritual da Lei cura essa lepra.",
+    "relevancia": 3,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "ambrosio-ep67-1-2",
+    "autor": "Santo Ambrósio",
+    "autor_id": "ambrosio",
+    "datas": "c. 340–397",
+    "titulo_autor": "bispo de Milão, Doutor da Igreja",
+    "obra": "Cartas (Epistulae), 67, a Simpliciano",
+    "passagem": "Ep. 67, 1–2",
+    "edicao": "PL 16, 1228A–B",
+    "versiculos": [
+      1,
+      2,
+      8
+    ],
+    "trecho": "1",
+    "lingua": "la",
+    "original": "Quantus sit unusquisque in suo munere, exemplo debet esse lectio, quae jure te movit, quod Moyses ille, quo nemo praesentius Deum vidit, neque surrexit amplius in Israel propheta, qui Deum facie ad faciem, sicut Moyses videret [...] invenitur magis Aaron fratris consilium quam suum probasse. Fuit ergo quisquam hominum Moyse prudentior et instructior? Atqui ipsum Aaron postea cum Maria circa Aethiopissae personam legimus errasse. Sed hoc ipsum diligenter discute, ubi Moyses scientia praeponderet, ubi Aaron consilio. [...] Ergo in causa prophetiae praefertur Moyses sicut propheta: ubi autem causa, et munus, et officium sacerdotii est, praefertur Aaron sicut sacerdos.",
+    "fonte_url": "https://mlat.uzh.ch/browser/cps_2.AmbMed.EpClIi",
+    "traducao_pt": "Quanto vale cada um no seu próprio ofício, a leitura que com razão te impressionou deve servir de exemplo: aquele Moisés, que viu a Deus mais de perto do que ninguém, e depois do qual não surgiu em Israel profeta que visse a Deus face a face como ele, [...] aparece aprovando mais o conselho do irmão Aarão do que o seu. Houve então alguém mais prudente e mais instruído do que Moisés? E, no entanto, lemos que o próprio Aarão, mais tarde, errou com Maria a respeito da etíope. Examina com cuidado onde Moisés prevalece pelo conhecimento e onde Aarão pelo conselho. [...] Na causa da profecia, Moisés é preferido, como profeta; mas onde se trata da causa, do encargo e do ofício do sacerdócio, Aarão é preferido, como sacerdote.",
+    "temas": [
+      "Moisés, o maior dos profetas",
+      "cada um no seu dom",
+      "o erro de Aarão e Maria"
+    ],
+    "resumo": "Moisés viu a Deus como ninguém, mas Aarão e Maria erraram ao medir-se com ele: cada um tem o seu dom, o profeta e o sacerdote.",
+    "relevancia": 2,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "ambrosio-offic-3-15-93",
+    "autor": "Santo Ambrósio",
+    "autor_id": "ambrosio",
+    "datas": "c. 340–397",
+    "titulo_autor": "bispo de Milão, Doutor da Igreja",
+    "obra": "Os deveres dos ministros (De officiis ministrorum)",
+    "passagem": "III, 15, 93",
+    "edicao": "PL 16, 171C",
+    "versiculos": [
+      3
+    ],
+    "trecho": "1",
+    "lingua": "la",
+    "original": "Rogatus Moyses, ut his quoque finem exitiis daret, oravit et impetravit. In illo praedicandum, quod a fraudis consortio temperaverit: in hoc mirabile quoniam divinitus intentata supplicia virtute propria etiam ab hoste detorserit, vere nimium, sicut scriptum est, mansuetus et mitis. Sciebat quod fidem rex non servaret promissis; tamen honestum putabat ut rogatus oraret, laesus benediceret, appetitus remitteret.",
+    "fonte_url": "https://mlat.uzh.ch/browser/cps_2.AmbMed.DeOfMi",
+    "traducao_pt": "Pedido que pusesse fim também a essas mortes, Moisés rezou e alcançou o que pediu. Naquilo é de louvar que se tenha guardado de toda cumplicidade com a fraude; nisto é admirável que, com a sua própria virtude, tenha desviado até do inimigo os castigos mandados por Deus: era de fato, como está escrito, manso e brando ao extremo. Sabia que o rei não cumpriria as promessas; mesmo assim julgava honesto rezar quando lhe pediam, abençoar quando o feriam, perdoar quando o atacavam.",
+    "temas": [
+      "a mansidão de Moisés",
+      "rezar por quem nos ofende"
+    ],
+    "resumo": "A mansidão de Moisés: reza por quem pede, abençoa quem o fere, perdoa quem o ataca, até o faraó.",
+    "relevancia": 2,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "jeronimo-ep22-1",
+    "autor": "São Jerônimo",
+    "autor_id": "jeronimo",
+    "datas": "c. 347–420",
+    "titulo_autor": "presbítero, Doutor da Igreja",
+    "obra": "Cartas (Epistulae), 22, a Eustóquio",
+    "passagem": "Ep. 22, 1",
+    "edicao": "PL 22, 395",
+    "versiculos": [
+      1
+    ],
+    "trecho": "1",
+    "lingua": "la",
+    "original": "Tali primum parente generati, nigri sumus, et post poenitentiam, nec dum culmine virtutis ascenso, dicimus: Nigra sum, sed speciosa, filiae Jerusalem. [...] Non est sponsus tuus arrogans, non superbus, Aethiopissam duxit uxorem: statim ut volueris sapientiam audire veri Salomonis, et ad eum veneris, confitebitur tibi cuncta quae novit, et inducet te rex in cubiculum suum, et mirum in modum colore mutato, sermo tibi ille conveniet: Quae est ista, quae ascendit dealbata.",
+    "fonte_url": "https://mlat.uzh.ch/browser/cps_2.HieStr.Episto32",
+    "traducao_pt": "Gerados primeiro de um pai assim [o diabo], somos negros; e depois da penitência, sem ter ainda subido ao alto da virtude, dizemos: «Sou negra, mas formosa, filhas de Jerusalém». [...] O teu Esposo não é arrogante nem soberbo: tomou por esposa uma etíope. Assim que quiseres ouvir a sabedoria do verdadeiro Salomão e vieres a ele, ele há de te contar tudo o que sabe, o Rei há de te levar ao seu quarto e, com a cor mudada de modo admirável, há de caber a ti aquela palavra: «Quem é esta que sobe toda branca?».",
+    "temas": [
+      "a etíope, figura da alma e da Igreja",
+      "Cristo, o verdadeiro Moisés",
+      "a humildade do Esposo"
+    ],
+    "resumo": "Cristo, Esposo sem soberba, toma por esposa a etíope, a alma escurecida pelo pecado, e a torna branca.",
+    "relevancia": 3,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "jeronimo-ep78-mansio14",
+    "autor": "São Jerônimo",
+    "autor_id": "jeronimo",
+    "datas": "c. 347–420",
+    "titulo_autor": "presbítero, Doutor da Igreja",
+    "obra": "Cartas (Epistulae), 78, a Fabíola, sobre as 42 mansões",
+    "passagem": "Ep. 78, mansão XIV (Haserot)",
+    "edicao": "PL 22, 709",
+    "versiculos": [
+      1,
+      10,
+      14,
+      15
+    ],
+    "trecho": "1",
+    "lingua": "la",
+    "original": "Quarta decima Mansio est in solitudine Pharan, quae in atria vertitur. In hac Aaron et Maria, propter Aethyopissam contra Moysen murmurant, et in typum zeli, adversus Ecclesiam de gentibus congregatam, populus Judaeorum leprae sorde perfunditur: nec redit ad tabernaculum, et pristinam recipit sanitatem, donec statutum plenitudinis gentium tempus impleat. Et hoc prudens lector attende, quod post consummatam in duodecimo numero virtutem, quia superbivit Israel: et in sepulcris concupiscentiae carnes Aegyptias desideravit: rursum jacit aliud fundamentum, et atria, id est, vestibulum virtutis ingreditur, ostendens nobis, et eos qui stant, posse cadere, et qui ceciderunt, posse resurgere.",
+    "fonte_url": "https://mlat.uzh.ch/browser/cps_2.HieStr.Episto32",
+    "traducao_pt": "A décima quarta mansão fica no deserto de Farã e quer dizer «átrios». Nela Aarão e Maria murmuram contra Moisés por causa da etíope; e, como figura do ciúme contra a Igreja reunida dos gentios, o povo judeu se cobre da sujeira da lepra: não volta à tenda nem recebe de novo a saúde de antes, até que se cumpra o tempo marcado para a plenitude dos gentios. E presta atenção, leitor prudente: depois da virtude completa no número doze, porque Israel se ensoberbeceu e, nos sepulcros da cobiça, desejou as carnes do Egito, ele lança de novo outro alicerce e outros átrios, isto é, entra outra vez no vestíbulo da virtude. Isso nos mostra que os que estão de pé podem cair, e os que caíram podem levantar-se.",
+    "temas": [
+      "a etíope, figura da Igreja dos gentios",
+      "Maria, figura da Sinagoga",
+      "quem está de pé pode cair"
+    ],
+    "resumo": "Haserot, a mansão dos «átrios»: depois da soberba, Israel recomeça do vestíbulo; quem está de pé pode cair, e quem caiu pode levantar-se.",
+    "relevancia": 2,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "jeronimo-insoph-2",
+    "autor": "São Jerônimo",
+    "autor_id": "jeronimo",
+    "datas": "c. 347–420",
+    "titulo_autor": "presbítero, Doutor da Igreja",
+    "obra": "Comentário a Sofonias (Commentarii in Sophoniam)",
+    "passagem": "sobre Sf 2,12",
+    "edicao": "PL 25, 1368D–1369A",
+    "versiculos": [
+      1,
+      10,
+      13,
+      14,
+      15
+    ],
+    "trecho": "1",
+    "lingua": "la",
+    "original": "Caeterum si notaverimus in omnibus Scripturis Aethiopes eos appellari, qui penitus in vitia sunt demersi, secundum illud quod in Jeremia legimus: Si mutabit Aethiops pellem suam, Aethiopibus ad meliora conversis spes erit, nullum qui voluerit agere poenitentiam, a salute alienum fore. [...] Moyses quoque, id est, Lex Domini spiritualis, Aethiopissam de gentibus duxit uxorem: et Maria, id est, synagoga Judaeorum, et Aaron, id est, carnale sacerdotium, et non secundum ordinem Melchisedech, murmurant adversus Legem, sed frustra. Statim enim synagoga perfunditur lepra, et extra castra projecta, completo tempore, ipso orante Moyse, in castra reducitur.",
+    "fonte_url": "https://mlat.uzh.ch/browser/cps_2.HieStr.CoInSo",
+    "traducao_pt": "De resto, se notarmos que em todas as Escrituras se chamam etíopes os que estão afundados de todo nos vícios, segundo o que lemos em Jeremias: «Pode o etíope mudar a sua pele?», então, quando os etíopes se convertem ao bem, há esperança: ninguém que queira fazer penitência fica longe da salvação. [...] Também Moisés, isto é, a Lei espiritual do Senhor, tomou por esposa uma etíope vinda dos gentios; e Maria, isto é, a sinagoga dos judeus, e Aarão, isto é, o sacerdócio carnal, e não segundo a ordem de Melquisedec, murmuram contra a Lei, mas em vão. Logo a sinagoga se cobre de lepra e, lançada fora do arraial, ao fim do tempo marcado, pela oração do próprio Moisés, é trazida de volta ao arraial.",
+    "temas": [
+      "a etíope, figura da Igreja dos gentios",
+      "Maria, figura da Sinagoga",
+      "a esperança de quem se converte",
+      "a volta de Israel"
+    ],
+    "resumo": "Etíope é quem está afundado no pecado; se até a etíope vira esposa de Moisés, ninguém que se converte fica longe da salvação; e a Sinagoga leprosa volta ao arraial pela oração de Moisés.",
+    "relevancia": 3,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "jeronimo-ep129-1",
+    "autor": "São Jerônimo",
+    "autor_id": "jeronimo",
+    "datas": "c. 347–420",
+    "titulo_autor": "presbítero, Doutor da Igreja",
+    "obra": "Cartas (Epistulae), 129, a Dárdano, sobre a terra prometida",
+    "passagem": "Ep. 129, 1",
+    "edicao": "PL 22, 1101",
+    "versiculos": [
+      3
+    ],
+    "trecho": "1",
+    "lingua": "la",
+    "original": "Hic est qui et in alio psalmo loquebatur: Memento, Domine, David, et omnis mansuetudinis ejus. Et iterum: Assumens mansuetos Dominus. Et apertius in Evangelio: Discite a me, quia humilis sum, et mansuetus corde. In cujus typum et Moyses omnium hominum, qui erant super terram, mansuetissimus scribitur. Haec est, ut diximus, terra viventium, in qua sanctis viris atque mansuetis bona Domini praeparantur.",
+    "fonte_url": "https://mlat.uzh.ch/browser/cps_2.HieStr.Episto32",
+    "traducao_pt": "É ele quem falava também em outro salmo: «Lembra-te, Senhor, de Davi e de toda a sua mansidão». E ainda: «O Senhor acolhe os mansos». E mais claramente no Evangelho: «Aprendei de mim, que sou manso e humilde de coração». Como figura dele, também Moisés é descrito como o mais manso de todos os homens que havia sobre a terra. Esta é, como dissemos, a terra dos vivos, onde os bens do Senhor estão preparados para os homens santos e mansos.",
+    "temas": [
+      "a mansidão de Moisés",
+      "Moisés, figura de Cristo manso",
+      "a terra dos mansos"
+    ],
+    "resumo": "A mansidão de Moisés é figura da de Cristo, «manso e humilde de coração», e os mansos herdam a terra dos vivos.",
+    "relevancia": 2,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "jeronimo-advjov-1-5",
+    "autor": "São Jerônimo",
+    "autor_id": "jeronimo",
+    "datas": "c. 347–420",
+    "titulo_autor": "presbítero, Doutor da Igreja",
+    "obra": "Contra Joviniano (Adversus Iovinianum)",
+    "passagem": "I, 5 (resumo dos argumentos de Joviniano)",
+    "edicao": "PL 23, 216C",
+    "versiculos": [
+      1,
+      10
+    ],
+    "trecho": "1",
+    "lingua": "la",
+    "original": "Moysen proponit, et Mariae lepram, quae fratri pro uxore detrahens, illico Dei ultione percussa est.",
+    "fonte_url": "https://mlat.uzh.ch/browser/cps_2.HieStr.AdvJov",
+    "traducao_pt": "[Joviniano] apresenta Moisés e a lepra de Maria, que, por ter falado mal do irmão por causa da esposa, foi logo ferida pelo castigo de Deus.",
+    "temas": [
+      "a detração castigada"
+    ],
+    "resumo": "Jerônimo resume o argumento de Joviniano, que usava o episódio em favor do matrimônio; só para registro.",
+    "relevancia": 1,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "gregorio-moralia-praef-1-3",
+    "autor": "São Gregório Magno",
+    "autor_id": "gregorio-magno",
+    "datas": "c. 540–604",
+    "titulo_autor": "papa, Doutor da Igreja",
+    "obra": "Comentário moral a Jó (Moralia in Iob)",
+    "passagem": "prefácio, 1, 3",
+    "edicao": "PL 75, 517C–D",
+    "versiculos": [
+      3
+    ],
+    "trecho": "1",
+    "lingua": "la",
+    "original": "Moris enim Scripturae sacrae est ut ipsi qui scribunt, sic de se in illa quasi de aliis loquantur. Hinc est enim quod Moyses ait: Erat Moyses vir mitissimus super omnes homines, qui morabantur in terra. Hinc Joannes dicit: Discipulus ille, quem diligebat Jesus. [...] Scriptores igitur sacri eloquii, quia impulsu sancti Spiritus agitantur, sic de se in illo testimonium tanquam de aliis proferunt. Ergo sanctus Spiritus per Moysen locutus est de Moyse; sanctus Spiritus per Joannem locutus est de Joanne.",
+    "fonte_url": "https://mlat.uzh.ch/browser/cps_2.GreI.Morali",
+    "traducao_pt": "É costume da Sagrada Escritura que os próprios autores falem de si nela como se falassem de outros. Por isso Moisés diz: «Moisés era o homem mais manso de todos os que viviam sobre a terra». Por isso João diz: «Aquele discípulo que Jesus amava». [...] Os escritores da palavra sagrada, porque são movidos pelo impulso do Espírito Santo, dão testemunho de si como se fosse de outros. Assim, o Espírito Santo falou de Moisés por meio de Moisés; o Espírito Santo falou de João por meio de João.",
+    "temas": [
+      "Moisés humilde, que fala de si",
+      "o Espírito Santo, autor da Escritura"
+    ],
+    "resumo": "Moisés não se elogia: é o Espírito Santo que, por meio dele, dá testemunho da sua mansidão, como faz João com o «discípulo amado».",
+    "relevancia": 2,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "gregorio-hez-1-2-8",
+    "autor": "São Gregório Magno",
+    "autor_id": "gregorio-magno",
+    "datas": "c. 540–604",
+    "titulo_autor": "papa, Doutor da Igreja",
+    "obra": "Homilias sobre Ezequiel (Homiliae in Hiezechihelem)",
+    "passagem": "I, 2, 8",
+    "edicao": "PL 76, 799A–B",
+    "versiculos": [
+      3
+    ],
+    "trecho": "1",
+    "lingua": "la",
+    "original": "Hinc etiam Moyses ait: Erat Moyses vir mitissimus super omnes homines qui morabantur in terra. Qui enim non dicit Eram, sed erat, profecto aperte indicat quia is qui per illum de illo loquebatur alius erat.",
+    "fonte_url": "https://mlat.uzh.ch/browser/cps_2.GreI.HoInEz",
+    "traducao_pt": "Por isso também Moisés diz: «Moisés era o homem mais manso de todos os que viviam sobre a terra». Quem não diz «eu era», mas «ele era», mostra com clareza que quem falava dele por meio dele era outro.",
+    "temas": [
+      "Moisés humilde, que fala de si",
+      "o Espírito Santo, autor da Escritura"
+    ],
+    "resumo": "«Era», e não «eu era»: quem louva Moisés é o Espírito que fala por ele.",
+    "relevancia": 1,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "gregorio-hez-2-3-21",
+    "autor": "São Gregório Magno",
+    "autor_id": "gregorio-magno",
+    "datas": "c. 540–604",
+    "titulo_autor": "papa, Doutor da Igreja",
+    "obra": "Homilias sobre Ezequiel (Homiliae in Hiezechihelem)",
+    "passagem": "II, 3, 21",
+    "edicao": "PL 76, 970B–C",
+    "versiculos": [
+      3,
+      13
+    ],
+    "trecho": "1",
+    "lingua": "la",
+    "original": "Mansuetudinem atque patientiam obtinere quaerimus? Moysen ante oculos deducamus, qui, exceptis parvulis ac mulieribus, sexcenta millia armatorum regens, mitis fuisse describitur super omnes homines qui habitabant super faciem orbis terrae.",
+    "fonte_url": "https://mlat.uzh.ch/browser/cps_2.GreI.HoInEz",
+    "traducao_pt": "Queremos alcançar a mansidão e a paciência? Ponhamos Moisés diante dos olhos: governando seiscentos mil homens armados, sem contar as crianças e as mulheres, ele é descrito como o mais manso de todos os homens que habitavam sobre a face da terra.",
+    "temas": [
+      "a mansidão de Moisés",
+      "os santos como exemplo"
+    ],
+    "resumo": "Quem quer aprender mansidão olhe para Moisés, manso mesmo governando um povo imenso.",
+    "relevancia": 2,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "gregorio-moralia-27-10",
+    "autor": "São Gregório Magno",
+    "autor_id": "gregorio-magno",
+    "datas": "c. 540–604",
+    "titulo_autor": "papa, Doutor da Igreja",
+    "obra": "Comentário moral a Jó (Moralia in Iob)",
+    "passagem": "XXVII, 10 (n. 16–17)",
+    "edicao": "PL 76, 408B–C",
+    "versiculos": [
+      3,
+      13
+    ],
+    "trecho": "1",
+    "lingua": "la",
+    "original": "Cum mansuetudine repleri concupiscimus, praecedentium exemplis adjuvamur. Quid enim Moyse mansuetius, qui commissi sibi populi seditionem tolerat, et tamen irascentem Dominum pro eisdem suis persecutoribus rogat, seque pro illis divino furori objicit, quia in sancto ejus pectore etiam ex persecutione charitas ignescit?",
+    "fonte_url": "https://mlat.uzh.ch/browser/cps_2.GreI.Morali2",
+    "traducao_pt": "Quando desejamos encher-nos de mansidão, os exemplos dos que vieram antes nos ajudam. Quem foi mais manso do que Moisés? Ele suporta a revolta do povo que lhe foi confiado e, mesmo assim, pede ao Senhor irado por esses mesmos que o perseguem, e se põe diante da ira divina em favor deles, porque no seu peito santo até a perseguição acende a caridade.",
+    "temas": [
+      "a mansidão de Moisés",
+      "rezar por quem nos ofende"
+    ],
+    "resumo": "A mansidão de Moisés é ativa: suporta os revoltosos e ainda reza por quem o persegue; nele até a perseguição acende a caridade.",
+    "relevancia": 2,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "isidoro-allegoriae-61-62",
+    "autor": "Santo Isidoro de Sevilha",
+    "autor_id": "isidoro",
+    "datas": "c. 560–636",
+    "titulo_autor": "bispo de Sevilha, Doutor da Igreja",
+    "obra": "Alegorias da Sagrada Escritura (Allegoriae quaedam Sacrae Scripturae)",
+    "passagem": "61–62",
+    "edicao": "PL 83, 109A–B",
+    "versiculos": [
+      1,
+      10
+    ],
+    "trecho": "1",
+    "lingua": "la",
+    "original": "Maria, soror Moysi, Synagogae speciem praetulit, quae leprosa propter detractionem et murmurationem contra Christum exstitit. Uxor Moysi Aethiopissa, figuravit Ecclesiam ex gentibus Christo conjunctam, cujus ob causam zeli Synagoga obtrectans adversus Christum, illico contagio leprae perfunditur.",
+    "fonte_url": "https://mlat.uzh.ch/browser/cps_2.IsiHis.AlSaSc",
+    "traducao_pt": "Maria, irmã de Moisés, representou a Sinagoga, que ficou leprosa pela detração e pela murmuração contra Cristo. A esposa etíope de Moisés figurou a Igreja dos gentios unida a Cristo; por causa dela, a Sinagoga, falando mal de Cristo por ciúme, logo se cobre do contágio da lepra.",
+    "temas": [
+      "a etíope, figura da Igreja dos gentios",
+      "Maria, figura da Sinagoga"
+    ],
+    "resumo": "Em duas frases, a chave alegórica que a Idade Média herdou: a etíope é a Igreja dos gentios; Maria, a Sinagoga ciumenta.",
+    "relevancia": 2,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "bernardo-epiph1-s2-2",
+    "autor": "São Bernardo de Claraval",
+    "autor_id": "bernardo",
+    "datas": "1090–1153",
+    "titulo_autor": "abade, Doutor da Igreja",
+    "obra": "Sermões: 1º domingo depois da oitava da Epifania (In dominica I post octavam Epiphaniae)",
+    "passagem": "sermão 2, 2",
+    "edicao": "PL 183, 158D–159A",
+    "versiculos": [
+      1,
+      2
+    ],
+    "trecho": "1",
+    "lingua": "la",
+    "original": "Multum enim haec sponsa sponso suo inferior genere, inferior specie, inferior dignitate. Attamen propter Aethiopissam istam de longinquo Filius aeterni Regis advenit, et ut sibi desponsaret illam, etiam mori pro ea non timuit. Moyses quidem Aethiopissam duxit uxorem, sed non potuit Aethiopissae mutare colorem: Christus vero quam adamavit ignobilem adhuc et foedam, gloriosam sibi exhibebit Ecclesiam, non habentem maculam neque rugam. Murmuret Aaron, murmuret et Maria, non nova, sed vetus; non Mater Domini, sed soror Moysi; non nostra, inquam, Maria; illa enim sollicita est, si quid forte deest in nuptiis. Vos autem, ut dignum est, murmurantibus sacerdotibus, murmurante Synagoga, toto affectu in gratiarum actione versamini.",
+    "fonte_url": "https://mlat.uzh.ch/browser/cps_2.BerCla.DoIPoOc",
+    "traducao_pt": "Esta esposa é muito inferior ao seu Esposo: inferior pela origem, pela beleza, pela dignidade. E, no entanto, por causa desta etíope o Filho do Rei eterno veio de longe e, para desposá-la, não teve medo nem de morrer por ela. Moisés tomou por esposa uma etíope, mas não pôde mudar a cor da etíope; Cristo, porém, a quem amou ainda humilde e feia, há de apresentá-la a si como Igreja gloriosa, sem mancha nem ruga. Murmure Aarão, murmure também Maria: não a nova, mas a antiga; não a Mãe do Senhor, mas a irmã de Moisés; não a nossa Maria, que está atenta para ver se falta alguma coisa nas bodas. Vós, porém, como convém, enquanto os sacerdotes e a Sinagoga murmuram, ficai de todo o coração na ação de graças.",
+    "temas": [
+      "a etíope, figura da Igreja e da alma",
+      "Cristo, o verdadeiro Moisés",
+      "as duas Marias",
+      "a murmuração e a ação de graças"
+    ],
+    "resumo": "Moisés não pôde mudar a cor da etíope; Cristo a torna gloriosa. Que murmure a Maria antiga; a nova, a Mãe do Senhor, cuida das bodas.",
+    "relevancia": 3,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "bernardo-sc39-10",
+    "autor": "São Bernardo de Claraval",
+    "autor_id": "bernardo",
+    "datas": "1090–1153",
+    "titulo_autor": "abade, Doutor da Igreja",
+    "obra": "Sermões sobre o Cântico dos Cânticos (Sermones super Cantica canticorum)",
+    "passagem": "sermão 39, 10",
+    "edicao": "PL 183, 981C",
+    "versiculos": [
+      1
+    ],
+    "trecho": "1",
+    "lingua": "la",
+    "original": "Recordare nunc mihi Moysi et Aethiopissae, et agnosce jam tunc praefiguratum conjugium Verbi et animae peccatricis; et discerne, si potes, quid tibi dulcius sapiat in consideratione suavissimi sacramenti, Verbine nimium benigna dignatio, an animae inaestimabilis gloria, an inopinata fiducia peccatoris. Sed non potuit Moyses Aethiopissae mutare pellem, potuit Christus.",
+    "fonte_url": "https://mlat.uzh.ch/browser/cps_2.BerCla.SeInCaC",
+    "traducao_pt": "Lembra-te agora de Moisés e da etíope, e reconhece ali, já naquele tempo, a figura do casamento do Verbo com a alma pecadora. E distingue, se puderes, o que te parece mais doce ao contemplar esse mistério suavíssimo: se a condescendência tão bondosa do Verbo, se a glória inestimável da alma, ou se a confiança inesperada do pecador. Moisés não pôde mudar a pele da etíope; Cristo pôde.",
+    "temas": [
+      "a etíope, figura da alma pecadora",
+      "Cristo, o verdadeiro Moisés"
+    ],
+    "resumo": "O casamento de Moisés com a etíope prefigura o do Verbo com a alma pecadora; mas só Cristo pode mudar-lhe a pele.",
+    "relevancia": 3,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "bernardo-sc64-10",
+    "autor": "São Bernardo de Claraval",
+    "autor_id": "bernardo",
+    "datas": "1090–1153",
+    "titulo_autor": "abade, Doutor da Igreja",
+    "obra": "Sermões sobre o Cântico dos Cânticos (Sermones super Cantica canticorum)",
+    "passagem": "sermão 64, 10",
+    "edicao": "PL 183, 1088B",
+    "versiculos": [
+      1
+    ],
+    "trecho": "1",
+    "lingua": "la",
+    "original": "Cum quonam tibi, o admirande sponse, tam familiare consortium? Nobis, inquis, capite. Cui tecum? an Ecclesiae de gentibus? De mortalibus et peccatoribus collecta est. Illam scimus quae sit. Sed tu quis es, Aethiopissae hujus tam devotus, tam ambitiosus amator? Sane non alter Moyses, sed plus quam Moyses.",
+    "fonte_url": "https://mlat.uzh.ch/browser/cps_2.BerCla.SeInCaC",
+    "traducao_pt": "Com quem tens, ó Esposo admirável, uma convivência tão íntima? «Conosco», dizes, «apanhai-nos». Quem é que está contigo? A Igreja dos gentios? Ela foi reunida de mortais e pecadores. Esta, sabemos quem é. Mas tu, quem és, amante tão dedicado e tão ardente desta etíope? Certamente não outro Moisés, mas mais do que Moisés.",
+    "temas": [
+      "a etíope, figura da Igreja dos gentios",
+      "Cristo, mais do que Moisés"
+    ],
+    "resumo": "O amante da etíope, a Igreja tirada dos pecadores, não é outro Moisés, mas mais do que Moisés.",
+    "relevancia": 2,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "bernardo-sc12-4",
+    "autor": "São Bernardo de Claraval",
+    "autor_id": "bernardo",
+    "datas": "1090–1153",
+    "titulo_autor": "abade, Doutor da Igreja",
+    "obra": "Sermões sobre o Cântico dos Cânticos (Sermones super Cantica canticorum)",
+    "passagem": "sermão 12, 4",
+    "edicao": "PL 183, 829C–D",
+    "versiculos": [
+      3,
+      13
+    ],
+    "trecho": "1",
+    "lingua": "la",
+    "original": "Quid de Moyse dicam? quanto adipe et pinguedine et ipse repleverat viscera sua? Nec domus illa exasperans, in qua pro tempore versabatur, potuit unquam in omni murmure et furore suo unctionem spiritus, qua semel imbutus fuerat, exterminare, quominus inter assiduas lites et quotidiana jurgia ipse in sua mansuetudine perduraret. Merito testatus est Spiritus sanctus de eo, quod esset mitissimus omnium hominum, qui morabantur super terram. Siquidem cum his qui oderant pacem, erat pacificus, in tantum ut populo ingrato et rebelli non modo non irasceretur, sed et irascentem Deum suo interventu leniret. [...] O vere hominem unctum unctione misericordiae!",
+    "fonte_url": "https://mlat.uzh.ch/browser/cps_2.BerCla.SeInCaC",
+    "traducao_pt": "Que direi de Moisés? De quanta gordura e unção ele também tinha enchido o seu íntimo? Aquela casa rebelde, no meio da qual ele vivia então, nunca pôde, com toda a sua murmuração e o seu furor, arrancar dele a unção do Espírito que um dia tinha recebido, de modo que, entre brigas constantes e discussões de todo dia, ele permanecia na sua mansidão. Com razão o Espírito Santo deu testemunho de que ele era o mais manso de todos os homens que viviam sobre a terra. Com os que odiavam a paz, ele era pacífico; tanto que não só não se irritava com o povo ingrato e rebelde, mas ainda acalmava, com a sua intercessão, a ira de Deus. [...] Homem verdadeiramente ungido com a unção da misericórdia!",
+    "temas": [
+      "a mansidão de Moisés",
+      "a murmuração",
+      "rezar por quem nos ofende"
+    ],
+    "resumo": "Nenhuma murmuração conseguiu tirar de Moisés a unção da mansidão: pacífico com quem odiava a paz, ainda intercedia pelos rebeldes.",
+    "relevancia": 3,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "ruperto-innum-1-34a",
+    "autor": "Ruperto de Deutz",
+    "autor_id": "ruperto",
+    "datas": "c. 1075–1129",
+    "titulo_autor": "abade beneditino",
+    "obra": "A Trindade e as suas obras (De Trinitate et operibus eius), Comentário a Números (In Numeros)",
+    "passagem": "I, 34",
+    "edicao": "PL 167, 870B–871A",
+    "versiculos": [
+      1,
+      2,
+      3
+    ],
+    "trecho": "1",
+    "lingua": "la",
+    "original": "Nam cum Moyses uxorem duxerit filiam Jethro sacerdotis Madian, terra autem Madian vicina sit terrae Aethiopum, recte intelligitur quod pro eo quod dicerent uxorem Madianitidem, dixerint uxorem Aethiopissam, sicut se habet amaritudo rixantium, ut semper e vicino rapiat quod valeat ad augendum contemptum. [...] Videlicet quia paulo ante creverat turba prophetantium, septuaginta namque seniores propheticum acceperant de ipso Moyse spiritum [...]. Idcirco quasi pro multitudine prophetantium, unus prophetarum maximus decrescebat, et vilescebat in eorum oculis. Hoc frequenter accidit et in Ecclesia Christi ut magistrum succrescentes discipuli, praelatum illustrem subditi, patrem contentiose audeant obscurare illustres filii.",
+    "fonte_url": "https://mlat.uzh.ch/browser/cps_2.RupTui.DeTrEtO",
+    "traducao_pt": "Como Moisés tinha casado com a filha de Jetro, sacerdote de Madiã, e a terra de Madiã é vizinha da terra dos etíopes, entende-se bem que, em vez de dizer «a esposa madianita», tenham dito «a esposa etíope»: é próprio da amargura de quem briga pegar sempre ali perto o que sirva para aumentar o desprezo. [...] É que pouco antes tinha crescido o grupo dos que profetizavam: os setenta anciãos tinham recebido o espírito profético do próprio Moisés [...]. Por isso, diante da multidão dos que profetizavam, o único e maior dos profetas parecia diminuir e perdia valor aos olhos deles. Isso acontece muitas vezes também na Igreja de Cristo: os discípulos que crescem ousam ofuscar o mestre, os súditos o superior ilustre, os filhos ilustres, por espírito de disputa, o próprio pai.",
+    "temas": [
+      "a etíope era Séfora, a madianita",
+      "a inveja entre irmãos",
+      "a murmuração contra os superiores"
+    ],
+    "resumo": "«Etíope» era o apelido maldoso dado à madianita Séfora; e a inveja nasceu do sucesso dos setenta profetas: os discípulos que crescem às vezes querem ofuscar o mestre.",
+    "relevancia": 3,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "ruperto-innum-1-34b",
+    "autor": "Ruperto de Deutz",
+    "autor_id": "ruperto",
+    "datas": "c. 1075–1129",
+    "titulo_autor": "abade beneditino",
+    "obra": "A Trindade e as suas obras (De Trinitate et operibus eius), Comentário a Números (In Numeros)",
+    "passagem": "I, 34",
+    "edicao": "PL 167, 871A",
+    "versiculos": [
+      3
+    ],
+    "trecho": "1",
+    "lingua": "la",
+    "original": "Quod cum audisset Dominus, iratus est. Quare? erat enim, inquit, Moyses vir mitissimus super omnes homines qui morabantur in terra, dulcis quidem laus, et vehementer magna laus, egregiae virtutis, quam possidens omnis praelatus recte dicere possit: Imitatores mei estote, sicut et ego Christi. [...] Nullo modo seipsum defendebat, et hoc pacto quasi legitima causa defensorem sui Deum magis tacendo constituebat. Nam mihi vindictam et ego retribuam, dicit Dominus. Verumtamen parum dictum est, quia mitissimus erat, sed pro merito Moysi laus ista longe inferior. Supplevit ergo Dominus de Moyse quod Moyses de seipso minus dixerat.",
+    "fonte_url": "https://mlat.uzh.ch/browser/cps_2.RupTui.DeTrEtO",
+    "traducao_pt": "«Quando o Senhor ouviu isso, irou-se.» Por quê? «Porque Moisés», diz, «era o homem mais manso de todos os que viviam sobre a terra»: louvor doce, louvor muito grande de uma virtude extraordinária; todo superior que a possua pode dizer com razão: «Sede meus imitadores, como eu sou de Cristo». [...] Ele não se defendia de modo nenhum, e assim, calando-se, fazia de Deus, como por direito, o seu defensor. Pois «minha é a vingança, eu é que retribuirei, diz o Senhor». Mesmo assim, dizer que era o mais manso é pouco: esse louvor fica muito abaixo do mérito de Moisés. Por isso o Senhor completou a respeito de Moisés o que Moisés tinha dito de menos sobre si mesmo.",
+    "temas": [
+      "a mansidão de Moisés",
+      "o silêncio do ofendido",
+      "Deus defende o manso"
+    ],
+    "resumo": "Moisés não se defende; calando, faz de Deus o seu defensor, e Deus completa o elogio que ele, humilde, deixou curto.",
+    "relevancia": 3,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "damiao-ep-5-12",
+    "autor": "São Pedro Damião",
+    "autor_id": "pedro-damiao",
+    "datas": "1007–1072",
+    "titulo_autor": "cardeal bispo de Óstia, Doutor da Igreja",
+    "obra": "Cartas (Epistolae), V, 12, a G., tesoureiro da igreja de Faenza",
+    "passagem": "Ep. V, 12",
+    "edicao": "PL 144, 356A–B",
+    "versiculos": [
+      3
+    ],
+    "trecho": "1",
+    "lingua": "la",
+    "original": "Moyses, qui dudum cognati gregem in deserto humiliter pavit, ut melioris postmodum gregis dux fieret, totius Israelitici populi obsequium non refugit, qui nimirum ad tanti honoris culmen perductus est, ut omnis illa Hebraeorum multitudo ad jussionis ejus se verba suspenderet, ejusque legibus supplex obtemperaret. Uterque tamen quantae mansuetudinis in ipsa sublimitate perstiterit, indubitanter agnoscitur, et dum alter se agnoscendum peregrinis fratribus, cum latere potuisset, ultroneus offerat; alter suam humilitatem, velut alienam, humiliter pandat: Erat, inquit, Moyses vir mitissimus super omnes homines, qui morabantur in terra.",
+    "fonte_url": "https://mlat.uzh.ch/browser/cps_2.PetDam.Episto243",
+    "traducao_pt": "Moisés, que antes apascentou com humildade no deserto o rebanho do sogro, para depois se tornar guia de um rebanho melhor, não recusou o serviço de todo o povo de Israel; e foi levado a um cume tão alto de honra que toda aquela multidão dos hebreus ficava pendente das suas ordens e obedecia, suplicante, às suas leis. Mas sabe-se sem dúvida quanta mansidão os dois [José e Moisés] conservaram no próprio alto do poder: um se dá a conhecer por si mesmo aos irmãos estrangeiros, quando podia ficar escondido; o outro revela com humildade a sua humildade, como se fosse de outro: «Moisés», diz, «era o homem mais manso de todos os que viviam sobre a terra».",
+    "temas": [
+      "a mansidão de Moisés",
+      "humildade no poder"
+    ],
+    "resumo": "Moisés guardou a mansidão no alto do poder e fala da própria humildade como se fosse de outro.",
+    "relevancia": 2,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "ambrosio-hex-1-2-6",
+    "autor": "Santo Ambrósio",
+    "autor_id": "ambrosio",
+    "datas": "c. 340–397",
+    "titulo_autor": "bispo de Milão, Doutor da Igreja",
+    "obra": "Os seis dias da criação (Hexaemeron)",
+    "passagem": "I, 2, 6",
+    "edicao": "PL 14, 125B",
+    "versiculos": [
+      6,
+      7,
+      8
+    ],
+    "trecho": "2",
+    "lingua": "la",
+    "original": "Cui testificatur Scriptura, quia nemo surrexit amplius Propheta in Israel, sicut Moyses, quem scivit Dominus facie ad faciem. Non in visione, neque in somniis sed os ad os cum Deo summo locutus; neque in specie, neque per aenigmata, sed clara atque perspicua praesentiae divinae dignatione donatus.",
+    "fonte_url": "https://mlat.uzh.ch/browser/cps_2.AmbMed.Hexaem",
+    "traducao_pt": "A Escritura dá testemunho dele: não surgiu mais em Israel profeta como Moisés, a quem o Senhor conheceu face a face. Não em visão nem em sonhos, mas boca a boca falou com o Deus altíssimo; não em figura nem por enigmas, mas recebeu o favor da presença divina, clara e transparente.",
+    "temas": [
+      "boca a boca, sem enigmas",
+      "Moisés, o maior dos profetas"
+    ],
+    "resumo": "Moisés falou com Deus boca a boca, sem sonhos nem enigmas: por isso a sua palavra sobre a criação merece fé.",
+    "relevancia": 2,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "gregorio-incant-3",
+    "autor": "São Gregório Magno",
+    "autor_id": "gregorio-magno",
+    "datas": "c. 540–604",
+    "titulo_autor": "papa, Doutor da Igreja",
+    "obra": "Comentário ao Cântico dos Cânticos (Expositio in Canticum canticorum)",
+    "passagem": "3 (sobre Ct 1,1)",
+    "edicao": "PL 79, 479C",
+    "versiculos": [
+      8
+    ],
+    "trecho": "2",
+    "lingua": "la",
+    "original": "Osculetur me osculo oris sui. Ipse me tangat intus, ut cognoscam intelligentia; et non jam praedicatorum vocibus, sed internae gratiae ex tactu perfruar. Quasi osculo oris sui osculabatur Moysen, cum ei per fiduciam familiaris gratiae intellectum porrigeret. Unde scriptum est: Si fuerit propheta, in somnio loquar ad eum; et non sicut famulo meo Moysi: os enim ad os loquor ei. Os quippe ad os loqui, quasi osculari est, et internam intelligentiam mente tangere.",
+    "fonte_url": "https://mlat.uzh.ch/browser/cps_2.GreI.ExSuCaC",
+    "traducao_pt": "«Beije-me com o beijo da sua boca.» Que ele mesmo me toque por dentro, para que eu conheça com a inteligência; e que eu goze, já não das vozes dos pregadores, mas do toque da graça interior. Era como com o beijo da sua boca que ele beijava Moisés, quando, na confiança de uma graça familiar, lhe dava o entendimento. Por isso está escrito: «Se houver um profeta, em sonho lhe falarei; mas não como ao meu servo Moisés: com ele falo boca a boca». Falar boca a boca é como beijar, e tocar com a mente a inteligência interior.",
+    "temas": [
+      "boca a boca, sem enigmas",
+      "o beijo da boca",
+      "a familiaridade com Deus"
+    ],
+    "resumo": "«Boca a boca» é como um beijo: Deus toca a mente de Moisés por dentro, sem intermediários.",
+    "relevancia": 3,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "bernardo-sc45-6",
+    "autor": "São Bernardo de Claraval",
+    "autor_id": "bernardo",
+    "datas": "1090–1153",
+    "titulo_autor": "abade, Doutor da Igreja",
+    "obra": "Sermões sobre o Cântico dos Cânticos (Sermones super Cantica canticorum)",
+    "passagem": "sermão 45, 6",
+    "edicao": "PL 183, 1002A",
+    "versiculos": [
+      8
+    ],
+    "trecho": "2",
+    "lingua": "la",
+    "original": "Existimo enim nequaquam hac vice ejus sensibus importatas imagines carnis, aut crucis, aut alias quascunque corporearum similitudines infirmitatum. [...] Haec autem eum intuita, nunc pulchrum decorumque pronuntiat, in visione meliori illum sibi apparuisse significans. Ore enim ad os, sicut quondam cum sancto Moyse, loquitur cum sponsa; et palam, non per aenigmata et figuras, Deum videt. Talem denique ore pronuntiat, qualem et mente conspicatur, visione plane sublimi et suavi.",
+    "fonte_url": "https://mlat.uzh.ch/browser/cps_2.BerCla.SeInCaC",
+    "traducao_pt": "Penso que desta vez não foram levadas aos sentidos dela imagens da carne, ou da cruz, ou quaisquer outras semelhanças de fraquezas corporais. [...] Mas ela, tendo-o contemplado, agora o proclama belo e formoso, dando a entender que ele lhe apareceu numa visão melhor. Pois ele fala com a esposa boca a boca, como outrora com o santo Moisés; e ela vê a Deus claramente, não por enigmas e figuras. Assim, ela diz com a boca tal como o contempla com a mente, numa visão de fato sublime e suave.",
+    "temas": [
+      "boca a boca, sem enigmas",
+      "a contemplação"
+    ],
+    "resumo": "O que Deus deu a Moisés, falar boca a boca e ser visto sem enigmas, dá-o também à alma esposa na contemplação.",
+    "relevancia": 3,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "bernardo-sc32-9",
+    "autor": "São Bernardo de Claraval",
+    "autor_id": "bernardo",
+    "datas": "1090–1153",
+    "titulo_autor": "abade, Doutor da Igreja",
+    "obra": "Sermões sobre o Cântico dos Cânticos (Sermones super Cantica canticorum)",
+    "passagem": "sermão 32, 9",
+    "edicao": "PL 183, 950A",
+    "versiculos": [
+      6,
+      7,
+      8
+    ],
+    "trecho": "2",
+    "lingua": "la",
+    "original": "Magna siquidem fides magna meretur; et quatenus in bonis Domini fiduciae pedem porrexeris, eatenus possidebis. Denique Moysi ore ad os loquitur Deus; et palam, non per aenigmata et figuras Dominum videre meretur, cum prophetis aliis tantum in visione apparere se dicat, et per somnium loqui.",
+    "fonte_url": "https://mlat.uzh.ch/browser/cps_2.BerCla.SeInCaC",
+    "traducao_pt": "Uma grande fé merece grandes coisas; e até onde estenderes o pé da confiança nos bens do Senhor, até aí os possuirás. Assim, Deus fala com Moisés boca a boca, e Moisés merece ver o Senhor claramente, não por enigmas e figuras, ao passo que aos outros profetas Deus diz que aparece só em visão e fala por sonho.",
+    "temas": [
+      "boca a boca, sem enigmas",
+      "a grande fé alcança muito"
+    ],
+    "resumo": "A grande confiança de Moisés alcançou o grande dom: ver o Senhor sem enigmas.",
+    "relevancia": 2,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "bernardo-sc33-6",
+    "autor": "São Bernardo de Claraval",
+    "autor_id": "bernardo",
+    "datas": "1090–1153",
+    "titulo_autor": "abade, Doutor da Igreja",
+    "obra": "Sermões sobre o Cântico dos Cânticos (Sermones super Cantica canticorum)",
+    "passagem": "sermão 33, 6",
+    "edicao": "PL 183, 954C",
+    "versiculos": [
+      6,
+      7,
+      8
+    ],
+    "trecho": "2",
+    "lingua": "la",
+    "original": "Indica mihi, ut quemadmodum Jacob adhuc in corpore manens vidit Dominum facie ad faciem, et salva facta est anima ejus; vel certe sicut Moyses vidit eum, non per figuras et aenigmata, seu per somnia, uti prophetae alii, sed modo plane praecellenti atque inexperto caeteris, sibi noto et Deo.",
+    "fonte_url": "https://mlat.uzh.ch/browser/cps_2.BerCla.SeInCaC",
+    "traducao_pt": "Mostra-me [onde descansas], para que, assim como Jacó, ainda no corpo, viu o Senhor face a face e a sua alma foi salva; ou, ainda, assim como Moisés o viu, não por figuras e enigmas nem por sonhos, como os outros profetas, mas de um modo de todo superior e desconhecido dos outros, conhecido só dele e de Deus...",
+    "temas": [
+      "boca a boca, sem enigmas",
+      "o desejo de ver a Deus"
+    ],
+    "resumo": "O modo como Moisés viu a Deus é um segredo entre ele e Deus, e a alma o deseja para si.",
+    "relevancia": 1,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "ruperto-innum-1-34c",
+    "autor": "Ruperto de Deutz",
+    "autor_id": "ruperto",
+    "datas": "c. 1075–1129",
+    "titulo_autor": "abade beneditino",
+    "obra": "A Trindade e as suas obras (De Trinitate et operibus eius), Comentário a Números (In Numeros)",
+    "passagem": "I, 34",
+    "edicao": "PL 167, 871B–D",
+    "versiculos": [
+      6,
+      7,
+      8
+    ],
+    "trecho": "2",
+    "lingua": "la",
+    "original": "Mensuram suam cognoscere habebant, ut minoris et majoris habendo distantiam, non se super se extollerent [...]. In visione, inquit, apparebo ei, vel per somnium loquar ad illum. Somnia futurarum praeferunt imagines rerum, et si prudentem habuerint conjectorem, quaedam prophetiae sunt. Prius rerum futurarum imagines vel figurae conspiciuntur, et deinde conjiciendo res ipsae ex parte praevidentur [...]. At non, inquit, talis servus meus Moyses, qui in omni domo mea fidelissimus est. Non hic prius figuras per somnium conspicit, et deinde de futuris rebus conjicit, seu potius econtra prius res ipsas de longinquo futuras prospicit et deinde figuris et aenigmatibus pro tempore operit atque involvit. [...] Ac si dicat: Prius claro intuitu rerum futurarum ordinem videt, et quanquam aenigmata conscribat, et figuras, rerum tamen veritatem intrinsecus ipse tenet.",
+    "fonte_url": "https://mlat.uzh.ch/browser/cps_2.RupTui.DeTrEtO",
+    "traducao_pt": "Deviam conhecer a sua medida, para que, vendo a distância entre o menor e o maior, não se levantassem acima de si mesmos [...]. «Em visão», diz, «lhe aparecerei, ou em sonho lhe falarei.» Os sonhos trazem as imagens das coisas futuras e, se tiverem um intérprete prudente, são uma espécie de profecia: primeiro se veem as imagens ou figuras das coisas futuras, e depois, interpretando, se preveem em parte as próprias coisas [...]. «Mas não é assim o meu servo Moisés, que é o mais fiel em toda a minha casa.» Ele não vê primeiro as figuras em sonho para depois deduzir as coisas futuras; ao contrário, primeiro contempla de longe as próprias coisas futuras, e depois, por um tempo, as cobre e envolve com figuras e enigmas. [...] É como se dissesse: ele vê primeiro, com olhar claro, a ordem das coisas futuras; e, embora escreva enigmas e figuras, guarda dentro de si a verdade das coisas.",
+    "temas": [
+      "boca a boca, sem enigmas",
+      "Moisés, o maior dos profetas",
+      "cada um conheça a sua medida"
+    ],
+    "resumo": "Os profetas vão da figura à coisa; Moisés vai da coisa à figura: vê claramente a verdade e depois a escreve em figuras, para o seu tempo.",
+    "relevancia": 2,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "pseudo-gregorio-ep-14-17",
+    "autor": "São Gregório Magno",
+    "autor_id": "gregorio-magno",
+    "datas": "c. 540–604",
+    "titulo_autor": "papa, Doutor da Igreja",
+    "obra": "Cartas (Registrum epistularum), XIV, 17, a Félix de Messina (carta espúria, das Falsas Decretais)",
+    "passagem": "Ep. XIV, 17",
+    "edicao": "PL 77, 1324D–1325A",
+    "versiculos": [
+      8,
+      10
+    ],
+    "trecho": "2",
+    "lingua": "la",
+    "original": "Unde summopere cavendum est omnibus fidelibus ne clanculo aut publice episcopum suum, id est unctum Domini, detractionibus aut vituperationibus dilanient, perpendentes illud exemplum Mariae, quia pro eo quod Moysi famulo Dei propter Aethiopissam detraxit, immunditia leprae multata sit.",
+    "fonte_url": "https://mlat.uzh.ch/browser/cps_2.GreI.Episto93",
+    "traducao_pt": "Por isso todos os fiéis devem tomar muito cuidado para não despedaçar o seu bispo, isto é, o ungido do Senhor, com detrações ou insultos, às escondidas ou em público, pensando no exemplo de Maria: por ter falado mal de Moisés, servo de Deus, por causa da etíope, ela foi castigada com a impureza da lepra.",
+    "temas": [
+      "a detração castigada",
+      "a murmuração contra os superiores"
+    ],
+    "resumo": "Carta atribuída a Gregório, mas falsa (séc. IX): usa Maria como exemplo contra quem fala mal do bispo. Só para registro.",
+    "relevancia": 1,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "ambrosio-ep63-57",
+    "autor": "Santo Ambrósio",
+    "autor_id": "ambrosio",
+    "datas": "c. 340–397",
+    "titulo_autor": "bispo de Milão, Doutor da Igreja",
+    "obra": "Cartas (Epistulae), 63, à Igreja de Vercelli",
+    "passagem": "Ep. 63, 57",
+    "edicao": "PL 16, 1203D–1204A",
+    "versiculos": [
+      1,
+      10,
+      13,
+      14,
+      15
+    ],
+    "trecho": "3",
+    "lingua": "la",
+    "original": "Ipsa prophetissa Maria, quae cum fratribus pede transmeaverat freta maris, quia Aethiopissae mysterium adhuc nesciens, immurmuraverat adversus fratrem Moysen, leprae maculis inhorruit; ut vix tanto esset absoluta contagio; nisi Moyses rogasset. Quamvis ad typum Synagogae illa refertur admurmuratio, quae Aethiopissae istius, id est, Ecclesiae ex gentibus sacramentum ignorans; quotidiano immurmurat convicio, et invidet ei plebi, cujus fide etiam ipsa exuetur a perfidiae suae lepra, secundum quod legimus, quia caecitas ex parte in Israel contigit, donec plenitudo gentium intraret, et sic omnis Israel salvus fieret.",
+    "fonte_url": "https://mlat.uzh.ch/browser/cps_2.AmbMed.EpClI",
+    "traducao_pt": "A própria profetisa Maria, que com os irmãos tinha atravessado a pé o mar, por ter murmurado contra o irmão Moisés, sem conhecer ainda o mistério da etíope, cobriu-se de manchas de lepra; e mal teria sido livrada de um contágio tão grande se Moisés não tivesse rezado. Essa murmuração, porém, se refere à figura da Sinagoga, que, sem conhecer o mistério desta etíope, isto é, da Igreja dos gentios, murmura contra ela com insultos todos os dias e tem inveja desse povo; e é pela fé desse mesmo povo que ela há de ser despida da lepra da sua incredulidade, como lemos: uma parte de Israel ficou cega até que entrasse a plenitude dos gentios, e assim todo Israel será salvo.",
+    "temas": [
+      "a oração de Moisés pela irmã",
+      "a etíope, figura da Igreja dos gentios",
+      "a volta de Israel"
+    ],
+    "resumo": "Maria só foi curada porque Moisés rezou; e a Sinagoga, ciumenta da Igreja dos gentios, será curada um dia pela fé desses mesmos gentios.",
+    "relevancia": 3,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "jeronimo-ep77-5",
+    "autor": "São Jerônimo",
+    "autor_id": "jeronimo",
+    "datas": "c. 347–420",
+    "titulo_autor": "presbítero, Doutor da Igreja",
+    "obra": "Cartas (Epistulae), 77, a Oceano, sobre a morte de Fabíola",
+    "passagem": "Ep. 77, 5",
+    "edicao": "PL 22, 693",
+    "versiculos": [
+      14,
+      15
+    ],
+    "trecho": "3",
+    "lingua": "la",
+    "original": "Aperuit cunctis vulnus suum, et decolorem in corpore cicatricem flens Roma conspexit. Dissuta habuit latera, nudum caput, clausum os. Non est ingressa Ecclesiam Domini, sed extra castra cum Maria sorore Moysi separata consedit, ut quam Sacerdos ejecerat, ipse revocaret. Descendit de solio deliciarum suarum, accepit molam, fecit farinam, et discalceatis pedibus transivit fluenta lacrymarum.",
+    "fonte_url": "https://mlat.uzh.ch/browser/cps_2.HieStr.Episto32",
+    "traducao_pt": "Ela abriu a todos a sua ferida, e Roma viu, chorando, a cicatriz descorada no seu corpo. Tinha as roupas rasgadas, a cabeça descoberta, a boca fechada. Não entrou na Igreja do Senhor, mas sentou-se separada, fora do arraial, com Maria, irmã de Moisés, para que o sacerdote, que a tinha mandado para fora, a chamasse de volta. Desceu do trono das suas delícias, tomou a mó, fez farinha e, de pés descalços, atravessou rios de lágrimas.",
+    "temas": [
+      "os sete dias fora do arraial",
+      "a penitência pública",
+      "a volta ao arraial"
+    ],
+    "resumo": "A nobre Fabíola, penitente, fica «fora do arraial com Maria» até que o sacerdote a chame de volta: Nm 12 lido como figura da penitência da Igreja.",
+    "relevancia": 3,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "isidoro-qnum-14",
+    "autor": "Santo Isidoro de Sevilha",
+    "autor_id": "isidoro",
+    "datas": "c. 560–636",
+    "titulo_autor": "bispo de Sevilha, Doutor da Igreja",
+    "obra": "Questões sobre o Antigo Testamento (Quaestiones in Vetus Testamentum), Números",
+    "passagem": "In Numeros 14, 1–2",
+    "edicao": "PL 83, 345B–C",
+    "versiculos": [
+      1,
+      10,
+      14,
+      15
+    ],
+    "trecho": "3",
+    "lingua": "la",
+    "original": "In hac Aaron sacerdos locum incidens offensionis cum sorore sua Maria, fratri uterque obtrectant, quod alienigenam accepisset uxorem. Unde illico Maria contagio leprae effloruit. Quo loco evidens fuit figura mysterii, quod sacerdotalis illa plebs patrum Christo Salvatori adversus Ecclesiam congregatam ex gentibus derogaret: ideoque leprae sorde perfunditur; nec redit ad Dei tabernaculum, donec statutum plenitudinis gentium tempus adimpleatur. Tunc enim eadem plebs pristinam poterit recipere sanitatem, dum eis septiformis spiritualis agnitio ad veniam fuerit suffragata.",
+    "fonte_url": "https://mlat.uzh.ch/browser/cps_2.IsiHis.QuInVeT",
+    "traducao_pt": "Nesta [mansão], o sacerdote Aarão tropeça com sua irmã Maria: os dois falam mal do irmão por ter tomado uma esposa estrangeira. Por isso, logo a lepra floresceu em Maria. Ali houve uma figura clara de um mistério: aquele povo sacerdotal dos pais haveria de falar mal de Cristo Salvador por causa da Igreja reunida dos gentios; por isso se cobre da sujeira da lepra e não volta à tenda de Deus até que se cumpra o tempo marcado para a plenitude dos gentios. Então esse mesmo povo poderá receber de volta a saúde de antes, quando o conhecimento espiritual, sétuplo, o ajudar a obter o perdão.",
+    "temas": [
+      "os sete dias fora do arraial",
+      "Maria, figura da Sinagoga",
+      "a volta de Israel"
+    ],
+    "resumo": "Os sete dias são o tempo até a plenitude dos gentios; depois, o conhecimento espiritual «sétuplo» trará Israel de volta à tenda.",
+    "relevancia": 2,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "ruperto-innum-1-35a",
+    "autor": "Ruperto de Deutz",
+    "autor_id": "ruperto",
+    "datas": "c. 1075–1129",
+    "titulo_autor": "abade beneditino",
+    "obra": "A Trindade e as suas obras (De Trinitate et operibus eius), Comentário a Números (In Numeros)",
+    "passagem": "I, 35",
+    "edicao": "PL 167, 872A–C",
+    "versiculos": [
+      1,
+      2,
+      9,
+      10
+    ],
+    "trecho": "3",
+    "lingua": "la",
+    "original": "Hoc loco Moyses uxorem habens Aethiopissam mystice Christus Dominus est, peccatricem quondam de gentibus non aspernatus Ecclesiam. Hoc nimium aegre ferunt Aaron et Maria, id est carnale Judaeorum sacerdotium, et tota illorum vetus Synagoga; hoc, inquam, aegre ferunt, de hoc murmurant, magnumque habent invidiae tormentum, semper enim gentium salutem oderunt. Hoc ergo non ferentes, et hac invidiae trabe tenebratum cordis oculum habentes, ad ipsius Domini Christi odium prorumpunt, et propter condescensionem miserorum, contra ipsam misericordiam confligunt.",
+    "fonte_url": "https://mlat.uzh.ch/browser/cps_2.RupTui.DeTrEtO",
+    "traducao_pt": "Neste lugar, Moisés, que tem uma esposa etíope, é em sentido místico Cristo Senhor, que não desprezou a Igreja vinda dos gentios, outrora pecadora. Isso, Aarão e Maria, isto é, o sacerdócio carnal dos judeus e toda a antiga Sinagoga deles, suportam muito mal; isso, digo, suportam mal, disso murmuram, e sofrem o grande tormento da inveja. Não suportando isso, e tendo o olho do coração escurecido por essa trave da inveja, rompem no ódio contra o próprio Cristo Senhor e, por ele se inclinar para os miseráveis, lutam contra a própria misericórdia.",
+    "temas": [
+      "a etíope, figura da Igreja dos gentios",
+      "a inveja",
+      "lutar contra a misericórdia"
+    ],
+    "resumo": "A inveja de Aarão e Maria é figura de quem não suporta que Cristo se incline para os pecadores: a inveja acaba lutando contra a própria misericórdia.",
+    "relevancia": 3,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "ruperto-innum-1-35b",
+    "autor": "Ruperto de Deutz",
+    "autor_id": "ruperto",
+    "datas": "c. 1075–1129",
+    "titulo_autor": "abade beneditino",
+    "obra": "A Trindade e as suas obras (De Trinitate et operibus eius), Comentário a Números (In Numeros)",
+    "passagem": "I, 35",
+    "edicao": "PL 167, 873A–B",
+    "versiculos": [
+      13,
+      14,
+      15
+    ],
+    "trecho": "3",
+    "lingua": "la",
+    "original": "Clamat autem Moyses ad Dominum, dicens: Deus, obsecro, sana eam. Imo vero tota antiquitas, tota Patrum antiquorum pro illa gente intervenit fides. Sed non sanabitur, non revocabitur in castra, donec evolvantur septem dies, id est donec plenitudo gentium subintroeat. Si, inquit, pater ejus exspuisset in faciem ejus, non debuerat saltem septem diebus rubore confundi? Plane vera similitudo. Nam revera si quis filius patrem, quem honorare, cui blandiri debet, ita exasperaverit, ita ad iracundiam provocaverit ut ille motus in faciem ejus exspuat, qui utique faciem filii, natura duce, osculis delambere consueverat, quomodo talis filius sic pro sua protervia, sputo patris oblitus, non saltem septem diebus inter compares suos erubescat?",
+    "fonte_url": "https://mlat.uzh.ch/browser/cps_2.RupTui.DeTrEtO",
+    "traducao_pt": "«Moisés clamou ao Senhor, dizendo: Ó Deus, eu te peço, cura-a.» Mais ainda: toda a antiguidade, toda a fé dos antigos Patriarcas intercede por aquele povo. Mas ele não será curado nem chamado de volta ao arraial antes que passem os sete dias, isto é, antes que entre a plenitude dos gentios. «Se o pai dela lhe tivesse cuspido no rosto», diz, «não deveria ela ficar envergonhada ao menos sete dias?» A comparação é bem verdadeira. Se um filho irrita tanto o pai, a quem deve honrar e agradar, e o provoca a tal ponto que o pai, comovido, lhe cospe no rosto, ele que costumava, levado pela natureza, cobrir de beijos o rosto do filho, como esse filho, sujo da saliva do pai por causa da sua insolência, não haveria de se envergonhar ao menos sete dias diante dos seus iguais?",
+    "temas": [
+      "a oração de Moisés pela irmã",
+      "os sete dias fora do arraial",
+      "o pai que cuspiu",
+      "a volta de Israel"
+    ],
+    "resumo": "A comparação do pai que cuspiu: o rosto que o pai costumava beijar agora traz a sua saliva; e a oração de Moisés é a de toda a fé dos Patriarcas por Israel.",
+    "relevancia": 3,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "bernardo-deconv-4",
+    "autor": "São Bernardo de Claraval",
+    "autor_id": "bernardo",
+    "datas": "1090–1153",
+    "titulo_autor": "abade, Doutor da Igreja",
+    "obra": "A conversão, aos clérigos (De conversione ad clericos)",
+    "passagem": "4 (cap. 3)",
+    "edicao": "PL 182, 837A",
+    "versiculos": [
+      10
+    ],
+    "trecho": "3",
+    "lingua": "la",
+    "original": "Denique quis in nobis tantae patientiae est et virtutis, ut si forte (quemadmodum de Maria sorore Moysi legitur) carnem suam subitanea quadam lepra male candentem viderit, aequo animo stare possit, et gratias agere Creatori! Quid vero est caro ista, nisi corruptibilis quaedam tunica, qua vestimur? aut quid lepra haec corporea electis omnibus aestimanda, nisi paternae virga correptionis, et purgatio cordis? Ibi, ibi tribulatio vehemens, et justissima causa doloris est, cum excitatus a somno miserae voluptatis, interiorem coeperit quis deprehendere lepram, quam sibi ipse multo studio et labore quaesivit.",
+    "fonte_url": "https://mlat.uzh.ch/browser/cps_2.BerCla.DeCon4",
+    "traducao_pt": "Afinal, quem de nós tem tanta paciência e virtude que, se por acaso visse a sua carne, como se lê de Maria, irmã de Moisés, de repente branca de uma lepra ruim, conseguisse ficar sereno e dar graças ao Criador? Mas o que é esta carne senão uma túnica corruptível com que nos vestimos? E o que todos os eleitos devem pensar desta lepra do corpo senão que é a vara da correção paterna e a purificação do coração? Ali, sim, ali está a tribulação forte e o motivo mais justo de dor: quando alguém, acordado do sono do prazer miserável, começa a descobrir a lepra interior, que ele mesmo procurou para si com tanto esforço e trabalho.",
+    "temas": [
+      "a lepra como figura do pecado",
+      "a correção do Pai"
+    ],
+    "resumo": "A lepra do corpo, como a de Maria, é vara de pai que corrige; pior é a lepra interior do pecado, que nós mesmos procuramos.",
+    "relevancia": 2,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "ambrosio-exlc-2-35",
+    "autor": "Santo Ambrósio",
+    "autor_id": "ambrosio",
+    "datas": "c. 340–397",
+    "titulo_autor": "bispo de Milão, Doutor da Igreja",
+    "obra": "Comentário ao Evangelho de Lucas (Expositio Evangelii secundum Lucam)",
+    "passagem": "II, 35 (sobre Lc 1,67)",
+    "edicao": "PL 15, 1564D–1565A",
+    "versiculos": [
+      1,
+      10
+    ],
+    "trecho": "3",
+    "lingua": "la",
+    "original": "Nec facile ullam prophetasse uberius quam matrem Domini reperimus. Prophetissa ipsa Maria soror Aaron quam cito cantici verba conclusit! Eademque ubi prolixius est locuta cum fratre, nequaquam sui poenam sermonis evasit.",
+    "fonte_url": "https://mlat.uzh.ch/browser/cps_2.AmbMed.ExEvSeL",
+    "traducao_pt": "Não é fácil encontrar mulher que tenha profetizado mais abundantemente do que a Mãe do Senhor. A própria profetisa Maria, irmã de Aarão, com que rapidez encerrou as palavras do seu cântico! E ela mesma, quando falou demais com o irmão, de modo nenhum escapou do castigo da sua língua.",
+    "temas": [
+      "as duas Marias",
+      "o castigo da língua"
+    ],
+    "resumo": "Maria, irmã de Aarão, cantou pouco e bem; quando falou demais contra o irmão, não escapou do castigo.",
+    "relevancia": 1,
+    "direitos": "domínio público"
+  }
+]
