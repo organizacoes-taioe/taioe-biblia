@@ -1,0 +1,28 @@
+# CI do taioe-biblia: o conteúdo passa na conferência e public/ está gerado a partir dele.
+name: CI
+on:
+  push:
+  pull_request:
+permissions:
+  contents: read
+jobs:
+  conferir:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Conteúdo (mesóclise, uso europeu, numeração, notas, comentários)
+        run: node ferramentas/conferir.mjs
+      - name: public/ gerado a partir do conteúdo
+        run: node ferramentas/gerar.mjs --conferir
+      - name: Nada inline nem de terceiros nas páginas
+        run: |
+          set -euo pipefail
+          if grep -rlE '<script>|<script [^>]*>[^<]|<style|style="| on[a-z]+="' public/ ; then echo "::error::script ou estilo inline"; exit 1; fi
+          if grep -rlE '<script[^>]+src="https?://' public/ ; then echo "::error::script de terceiros"; exit 1; fi
+      - name: Routes (só /biblia*)
+        run: |
+          n=$(grep -c '"pattern"' wrangler.jsonc); grep -q '"taioe.com.br/biblia\*"' wrangler.jsonc && [ "$n" = 1 ]

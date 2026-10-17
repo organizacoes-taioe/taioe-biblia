@@ -1,0 +1,123 @@
+{
+ "livro": "salmos",
+ "cap": 33,
+ "estado": "em revisão",
+ "atualizado": "2026-10-17",
+ "trechos": [
+  {"id": "1", "titulo": null, "de": 1}
+ ],
+ "texto": [
+  {"v": 1, "l": ["Exultai, ó justos, no Senhor:", "aos retos convém o louvor."]},
+  {"v": 2, "l": ["Louvai o Senhor com a cítara,", "tocai para ele a harpa de dez cordas."]},
+  {"v": 3, "l": ["Cantai-lhe um cântico novo,", "tocai com arte, entre aclamações."]},
+  {"v": 4, "l": ["Porque reta é a palavra do Senhor,", "e toda a sua obra se faz com fidelidade."], "np": 1},
+  {"v": 5, "l": ["Ele ama a justiça e o direito;", "a terra está cheia da misericórdia do Senhor."]},
+  {"v": 6, "l": ["Pela palavra do Senhor foram feitos os céus,", "e pelo sopro da sua boca, todo o seu exército."]},
+  {"v": 7, "l": ["Ele ajunta como num odre as águas do mar,", "encerra em reservatórios os abismos."]},
+  {"v": 8, "l": ["Tema o Senhor toda a terra;", "diante dele tremam todos os habitantes do mundo."]},
+  {"v": 9, "l": ["Porque ele falou, e tudo se fez;", "ele ordenou, e tudo se firmou."]},
+  {"v": 10, "l": ["O Senhor desfaz o desígnio das nações,", "anula os planos dos povos."], "np": 1},
+  {"v": 11, "l": ["O desígnio do Senhor permanece firme para sempre;", "os planos do seu coração, de geração em geração."]},
+  {"v": 12, "l": ["Feliz a nação cujo Deus é o Senhor,", "o povo que ele escolheu para sua herança."]},
+  {"v": 13, "l": ["Do alto do céu olha o Senhor", "e vê todos os filhos dos homens."], "np": 1},
+  {"v": 14, "l": ["Do lugar em que habita observa", "todos os que moram na terra:"]},
+  {"v": 15, "l": ["ele, que formou o coração de cada um", "e compreende todas as suas obras."]},
+  {"v": 16, "l": ["O rei não se salva pela grandeza do seu exército,", "nem o valente se livra pela sua muita força."]},
+  {"v": 17, "l": ["Ilusório é o cavalo para a vitória:", "apesar de todo o seu vigor, não salva."]},
+  {"v": 18, "l": ["Eis que os olhos do Senhor estão sobre os que o temem,", "sobre os que esperam na sua misericórdia,"]},
+  {"v": 19, "l": ["para livrar da morte a sua alma", "e alimentá-los na fome."]},
+  {"v": 20, "l": ["A nossa alma espera no Senhor:", "ele é o nosso auxílio e o nosso escudo."], "np": 1},
+  {"v": 21, "l": ["Nele se alegra o nosso coração,", "e no seu santo nome confiamos."]},
+  {"v": 22, "l": ["Venha sobre nós, Senhor, a tua misericórdia,", "conforme esperamos em ti."]}
+ ],
+ "notas": [
+  {"id": "n01", "v": 1, "texto": "Este salmo não tem título no hebraico, coisa rara no primeiro livro dos Salmos, em que quase todos se dizem «de Davi»; a Bíblia grega acrescentou «De Davi». Ele começa retomando o fim do salmo anterior (32,11: «Alegrai-vos no Senhor… ó justos… retos de coração»), e alguns manuscritos hebraicos chegam a juntar os dois. Tem 22 versículos, tantos quantos as letras do alfabeto hebraico, sem ser um acróstico.", "origem": "revista: a do projeto antigo dizia que a tradição grega e latina juntava este salmo ao anterior, o que não é exato"},
+  {"id": "n02", "v": 2, "apos": "cítara", "texto": "A cítara (no hebraico, *kinnor*) era uma lira pequena, de cordas dedilhadas, o instrumento de Davi (1Sm 16,23); a harpa (*nebel*) era maior, com mais cordas e som mais grave. As duas acompanhavam o canto no Templo.", "origem": "nova"},
+  {"id": "n03", "v": 3, "apos": "cântico novo", "texto": "A expressão volta em outros salmos (40, 96, 98, 144 e 149), em Isaías (42,10) e no Apocalipse (5,9; 14,3): é o canto que responde a uma obra nova de Deus. Os cristãos o entenderam como o canto de quem foi renovado em Cristo.", "origem": "nova"},
+  {"id": "n04", "v": 3, "apos": "aclamações", "texto": "A aclamação (*teruá*) era o grito forte de alegria do povo, ou o toque das trombetas, com que se saudavam o rei e a arca do Senhor (2Sm 6,15; Sl 47,6).", "origem": "nova"},
+  {"id": "n05", "v": 5, "apos": "o direito", "texto": "Justiça e direito andam juntos na Bíblia: é a ordem justa que Deus quer na vida dos homens, sobretudo a favor dos fracos, e que os reis tinham o dever de garantir (Jr 22,3).", "origem": "nova"},
+  {"id": "n06", "v": 5, "apos": "misericórdia do Senhor", "texto": "Misericórdia traduz *hesed*, uma das palavras mais importantes do Antigo Testamento: o amor fiel de Deus, que não desiste da aliança que fez com o seu povo. É mais que perdão: é bondade que dura. O salmo volta a ela nos vv. 18 e 22.", "origem": "nova"},
+  {"id": "n07", "v": 6, "apos": "sopro da sua boca", "texto": "Sopro traduz *ruah*, que é ao mesmo tempo vento, respiração e espírito. Basta a Deus falar e soprar para criar, como em Gênesis 1. Os Padres da Igreja viram neste versículo a Trindade: o Senhor que cria, a sua Palavra, que é o Filho, e o seu Espírito.", "origem": "revista e ampliada (a do projeto antigo falava do sopro e do exército juntos)"},
+  {"id": "n08", "v": 6, "apos": "exército", "texto": "O exército dos céus são os astros. O salmo os trata como tropa de Deus, a serviço dele, e não como deuses a temer, como faziam os povos vizinhos de Israel.", "origem": "revista (saiu da nota do sopro)"},
+  {"id": "n09", "v": 7, "apos": "odre", "texto": "Assim leram a Bíblia grega e a latina. O hebraico, com outra vogal, diz «como num monte»: a imagem das águas do mar Vermelho, que «se ergueram como um dique» (Êx 15,8).", "origem": "nova (regra da casa: onde a Nova Vulgata segue outra leitura, segue-se a NV e anota-se o hebraico)"},
+  {"id": "n10", "v": 7, "apos": "abismos", "texto": "Os abismos são as águas profundas que, na imagem antiga do mundo, ficavam debaixo da terra. Deus as guarda em reservatórios, como quem guarda a colheita no celeiro: nada no mundo escapa da sua mão.", "origem": "nova"},
+  {"id": "n11", "v": 8, "apos": "Tema o Senhor", "texto": "Temer o Senhor, na Bíblia, não é ter pavor dele: é o respeito de quem reconhece que Deus é Deus, e por isso lhe obedece e confia nele. «Os que o temem» (v. 18) são simplesmente os fiéis.", "origem": "nova"},
+  {"id": "n12", "v": 9, "apos": "se firmou", "texto": "No hebraico, o verbo é o mesmo do v. 11 («permanece firme»): o que Deus manda fica de pé, e o que ele decide não cai.", "origem": "nova (acompanha a escolha de tradução dos vv. 9 e 11)"},
+  {"id": "n13", "v": 12, "apos": "herança", "texto": "A herança era a terra da família, que passava de pai para filho e não se vendia. Dizer que Israel é a herança do Senhor (Dt 32,9) é dizer que Deus o escolheu como coisa sua, para sempre.", "origem": "nova"},
+  {"id": "n14", "v": 13, "apos": "filhos dos homens", "texto": "Modo hebraico de dizer «os seres humanos», todos eles.", "origem": "nova"},
+  {"id": "n15", "v": 15, "apos": "de cada um", "texto": "*Formou* é o verbo do oleiro que modela o barro, o mesmo da criação do homem (Gn 2,7). O hebraico diz «o coração de todos eles»; a Bíblia grega e a latina, que seguimos aqui, entenderam «um a um».", "origem": "nova"},
+  {"id": "n16", "v": 16, "apos": "valente", "texto": "O valente (*gibbor*) é o guerreiro campeão, o herói das batalhas. A Bíblia grega e a latina dizem «gigante», e por isso os Padres lembravam aqui de Golias, vencido pelo pequeno Davi.", "origem": "nova"},
+  {"id": "n17", "v": 17, "apos": "cavalo", "texto": "O cavalo, com os carros de guerra, era a força dos grandes exércitos, como os do Egito e da Assíria, que Israel quase não tinha. Os salmos e os profetas voltam sempre a esta censura: confiar na cavalaria em vez de confiar em Deus (Sl 20,8; Is 31,1).", "origem": "revista (a do projeto antigo, com as referências)"},
+  {"id": "n18", "v": 19, "apos": "alma", "texto": "*Alma* traduz *nefesh*, que no hebraico é a vida da pessoa, o próprio ser vivo. Livrar a alma da morte é conservar a vida; e «a nossa alma espera» (v. 20) quer dizer «nós esperamos, com todo o nosso ser».", "origem": "nova (acompanha a escolha de tradução do v. 19)"},
+  {"id": "n19", "v": 19, "apos": "na fome", "texto": "O hebraico diz «conservá-los vivos na fome»; a Bíblia grega e a latina, «alimentá-los». A fome era, com a guerra, a grande ameaça à vida.", "origem": "nova"},
+  {"id": "n20", "v": 22, "texto": "Com este versículo termina o *Te Deum*, o antigo hino de ação de graças da Igreja: «Fiat misericordia tua, Domine, super nos, quemadmodum speravimus in te».", "origem": "nova"}
+ ],
+ "comentarios": {},
+ "revisao": {
+  "escolhas": [
+   {
+    "id": "v2-harpa",
+    "ref": "Sl 33,2",
+    "titulo": "O instrumento de dez cordas: harpa ou saltério?",
+    "contexto": "O hebraico tem *kinnor* (lira pequena) e *nebel* (instrumento maior, de mais cordas). No resto dos Salmos já traduzidos, *kinnor* é sempre «cítara» e *nebel* é «harpa» (57,9; 81,3; 108,3; 150,3), mas aqui saiu «saltério de dez cordas», e no 144,9 a mesma expressão saiu «lira de dez cordas». A Vulgata diz *psalterium*, e os Padres comentam muito a diferença entre o saltério e a cítara (Santo Agostinho, nos comentários deste salmo).",
+    "opcoes": [
+     {"id": "a", "texto": "«tocai para ele a harpa de dez cordas» (e no 144,9 também «harpa de dez cordas»)", "nota": "Coerente com os outros salmos e mais claro para o leitor de hoje; nos comentários, o *psalterium* dos Padres sai «saltério» com uma explicação.", "recomendada": true},
+     {"id": "b", "texto": "«tocai para ele o saltério de dez cordas» (e *nebel* passa a ser «saltério» em toda a Bíblia)", "nota": "É a forma tradicional e casa com os comentários dos Padres; mas «saltério» é palavra que o leitor comum conhece mais como o livro dos Salmos."}
+    ]
+   },
+   {
+    "id": "v3-tocai",
+    "ref": "Sl 33,3",
+    "titulo": "«Tocai bem, com aclamação»",
+    "contexto": "O hebraico *heitivu naggen bitrua* é «fazei bem o tocar, com *teruá*», isto é, «tocai com arte», com o grito de alegria (ou o toque de trombeta) que no Sl 47,6 traduzimos por «aclamações». A Vulgata antiga, que os Padres liam, tinha *in iubilatione*, e daí vem uma das páginas mais famosas de Santo Agostinho, sobre o júbilo, o canto sem palavras.",
+    "opcoes": [
+     {"id": "a", "texto": "«tocai com arte, entre aclamações»", "nota": "Mais fiel ao hebraico e coerente com o Sl 47,6.", "recomendada": true},
+     {"id": "b", "texto": "«tocai com arte, com júbilo»", "nota": "Liga o texto ao comentário de Agostinho, mas «júbilo» já traduz outras palavras nos Salmos."},
+     {"id": "c", "texto": "«tocai bem, com aclamação» (como estava)", "nota": "«Tocai bem» soa um pouco pobre."}
+    ]
+   },
+   {
+    "id": "v6-sopro",
+    "ref": "Sl 33,6",
+    "titulo": "«Pelo sopro da sua boca» ou «pelo espírito da sua boca»?",
+    "contexto": "*Ruah* é vento, sopro e espírito. A Vulgata diz *spiritu oris eius*, e os Padres leram aqui a Trindade na criação: o Senhor, a sua Palavra e o seu Espírito. Em português, «espírito da boca» soa estranho; «sopro» é natural, mas esconde a leitura dos Padres, que a nota e os comentários explicam.",
+    "opcoes": [
+     {"id": "a", "texto": "«e pelo sopro da sua boca, todo o seu exército», com nota sobre *ruah* e a leitura trinitária", "recomendada": true},
+     {"id": "b", "texto": "«e pelo espírito da sua boca, todo o seu exército»"},
+     {"id": "c", "texto": "«e pelo Espírito da sua boca», com maiúscula", "nota": "Põe no texto a leitura cristã; não recomendo, porque a tradução é do hebraico."}
+    ]
+   },
+   {
+    "id": "v9-firmou",
+    "ref": "Sl 33,9 e 11",
+    "titulo": "«E tudo existiu» ou «e tudo se firmou»?",
+    "contexto": "O verbo hebraico do v. 9 (*amad*, «ficar de pé») é o mesmo do v. 11, onde o desígnio do Senhor «fica de pé para sempre». A tradução antiga dizia «e tudo existiu» (v. 9) e «permanece» (v. 11), e o eco se perdia.",
+    "opcoes": [
+     {"id": "a", "texto": "v. 9 «ele ordenou, e tudo se firmou»; v. 11 «O desígnio do Senhor permanece firme para sempre»", "nota": "Guarda o eco, com nota curta no v. 9.", "recomendada": true},
+     {"id": "b", "texto": "v. 9 «ele ordenou, e tudo existiu»; v. 11 «permanece para sempre» (como estava)"}
+    ]
+   },
+   {
+    "id": "v19-alma",
+    "ref": "Sl 33,19–20",
+    "titulo": "*Nefesh*: «alma» ou «vida»?",
+    "contexto": "*Nefesh* é a vida da pessoa, o próprio ser vivo; aparece centenas de vezes no Antigo Testamento. «Livrar da morte a sua alma» quer dizer «conservar-lhes a vida». A escolha vale para a Bíblia inteira.",
+    "opcoes": [
+     {"id": "a", "texto": "Manter «alma» onde o português aguenta, com nota na primeira vez de cada capítulo em que o sentido for «vida»", "nota": "Guarda a palavra que a tradição conhece e que os Padres comentam («alma» em latim e grego).", "recomendada": true},
+     {"id": "b", "texto": "Traduzir pelo sentido: «para livrá-los da morte», «nós esperamos no Senhor»", "nota": "Mais claro, mas apaga a palavra e afasta os comentários dos Padres."}
+    ]
+   }
+  ],
+  "divisao": {"titulo": "Um trecho só, em cinco estrofes", "texto": "Pela regra do projeto, os salmos com menos de uns 40 versículos não têm subtítulos; então o salmo inteiro é um trecho só, e o botão dos comentários fica logo abaixo do título.\n\nAs estrofes (o espaço entre os grupos de versos) ficaram como estavam: 1–3 (convite ao louvor), 4–9 (a palavra que cria), 10–12 (o desígnio de Deus na história), 13–19 (o olhar de Deus, e a força que não salva) e 20–22 (a resposta do povo). A página da Nova Vulgata no vatican.va não marca estrofes neste salmo; esta divisão segue o sentido, e eu a mantenho."},
+  "registro": [
+   {"id": "misericordia", "titulo": "*Hesed* = «misericórdia»", "texto": "Como no resto da tradução (cerca de 300 vezes), com nota explicativa na primeira vez de cada capítulo em que for central."},
+   {"id": "instrumentos", "titulo": "*Kinnor* = «cítara»; *nebel* = «harpa»", "texto": "Se ficar a opção recomendada da escolha do v. 2. Ao entrar o Sl 144, o v. 9 passa de «lira» a «harpa de dez cordas»."},
+   {"id": "terua", "titulo": "*Teruá* = «aclamação»", "texto": "O grito de alegria ou o toque de trombeta (Sl 33,3; 47,6). Na revisão de uniformidade, conferir os lugares em que *teruá* saiu «júbilo»."},
+   {"id": "justica-direito", "titulo": "*Tsedaqá umishpat* = «a justiça e o direito»", "texto": "O par fica sempre junto e nesta ordem."},
+   {"id": "nefesh", "titulo": "*Nefesh* = «alma», com nota quando o sentido é «vida»", "texto": "Se ficar a opção recomendada da escolha dos vv. 19–20."},
+   {"id": "temor", "titulo": "«Temer o Senhor», «os que o temem»", "texto": "Sem trocar por «respeitar» ou «reverenciar»; uma nota explica o sentido."},
+   {"id": "filhos-dos-homens", "titulo": "*Benê adam* = «os filhos dos homens»", "texto": "Como nos outros 20 lugares dos Salmos, com nota curta na primeira vez de cada capítulo."},
+   {"id": "variantes", "titulo": "Onde a Nova Vulgata segue o grego, o texto segue a NV e a nota dá o hebraico", "texto": "Aqui: o odre do v. 7 (hebraico «monte»), «um a um» no v. 15 (hebraico «todos») e «alimentá-los» no v. 19 (hebraico «conservá-los vivos»)."}
+  ]
+ }
+}

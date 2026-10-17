@@ -1,0 +1,178 @@
+/* ---------------------------------------------------------------
+   Bíblia Taioé — folha de estilo única
+   Papel e tinta, como a Biblioteca; tema escuro pelo sistema.
+   Leitura longa: corpo 22px (24px até 700px), entrelinha 1,45,
+   ~70 caracteres por linha; tamanhos secundários em em.
+   --------------------------------------------------------------- */
+
+:root {
+  --papel:        #fbf8f2;
+  --papel-2:      #f3eee3;
+  --tinta:        #25221d;
+  --tinta-suave:  #57514a;
+  --tinta-tenue:  #8b8377;
+  --realce:       #8a3b2e;
+  --realce-claro: #a8523f;
+  --linha:        #e3dccd;
+  --sombra:       0 1px 2px rgba(60,45,30,.05), 0 6px 20px rgba(60,45,30,.08);
+  --serif: "Iowan Old Style", "Palatino Linotype", Palatino, "Book Antiqua", Georgia, "Times New Roman", serif;
+  --sans:  ui-sans-serif, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  --medida: 33em;
+  --raio: 10px;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --papel:        #17161a;
+    --papel-2:      #201f24;
+    --tinta:        #e7e1d6;
+    --tinta-suave:  #b5ad9f;
+    --tinta-tenue:  #878073;
+    --realce:       #e0917c;
+    --realce-claro: #eeb09f;
+    --linha:        #322f37;
+    --sombra:       0 1px 2px rgba(0,0,0,.3), 0 6px 20px rgba(0,0,0,.3);
+  }
+}
+
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0; background: var(--papel); color: var(--tinta);
+  font-family: var(--serif); font-size: 22px; line-height: 1.45;
+  text-rendering: optimizeLegibility;
+}
+@media (max-width: 700px) { body { font-size: 24px; } }
+
+a { color: var(--realce); text-decoration-thickness: 1px; text-underline-offset: 2px; }
+a:hover { color: var(--realce-claro); }
+main:focus { outline: none; }
+.pular { position: absolute; left: -9999px; background: var(--papel-2); padding: .4em .8em; border-radius: var(--raio); }
+.pular:focus { left: 1em; top: .5em; z-index: 50; }
+.pequeno { font-size: .78em; }
+.apagado { color: var(--tinta-tenue); }
+
+/* ---------------- topo ---------------- */
+.topo { position: sticky; top: 0; z-index: 20; background: var(--papel); border-bottom: 1px solid var(--linha); }
+.topo-int {
+  max-width: calc(var(--medida) + 4em); margin: 0 auto; padding: .45em 1em;
+  display: flex; align-items: center; gap: .8em; font-family: var(--sans); font-size: .62em;
+}
+.marca { font-weight: 600; letter-spacing: .1em; text-transform: uppercase; color: var(--tinta); text-decoration: none; flex: none; }
+.trilha { flex: 1; min-width: 0; color: var(--tinta-tenue); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.trilha a { color: var(--tinta-tenue); text-decoration: none; }
+.trilha a:hover { color: var(--realce); text-decoration: underline; }
+.trilha .sep, .voltar .sep { opacity: .5; padding: 0 .45em; }
+
+/* ---------------- estrutura ---------------- */
+main { padding: 0 1em 4em; }
+.folha { max-width: var(--medida); margin: 0 auto; }
+.voltar { font-family: var(--sans); font-size: .68em; margin: 1.1em 0 0; }
+.voltar a { text-decoration: none; display: inline-block; padding: .3em 0; }
+.voltar a:hover { text-decoration: underline; }
+h1 { font-weight: 400; line-height: 1.15; }
+
+.capa { text-align: center; padding-top: 2.5em; }
+.capa h1 { font-size: 2.3em; margin: 0; letter-spacing: .02em; }
+.capa .subtitulo { font-family: var(--sans); font-size: .62em; letter-spacing: .2em; text-transform: uppercase; color: var(--tinta-tenue); margin: .4em 0 1.6em; }
+.capa .intro { text-align: left; }
+.intro p { margin: 0 0 .85em; }
+.disponiveis h2 { font-family: var(--sans); font-size: .62em; letter-spacing: .14em; text-transform: uppercase; color: var(--tinta-tenue); font-weight: 600; margin: 2em 0 .8em; text-align: left; }
+
+.caminhos { display: flex; flex-direction: column; gap: .6em; text-align: left; }
+.caminho, .tema {
+  display: block; text-decoration: none; color: var(--tinta);
+  border: 1px solid var(--linha); border-radius: var(--raio); padding: .7em .9em; background: var(--papel);
+}
+.caminho:hover, .tema:hover { border-color: var(--realce); color: var(--tinta); box-shadow: var(--sombra); }
+.caminho-nome, .tema-titulo { display: block; font-size: 1.05em; }
+.caminho-texto, .tema-resumo { display: block; color: var(--tinta-suave); font-size: .8em; margin-top: .15em; }
+.tema-ref, .tema-n { font-family: var(--sans); font-size: .58em; letter-spacing: .06em; color: var(--tinta-tenue); }
+.tema-ref { display: block; text-transform: uppercase; margin-top: .25em; }
+.tema-n { display: block; margin-top: .5em; color: var(--realce); }
+
+/* grade de capítulos */
+.grade-caps { display: grid; grid-template-columns: repeat(auto-fill, minmax(2.4em, 1fr)); gap: .35em; margin-top: 1em; font-family: var(--sans); font-size: .72em; }
+.cap { display: flex; align-items: center; justify-content: center; aspect-ratio: 1; border: 1px solid var(--linha); border-radius: 6px; text-decoration: none; color: var(--tinta); }
+a.cap { border-color: var(--realce); color: var(--realce); font-weight: 600; }
+a.cap:hover { background: var(--realce); color: var(--papel); }
+.cap.vazio { color: var(--tinta-tenue); opacity: .45; }
+
+/* ---------------- capítulo ---------------- */
+.cab-cap { margin: .6em 0 1em; }
+.cab-cap h1 { font-size: 1.9em; margin: .2em 0 .3em; }
+.num-grega { color: var(--tinta-tenue); font-size: .6em; }
+.ver-coment { margin: 0 0 1.2em; }
+.botao {
+  display: inline-block; font-family: var(--sans); font-size: .66em; font-weight: 600; letter-spacing: .02em;
+  border: 1px solid var(--realce); color: var(--realce); border-radius: 999px; padding: .55em 1.1em; text-decoration: none;
+}
+.botao:hover { background: var(--realce); color: var(--papel); }
+.sub-trecho { font-size: 1.05em; font-weight: 600; margin: 1.8em 0 .4em; }
+.sub-trecho + .ver-coment { margin-top: 0; }
+
+.texto .num { font-family: var(--sans); font-size: .55em; color: var(--realce); vertical-align: super; margin-right: .3em; }
+.par { margin: 0 0 .85em; text-align: justify; hyphens: auto; -webkit-hyphens: auto; }
+/* Poesia: todas as linhas começam na mesma margem; o número fica numa calha à esquerda, e o
+   recuo maior é só para a linha que transborda numa tela estreita (regra do projeto antigo). */
+.poesia { margin: 0 0 .85em; hyphens: none; }
+.poesia .linha { display: flex; align-items: flex-start; }
+.poesia .linha > .calha { flex: 0 0 1.9em; text-align: right; padding-right: .45em; }
+.poesia .linha > .calha .num { margin-right: 0; vertical-align: baseline; font-size: .55em; }
+.poesia .linha > .txt { flex: 1 1 auto; min-width: 0; padding-left: 1.1em; text-indent: -1.1em; }
+@media (max-width: 700px) { .poesia .linha > .calha { flex-basis: 1.5em; padding-right: .3em; } }
+
+.nota-ref {
+  font-family: var(--sans); font-size: .55em; vertical-align: super; line-height: 0;
+  text-decoration: none; font-style: italic; padding: 0 .12em; margin-left: .05em;
+}
+.nota-ref:hover, .nota-ref.ativa { background: var(--realce); color: var(--papel); border-radius: 3px; }
+
+.notas { margin-top: 2.4em; border-top: 1px solid var(--linha); padding-top: .8em; font-size: .8em; }
+.notas h2 { font-family: var(--sans); font-size: .72em; letter-spacing: .14em; text-transform: uppercase; color: var(--tinta-tenue); font-weight: 600; margin: 0 0 .8em; }
+.notas ol { list-style: none; margin: 0; padding: 0; }
+.notas li { margin: 0 0 .7em; padding-left: 1.4em; text-indent: -1.4em; }
+.nota-letra { font-family: var(--sans); font-style: italic; text-decoration: none; display: inline-block; width: 1.2em; text-indent: 0; }
+.nota-v { font-family: var(--sans); font-size: .8em; color: var(--tinta-tenue); }
+.notas li:target { background: var(--papel-2); border-radius: 6px; }
+
+.nota-painel {
+  position: fixed; left: 50%; bottom: 1em; transform: translateX(-50%); z-index: 40;
+  width: min(30em, calc(100vw - 2em)); max-height: 50vh; overflow: auto;
+  background: var(--papel); border: 1px solid var(--linha); border-radius: var(--raio); box-shadow: var(--sombra);
+  padding: .8em 2.4em .9em 1em; font-size: .82em;
+}
+.nota-painel[hidden] { display: none; }
+.nota-painel-ref { font-family: var(--sans); font-size: .7em; letter-spacing: .1em; text-transform: uppercase; color: var(--realce); margin: 0 0 .35em; }
+.nota-painel-texto { margin: 0; }
+.nota-fechar {
+  position: absolute; top: .3em; right: .4em; border: 0; background: transparent; color: var(--tinta-suave);
+  font-size: 1.3em; line-height: 1; cursor: pointer; padding: .2em .35em;
+}
+.nota-fechar:hover { color: var(--realce); }
+
+.passos { display: flex; justify-content: space-between; gap: 1em; margin-top: 2.4em; padding-top: 1em; border-top: 1px solid var(--linha); font-family: var(--sans); font-size: .66em; }
+.passo { text-decoration: none; display: flex; flex-direction: column; max-width: 48%; }
+.passo.seg { text-align: right; margin-left: auto; }
+.passo .dir { color: var(--tinta-tenue); text-transform: uppercase; letter-spacing: .08em; font-size: .85em; }
+.passo .alvo { margin-top: .2em; }
+
+/* ---------------- comentários ---------------- */
+.cab-coment { margin: .6em 0 1.2em; }
+.sobretitulo { font-family: var(--sans); font-size: .6em; letter-spacing: .14em; text-transform: uppercase; color: var(--tinta-tenue); margin: 1em 0 0; }
+.cab-coment h1 { font-size: 1.6em; margin: .2em 0 .5em; }
+.resumo { color: var(--tinta-suave); margin: 0; }
+.temas { display: flex; flex-direction: column; gap: .6em; }
+.aviso-trad { margin-top: 2em; }
+
+.versos-tema { margin: 0 0 1.6em; padding: .7em .9em .1em; background: var(--papel-2); border-radius: var(--raio); font-size: .92em; }
+.versos-tema .num { font-family: var(--sans); font-size: .55em; color: var(--realce); vertical-align: super; margin-right: .3em; }
+
+.comentario { margin: 0 0 1.8em; padding-bottom: 1.4em; border-bottom: 1px solid var(--linha); }
+.comentario:last-child { border-bottom: 0; }
+.comentario-texto p { margin: 0 0 .85em; }
+.autoria { font-size: .78em; color: var(--tinta-suave); margin: .2em 0 0; }
+.autoria .autor { font-weight: 600; color: var(--tinta); }
+
+/* ---------------- rodapé ---------------- */
+.rodape { border-top: 1px solid var(--linha); text-align: center; font-family: var(--sans); font-size: .6em; color: var(--tinta-tenue); padding: 1.2em 1em 2em; }
+.rodape a { color: var(--tinta-tenue); }
