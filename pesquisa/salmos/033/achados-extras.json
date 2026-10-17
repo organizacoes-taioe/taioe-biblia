@@ -1,0 +1,68 @@
+[
+ {
+  "id": "afonso-selva-1-1-v9",
+  "autor": "Santo Afonso Maria de Ligório",
+  "autor_id": "afonso",
+  "datas": "1696–1787",
+  "obra": "Selva de matérias para pregar (Selva di materie predicabili, 1760)",
+  "passagem": "Parte I, cap. I (a dignidade do sacerdote)",
+  "edicao": "Opere ascetiche, Marietti 1880, vol. 3, p. ~11",
+  "versiculos": [
+   9
+  ],
+  "lingua": "it",
+  "original": "Siccome bastò a Dio nel creare il mondo che lo dicesse, e fu creato: Quoniam ipse dixit et facta sunt: così basta al sacerdote dire sul pane: Hoc est corpus meum, ed ecco che 'l pane non è più pane, ma è il corpo di Gesù Cristo.",
+  "fonte_url": "https://archive.org/details/opere-ascetiche-di-alfonso-maria-de-liguori-volume-3",
+  "traducao_pt": "Assim como bastou a Deus, ao criar o mundo, dizer a palavra, e o mundo foi criado («Porque ele disse, e as coisas foram feitas»), assim basta ao sacerdote dizer sobre o pão: «Isto é o meu corpo», e eis que o pão já não é pão, mas é o corpo de Jesus Cristo.",
+  "temas": [
+   "a palavra que faz",
+   "a Eucaristia"
+  ],
+  "resumo": "O v. 9 e a consagração.",
+  "relevancia": 3,
+  "direitos": "domínio público"
+ },
+ {
+  "id": "newman-pps-6-24-v6",
+  "autor": "São John Henry Newman",
+  "autor_id": "newman",
+  "datas": "1801–1890",
+  "obra": "Sermões paroquiais (Parochial and Plain Sermons), vol. VI",
+  "passagem": "Sermão 24, «O mistério da Santíssima Trindade»",
+  "edicao": "pp. 355–356",
+  "versiculos": [
+   6
+  ],
+  "lingua": "en",
+  "original": "And the Psalmist says, \"By the Word of the Lord were the heavens made, and all the hosts of them by the Breath of His mouth.\" [...] this mention of the Word, and Wisdom, and Presence, and Glory, and Spirit, and Breath, and Countenance, and Arm, and Hand of the Almighty is too frequent, and with too much of personal characteristic, to be dutifully passed over by the careful reader of Scripture",
+  "fonte_url": "https://www.newmanreader.org/works/parochial/volume6/sermon24.html",
+  "traducao_pt": "E o Salmista diz: «Pela Palavra do Senhor foram feitos os céus, e todos os seus exércitos pelo Sopro da sua boca». [...] Essa menção da Palavra, da Sabedoria, da Presença, da Glória, do Espírito, do Sopro, do Rosto, do Braço e da Mão do Todo-Poderoso é frequente demais, e tem traços pessoais demais, para que o leitor cuidadoso da Escritura passe por ela sem se deter.",
+  "temas": [
+   "a Trindade na criação"
+  ],
+  "resumo": "Os indícios da Trindade no AT.",
+  "relevancia": 2,
+  "direitos": "domínio público"
+ },
+ {
+  "id": "escriva-ecp-7-v5",
+  "autor": "São Josemaria Escrivá",
+  "autor_id": "escriva",
+  "datas": "1902–1975",
+  "obra": "É Cristo que passa (Es Cristo que pasa)",
+  "passagem": "n. 7",
+  "versiculos": [
+   5
+  ],
+  "lingua": "es",
+  "original": "Si recorréis las Escrituras Santas, descubriréis constantemente la presencia de la misericordia de Dios: llena la tierra, se extiende a todos sus hijos",
+  "fonte_url": "https://escriva.org/es/es-cristo-que-pasa/7/",
+  "traducao_pt": "Se percorrerdes as Santas Escrituras, descobrireis constantemente a presença da misericórdia de Deus: ela enche a terra, se estende a todos os seus filhos.",
+  "temas": [
+   "a misericórdia que enche a terra"
+  ],
+  "resumo": "Citação de passagem.",
+  "relevancia": 1,
+  "direitos": "citação curta"
+ }
+]
