@@ -1,6 +1,7 @@
 // Monta a página de revisão do Gere (/admin/biblia/, só o revisor geral) a partir dos capítulos
-// «em revisão»: escolhas de tradução, notas, divisão, comentários por tema e o que entra no
-// registro de escolhas da Bíblia inteira.
+// «em revisão» (escolhas de tradução, notas, divisão e o que entra no registro de escolhas da Bíblia
+// inteira) e dos estudos de palavra de revisao/estudos/*.json. Os comentários dos Padres não entram:
+// o Gere não os aprova um por um; lê no site e pede as mudanças na conversa (17/10).
 //
 //   node ferramentas/revisao.mjs     grava ../infra/dados/paginas/biblia.json
 //
@@ -51,40 +52,46 @@ for (const l of livros) {
       itens: [{ id: `${id}:divisao`, tipo: 'avaliacao', titulo: rv.divisao.titulo || 'Trechos e estrofes', texto: rv.divisao.texto }],
     });
 
-    for (const t of c.trechos) {
-      const com = c.comentarios && c.comentarios[t.id];
-      if (!com || !com.temas || !com.temas.length) continue;
-      const umSo = c.trechos.length === 1 && !t.titulo;
-      const base = `/biblia/${c.livro}/${c.cap}/comentarios/${umSo ? '' : t.id + '/'}`;
-      secoes.push({
-        id: `comentarios-${t.id}`, titulo: umSo ? 'Comentários' : `Comentários: ${t.titulo}`,
-        texto: `${com.temas.length} temas, ${com.temas.reduce((s, x) => s + x.itens.length, 0)} comentários. Para cada tema: o título, o resumo e a organização; para cada comentário: se fica, a tradução e se está no tema certo.` + (com.nota_revisao ? `\n\n${com.nota_revisao}` : ''),
-        itens: com.temas.map((x) => ({
-          id: `${id}:tema:${x.id}`, tipo: 'tema', titulo: x.titulo, resumo: x.resumo, url: `${base}${x.id}/`,
-          ref: x.versiculos && x.versiculos.length ? `${abrev} ${c.cap},${x.versiculos.join('.')}` : '',
-          comentarios: x.itens.map((m) => ({ id: `${id}:coment:${m.id}`, autor: m.autor, sobre: m.sobre, obra: m.obra, passagem: m.passagem, texto: m.texto, link: m.link, original: m.original || '' })),
-        })),
-      });
-    }
-
     if (rv.registro && rv.registro.length) secoes.push({
       id: 'registro', titulo: 'Para a Bíblia inteira',
       texto: 'Escolhas que este capítulo fixou e que passam a valer nos capítulos seguintes (ficam no ESCOLHAS.md do repositório).',
       itens: rv.registro.map((r) => ({ id: `${id}:registro:${r.id}`, tipo: 'avaliacao', titulo: r.titulo, texto: r.texto })),
     });
 
-    secoes.push({ id: 'geral', titulo: 'Observações gerais', itens: [{ id: `${id}:geral`, tipo: 'avaliacao', titulo: 'Sobre o capítulo como um todo', texto: 'Qualquer outra coisa: o tom das notas, a quantidade de comentários, o que faltou.', rotuloAprovar: 'Nada a acrescentar' }] });
+    secoes.push({ id: 'geral', titulo: 'Observações gerais', itens: [{ id: `${id}:geral`, tipo: 'avaliacao', titulo: 'Sobre o capítulo como um todo', texto: 'Qualquer outra coisa: o tom das notas, a tradução, o que faltou. Os comentários dos Padres ficam no site; quando quiser mudar algum, é só pedir na conversa.', rotuloAprovar: 'Nada a acrescentar' }] });
 
     capitulos.push({ id, rotulo, url: `/biblia/${c.livro}/${c.cap}/`, estado: `${c.estado}, atualizado em ${c.atualizado.split('-').reverse().join('/')}`, secoes });
+  }
+}
+
+// Estudos de uma palavra (ex.: nefesh): o resumo, os casos (cada versículo em cada opção) e a decisão.
+const ESTUDOS = path.join(RAIZ, 'revisao', 'estudos');
+if (fs.existsSync(ESTUDOS)) {
+  for (const f of fs.readdirSync(ESTUDOS).filter((x) => x.endsWith('.json')).sort()) {
+    const e = JSON.parse(fs.readFileSync(path.join(ESTUDOS, f), 'utf8'));
+    if (e.estado !== 'em revisão') continue;
+    const id = `estudo-${e.id}`;
+    const opcoes = e.escolha.opcoes.map((o) => ({ id: o.id, rotulo: `Opção ${o.id.toUpperCase()}` }));
+    capitulos.push({
+      id, rotulo: e.titulo.replace(/\*/g, ''),
+      url: `https://github.com/organizacoes-taioe/taioe-biblia/blob/main/revisao/estudos/${f.replace(/\.json$/, '.md')}`,
+      rotuloUrl: 'Ler o estudo inteiro',
+      estado: `${e.estado}, atualizado em ${e.atualizado.split('-').reverse().join('/')}`,
+      secoes: [
+        { id: 'casos', titulo: 'Os casos', texto: e.resumo, itens: [{ id: `${id}:casos`, tipo: 'casos', casos: e.casos, opcoes }] },
+        { id: 'escolha', titulo: 'A decisão', itens: [{ id: `${id}:escolha:${e.id}`, tipo: 'escolha', titulo: e.escolha.titulo, contexto: e.escolha.contexto,
+          opcoes: e.escolha.opcoes.map((o) => ({ ...o, texto: `${o.id.toUpperCase()}. ${o.texto}` })) }] },
+      ],
+    });
   }
 }
 
 const pagina = {
   slug: 'biblia',
   titulo: 'Bíblia Taioé: revisão',
-  intro: 'Os capítulos que esperam a sua avaliação. Cada resposta fica gravada assim que você clica em Gravar; pode mudar quando quiser. Eu leio as respostas, aplico no texto e uso as explicações nos capítulos seguintes.',
+  intro: 'Os capítulos e os estudos que esperam a sua avaliação. Cada resposta grava sozinha, assim que você clica ou para de digitar; pode mudar quando quiser. Eu leio as respostas, aplico no texto e uso as explicações nos capítulos seguintes.',
   capitulos,
 };
 fs.writeFileSync(DESTINO, JSON.stringify(pagina, null, 1) + '\n');
-const n = capitulos.reduce((s, c) => s + c.secoes.reduce((t, x) => t + x.itens.reduce((u, i) => u + 1 + (i.comentarios ? i.comentarios.length : 0), 0), 0), 0);
+const n = capitulos.reduce((s, c) => s + c.secoes.reduce((t, x) => t + x.itens.filter((i) => i.tipo !== 'casos').length, 0), 0);
 console.log(`${DESTINO}: ${capitulos.length} capítulo(s), ${n} itens`);

@@ -2,12 +2,46 @@
 
 Resumo das explicações que ele deu em `/admin/biblia/` e das regras que se tiram delas, para as
 notas, as escolhas e os comentários dos capítulos seguintes. Uma linha por lição, com o capítulo
-de onde veio. Ler antes de preparar um capítulo (`CAPITULO.md`, etapa 3).
+de onde veio. Ler antes de preparar um capítulo (`CAPITULO.md`, etapas 2 a 4).
 
 ## Notas
 
-(ainda nenhuma revisão respondida)
+- «Tinha nota demais.» No Sl 33 ficaram 4 de 20: o *ruah* com a leitura trinitária (v. 6), os
+  abismos na imagem antiga do mundo (v. 7), o cavalo como força dos exércitos (v. 17) e o *Te Deum*
+  (v. 22). (Sl 33)
+- «Quero apenas comentários importantes para ajudar o leitor a entender o versículo. Geralmente
+  vai ser contexto cultural e histórico.» (Sl 33, nota do título, excluída)
+- «Não quero comentários sobre língua, o foco é ajudar o entendimento do texto.» Se basta saber que
+  é um instrumento, não se explica o instrumento. (Sl 33,2, cítara e harpa)
+- «Também não quero notas com associações com outros textos, apenas se fosse necessário para
+  entender o versículo.» (Sl 33,3, cântico novo)
+- Nada de nota preciosista nem de análise. (Sl 33,3 aclamação; 33,5 justiça e direito)
+- Sem nota sobre a palavra traduzida, mesmo as grandes (*hesed*, *nefesh*), sobre «temer o Senhor»,
+  «filhos dos homens», herança. (Sl 33,5.8.12.13.19)
+- A nota aprovada com elogio: «uma questão importante para uma compreensão mais profunda do texto,
+  e que facilmente passaria despercebida pelo leitor». (Sl 33,6)
+- «Notas com referência à liturgia são bem-vindas.» (Sl 33,22)
+- A nota diz só o necessário: ele cortou a explicação de «Deus as guarda em reservatórios…» e
+  deixou a frase sobre a imagem antiga do mundo. (Sl 33,7)
 
 ## Tradução
 
+- «Vamos priorizar o original na tradução. A Nova Vulgata deve ser estritamente seguida para a
+  divisão de capítulo e versículos, não necessariamente para a tradução.» E sem nota de variante:
+  «É apenas para escolher uma versão e pronto.» No Sl 33 voltaram ao hebraico o v. 7 («como num
+  dique», não «odre»), o v. 15 («o coração de todos eles») e o v. 19 («conservá-los vivos»). (Sl 33)
+- Escolhas aprovadas como recomendadas: harpa de dez cordas, «tocai com arte, entre aclamações»,
+  «sopro da sua boca», «tudo se firmou» / «permanece firme». (Sl 33,2.3.6.9.11)
+- *Nefesh*: escolha provisória pelo sentido; ele quer ver muitos casos, cada um em cada opção,
+  para decidir de vez. (Sl 33,19–20; estudo em `revisao/estudos/nefesh.md`)
+- Os versos passam pelo Versificador para soarem melhor, sem perder a fidelidade ao original
+  (17/10; `CAPITULO.md`, etapa 3).
+
 ## Comentários
+
+- Não precisa aprovar um por um: os comentários entram no site, e ele pede mudanças na conversa,
+  à medida que for lendo. (17/10)
+- Os 6 que ele chegou a aprovar no Sl 33 (Basílio, Agostinho, Tomás, Cassiodoro, no tema «A alegria
+  dos justos») mostram o tom certo: excerto completo, tradução direta.
+- Textos do Magistério (*Verbum Domini*, *Laudato si'*) «podem ficar, com certeza», mesmo de Papas
+  não canonizados; com direito autoral, só citação curta. (Sl 33)

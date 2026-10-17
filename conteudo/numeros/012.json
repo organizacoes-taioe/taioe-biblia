@@ -16,7 +16,7 @@
   {"s": "O Senhor os chama à tenda"},
   {"v": 4, "t": "De repente, o Senhor disse a Moisés, a Aarão e a Míriam: Saí vós três à tenda do encontro. E saíram os três."},
   {"v": 5, "t": "O Senhor desceu na coluna de nuvem, pôs-se à entrada da tenda e chamou Aarão e Míriam; e ambos se aproximaram."},
-  {"v": 6, "l": ["Ele disse: Ouvi as minhas palavras.", "Se houver entre vós um profeta do Senhor,", "em visão me revelarei a ele,", "em sonho falarei com ele."]},
+  {"v": 6, "l": ["Ele disse: Ouvi as minhas palavras.", "Se houver entre vós um profeta,", "eu, o Senhor, em visão me revelarei a ele,", "em sonho falarei com ele."]},
   {"v": 7, "l": ["Não é assim com o meu servo Moisés,", "que é fiel em toda a minha casa:"]},
   {"v": 8, "l": ["boca a boca falo com ele,", "com clareza, e não por enigmas,", "e ele contempla a figura do Senhor.", "Por que, então, não temestes falar contra o meu servo Moisés?"]},
   {"s": "A lepra de Míriam e a oração de Moisés"},
@@ -30,22 +30,13 @@
   {"v": 16, "t": "Depois disso o povo partiu de Haserot e acampou no deserto de Farã."}
  ],
  "notas": [
-  {"id": "n01", "v": 1, "apos": "Míriam", "texto": "Míriam (no hebraico, *Miryam*) é a irmã mais velha de Moisés e de Aarão, a profetisa que cantou depois da travessia do mar (Êx 15,20–21). É o mesmo nome que em grego e em latim se tornou Maria. No hebraico, o verbo «falaram» está no feminino singular: a queixa começa com ela, e Aarão a acompanha.", "origem": "nova (junta o nome e o que dizia a nota antiga do v. 10)"},
-  {"id": "n02", "v": 1, "apos": "mulher etíope que ele tomara", "texto": "Etíope traduz *kushit*, mulher de Cuxe, a terra ao sul do Egito (a Núbia, no atual Sudão), que a Bíblia grega e a latina chamam Etiópia. Pode ser Séfora, a madianita com quem Moisés se casou (Êx 2,21), ou uma segunda mulher; o texto não explica. A queixa do v. 2 mostra que o casamento era só o pretexto.", "origem": "revista (a do projeto antigo, mais clara e com a referência de Séfora)"},
-  {"id": "n03", "v": 2, "apos": "também por nós?", "texto": "Aarão era o sumo sacerdote, e Míriam, profetisa (Êx 15,20): os dois também tinham recebido a palavra de Deus, e não aceitam que Moisés esteja acima deles.", "origem": "nova"},
-  {"id": "n04", "v": 3, "apos": "humilde", "texto": "*Humilde* traduz *anav*, o pobre que não se impõe e não revida, a palavra que os Salmos usam para os «humildes» que Deus defende. A Bíblia grega diz «manso», como em Mt 5,5. Por isso Moisés não se defende: é Deus quem responde por ele.", "origem": "revista (acompanha a escolha de tradução do v. 3)"},
-  {"id": "n05", "v": 4, "apos": "tenda do encontro", "texto": "A tenda onde Deus se encontrava com Moisés, armada fora do acampamento (Êx 33,7–11). A nuvem que desce sobre ela é o sinal da presença do Senhor.", "origem": "nova"},
-  {"id": "n06", "v": 6, "texto": "É assim que Deus fala aos profetas em geral: por visões e sonhos, que precisam ser interpretados. Com Moisés é diferente (vv. 7–8). O hebraico do começo deste verso é difícil; a tradução segue o sentido que lhe dão a Bíblia grega e a latina.", "origem": "nova"},
-  {"id": "n07", "v": 7, "apos": "em toda a minha casa", "texto": "A casa é o povo de Deus, confiado a Moisés como a um administrador de confiança. A Carta aos Hebreus (3,2–6) cita este verso para comparar Moisés, fiel na casa como servo, com Cristo, fiel sobre a casa como Filho.", "origem": "nova"},
-  {"id": "n08", "v": 8, "apos": "a figura do Senhor", "texto": "*Boca a boca*: o hebraico insiste na palavra direta, mais que na visão. *Figura* traduz *temuná*, uma forma que se deixa ver; não é ver o próprio rosto de Deus, que ninguém pode ver e continuar vivo (Êx 33,20–23). É a palavra do Deuteronômio: no Horeb o povo não viu figura alguma (Dt 4,12).", "origem": "revista (a do projeto antigo, com a referência do Deuteronômio)"},
-  {"id": "n09", "v": 10, "apos": "estava leprosa", "texto": "A *lepra* da Bíblia (no hebraico, *tsaraat*) não é só a doença que hoje tem esse nome: é qualquer mal de pele que descasca e deixa manchas, e que tornava a pessoa impura. O doente vivia fora do acampamento até ser curado e declarado puro pelo sacerdote (Lv 13–14). *Branca como a neve* descreve a pele que se desfaz em escamas.", "origem": "nova"},
-  {"id": "n10", "v": 10, "apos": "Aarão olhou para ela", "texto": "Só Míriam fica leprosa, embora os dois tenham falado. E é Aarão, o sacerdote, que segundo a Lei devia examinar a lepra (Lv 13,3), quem a vê primeiro.", "origem": "revista (a do projeto antigo; o verbo no feminino passou para a nota do v. 1)"},
-  {"id": "n11", "v": 11, "apos": "meu senhor", "texto": "Aarão, o irmão mais velho e sumo sacerdote, chama Moisés de «meu senhor»: reconhece a autoridade que um momento antes contestava.", "origem": "nova"},
-  {"id": "n12", "v": 12, "apos": "consumida", "texto": "A imagem é a da criança que nasce morta, já com a pele desfeita: era assim que a lepra deixava o corpo.", "origem": "nova"},
-  {"id": "n13", "v": 13, "apos": "cura-a", "texto": "No hebraico, cinco palavras: *El na refa na lah*, «Ó Deus, por favor, cura-a, por favor». É uma das orações mais curtas da Bíblia, e Moisés a faz pela irmã que acabava de acusá-lo.", "origem": "revista (a do projeto antigo)"},
-  {"id": "n14", "v": 14, "apos": "cuspido no rosto", "texto": "Cuspir no rosto de alguém era a maior humilhação pública (Dt 25,9; Is 50,6). Se a vergonha imposta por um pai durava sete dias, a imposta por Deus não podia ser menor. Sete dias é também o prazo do exame da lepra (Lv 13,4–5).", "origem": "nova"},
-  {"id": "n15", "v": 15, "apos": "readmitida", "texto": "O povo inteiro espera por ela: o castigo não tira Míriam do povo, e a caminhada só continua com ela.", "origem": "nova"},
-  {"id": "n16", "v": 16, "apos": "deserto de Farã", "texto": "O deserto de Farã fica ao sul de Canaã, no norte da península do Sinai. Dali Moisés mandará os exploradores à terra prometida (cap. 13).", "origem": "nova"}
+  {"id": "n01", "v": 1, "apos": "Míriam", "texto": "Míriam é a irmã mais velha de Moisés e de Aarão, a profetisa que cantou depois da travessia do mar (Êx 15,20–21).", "origem": "nova (junta o nome e o que dizia a nota antiga do v. 10); encurtada pelos critérios do Gere (17/10)"},
+  {"id": "n02", "v": 1, "apos": "mulher etíope que ele tomara", "texto": "Etíope quer dizer mulher de Cuxe, a terra ao sul do Egito (a Núbia, no atual Sudão). O texto não diz se é Séfora, a madianita com quem Moisés se casou, ou uma segunda mulher.", "origem": "revista (a do projeto antigo, mais clara e com a referência de Séfora); encurtada pelos critérios do Gere (17/10)"},
+  {"id": "n05", "v": 4, "apos": "tenda do encontro", "texto": "A tenda onde Deus se encontrava com Moisés, armada fora do acampamento. A nuvem que desce sobre ela é o sinal da presença do Senhor.", "origem": "nova; encurtada pelos critérios do Gere (17/10)"},
+  {"id": "n09", "v": 10, "apos": "estava leprosa", "texto": "A lepra da Bíblia não é só a doença que hoje tem esse nome: é qualquer mal de pele que descasca e deixa manchas, e que tornava a pessoa impura. O doente vivia fora do acampamento até o sacerdote o declarar curado.", "origem": "nova; encurtada pelos critérios do Gere (17/10)"},
+  {"id": "n12", "v": 12, "apos": "consumida", "texto": "A imagem é a da criança que nasce morta, com a pele já desfeita: era assim que a lepra deixava o corpo.", "origem": "nova; encurtada pelos critérios do Gere (17/10)"},
+  {"id": "n14", "v": 14, "apos": "cuspido no rosto", "texto": "Cuspir no rosto de alguém era a maior humilhação pública.", "origem": "nova; encurtada pelos critérios do Gere (17/10)"},
+  {"id": "n16", "v": 16, "apos": "deserto de Farã", "texto": "O deserto de Farã fica ao sul de Canaã, no norte da península do Sinai.", "origem": "nova; encurtada pelos critérios do Gere (17/10)"}
  ],
  "comentarios": {
   "1": {
@@ -119,7 +110,7 @@
     }
    ],
    "intro": "Comentários dos Padres da Igreja e dos santos sobre a queixa de Míriam e Aarão contra Moisés, organizados pelo que dizem.\n\nOs Padres liam a Bíblia em grego ou em latim, em que a irmã de Moisés se chama Maria; aqui, para não confundir com Nossa Senhora, ela sai «Míriam», como no nosso texto. Dentro de cada comentário, as citações bíblicas seguem o texto que o autor leu.",
-   "nota_revisao": "Dos 133 excertos achados (pesquisa/numeros/012/), ficaram 90, em 16 temas: 5 no primeiro trecho, 6 no segundo e 5 no terceiro. Ficaram de fora as repetições, os textos de autoria duvidosa (pseudo-Agostinho, pseudo-Gregório, um sermão atribuído a Crisóstomo) e Bento XVI, que não é santo. Entram com a indicação de que não são canonizados: Orígenes (a homilia 7 sobre Números é o comentário mais completo do capítulo), Teodoreto, Procópio, Ruperto de Deutz e Cornélio a Lápide. Quatro passagens dos Padres gregos (Gregório de Nissa e Gregório Nazianzeno) vêm de edições modernas e entram só como citação curta. O nome da irmã de Moisés sai «Míriam» nos comentários (se você escolher «Maria», eu volto)."
+   "nota_revisao": "Dos 133 excertos achados (pesquisa/numeros/012/), ficaram 90, em 16 temas: 5 no primeiro trecho, 6 no segundo e 5 no terceiro. Ficaram de fora as repetições, os textos de autoria duvidosa (pseudo-Agostinho, pseudo-Gregório, um sermão atribuído a Crisóstomo) e a catequese de Bento XVI de 1º/6/2011, que só cita o capítulo de passagem (o Magistério entra sempre que comentar de fato o texto). Entram com a indicação de que não são canonizados: Orígenes (a homilia 7 sobre Números é o comentário mais completo do capítulo), Teodoreto, Procópio, Ruperto de Deutz e Cornélio a Lápide. Quatro passagens dos Padres gregos (Gregório de Nissa e Gregório Nazianzeno) vêm de edições modernas e entram só como citação curta. O nome da irmã de Moisés sai «Míriam» nos comentários (se você escolher «Maria», eu volto)."
   },
   "2": {
    "temas": [
@@ -291,7 +282,7 @@
     "titulo": "A irmã de Moisés: Míriam ou Maria?",
     "contexto": "O hebraico é *Miryam*; a Nova Vulgata escreve *Maria*. Na tradução de partida ela é «Míriam» no Êxodo (15,20–21, com nota explicando que é o mesmo nome que Maria), em 1 Crônicas, em Miqueias e nas notas de Juízes, 2 Reis e Judite; mas «Maria» em Números (12; 20,1; 26,59) e no Deuteronômio (24,9). Os Padres latinos escrevem Maria, e alguns ligam a irmã de Moisés a Nossa Senhora.",
     "opcoes": [
-     {"id": "a", "texto": "«Míriam» em toda a Bíblia", "nota": "Coerente com o Êxodo, e o leitor comum não a confunde com Nossa Senhora; a nota do v. 1 diz que é o mesmo nome que Maria. Nos comentários dos Padres, o nome também sai «Míriam».", "recomendada": true},
+     {"id": "a", "texto": "«Míriam» em toda a Bíblia", "nota": "Coerente com o Êxodo e com o hebraico, e o leitor comum não a confunde com Nossa Senhora. Nos comentários dos Padres, o nome também sai «Míriam».", "recomendada": true},
      {"id": "b", "texto": "«Maria» em toda a Bíblia, como a Nova Vulgata", "nota": "Aí o Êxodo, 1 Crônicas e Miqueias mudam."}
     ]
    },
@@ -301,7 +292,7 @@
     "titulo": "Moisés, «manso» ou «humilde»?",
     "contexto": "O hebraico *anav* é o pobre, o que se abaixa e não revida. Nos Salmos, a tradução de partida sempre o pôs como «humildes» (10,17; 25,9; 34,3; 69,33; 72,4), menos no 37,11, «os mansos possuirão a terra», que Jesus cita em Mt 5,5. Aqui estava «manso». A Bíblia grega diz «manso» (*praus*), e os Padres, gregos e latinos (que liam *mitissimus*), comentam a mansidão de Moisés; a Nova Vulgata diz «humílimo».",
     "opcoes": [
-     {"id": "a", "texto": "«Moisés era um homem muito humilde»", "nota": "Coerente com os Salmos e com a Nova Vulgata; a nota dá o «manso» do grego, e o tema dos comentários se chama «Moisés, manso e humilde».", "recomendada": true},
+     {"id": "a", "texto": "«Moisés era um homem muito humilde»", "nota": "É o que diz o hebraico, e é coerente com os Salmos; o tema dos comentários se chama «Moisés, manso e humilde».", "recomendada": true},
      {"id": "b", "texto": "«Moisés era um homem muito manso» (como estava)", "nota": "Bom para o contexto (ele não se defende) e casa com os comentários dos Padres, que falam todos de mansidão."}
     ]
    },
