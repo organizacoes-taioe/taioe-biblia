@@ -27,6 +27,8 @@ node ferramentas/importar.mjs <livro> <capítulo>      # ex.: salmos 34
   hebraico com lemas; ver `pesquisa/COMO-PESQUISAR.md`).
 - Para cada palavra ou fórmula importante, ver com grep como ela já foi traduzida no resto da
   Bíblia (`Software MEU/biblia/livros/*.js`) e nos capítulos da Taioé. Divergência vira escolha.
+- **Nomes próprios: os da liturgia do Brasil** (regra do Gere, Nm 12): conferir cada nome no
+  lecionário da CNBB, como diz `ESCOLHAS.md`, «Nomes próprios», e usar o mesmo nos comentários.
 - O que for claro e seguro, corrigir direto (erro, palavra antiquada, eco perdido).
 - O que tiver solução menos óbvia vira **escolha** em `revisao.escolhas`: título, referência,
   contexto curto (o que diz o original, como está no resto, o que os Padres leem), duas ou três
@@ -113,6 +115,7 @@ Sl 33, de 20 notas ficaram 4.
   mais antigo, salvo se o segundo acrescenta), e agrupar por **aspecto do trecho**: cada tema
   reúne os comentários que falam da mesma coisa (ex.: «O cântico novo», «O Verbo e o Espírito na
   criação»). Os temas seguem a ordem do texto; o da liturgia, se houver, vai por último.
+- A página de comentários de um trecho não tem texto introdutório (o Gere, Nm 12): nada de `intro`.
 - Tema: id curto, título, versículos, resumo de uma frase. Entre 2 e 8 comentários por tema;
   um tema de um comentário só, só se ele for essencial.
 - Comentário: excerto com sentido completo (2 a 8 frases), na ordem do raciocínio, do mais

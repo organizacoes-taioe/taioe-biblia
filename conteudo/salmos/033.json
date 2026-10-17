@@ -26,7 +26,7 @@
   {"v": 17, "l": ["Ilusório é o cavalo para a vitória:", "apesar de todo o seu vigor, não salva."]},
   {"v": 18, "l": ["Eis que os olhos do Senhor estão sobre os que o temem,", "sobre os que esperam na sua misericórdia,"]},
   {"v": 19, "l": ["para livrá-los da morte", "e conservá-los vivos na fome."]},
-  {"v": 20, "l": ["Nós esperamos no Senhor:", "ele é o nosso auxílio e o nosso escudo."], "np": 1},
+  {"v": 20, "l": ["A nossa alma espera no Senhor:", "ele é o nosso auxílio e o nosso escudo."], "np": 1},
   {"v": 21, "l": ["Nele se alegra o nosso coração,", "e no seu santo nome confiamos."]},
   {"v": 22, "l": ["Venha sobre nós, Senhor, a tua misericórdia,", "conforme esperamos em ti."]}
  ],
@@ -38,8 +38,6 @@
  ],
  "comentarios": {
   "1": {
-   "intro": "Comentários dos Padres da Igreja e dos santos sobre este salmo, de Santo Irineu, no século II, a São João Paulo II, organizados pelo que dizem.\n\nEles liam a Bíblia em grego ou em latim, em que este é o *Salmo 32*, às vezes com outras palavras: «saltério» em lugar de harpa, «cantai com júbilo», «o cavalo é enganoso». Dentro de cada comentário, a citação do salmo segue o texto que o autor leu.",
-   "nota_revisao": "Dos 167 excertos achados (o acervo está em pesquisa/salmos/033/), ficaram 112, em 20 temas na ordem do salmo, com o da liturgia por último. Saíram as repetições (o mesmo pensamento em dois autores: ficou o mais antigo ou o melhor) e o que não é santo nem Padre: Orígenes (autoria incerta), Apolinário, Dídimo (texto de edição moderna) e o pseudo-Jerônimo. Ficaram, com a indicação de que são «escritores eclesiásticos», Clemente de Alexandria, Eusébio e Teodoreto, que a tradição sempre usou; e o Catecismo, no tema da Trindade. São João Paulo II entra só em citações curtas (direitos da LEV), com o link. Os textos do Magistério (*Verbum Domini* 8 e *Laudato si'* 77) entraram depois da revisão do Gere (17/10), que os quer.",
    "temas": [
     {
      "id": "alegria-dos-justos",

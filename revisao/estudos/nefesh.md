@@ -1,6 +1,6 @@
 # Estudo: *nefesh* (alma, vida, pessoa…)
 
-Estado: em revisão (2026-10-17). Pedido do Gere no Sl 33,19–20: «vamos ter que fazer um estudo mais
+Estado: **decidido** (2026-10-17): o Gere escolheu a **opção C** (§ das opções), que está no `ESCOLHAS.md`. Pedido do Gere no Sl 33,19–20: «vamos ter que fazer um estudo mais
 profundo de *nefesh* para eu escolher». A escolha vale para a Bíblia inteira; a decisão dele vai para
 `ESCOLHAS.md`. Dados: `pesquisa/estudos/nefesh/ocorrencias.tsv` (uma linha por ocorrência) e
 `pesquisa/estudos/nefesh/resumo.md` (tabelas por categoria e por livro).

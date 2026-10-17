@@ -21,6 +21,13 @@ de onde veio. Ler antes de preparar um capítulo (`CAPITULO.md`, etapas 2 a 4).
 - A nota aprovada com elogio: «uma questão importante para uma compreensão mais profunda do texto,
   e que facilmente passaria despercebida pelo leitor». (Sl 33,6)
 - «Notas com referência à liturgia são bem-vindas.» (Sl 33,22)
+- «Nota excessiva. Esses elementos são bem frequentes nos textos»: nada de nota para o que volta
+  sempre (a tenda do encontro, a nuvem). (Nm 12,4)
+- Sem nota para o que o leitor entende sozinho: «cuspir no rosto continua bem humilhante». (Nm 12,14)
+- Sem nota para a lepra, nem sobre de onde vem a mulher etíope («não ajuda em nada na compreensão
+  do texto»). (Nm 12,1.10.12)
+- Lembrar quem é a pessoa, quando o leitor pode não saber, é bom: «gostei dessa nota que ajuda o
+  leitor a se lembrar quem é Maria». Lugar pouco conhecido (o deserto de Faran) também. (Nm 12,1.16)
 - A nota diz só o necessário: ele cortou a explicação de «Deus as guarda em reservatórios…» e
   deixou a frase sobre a imagem antiga do mundo. (Sl 33,7)
 
@@ -34,6 +41,9 @@ de onde veio. Ler antes de preparar um capítulo (`CAPITULO.md`, etapas 2 a 4).
   «sopro da sua boca», «tudo se firmou» / «permanece firme». (Sl 33,2.3.6.9.11)
 - *Nefesh*: escolha provisória pelo sentido; ele quer ver muitos casos, cada um em cada opção,
   para decidir de vez. (Sl 33,19–20; estudo em `revisao/estudos/nefesh.md`)
+- **Nomes: sempre os da liturgia do Brasil** (lecionário da CNBB; ver `ESCOLHAS.md`, «Nomes
+  próprios»): «Maria», não «Míriam»; «etíope», não «cuxita». (Nm 12)
+- *Nefesh*: decidida a opção C do estudo, «alma» só para o interior da pessoa. (17/10)
 - Os versos passam pelo Versificador para soarem melhor, sem perder a fidelidade ao original
   (17/10; `CAPITULO.md`, etapa 3).
 
@@ -41,6 +51,7 @@ de onde veio. Ler antes de preparar um capítulo (`CAPITULO.md`, etapas 2 a 4).
 
 - Não precisa aprovar um por um: os comentários entram no site, e ele pede mudanças na conversa,
   à medida que for lendo. (17/10)
+- A página de comentários não leva texto introdutório: só o título, os temas e os comentários. (Nm 12)
 - Os 6 que ele chegou a aprovar no Sl 33 (Basílio, Agostinho, Tomás, Cassiodoro, no tema «A alegria
   dos justos») mostram o tom certo: excerto completo, tradução direta.
 - Textos do Magistério (*Verbum Domini*, *Laudato si'*) «podem ficar, com certeza», mesmo de Papas

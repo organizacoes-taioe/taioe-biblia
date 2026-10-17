@@ -17,6 +17,22 @@ e versículos, que se segue à risca.
 - YHWH = «o Senhor». Adonai YHWH = «o Senhor Deus».
 - Salmos: numeração hebraica no título, com a grega e latina entre parênteses: «Salmo 33 (32)».
 
+## Nomes próprios: os da liturgia do Brasil
+
+Regra do Gere (Nm 12, 17/10): «Para nomes, busque sempre a escolha usada na liturgia do Brasil.»
+Vale para pessoas, povos e lugares, também nos comentários dos Padres.
+
+- Fonte: o lecionário da CNBB, o mesmo texto da *Liturgia diária* da Canção Nova
+  (liturgia.cancaonova.com/pb/liturgia/<semana>-<dia>[-n]/, os endereços se repetem com -2, -3…) e
+  da *Palavra do dia* do Vatican News em português (vaticannews.va/pt/palavra-do-dia/AAAA/MM/DD.html,
+  por data, o caminho mais fácil). Achar a data em que o capítulo é lido (o calendário das leituras
+  dos dias de semana, ano I e ano II) e conferir os nomes ali.
+- Nome que a liturgia não lê no capítulo: procurar em outra leitura do lecionário onde ele apareça;
+  se não houver, fica a forma do projeto antigo, com a ortografia de hoje, e a lista vai para o
+  `revisao.registro` do capítulo.
+- Já fixados: Maria (a irmã de Moisés; nunca «Míriam»), etíope, Faran, Cades, Caleb, Enac, Negueb,
+  Josué filho de Nun, os amalecitas, hititas, jebuseus, amorreus e cananeus.
+
 ## Vocabulário
 
 | original | tradução | observação | origem |
@@ -38,13 +54,20 @@ e versículos, que se segue à risca.
 | *benê adam* | os filhos dos homens | sem nota | Sl 33 |
 | *nahalá* | herança | | projeto antigo |
 | *yir'at YHWH*, *yerê'ayw* | o temor do Senhor, os que o temem | nunca «respeitar»; sem nota | Sl 33 |
-| *nefesh* | **provisório**: pelo sentido (Sl 33,19 «livrá-los da morte»; 33,20 «nós esperamos») | a decisão sai do estudo `revisao/estudos/nefesh.md`, em `/admin/biblia/` | Sl 33, provisório |
+| *nefesh* | «alma» quando é o interior da pessoa (quem sente, ama, deseja, se angustia, tem sede, espera, louva, e «de todo o coração e de toda a alma»); nos outros casos, pelo sentido: vida, o pronome, pessoa ou alguém, desejo, garganta, fôlego, ser vivo, morto | o teste: o verbo diz o que se passa dentro da pessoa? Gn 2,7 e Sl 16,10 ficam «alma». Sl 33,19 «livrá-los da morte», 33,20 «A nossa alma espera». Estudo em `revisao/estudos/nefesh.md` | estudo, opção C, aprovada |
 | *'ezer* / *maguen* | auxílio / escudo | | projeto antigo |
 | *gibbor* | valente | | projeto antigo |
+| *Miryam* | Maria | como na liturgia; nunca «Míriam» (corrigir Êx 15,20–21, 1Cr, Mq ao entrarem) | Nm 12, aprovado |
+| *anav*, *anavim* | humilde, os humildes | como nos Salmos; «mansos» só no Sl 37,11 (Mt 5,5); o grego *praus* do NT continua «manso» | Nm 12, aprovado |
+| *kushi*, *Kush* | etíope, Etiópia | como na liturgia; sem nota sobre Cuxe | Nm 12, aprovado |
+| *tsaraat* | lepra | sem nota | Nm 12, aprovado |
+| *temuná* | figura | como em Dt 4,12.15 e Êx 20,4 | Nm 12, aprovado |
+| *ohel moed* | tenda do encontro | as 10 vezes de «tenda da reunião» (1Rs, 1–2Cr) mudam ao entrar | Nm 12, aprovado |
 | *amad* (Sl 33,9.11) | firmar-se / permanecer firme | o eco entre os dois versos | Sl 33, aprovado |
 
 ## Inconsistências conhecidas, para corrigir quando o capítulo entrar
 
 - Hades = «abismo» em Ap 1,18, mas «morada dos mortos» em Ap 6,8; 20,13–14 e At 2,27.
 - Sl 144,9 «lira de dez cordas» → «harpa de dez cordas» (escolha do Sl 33,2).
-- *Nefesh*: quando o Gere decidir, rever o Sl 33,19–20 e os capítulos já feitos.
+- *Nefesh*: aplicar a opção C em cada capítulo que entrar (o projeto antigo traz «alma» 249 vezes, muitas onde é vida ou pessoa).
+- «Míriam» no Êxodo, em 1 Crônicas e em Miqueias → «Maria».

@@ -1,7 +1,7 @@
 {
  "id": "nefesh",
  "titulo": "Estudo: *nefesh* (alma, vida, pessoa…)",
- "estado": "em revisão",
+ "estado": "decidido",
  "atualizado": "2026-10-17",
  "resumo": "*Nefesh* é uma das palavras mais frequentes do Antigo Testamento: aparece 754 vezes, em 31 livros, 144 delas nos Salmos. O sentido de base é a garganta, por onde passam o fôlego, a água e o alimento; daí vem o ser que respira e vive, e daí tudo o que é vivo nele. Quase nunca é a alma separada do corpo, que é como o português de hoje entende «alma».\n\nLido versículo por versículo, *nefesh* é: a vida física, que se perde ou se salva (33%: «procuram tirar-me a vida», «vida por vida»); a interioridade que sente, ama, deseja, louva e espera (22%: «a minha alma tem sede de Deus»); o próprio eu, que em português é pronome (15%: «morra eu», «ama a si mesmo»); a pessoa, nas leis e nas contagens (13%: «setenta pessoas», «quando alguém pecar»); o desejo ou apetite (10%); e, no resto (8%), o fôlego, o ser vivo, a garganta e o cadáver.\n\nO projeto antigo traduziu «alma» 249 vezes (33%), «vida» 206 (27%), pronome 77, pessoa ou alguém 83, e outras palavras no resto. Já vai mais pelo sentido do que por «alma», mas sem regra: o mesmo hebraico sai «livrar da morte a sua alma» no Sl 33,19 e «livraste da morte a minha vida» no Sl 56,14; «a alma da carne está no sangue» em Lv 17,11 e «o sangue é a vida» em Dt 12,23.\n\nA Bíblia grega diz quase sempre *psyché* e a Vulgata *anima* (perto de 9 em 10 vezes), até para a garganta; o Novo Testamento herda a palavra nos mesmos sentidos, e o próprio NT do projeto antigo a traduz ora «vida» (Mt 2,20; Rm 11,3), ora «pessoa» (At 7,14), ora «alma» (Mt 26,38; Lc 1,46). O Catecismo (§ 363) diz que na Escritura «alma» designa muitas vezes a vida ou a pessoa inteira, e também o que há de mais íntimo no homem. A liturgia guarda «alma» nos salmos que reza: «A minha alma tem sede de Deus» (Sl 42; 63), «Bendize, ó minha alma, o Senhor» (Sl 103).",
  "casos": [
@@ -332,5 +332,10 @@
     "nota": "Cerca de 255 «almas» (34%). Guarda a voz tradicional do saltério («livra a minha alma», «restaura a minha alma»), mas o mesmo hebraico sai de dois jeitos («livrar da morte a sua alma», Sl 33,19; «livrareis da morte as nossas vidas», Js 2,13)."
    }
   ]
+ },
+ "decisao": {
+  "opcao": "c",
+  "data": "2026-10-17",
+  "texto": "O Gere escolheu a opção C: «alma» quando nefesh é o interior da pessoa; nos outros casos, pelo sentido (vida, o pronome, pessoa, desejo, garganta, fôlego, ser vivo, morto). Gn 2,7 e Sl 16,10 ficam «alma»."
  }
 }
