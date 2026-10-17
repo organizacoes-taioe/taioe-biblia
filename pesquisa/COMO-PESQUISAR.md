@@ -15,6 +15,10 @@ capítulo seguinte se pesquise mais depressa. Esta pasta não vai ao ar (só `pu
   seleção e a organização por temas.
 - `<livro>/<cap>/relatorio-<grupo>.md`: o que se procurou, o que se achou, o que não existe
   (ex.: «Hilário não comentou este salmo»), para não procurar de novo.
+- `ferramentas/hebraico.py`: o hebraico do AT (morphhb, com lemas Strong e morfologia; cache em
+  `cache/morphhb/`, fora do git) para conferir o original: `--ref "Sl 33,19-20"` mostra o trecho
+  palavra por palavra, `--lema 5315` lista as ocorrências de uma palavra (uso no topo do arquivo).
+  Estudos de palavra (ex.: `estudos/nefesh/`) guardam aqui os dados; o texto vai para `revisao/estudos/`.
 
 ## Formato de `achados.json` (uma lista)
 

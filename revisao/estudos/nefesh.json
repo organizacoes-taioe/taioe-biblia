@@ -1,0 +1,336 @@
+{
+ "id": "nefesh",
+ "titulo": "Estudo: *nefesh* (alma, vida, pessoa…)",
+ "estado": "em revisão",
+ "atualizado": "2026-10-17",
+ "resumo": "*Nefesh* é uma das palavras mais frequentes do Antigo Testamento: aparece 754 vezes, em 31 livros, 144 delas nos Salmos. O sentido de base é a garganta, por onde passam o fôlego, a água e o alimento; daí vem o ser que respira e vive, e daí tudo o que é vivo nele. Quase nunca é a alma separada do corpo, que é como o português de hoje entende «alma».\n\nLido versículo por versículo, *nefesh* é: a vida física, que se perde ou se salva (33%: «procuram tirar-me a vida», «vida por vida»); a interioridade que sente, ama, deseja, louva e espera (22%: «a minha alma tem sede de Deus»); o próprio eu, que em português é pronome (15%: «morra eu», «ama a si mesmo»); a pessoa, nas leis e nas contagens (13%: «setenta pessoas», «quando alguém pecar»); o desejo ou apetite (10%); e, no resto (8%), o fôlego, o ser vivo, a garganta e o cadáver.\n\nO projeto antigo traduziu «alma» 249 vezes (33%), «vida» 206 (27%), pronome 77, pessoa ou alguém 83, e outras palavras no resto. Já vai mais pelo sentido do que por «alma», mas sem regra: o mesmo hebraico sai «livrar da morte a sua alma» no Sl 33,19 e «livraste da morte a minha vida» no Sl 56,14; «a alma da carne está no sangue» em Lv 17,11 e «o sangue é a vida» em Dt 12,23.\n\nA Bíblia grega diz quase sempre *psyché* e a Vulgata *anima* (perto de 9 em 10 vezes), até para a garganta; o Novo Testamento herda a palavra nos mesmos sentidos, e o próprio NT do projeto antigo a traduz ora «vida» (Mt 2,20; Rm 11,3), ora «pessoa» (At 7,14), ora «alma» (Mt 26,38; Lc 1,46). O Catecismo (§ 363) diz que na Escritura «alma» designa muitas vezes a vida ou a pessoa inteira, e também o que há de mais íntimo no homem. A liturgia guarda «alma» nos salmos que reza: «A minha alma tem sede de Deus» (Sl 42; 63), «Bendize, ó minha alma, o Senhor» (Sl 103).",
+ "casos": [
+  {
+   "ref": "Sl 33,19",
+   "hebraico": "lehatsil mimmavet nafsham",
+   "sentido": "vida física (livrar da morte)",
+   "atual": "para livrar da morte a sua alma / e alimentá-los na fome.",
+   "a": "para livrar da morte a sua alma / e conservá-los vivos na fome.",
+   "b": "para livrá-los da morte / e conservá-los vivos na fome.",
+   "c": "igual a B",
+   "d": "igual a A"
+  },
+  {
+   "ref": "Sl 33,20",
+   "hebraico": "nafshenu hikketá laYHWH",
+   "sentido": "interioridade que espera em Deus",
+   "atual": "A nossa alma espera no Senhor: / ele é o nosso auxílio e o nosso escudo.",
+   "a": "A nossa alma espera no Senhor: / ele é o nosso auxílio e o nosso escudo.",
+   "b": "Nós esperamos no Senhor: / ele é o nosso auxílio e o nosso escudo.",
+   "c": "igual a A",
+   "d": "igual a A"
+  },
+  {
+   "ref": "Gn 2,7",
+   "hebraico": "vayhi ha'adam lenefesh hayyá",
+   "sentido": "ser vivo (citado em 1Cor 15,45)",
+   "atual": "Então o Senhor Deus formou o homem do pó do solo, e soprou-lhe nas narinas um sopro de vida; e o homem tornou-se um ser vivente.",
+   "a": "Então o Senhor Deus formou o homem do pó do solo, e soprou-lhe nas narinas um sopro de vida; e o homem tornou-se alma vivente.",
+   "b": "Então o Senhor Deus formou o homem do pó do solo, e soprou-lhe nas narinas um sopro de vida; e o homem tornou-se um ser vivo.",
+   "c": "igual a A",
+   "d": "igual a A"
+  },
+  {
+   "ref": "Gn 9,4–5",
+   "hebraico": "basar benafsho damo … edrosh et-nefesh ha'adam",
+   "sentido": "vida (o sangue é a vida)",
+   "atual": "Somente não comereis a carne com a sua vida, isto é, com o seu sangue. E também pedirei conta do vosso sangue, que é a vossa vida: pedirei conta dele a todo animal; e ao homem, ao seu próprio irmão, pedirei conta da vida do homem.",
+   "a": "Somente não comereis a carne com a sua alma, isto é, com o seu sangue. E também pedirei conta do vosso sangue, que é a vossa alma: pedirei conta dele a todo animal; e ao homem, ao seu próprio irmão, pedirei conta da alma do homem.",
+   "b": "Somente não comereis a carne com a sua vida, isto é, com o seu sangue. E também pedirei conta do vosso sangue, que é a vossa vida: pedirei conta dele a todo animal; e ao homem, ao seu próprio irmão, pedirei conta da vida do homem.",
+   "c": "igual a B",
+   "d": "igual a B"
+  },
+  {
+   "ref": "Gn 12,13",
+   "hebraico": "vehayetá nafshi biglalekh",
+   "sentido": "vida (que eu viva)",
+   "atual": "Dize, pois, que és minha irmã, para que me façam bem por tua causa, e a minha vida seja poupada graças a ti.",
+   "a": "Dize, pois, que és minha irmã, para que me façam bem por tua causa, e a minha alma viva graças a ti.",
+   "b": "Dize, pois, que és minha irmã, para que me façam bem por tua causa, e eu fique vivo graças a ti.",
+   "c": "igual a B",
+   "d": "igual a B"
+  },
+  {
+   "ref": "Gn 35,18",
+   "hebraico": "betset nafshah ki metá",
+   "sentido": "fôlego, o último suspiro",
+   "atual": "Quando a vida já lhe escapava, pois estava morrendo, deu ao filho o nome de Benoni; mas o pai o chamou Benjamim.",
+   "a": "Quando a alma já lhe saía, pois estava morrendo, deu ao filho o nome de Benoni; mas o pai o chamou Benjamim.",
+   "b": "Quando já dava o último suspiro, pois estava morrendo, deu ao filho o nome de Benoni; mas o pai o chamou Benjamim.",
+   "c": "igual a B",
+   "d": "igual a B"
+  },
+  {
+   "ref": "Gn 46,27",
+   "hebraico": "nefesh shenayim … kol-hannefesh … shiv'im",
+   "sentido": "pessoas (contagem)",
+   "atual": "Os filhos de José, que lhe nasceram no Egito, eram dois. Ao todo, as pessoas da casa de Jacó que foram para o Egito eram setenta.",
+   "a": "Os filhos de José, que lhe nasceram no Egito, eram dois. Ao todo, as pessoas da casa de Jacó que foram para o Egito eram setenta.",
+   "b": "igual a A",
+   "c": "igual a A",
+   "d": "igual a A"
+  },
+  {
+   "ref": "Êx 23,9",
+   "hebraico": "yeda'tem et-nefesh haggér",
+   "sentido": "interioridade (o que o estrangeiro sente)",
+   "atual": "Não oprimirás o estrangeiro: vós sabeis o que sente o estrangeiro, porque vós mesmos fostes estrangeiros na terra do Egito.",
+   "a": "Não oprimirás o estrangeiro: vós conheceis a alma do estrangeiro, porque vós mesmos fostes estrangeiros na terra do Egito.",
+   "b": "Não oprimirás o estrangeiro: vós sabeis o que sente o estrangeiro, porque vós mesmos fostes estrangeiros na terra do Egito.",
+   "c": "igual a A",
+   "d": "igual a A"
+  },
+  {
+   "ref": "Lv 17,11",
+   "hebraico": "nefesh habbasar baddam hi … lekhapper al-nafshotekhem … bannefesh yekhapper",
+   "sentido": "vida (o sangue)",
+   "atual": "Porque a alma da carne está no sangue, e eu vos dei o sangue sobre o altar, para fazer expiação pelas vossas almas; porque é o sangue que faz expiação pela alma.",
+   "a": "Porque a alma da carne está no sangue, e eu vos dei o sangue sobre o altar, para fazer expiação pelas vossas almas; porque é o sangue que faz expiação, pela alma que está nele.",
+   "b": "Porque a vida da carne está no sangue, e eu vos dei o sangue sobre o altar, para fazer expiação pelas vossas vidas; porque é o sangue que faz expiação, pela vida que está nele.",
+   "c": "igual a B",
+   "d": "igual a B"
+  },
+  {
+   "ref": "Lv 23,29",
+   "hebraico": "kol-hannefesh asher lo-te'unné",
+   "sentido": "pessoa (lei: «quem…»; citado em At 3,23)",
+   "atual": "Toda pessoa que não se afligir nesse dia será eliminada do seu povo;",
+   "a": "Toda alma que não se afligir nesse dia será eliminada do seu povo;",
+   "b": "Toda pessoa que não se afligir nesse dia será eliminada do seu povo;",
+   "c": "igual a B",
+   "d": "igual a B"
+  },
+  {
+   "ref": "Lv 24,17",
+   "hebraico": "ki yakké kol-nefesh adam",
+   "sentido": "pessoa (ser humano)",
+   "atual": "Quem ferir de morte qualquer homem será morto.",
+   "a": "Quem ferir de morte qualquer alma humana será morto.",
+   "b": "Quem ferir de morte qualquer ser humano será morto.",
+   "c": "igual a B",
+   "d": "igual a B"
+  },
+  {
+   "ref": "Nm 6,6",
+   "hebraico": "al-nefesh met lo yavo",
+   "sentido": "cadáver (nefesh met)",
+   "atual": "Todos os dias em que está consagrado ao Senhor, não se aproximará de nenhum morto;",
+   "a": "Todos os dias em que está consagrado ao Senhor, não se aproximará de nenhum morto;",
+   "b": "igual a A",
+   "c": "igual a A",
+   "d": "igual a A"
+  },
+  {
+   "ref": "Nm 23,10",
+   "hebraico": "tamot nafshi mot yesharim",
+   "sentido": "o próprio eu",
+   "atual": "Quem contará o pó de Jacó / e o número da quarta parte de Israel? / Morra eu a morte dos justos, / e seja o meu fim como o deles!",
+   "a": "Quem contará o pó de Jacó / e o número da quarta parte de Israel? / Morra a minha alma a morte dos justos, / e seja o meu fim como o deles!",
+   "b": "Quem contará o pó de Jacó / e o número da quarta parte de Israel? / Morra eu a morte dos justos, / e seja o meu fim como o deles!",
+   "c": "igual a B",
+   "d": "igual a B"
+  },
+  {
+   "ref": "Dt 6,5",
+   "hebraico": "bekhol-levavkha uvekhol-nafshekha uvekhol-me'odekha",
+   "sentido": "interioridade (o amor a Deus; citado em Mt 22,37)",
+   "atual": "Amarás o Senhor teu Deus de todo o teu coração, de toda a tua alma e de todas as tuas forças.",
+   "a": "Amarás o Senhor teu Deus de todo o teu coração, de toda a tua alma e de todas as tuas forças.",
+   "b": "Amarás o Senhor teu Deus de todo o teu coração, de todo o teu ser e de todas as tuas forças.",
+   "c": "igual a A",
+   "d": "igual a A"
+  },
+  {
+   "ref": "Dt 12,20",
+   "hebraico": "ki-te'avvé nafshekha … bekhol-avvat nafshekha",
+   "sentido": "desejo, apetite",
+   "atual": "Quando o Senhor teu Deus dilatar o teu território, como te prometeu, e disseres: Quero comer carne, porque a tua alma deseja comer carne, então comerás carne quanto a tua alma desejar.",
+   "a": "Quando o Senhor teu Deus dilatar o teu território, como te prometeu, e disseres: Quero comer carne, porque a tua alma deseja comer carne, então comerás carne quanto a tua alma desejar.",
+   "b": "Quando o Senhor teu Deus dilatar o teu território, como te prometeu, e disseres: Quero comer carne, porque tens vontade de comer carne, então comerás carne quanto quiseres.",
+   "c": "igual a B",
+   "d": "igual a B"
+  },
+  {
+   "ref": "1Sm 18,1",
+   "hebraico": "venefesh Yehonatan niqsherá benefesh David … kenafsho",
+   "sentido": "interioridade (a amizade) e o próprio eu",
+   "atual": "Quando Davi acabou de falar com Saul, a alma de Jônatas apegou-se à alma de Davi, e Jônatas o amou como a si mesmo.",
+   "a": "Quando Davi acabou de falar com Saul, a alma de Jônatas apegou-se à alma de Davi, e Jônatas o amou como à sua própria alma.",
+   "b": "Quando Davi acabou de falar com Saul, Jônatas apegou-se profundamente a Davi e o amou como a si mesmo.",
+   "c": "Quando Davi acabou de falar com Saul, a alma de Jônatas apegou-se à alma de Davi, e Jônatas o amou como a si mesmo.",
+   "d": "igual a C"
+  },
+  {
+   "ref": "1Rs 19,4",
+   "hebraico": "vayyish'al et-nafsho lamut … qah nafshi",
+   "sentido": "o próprio eu e a vida",
+   "atual": "Depois andou pelo deserto um dia de caminho, e foi sentar-se debaixo de uma giesta. Pediu para morrer, dizendo: Basta, Senhor! Tira-me a vida, pois não sou melhor que os meus pais.",
+   "a": "Depois andou pelo deserto um dia de caminho, e foi sentar-se debaixo de uma giesta. Pediu a morte para a sua alma, dizendo: Basta, Senhor! Toma a minha alma, pois não sou melhor que os meus pais.",
+   "b": "Depois andou pelo deserto um dia de caminho, e foi sentar-se debaixo de uma giesta. Pediu para morrer, dizendo: Basta, Senhor! Tira-me a vida, pois não sou melhor que os meus pais.",
+   "c": "igual a B",
+   "d": "igual a B"
+  },
+  {
+   "ref": "Pr 19,8",
+   "hebraico": "ohev nafsho",
+   "sentido": "o próprio eu (reflexivo)",
+   "atual": "Quem adquire o juízo ama a si mesmo; / quem guarda a inteligência encontrará o bem.",
+   "a": "Quem adquire o juízo ama a sua alma; / quem guarda a inteligência encontrará o bem.",
+   "b": "Quem adquire o juízo ama a si mesmo; / quem guarda a inteligência encontrará o bem.",
+   "c": "igual a B",
+   "d": "igual a B"
+  },
+  {
+   "ref": "Pr 25,25",
+   "hebraico": "mayim qarim al-nefesh ayefá",
+   "sentido": "garganta (a sede)",
+   "atual": "Como água fresca para quem está exausto / é a boa notícia de uma terra distante.",
+   "a": "Como água fresca para a alma cansada / é a boa notícia de uma terra distante.",
+   "b": "Como água fresca para a garganta sedenta / é a boa notícia de uma terra distante.",
+   "c": "igual a B",
+   "d": "igual a B"
+  },
+  {
+   "ref": "Is 5,14",
+   "hebraico": "hirhivá she'ol nafshah",
+   "sentido": "garganta, goela",
+   "atual": "Por isso a morada dos mortos alargou a garganta / e abriu a boca sem medida; / para lá descem a nobreza e a multidão de Jerusalém, / o seu tumulto e a sua alegria.",
+   "a": "Por isso a morada dos mortos alargou a garganta / e abriu a boca sem medida; / para lá descem a nobreza e a multidão de Jerusalém, / o seu tumulto e a sua alegria.",
+   "b": "igual a A",
+   "c": "igual a A",
+   "d": "igual a A"
+  },
+  {
+   "ref": "Is 53,12",
+   "hebraico": "he'erá lammavet nafsho",
+   "sentido": "vida (dada à morte)",
+   "atual": "Por isso lhe darei a multidão como herança, / e com os poderosos repartirá os despojos, / porque entregou a sua vida à morte / e foi contado entre os malfeitores; / ele carregou o pecado de muitos / e intercedeu pelos transgressores.",
+   "a": "Por isso lhe darei a multidão como herança, / e com os poderosos repartirá os despojos, / porque entregou a sua alma à morte / e foi contado entre os malfeitores; / ele carregou o pecado de muitos / e intercedeu pelos transgressores.",
+   "b": "Por isso lhe darei a multidão como herança, / e com os poderosos repartirá os despojos, / porque entregou a sua vida à morte / e foi contado entre os malfeitores; / ele carregou o pecado de muitos / e intercedeu pelos transgressores.",
+   "c": "igual a B",
+   "d": "igual a B"
+  },
+  {
+   "ref": "Jr 2,24",
+   "hebraico": "be'avvat nafshah sha'afá ruah",
+   "sentido": "desejo, apetite (de um animal)",
+   "atual": "jumenta selvagem acostumada ao deserto, / que no ardor do cio aspira o vento: / quem a conterá no seu desejo? / Todos os que a procuram não precisam cansar-se: / encontram-na no seu mês.",
+   "a": "jumenta selvagem acostumada ao deserto, / que no desejo da sua alma aspira o vento: / quem a conterá no seu cio? / Todos os que a procuram não precisam cansar-se: / encontram-na no seu mês.",
+   "b": "jumenta selvagem acostumada ao deserto, / que no ardor do seu desejo aspira o vento: / quem a conterá no seu cio? / Todos os que a procuram não precisam cansar-se: / encontram-na no seu mês.",
+   "c": "igual a B",
+   "d": "igual a B"
+  },
+  {
+   "ref": "Jn 2,6",
+   "hebraico": "afafuni mayim ad-nefesh",
+   "sentido": "garganta",
+   "atual": "As águas me cercaram até a garganta, / o abismo me envolveu, / as algas se enrolaram na minha cabeça.",
+   "a": "As águas me cercaram até a garganta, / o abismo me envolveu, / as algas se enrolaram na minha cabeça.",
+   "b": "igual a A",
+   "c": "igual a A",
+   "d": "igual a A"
+  },
+  {
+   "ref": "Sl 6,4",
+   "hebraico": "venafshi nivhalá me'od",
+   "sentido": "interioridade (angústia; eco em Jo 12,27)",
+   "atual": "A minha alma está profundamente perturbada; / e tu, Senhor, até quando?",
+   "a": "A minha alma está profundamente perturbada; / e tu, Senhor, até quando?",
+   "b": "Estou profundamente perturbado; / e tu, Senhor, até quando?",
+   "c": "igual a A",
+   "d": "igual a A"
+  },
+  {
+   "ref": "Sl 16,10",
+   "hebraico": "lo-ta'azov nafshi lish'ol",
+   "sentido": "vida (não ficar na morte; citado em At 2,27)",
+   "atual": "porque não abandonarás a minha alma na morada dos mortos, / nem deixarás que o teu fiel veja a corrupção.",
+   "a": "porque não abandonarás a minha alma na morada dos mortos, / nem deixarás que o teu fiel veja a corrupção.",
+   "b": "porque não me abandonarás na morada dos mortos, / nem deixarás que o teu fiel veja a corrupção.",
+   "c": "igual a A",
+   "d": "igual a A"
+  },
+  {
+   "ref": "Sl 23,3",
+   "hebraico": "nafshi yeshovev",
+   "sentido": "fôlego, vigor (fazer reviver)",
+   "atual": "Restaura a minha alma; / guia-me por veredas de justiça, por causa do seu nome.",
+   "a": "Restaura a minha alma; / guia-me por veredas de justiça, por causa do seu nome.",
+   "b": "Restaura as minhas forças; / guia-me por veredas de justiça, por causa do seu nome.",
+   "c": "igual a B",
+   "d": "igual a A"
+  },
+  {
+   "ref": "Sl 42,2–3",
+   "hebraico": "ken nafshi ta'arog elekha … tsame'á nafshi lelohim",
+   "sentido": "interioridade (a sede de Deus)",
+   "atual": "Como a corça suspira pelas correntes de água, / assim a minha alma suspira por ti, ó Deus. / A minha alma tem sede de Deus, do Deus vivo: / quando irei e verei a face de Deus?",
+   "a": "Como a corça suspira pelas correntes de água, / assim a minha alma suspira por ti, ó Deus. / A minha alma tem sede de Deus, do Deus vivo: / quando irei e verei a face de Deus?",
+   "b": "Como a corça suspira pelas correntes de água, / assim eu suspiro por ti, ó Deus. / Tenho sede de Deus, do Deus vivo: / quando irei e verei a face de Deus?",
+   "c": "igual a A",
+   "d": "igual a A"
+  },
+  {
+   "ref": "Sl 63,2",
+   "hebraico": "tsame'á lekha nafshi, kamah lekha vesari",
+   "sentido": "interioridade (a sede de Deus, com a carne)",
+   "atual": "Ó Deus, tu és o meu Deus: desde a aurora te busco. / De ti tem sede a minha alma, / por ti anseia a minha carne, / como terra árida, sedenta, sem água.",
+   "a": "Ó Deus, tu és o meu Deus: desde a aurora te busco. / De ti tem sede a minha alma, / por ti anseia a minha carne, / como terra árida, sedenta, sem água.",
+   "b": "Ó Deus, tu és o meu Deus: desde a aurora te busco. / De ti tenho sede, / por ti anseia a minha carne, / como terra árida, sedenta, sem água.",
+   "c": "igual a A",
+   "d": "igual a A"
+  },
+  {
+   "ref": "Sl 103,1",
+   "hebraico": "barekhi nafshi et-YHWH",
+   "sentido": "interioridade (o louvor; fala a si mesmo)",
+   "atual": "De Davi. / Bendize, minha alma, o Senhor, / e tudo o que há em mim bendiga o seu santo nome.",
+   "a": "De Davi. / Bendize, minha alma, o Senhor, / e tudo o que há em mim bendiga o seu santo nome.",
+   "b": "De Davi. / Que eu bendiga o Senhor, / e tudo o que há em mim bendiga o seu santo nome.",
+   "c": "igual a A",
+   "d": "igual a A"
+  },
+  {
+   "ref": "Sl 131,2",
+   "hebraico": "shivviti vedomamti nafshi … kaggamul alay nafshi",
+   "sentido": "interioridade (a paz diante de Deus)",
+   "atual": "Antes acalmei e aquietei a minha alma, / como criança desmamada no colo de sua mãe; / como criança desmamada está em mim a minha alma.",
+   "a": "Antes acalmei e aquietei a minha alma, / como criança desmamada no colo de sua mãe; / como criança desmamada está em mim a minha alma.",
+   "b": "Antes me acalmei e me aquietei, / como criança desmamada no colo de sua mãe; / como criança desmamada, assim estou eu.",
+   "c": "igual a A",
+   "d": "igual a A"
+  }
+ ],
+ "escolha": {
+  "titulo": "Como traduzir *nefesh* na Bíblia inteira",
+  "contexto": "No Sl 33,19–20 a escolha provisória foi pelo sentido («para livrá-los da morte», «nós esperamos no Senhor»). A regra escolhida aqui vale para as 754 ocorrências; os 30 casos abaixo mostram cada versículo em cada opção. As quatro são regras fechadas, que se aplicam sem perguntar, e nenhuma usa nota de rodapé sobre a palavra. Em cada caso, «Hoje» é a tradução de partida (o projeto antigo); no Sl 33,19–20 o site já está com a escolha provisória.",
+  "opcoes": [
+   {
+    "id": "a",
+    "texto": "«Alma» sempre que o português aguenta: em todos os lugares, com o possessivo do hebraico, menos garganta, cadáver (*nefesh met*), contagem de gente («setenta pessoas») e os animais (*nefesh hayyá* = «seres vivos»).",
+    "nota": "Cerca de 693 «almas» (92%). É o caminho da Vulgata e guarda todos os ecos, mas em mais da metade dos casos o leitor entende «a parte espiritual» onde o hebraico fala da vida, da pessoa ou do apetite: «pedirei conta da alma do homem» (Gn 9,5), «qualquer alma humana» (Lv 24,17)."
+   },
+   {
+    "id": "b",
+    "texto": "Sempre pelo sentido, sem «alma»: vida, pessoa, o pronome, desejo, garganta, fôlego, ser vivo, morto; na interioridade, o pronome ou «todo o ser» («tenho sede de Deus»).",
+    "nota": "É a escolha provisória do Sl 33. Clara e fiel ao sentido, mas tira «alma» também dos versículos que o NT e a liturgia guardam (Dt 6,5; Sl 42; 63; 103) e desfaz imagens como a do Sl 103,1, em que o salmista fala à própria *nefesh*."
+   },
+   {
+    "id": "c",
+    "texto": "«Alma» quando *nefesh* é o interior da pessoa (quem sente, ama, deseja, se angustia, tem sede, espera, louva, sobretudo diante de Deus, e a fórmula «de todo o coração e de toda a alma»); nos outros casos, pelo sentido: vida (procurar, tirar, arriscar, dar a vida), o pronome (livra-me, que eu viva, a si mesmo), pessoa ou alguém, desejo, garganta, fôlego, ser vivo, morto. Gn 2,7 e Sl 16,10, que o NT cita com «alma», ficam «alma».",
+    "nota": "Cerca de 167 «almas» (22%). Dá a cada caso a palavra que o original pede, guarda os textos da oração e do NT e acaba com as incoerências de hoje. O teste é um só: o verbo diz o que se passa dentro da pessoa? No Sl 33, o v. 19 fica «para livrá-los da morte» e o v. 20 volta a «A nossa alma espera no Senhor».",
+    "recomendada": true
+   },
+   {
+    "id": "d",
+    "texto": "Como C, mas no livro dos Salmos *nefesh* é sempre «alma» (salvo a garganta, Sl 69,2 e 105,18).",
+    "nota": "Cerca de 255 «almas» (34%). Guarda a voz tradicional do saltério («livra a minha alma», «restaura a minha alma»), mas o mesmo hebraico sai de dois jeitos («livrar da morte a sua alma», Sl 33,19; «livrareis da morte as nossas vidas», Js 2,13)."
+   }
+  ]
+ }
+}
