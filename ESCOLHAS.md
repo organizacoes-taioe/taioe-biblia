@@ -37,7 +37,7 @@ Vale para pessoas, povos e lugares, também nos comentários dos Padres.
 - Já fixados: Maria (a irmã de Moisés; nunca «Míriam»), etíope, Faran, Cades, Caleb, Enac, Negueb,
   Josué filho de Num (como no lecionário; Nm 14, escolha do Gere), os amalecitas, hititas, jebuseus, amorreus e cananeus, os descendentes e os
   filhos de Enac, Hori, Tânis, Abimelec (Nm 13 e Sl 34, aprovados); Jefoné, a comunidade (Nm 14);
-  Paulo, Timóteo, Silvano, Corinto, Acaia (2Cor 1). Ásia, Macedônia, Judeia, o mar Vermelho e Horma,
+  Paulo, Timóteo, Silvano, Corinto, Acaia (2Cor 1); Tito, Trôade, Satanás (2Cor 2). Ásia, Macedônia, Judeia, o mar Vermelho e Horma,
   que a liturgia não lê nesses capítulos, ficaram como no projeto antigo (aprovado). Os doze exploradores de Nm 13,4–15,
   que a liturgia não lê, ficaram como no projeto antigo (aprovado).
 
@@ -84,6 +84,10 @@ Vale para pessoas, povos e lugares, também nos comentários dos Padres.
 | *'ed hamas* | testemunha falsa | Dt 19,16; Êx 23,1 «dar falso testemunho»; Sl 35,11 | Sl 35, aprovado |
 | *psychḗ* | como *nefesh* (opção C): «alma» quando é o interior da pessoa; nos outros casos, pelo sentido | 2Cor 1,23 «Invoco a Deus por testemunha, pela minha vida» | 2Cor 1, aprovado |
 | *synergós* | cooperador | 2Cor 1,24 «cooperadores da vossa alegria»; uniformizar Rm 16 e Fl 2,25; 4,3 ao entrarem | 2Cor 1, aprovado |
+| *en prosṓpōi Christoû* | na presença de Cristo | 2Cor 2,10, como em 4,6 («no rosto de Cristo»); não «na pessoa de Cristo» | 2Cor 2, aprovado |
+| *hikanós* | capaz | 2Cor 2,16 «E quem é capaz disto?», que 3,5–6 retoma («capazes… a nossa capacidade»); nunca «idôneo» | 2Cor 2, aprovado |
+| *kapēleúō* | fazer comércio | 2Cor 2,17 «fazem comércio da palavra de Deus»; não «negociar» | 2Cor 2, aprovado |
+| *epitimía* | punição | a imposta pela comunidade (2Cor 2,6); não «repreensão» | 2Cor 2, aprovado |
 
 ## Inconsistências conhecidas, para corrigir quando o capítulo entrar
 

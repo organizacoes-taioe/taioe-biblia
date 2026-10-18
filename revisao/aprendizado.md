@@ -61,6 +61,8 @@ de onde veio. Ler antes de preparar um capítulo (`CAPITULO.md`, etapas 2 a 4).
 - Nomes: o lecionário vale também contra a forma já fixada: «Josué, filho de Num», não «Nun». (Nm 14)
 - Nm 14, Sl 35 e 2Cor 1: o resto aprovado como proposto (o texto crítico no NT, *psychḗ* pela opção C,
   «olho no olho», «ter-me contra vós», «Contende, Senhor»). (18/10)
+- 2Cor 2: aprovou tudo como proposto, inclusive «na presença de Cristo» (2,10) e as notas de
+  lugar (Trôade), de pessoa (Tito) e de costume (o triunfo romano). (18/10)
 - Os versos passam pelo Versificador para soarem melhor, sem perder a fidelidade ao original
   (17/10; `CAPITULO.md`, etapa 3).
 

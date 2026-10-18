@@ -1,7 +1,7 @@
 {
  "livro": "2corintios",
  "cap": 2,
- "estado": "em revisão",
+ "estado": "revisado",
  "atualizado": "2026-10-18",
  "trechos": [
   {"id": "1", "titulo": "Por que não fui a vós", "de": 1},
@@ -296,26 +296,5 @@
     }
    ]
   }
- },
- "revisao": {
-  "escolhas": [
-   {
-    "id": "presenca-de-cristo",
-    "ref": "2Cor 2,10",
-    "titulo": "«Na presença de Cristo» ou «na pessoa de Cristo»?",
-    "contexto": "O grego diz *en prosṓpōi Christoû*: *prósōpon* é o rosto, e daí a presença (é a mesma expressão de 2Cor 4,6, «no rosto de Cristo»), mas também a pessoa que alguém representa. A Vulgata e a Nova Vulgata traduzem *in persona Christi*, e é deste versículo que vem a expressão com que a teologia diz que o sacerdote perdoa e consagra «na pessoa de Cristo». As traduções católicas de hoje dizem quase todas «na presença de Cristo», que é o sentido mais provável no grego: Paulo perdoa diante de Cristo, como em 2,17 fala «diante de Deus». A tradução de partida dizia «na presença de Cristo». Os comentários dos Padres e de Tomás que leem *in persona Christi* entram no site de qualquer modo.",
-    "opcoes": [
-     {"id": "a", "texto": "«foi por vós, na presença de Cristo», como estava", "nota": "O sentido mais provável do grego, e o mesmo de 4,6.", "recomendada": true},
-     {"id": "b", "texto": "«foi por vós, na pessoa de Cristo», como a Vulgata", "nota": "Guarda a ligação com a expressão da teologia, que os comentários explicam."}
-    ]
-   }
-  ],
-  "divisao": {"titulo": "Quatro trechos, como no projeto antigo", "texto": "Ficaram os quatro subtítulos do projeto antigo: «Por que não fui a vós» (1–4), «O perdão ao ofensor» (5–11), «Em Trôade e na Macedônia» (12–13) e «O perfume de Cristo» (14–17). A Nova Vulgata abre parágrafo no v. 12 e não abre no v. 14; mantive o subtítulo no v. 14 porque ali Paulo interrompe o relato da viagem (que só continua em 7,5) para dar graças, e o assunto muda. O trecho dos vv. 12–13 é curto: se preferir, pode juntar-se ao seguinte. Não há versos: o capítulo é prosa, e o Versificador não entra."},
-  "registro": [
-   {"id": "correcoes", "titulo": "O que corrigi direto pelo grego", "texto": "v. 3 refeito («certo, a respeito de todos vós, de que…»; estava «confio em todos vós que…»), e «daqueles que deviam ser a minha alegria»; v. 4 e v. 9 com o «pois» do grego, e «o amor tão grande que tenho por vós»; v. 6 «a punição que lhe foi imposta pela maioria» (o grego *epitimía* é o castigo dado pela comunidade; estava «repreensão», que vem do latim); v. 7 «pelo contrário» (estava «agora», que o grego não tem); v. 10 «a quem perdoais» (presente, como no grego); v. 11 «para que Satanás não leve vantagem sobre nós» (estava «não sejamos enganados»); v. 12 «para anunciar o Evangelho» e «uma porta estava aberta para mim» (estava «se me abriu»); v. 13 com o «mas» do grego."},
-   {"id": "capaz", "titulo": "v. 16: «E quem é capaz disto?»", "texto": "Estava «quem é idôneo para isto?». O grego *hikanós* volta logo em 3,5–6, que a tradução de partida já diz «capazes… a nossa capacidade vem de Deus»: com «capaz» aqui, o leitor ouve a pergunta e a resposta."},
-   {"id": "comercio", "titulo": "v. 17: «fazem comércio da palavra de Deus»", "texto": "O grego *kapēleúontes* é o que faz o pequeno comerciante, sobretudo o vendedor de vinho, que tinha fama de batizá-lo com água; a Vulgata traduz *adulterantes*, «adulterando», e muitos Padres comentam por aí. Ficou «fazem comércio», que é o sentido próprio da palavra (estava «negociam», que hoje soa como «fazer acordo»). O fim do versículo segue o duplo «mas, como…» do grego: «mas é com sinceridade, é da parte de Deus que falamos, diante de Deus, em Cristo»."},
-   {"id": "nomes", "titulo": "Nomes", "texto": "Tito, Trôade, Macedônia e Satanás, na forma de sempre, que é também a do lecionário (Trôade em At 16,8–11; Tito em 2Cor 7–8 e na carta a ele)."}
-  ]
  }
 }
