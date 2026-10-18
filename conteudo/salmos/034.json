@@ -1,8 +1,8 @@
 {
  "livro": "salmos",
  "cap": 34,
- "estado": "em revisão",
- "atualizado": "2026-10-17",
+ "estado": "revisado",
+ "atualizado": "2026-10-18",
  "trechos": [
   {"id": "1", "titulo": null, "de": 1}
  ],
@@ -400,24 +400,5 @@
     }
    ]
   }
- },
- "revisao": {
-  "escolhas": [
-   {
-    "id": "v6-olham",
-    "ref": "Sl 34,6",
-    "titulo": "«Olhai para ele» ou «Os que olham para ele»?",
-    "contexto": "O hebraico diz, ao pé da letra, «olharam para ele e ficaram radiantes, e o rosto deles não se envergonhe»: é a continuação do testemunho do v. 5, e não uma ordem. A Bíblia grega e a latina leram imperativos («Aproximai-vos dele e sereis iluminados»), e assim estava na tradução de partida («Olhai para ele e ficareis radiantes, e o vosso rosto…»). Pela regra de seguir o original, o imperativo sai; resta escolher o tempo. Os Padres comentam o texto que liam, e os comentários ficam como estão.",
-    "opcoes": [
-     {"id": "a", "texto": "«Os que olham para ele ficam radiantes, / e o rosto deles não se cobrirá de vergonha.»", "nota": "O sentido de sempre, como no v. 9 («feliz o homem que nele se refugia»), e soa natural em português.", "recomendada": true},
-     {"id": "b", "texto": "«Olharam para ele e ficaram radiantes, / e o rosto deles não se cobrirá de vergonha.»", "nota": "O passado do hebraico, que continua o «Busquei o Senhor» do v. 5 e o «Este pobre clamou» do v. 7."}
-    ]
-   }
-  ],
-  "divisao": {"titulo": "Um trecho só, quatro estrofes", "texto": "Salmo curto: um trecho só, sem subtítulo, e o título de Davi como v. 1, como na Nova Vulgata. As estrofes seguem o sentido (a página da Nova Vulgata não as marca): 2–4, o convite ao louvor; 5–11, o testemunho de quem foi ouvido; 12–15, a lição aos filhos; 16–23, a sorte dos justos e a dos maus. Acrescentei a do v. 5; as outras vêm do projeto antigo.\n\nNo texto, corrigi direto pelo hebraico, sem nota: v. 6 (ver a escolha); v. 11, «Os leões jovens passam necessidade e fome», e não «Os ricos empobreceram», que é a leitura da Bíblia grega e da latina; v. 15, «busca a paz e corre atrás dela», como em 1 Pedro 3,11, que cita o salmo; v. 17, sem o «Mas» que o hebraico não tem e com «os que fazem o mal»; vv. 20 e 22, «Muitos são os males do justo» e «O mal matará o ímpio», para guardar o eco do hebraico (a mesma palavra), que «tribulações» e «malícia» desfaziam; v. 23, «resgata a vida dos seus servos», pela regra de *nefesh* (no v. 3, «se gloria a minha alma», fica «alma», porque é o interior que louva).\n\nPelo Versificador: v. 7 e v. 18, «de todas as angústias» (sem «suas», que o português dispensa e deixava o verso ralo); v. 17, «a lembrança deles» no lugar de «a sua memória». O v. 16 («e os seus ouvidos, atentos ao seu clamor») continua ralo: não achei forma fiel melhor."},
-  "registro": [
-   {"id": "kefir", "titulo": "*Kefir* = «leão jovem»", "texto": "O leão novo, já caçador (Sl 34,11). O Sl 104,21 está «leõezinhos» na tradução de partida: passa a «leões jovens» quando entrar."},
-   {"id": "nomes", "titulo": "Nomes próprios", "texto": "«Abimelec» é a forma do lecionário (Jz 9,6–15, quarta-feira da 20ª semana, ano I). A liturgia não lê 1 Samuel 21; na nota do v. 1 ficam «Aquis» e «Gat», como no projeto antigo."}
-  ]
  }
 }

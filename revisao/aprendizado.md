@@ -44,6 +44,10 @@ de onde veio. Ler antes de preparar um capítulo (`CAPITULO.md`, etapas 2 a 4).
 - **Nomes: sempre os da liturgia do Brasil** (lecionário da CNBB; ver `ESCOLHAS.md`, «Nomes
   próprios»): «Maria», não «Míriam»; «etíope», não «cuxita». (Nm 12)
 - *Nefesh*: decidida a opção C do estudo, «alma» só para o interior da pessoa. (17/10)
+- Nm 13 e Sl 34: aprovou tudo como estava proposto (escolhas, notas, divisão, registro), menos a
+  fórmula da terra prometida: escolheu «que mana leite e mel» em toda a Bíblia, e não «onde corre»,
+  que era a recomendada por coincidir com a liturgia: seguir a liturgia é a regra dos nomes; nas
+  fórmulas, perguntar. (Nm 13,27)
 - Os versos passam pelo Versificador para soarem melhor, sem perder a fidelidade ao original
   (17/10; `CAPITULO.md`, etapa 3).
 

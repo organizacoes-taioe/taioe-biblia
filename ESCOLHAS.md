@@ -31,7 +31,9 @@ Vale para pessoas, povos e lugares, também nos comentários dos Padres.
   se não houver, fica a forma do projeto antigo, com a ortografia de hoje, e a lista vai para o
   `revisao.registro` do capítulo.
 - Já fixados: Maria (a irmã de Moisés; nunca «Míriam»), etíope, Faran, Cades, Caleb, Enac, Negueb,
-  Josué filho de Nun, os amalecitas, hititas, jebuseus, amorreus e cananeus.
+  Josué filho de Nun, os amalecitas, hititas, jebuseus, amorreus e cananeus, os descendentes e os
+  filhos de Enac, Hori, Tânis, Abimelec (Nm 13 e Sl 34, aprovados). Os doze exploradores de Nm 13,4–15,
+  que a liturgia não lê, ficaram como no projeto antigo (aprovado).
 
 ## Vocabulário
 
@@ -64,6 +66,11 @@ Vale para pessoas, povos e lugares, também nos comentários dos Padres.
 | *temuná* | figura | como em Dt 4,12.15 e Êx 20,4 | Nm 12, aprovado |
 | *ohel moed* | tenda do encontro | as 10 vezes de «tenda da reunião» (1Rs, 1–2Cr) mudam ao entrar | Nm 12, aprovado |
 | *amad* (Sl 33,9.11) | firmar-se / permanecer firme | o eco entre os dois versos | Sl 33, aprovado |
+| *'edá* / *qahal* | comunidade / assembleia | as duas juntas: «a assembleia da comunidade» (Nm 14,5); a tradução de partida diz «assembleia» para as duas (91 vezes em Números) | Nm 13, aprovado |
+| *nasi* | chefe | também para os estrangeiros (Moab, Madiã); nunca «príncipe» (68 vezes em Números, a mudar) | Nm 13, aprovado |
+| *zavat halav udvash* | «(terra) que mana leite e mel» | em toda a Bíblia, embora a liturgia diga «onde corre»: mudar no Êxodo, em Jeremias, Ezequiel, Baruc e no Eclesiástico ao entrarem | Nm 13, aprovado (escolha dele, não a recomendada) |
+| *kefir* | leão jovem | o leão novo, já caçador; Sl 104,21 «leõezinhos» muda ao entrar | Sl 34, aprovado |
+| *nefilim* | gigantes | como em Gn 6,4 e na liturgia | Nm 13, aprovado |
 
 ## Inconsistências conhecidas, para corrigir quando o capítulo entrar
 
@@ -71,3 +78,4 @@ Vale para pessoas, povos e lugares, também nos comentários dos Padres.
 - Sl 144,9 «lira de dez cordas» → «harpa de dez cordas» (escolha do Sl 33,2).
 - *Nefesh*: aplicar a opção C em cada capítulo que entrar (o projeto antigo traz «alma» 249 vezes, muitas onde é vida ou pessoa).
 - «Míriam» no Êxodo, em 1 Crônicas e em Miqueias → «Maria».
+- *Synergós*: «cooperador» em 1Cor 3,9 e 2Cor 1,24; 6,1; 8,23, mas «colaborador» em Rm 16 e Fl 2,25; 4,3 (2Cor 1, 18/10).

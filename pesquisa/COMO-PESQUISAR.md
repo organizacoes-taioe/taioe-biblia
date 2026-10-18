@@ -18,6 +18,9 @@ capítulo seguinte se pesquise mais depressa. Esta pasta não vai ao ar (só `pu
 - `ferramentas/hebraico.py`: o hebraico do AT (morphhb, com lemas Strong e morfologia; cache em
   `cache/morphhb/`, fora do git) para conferir o original: `--ref "Sl 33,19-20"` mostra o trecho
   palavra por palavra, `--lema 5315` lista as ocorrências de uma palavra (uso no topo do arquivo).
+- `ferramentas/grego.py`: o grego do NT (MorphGNT sobre a SBLGNT, o texto crítico; cache em
+  `cache/morphgnt/`, fora do git): `--ref "2Cor 1,3-7"` (palavra por palavra, ou `--corrido`),
+  `--lema παράκλησις` (todas as ocorrências; compara sem acentos).
   Estudos de palavra (ex.: `estudos/nefesh/`) guardam aqui os dados; o texto vai para `revisao/estudos/`.
 
 ## Formato de `achados.json` (uma lista)
