@@ -341,3 +341,10 @@ santo: citar como «Orígenes», sem título, e dizer que é a tradução de Ruf
   Mich.* I e *In Cant.* VI. Os quarenta anos: Ruperto, *In Osee* V; Pedro Damião, *Collectanea*
   (sobre Dt 25); Jerônimo, *In Hiez.* IX (Ez 29,11).
 - O comentário de Tomás a **1 Coríntios 7,10–10,33 não existe** (lacuna do texto autêntico).
+
+## Cartas de São Paulo (primeiro uso: 2Cor 1, 2026-10-18)
+
+O catálogo das fontes paulinas ficou na pasta do capítulo; ler antes do próximo capítulo de Paulo:
+
+- `../2corintios/001/fontes-agostinho-latinos.md`: o Ambrosiaster carta por carta no Corpus Corporum, a tabela sermão → arquivo do augustinus.it, Ambrósio, Gregório Magno.
+- `../2corintios/001/fontes-medievais.md`: Tomás (*Super epistolas*), Bruno Cartuxo, Haimo, Atão, Hervé, Sedúlio, Lanfranco, Lombardo no Corpus Corporum, Lápide no archive.org, Belarmino, Boaventura.

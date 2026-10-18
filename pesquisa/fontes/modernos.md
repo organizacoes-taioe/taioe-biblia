@@ -326,3 +326,9 @@ portuguesa) dá a lista completa em segundos. Os arquivos são ISO-8859-1. Para 
 - **Missal antigo, textos inteiros**: `web/www/missa/Latin/Tempora/Quad6-5.txt` (Sexta-feira Santa, Improperios) e
   `web/www/horas/Latin/Psalterium/Invitatorium.txt` (Sl 94 do invitatório) no repositório do Divinum Officium
   (`https://raw.githubusercontent.com/DivinumOfficium/divinum-officium/master/…`).
+
+## Cartas de São Paulo (primeiro uso: 2Cor 1, 2026-10-18)
+
+O catálogo das fontes paulinas ficou na pasta do capítulo; ler antes do próximo capítulo de Paulo:
+
+- `../2corintios/001/fontes-modernos.md`: Catecismo, catequeses de Bento XVI sobre Paulo, Newman, Francisco de Sales, a liturgia (lecionário, Liturgia das Horas, Missal antigo).

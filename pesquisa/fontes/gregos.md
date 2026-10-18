@@ -168,3 +168,9 @@ Numeração: todos usam a da LXX (o nosso Sl 33 é o «32» deles, λβʹ).
 | Cirilo de Alexandria | *Commentarii in Joannem* | khazarzar (ed. Pusey: «[PG 2, 140]» = vol. II, p. 140) | Digressões longas sobre o AT: Ex 34,6–7 e Nm 14,17–19 em VI (Jo 9,2); a arca e Dt 1,41–44 em IV (Jo 6). Colunas da PG 73 pelo OCR `bim_early-english-books-1641-1700_patrologiae-cursus-completus-_1859_73`. |
 
 - Não estão no khazarzar: Isidoro de Pelúsio (PG 78; latim no archive.org, OCR fraco), Diádoco (PG 65), João Clímaco (PG 88).
+
+## Cartas de São Paulo (primeiro uso: 2Cor 1, 2026-10-18)
+
+O catálogo das fontes paulinas ficou na pasta do capítulo; ler antes do próximo capítulo de Paulo:
+
+- `../2corintios/001/fontes-gregos.md`: Crisóstomo (PG 61), Teodoreto (PG 82), as cadeias (Staab), Damasceno e os PDFs do khazarzar para todas as cartas.
