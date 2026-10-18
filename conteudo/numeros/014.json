@@ -1,7 +1,7 @@
 {
  "livro": "numeros",
  "cap": 14,
- "estado": "em revisão",
+ "estado": "revisado",
  "atualizado": "2026-10-18",
  "trechos": [
   {
@@ -57,7 +57,7 @@
   },
   {
    "v": 6,
-   "t": "Josué, filho de Nun, e Caleb, filho de Jefoné, que estavam entre os que tinham explorado a terra, rasgaram as suas vestes"
+   "t": "Josué, filho de Num, e Caleb, filho de Jefoné, que estavam entre os que tinham explorado a terra, rasgaram as suas vestes"
   },
   {
    "v": 7,
@@ -168,7 +168,7 @@
   },
   {
    "v": 30,
-   "t": "não entrareis na terra sobre a qual levantei a minha mão, jurando que vos faria habitar nela, exceto Caleb, filho de Jefoné, e Josué, filho de Nun."
+   "t": "não entrareis na terra sobre a qual levantei a minha mão, jurando que vos faria habitar nela, exceto Caleb, filho de Jefoné, e Josué, filho de Num."
   },
   {
    "v": 31,
@@ -201,7 +201,7 @@
   },
   {
    "v": 38,
-   "t": "Dos homens que tinham ido explorar a terra, só Josué, filho de Nun, e Caleb, filho de Jefoné, ficaram vivos."
+   "t": "Dos homens que tinham ido explorar a terra, só Josué, filho de Num, e Caleb, filho de Jefoné, ficaram vivos."
   },
   {
    "s": "A derrota em Horma"
@@ -238,13 +238,6 @@
   }
  ],
  "notas": [
-  {
-   "id": "n01",
-   "v": 6,
-   "apos": "vestes",
-   "texto": "Rasgar as roupas era o gesto de quem está diante de uma desgraça ou de uma blasfêmia.",
-   "origem": "nova: o gesto antigo, que o leitor de hoje pode não entender"
-  },
   {
    "id": "n02",
    "v": 9,
@@ -397,7 +390,7 @@
        "sobre": "diácono de Edessa (c. 306–373), Doutor da Igreja; glosas da cadeia siríaca, de atribuição incerta",
        "obra": "Comentário a Números (In Numeros), na edição romana",
        "passagem": "In Num. 13,1–14,9",
-       "texto": "Quando era preciso encher o povo da melhor esperança e animá-lo a levar adiante a empresa, mostrando a fertilidade do solo e a abundância e excelência dos frutos, eles [os exploradores], ao contrário, começaram a assustá-lo, exagerando sem medida a ferocidade e o número dos habitantes. Josué, filho de Nun, e Caleb, filho de Jefoné, da tribo de Judá, os contradiziam: anunciando maravilhas da fertilidade da terra prometida e da fartura e abundância de tudo o que serve ao sustento, exortavam o povo a deixar o medo e ter o ânimo tranquilo. Nesses dois homens, que, depois de explorar Canaã por ordem de Moisés, chamavam o povo a entrar nela, contempla a imagem dos profetas e dos sábios que, ensinados por Deus, foram enviados aos judeus para levá-los, pelo caminho da Lei, ao Evangelho.",
+       "texto": "Quando era preciso encher o povo da melhor esperança e animá-lo a levar adiante a empresa, mostrando a fertilidade do solo e a abundância e excelência dos frutos, eles [os exploradores], ao contrário, começaram a assustá-lo, exagerando sem medida a ferocidade e o número dos habitantes. Josué, filho de Num, e Caleb, filho de Jefoné, da tribo de Judá, os contradiziam: anunciando maravilhas da fertilidade da terra prometida e da fartura e abundância de tudo o que serve ao sustento, exortavam o povo a deixar o medo e ter o ânimo tranquilo. Nesses dois homens, que, depois de explorar Canaã por ordem de Moisés, chamavam o povo a entrar nela, contempla a imagem dos profetas e dos sábios que, ensinados por Deus, foram enviados aos judeus para levá-los, pelo caminho da Lei, ao Evangelho.",
        "link": "https://archive.org/details/assemani-et-alii-1732-1746-ephraem-syri-opera-omnia-syr-1",
        "original": "Hic porro quum populum spe optima implere oporteret, propositaque soli feracitate et fructuum proventu praestantiaque ad prosequenda coepta accendere, illi contra incolarum ferociam ac numerum immodice exaggerando deterrere coeperunt, contradicentibus Josue filio Nun et Caleb filio Jephone de tribu Juda, qui de terrae promissae fertilitate rerumque ad victum pertinentium copia et saturitate mira praedicando, populum, ut liquido animo [?] timorem deponerent, hortabantur. Interim in hisce duobus viris, qui juxta Mosis mandatum, explorata Chananitide, populum ad eam invadendam provocabant, imaginem contemplare Prophetarum et Sapientum, qui a Deo docti ad Judaeos missi sunt, ut eosdem per viam legis ad Euangelium adducerent."
       },
@@ -427,7 +420,7 @@
        "sobre": "bispo de Hipona (354–430), Doutor da Igreja",
        "obra": "Questões sobre o Heptateuco (Quaestiones in Heptateuchum)",
        "passagem": "IV, 23 (sobre Nm 14,9)",
-       "texto": "Caleb e Josué, filho de Nun, falando ao povo de Israel para que não tivesse medo de entrar na terra da promessa, disseram entre outras coisas: «Vós, porém, não temais o povo da terra, porque eles são comida para nós. O tempo deles se afastou, e o Senhor está em nós; não os temais». Com «são comida para nós» quiseram dizer: vamos consumi-los. E quando acrescentaram: «O tempo deles se afastou, e o Senhor está em nós», falaram com muito cuidado; não disseram: «O Senhor se afastou deles», porque eles tinham sido ímpios desde sempre. Mas, como também aos ímpios, por uma disposição escondida da providência divina, se dá um tempo de florescer e de reinar, dizem: «O tempo deles se afastou, e o Senhor está em nós». Não disseram: «O tempo deles se afastou, e chegou o nosso», mas: «o Senhor está em nós», não o tempo. Eles tiveram o tempo; estes tinham o Senhor Deus, que cria os tempos, os ordena e os distribui a cada um como lhe agrada.",
+       "texto": "Caleb e Josué, filho de Num, falando ao povo de Israel para que não tivesse medo de entrar na terra da promessa, disseram entre outras coisas: «Vós, porém, não temais o povo da terra, porque eles são comida para nós. O tempo deles se afastou, e o Senhor está em nós; não os temais». Com «são comida para nós» quiseram dizer: vamos consumi-los. E quando acrescentaram: «O tempo deles se afastou, e o Senhor está em nós», falaram com muito cuidado; não disseram: «O Senhor se afastou deles», porque eles tinham sido ímpios desde sempre. Mas, como também aos ímpios, por uma disposição escondida da providência divina, se dá um tempo de florescer e de reinar, dizem: «O tempo deles se afastou, e o Senhor está em nós». Não disseram: «O tempo deles se afastou, e chegou o nosso», mas: «o Senhor está em nós», não o tempo. Eles tiveram o tempo; estes tinham o Senhor Deus, que cria os tempos, os ordena e os distribui a cada um como lhe agrada.",
        "link": "https://www.augustinus.it/latino/questioni_ettateuco/quest_ettateuco_4_libro.htm",
        "original": "Caleb et Jesus Nave loquentes ad populum Israel ne timerent ingredi terram promissionis, dixerunt inter caetera: Vos autem ne timueritis populum terrae, quoniam cibus nobis sunt. Abscessit enim tempus ab eis, Dominus autem in nobis; ne timueritis eos. Quod dictum est, Cibus nobis sunt, intelligi voluerunt, consumemus eos. Quod vero adjunxerunt, Abscessit enim tempus ab eis, Dominus autem in nobis: satis diligenter non dixerunt, Abscessit Dominus ab eis; impii quippe antiquitus fuerunt: sed quoniam et impiis occulta dispensatione divinae providentiae datur tempus florendi atque regnandi, Abscessit, inquiunt, tempus ab eis, Dominus autem in nobis. Non dixerunt, Abscessit tempus ab eis, et nostrum successit: sed, Dominus autem in nobis, non tempus. Illi enim tempus habuerunt, isti Dominum Deum temporum creatorem et ordinatorem, et quibusque, ut ei placet, distributorem."
       },
@@ -833,7 +826,7 @@
        "sobre": "bispo de Ciro, na Síria (c. 393–c. 460), comentador da Bíblia; escritor eclesiástico",
        "obra": "Questões sobre o Octateuco (Quaestiones in Octateuchum)",
        "passagem": "Questões sobre Números 27",
-       "texto": "Que significa «a glória do Senhor encherá toda a terra»? Anuncia a rejeição dos judeus e a salvação do mundo inteiro, e acrescenta um juramento à profecia: «Vivo eu», diz, «e vive o meu nome, e a glória do Senhor encherá toda a terra»; e, segundo os outros tradutores, «que a glória do Senhor encherá toda a terra». Depois pronuncia a sentença contra todos os que foram recenseados, menos Caleb, filho de Jefoné, e Josué, filho de Nun, que, além de dizerem a verdade no seu relato, deram ao povo um conselho piedoso.",
+       "texto": "Que significa «a glória do Senhor encherá toda a terra»? Anuncia a rejeição dos judeus e a salvação do mundo inteiro, e acrescenta um juramento à profecia: «Vivo eu», diz, «e vive o meu nome, e a glória do Senhor encherá toda a terra»; e, segundo os outros tradutores, «que a glória do Senhor encherá toda a terra». Depois pronuncia a sentença contra todos os que foram recenseados, menos Caleb, filho de Jefoné, e Josué, filho de Num, que, além de dizerem a verdade no seu relato, deram ao povo um conselho piedoso.",
        "link": "https://khazarzar.skeptik.net/pgm/PG_Migne/Theodoretus%20of%20Cyrrhus_PG%2080-84/Quaestiones%20in%20Octateuchum.pdf",
        "original": "Τί ἐστιν, «ἐμπλήσει ἡ δόξα Κυρίου πᾶσαν τὴν γῆν»; Προλέγει τὴν ἰουδαίων ἀποβολὴν καὶ τῆς οἰκουμένης τὴν σωτηρίαν· καὶ ὅρκον τῇ προρρήσει προστίθησι. «ζῶ, γάρ φησιν, ἐγώ, καὶ ζῇ τὸ ὄνομά μου, καὶ ἐμπλήσει ἡ δόξα Κυρίου πᾶσαν τὴν γῆν». κατὰ δὲ τοὺς ἄλλους ἑρμηνευτάς, ὅτι «ἐμπλήσει πᾶσαν τὴν γῆν ἡ δόξα Κυρίου». εἶτα ἐκφέρει τὴν ψῆφον κατὰ τῶν ἀριθμηθέντων ἁπάντων, πλὴν Χαλὲβ υἱοῦ Ἰεφωνῆ, καὶ Ἰησοῦ υἱοῦ Ναυῆ, οἳ πρὸς τῇ ἀληθείᾳ τῶν μηνυμάτων, τὴν εὐσεβῆ παραίνεσιν προσήνεγκαν τῷ λαῷ."
       },
@@ -944,7 +937,7 @@
        "sobre": "bispo de Milão (c. 339–397), Doutor da Igreja",
        "obra": "Comentário ao Salmo 118 (Expositio in Psalmum CXVIII)",
        "passagem": "Sermão 21 (Sin), 20",
-       "texto": "O povo dos hebreus atravessou os mares, mas não pôde atravessar as tentações. Todos foram tentados, menos Jesus [Josué] e Caleb, que por isso, dentre os mais velhos, mereceram entrar na terra da promessa: porque ficaram livres da tentação. Nem Aarão entrou, nem Maria, porque também eles foram tentados. Nem Moisés entrou, porque era o chefe do povo que era tentado: figura da Lei, que não podia excluir as tentações, não podia introduzir na terra da ressurreição, porque essa graça era devida ao Evangelho. A Lei não pôde dar a paz; por isso Moisés, enquanto viveu, sempre combateu: o povo da Lei está sempre na incerteza das guerras. Jesus, filho de Nun, porém, compôs os ânimos do povo numa paz profunda, porque quem está sob a Lei é agitado pela incerteza; quem está sob o Evangelho ouve o que diz: «Deixo-vos a paz, dou-vos a minha paz».",
+       "texto": "O povo dos hebreus atravessou os mares, mas não pôde atravessar as tentações. Todos foram tentados, menos Jesus [Josué] e Caleb, que por isso, dentre os mais velhos, mereceram entrar na terra da promessa: porque ficaram livres da tentação. Nem Aarão entrou, nem Maria, porque também eles foram tentados. Nem Moisés entrou, porque era o chefe do povo que era tentado: figura da Lei, que não podia excluir as tentações, não podia introduzir na terra da ressurreição, porque essa graça era devida ao Evangelho. A Lei não pôde dar a paz; por isso Moisés, enquanto viveu, sempre combateu: o povo da Lei está sempre na incerteza das guerras. Jesus, filho de Num, porém, compôs os ânimos do povo numa paz profunda, porque quem está sob a Lei é agitado pela incerteza; quem está sob o Evangelho ouve o que diz: «Deixo-vos a paz, dou-vos a minha paz».",
        "link": "https://mlat.uzh.ch/browser/cps_2.AmbMed.ExInPsD",
        "original": "Hebraeorum populus maria transivit: sed non potuit tentamenta transire. Tentati sunt omnes praeter Jesum, et Caleb, qui ideo de senioribus terram repromissionis introire meruerunt; quia fuerunt tentationis expertes. Nec Aaron introivit, nec Maria; quia et ipsi tentati sunt. Nec Moyses introivit; quia dux erat populi qui tentabatur: typus Legis quae excludere tentamenta non poterat, non poterat in terram resurrectionis inducere; quia ista Evangelio gratia debebatur. Lex pacem non potuit dare; ideo Moyses quoad vixit, semper praeliatus est: semper Legis populus in ancipiti bellorum est: Jesus autem Nave plebis animos profunda pace composuit; quoniam qui sub Lege est, agitatur incertis: qui sub Evangelio, audit dicentem: Pacem relinquo vobis: pacem meam do vobis"
       }
@@ -1359,7 +1352,7 @@
        "sobre": "bispo de Alexandria (c. 376–444), Doutor da Igreja",
        "obra": "Sobre a adoração em espírito e verdade (De adoratione)",
        "passagem": "Sobre a adoração IV",
-       "texto": "[A Escritura] acrescentou que entre os recenseados por Moisés e Aarão no deserto do Sinai não havia ninguém, «porque o Senhor lhes tinha dito: Morrerão no deserto; e não sobrou nenhum deles, a não ser Caleb, filho de Jefoné, e Josué, filho de Nun». Mostra claramente que a herança, e o estar escrito no livro de Deus, não é para os desobedientes, mas cabe antes aos que receberam a fé, isto é, a fé em Cristo; pois dos que desobedeceram o divino Davi disse: «Sejam apagados do livro dos vivos e não sejam inscritos com os justos». A palavra divina nos dá a entender também, aqui, que a graça é para os que creem: é por isso que o texto diz, de modo místico, que o recenseamento se fez junto ao Jordão, pois o batizado é inscrito. Mas Israel não perdeu a esperança por inteiro: o resto foi salvo, segundo a palavra do profeta, e figura dele seriam os únicos que sobraram de todos, Caleb e Josué, que recebem a herança e são inscritos com os que não estão presos às culpas da incredulidade.",
+       "texto": "[A Escritura] acrescentou que entre os recenseados por Moisés e Aarão no deserto do Sinai não havia ninguém, «porque o Senhor lhes tinha dito: Morrerão no deserto; e não sobrou nenhum deles, a não ser Caleb, filho de Jefoné, e Josué, filho de Num». Mostra claramente que a herança, e o estar escrito no livro de Deus, não é para os desobedientes, mas cabe antes aos que receberam a fé, isto é, a fé em Cristo; pois dos que desobedeceram o divino Davi disse: «Sejam apagados do livro dos vivos e não sejam inscritos com os justos». A palavra divina nos dá a entender também, aqui, que a graça é para os que creem: é por isso que o texto diz, de modo místico, que o recenseamento se fez junto ao Jordão, pois o batizado é inscrito. Mas Israel não perdeu a esperança por inteiro: o resto foi salvo, segundo a palavra do profeta, e figura dele seriam os únicos que sobraram de todos, Caleb e Josué, que recebem a herança e são inscritos com os que não estão presos às culpas da incredulidade.",
        "link": "https://khazarzar.skeptik.net/pgm/PG_Migne/Cyril%20of%20Alexandria_PG%2068-77/De%20adoratione%20et%20cultu%20in%20spiritu%20et%20veritate.pdf",
        "original": "Προστέθεικε δὲ ὅτι οὐκ ἦν ἄνθρωπος ἐν τοῖς ἐπεσκεμμένοις ὑπὸ Μωσῆ καὶ Ἀαρὼν, οὓς ἐπεσκέψαντο τοὺς υἱοὺς Ἰσραὴλ ἐν τῇ ἐρήμῳ Σινᾷ, ὅτι εἶπε Κύριος αὐτοῖς· Θανάτῳ ἀποθανοῦνται ἐν τῇ ἐρήμῳ, καὶ οὐ κατελείφθη ἐξ αὐτῶν οὐδὲ εἷς, πλὴν Χαλὲβ ὁ υἱὸς Ἰεφονῆ, καὶ Ἰησοῦς ὁ τοῦ Ναυῆ· παραδεικνὺς ἐναργῶς, ὅτι μὴ τοῖς ἀπειθήσασιν ἡ κληρονομία, καὶ τὸ ἐν βίβλῳ γεγράφθαι Θεοῦ· πρέποι δ' ἂν μᾶλλον τοῖς τὴν πίστιν εἰσδεδεγμένοις, δῆλον δὲ ὅτι τὴν ἐν Χριστῷ· περὶ μὲν γὰρ τῶν ἠπειθηκότων τὸ, «Ἐξαλειφθήτωσαν ἐκ βίβλου ζώντων, καὶ μετὰ δικαίων μὴ γραφήτωσαν,» ὁ θεσπέσιος ἔφη Δαβίδ. Ὑπεμφαίνει δὲ ἡμῖν καὶ τὸ θεῖον ἐν τούτοις λόγιον, ὅτι τοῖς πιστεύουσιν ἡ χάρις· διὰ γάρ τοι τοῦτο πρὸς τῷ Ἰορδάνῃ τὴν ἀπογραφὴν γενέσθαι φησὶ μυστικῶς ὁ λόγος· ἀνάγραπτος γὰρ ὁ βεβαπτισμένος· πλὴν οὐχ ὁλοκλήρως ἀποπέπτωκε τῆς ἐλπίδος ὁ Ἰσραήλ. Σέσωσται γὰρ τὸ κατάλειμμα, κατὰ τὴν τοῦ προφήτου φωνὴν, οὗ τύπος ἂν εἶεν οἱ ἐκ πάντων καταλελειμμένοι μόνοι Χαλέβ τε καὶ Ἰησοῦς, συγκληρονομοῦντές τε καὶ ἀπογραφόμενοι τοῖς τῆς ἀπιστίας ἐγκλήμασιν οὐκ ἐνεχομένοις."
       },
@@ -1590,92 +1583,5 @@
     }
    ]
   }
- },
- "revisao": {
-  "escolhas": [
-   {
-    "id": "pao-sombra",
-    "ref": "Nm 14,9",
-    "titulo": "«Eles são o nosso pão» e «a sombra deles se retirou»",
-    "contexto": "O hebraico diz, ao pé da letra: «eles são o nosso pão; a sombra deles se retirou de cima deles». A tradução de partida explicava as duas imagens: «os devoraremos como pão» e «retirou-se deles toda a proteção», com uma nota de língua sobre «sombra». Orígenes e outros Padres comentam justamente o «pão» (os inimigos vencidos alimentam quem luta) e a «sombra».",
-    "opcoes": [
-     {
-      "id": "a",
-      "texto": "«porque eles são o nosso pão: a sombra que os cobria se retirou», com uma nota curta sobre a sombra como proteção",
-      "nota": "As imagens do original, que os comentários dos Padres retomam; a nota dá só o contexto.",
-      "recomendada": true
-     },
-     {
-      "id": "b",
-      "texto": "«porque os devoraremos como pão; retirou-se deles toda a proteção», como estava, sem nota"
-     }
-    ]
-   },
-   {
-    "id": "olho-no-olho",
-    "ref": "Nm 14,14",
-    "titulo": "«Visto olho no olho» ou «visto face a face»?",
-    "contexto": "O hebraico diz *'ayin be'ayin*, «olho no olho», expressão diferente de «face a face» (*panim el panim*, Êx 33,11) e de «boca a boca» (Nm 12,8); volta em Is 52,8 («veem com os próprios olhos»). A tradução de partida, como a Vulgata, dizia «face a face».",
-    "opcoes": [
-     {
-      "id": "a",
-      "texto": "«que tu, Senhor, és visto olho no olho»",
-      "nota": "Segue o original e mantém a diferença entre as três expressões.",
-      "recomendada": true
-     },
-     {
-      "id": "b",
-      "texto": "«que face a face és visto, Senhor», como estava"
-     }
-    ]
-   },
-   {
-    "id": "tenuati",
-    "ref": "Nm 14,34",
-    "titulo": "O fim do versículo 34: «sabereis o que é ter-me contra vós»",
-    "contexto": "O hebraico *tenu'ati* é palavra rara: «a minha oposição», Deus que se põe contra o povo. A tradução de partida dizia «sabereis o que é afastar-vos de mim», que inverte o sujeito; a Vulgata, «scietis ultionem meam» («conhecereis a minha vingança»).",
-    "opcoes": [
-     {
-      "id": "a",
-      "texto": "«e sabereis o que é ter-me contra vós»",
-      "recomendada": true
-     },
-     {
-      "id": "b",
-      "texto": "«e conhecereis a minha oposição»"
-     },
-     {
-      "id": "c",
-      "texto": "«e sabereis o que é afastar-vos de mim», como estava"
-     }
-    ]
-   }
-  ],
-  "divisao": {
-   "titulo": "Cinco trechos",
-   "texto": "O projeto antigo tinha seis subtítulos (1–4, 5–10, 11–19, 20–25, 26–38, 39–45). Juntei a revolta do povo (1–4) com a resposta de Josué e Caleb (5–10) num trecho só, «A revolta do povo», porque é uma cena só, da noite de choro até a glória que aparece na tenda; os outros ficaram, e «A sentença do Senhor» passou a «O perdão e a sentença» (20–25), porque o trecho começa com «Eu perdoo».\n\nParágrafos: Moisés e Aarão caídos por terra, com Josué e Caleb (5–9); a glória do Senhor (10); a resposta de Moisés (13) e a fórmula do Sinai (17); Caleb (24) e a ordem de voltar (25); a sentença (29) e a morte dos exploradores (36); a resposta de Moisés (41) e a derrota (44). Não há versos: o capítulo inteiro é prosa, e o Versificador não entra."
-  },
-  "registro": [
-   {
-    "id": "correcoes",
-    "titulo": "O que corrigi direto pelo hebraico",
-    "texto": "v. 7 «uma terra muito, muito boa» (o hebraico repete «muito»); v. 8 «se o Senhor se agradar de nós» (não «nos for favorável»); v. 12 «deserdá-lo» (é o mesmo verbo do v. 24, «a sua descendência a possuirá»: Deus tira a herança do povo, e a descendência de Caleb a recebe; antes, «destruí-lo»); v. 16 «massacrou-os»; v. 17 «como disseste» (antes «como juraste», que o hebraico não diz); v. 28 «oráculo do Senhor» (a fórmula dos profetas, como em toda a Bíblia; antes «diz o Senhor»); v. 29 «segundo o vosso número»; v. 31 «a terra que rejeitastes» (é outro verbo que o «desprezar» dos vv. 11 e 23); v. 37 «morreram de uma praga» (antes «morreram feridos»); v. 39 «o povo ficou em grande luto»; v. 40 «Aqui estamos»; v. 43 «porque deixastes de seguir o Senhor», que faz eco ao Caleb que «me seguiu inteiramente» (v. 24)."
-   },
-   {
-    "id": "pequenos",
-    "titulo": "*Taf* = «os pequenos»; *banim* = «os filhos»",
-    "texto": "Nos vv. 3 e 31, as crianças que o povo diz que «serão presa» são os *taf*, «os pequenos»; no v. 33, «os vossos filhos» (*banim*) serão pastores no deserto. A tradução de partida dizia «filhos» nos três."
-   },
-   {
-    "id": "ira-misericordia",
-    "titulo": "A fórmula do v. 18: «lento para a ira e rico em misericórdia»",
-    "texto": "Como no Êx 34,6 da tradução de partida («lento para a ira»), com *hesed* = «misericórdia» (`ESCOLHAS.md`). «Até a terceira e a quarta geração», sem crase (antes «até à», uso europeu)."
-   },
-   {
-    "id": "nomes",
-    "titulo": "Nomes",
-    "texto": "A liturgia lê deste capítulo os vv. 1, 26-30 e 34-35 (quarta-feira da 18ª semana do Tempo Comum, ano I; no Brasil entra também o v. 30). Dela: Caleb, filho de Jefoné, e «comunidade». Um ponto para decidir: o lecionário da CNBB escreve «Josué, filho de **Num**», e o Nm 13 ficou com «Nun» (`ESCOLHAS.md`); mantive «Nun» até a sua resposta. Os amalecitas e os cananeus ficam no plural, como no Nm 13,29 e na liturgia. O mar Vermelho e Horma não estão no lecionário: ficaram as formas do projeto antigo. «Arraial» fica, como no Nm 12,14-15."
-   }
-  ]
  }
 }

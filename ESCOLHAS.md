@@ -9,13 +9,17 @@ português do Brasil contemporâneo; base no hebraico e no grego, na divisão da
 fórmulas dos profetas («o Senhor Deus», «oráculo do Senhor»); falas sem aspas, depois de
 dois-pontos; nada de mesóclise. **Uma mudou** (o Gere, 17/10): a tradução segue sempre o original,
 mesmo onde a NV segue o grego ou o latim, e sem nota de variante; a NV dá só a divisão de capítulos
-e versículos, que se segue à risca.
+e versículos, que se segue à risca. No Novo Testamento, o grego de base é o texto crítico (Nestle-Aland
+28; a edição SBL, em `pesquisa/ferramentas/grego.py`): 2Cor 1,12 «com a santidade e a sinceridade de
+Deus», não «simplicidade» (2Cor 1, aprovado).
 
 ## Forma
 
 - Deus é tratado por «tu»; os imperativos plurais com «vós» («Exultai», «Louvai»).
 - YHWH = «o Senhor». Adonai YHWH = «o Senhor Deus».
 - Salmos: numeração hebraica no título, com a grega e latina entre parênteses: «Salmo 33 (32)».
+- Expressão citada dentro do versículo, entre aspas angulares: «haja em mim o «sim, sim» e o «não, não»»
+  (2Cor 1,17, pedido do Gere, 18/10).
 
 ## Nomes próprios: os da liturgia do Brasil
 
@@ -31,8 +35,10 @@ Vale para pessoas, povos e lugares, também nos comentários dos Padres.
   se não houver, fica a forma do projeto antigo, com a ortografia de hoje, e a lista vai para o
   `revisao.registro` do capítulo.
 - Já fixados: Maria (a irmã de Moisés; nunca «Míriam»), etíope, Faran, Cades, Caleb, Enac, Negueb,
-  Josué filho de Nun, os amalecitas, hititas, jebuseus, amorreus e cananeus, os descendentes e os
-  filhos de Enac, Hori, Tânis, Abimelec (Nm 13 e Sl 34, aprovados). Os doze exploradores de Nm 13,4–15,
+  Josué filho de Num (como no lecionário; Nm 14, escolha do Gere), os amalecitas, hititas, jebuseus, amorreus e cananeus, os descendentes e os
+  filhos de Enac, Hori, Tânis, Abimelec (Nm 13 e Sl 34, aprovados); Jefoné, a comunidade (Nm 14);
+  Paulo, Timóteo, Silvano, Corinto, Acaia (2Cor 1). Ásia, Macedônia, Judeia, o mar Vermelho e Horma,
+  que a liturgia não lê nesses capítulos, ficaram como no projeto antigo (aprovado). Os doze exploradores de Nm 13,4–15,
   que a liturgia não lê, ficaram como no projeto antigo (aprovado).
 
 ## Vocabulário
@@ -71,6 +77,12 @@ Vale para pessoas, povos e lugares, também nos comentários dos Padres.
 | *zavat halav udvash* | «(terra) que mana leite e mel» | em toda a Bíblia, embora a liturgia diga «onde corre»: mudar no Êxodo, em Jeremias, Ezequiel, Baruc e no Eclesiástico ao entrarem | Nm 13, aprovado (escolha dele, não a recomendada) |
 | *kefir* | leão jovem | o leão novo, já caçador; Sl 104,21 «leõezinhos» muda ao entrar | Sl 34, aprovado |
 | *nefilim* | gigantes | como em Gn 6,4 e na liturgia | Nm 13, aprovado |
+| *taf* / *banim* | os pequenos / os filhos | Nm 14,3.31 «os pequenos», 14,33 «os vossos filhos» | Nm 14, aprovado |
+| *'erek appayim verav-hesed* | lento para a ira e rico em misericórdia | como em Êx 34,6; «até a terceira e a quarta geração», sem crase | Nm 14,18, aprovado |
+| *tsinná* | broquel | junto com *maguen* («escudo»), Sl 35,2; Sl 91,4 «escudo e couraça»: conferir ao entrar | Sl 35, aprovado |
+| *'ed hamas* | testemunha falsa | Dt 19,16; Êx 23,1 «dar falso testemunho»; Sl 35,11 | Sl 35, aprovado |
+| *psychḗ* | como *nefesh* (opção C): «alma» quando é o interior da pessoa; nos outros casos, pelo sentido | 2Cor 1,23 «Invoco a Deus por testemunha, pela minha vida» | 2Cor 1, aprovado |
+| *synergós* | cooperador | 2Cor 1,24 «cooperadores da vossa alegria»; uniformizar Rm 16 e Fl 2,25; 4,3 ao entrarem | 2Cor 1, aprovado |
 
 ## Inconsistências conhecidas, para corrigir quando o capítulo entrar
 
@@ -78,4 +90,5 @@ Vale para pessoas, povos e lugares, também nos comentários dos Padres.
 - Sl 144,9 «lira de dez cordas» → «harpa de dez cordas» (escolha do Sl 33,2).
 - *Nefesh*: aplicar a opção C em cada capítulo que entrar (o projeto antigo traz «alma» 249 vezes, muitas onde é vida ou pessoa).
 - «Míriam» no Êxodo, em 1 Crônicas e em Miqueias → «Maria».
-- *Synergós*: «cooperador» em 1Cor 3,9 e 2Cor 1,24; 6,1; 8,23, mas «colaborador» em Rm 16 e Fl 2,25; 4,3 (2Cor 1, 18/10).
+- *Synergós*: «colaborador» em Rm 16 e Fl 2,25; 4,3 → «cooperador», como em 1Cor 3,9 e 2Cor 1,24; 6,1; 8,23 (2Cor 1, aprovado).
+- «Nun» → «Num» (o pai de Josué) em Êxodo, Deuteronômio, Josué e onde mais aparecer.

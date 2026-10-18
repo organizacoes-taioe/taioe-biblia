@@ -1,7 +1,7 @@
 {
  "livro": "2corintios",
  "cap": 1,
- "estado": "em revisão",
+ "estado": "revisado",
  "atualizado": "2026-10-18",
  "trechos": [
   {"id": "1", "titulo": "Saudação", "de": 1},
@@ -46,7 +46,6 @@
   {"id": "n02", "v": 3, "apos": "misericórdias", "texto": "No sacramento da Confissão, a fórmula da absolvição começa com estas palavras: «Deus, Pai de misericórdia…».", "origem": "nova: uso na liturgia (como o Te Deum, Sl 33,22); a nota antiga, sobre a palavra «consolação» e o Paráclito, saiu"},
   {"id": "n03", "v": 8, "apos": "Ásia", "texto": "A Ásia era a província romana do oeste da atual Turquia, com a capital em Éfeso, onde Paulo morou quase três anos.", "origem": "revista do projeto antigo: o leitor de hoje pensa no continente; saíram as hipóteses sobre o que foi a tribulação"},
   {"id": "n04", "v": 17, "apos": "leviandade", "texto": "Paulo tinha anunciado aos coríntios esta viagem e depois mudou o itinerário; por isso, alguns o acusavam de ser inconstante.", "origem": "revista do projeto antigo: ficou o contexto, sem a análise da resposta"},
-  {"id": "n05", "v": 20, "apos": "amém", "texto": "O amém era a resposta da assembleia às orações do culto, como ainda é na Missa.", "origem": "revista do projeto antigo: saiu a nota de língua (a raiz hebraica) e a interpretação; ficou o uso na liturgia"},
   {"id": "n06", "v": 22, "apos": "penhor", "texto": "No comércio, o penhor era a parte do preço paga adiantada, como garantia de que o resto viria: o Espírito é a garantia dos bens que Deus prometeu.", "origem": "revista do projeto antigo: hoje «penhor» lembra a casa de penhores; ficou o costume, sem a palavra grega"}
  ],
  "comentarios": {
@@ -425,36 +424,5 @@
     }
    ]
   }
- },
- "revisao": {
-  "escolhas": [
-   {
-    "id": "santidade",
-    "ref": "2Cor 1,12",
-    "titulo": "«Com a santidade e a sinceridade de Deus» ou «com a simplicidade…»?",
-    "contexto": "É o primeiro capítulo do Novo Testamento na Taioé, e a pergunta vale para todo ele: qual é o «original» grego. O texto crítico de hoje (Nestle-Aland 28, que a edição SBL segue quase sempre) lê aqui *hagiótēti*, «santidade», com os manuscritos mais antigos (o papiro 46, o Sinaítico, o Vaticano, o Alexandrino); a maioria dos manuscritos tardios, a Vulgata e a Nova Vulgata leem *haplótēti*, «simplicidade». Os Padres gregos e latinos comentam a «simplicidade». A tradução de partida dizia «simplicidade». Pela regra do Sl 33 (fica o original, sem nota de variante), a proposta é tomar o texto crítico como o grego de base em todo o Novo Testamento.",
-    "opcoes": [
-     {"id": "a", "texto": "«com a santidade e a sinceridade de Deus», e o texto crítico (Nestle-Aland) como base do Novo Testamento inteiro", "nota": "Segue o grego mais antigo, como no Antigo Testamento se segue o hebraico; os comentários citam a «simplicidade» que os Padres leram.", "recomendada": true},
-     {"id": "b", "texto": "«com a simplicidade e a sinceridade de Deus», como estava (o texto da maioria dos manuscritos e da Vulgata)"}
-    ]
-   },
-   {
-    "id": "pela-minha-vida",
-    "ref": "2Cor 1,23",
-    "titulo": "«Invoco a Deus por testemunha, pela minha vida» ou «sobre a minha alma»?",
-    "contexto": "O grego diz «invoco a Deus como testemunha *epì tēn emḕn psychḗn*»: é um juramento em que Paulo põe em jogo a própria vida, se mentir. A tradução de partida seguia a Vulgata, «sobre a minha alma». Pelo teste da opção C do *nefesh* (o verbo diz o que se passa dentro da pessoa?), aqui *psychḗ* é a vida, e «juro pela minha vida» é como se diz em português. Seria também a regra para *psychḗ* no Novo Testamento: «alma» quando é o interior da pessoa, e nos outros casos pelo sentido. Também corrigi «ainda não fui a Corinto» para «não voltei a Corinto»: o grego *oukéti* quer dizer «não mais», porque Paulo já tinha ido lá.",
-    "opcoes": [
-     {"id": "a", "texto": "«Invoco a Deus por testemunha, pela minha vida», e a regra da opção C também para *psychḗ*", "recomendada": true},
-     {"id": "b", "texto": "«Eu invoco a Deus por testemunha sobre a minha alma», como estava"}
-    ]
-   }
-  ],
-  "divisao": {"titulo": "Cinco trechos, como no projeto antigo", "texto": "Ficaram os cinco subtítulos do projeto antigo: «Saudação» (1–2), «O Deus de toda consolação» (3–7), «A tribulação na Ásia» (8–11), «A sinceridade de Paulo» (12–14) e «A mudança de planos» (15–24). O último trecho vai até o fim do capítulo, embora o assunto continue em 2,1–4 (a visita adiada e a carta escrita entre lágrimas); a Nova Vulgata abre parágrafo no v. 23, e o texto também. Não há versos: o capítulo é prosa, e o Versificador não entra."},
-  "registro": [
-   {"id": "correcoes", "titulo": "O que corrigi direto pelo grego", "texto": "v. 2 «graça a vós e paz», como em todas as outras cartas (estava «graça e paz a vós»); v. 4 sem o «também nós», que o grego não tem; v. 7 «assim também o sois da consolação» (o grego não tem o futuro); v. 8 e v. 13 com o «pois» do grego; v. 10 «nele pusemos a esperança»; v. 11 refeito, porque estava confuso («o favor… agradecido em nosso favor»): «contando também com a ajuda da vossa oração por nós, para que muitas pessoas deem graças por nós pelo dom que recebemos por intercessão de muitos»; v. 13 «espero que venhais a compreender plenamente» (estava «até ao fim», uso europeu, e o grego contrapõe «plenamente» a «em parte», no v. 14); v. 15–16 «ir primeiro até vós… e, passando por vós, ir à Macedônia»; v. 19 «nele se fez o sim» (o grego diz que o sim veio a ser e permanece; estava «nele houve o sim»); v. 20 «dizemos a Deus o amém, para a sua glória» (faltava o «a Deus»); v. 24 com o «mas» do grego."},
-   {"id": "base-grega", "titulo": "O grego de base: o texto crítico", "texto": "Conferi o capítulo com a edição SBL do Novo Testamento grego (o texto crítico, quase sempre igual ao Nestle-Aland 28), com a ferramenta nova `pesquisa/ferramentas/grego.py`. Onde a Vulgata ou o texto bizantino leem outra palavra, fica o texto crítico, sem nota, como no Antigo Testamento fica o hebraico. A Nova Vulgata segue dando a divisão em versículos: neste capítulo, coincide com o grego."},
-   {"id": "nomes", "titulo": "Nomes, pelo lecionário", "texto": "Paulo, Timóteo, Silvano, Corinto e Acaia como na liturgia (2Cor 1,1-7, segunda-feira da 10ª semana do Tempo Comum, ano I; 1,18-22, terça-feira da mesma semana e 7º domingo do ano B). Ásia, Macedônia e Judeia não são lidos neste capítulo e ficaram como no projeto antigo, que é a forma de sempre."},
-   {"id": "cooperadores", "titulo": "*Synergós*: «cooperador» ou «colaborador»", "texto": "Nas cartas aos Coríntios a tradução de partida diz «cooperadores» (1Cor 3,9; 2Cor 1,24; 6,1; 8,23); em Romanos e Filipenses, «colaboradores». Aqui ficou «cooperadores da vossa alegria». A uniformização fica anotada no `ESCOLHAS.md`, para quando entrarem os outros capítulos."}
-  ]
  }
 }

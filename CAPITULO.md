@@ -82,7 +82,8 @@ Sl 33, de 20 notas ficaram 4.
 - Notas do projeto antigo: conferir uma por uma pelo mesmo critério (a maioria sai).
 - As notas não repetem os comentários dos Padres.
 - Passagem dura (imprecação, «os judeus» em João): traduzir sem atenuar, com nota que começa
-  por «Nota do tradutor:» (regra do projeto antigo).
+  por «Nota do tradutor:» (regra do projeto antigo). A nota não explica nem interpreta o texto:
+  no Sl 35,4 o Gere excluiu a que explicava os pedidos contra os inimigos (18/10).
 - Usar as explicações que o Gere deu nas revisões anteriores (`revisao/aprendizado.md`).
 
 ## 5. Avaliar a divisão em trechos

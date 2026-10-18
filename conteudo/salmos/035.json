@@ -1,8 +1,8 @@
 {
  "livro": "salmos",
  "cap": 35,
- "estado": "em revisão",
- "atualizado": "2026-10-17",
+ "estado": "revisado",
+ "atualizado": "2026-10-18",
  "trechos": [
   {
    "id": "1",
@@ -126,7 +126,7 @@
   {
    "v": 16,
    "l": [
-    "Como ímpios que zombam por um pedaço de pão,",
+    "Com a zombaria dos ímpios,",
     "rangiam contra mim os seus dentes."
    ]
   },
@@ -225,12 +225,6 @@
    "apos": "os que me combatem",
    "texto": "Com os vv. 1–2 começa a missa da Segunda-feira Santa, na antífona de entrada.",
    "origem": "nova (uso litúrgico: Missal Romano, antífona de entrada da segunda-feira da Semana Santa)"
-  },
-  {
-   "id": "n02",
-   "v": 4,
-   "texto": "Nota do tradutor: nestes pedidos contra os inimigos, quem reza não se vinga: entrega a causa a Deus, que é o juiz, e deixa nas mãos dele o castigo.",
-   "origem": "revista do projeto antigo (a nota das imprecações, que a regra pede)"
   },
   {
    "id": "n03",
@@ -2160,63 +2154,5 @@
     }
    ]
   }
- },
- "revisao": {
-  "escolhas": [
-   {
-    "id": "v1-contende",
-    "ref": "Sl 35,1",
-    "titulo": "«Contende» ou «Combate»?",
-    "contexto": "O primeiro verbo (*riv*) é o de quem disputa uma causa, inclusive no tribunal; o segundo (*laham*) é o de quem luta na guerra. O salmo junta as duas imagens: Deus como guerreiro (vv. 2–3) e como juiz (vv. 11 e 23–24, onde volta *riv*: «para a minha causa»). A tradução de partida trocava a primeira pela guerra: «Combate, Senhor, os que me combatem; / guerreia os que me guerreiam». A Vulgata tem «Iudica, Domine, nocentes me», que é o começo que os Padres comentam.",
-    "opcoes": [
-     {
-      "id": "a",
-      "texto": "«Contende, Senhor, com os que contendem comigo; / combate os que me combatem.»",
-      "nota": "Guarda as duas imagens, a da causa e a da guerra, e o eco com o v. 23.",
-      "recomendada": true
-     },
-     {
-      "id": "b",
-      "texto": "«Combate, Senhor, os que me combatem; / guerreia os que me guerreiam.»",
-      "nota": "A tradução de partida: só a guerra, mais fácil de ler."
-     }
-    ]
-   },
-   {
-    "id": "v16-pao",
-    "ref": "Sl 35,16",
-    "titulo": "Os que zombam «por um pedaço de pão»",
-    "contexto": "O hebraico diz, ao pé da letra, «com ímpios, zombadores de bolo»: a palavra rara *ma'og* é o pão ou o bolo (como em 1 Reis 17,12), e a imagem parece ser a dos parasitas que fazem graça à mesa dos outros em troca de comida. A Bíblia grega e a latina leram outra coisa («tentaram-me, zombaram de mim com escárnio»), e a tradução de partida as seguia: «Zombavam de mim com escárnio».",
-    "opcoes": [
-     {
-      "id": "a",
-      "texto": "«Como ímpios que zombam por um pedaço de pão, / rangiam contra mim os seus dentes.»",
-      "nota": "O que o hebraico diz, com a leitura mais comum da palavra rara.",
-      "recomendada": true
-     },
-     {
-      "id": "b",
-      "texto": "«Com a zombaria dos ímpios, / rangiam contra mim os seus dentes.»",
-      "nota": "Deixa sem traduzir a palavra rara, que é incerta."
-     }
-    ]
-   }
-  ],
-  "divisao": {
-   "titulo": "Um trecho só, três estrofes",
-   "texto": "Salmo curto: um trecho só, sem subtítulo, com «De Davi» no v. 1, como na Nova Vulgata. As três estrofes do projeto antigo ficam (1–10, 11–18, 19–28): cada uma termina com a promessa de louvar a Deus (vv. 9–10, 18 e 28).\n\nNo texto, corrigi direto pelo hebraico, sem nota: v. 2, «o escudo e o broquel» (os dois são escudos; «couraça» não está no original) e «em meu auxílio»; v. 3, «fecha o caminho aos que me perseguem», como leem o texto hebraico e as Bíblias grega e latina («e o machado» é conjectura moderna); vv. 5–6, sem o «quando» que o hebraico não tem; vv. 7–8, a rede que eles «esconderam», com o mesmo verbo nos dois versos, e o fim do v. 8, «caia nela, para a sua ruína»; v. 10, «o pobre» duas vezes, como no hebraico; v. 11, «testemunhas falsas», como em Deuteronômio 19,16 (a mesma expressão); v. 14, «eu me curvava, de luto»; v. 15, «uns miseráveis, que eu não conhecia» (o hebraico fala de gente abatida, desprezível; «ferindo-me» vinha da Bíblia grega); v. 20, «contra os tranquilos da terra tramam palavras enganosas»; v. 21, «os nossos olhos viram», que o v. 22 retoma («Tu viste, Senhor»); v. 23, «Acorda, desperta», os dois verbos de despertar; v. 26, «vistam-se de vergonha», o verbo de vestir, que ecoa o saco do v. 13; v. 27, «os que desejam» e «que deseja», o mesmo verbo.\n\n*Nefesh*, pela regra: «alma» nos vv. 3, 9 e 12 (quem recebe a palavra de Deus, exulta, fica desolado); «vida» nos vv. 4, 7 e 17 (a vida que procuram tirar); o v. 13 passa a «eu me humilhava com o jejum»; no v. 25, «Era o que queríamos!». No v. 17, «vida» e não o pronome, porque o paralelo pede um nome: «Livra a minha vida das suas devastações, / dos leões jovens a única que eu tenho» (*yehidati*, «a minha única», que a nota antiga explicava e agora se entende sem nota).\n\nPelo Versificador: v. 4, «recuem, cheios de vergonha»; v. 13, «eu me humilhava com o jejum»; v. 15, «Mas, quando eu tropecei, eles se alegraram»; v. 28, «há de cantar». Ficam ralos, sem forma fiel melhor: vv. 2, 7, 9, 10, 17, 23, 26 e 27."
-  },
-  "registro": [
-   {
-    "id": "tsinna",
-    "titulo": "*Tsinná* = «broquel»",
-    "texto": "Junto com *maguen* («escudo»), o outro escudo (Sl 35,2). No Sl 91,4, «escudo e couraça» (*tsinná vesoherá*) na tradução de partida: conferir quando entrar."
-   },
-   {
-    "id": "ed-hamas",
-    "titulo": "*'Ed hamas* = «testemunha falsa»",
-    "texto": "Como na tradução de partida: Dt 19,16 «testemunha falsa» e Êx 23,1 «dar falso testemunho» (Sl 35,11)."
-   }
-  ]
  }
 }

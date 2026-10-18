@@ -30,6 +30,13 @@ de onde veio. Ler antes de preparar um capítulo (`CAPITULO.md`, etapas 2 a 4).
   leitor a se lembrar quem é Maria». Lugar pouco conhecido (o deserto de Faran) também. (Nm 12,1.16)
 - A nota diz só o necessário: ele cortou a explicação de «Deus as guarda em reservatórios…» e
   deixou a frase sobre a imagem antiga do mundo. (Sl 33,7)
+- Sem nota para expressão que já está na cultura: rasgar as vestes («dá para entender o
+  suficiente»). (Nm 14,6)
+- «Estou gostando dessas notas que ajudam o leitor a se localizar nas referências principais do
+  texto»: Moisés que repete as palavras do Sinai. (Nm 14,17)
+- Nem a «Nota do tradutor» das imprecações pode explicar o texto: «Essa nota já está fazendo uma
+  explicação do texto, não quero isso.» Saiu a nota sobre os pedidos contra os inimigos. (Sl 35,4)
+- Sem nota para o amém na liturgia («Desnecessário»): o leitor já sabe. (2Cor 1,20)
 
 ## Tradução
 
@@ -48,6 +55,12 @@ de onde veio. Ler antes de preparar um capítulo (`CAPITULO.md`, etapas 2 a 4).
   fórmula da terra prometida: escolheu «que mana leite e mel» em toda a Bíblia, e não «onde corre»,
   que era a recomendada por coincidir com a liturgia: seguir a liturgia é a regra dos nomes; nas
   fórmulas, perguntar. (Nm 13,27)
+- Palavra rara e incerta que traz um elemento estranho ao texto: deixar sem traduzir. «Já que é
+  incerta, e traz um elemento estranho ao texto, prefiro deixar sem»: Sl 35,16 «Com a zombaria dos
+  ímpios», sem o «pedaço de pão» (*ma'og*). (Sl 35, escolha dele, não a recomendada)
+- Nomes: o lecionário vale também contra a forma já fixada: «Josué, filho de Num», não «Nun». (Nm 14)
+- Nm 14, Sl 35 e 2Cor 1: o resto aprovado como proposto (o texto crítico no NT, *psychḗ* pela opção C,
+  «olho no olho», «ter-me contra vós», «Contende, Senhor»). (18/10)
 - Os versos passam pelo Versificador para soarem melhor, sem perder a fidelidade ao original
   (17/10; `CAPITULO.md`, etapa 3).
 
