@@ -158,3 +158,13 @@ Numeração: todos usam a da LXX (o nosso Sl 33 é o «32» deles, λβʹ).
   *Testimonia* atribuídos a Epifânio.
 - **Teodoro de Mopsuéstia** (Sl 1–80, ed. Devreesse 1939) e **Diodoro** não estão no khazarzar; Teodoro foi condenado em 553 e Diodoro
   ficou suspeito pelo mesmo motivo: não entram no site.
+## Acréscimos de Nm 14 (2026-10-18, `../numeros/014/relatorio-gregos.md`)
+
+| Autor | Obra | Onde | Nota |
+|---|---|---|---|
+| Procópio de Gaza | *In Numeros*, **escólios gregos** | PG 87/1, 829–836 (Nm 14) | Para alguns capítulos a PG imprime, ao lado do latim de Clauser, escólios gregos da cadeia. O OCR `patrologiae_cursus_completus_gr_vol_087_1` (archive.org) lê bem o grego e mal o latim; o `patrologiaecurs267unkngoog`, o contrário: usar os dois juntos. |
+| Santo Efrém (atribuído) | *In Numeros*, ed. romana | *Opera Syriaca et Latina* I (Roma 1737), p. 250 ss.; archive.org `assemani-et-alii-1732-1746-ephraem-syri-opera-omnia-syr-1` | Glosas de cadeia siríaca com tradução latina; o OCR do latim é legível, o do siríaco não. Nm 13–14: p. 258–259. O vol. I cobre também Gn, Ex, Lv, Dt, Js, Jz e Reis. |
+| Teodoreto | *Interpretatio in Psalmos* | khazarzar (PDF com colunas da PG) | Os Sl 77, 94 e 105 (LXX) relembram o deserto: procurar ali os episódios do Êxodo e de Números. |
+| Cirilo de Alexandria | *Commentarii in Joannem* | khazarzar (ed. Pusey: «[PG 2, 140]» = vol. II, p. 140) | Digressões longas sobre o AT: Ex 34,6–7 e Nm 14,17–19 em VI (Jo 9,2); a arca e Dt 1,41–44 em IV (Jo 6). Colunas da PG 73 pelo OCR `bim_early-english-books-1641-1700_patrologiae-cursus-completus-_1859_73`. |
+
+- Não estão no khazarzar: Isidoro de Pelúsio (PG 78; latim no archive.org, OCR fraco), Diádoco (PG 65), João Clímaco (PG 88).

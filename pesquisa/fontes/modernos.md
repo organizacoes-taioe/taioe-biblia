@@ -293,3 +293,36 @@ portuguesa) dá a lista completa em segundos. Os arquivos são ISO-8859-1. Para 
   (`fitz`, instalado) e ler a imagem. Página do PDF = página do livro + 4 (Sl 34 = pp. 152–155 = PDF 156–159).
 - **Newman**: os endereços do newmanreader são `https://` (o `http://` dá 302 e o `curl -f` grava a página de
   redirecionamento). 259 sermões em ~1 min com `xargs -P 16`.
+## 13. Achados novos de Nm 14 (2026-10-18)
+
+- **Belarmino, *Opera omnia*** (ed. Vivès, 1870–1874, 12 t.) no archive.org, com OCR: `operaomnia01bell_0`,
+  `02bell_0`, `03bell_0`, `operaomnia04bell`, `05bell`, `06bell_0`, `07bell` … `12bell` (`<id>_djvu.txt`). t. III =
+  *De Ecclesia militante / purgatorio*; t. IV = sacramentos (*De Eucharistia*, *De Poenitentia*); t. VI = *De gratia et
+  libero arbitrio*; t. X–XI = ***Explanatio in Psalmos*** (comentário de todos os salmos, numeração da Vulgata);
+  t. VII traz defesa de Belarmino por outro autor. Busca: `Num. xiv`, `Numer. XIV`, `Num. 14` (o OCR põe as
+  referências em romanos minúsculos). Os cabeçalhos de capítulo vêm como «CAPUT XI.», «LIBER IV.» e o título da
+  obra em maiúsculas espaçadas («DE P (ENITENTIA», «UBER QUARTUS»): achar com `grep -E` e espaços múltiplos.
+- **Varredura completa dos Papas** (Francisco, Bento XVI, João Paulo II, Leão XIV), em italiano: os índices anuais
+  `https://www.vatican.va/content/<papa>/it/<homilies|audiences|angelus|cotidie>/<AAAA>.index.html` listam todos
+  os documentos do ano (links `href="/content/<papa>/it/<tipo>/<AAAA>/documents/….html"`). Baixar com
+  `xargs -P 24` (≈4.000 documentos em ~5 min) e procurar «Nm 14», «Numeri 14», nomes e frases. Francisco:
+  2.584 documentos; Bento XVI + João Paulo II (sem Angelus): 4.169; Leão XIV: 352 (inclui exortações, encíclicas
+  e mensagens). Para outro capítulo, refazer é rápido.
+- **Clerus**, índice de Números: os capítulos estão em arquivos sequenciais, `…/en/gpg.htm` (RSV, cap. 7 a 13),
+  `…/en/gph.htm` (cap. 14 a 20…); os links das citações têm `title="Nb 14,1-12"` etc.
+- **Lecionário da CNBB**: a Canção Nova guarda cada dia litúrgico em
+  `https://liturgia.cancaonova.com/pb/liturgia/<semana>-<dia>[-N]/` (ex.: `18a-semana-tempo-comum-quarta-feira-5`);
+  os sufixos `-1`…`-7` são anos diferentes (ano I/II); provar todos e procurar a referência. A *Palavra do dia* do
+  Vatican News (`https://www.vaticannews.va/pt/palavra-do-dia/AAAA/MM/DD.html`) traz a 1ª leitura e o evangelho
+  (sem o salmo). Texto da CNBB com direito autoral: guardar só referência, nomes e citação curta.
+- **Lecionário, índice por livro** (Felix Just): `https://catholic-resources.org/Lectionary/Index-Pentateuch.htm`
+  (e `Index-Deuteronomistic-History.htm`, `Index-Deuterocanonicals.htm`, `Index-Sundays.htm`, `Index-Weekdays.htm`):
+  todas as perícopes da Missa de cada livro, com o número do OLM.
+- **Santo Afonso**: as páginas `_FA<c>.HTM` da concordância têm os links na forma `<a href=…>palavra</a>` com a
+  frequência antes; para ver o contexto, abrir a página da palavra e seguir o link da linha (o rótulo da obra vem
+  deslocado). Achados de Nm 14: *Apparecchio alla morte* XVIII, 1 (`_P3J.HTM`) e *Sermoni compendiati* XV (`_P31I.HTM`).
+- **Francisco de Sales**: o Index scripturaire (t. XXVII) já citado no § 11 deu todos os lugares de Nm 14; as cartas
+  a Santa Joana de Chantal de 1605 estão no t. XIII.
+- **Missal antigo, textos inteiros**: `web/www/missa/Latin/Tempora/Quad6-5.txt` (Sexta-feira Santa, Improperios) e
+  `web/www/horas/Latin/Psalterium/Invitatorium.txt` (Sl 94 do invitatório) no repositório do Divinum Officium
+  (`https://raw.githubusercontent.com/DivinumOfficium/divinum-officium/master/…`).

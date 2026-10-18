@@ -1,0 +1,14 @@
+# Orígenes, Homilias sobre o Êxodo (tradução latina de Rufino): a murmuração (paralelo de Nm 14,27)
+
+- Texto: W. A. Baehrens (ed.), *Origenes Werke*, Bd. 6 (GCS 29), Leipzig, Hinrichs, 1920. Domínio público.
+- Digitalização: https://archive.org/details/origenes-werke.-bd-6-1920 (pág. 209 = imagem `page/n264.jpg`, pág. 210 = `n265`; link de leitura `.../page/209/mode/1up`).
+- Marcas como em `origenes-homilias-numeros.md`. Transcrito das imagens das páginas em 2026-10-18; notas e aparato omitidos.
+- **Não comenta Nm 14**: é a murmuração de Êx 16 (o maná). Guardado porque o mesmo ensinamento (perdoa-se uma, duas, três vezes; quem persiste é castigado) é o de Nm 14,22.27 («tentaram-me dez vezes», «até quando esta comunidade má murmurará?»), e Orígenes cita 1Cor 10,10, que junta os dois episódios.
+
+---
+
+## HOMILIA VII, 4 (trecho), sobre Êx 16,1–3
+
+[GCS 209] [...] «Quinta decima» inquit «die mensis secundi murmuravit populus et dixit quia melius fuerat nos mori in Aegypto, quando sedebamus super ollas carnis». O populus ingratus: desiderat Aegyptum, qui Aegyptios vidit exstinctos! carnes Aegypti requirit, qui Aegyptiorum carnes vidit maris piscibus et coeli alitibus datas! Murmur ergo adversum Moysen, immo adversum Deum levant. Sed hoc primo quidem ignoscitur, ignoscitur et secundo, fortassis et tertio; verum si non desinant et persistant, audi quid post haec murmuran- [GCS 210] [Lomm. 80] tem populum consequatur. In Numerorum libro refertur quod et in suis scriptis retexuit Apostolus dicens: «neque murmuraveritis, sicut quidam ex illis murmuraverunt et a serpentibus interierunt». Murmurantem populum venenatus in eremo serpentum depascitur morsus. Videamus nos, qui haec audimus, nos, inquam, pro quibus scripta sunt: «illis enim ad correptionem facta sunt, scripta sunt autem propter nos, in quos fines saeculorum devenerunt». Si non desinimus murmurantes, si non cessamus a querelis nostris, quas frequenter habemus adversum Deum, observemus, ne simile offensionis incurramus exemplum. Etenim cum de coeli intemperie, de infecunditate fructuum, de raritate imbrium, de prosperitatibus aliorum et de aliorum improsperitate causamur, hoc est adversum Deum murmur attollere. Sed haec initia habentibus ignoscuntur; in eos vero, qui non desinunt, graviter vindicatur. Mittuntur namque in eos serpentes, id est immundis spiritibus traduntur venenatisque daemonibus, qui eos morsibus occultis ac latentibus perimant atque internis et intra cordis penetralia conclusis cogitationibus absumant. Sed obsecro vos, prosint nobis praemissae correptionis exempla; illorum poena emendatio nostra sit. Dicit enim Deus quia: «audivi murmurationem filiorum Istrahel». Videtis quia non latet Deum murmuratio nostra; audit omnia et quod non statim punit, poenitentiam nostrae conversionis exspectat.
+
+(Referências de Baehrens: Êx 16,1–3; 1Cor 10,9–11; Êx 16,12.)
