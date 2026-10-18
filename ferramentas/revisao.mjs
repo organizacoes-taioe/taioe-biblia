@@ -40,11 +40,13 @@ for (const l of livros) {
     });
 
     const ordem = new Map(c.texto.filter((v) => v.v !== undefined).map((v, i) => [String(v.v), i]));
-    const notas = (c.notas || []).slice().sort((a, b) => ordem.get(String(a.v)) - ordem.get(String(b.v)));
+    // As notas que ele já aprovou (`revista: true`) ficam no site e saem da página; a letra é a do site.
+    const notas = (c.notas || []).slice().sort((a, b) => ordem.get(String(a.v)) - ordem.get(String(b.v)))
+      .map((n, i) => ({ ...n, letra: letra(i) })).filter((n) => !n.revista);
     if (notas.length) secoes.push({
       id: 'notas', titulo: 'Notas',
       texto: 'Uma por uma: aprovar, alterar o texto ou excluir. A explicação me ajuda a acertar o tom das próximas.',
-      itens: notas.map((n, i) => ({ id: `${id}:nota:${n.id}`, tipo: 'nota', ref: `${abrev} ${c.cap},${n.v}`, letra: letra(i), versiculo: verso(n.v), texto: n.texto, origem: n.origem ? `Origem: ${n.origem}.` : '' })),
+      itens: notas.map((n) => ({ id: `${id}:nota:${n.id}`, tipo: 'nota', ref: `${abrev} ${c.cap},${n.v}`, letra: n.letra, versiculo: verso(n.v), texto: n.texto, origem: n.origem ? `Origem: ${n.origem}.` : '' })),
     });
 
     if (rv.divisao) secoes.push({
