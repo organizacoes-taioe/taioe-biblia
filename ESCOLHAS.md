@@ -77,6 +77,7 @@ Vale para pessoas, povos e lugares, também nos comentários dos Padres.
 | *zavat halav udvash* | «(terra) que mana leite e mel» | em toda a Bíblia, embora a liturgia diga «onde corre»: mudar no Êxodo, em Jeremias, Ezequiel, Baruc e no Eclesiástico ao entrarem | Nm 13, aprovado (escolha dele, não a recomendada) |
 | *kefir* | leão jovem | o leão novo, já caçador; Sl 104,21 «leõezinhos» muda ao entrar | Sl 34, aprovado |
 | *nefilim* | gigantes | como em Gn 6,4 e na liturgia | Nm 13, aprovado |
+| *'ayin be'ayin* | olho no olho | diferente de «face a face» (*panim el panim*, Êx 33,11) e de «boca a boca» (Nm 12,8); Is 52,8 | Nm 14, aprovado |
 | *taf* / *banim* | os pequenos / os filhos | Nm 14,3.31 «os pequenos», 14,33 «os vossos filhos» | Nm 14, aprovado |
 | *'erek appayim verav-hesed* | lento para a ira e rico em misericórdia | como em Êx 34,6; «até a terceira e a quarta geração», sem crase | Nm 14,18, aprovado |
 | *tsinná* | broquel | junto com *maguen* («escudo»), Sl 35,2; Sl 91,4 «escudo e couraça»: conferir ao entrar | Sl 35, aprovado |

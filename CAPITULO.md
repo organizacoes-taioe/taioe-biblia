@@ -165,6 +165,8 @@ bash ferramentas/respostas.sh marcar <arquivo> # depois de aplicar: marca como l
 ```
 
 - Aplicar cada resposta no `conteudo/`, gerar, conferir, publicar, marcar como lidas.
+  Escolha respondida: sai de `revisao.escolhas`. Nota aprovada: `"revista": true` (fica no site e sai
+  da página, que guarda a letra do site); excluída: sai de `notas`. Divisão e registro respondidos: saem do `revisao`.
 - Toda explicação do Gere que ensine algo para os próximos capítulos vai, resumida, para
   `revisao/aprendizado.md` (o que ele corrigiu, a regra que se tira disso). Escolhas aprovadas
   para a Bíblia inteira vão para `ESCOLHAS.md`.
