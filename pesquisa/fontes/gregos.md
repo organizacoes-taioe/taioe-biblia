@@ -123,3 +123,38 @@ Numeração: todos usam a da LXX (o nosso Sl 33 é o «32» deles, λβʹ).
 
 - Busca de «ὡσεὶ ἀκρίδες»: quase todas as ocorrências são de Is 40,22, não de Nm 13,33. O padrão «Ὡσηέ» acha sobretudo
   o profeta Oseias: para Josué, buscar «Αὐσῆ».
+
+## Acréscimos do Sl 35 (LXX 34) (2026-10-17, `../salmos/035/relatorio-gregos.md`)
+
+- **Textos já convertidos, para reaproveitar** (no notebook, fora do git; a pasta temporária pode ser limpa pelo sistema: procurar
+  antes de baixar), em `C:\Users\geren\AppData\Local\Temp\claude\C--Users-geren-OneDrive-Documentos-Onedrive-do-Gere-Software-MEU-taioe\`:
+  - `f1cb729b-…\scratchpad\txt\`: os comentários aos Salmos inteiros (`eusebio-ps`, `teodoreto-ps`, `atanasio-exp`, `atanasio-marc`,
+    `cirilo-ps`, `origenes-sel`, `origenes-frag`, `didimo-tura`, `didimo-frag`, `apolinario-frag`, `nissa-inscr`, `basilio-hps`) e
+    `cirjer-cat`, `cirjer-myst`, `constapost`; `…\txtall\<autor>\` (Basílio, Nazianzeno, Nissa, Atanásio, Orígenes, Cirilo de
+    Alexandria, Teodoreto, Damasceno, Macário; Crisóstomo 285 de 398);
+  - `94b210f9-…\scratchpad\g12\txt\` (991 textos: Crisóstomo inteiro, 445; Epifânio, Máximo, Severiano, Ecumênio, Gregórios…);
+  - `dd91be4b-…\scratchpad\g13\txt\` (294: Cirilo de Alexandria 68, Eusébio 41, Teodoreto 25, Hesíquio 20 homilias, Melitão,
+    Teodoro Estudita, Justino, Procópio, Fócio…). Nomes dos arquivos: `<Autor>__<Obra com %20>.txt`.
+  - `54c8dfc5-…\scratchpad\ia\`: o OCR da PG 128 (Eutímio), duas digitalizações.
+  - Ali, **`Theodo__Epistulae.txt` é de Teodoro Estudita** (pasta `Theodorus Studita_PG 99`, ed. Fatouros 1992, cartas numeradas),
+    não de Teodoreto.
+- **Busca rápida em todo o corpus** (~2 000 arquivos em pouco mais de 1 minuto): em vez do laço caractere a caractere de
+  `gregos-buscar.py`, montar uma tabela `{ord(c): letra_base_minúscula}` para os caracteres do arquivo e usar `t.translate(tabela)`;
+  cada caractere vira exatamente um, e as posições do texto sem acentos valem no original.
+- **Eutímio Zigabeno** (PG 128): OCR em https://archive.org/details/patrologiaecurs261unkngoog (`…_djvu.txt`); buscar
+  «PSALMUS XXXIV» (algarismos romanos da Vulgata). O latim é legível; o grego sai com letras latinas e precisa ser refeito à mão,
+  com o latim ao lado. Compila sobretudo Teodoreto. Lista de volumes da PG: `archive.org/advancedsearch.php?q=title:(patrologiae
+  cursus completus) AND volume:<n>&fl[]=identifier&output=json`.
+- **Dídimo (Tura)**: o Sl 34 ocupa as págs. 203–230 (PTA 8); faltam as págs. 214–216. O Sl 35 começa na pág. 230.
+- **Eusébio, PG 23**: nos salmos que só vêm de cadeias, a primeira parte do comentário pode trazer fragmentos que Mühlenberg dá a
+  Dídimo (no Sl 34: frags. 331–333). Conferir com `didimo-frag` antes de atribuir. O mesmo vale para as *Selecta* de Orígenes.
+- **Teodoreto**: quando divide um versículo em dois, os números seguintes do PDF ficam adiantados (no Sl 34, a partir do v. 17).
+- **Cirilo, *Expositio***: trechos entre colchetes na PG têm origem não explicada no PDF; tratar como atribuição menos segura.
+- **Usos achados fora dos comentários**: Nazianzeno, *Discurso* 14 (`De pauperum amore.pdf`) e 17 (`Ad cives Nazianzenos.pdf`);
+  Cirilo, *Homilias pascais* (`Epistulae paschales sive Homiliae paschales.pdf`; cada uma é um «ΛΟΓΟΣ»); Melitão, *Sobre a Páscoa*
+  (`Melito of Sardis_PG 05/De pascha.pdf`, edição moderna).
+- **Espúrios que aparecem nas buscas** (não usar): Pseudo-Atanásio, *Homilia in sanctos patres et prophetas* (PG 28, 1061 ss.);
+  Pseudo-Crisóstomo, *In illud Ignem veni mittere* (PG 62), *De circo* (PG 59), *De paenitentia et in lectionem de Davide* (PG 64);
+  *Testimonia* atribuídos a Epifânio.
+- **Teodoro de Mopsuéstia** (Sl 1–80, ed. Devreesse 1939) e **Diodoro** não estão no khazarzar; Teodoro foi condenado em 553 e Diodoro
+  ficou suspeito pelo mesmo motivo: não entram no site.

@@ -280,3 +280,44 @@ santo: citar como «Orígenes», sem título, e dizer que é a tradução de Ruf
 - Busca que funcionou para um capítulo narrativo: as palavras raras da Vulgata Clementina do próprio
   capítulo (*in vecte*, *phalanga*, *botryo*, *praecoquae*, *compescens murmur*), não só as notas de
   Migne, que em muitas obras não marcam a citação.
+
+## 8. Aprendido no Sl 35 (34), 2026-10-17 (`salmos/035/relatorio-latinos.md`)
+
+- Desta vez o Corpus Corporum respondeu rápido (cada texto em menos de 1 min, 6 downloads em
+  paralelo). Fluxo que funcionou: baixar direto pelos `idno` conhecidos; varrer tudo com um script
+  que põe as notas de Migne de volta no texto («{(Psal. XXXIV, 3)}») e procura as palavras dos
+  versículos (com `j`→`i`, `v`→`u`); depois conferir cada `original` como substring do texto
+  baixado (sem notas, sem marcas de coluna). Cuidado com falsos positivos: «unicam meam» acha
+  «tunicam meam» (usar `\b`).
+- **Gerhoh de Reichersberg** (2330), *Commentarius aureus in Psalmos*: texto **11469** (PL 193;
+  Sl 34 = col. 1333–1348, `grep -n "PSALMUS XXXIV"`); continuação **11474** (PL 194). Comenta
+  primeiro sobre Cristo, a «cabeça», e depois sobre a Igreja, o «corpo». Muito de Agostinho e
+  Cassiodoro, alguma coisa própria. Permalink `GerRei.CoAuInP`.
+- Ids de texto novos:
+
+| autor | textos |
+|---|---|
+| São Leão Magno (1098) | Cartas **7630**, Sermões **7631** |
+| São Máximo de Turim (1102) | Homilias 7652, Sermões **7653** |
+| Tertuliano (867) | texto = id da obra − 97: Ad martyres 40, Apologeticum 43, De oratione 47, De patientia 48, De paenitentia 49, Adv. Judaeos 62, Adv. Marcionem 63, De carne Christi 67, De jejuniis 71, De resurrectione 75, Scorpiace 77 |
+| São Cipriano (878) | também id − 97: Cartas 95 e 130, De lapsis 121, De mortalitate 123, De oratione dominica 125, De unitate 127; Testimonia 21445 |
+| São Bernardo (2268) | *De consideratione* **21366**, Cartas **21392** (o resto entre 11189 e 11258; 11207 e 11208 não são dele) |
+| Santo Aelredo (1030) | *De Iesu puero duodenni* **11260** (PL 184, entre os escritos atribuídos a Bernardo) |
+| São Beda (1397) | Homilias **8509** (permalink `Beda.Homili8`) |
+| São Jerônimo (879) | *In Isaiam* **7170** (`HieStr.CoInIs`) |
+| São Gregório (1165) | *Hom. in Ezechielem* **21412** (`GreI.HoInEz`); Moralia I–XVI **21427** (`GreI.Morali`), XVII–XXXV **8054** (`GreI.Morali2`) |
+
+- Outros permalinks: Ambrósio, *In Lucam*, `AmbMed.ExEvSeL`; Tertuliano, *Adv. Judaeos*,
+  `Tertul.AdvJud`; Bernardo, sermão de São Martinho, `BerCla.InFeSMa`; Páscoa, `BerCla.InDiSaP`;
+  Aelredo `AelRie.DeJePuD`; Regra de São Bento `BenNur.ReCuCo`.
+- **Paterius** (8106) cobre também os Salmos: reúne por versículo os trechos de Gregório (Sl 34
+  em PL 79, 839C–840B), com o livro e o número dos *Moralia*. É o atalho para Gregório num salmo.
+- **Belarmino, t. X**: o Sl 34 está nas pp. 212–219 (`grep -n "EXPLANATIO"` perto da linha 25064 do
+  `_djvu.txt`). Nos salmos longos, ele e Cassiodoro não só deixam o título sem número: dividem
+  os versículos de outro modo (no Sl 34 contam 32, a Clementina 28). Fazer a tabela de
+  correspondência pelo texto, não pela regra «N+1».
+- Os *Commentarioli* de Jerônimo do Sl 34 estão logo depois dos do Sl 33, na p. 41–42 de Morin
+  (o OCR escreve «XXXIIIl.»).
+- Nos salmos «da Paixão», os medievais (os dois Brunos, Gerhoh, Ruperto, Haimo) leem as
+  imprecações como a ruína de Jerusalém, com dureza contra os judeus. Nas imprecações, os
+  melhores trechos são de Cassiodoro, Arnóbio, Cassiano (*Coll.* VII, 21), Tomás e Belarmino.

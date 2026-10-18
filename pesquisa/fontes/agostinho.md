@@ -157,3 +157,26 @@ Não há índice bíblico livre e completo das obras de Agostinho. O que funcion
   Sermões fora das coleções dos Maurinos: «Sermones 1» (obra 2519 → texto 7504) e «Sermones 2» (2528 → **7513**,
   os quatro de A. Mai, autenticidade discutida; o III, sobre Caná, traz os dois carregadores do cacho de Nm 13,24).
   O `ccall` de todas as obras travou duas vezes depois da obra 2458: baixar as que interessam pelo número do texto.
+
+## 5. Salmo 34 da Vulgata (= Sl 35; 2026-10-17, `salmos/035/relatorio-agostinho.md`)
+
+- **Dois sermões, nenhuma glosa**: arquivo 046 = sermo 1 (vv. 1–10, PL 36, 322–333; imposto pelos
+  bispos presentes), 047 = sermo 2 (vv. 11–28, PL 36, 333–341). O NPNF (`1801035`) traz os dois,
+  numerados em seguida (1–12 e 13–27).
+- **Colunas do PL sem o PDF**: o texto 7329 do Corpus Corporum tem as quebras `[page 0323]`; basta
+  alinhar o começo de cada parágrafo do augustinus.it (letras normalizadas, *j→i*, *v→u*, janelas de
+  25 caracteres, porque o OCR do Corpus erra: «cruet» por *eruet*).
+- **Não baixar de novo**: as 140 obras do Corpus (texto PL) estão no scratchpad da conversa
+  `94b210f9-de88-4ff1-a06d-f01e9346d6d5` (`scratchpad/dl/aug/<obra>_<texto>.txt`), dentro de
+  `%LOCALAPPDATA%\Temp\claude\C--Users-geren-OneDrive-Documentos-Onedrive-do-Gere-Software-MEU-taioe\`
+  (só no notebook; a pasta temporária pode ser limpa). Procurar ali antes de baixar.
+- `aug2txt.py`: o número do parágrafo às vezes vem como `<A NAME>2</A></B>.`; e, ao tirar as
+  notas, juntar `</I><I>` (senão sobra `* *` e `! **`).
+- Pistas temáticas: «Dic animae meae: Salus tua ego sum» (Sl 34,3) é dos versículos que ele mais
+  usa: *Confissões* I, 5, 5 e IX, 1, 1; En. in Ps. 32, II, s. 2, 17; 38, 20; 85, 9; Sermo 163, 12;
+  Sermo 312, 3; Ep. 177, 1. «Omnia ossa mea dicent: Domine, quis similis tibi?» (Sl 34,10):
+  *Confissões* V, 1, 1; VIII, 1, 1; IX, 1, 1; Sermo 224, 1 (aos recém-batizados); Sermo 46, 17;
+  Ep. 149, 34. *In Io.* 10 foi pregado depois do canto do Sl 34 (vv. 13, 15, 16, 20, 27).
+  O cilício/saco = a carne mortal de Cristo: En. in Ps. 29, II, 21; 34, s. 2, 3; 68, s. 1, 15.
+  «Martyrem non facit poena, sed causa»: En. in Ps. 34, s. 2, 1 e 13; Sermões 275, 1 e 327, 1
+  (estes com o Sl 42,1).

@@ -131,6 +131,9 @@ Sl 33, de 20 notas ficaram 4.
 
 ## 8. Gerar, conferir e mandar para a revisão do Gere
 
+O capítulo só termina com as pendências atualizadas (regra do Gere, 18/10): tudo o que segue,
+até `/admin/biblia/` mostrar o capítulo na produção, vai no mesmo trabalho, sem esperar pedido.
+
 ```bash
 node ferramentas/conferir.mjs      # mesóclise, uso europeu, numeração, notas, comentários
 node ferramentas/gerar.mjs         # public/biblia/
