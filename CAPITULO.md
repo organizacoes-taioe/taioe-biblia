@@ -133,6 +133,10 @@ Sl 33, de 20 notas ficaram 4.
 
 O capítulo só termina com as pendências atualizadas (regra do Gere, 18/10): tudo o que segue,
 até `/admin/biblia/` mostrar o capítulo na produção, vai no mesmo trabalho, sem esperar pedido.
+E a página é atualizada limpa (regra do Gere, 18/10): antes do `revisao.mjs`, baixar as respostas
+(`bash ferramentas/respostas.sh exportar`) e aplicar tudo o que ele já respondeu, em qualquer
+capítulo, como na etapa 9, tirando do `revisao` cada item aplicado; só fica na página o que ainda
+espera a resposta dele. Depois de publicar, `respostas.sh marcar`.
 
 ```bash
 node ferramentas/conferir.mjs      # mesóclise, uso europeu, numeração, notas, comentários

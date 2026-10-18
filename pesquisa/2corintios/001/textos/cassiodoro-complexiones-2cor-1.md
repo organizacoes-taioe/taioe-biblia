@@ -1,0 +1,13 @@
+# Cassiodoro: *Complexiones* sobre II Coríntios 1
+
+Cassiodoro (c. 485–c. 580), *Complexiones in epistolas apostolorum*, II Cor., §§ 1–4 (sobre 2Cor 1,1–2,11). PL 70, 1339A–D (domínio público), na edição digital do Corpus Corporum: https://mlat.uzh.ch/browser/cps_2.CasViv.Comple (texto 7917). São resumos curtos, um por bloco de capítulos.
+
+EPISTOLA SECUNDA AD CORINTHIOS.
+
+[col. 1339] [col. 1339A] 1.--I, 1. Paulus apostolus Jesu Christi, per voluntatem Dei, et caetera. Cum Timotheo fratre scribit Ecclesiae Dei quae est Corinthi constituta, idem complectens et eis qui per universam Achaiam in sancto proposito permanebant; gratiam illis et pacem concedi postulans a Deo Patre nostro et Domino Jesu Christo: istis enim nominatis, et Spiritus sanctus abunde memoratus est, unus enim ex Trinitate [col. 1339B] dictus totam plenissime complectitur Trinitatem.
+
+2. --I, 3. Benedictus Deus, et Pater Domini nostri Jesu Christi, et reliqua. Consolatum se dicit a Domino in omni tribulatione sua, ut et ipse pari modo consolaretur in calamitatibus constitutos; et ideo ad Corinthios scribit, quatenus sicut in passione socii, ita in consolationibus Christi participes esse mererentur. Refert etiam quae in Asia mala pertulerunt, Deo gratias agens quod orationibus eorum ad instruendos populos de tanta fuerit clade liberatus: unde et fideles congratulari debent de prosperitate collata.
+
+3. --I, 12. Gloria nostra haec est, testimonium conscientiae nostrae, et caetera. Gloriam suam dicit testimonium conscientiae suae; quoniam non in sapientia [col. 1339C] carnali, sed in gratia Domini conversatum se in hoc mundo fuisse testatur: praeconium suum dicens esse Corinthios, sicut et ipsorum probabatur apostolus: promittens se quidem ad eos frequenter venire voluisse, sed non fuit levitatis, qua minime constabat impletum: omnis quippe sermo ipsius praedicationis apud eos, exemplo Domini Christi, stabilis, non dubius fuit. Sed tamen ne quid suis viribus applicaret, Dei Filii Jesu Christi dicit esse, quod confirmabantur in omnibus: ipse est enim qui et unxit praedicatores, et signavit corda credentium.
+
+4. --I, 23. Ego autem testem Deum invoco in animam meam, et quae sequuntur. Pepercisse se dicit Apostolus, quod non venit ad Corinthum, ne gravis [col. 1339D] esset eis qui erant aliqua objurgatione culpandi: sed contristatio ipsorum aeternae causa salutis est; quando tunc discipuli Domino gratissimi fiunt, cum magistrorum correctione proficiunt. Patientiam quoque docens, petit ut parcatur illi qui eum contristasse dinoscitur: promittens ideo se illi remisisse, ne desperatus intereat, sed potius diaboli laqueum conversus evadat: nam patere sibi dicit, diabolicae cogitationes quantis fraudibus deceptos interimant.

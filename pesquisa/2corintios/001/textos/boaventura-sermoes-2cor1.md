@@ -1,0 +1,16 @@
+# São Boaventura, sermões que comentam 2Cor 1
+
+- Edição: *Opera omnia*, Quaracchi (domínio público). OCR do archive.org, corrigido à mão.
+- t. V (1891), *Sermones de rebus theologicis*, sermão 1 (Cristo testemunha, guia e mestre), n. 15, p. 538: https://archive.org/details/doctorisseraphic05bona (`doctorisseraphic05bona_djvu.txt`, linha ~87357).
+- t. IX (1901), *Sermones de B. Virgine Maria*, Anunciação, sermão 5, pp. 679–680: https://archive.org/details/doctorisseraphic09bona (linha ~101883).
+- Outras citações achadas, só para registro (arquivo e linha do OCR): t. IX, linha ~9564 (os cinco tipos de consolação, com 2Cor 1,3-4); t. IX, linha ~64573 (2Cor 1,3 entre os benefícios pelos quais se dão graças); t. IX, linha ~73318 (sermão de Santo Estêvão, 2Cor 1,21); t. IV, *In IV Sent.* d. 17, linha ~69419 (a confissão dá segurança à consciência, com 2Cor 1,12); t. V, linha ~76463 («Pater misericordiarum et mater misericordiarum», sobre Maria).
+
+---
+
+## t. V, p. 538 (Sermones de rebus theologicis, sermo 1, n. 15)
+
+Dat vero testimonium approbativum respectu iustorum; de quo gloriabatur Iob decimo sexto: *Ecce enim, in caelo testis meus et conscius meus in excelsis.* Ille enim gloriari potest de testimonio Christi approbante, qui non habet remorsum conscientiae, ut secundae ad Corinthios primo: *Gloria nostra haec est, testimonium conscientiae nostrae.* In quo quidem testimonio non est gloriandum secundum se, nisi concurrat testimonium supernum, ut qui gloriatur non in se, sed in Domino glorietur, ne forte gloriatio sua fundata sit super mendacio, a quo immunes non sunt, nisi qui approbantur per Christi testimonium. Propter quod dicebat Apostolus ad Romanos nono: *Veritatem dico et non mentior, testimonium mihi perhibente conscientia mea in Spiritu sancto*; et ad Philippenses primo: *Testis mihi est Deus, quomodo cupiam omnes vos in visceribus Iesu Christi.* Sine hoc testimonio approbativo vana est humani testimonii approbatio.
+
+## t. IX, pp. 679–680 (De Annuntiatione B. V. M., sermo 5)
+
+Prima igitur dispositio ad susceptionem gratiae est rectitudo conscientiae in declinandis, quoniam lux gratiae oritur solis rectis corde; Proverbiorum primo: *Ne dimittas legem matris tuae, ut addatur gratia capiti tuo.* Lex matris est rectitudo conscientiae, quae docet bonitatem; Proverbiorum duodecimo: *Qui bonus est hauriet gratiam a Domino*; vere qui bonus est per conscientiam rectam bonam gratiam sibi hauriet, quoniam bonus Israel Deus his qui recto sunt corde. Unde illi soli possunt de bonitate gloriari et de gratia, quorum intentio est simplex et conscientia recta. In persona enim Beatorum dicit Apostolus secundae ad Corinthios primo: *Gloria nostra haec est, testimonium conscientiae nostrae, quod in simplicitate cordis et sinceritate Dei et non in sapientia carnali, sed in gratia Dei conversati sumus.* In simplicitate, inquam, rectae conscientiae et intentionis, non in duplicitate carnalis sapientiae et sophisticationis, quia cum illa non potest stare gratia; unde Ecclesiastici trigesimo septimo: *Qui sophistice loquitur odibilis est; non est enim illi data a Domino gratia.* Ille enim sophistice loquitur qui aliud profert extra in sermone et aliud habet intus in corde et facit in opere ut hypocritae, qui privati sunt munere divinae gratiae.
