@@ -321,3 +321,23 @@ santo: citar como «Orígenes», sem título, e dizer que é a tradução de Ruf
 - Nos salmos «da Paixão», os medievais (os dois Brunos, Gerhoh, Ruperto, Haimo) leem as
   imprecações como a ruína de Jerusalém, com dureza contra os judeus. Nas imprecações, os
   melhores trechos são de Cassiodoro, Arnóbio, Cassiano (*Coll.* VII, 21), Tomás e Belarmino.
+## 9. Aprendido em Nm 14, 2026-10-18 (`numeros/014/relatorio-latinos.md`)
+
+- **Reaproveitar os downloads**: os scratchpads das conversas anteriores guardam 528 textos da PL já
+  baixados (pastas `dl/`, `dl/a<autor>/`, `n12/a<autor>/`) e o Corpus Thomisticum inteiro (`ct/`).
+  Um índice pelo cabeçalho de cada arquivo (`cc_idno: N, cc_id: ...`) dispensa o servidor lento.
+- **As notas de Migne ficam no rodapé**: o `grep` em «Num. XIV» acha a nota, não o texto. Achar o
+  marcador `[N]` correspondente antes da nota e mostrar o texto em volta dele.
+- O texto baixado quebra linhas no meio das frases: normalizar os espaços antes de procurar uma frase.
+- Ids novos úteis: **Ruperto** (2195) *In XII prophetas minores* **10877** (PL 168; *In Osee*, *In
+  Michaeam*, *In Zachariam*... com títulos «IN OSEE PROPHETAM COMMENTARIORUM LIBER...»), *In
+  Cantica* **10876**, *In Job* 10878; **Gregório** *Expositio in VII psalmos poenitentiales*
+  (espúria) **8104**; **Jerônimo** *Dialogus adversus Pelagianos* **7158**, *In Hiezechielem*
+  **21347**; **Bernardo** *De consideratione* **21366**, *Sententiae* **11256**; **Leão Magno**
+  *Sermones* **7631**, *Epistolae* **7630**.
+- Temas transversais e onde estão: os pecados dos pais nos filhos (Êx 20,5; 34,7): Gregório,
+  *Moralia* XV, 51, 57; Tomás, I-II q. 87 a. 8; Jerônimo, Ep. 130, 8 (pensamentos e obras); Bruno de
+  Segni, *In Num.* 14. Moisés intercessor: Gregório, *Moralia* IX, 11 e 24; XX, 5, 14; Ruperto, *In
+  Mich.* I e *In Cant.* VI. Os quarenta anos: Ruperto, *In Osee* V; Pedro Damião, *Collectanea*
+  (sobre Dt 25); Jerônimo, *In Hiez.* IX (Ez 29,11).
+- O comentário de Tomás a **1 Coríntios 7,10–10,33 não existe** (lacuna do texto autêntico).
