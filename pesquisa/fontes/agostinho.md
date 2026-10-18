@@ -180,3 +180,9 @@ Não há índice bíblico livre e completo das obras de Agostinho. O que funcion
   O cilício/saco = a carne mortal de Cristo: En. in Ps. 29, II, 21; 34, s. 2, 3; 68, s. 1, 15.
   «Martyrem non facit poena, sed causa»: En. in Ps. 34, s. 2, 1 e 13; Sermões 275, 1 e 327, 1
   (estes com o Sl 42,1).
+
+## Cartas de São Paulo (primeiro uso: 2Cor 1, 2026-10-18)
+
+O catálogo das fontes paulinas ficou na pasta do capítulo; ler antes do próximo capítulo de Paulo:
+
+- `../2corintios/001/fontes-agostinho-latinos.md`: o Ambrosiaster carta por carta no Corpus Corporum, a tabela sermão → arquivo do augustinus.it, Ambrósio, Gregório Magno.
