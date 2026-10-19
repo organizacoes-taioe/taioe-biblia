@@ -89,7 +89,8 @@ if (fs.existsSync(ESTUDOS)) {
 }
 
 // Os comentários: um bloco por tema, com o título, o resumo e os comentários ainda não aprovados.
-// Ids: <livro>-<cap>:tt|tr:<trecho>:<tema> (título, resumo) e <livro>-<cap>:c:<trecho>:<tema>:<item>.
+// Ids: <livro>-<cap>:tt|tr:<trecho>:<tema> (título, resumo), <livro>-<cap>:c:<trecho>:<tema>:<item>
+// (comentário) e <livro>-<cap>:ca<n>:<trecho>:<tema>:<item> (aviso de corte, rodada n).
 function paraComentarios(c, l) {
   const id = `${c.livro}-${c.cap}`;
   const rotulo = c.livro === 'salmos' ? `Salmo ${c.cap}${String(grego(c.cap)) !== String(c.cap) ? ` (${grego(c.cap)})` : ''}` : `${l.nome} ${c.cap}`;
@@ -102,7 +103,13 @@ function paraComentarios(c, l) {
       const itens = [];
       if (!rev.includes('titulo')) itens.push({ id: `${id}:tt:${t.id}:${x.id}`, tipo: 'tema-titulo', texto: x.titulo });
       if (x.resumo && !rev.includes('resumo')) itens.push({ id: `${id}:tr:${t.id}:${x.id}`, tipo: 'tema-resumo', texto: x.resumo });
-      for (const it of x.itens) if (!it.revisto) itens.push({ id: `${id}:c:${t.id}:${x.id}:${it.id}`, tipo: 'comentario', autor: it.autor, sobre: it.sobre, obra: it.obra, passagem: it.passagem, link: it.link, texto: it.texto });
+      for (const it of x.itens) {
+        // Corte dele que muda o sentido: volta com o aviso e a sugestão (o site mostra a sugestão).
+        // O número da rodada entra no id, para não herdar a resposta anterior.
+        const a = it.aviso_corte;
+        if (a) itens.push({ id: `${id}:ca${a.n}:${t.id}:${x.id}:${it.id}`, tipo: 'comentario-aviso', autor: it.autor, obra: it.obra, passagem: it.passagem, link: it.link, corte: a.corte, aviso: a.aviso, sugestao: it.texto });
+        else if (!it.revisto) itens.push({ id: `${id}:c:${t.id}:${x.id}:${it.id}`, tipo: 'comentario', autor: it.autor, sobre: it.sobre, obra: it.obra, passagem: it.passagem, link: it.link, texto: it.texto });
+      }
       if (!itens.length) continue;
       secoes.push({
         id: `${t.id}-${x.id}`, titulo: x.titulo,

@@ -185,5 +185,11 @@ bash ferramentas/respostas.sh marcar <arquivo> # depois de aplicar: marca como l
   bash ferramentas/respostas.sh comentarios marcar <respostas.aplicadas.json>
   ```
   A edição dele num comentário é só para cortar: conferir cada corte que o script lista (antes e
-  depois) contra o original; se o corte mudou o sentido ou deixou a frase manca, acertar o mínimo e
-  dizer a ele. Depois, gerar, `revisao.mjs`, Catálogo e publicar, como acima.
+  depois) contra o original. Se o corte mudou o sentido ou deixou a frase manca, não corrigir por
+  conta própria (pedido dele, 19/10): `node ferramentas/aplicar-comentarios.mjs --avisos <avisos.json>`
+  com `[{"item": "<id c: do corte>", "aviso": "o que mudou", "sugestao": "o corte acertado, o mínimo"}]`.
+  O site passa a mostrar a sugestão, e o comentário volta a `/admin/biblia-comentarios/` com o corte
+  dele, o aviso e a sugestão, para ele aprovar a sugestão, manter o corte, editar ou excluir
+  (`aviso_corte` no comentário; a resposta vem como `<cap>:ca<n>:…` e o mesmo script a aplica).
+  Ele responde tudo um por um: a página não tem «aprovar todos» (19/10).
+  Depois, gerar, `revisao.mjs`, Catálogo e publicar, como acima.
