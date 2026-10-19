@@ -77,6 +77,11 @@ for (const l of livros) {
           for (const k of ['autor', 'obra', 'passagem', 'texto']) if (!it[k]) erro(onde, `comentário ${it.id} sem ${k}`);
           if (!/^https:\/\//.test(it.link || '')) erro(onde, `comentário ${it.id} sem link https`);
           texto(`${onde} comentário ${it.id}`, it.texto);
+          if (it.aviso_corte) {
+            const a = it.aviso_corte;
+            if (!Number.isInteger(a.n) || a.n < 1 || !a.corte || !a.aviso) erro(onde, `comentário ${it.id}: aviso_corte precisa de n, corte e aviso`);
+            texto(`${onde} aviso de corte ${it.id}`, a.aviso);
+          }
         }
       }
     }
