@@ -8,8 +8,9 @@
 <meta name="description" content="Deus perdoa, mas corrige como pai; e a oração dos santos não dispensa a nossa conversão.">
 <meta name="color-scheme" content="light dark">
 <link rel="icon" href="/biblia/favicon.svg" type="image/svg+xml">
-<link rel="stylesheet" href="/biblia/css/estilo.css?v=28b77982">
-<script defer src="/biblia/js/biblia.js?v=59ac4c4e"></script>
+<script src="/biblia/js/preferencias.js?v=e879b9fe"></script>
+<link rel="stylesheet" href="/biblia/css/estilo.css?v=0bc11739">
+<script defer src="/biblia/js/biblia.js?v=38a000ee"></script>
 </head>
 <body class="pag-tema">
 <a class="pular" href="#app">Ir para o conteúdo</a>
@@ -17,6 +18,19 @@
   <div class="topo-int">
     <a class="marca" href="/biblia/">Bíblia</a>
     <nav class="trilha" aria-label="Trilha de navegação"><a href="/biblia/numeros/">Números</a><span class="sep">›</span><a href="/biblia/numeros/12/">Números 12</a><span class="sep">›</span><a href="/biblia/numeros/12/comentarios/3/">Comentários</a><span class="sep">›</span><span aria-current="page">Sete dias fora do arraial</span></nav>
+    <div class="ferramentas">
+      <button type="button" class="ferr so-js" id="letra-menor" aria-label="Letra menor" title="Letra menor"><span class="a-menor">A</span>−</button>
+      <button type="button" class="ferr so-js" id="letra-maior" aria-label="Letra maior" title="Letra maior"><span class="a-maior">A</span>+</button>
+      <button type="button" class="ferr so-js" id="trocar-tema" aria-label="Modo claro ou escuro" title="Modo claro ou escuro"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="8.5" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M12 3.5a8.5 8.5 0 0 1 0 17z" fill="currentColor"/></svg></button>
+      <a class="ferr" id="botao-leituras" href="/biblia/leituras/" aria-label="Leituras" title="Leituras"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path class="fita" d="M6.5 3.5h11v17l-5.5-4-5.5 4z" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/></svg></a>
+      <div class="menu-leitura" id="menu-leitura" hidden>
+        <p class="menu-titulo">Leitura aberta</p>
+        <p class="menu-nome" id="menu-nome"></p>
+        <p class="menu-pos" id="menu-pos"></p>
+        <a class="menu-item" href="/biblia/leituras/">Ver as leituras</a>
+        <button type="button" class="menu-item" id="fechar-leitura">Fechar esta leitura</button>
+      </div>
+    </div>
   </div>
 </header>
 <main id="app" tabindex="-1">
@@ -29,30 +43,36 @@
 </header>
 <blockquote class="versos-tema"><p class="par"><span class="num">14</span>O Senhor respondeu a Moisés: Se o pai dela lhe tivesse cuspido no rosto, não teria de ficar envergonhada sete dias? Fique sete dias fechada fora do arraial, e depois será readmitida.</p><p class="par"><span class="num">15</span>Maria ficou sete dias fechada fora do arraial, e o povo não partiu enquanto ela não foi readmitida.</p></blockquote>
 <div class="comentarios">
-<article class="comentario">
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São João Crisóstomo</span></summary>
   <div class="comentario-texto"><p>Certa vez, Maria falou mal de Moisés. E Deus, o que fez? Mandou-lhe a lepra e a tornou impura, embora no resto ela fosse boa e modesta. Depois, quando o próprio Moisés, o ofendido, pedia que Deus deixasse a ira, Deus não aceitou. O que diz? «Se o pai dela lhe tivesse cuspido no rosto, ela não ficaria envergonhada? Fique fora do acampamento sete dias». O que quer dizer é isto: Se ela tivesse um pai e ele a tivesse repreendido diante de todos, não suportaria a repreensão? Eu te louvo pelo amor à irmã, pela mansidão e pela bondade; mas eu sei quando é preciso livrá-la do castigo.</p></div>
   <p class="autoria"><span class="autor">São João Crisóstomo</span><span class="sobre-autor">, bispo de Constantinopla (c. 349–407), Doutor da Igreja</span><br><span class="obra"><em>Homilias ao povo de Antioquia (Sobre as estátuas)</em>, Ad pop. Ant. hom. 20, 4</span> · <a href="https://khazarzar.skeptik.net/pgm/PG_Migne/John%20Chrysostom_PG%2047-64/Ad%20populum%20Antiochenum.pdf" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São João Crisóstomo</span></summary>
   <div class="comentario-texto"><p>Se alguém pede pela irmã de modo não conveniente, ouvirá de novo o que ouviu Moisés: «Se o pai dela lhe tivesse cuspido no rosto…». Não fiquemos, pois, de boca aberta esperando pelos outros. As orações dos santos têm, sim, um poder enorme, mas quando também nós nos arrependemos e nos tornamos melhores. Pois Moisés, que tinha arrancado da ira de Deus o próprio irmão e seiscentos mil homens, não conseguiu livrar a irmã; e, no entanto, o pecado não era igual: ela tinha insultado Moisés; ali, o que se ousou foi uma impiedade.</p></div>
   <p class="autoria"><span class="autor">São João Crisóstomo</span><span class="sobre-autor">, bispo de Constantinopla (c. 349–407), Doutor da Igreja</span><br><span class="obra"><em>Homilias sobre Mateus</em>, In Mt. hom. 5, 4</span> · <a href="https://khazarzar.skeptik.net/pgm/PG_Migne/John%20Chrysostom_PG%2047-64/In%20Matthaeum.pdf" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São Cirilo de Alexandria</span></summary>
   <div class="comentario-texto"><p>A palavra nos mostra, como numa imagem, que a natureza divina é rápida para ter compaixão e, de certo modo, prontíssima a deixar-se suplicar; mas muitas vezes, pela quantidade ou pela gravidade das nossas faltas, ela se torna severa e retarda a bondade para com os culpados. E isto também significa, a meu ver, que subiu a Deus uma grande intercessão dos santos por Israel; mas, como não convinha que ficasse sem castigo, condenado por faltas nada comuns, [Deus] pôs a misericórdia depois da justiça.</p></div>
   <p class="autoria"><span class="autor">São Cirilo de Alexandria</span><span class="sobre-autor">, bispo de Alexandria (c. 376–444), Doutor da Igreja</span><br><span class="obra"><em>Comentários elegantes ao Pentateuco (Glaphyra in Numeros)</em>, Glaph. in Num., 4</span> · <a href="https://khazarzar.skeptik.net/pgm/PG_Migne/Cyril%20of%20Alexandria_PG%2068-77/Glaphyra%20in%20Pentateuchum.pdf" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Orígenes</span></summary>
   <div class="comentario-texto"><p>Pusemos Maria no lugar da sinagoga: foi nela que o pai cuspiu no rosto. Cuspir no rosto é sinal de repúdio. Na lei está escrito, onde se manda que o parente se case com a viúva do parente, que, se ele quiser recusar o casamento, seja descalçado e receba uma cusparada no rosto; e isso foi dado como sinal de repúdio. Por isso se diz que Maria, isto é, aquele povo, levou uma cusparada no rosto, quando é repudiada por Deus.</p></div>
   <p class="autoria"><span class="autor">Orígenes</span><span class="sobre-autor">, mestre de Alexandria (c. 185–c. 254), escritor eclesiástico, não canonizado; texto da tradução latina de Rufino</span><br><span class="obra"><em>Homilias sobre Números (Homiliae in Numeros)</em>, Homilia 7, 4</span> · <a href="https://archive.org/details/origenes-werke.-bd-7-1921/page/44/mode/1up" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Cornélio a Lápide</span></summary>
   <div class="comentario-texto"><p>Se o pai de Maria, tua irmã, irado, lhe tivesse cuspido no rosto, ela, de vergonha e de respeito pelo pai, não ousaria aproximar-se dele antes de sete dias; quanto mais convém que ela agora, marcada por mim com a lepra por causa do pecado, se envergonhe, seja afastada do acampamento e não se aproxime de mim na tenda antes de sete dias?</p></div>
   <p class="autoria"><span class="autor">Cornélio a Lápide</span><span class="sobre-autor">, jesuíta flamengo (1567–1637), comentador de toda a Bíblia; não canonizado</span><br><span class="obra"><em>Comentário a Números (Commentaria in Numeros)</em>, Nm 12,11-14</span> · <a href="https://archive.org/details/commentariainscr02lapi_0" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São Jerônimo</span></summary>
   <div class="comentario-texto"><p>Ela abriu a todos a sua ferida, e Roma viu, chorando, a cicatriz descorada no seu corpo. Tinha as roupas rasgadas, a cabeça descoberta, a boca fechada. Não entrou na Igreja do Senhor, mas sentou-se separada, fora do arraial, com Maria, irmã de Moisés, para que o sacerdote, que a tinha mandado para fora, a chamasse de volta. Desceu do trono das suas delícias, tomou a mó, fez farinha e, de pés descalços, atravessou rios de lágrimas.</p></div>
   <p class="autoria"><span class="autor">São Jerônimo</span><span class="sobre-autor">, presbítero e tradutor da Bíblia (c. 347–420), Doutor da Igreja</span><br><span class="obra"><em>Cartas (Epistulae), 77, a Oceano, sobre a morte de Fabíola</em>, Ep. 77, 5</span> · <a href="https://mlat.uzh.ch/browser/cps_2.HieStr.Episto32" rel="noopener">texto original</a></p>
-</article>
+</details>
 </div>
 <nav class="passos" aria-label="Navegação entre temas"><a class="passo ant" href="/biblia/numeros/12/comentarios/3/a-oracao-de-moises/" rel="prev"><span class="dir">← Anterior</span><span class="alvo">Moisés reza por quem o ofendeu</span></a><a class="passo seg" href="/biblia/numeros/12/comentarios/3/o-povo-espera/" rel="next"><span class="dir">Seguinte →</span><span class="alvo">O povo espera por Maria</span></a></nav>
 </article>

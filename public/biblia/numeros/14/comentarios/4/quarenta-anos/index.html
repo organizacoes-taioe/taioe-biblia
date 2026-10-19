@@ -8,8 +8,9 @@
 <meta name="description" content="A pena medida pelos dias da exploração, e os quarenta anos como figura desta vida.">
 <meta name="color-scheme" content="light dark">
 <link rel="icon" href="/biblia/favicon.svg" type="image/svg+xml">
-<link rel="stylesheet" href="/biblia/css/estilo.css?v=28b77982">
-<script defer src="/biblia/js/biblia.js?v=59ac4c4e"></script>
+<script src="/biblia/js/preferencias.js?v=e879b9fe"></script>
+<link rel="stylesheet" href="/biblia/css/estilo.css?v=0bc11739">
+<script defer src="/biblia/js/biblia.js?v=38a000ee"></script>
 </head>
 <body class="pag-tema">
 <a class="pular" href="#app">Ir para o conteúdo</a>
@@ -17,6 +18,19 @@
   <div class="topo-int">
     <a class="marca" href="/biblia/">Bíblia</a>
     <nav class="trilha" aria-label="Trilha de navegação"><a href="/biblia/numeros/">Números</a><span class="sep">›</span><a href="/biblia/numeros/14/">Números 14</a><span class="sep">›</span><a href="/biblia/numeros/14/comentarios/4/">Comentários</a><span class="sep">›</span><span aria-current="page">Quarenta anos, cada dia por um ano</span></nav>
+    <div class="ferramentas">
+      <button type="button" class="ferr so-js" id="letra-menor" aria-label="Letra menor" title="Letra menor"><span class="a-menor">A</span>−</button>
+      <button type="button" class="ferr so-js" id="letra-maior" aria-label="Letra maior" title="Letra maior"><span class="a-maior">A</span>+</button>
+      <button type="button" class="ferr so-js" id="trocar-tema" aria-label="Modo claro ou escuro" title="Modo claro ou escuro"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="8.5" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M12 3.5a8.5 8.5 0 0 1 0 17z" fill="currentColor"/></svg></button>
+      <a class="ferr" id="botao-leituras" href="/biblia/leituras/" aria-label="Leituras" title="Leituras"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path class="fita" d="M6.5 3.5h11v17l-5.5-4-5.5 4z" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/></svg></a>
+      <div class="menu-leitura" id="menu-leitura" hidden>
+        <p class="menu-titulo">Leitura aberta</p>
+        <p class="menu-nome" id="menu-nome"></p>
+        <p class="menu-pos" id="menu-pos"></p>
+        <a class="menu-item" href="/biblia/leituras/">Ver as leituras</a>
+        <button type="button" class="menu-item" id="fechar-leitura">Fechar esta leitura</button>
+      </div>
+    </div>
   </div>
 </header>
 <main id="app" tabindex="-1">
@@ -29,34 +43,41 @@
 </header>
 <blockquote class="versos-tema"><p class="par"><span class="num">33</span>Os vossos filhos serão pastores no deserto durante quarenta anos e carregarão as vossas infidelidades, até que os vossos cadáveres se acabem no deserto.</p><p class="par"><span class="num">34</span>Segundo o número dos dias em que explorastes a terra, quarenta dias, cada dia por um ano, carregareis as vossas iniquidades durante quarenta anos, e sabereis o que é ter-me contra vós.</p></blockquote>
 <div class="comentarios">
-<article class="comentario">
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Orígenes</span></summary>
   <div class="comentario-texto"><p>Depois disso o Senhor acrescenta: «Vossos filhos viverão no deserto por quarenta anos». E mostra o mistério desse número, dizendo: «Segundo o número dos dias em que explorastes a terra, quarenta dias, um ano por dia, carregareis os vossos pecados por quarenta anos». Eu tenho medo de examinar os segredos desse mistério, porque vejo que ele contém a conta dos pecados e das penas. Se a cada pecador se atribui um ano de pena pelo pecado de um só dia, e se é preciso cumprir em castigo tantos anos quantos foram os dias de pecado, receio que para nós, que pecamos todos os dias e talvez não passemos nenhum dia da vida sem pecado, nem os séculos, nem mesmo os séculos dos séculos bastem para pagar as penas. Pois no fato de aquele povo ser atormentado quarenta anos no deserto por uma culpa de quarenta dias, sem poder entrar na terra santa, parece mostrar-se uma imagem do juízo futuro, em que se há de pedir conta dos pecados; a não ser que haja talvez também alguma compensação pelas boas obras, ou pelos males que cada um recebe na sua vida, como Abraão ensinou a respeito de Lázaro.</p></div>
   <p class="autoria"><span class="autor">Orígenes</span><span class="sobre-autor">, mestre de Alexandria (c. 185–c. 254), escritor eclesiástico, não canonizado; texto da tradução latina de Rufino</span><br><span class="obra"><em>Homilias sobre Números (Homiliae in Numeros), trad. de Rufino</em>, Homilia 8, 1</span> · <a href="https://archive.org/details/origenes-werke.-bd-7-1921/page/50/mode/1up" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Orígenes</span></summary>
   <div class="comentario-texto"><p>Mas talvez alguém diga que não convém à bondade de Deus pagar o pecado de um só dia com um ano de castigos; e até dirá que, mesmo se pagasse um dia por um dia, Deus pareceria justo, mas não clemente nem benigno. Ouve, então, se por acaso conseguimos explicar a dificuldade com exemplos mais claros. Uma ferida no corpo, um osso quebrado, um tendão rompido: essas feridas costumam acontecer no espaço de uma hora, e depois, passados muitos tormentos e dores, mal se curam em muito tempo; quantos inchaços se formam no lugar, quantas dores! E se acontece de alguém ser ferido de novo e muitas vezes na mesma ferida, ou quebrar mais vezes a mesma fratura, com quanto sofrimento isso se cura, com quantos tormentos se trata! Quanto tempo leva, se é que se consegue, para voltar à saúde? E dificilmente se cura a ponto de escapar da fraqueza do corpo ou da feiura da cicatriz. Passa agora do exemplo do corpo para as feridas da alma. Cada vez que a alma peca, é ferida.</p></div>
   <p class="autoria"><span class="autor">Orígenes</span><span class="sobre-autor">, mestre de Alexandria (c. 185–c. 254), escritor eclesiástico, não canonizado; texto da tradução latina de Rufino</span><br><span class="obra"><em>Homilias sobre Números (Homiliae in Numeros), trad. de Rufino</em>, Homilia 8, 1</span> · <a href="https://archive.org/details/origenes-werke.-bd-7-1921/page/51/mode/1up" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Orígenes</span></summary>
   <div class="comentario-texto"><p>Ah, se pudéssemos ver, a cada pecado, como é ferido o nosso homem interior, como uma palavra má abre uma ferida! Não leste, dizem, que «as espadas ferem, mas não tanto quanto a língua»? A alma é ferida pela língua, é ferida pelos pensamentos e pelos desejos maus, e é quebrada e esmagada pelas obras do pecado. Se pudéssemos ver tudo isso e sentir as cicatrizes da alma ferida, certamente resistiríamos ao pecado até a morte. Mas agora, assim como os possessos ou os loucos não sentem quando são feridos, porque lhes falta o sentido natural, assim também nós, enlouquecidos pelos desejos do mundo ou embriagados pelos vícios, não conseguimos sentir quantas feridas e quantas fraturas a alma ganha pecando. Por isso é muito razoável que o tempo da pena, isto é, do cuidado e do tratamento, se prolongue, e que para cada ferida, conforme a gravidade do golpe, se estenda também o tempo de curar. [...] A conversão nesta vida e a penitência feita com fruto trarão a essas feridas um remédio rápido, porque a penitência não só cura a ferida passada, mas também não deixa a alma ser ferida de novo pelo pecado.</p></div>
   <p class="autoria"><span class="autor">Orígenes</span><span class="sobre-autor">, mestre de Alexandria (c. 185–c. 254), escritor eclesiástico, não canonizado; texto da tradução latina de Rufino</span><br><span class="obra"><em>Homilias sobre Números (Homiliae in Numeros), trad. de Rufino</em>, Homilia 8, 1</span> · <a href="https://archive.org/details/origenes-werke.-bd-7-1921/page/52/mode/1up" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Santo Agostinho</span></summary>
   <div class="comentario-texto"><p>Este mundo é, para todos os fiéis que buscam a pátria, o que foi o deserto para o povo de Israel. Andavam ainda errantes e buscavam a pátria; mas, tendo Deus por guia, não podiam se perder. O caminho deles era a ordem de Deus. Pois o percurso em que rodaram durante quarenta anos se faz em pouquíssimas etapas, como todos sabem. Eram retardados porque estavam sendo exercitados, não porque estavam sendo abandonados. [...] Somos exercitados pelos trabalhos desta vida e educados pelas tentações do tempo presente. Mas, se não quereis morrer de sede neste deserto, bebei a caridade. É a fonte que o Senhor quis pôr aqui, para não desfalecermos no caminho; e a beberemos com mais abundância quando chegarmos à pátria.</p></div>
   <p class="autoria"><span class="autor">Santo Agostinho</span><span class="sobre-autor">, bispo de Hipona (354–430), Doutor da Igreja</span><br><span class="obra"><em>Comentário à Primeira Carta de João (In epistulam Ioannis ad Parthos tractatus)</em>, Tratado 7, 1</span> · <a href="https://www.augustinus.it/latino/commento_lsg/omelia_07_testo.htm" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Santo Agostinho</span></summary>
   <div class="comentario-texto"><p>«Quarenta anos estive perto desta geração.» Que quer dizer «estive perto»? Mostrei-me presente com os meus sinais e prodígios, não um dia nem dois, mas: «Quarenta anos estive perto desta geração, e disse: estes andam sempre errantes no coração». Os quarenta anos significam o mesmo que «sempre». Pois este número quarenta indica a totalidade dos séculos, como se os séculos se completassem nesse número. Por isso o Senhor jejuou quarenta dias, foi tentado quarenta dias no deserto e esteve quarenta dias com os discípulos depois da ressurreição. Nos primeiros quarenta dias mostrou a tentação; nos outros quarenta, a consolação: porque, quando somos tentados, somos sem dúvida também consolados. O seu Corpo, que é a Igreja, tem de passar por tentações neste mundo; mas não lhe falta o consolador que disse: «Eis que estou convosco até o fim do mundo». [...] Fiquei com eles quarenta anos para mostrar o tipo de gente que me exaspera sempre, até o fim do mundo: por aqueles quarenta anos quis significar o mundo inteiro.</p></div>
   <p class="autoria"><span class="autor">Santo Agostinho</span><span class="sobre-autor">, bispo de Hipona (354–430), Doutor da Igreja</span><br><span class="obra"><em>Comentários aos Salmos (Enarrationes in Psalmos)</em>, Sl 94, 14 (sobre o v. 10)</span> · <a href="https://www.augustinus.it/latino/esposizioni_salmi/esposizione_salmo_115_testo.htm" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Ruperto de Deutz</span></summary>
   <div class="comentario-texto"><p>Chamado do Egito, [Cristo] foi tentado quarenta dias no deserto. Ali, outrora, Israel, saído do Egito, foi provado, porque tentou a Deus no deserto durante quarenta anos; porque pecou difamando a terra da promessa, que explorara durante quarenta dias; e por isso, contando-lhe Deus, o juiz, um ano por cada dia, ficou ali, como foi dito, quarenta anos. Este, porém, que não tentou, mas foi tentado, logo depois dos quarenta dias começou a entrar na verdadeira terra da promessa e a introduzir nela os seus ouvintes, pregando, expulsando os demônios e fazendo os outros milagres, padecendo a morte, ressuscitando dos mortos e subindo ao céu.</p></div>
   <p class="autoria"><span class="autor">Ruperto de Deutz</span><span class="sobre-autor">, abade beneditino (c. 1075–1129), teólogo</span><br><span class="obra"><em>Comentário aos doze profetas menores (In Osee)</em>, In Osee V (sobre Os 11,1)</span> · <a href="https://mlat.uzh.ch/browser/cps_2.RupTui.CoInDuP" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São Francisco de Sales</span></summary>
   <div class="comentario-texto"><p>Mas coragem, eu lhe peço, minha caríssima Irmã: a senhora sofreu o incômodo do caminho só três anos e já quer o descanso. Lembre-se, porém, de duas coisas. A primeira: os filhos de Israel passaram quarenta anos pelos desertos antes de chegar à terra onde lhes fora prometido morar; e, no entanto, seis semanas podiam bastar para toda aquela viagem, e com folga. E não lhes era permitido perguntar por que Deus os fazia dar tantas voltas e os conduzia por caminhos tão ásperos; e todos os que murmuraram por isso morreram antes da chegada. […] Quisera Deus que olhássemos pouco para as condições do caminho que vamos abrindo, e tivéssemos os olhos fixos naquele que nos conduz e na terra bem-aventurada para onde nos leva. Que nos importa se vamos pelo deserto ou pelos campos, contanto que Deus esteja conosco e que vamos para o Paraíso?</p></div>
   <p class="autoria"><span class="autor">São Francisco de Sales</span><span class="sobre-autor">, bispo de Genebra (1567–1622), Doutor da Igreja</span><br><span class="obra"><em>Carta CCLXXIII, à Baronesa de Chantal (Santa Joana Francisca de Chantal)</em>, Annecy, 18 de fevereiro de 1605</span> · <a href="https://www.donboscosanto.eu/francesco_di_sales/13-Oeuvres%20de%20S.%20Francois%20de%20Sales-Tome%20XIII-Vol.3-Lettres-web.pdf" rel="noopener">texto original</a></p>
-</article>
+</details>
 </div>
 <nav class="passos" aria-label="Navegação entre temas"><a class="passo ant" href="/biblia/numeros/14/comentarios/4/os-pequenos/" rel="prev"><span class="dir">← Anterior</span><span class="alvo">Os pequenos entram na terra</span></a><a class="passo seg" href="/biblia/numeros/14/comentarios/4/so-dois/" rel="next"><span class="dir">Seguinte →</span><span class="alvo">Só Josué e Caleb</span></a></nav>
 </article>

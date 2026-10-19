@@ -8,8 +8,9 @@
 <meta name="description" content="Deus vê os perigos que nós não vemos e ouve sempre, mesmo quando parece não ouvir.">
 <meta name="color-scheme" content="light dark">
 <link rel="icon" href="/biblia/favicon.svg" type="image/svg+xml">
-<link rel="stylesheet" href="/biblia/css/estilo.css?v=28b77982">
-<script defer src="/biblia/js/biblia.js?v=59ac4c4e"></script>
+<script src="/biblia/js/preferencias.js?v=e879b9fe"></script>
+<link rel="stylesheet" href="/biblia/css/estilo.css?v=0bc11739">
+<script defer src="/biblia/js/biblia.js?v=38a000ee"></script>
 </head>
 <body class="pag-tema">
 <a class="pular" href="#app">Ir para o conteúdo</a>
@@ -17,6 +18,19 @@
   <div class="topo-int">
     <a class="marca" href="/biblia/">Bíblia</a>
     <nav class="trilha" aria-label="Trilha de navegação"><a href="/biblia/salmos/">Salmos</a><span class="sep">›</span><a href="/biblia/salmos/34/">Salmo 34</a><span class="sep">›</span><a href="/biblia/salmos/34/comentarios/">Comentários</a><span class="sep">›</span><span aria-current="page">Os olhos e os ouvidos do Senhor</span></nav>
+    <div class="ferramentas">
+      <button type="button" class="ferr so-js" id="letra-menor" aria-label="Letra menor" title="Letra menor"><span class="a-menor">A</span>−</button>
+      <button type="button" class="ferr so-js" id="letra-maior" aria-label="Letra maior" title="Letra maior"><span class="a-maior">A</span>+</button>
+      <button type="button" class="ferr so-js" id="trocar-tema" aria-label="Modo claro ou escuro" title="Modo claro ou escuro"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="8.5" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M12 3.5a8.5 8.5 0 0 1 0 17z" fill="currentColor"/></svg></button>
+      <a class="ferr" id="botao-leituras" href="/biblia/leituras/" aria-label="Leituras" title="Leituras"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path class="fita" d="M6.5 3.5h11v17l-5.5-4-5.5 4z" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/></svg></a>
+      <div class="menu-leitura" id="menu-leitura" hidden>
+        <p class="menu-titulo">Leitura aberta</p>
+        <p class="menu-nome" id="menu-nome"></p>
+        <p class="menu-pos" id="menu-pos"></p>
+        <a class="menu-item" href="/biblia/leituras/">Ver as leituras</a>
+        <button type="button" class="menu-item" id="fechar-leitura">Fechar esta leitura</button>
+      </div>
+    </div>
   </div>
 </header>
 <main id="app" tabindex="-1">
@@ -29,26 +43,31 @@
 </header>
 <blockquote class="versos-tema"><p class="poesia"><span class="linha"><span class="calha"><span class="num">16</span></span><span class="txt">Os olhos do Senhor estão sobre os justos,</span></span><span class="linha"><span class="calha"></span><span class="txt">e os seus ouvidos, atentos ao seu clamor.</span></span></p><p class="poesia"><span class="linha"><span class="calha"><span class="num">17</span></span><span class="txt">A face do Senhor está contra os que fazem o mal,</span></span><span class="linha"><span class="calha"></span><span class="txt">para apagar da terra a lembrança deles.</span></span></p></blockquote>
 <div class="comentarios">
-<article class="comentario">
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São Cirilo de Alexandria</span></summary>
   <div class="comentario-texto"><p>O Senhor olha os justos, diz ele, com olhar alegre, evidentemente, como um pai que ama os filhos e vigia por toda parte para que não tropecem nos escândalos da vida nem caiam presos nas armadilhas do inimigo, mas, fortalecidos pela sua graça, percorram sem cansaço todo o caminho do bem.</p></div>
   <p class="autoria"><span class="autor">São Cirilo de Alexandria</span><span class="sobre-autor">, patriarca de Alexandria (c. 376–444), Doutor da Igreja</span><br><span class="obra"><em>Exposição sobre os Salmos (Expositio in Psalmos)</em>, Sl 33, v. 16</span> · <a href="https://khazarzar.skeptik.net/pgm/PG_Migne/Cyril%20of%20Alexandria_PG%2068-77/Expositio%20in%20Psalmos.pdf" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São Roberto Belarmino</span></summary>
   <div class="comentario-texto"><p>Se os justos percebem os males que os ameaçam e clamam a Deus, encontram os ouvidos dele abertos e atentos; se acaso não os percebem, Deus vigia por eles e os livra de muitíssimos males que os próprios justos nem veem nem entendem: é para isso que «os olhos do Senhor estão sobre os justos», para guardá-los dos males que os olhos deles não alcançam. Admirável bondade de Deus! (...) Mas os justos nem sempre são ouvidos por Deus? Ao contrário, são sempre ouvidos; se Deus não faz o que pedem, é porque não lhes convém. Ele é médico: se não atende ao pedido de não tomar o remédio amargo, atende ao pedido de que, por esse remédio, a doença seja curada.</p></div>
   <p class="autoria"><span class="autor">São Roberto Belarmino</span><span class="sobre-autor">, jesuíta (1542–1621), cardeal, Doutor da Igreja</span><br><span class="obra"><em>Explicação dos Salmos (Explanatio in Psalmos)</em>, Sl 33, v. 15 (o nosso v. 16)</span> · <a href="https://archive.org/details/operaomnia10bell" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Santo Agostinho</span></summary>
   <div class="comentario-texto"><p>Tu só guarda os caminhos dele, e, quando estás em aflição, ele te ouve. Mas ele é médico, e tu ainda tens não sei que coisa podre. Gritas, mas ele ainda corta, e não tira a mão enquanto não tiver cortado o quanto lhe parece. Pois é cruel o médico que atende o homem e poupa a ferida e a podridão. Como as mães esfregam os filhos no banho para a saúde deles? Os pequeninos não gritam nas mãos delas? E elas são cruéis por não pouparem, por não atenderem às lágrimas? Não estão cheias de amor? E, no entanto, as crianças gritam e não são poupadas. Assim também o nosso Deus está cheio de caridade; mas parece não ouvir justamente para curar e poupar para sempre.</p></div>
   <p class="autoria"><span class="autor">Santo Agostinho</span><span class="sobre-autor">, bispo de Hipona (354–430), Doutor da Igreja</span><br><span class="obra"><em>Comentários aos Salmos (Enarrationes in Psalmos)</em>, Sl 33, sermão 2, 20</span> · <a href="https://www.augustinus.it/latino/esposizioni_salmi/esposizione_salmo_045_testo.htm" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Cassiodoro</span></summary>
   <div class="comentario-texto"><p>E para que os maus não dissessem: «Ele dá atenção aos justos, mas não olha para nós; façamos o que quisermos sem medo, já que não merecemos ser vistos por ele», anuncia que a face do Senhor, isto é, o seu conhecimento, está sobre os maus: dá atenção a eles sem olhar para eles com favor, e não olha com favor, mas conhece os seus atos. Temamos, pois, fazer o mal, sabendo que não escapa ao seu conhecimento. (...) Entende que ele vê uns e outros, mas com resultado diferente: os justos, para ouvi-los; os pecadores, para destruí-los.</p></div>
   <p class="autoria"><span class="autor">Cassiodoro</span><span class="sobre-autor">, senador romano e monge (c. 485–c. 580), fundador do mosteiro de Vivário</span><br><span class="obra"><em>Explicação dos Salmos (Expositio Psalmorum)</em>, Sl 33, v. 16 (o nosso v. 17)</span> · <a href="https://mlat.uzh.ch/browser/cps_2.CasViv.ExInPs" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São Basílio Magno</span></summary>
   <div class="comentario-texto"><p>O homem não verá a face do Senhor e continuará vivo; mas os anjos dos pequeninos que estão na Igreja veem sempre a face do nosso Pai que está nos céus. Porque agora, pela fraqueza da carne que nos envolve, é impossível para nós suportarmos a visão da sua aparição gloriosa; mas os anjos, como não têm nenhum véu parecido com a nossa carne, nada os impede de fixar continuamente os olhos na face da glória de Deus. Assim também nós, quando nos tornarmos filhos da ressurreição, seremos julgados dignos do conhecimento face a face.</p></div>
   <p class="autoria"><span class="autor">São Basílio Magno</span><span class="sobre-autor">, bispo de Cesareia da Capadócia (c. 330–379), Doutor da Igreja</span><br><span class="obra"><em>Homilia sobre o Salmo 33 (Homiliae in Psalmos)</em>, Hom. Sl 33, 11</span> · <a href="https://khazarzar.skeptik.net/pgm/PG_Migne/Basilius%20Caesariensis_PG%2029-32/Homiliae%20super%20Psalmos.pdf" rel="noopener">texto original</a></p>
-</article>
+</details>
 </div>
 <nav class="passos" aria-label="Navegação entre temas"><a class="passo ant" href="/biblia/salmos/34/comentarios/lingua-e-paz/" rel="prev"><span class="dir">← Anterior</span><span class="alvo">Guardar a língua, fazer o bem, correr atrás da paz</span></a><a class="passo seg" href="/biblia/salmos/34/comentarios/os-males-do-justo/" rel="next"><span class="dir">Seguinte →</span><span class="alvo">Muitos são os males do justo</span></a></nav>
 </article>

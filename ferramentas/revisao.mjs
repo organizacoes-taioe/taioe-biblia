@@ -1,30 +1,34 @@
-// Monta a página de revisão do Gere (/admin/biblia/, só o revisor geral) a partir dos capítulos
-// «em revisão» (escolhas de tradução, notas, divisão e o que entra no registro de escolhas da Bíblia
-// inteira) e dos estudos de palavra de revisao/estudos/*.json. Os comentários dos Padres não entram:
-// o Gere não os aprova um por um; lê no site e pede as mudanças na conversa (17/10).
+// Monta as duas páginas de revisão do Gere (só o revisor geral):
+// - /admin/biblia/: os capítulos «em revisão» (escolhas de tradução, notas, divisão e o que entra
+//   no registro de escolhas da Bíblia inteira) e os estudos de palavra de revisao/estudos/*.json;
+// - /admin/biblia-comentarios/ (pedido dele, 19/10): os comentários dos Padres, à parte, para não
+//   misturar com o que é prioritário. Cada título de tema, cada resumo de tema e cada comentário
+//   que ele ainda não aprovou (`revisto`); os comentários continuam no site enquanto isso.
+// Sem textos explicativos nas páginas (ele é o único leitor, 19/10).
 //
-//   node ferramentas/revisao.mjs     grava ../infra/dados/paginas/biblia.json
+//   node ferramentas/revisao.mjs     grava ../infra/dados/paginas/biblia.json e biblia-comentarios.json
 //
-// Depois, no taioe-infra: python dados/paginas/gerar.py dados/paginas/biblia.json, commit, e
-// Catálogo (taioe-infra, dados/paginas/biblia.sql) no teste e na produção. As respostas dele
-// voltam pelo workflow Respostas (ferramentas/respostas.sh).
+// Depois, no taioe-infra: python dados/paginas/gerar.py dados/paginas/<arquivo>.json, commit, e
+// Catálogo (taioe-infra, dados/paginas/<arquivo>.sql) no teste e na produção. As respostas dele
+// voltam pelo workflow Respostas (ferramentas/respostas.sh; as dos comentários com `comentarios`).
 import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 
 const RAIZ = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const C = path.join(RAIZ, 'conteudo');
-const DESTINO = path.resolve(RAIZ, '..', 'infra', 'dados', 'paginas', 'biblia.json');
+const PAGINAS = path.resolve(RAIZ, '..', 'infra', 'dados', 'paginas');
 const livros = JSON.parse(fs.readFileSync(path.join(C, 'livros.json'), 'utf8'));
 const letra = (i) => (i < 26 ? String.fromCharCode(97 + i) : letra(Math.floor(i / 26) - 1) + letra(i % 26));
 const grego = (n) => (n <= 8 || n >= 148 ? n : n <= 10 ? 9 : n <= 113 ? n - 1 : n <= 115 ? 113 : n === 116 ? '114–115' : n <= 146 ? n - 1 : '146–147');
 
-const capitulos = [];
+const capitulos = [], comentarios = [];
 for (const l of livros) {
   const dir = path.join(C, l.id);
   if (!fs.existsSync(dir)) continue;
   for (const f of fs.readdirSync(dir).filter((x) => x.endsWith('.json')).sort()) {
     const c = JSON.parse(fs.readFileSync(path.join(dir, f), 'utf8'));
+    paraComentarios(c, l);
     if (c.estado !== 'em revisão') continue;
     const id = `${c.livro}-${c.cap}`;
     const rotulo = c.livro === 'salmos' ? `Salmo ${c.cap}${String(grego(c.cap)) !== String(c.cap) ? ` (${grego(c.cap)})` : ''}` : `${l.nome} ${c.cap}`;
@@ -35,7 +39,6 @@ for (const l of livros) {
 
     if (rv.escolhas && rv.escolhas.length) secoes.push({
       id: 'escolhas', titulo: 'Escolhas de tradução',
-      texto: 'O texto do site já está com a opção recomendada. Se você escolher outra, eu troco no texto e registro a regra para os capítulos seguintes.',
       itens: rv.escolhas.map((e) => ({ id: `${id}:escolha:${e.id}`, tipo: 'escolha', titulo: e.titulo, ref: e.ref, contexto: e.contexto, opcoes: e.opcoes })),
     });
 
@@ -45,7 +48,6 @@ for (const l of livros) {
       .map((n, i) => ({ ...n, letra: letra(i) })).filter((n) => !n.revista);
     if (notas.length) secoes.push({
       id: 'notas', titulo: 'Notas',
-      texto: 'Uma por uma: aprovar, alterar o texto ou excluir. A explicação me ajuda a acertar o tom das próximas.',
       itens: notas.map((n) => ({ id: `${id}:nota:${n.id}`, tipo: 'nota', ref: `${abrev} ${c.cap},${n.v}`, letra: n.letra, versiculo: verso(n.v), texto: n.texto, origem: n.origem ? `Origem: ${n.origem}.` : '' })),
     });
 
@@ -56,12 +58,10 @@ for (const l of livros) {
 
     if (rv.registro && rv.registro.length) secoes.push({
       id: 'registro', titulo: 'Para a Bíblia inteira',
-      texto: 'Escolhas que este capítulo fixou e que passam a valer nos capítulos seguintes (ficam no ESCOLHAS.md do repositório).',
       itens: rv.registro.map((r) => ({ id: `${id}:registro:${r.id}`, tipo: 'avaliacao', titulo: r.titulo, texto: r.texto })),
     });
 
-    secoes.push({ id: 'geral', titulo: 'Observações gerais', itens: [{ id: `${id}:geral`, tipo: 'avaliacao', titulo: 'Sobre o capítulo como um todo', texto: 'Qualquer outra coisa: o tom das notas, a tradução, o que faltou. Os comentários dos Padres ficam no site; quando quiser mudar algum, é só pedir na conversa.', rotuloAprovar: 'Nada a acrescentar' }] });
-
+    if (!secoes.length) continue;
     capitulos.push({ id, rotulo, url: `/biblia/${c.livro}/${c.cap}/`, estado: `${c.estado}, atualizado em ${c.atualizado.split('-').reverse().join('/')}`, secoes });
   }
 }
@@ -88,12 +88,38 @@ if (fs.existsSync(ESTUDOS)) {
   }
 }
 
-const pagina = {
-  slug: 'biblia',
-  titulo: 'Bíblia Taioé: revisão',
-  intro: 'Os capítulos e os estudos que esperam a sua avaliação. Cada resposta grava sozinha, assim que você clica ou para de digitar; pode mudar quando quiser. Eu leio as respostas, aplico no texto e uso as explicações nos capítulos seguintes.',
-  capitulos,
-};
-fs.writeFileSync(DESTINO, JSON.stringify(pagina, null, 1) + '\n');
-const n = capitulos.reduce((s, c) => s + c.secoes.reduce((t, x) => t + x.itens.filter((i) => i.tipo !== 'casos').length, 0), 0);
-console.log(`${DESTINO}: ${capitulos.length} capítulo(s), ${n} itens`);
+// Os comentários: um bloco por tema, com o título, o resumo e os comentários ainda não aprovados.
+// Ids: <livro>-<cap>:tt|tr:<trecho>:<tema> (título, resumo) e <livro>-<cap>:c:<trecho>:<tema>:<item>.
+function paraComentarios(c, l) {
+  const id = `${c.livro}-${c.cap}`;
+  const rotulo = c.livro === 'salmos' ? `Salmo ${c.cap}${String(grego(c.cap)) !== String(c.cap) ? ` (${grego(c.cap)})` : ''}` : `${l.nome} ${c.cap}`;
+  const umSo = c.trechos.length === 1 && !c.trechos[0].titulo;
+  const secoes = [];
+  for (const t of c.trechos) {
+    const com = c.comentarios && c.comentarios[t.id];
+    for (const x of (com && com.temas) || []) {
+      const rev = x.revisto || [];
+      const itens = [];
+      if (!rev.includes('titulo')) itens.push({ id: `${id}:tt:${t.id}:${x.id}`, tipo: 'tema-titulo', texto: x.titulo });
+      if (x.resumo && !rev.includes('resumo')) itens.push({ id: `${id}:tr:${t.id}:${x.id}`, tipo: 'tema-resumo', texto: x.resumo });
+      for (const it of x.itens) if (!it.revisto) itens.push({ id: `${id}:c:${t.id}:${x.id}:${it.id}`, tipo: 'comentario', autor: it.autor, sobre: it.sobre, obra: it.obra, passagem: it.passagem, link: it.link, texto: it.texto });
+      if (!itens.length) continue;
+      secoes.push({
+        id: `${t.id}-${x.id}`, titulo: x.titulo,
+        sub: [umSo ? '' : t.titulo, (x.versiculos || []).length ? `v. ${x.versiculos.join(', ')}` : ''].filter(Boolean).join(' · '),
+        url: `/biblia/${c.livro}/${c.cap}/comentarios/${umSo ? '' : t.id + '/'}${x.id}/`,
+        itens,
+      });
+    }
+  }
+  if (secoes.length) comentarios.push({ id, rotulo, url: `/biblia/${c.livro}/${c.cap}/`, secoes });
+}
+
+function gravar(arquivo, pagina) {
+  const destino = path.join(PAGINAS, arquivo);
+  fs.writeFileSync(destino, JSON.stringify(pagina, null, 1) + '\n');
+  const n = pagina.capitulos.reduce((s, c) => s + c.secoes.reduce((t, x) => t + x.itens.filter((i) => i.tipo !== 'casos').length, 0), 0);
+  console.log(`${destino}: ${pagina.capitulos.length} capítulo(s), ${n} itens`);
+}
+gravar('biblia.json', { slug: 'biblia', titulo: 'Bíblia Taioé: revisão', capitulos });
+gravar('biblia-comentarios.json', { slug: 'biblia-comentarios', titulo: 'Bíblia Taioé: comentários', capitulos: comentarios });

@@ -8,8 +8,9 @@
 <meta name="description" content="O cacho de uvas levado numa vara, a prova de que a terra era boa, é para os Padres a figura de Cristo na cruz.">
 <meta name="color-scheme" content="light dark">
 <link rel="icon" href="/biblia/favicon.svg" type="image/svg+xml">
-<link rel="stylesheet" href="/biblia/css/estilo.css?v=28b77982">
-<script defer src="/biblia/js/biblia.js?v=59ac4c4e"></script>
+<script src="/biblia/js/preferencias.js?v=e879b9fe"></script>
+<link rel="stylesheet" href="/biblia/css/estilo.css?v=0bc11739">
+<script defer src="/biblia/js/biblia.js?v=38a000ee"></script>
 </head>
 <body class="pag-tema">
 <a class="pular" href="#app">Ir para o conteúdo</a>
@@ -17,6 +18,19 @@
   <div class="topo-int">
     <a class="marca" href="/biblia/">Bíblia</a>
     <nav class="trilha" aria-label="Trilha de navegação"><a href="/biblia/numeros/">Números</a><span class="sep">›</span><a href="/biblia/numeros/13/">Números 13</a><span class="sep">›</span><a href="/biblia/numeros/13/comentarios/2/">Comentários</a><span class="sep">›</span><span aria-current="page">O cacho pendurado no madeiro</span></nav>
+    <div class="ferramentas">
+      <button type="button" class="ferr so-js" id="letra-menor" aria-label="Letra menor" title="Letra menor"><span class="a-menor">A</span>−</button>
+      <button type="button" class="ferr so-js" id="letra-maior" aria-label="Letra maior" title="Letra maior"><span class="a-maior">A</span>+</button>
+      <button type="button" class="ferr so-js" id="trocar-tema" aria-label="Modo claro ou escuro" title="Modo claro ou escuro"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="8.5" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M12 3.5a8.5 8.5 0 0 1 0 17z" fill="currentColor"/></svg></button>
+      <a class="ferr" id="botao-leituras" href="/biblia/leituras/" aria-label="Leituras" title="Leituras"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path class="fita" d="M6.5 3.5h11v17l-5.5-4-5.5 4z" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/></svg></a>
+      <div class="menu-leitura" id="menu-leitura" hidden>
+        <p class="menu-titulo">Leitura aberta</p>
+        <p class="menu-nome" id="menu-nome"></p>
+        <p class="menu-pos" id="menu-pos"></p>
+        <a class="menu-item" href="/biblia/leituras/">Ver as leituras</a>
+        <button type="button" class="menu-item" id="fechar-leitura">Fechar esta leitura</button>
+      </div>
+    </div>
   </div>
 </header>
 <main id="app" tabindex="-1">
@@ -29,38 +43,46 @@
 </header>
 <blockquote class="versos-tema"><p class="par"><span class="num">23</span>Chegaram ao vale de Escol, cortaram ali um ramo com um só cacho de uvas e o levaram numa vara, entre dois; levaram também romãs e figos.</p><p class="par"><span class="num">24</span>Aquele lugar foi chamado vale de Escol, por causa do cacho que os filhos de Israel cortaram ali.</p></blockquote>
 <div class="comentarios">
-<article class="comentario">
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Santo Agostinho</span></summary>
   <div class="comentario-texto"><p>Há outro modo de entender os lagares, sem se afastar do sentido das Igrejas. Também a Palavra divina pode ser entendida como uva: pois o Senhor foi chamado cacho de uva, aquele que os enviados à frente do povo de Israel trouxeram da terra prometida pendurado num madeiro, como crucificado. A Palavra divina, quando, por necessidade de se exprimir, toma o som da voz para chegar aos ouvidos dos que escutam, encerra o sentido como o vinho no som da voz, que é como a casca da uva; e assim esta uva chega aos ouvidos como ao pisadouro dos lagares.</p></div>
   <p class="autoria"><span class="autor">Santo Agostinho</span><span class="sobre-autor">, bispo de Hipona (354–430), Doutor da Igreja</span><br><span class="obra"><em>Comentários aos Salmos (Enarrationes in Psalmos)</em>, Sl 8, 2</span> · <a href="https://mlat.uzh.ch/browser/cps_2.AugHip.EnInPs" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São Gregório de Nissa</span></summary>
   <div class="comentario-texto"><p>E tu, ouvindo falar de Jesus [Josué], que anuncia aquela terra e de um cacho suspenso num madeiro, percebes para onde também ele [Moisés] olhava, para estar seguro em suas esperanças. Pois o cacho pendente do madeiro, quem é senão aquele cacho que, nos últimos dias, foi pendurado no madeiro, cujo sangue se torna bebida de salvação para os que creem? Moisés já o anunciava como em enigma: «beberam vinho, sangue da uva», palavras que indicam a paixão salvadora.</p></div>
   <p class="autoria"><span class="autor">São Gregório de Nissa</span><span class="sobre-autor">, bispo de Nissa (c. 335–c. 395), irmão de São Basílio</span><br><span class="obra"><em>Vida de Moisés (De vita Moysis)</em>, Vida de Moisés II, 267–268</span> · <a href="https://khazarzar.skeptik.net/pgm/PG_Migne/Gregory%20of%20Nyssa_PG%2044-46/De%20vita%20Mosis.pdf" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Santo Ambrósio</span></summary>
   <div class="comentario-texto"><p>Mas ele não disse só que é a videira; chamou-se também cacho, por voz profética, quando Moisés, por ordem do Senhor, enviou os exploradores ao vale do cacho. O que é aquele vale, senão a humildade da encarnação e a fecundidade da paixão? E penso que se chamou cacho porque daquela vinha transplantada do Egito, isto é, da família dos judeus, brotou um fruto útil ao mundo.</p></div>
   <p class="autoria"><span class="autor">Santo Ambrósio</span><span class="sobre-autor">, bispo de Milão (c. 339–397), Doutor da Igreja</span><br><span class="obra"><em>A fé (De fide)</em>, IV, 12, 167</span> · <a href="https://mlat.uzh.ch/browser/cps_2.AmbMed.DeFid" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São Beda, o Venerável</span></summary>
   <div class="comentario-texto"><p>Daí se vê claramente que há uma só Igreja em todos os seus santos, uma mesma fé de todos os eleitos, dos que precederam e dos que seguiram a sua vinda na carne: assim como nós somos salvos pela fé na sua encarnação, paixão e ressurreição já realizadas, assim também eles, crendo com toda a certeza na encarnação, paixão e ressurreição que haviam de vir, esperavam ser salvos pelo mesmo autor da vida. É o que bem sugerem aqueles dois homens que levavam numa vara, da terra da promessa ao povo que esperava no deserto, o cacho de uvas. O cacho posto sobre a vara é o Senhor levantado na cruz, que diz: «Eu sou a videira verdadeira». [...] Dois homens levam o cacho na vara, para provar ao povo a fertilidade da terra da promessa: porque os pregadores dos dois Testamentos, que pela revelação do Senhor aprenderam a glória da pátria celeste, não cessam de dar a conhecer aos povos o mistério da sua paixão, para que daí se possa conjecturar que prêmios dará no céu aos fiéis aquele que, pela salvação deles, enviou à terra o seu Filho único para padecer. E o fato de os dois carregarem o cacho do mesmo modo, mas não poderem vê-lo do mesmo modo, significa o que o próprio Salvador disse aos discípulos, glorificados com a graça de vê-lo: «Felizes os olhos que veem o que vós vedes».</p></div>
   <p class="autoria"><span class="autor">São Beda, o Venerável</span><span class="sobre-autor">, monge (c. 673–735), Doutor da Igreja</span><br><span class="obra"><em>Homilias sobre os Evangelhos (Homiliae), II, 9, na Ascensão do Senhor</em>, Hom. II, 9</span> · <a href="https://mlat.uzh.ch/browser/cps_2.Beda.Homili8" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Ruperto de Deutz</span></summary>
   <div class="comentario-texto"><p>Chegamos ao monte do cacho; foi cortado o ramo com a sua uva, que dois homens carregam numa vara. Pois o que é a torrente do cacho, senão a paixão de nosso Senhor Jesus Cristo? Dele diz a esposa no Cântico: «O meu amado é para mim um cacho de cipro nas vinhas de Engadi». E da sua paixão disse o Profeta: «Beberá da torrente no caminho». Explorando, pois, chegamos até a torrente do cacho: lendo os profetas, entendemos que era preciso que Cristo padecesse e ressuscitasse dos mortos. E como foi cortado o ramo com a sua uva, senão porque o ferro da paixão cortou a sua alma, e ela saiu da carne junto com a dulcíssima divindade que nela estava enxertada? [...] O ramo cortado, então, dois homens o carregam na vara, isto é, dois povos que creem adoram na cruz o Cristo que padeceu e morreu, e confessam que ele ressuscitou dos mortos.</p></div>
   <p class="autoria"><span class="autor">Ruperto de Deutz</span><span class="sobre-autor">, abade beneditino (c. 1075–1129), teólogo</span><br><span class="obra"><em>A Trindade e as suas obras (De Trinitate et operibus eius), Sobre Números</em>, In Numeros I, 37</span> · <a href="https://mlat.uzh.ch/browser/cps_2.RupTui.DeTrEtO" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Santo Agostinho</span></summary>
   <div class="comentario-texto"><p>Se não lavou no vinho a sua veste: pois a veste é a Igreja gloriosa, que ele apresenta a si mesmo sem mancha nem ruga, à qual também se diz por Isaías: «Ainda que os vossos pecados sejam como púrpura, eu os tornarei brancos como a neve». E como, senão pelos pecados perdoados? Em que vinho, então, senão naquele de que se diz que será derramado por muitos para a remissão dos pecados? Pois ele é aquele cacho que pendeu do madeiro. Por isso, vê o que acrescenta aqui: «e no sangue da uva, o seu manto».</p></div>
   <p class="autoria"><span class="autor">Santo Agostinho</span><span class="sobre-autor">, bispo de Hipona (354–430), Doutor da Igreja</span><br><span class="obra"><em>Contra Fausto, o maniqueu (Contra Faustum Manichaeum)</em>, XII, 42 (sobre Gn 49,11)</span> · <a href="https://mlat.uzh.ch/browser/cps_2.AugHip.CoFaMa" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São Jerônimo</span></summary>
   <div class="comentario-texto"><p>De Betsur [Paula] chegou a Escol, que se traduz «cacho». Dali, em testemunho da terra fertilíssima e como figura daquele que diz: «Pisei sozinho o lagar, e das nações nenhum homem estava comigo», os exploradores levaram um cacho de tamanho admirável. Pouco depois entrou nas moradas de Sara, viu o berço de Isaac e os vestígios do carvalho de Abraão, sob o qual ele viu o dia de Cristo e se alegrou. Dali subiu a Hebron, que é Cariat-Arbe, isto é, a cidade dos quatro homens, Abraão, Isaac, Jacó e o grande Adão, que os hebreus julgam, segundo o livro de Josué, ter sido sepultado ali; embora muitos pensem que o quarto é Caleb, cujo túmulo se mostra ao lado.</p></div>
   <p class="autoria"><span class="autor">São Jerônimo</span><span class="sobre-autor">, presbítero e tradutor da Bíblia (c. 347–420), Doutor da Igreja</span><br><span class="obra"><em>Cartas (Epistulae), 108, epitáfio de Santa Paula</em>, Ep. 108, 11</span> · <a href="https://mlat.uzh.ch/browser/cps_2.HieStr.Episto32" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São Pedro Damião</span></summary>
   <div class="comentario-texto"><p>Com os dois carregadores postos de um lado e de outro, um à frente e outro atrás, o cacho ia no meio: porque o nosso Redentor, enquanto os Pais do Antigo Testamento anunciam que há de vir e os pregadores do Novo anunciam que já veio, é levado como um cacho numa vara, para que o coração dos fiéis se inflame a conquistar a terra da promessa do alto. A vara levada aos ombros dos carregadores é a lei divina posta sobre o pescoço dos homens, cujas duas partes aquele cacho no meio uniu; porque o nosso Salvador, «que dos dois fez um só», juntou à doutrina do Evangelho os mandamentos da lei e dos profetas. [...] Pela terra da promessa também se pode entender, com razão, o próprio corpo da santíssima Mãe de Deus, do qual o nosso Redentor quis germinar como homem, qual cacho singular, segundo o que está escrito: «A verdade brotou da terra». E com razão a carne da santíssima Virgem se chama terra da promessa, pois muito antes de dar à luz o Salvador do mundo foi prometida de muitos modos pelos profetas. Ela verdadeiramente manou leite e mel quando, em virgindade intacta, deu ao mundo o Deus e homem.</p></div>
   <p class="autoria"><span class="autor">São Pedro Damião</span><span class="sobre-autor">, cardeal bispo de Óstia (1007–1072), Doutor da Igreja</span><br><span class="obra"><em>Coletânea sobre o Antigo Testamento (Collectanea in Vetus Testamentum), excerto do sermão sobre a Natividade de Maria</em>, Collectanea, Números, cap. V</span> · <a href="https://mlat.uzh.ch/browser/cps_2.PetDam.CoInVeT" rel="noopener">texto original</a></p>
-</article>
+</details>
 </div>
 <nav class="passos" aria-label="Navegação entre temas"><a class="passo ant" href="/biblia/numeros/13/comentarios/2/amostra-da-terra/" rel="prev"><span class="dir">← Anterior</span><span class="alvo">Uma amostra da terra</span></a><a class="passo seg" href="/biblia/numeros/13/comentarios/2/os-dois-carregadores/" rel="next"><span class="dir">Seguinte →</span><span class="alvo">Os dois que carregam o cacho</span></a></nav>
 </article>

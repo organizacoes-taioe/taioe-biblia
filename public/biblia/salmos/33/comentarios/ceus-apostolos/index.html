@@ -8,8 +8,9 @@
 <meta name="description" content="Os «céus» firmados pela Palavra e pelo Espírito são também os apóstolos e os santos, que levam ao mundo a chuva do Evangelho.">
 <meta name="color-scheme" content="light dark">
 <link rel="icon" href="/biblia/favicon.svg" type="image/svg+xml">
-<link rel="stylesheet" href="/biblia/css/estilo.css?v=28b77982">
-<script defer src="/biblia/js/biblia.js?v=59ac4c4e"></script>
+<script src="/biblia/js/preferencias.js?v=e879b9fe"></script>
+<link rel="stylesheet" href="/biblia/css/estilo.css?v=0bc11739">
+<script defer src="/biblia/js/biblia.js?v=38a000ee"></script>
 </head>
 <body class="pag-tema">
 <a class="pular" href="#app">Ir para o conteúdo</a>
@@ -17,6 +18,19 @@
   <div class="topo-int">
     <a class="marca" href="/biblia/">Bíblia</a>
     <nav class="trilha" aria-label="Trilha de navegação"><a href="/biblia/salmos/">Salmos</a><span class="sep">›</span><a href="/biblia/salmos/33/">Salmo 33</a><span class="sep">›</span><a href="/biblia/salmos/33/comentarios/">Comentários</a><span class="sep">›</span><span aria-current="page">Os céus que regam a terra: apóstolos e mártires</span></nav>
+    <div class="ferramentas">
+      <button type="button" class="ferr so-js" id="letra-menor" aria-label="Letra menor" title="Letra menor"><span class="a-menor">A</span>−</button>
+      <button type="button" class="ferr so-js" id="letra-maior" aria-label="Letra maior" title="Letra maior"><span class="a-maior">A</span>+</button>
+      <button type="button" class="ferr so-js" id="trocar-tema" aria-label="Modo claro ou escuro" title="Modo claro ou escuro"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="8.5" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M12 3.5a8.5 8.5 0 0 1 0 17z" fill="currentColor"/></svg></button>
+      <a class="ferr" id="botao-leituras" href="/biblia/leituras/" aria-label="Leituras" title="Leituras"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path class="fita" d="M6.5 3.5h11v17l-5.5-4-5.5 4z" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/></svg></a>
+      <div class="menu-leitura" id="menu-leitura" hidden>
+        <p class="menu-titulo">Leitura aberta</p>
+        <p class="menu-nome" id="menu-nome"></p>
+        <p class="menu-pos" id="menu-pos"></p>
+        <a class="menu-item" href="/biblia/leituras/">Ver as leituras</a>
+        <button type="button" class="menu-item" id="fechar-leitura">Fechar esta leitura</button>
+      </div>
+    </div>
   </div>
 </header>
 <main id="app" tabindex="-1">
@@ -29,26 +43,31 @@
 </header>
 <blockquote class="versos-tema"><p class="poesia"><span class="linha"><span class="calha"><span class="num">6</span></span><span class="txt">Pela palavra do Senhor foram feitos os céus,</span></span><span class="linha"><span class="calha"></span><span class="txt">e pelo sopro da sua boca, todo o seu exército.</span></span></p></blockquote>
 <div class="comentarios">
-<article class="comentario">
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São Gregório Magno</span></summary>
   <div class="comentario-texto"><p>Tantos quantos são os dons dos pregadores, tantos são os ornamentos dos céus. Por isso está escrito também: «Pela palavra do Senhor firmaram-se os céus». A Palavra do Senhor é o Filho do Pai. Mas, para que se mostre que a Santíssima Trindade inteira agiu nesses mesmos céus, isto é, nos santos apóstolos, logo se acrescenta, sobre a divindade do Espírito Santo: «e pelo sopro da sua boca todo o seu poder». O poder dos céus foi tirado, pois, do Espírito, porque eles não ousariam enfrentar os poderes deste mundo se a força do Espírito Santo não os tivesse firmado. Sabemos como eram os mestres da santa Igreja antes da vinda deste Espírito, e vemos de que fortaleza ficaram depois da sua vinda.</p></div>
   <p class="autoria"><span class="autor">São Gregório Magno</span><span class="sobre-autor">, papa (c. 540–604), Doutor da Igreja</span><br><span class="obra"><em>Homilias sobre os Evangelhos (Homiliae in Evangelia)</em>, Homilia 30 (Pentecostes), 7, citando Sl 32, 6</span> · <a href="https://mlat.uzh.ch/browser/cps_2.GreI.HoInEv" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Cassiodoro</span></summary>
   <div class="comentario-texto"><p>«Pela Palavra do Senhor», isto é, pelo Filho de Deus, «firmaram-se os céus», ou seja, os apóstolos, ou os santos, foram firmados para encher o mundo inteiro com a pregação que salva. Segue: «e pelo sopro da sua boca, todo o seu poder», pois a doutrina deles vinha do Espírito Santo. (...) E, se examinarmos com mais cuidado, aqui se indica também a Santíssima Trindade. Dizendo «Palavra», mostra o Filho; acrescentando «do Senhor», fala do Pai; com «o sopro da sua boca» quer que se entenda o Espírito Santo, que procede do Pai antes dos tempos. E, para que entendesses que nas três pessoas há uma unidade manifesta, disse «dele», e não «deles».</p></div>
   <p class="autoria"><span class="autor">Cassiodoro</span><span class="sobre-autor">, monge e escritor (c. 485–c. 580), fundador do mosteiro de Vivário</span><br><span class="obra"><em>Explicação dos Salmos (Expositio Psalmorum)</em>, Sl 32, v. 6</span> · <a href="https://mlat.uzh.ch/browser/cps_2.CasViv.ExInPs" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Santo Agostinho</span></summary>
   <div class="comentario-texto"><p>E que misericórdia maior esperamos todos do Senhor, irmãos, senão que os nossos pecados sejam perdoados? Essa é, pois, a grande misericórdia do Senhor, o perdão dos pecados; e o Senhor anunciou de antemão que esse perdão seria pregado a todas as nações. «A terra está cheia da misericórdia do Senhor.» De que está cheia a terra? Da misericórdia do Senhor. Por quê? Porque Deus perdoa os pecados em toda parte, porque mandou os céus para regarem a terra.</p></div>
   <p class="autoria"><span class="autor">Santo Agostinho</span><span class="sobre-autor">, bispo de Hipona (354–430), Doutor da Igreja</span><br><span class="obra"><em>Comentários aos Salmos (Enarrationes in Psalmos)</em>, Sl 32, comentário 2, sermão 2, 7</span> · <a href="https://www.augustinus.it/latino/esposizioni_salmi/esposizione_salmo_043_testo.htm" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São Francisco de Sales</span></summary>
   <div class="comentario-texto"><p>Os apóstolos são como os céus da Igreja; por isso se pode muito bem dizer deles: «Pela palavra do Senhor foram firmados os céus, e pelo sopro da sua boca toda a força deles.» Esses céus apostólicos, pelos quais Jesus Cristo, como primeiro motor, nos comunica a sua fé e as suas graças, foram confirmados pela palavra deste Verbo de Deus quando ele os deixou para subir ao céu e lhes deu os seus belos conselhos. «E pelo sopro da sua boca»: pelo Espírito Santo, que a boca e a sabedoria do Pai exalam como um suspiro de amor, toda a força deles foi aperfeiçoada e de tal modo firmada [...].</p></div>
   <p class="autoria"><span class="autor">São Francisco de Sales</span><span class="sobre-autor">, bispo de Genebra (1567–1622), Doutor da Igreja</span><br><span class="obra"><em>Sermão para o Pentecostes de 1593 (Sermons)</em>, Œuvres, ed. de Annecy, t. VII, p. 16</span> · <a href="https://archive.org/details/oeuvresdesaintfr07fran/page/16/mode/1up" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Santo Agostinho</span></summary>
   <div class="comentario-texto"><p>Isso aconteceu. É daquelas ovelhas mandadas ao meio dos lobos que celebramos a memória dos mártires. Este lugar, quando foi ferido o corpo do bem-aventurado mártir, estava cheio de lobos: uma só ovelha presa venceu tantos lobos, e uma ovelha morta encheu de ovelhas o lugar. O mar se enfurecia então com as enormes ondas dos perseguidores, e o céu de Deus avançava sobre a terra seca e sedenta. Agora, pelo que sofreram aqueles que romperam as fileiras, o nome de Cristo foi glorificado: ele conquistou até os próprios poderosos, caminhando sobre as cabeças das ondas encapeladas.</p></div>
   <p class="autoria"><span class="autor">Santo Agostinho</span><span class="sobre-autor">, bispo de Hipona (354–430), Doutor da Igreja</span><br><span class="obra"><em>Comentários aos Salmos (Enarrationes in Psalmos)</em>, Sl 32, comentário 2, sermão 2, 9</span> · <a href="https://www.augustinus.it/latino/esposizioni_salmi/esposizione_salmo_043_testo.htm" rel="noopener">texto original</a></p>
-</article>
+</details>
 </div>
 <nav class="passos" aria-label="Navegação entre temas"><a class="passo ant" href="/biblia/salmos/33/comentarios/verbo-e-espirito/" rel="prev"><span class="dir">← Anterior</span><span class="alvo">A Palavra e o Espírito na criação</span></a><a class="passo seg" href="/biblia/salmos/33/comentarios/ele-falou/" rel="next"><span class="dir">Seguinte →</span><span class="alvo">Ele falou, e tudo se fez</span></a></nav>
 </article>

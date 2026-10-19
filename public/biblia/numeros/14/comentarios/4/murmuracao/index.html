@@ -8,8 +8,9 @@
 <meta name="description" content="Murmurar contra Moisés é murmurar contra Deus, e quem murmura recebe o que disse.">
 <meta name="color-scheme" content="light dark">
 <link rel="icon" href="/biblia/favicon.svg" type="image/svg+xml">
-<link rel="stylesheet" href="/biblia/css/estilo.css?v=28b77982">
-<script defer src="/biblia/js/biblia.js?v=59ac4c4e"></script>
+<script src="/biblia/js/preferencias.js?v=e879b9fe"></script>
+<link rel="stylesheet" href="/biblia/css/estilo.css?v=0bc11739">
+<script defer src="/biblia/js/biblia.js?v=38a000ee"></script>
 </head>
 <body class="pag-tema">
 <a class="pular" href="#app">Ir para o conteúdo</a>
@@ -17,6 +18,19 @@
   <div class="topo-int">
     <a class="marca" href="/biblia/">Bíblia</a>
     <nav class="trilha" aria-label="Trilha de navegação"><a href="/biblia/numeros/">Números</a><span class="sep">›</span><a href="/biblia/numeros/14/">Números 14</a><span class="sep">›</span><a href="/biblia/numeros/14/comentarios/4/">Comentários</a><span class="sep">›</span><span aria-current="page">A murmuração</span></nav>
+    <div class="ferramentas">
+      <button type="button" class="ferr so-js" id="letra-menor" aria-label="Letra menor" title="Letra menor"><span class="a-menor">A</span>−</button>
+      <button type="button" class="ferr so-js" id="letra-maior" aria-label="Letra maior" title="Letra maior"><span class="a-maior">A</span>+</button>
+      <button type="button" class="ferr so-js" id="trocar-tema" aria-label="Modo claro ou escuro" title="Modo claro ou escuro"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="8.5" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M12 3.5a8.5 8.5 0 0 1 0 17z" fill="currentColor"/></svg></button>
+      <a class="ferr" id="botao-leituras" href="/biblia/leituras/" aria-label="Leituras" title="Leituras"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path class="fita" d="M6.5 3.5h11v17l-5.5-4-5.5 4z" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/></svg></a>
+      <div class="menu-leitura" id="menu-leitura" hidden>
+        <p class="menu-titulo">Leitura aberta</p>
+        <p class="menu-nome" id="menu-nome"></p>
+        <p class="menu-pos" id="menu-pos"></p>
+        <a class="menu-item" href="/biblia/leituras/">Ver as leituras</a>
+        <button type="button" class="menu-item" id="fechar-leitura">Fechar esta leitura</button>
+      </div>
+    </div>
   </div>
 </header>
 <main id="app" tabindex="-1">
@@ -29,26 +43,31 @@
 </header>
 <blockquote class="versos-tema"><p class="par"><span class="num">26</span>O Senhor falou a Moisés e a Aarão, dizendo:</p><p class="par"><span class="num">27</span>Até quando esta comunidade perversa vai murmurar contra mim? Ouvi as murmurações que os filhos de Israel fazem contra mim.</p><p class="par"><span class="num">28</span>Dize-lhes: Tão certo como eu vivo, oráculo do Senhor, assim como falastes aos meus ouvidos, assim farei convosco.</p></blockquote>
 <div class="comentarios">
-<article class="comentario">
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Orígenes</span></summary>
   <div class="comentario-texto"><p>Levantam, pois, murmuração contra Moisés, ou melhor, contra Deus. Isso se perdoa da primeira vez, perdoa-se também da segunda, talvez da terceira; mas, se não param e insistem, ouve o que acontece depois ao povo que murmura. [...] Se não paramos de murmurar, se não deixamos as queixas que tantas vezes temos contra Deus, cuidemos de não cair num exemplo semelhante de ofensa. Pois quando reclamamos do mau tempo, da falta de colheita, da escassez de chuva, da prosperidade dos outros e da desgraça dos outros, isso é levantar murmuração contra Deus. A quem está começando, isso se perdoa; mas os que não param são castigados com severidade. [...] Vedes que a nossa murmuração não fica escondida de Deus: ele ouve tudo, e, se não castiga logo, é porque espera a penitência da nossa conversão.</p></div>
   <p class="autoria"><span class="autor">Orígenes</span><span class="sobre-autor">, mestre de Alexandria (c. 185–c. 254), escritor eclesiástico, não canonizado; texto da tradução latina de Rufino</span><br><span class="obra"><em>Homilias sobre o Êxodo (Homiliae in Exodum), trad. de Rufino</em>, Homilia 7, 4 (sobre Êx 16,2–3)</span> · <a href="https://archive.org/details/origenes-werke.-bd-6-1920/page/209/mode/1up" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Procópio de Gaza</span></summary>
   <div class="comentario-texto"><p>Ele lhes imputa a murmuração como culpa, como se fosse feita contra ele mesmo, embora se dirigisse aos sacerdotes; por isso diz: «Vivo eu, o Senhor: assim como falastes aos meus ouvidos», e o que segue. Mas vê aonde nos levam os nossos pensamentos. Aonde? Como não quiseram esperar o que era melhor, experimentam o que é pior, que nunca tinham esperado. Daí se diz com verdade: quem não crê em Deus perde os bens que vêm da fé. […] Estes, portanto, experimentam o que eles mesmos tinham anunciado sobre si.</p></div>
   <p class="autoria"><span class="autor">Procópio de Gaza</span><span class="sobre-autor">, retórico cristão (c. 465–c. 528), compilador das cadeias de comentários; escritor eclesiástico</span><br><span class="obra"><em>Comentário ao Octateuco (Commentarii in Octateuchum), Números</em>, In Num. 14,27–28</span> · <a href="https://archive.org/details/patrologiaecurs267unkngoog" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São Bernardo de Claraval</span></summary>
   <div class="comentario-texto"><p>Antes de tudo, que os irmãos estejam sem murmuração. Talvez alguns pensem que murmurar é pecado leve; mas não este [São Bento], que manda evitá-lo antes de tudo. E creio que também não o achava leve aquele que dizia aos murmuradores: «Não é contra nós a vossa murmuração, mas contra o Senhor; pois quem somos nós?». Nem aquele que disse: «Não murmureis, como alguns deles murmuraram e pereceram pelo exterminador». Por aquele exterminador, sem dúvida, que foi posto justamente para afastar os murmuradores dos limites daquela cidade bem-aventurada e mantê-los longe das suas fronteiras, a cidade a que se diz: «Louva, Jerusalém, o Senhor; louva o teu Deus, Sião, que pôs a paz nas tuas fronteiras».</p></div>
   <p class="autoria"><span class="autor">São Bernardo de Claraval</span><span class="sobre-autor">, abade cisterciense (1090–1153), Doutor da Igreja</span><br><span class="obra"><em>Sentenças (Sententiae)</em>, 16</span> · <a href="https://mlat.uzh.ch/browser/cps_2.BerCla.Senten9" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Cornélio a Lápide</span></summary>
   <div class="comentario-texto"><p>Esse deserto, como disse acima, era vastíssimo, sem caminhos, sem água, estéril, impossível de cultivar, áspero, escarpado, tórrido e coberto de areia funda, pegajosa e escorregadia; nele os hebreus vagaram trinta e oito anos, na penitência que Deus lhes impôs pela murmuração. Vê aqui o que merecem a murmuração e a rebeldia, e quanto desagradam a Deus; e teme que, assim como tantas centenas de milhares de hebreus, por uma única murmuração, foram excluídos da terra prometida, morreram e foram sepultados neste deserto, assim também tu, se murmurares e fores desobediente a Deus e aos que fazem as suas vezes, sejas excluído do céu e sepultado na geena.</p></div>
   <p class="autoria"><span class="autor">Cornélio a Lápide</span><span class="sobre-autor">, jesuíta flamengo (1567–1637), comentador de toda a Bíblia; não canonizado</span><br><span class="obra"><em>Comentário aos Números (Commentaria in Numeros)</em>, Nm 14,25–29 (Vulgata)</span> · <a href="https://archive.org/details/commentariainscr02lapi_0/page/266/mode/1up" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Ruperto de Deutz</span></summary>
   <div class="comentario-texto"><p>Mas é preciso saber também isto: todos os que são murmuradores ou rebeldes dentro da profissão cristã, seja qual for o povo ou a nação a que pertençam, têm com razão por pais aqueles que, depois de atravessar o mar Vermelho, embora parecessem ter deixado o Egito, não entraram naquela terra da promessa, mas ficaram estendidos no deserto, e aqueles que depois não ouviram os profetas enviados a eles; todos os murmuradores e todos os rebeldes são filhos deles, isto é, por imitação.</p></div>
   <p class="autoria"><span class="autor">Ruperto de Deutz</span><span class="sobre-autor">, abade beneditino (c. 1075–1129), teólogo</span><br><span class="obra"><em>Comentário aos doze profetas menores (In Zachariam)</em>, In Zachariam I (sobre Zc 1,4)</span> · <a href="https://mlat.uzh.ch/browser/cps_2.RupTui.CoInDuP" rel="noopener">texto original</a></p>
-</article>
+</details>
 </div>
 <nav class="passos" aria-label="Navegação entre temas"><span></span><a class="passo seg" href="/biblia/numeros/14/comentarios/4/no-deserto/" rel="next"><span class="dir">Seguinte →</span><span class="alvo">Os corpos caídos no deserto</span></a></nav>
 </article>

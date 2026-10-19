@@ -8,8 +8,9 @@
 <meta name="description" content="A sinceridade de Deus é não ter nada de encoberto; a sabedoria carnal é a astúcia e a duplicidade.">
 <meta name="color-scheme" content="light dark">
 <link rel="icon" href="/biblia/favicon.svg" type="image/svg+xml">
-<link rel="stylesheet" href="/biblia/css/estilo.css?v=28b77982">
-<script defer src="/biblia/js/biblia.js?v=59ac4c4e"></script>
+<script src="/biblia/js/preferencias.js?v=e879b9fe"></script>
+<link rel="stylesheet" href="/biblia/css/estilo.css?v=0bc11739">
+<script defer src="/biblia/js/biblia.js?v=38a000ee"></script>
 </head>
 <body class="pag-tema">
 <a class="pular" href="#app">Ir para o conteúdo</a>
@@ -17,6 +18,19 @@
   <div class="topo-int">
     <a class="marca" href="/biblia/">Bíblia</a>
     <nav class="trilha" aria-label="Trilha de navegação"><a href="/biblia/2corintios/">II Coríntios</a><span class="sep">›</span><a href="/biblia/2corintios/1/">II Coríntios 1</a><span class="sep">›</span><a href="/biblia/2corintios/1/comentarios/4/">Comentários</a><span class="sep">›</span><span aria-current="page">«Não com sabedoria carnal»</span></nav>
+    <div class="ferramentas">
+      <button type="button" class="ferr so-js" id="letra-menor" aria-label="Letra menor" title="Letra menor"><span class="a-menor">A</span>−</button>
+      <button type="button" class="ferr so-js" id="letra-maior" aria-label="Letra maior" title="Letra maior"><span class="a-maior">A</span>+</button>
+      <button type="button" class="ferr so-js" id="trocar-tema" aria-label="Modo claro ou escuro" title="Modo claro ou escuro"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="8.5" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M12 3.5a8.5 8.5 0 0 1 0 17z" fill="currentColor"/></svg></button>
+      <a class="ferr" id="botao-leituras" href="/biblia/leituras/" aria-label="Leituras" title="Leituras"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path class="fita" d="M6.5 3.5h11v17l-5.5-4-5.5 4z" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/></svg></a>
+      <div class="menu-leitura" id="menu-leitura" hidden>
+        <p class="menu-titulo">Leitura aberta</p>
+        <p class="menu-nome" id="menu-nome"></p>
+        <p class="menu-pos" id="menu-pos"></p>
+        <a class="menu-item" href="/biblia/leituras/">Ver as leituras</a>
+        <button type="button" class="menu-item" id="fechar-leitura">Fechar esta leitura</button>
+      </div>
+    </div>
   </div>
 </header>
 <main id="app" tabindex="-1">
@@ -29,22 +43,26 @@
 </header>
 <blockquote class="versos-tema"><p class="par"><span class="num">12</span>A nossa glória é esta: o testemunho da nossa consciência de que nos portamos no mundo, e sobretudo convosco, com a santidade e a sinceridade de Deus, não com sabedoria carnal, mas com a graça de Deus.</p></blockquote>
 <div class="comentarios">
-<article class="comentario">
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São João Crisóstomo</span></summary>
   <div class="comentario-texto"><p>Qual é, então, a glória, e que testemunho nos dá a nossa consciência? “Que nos portamos com simplicidade e sinceridade”, isto é, sem nada de enganoso: sem fingimento, sem dissimulação, sem bajulação, sem cilada nem engano, sem nada de semelhante, mas com toda a franqueza, com simplicidade, com verdade, com intenção pura e sem malícia, com pensamento sem dolo, sem nada de encoberto nem de falso por dentro. “Não com sabedoria carnal”, isto é, não com astúcia nem maldade, nem com habilidade de palavras ou trama de sofismas: é a isto que chama sabedoria carnal.</p></div>
   <p class="autoria"><span class="autor">São João Crisóstomo</span><span class="sobre-autor">, bispo de Constantinopla (c. 349–407), Doutor da Igreja</span><br><span class="obra"><em>Homilias sobre a 2ª Carta aos Coríntios</em>, Hom. 3, 1 (2Cor 1,12) (PG 61, 405–406)</span> · <a href="https://khazarzar.skeptik.net/pgm/PG_Migne/John%20Chrysostom_PG%2047-64/In%20epistulam%20ii%20ad%20Corinthios.pdf" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Ambrosiaster</span></summary>
   <div class="comentario-texto"><p>Diz isto porque confiavam na sua consciência, que estava limpa de toda simulação; por isso não duvidavam do auxílio de Deus. «Porque nos comportamos neste mundo com simplicidade e sinceridade, não com sabedoria carnal, mas com a graça de Deus, e mais ainda entre vós.» Esta é a glória da consciência de que falou: a simplicidade e a sinceridade. E, porque estas coisas vêm do ensinamento de Deus, acrescentou: «não com sabedoria carnal, mas com a graça de Deus», para mostrar que apresentou a sua consciência livre não à sabedoria humana, mas à pregação do Evangelho. Toca de novo no passado: isso quer dizer que na primeira carta repreendeu a pregação disfarçada, ajustada ao sentir humano, cujos pregadores acusa de sabedoria carnal de dois modos: porque pregavam segundo o sentir do mundo, para não ofender facilmente as pessoas, e porque o faziam por lucro, buscando os próprios ganhos carnais.</p></div>
   <p class="autoria"><span class="autor">Ambrosiaster</span><span class="sobre-autor">, escritor eclesiástico (séc. IV), autor do comentário às cartas de Paulo que a tradição atribuiu a Santo Ambrósio</span><br><span class="obra"><em>Comentário à Segunda Carta aos Coríntios (Commentaria in epistolam ad Corinthios secundam)</em>, Sobre 2Cor 1,12 (PL 17, 278A–278C)</span> · <a href="https://mlat.uzh.ch/browser/cps_2.Ambros.CoInEpA3" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São Boaventura</span></summary>
   <div class="comentario-texto"><p>Por isso só podem gloriar-se da bondade e da graça aqueles cuja intenção é simples e cuja consciência é reta. Pois, na pessoa dos bem-aventurados, diz o Apóstolo na segunda aos Coríntios, capítulo primeiro: «A nossa glória é esta: o testemunho da nossa consciência, de que nos portamos com simplicidade de coração e sinceridade de Deus, e não com sabedoria carnal, mas com a graça de Deus». Com simplicidade, digo, de consciência e intenção retas, não com a duplicidade da sabedoria carnal e da sofistica, porque com ela a graça não pode ficar; por isso diz o Eclesiástico, no capítulo trinta e sete: «Quem fala com sofismas é odioso; não lhe foi dada graça pelo Senhor». Pois fala com sofismas quem diz uma coisa por fora, nas palavras, e tem outra dentro, no coração, e faz outra nas obras, como os hipócritas, que estão privados do dom da graça divina.</p></div>
   <p class="autoria"><span class="autor">São Boaventura</span><span class="sobre-autor">, ministro geral franciscano (1217/21–1274), bispo, Doutor da Igreja</span><br><span class="obra"><em>Sermões sobre a Virgem Maria (Sermones de B. Virgine Maria)</em>, sermão 5 da Anunciação (Opera omnia, Quaracchi, t. IX (1901), p. 679–680)</span> · <a href="https://archive.org/details/doctorisseraphic09bona" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São John Henry Newman</span></summary>
   <div class="comentario-texto"><p>Quando um homem vem a Deus para ser salvo, digo eu, a essência da verdadeira conversão é a entrega de si mesmo, uma entrega sem reservas e sem condições […]. Já que este é o nosso privilégio, procuremos, pois, participar da sinceridade de São Paulo, para participarmos da sua glória. Esforcemo-nos por nos tornar amigos de Deus e concidadãos dos santos: não por uma pureza sem pecado, porque não a temos; não por obras de valor, porque não temos nenhuma para mostrar; […] mas por aquilo que é, dentro de nós, o fruto do Batismo, não uma palavra, mas uma força, não um nome, mas uma realidade, que, embora nada possa reclamar, pode pedir tudo: um propósito honesto, uma submissão inteira e sem reservas ao nosso Criador, Redentor e Juiz. Peçamos a ele que nos ajude no nosso esforço e que, assim como começou em nós uma boa obra, a leve a termo até o dia do Senhor Jesus.</p></div>
   <p class="autoria"><span class="autor">São John Henry Newman</span><span class="sobre-autor">, cardeal (1801–1890), Doutor da Igreja</span><br><span class="obra"><em>Parochial and Plain Sermons, vol. V, sermão 17, «The Testimony of Conscience»</em>, pp. 241–242 e 252–253 (ed. Rivingtons, 1868)</span> · <a href="https://www.newmanreader.org/works/parochial/volume5/sermon17.html" rel="noopener">texto original</a></p>
-</article>
+</details>
 </div>
 <nav class="passos" aria-label="Navegação entre temas"><a class="passo ant" href="/biblia/2corintios/1/comentarios/4/martirio-escondido/" rel="prev"><span class="dir">← Anterior</span><span class="alvo">O martírio escondido</span></a><a class="passo seg" href="/biblia/2corintios/1/comentarios/4/gloria-mutua/" rel="next"><span class="dir">Seguinte →</span><span class="alvo">«No dia de nosso Senhor Jesus»</span></a></nav>
 </article>

@@ -4,7 +4,8 @@
 //   node ferramentas/gerar.mjs --conferir só confere (o CI usa: falha se public/ estiver velho)
 //
 // Páginas: /biblia/ (início), /biblia/<livro>/ (capítulos), /biblia/<livro>/<cap>/ (texto e
-// notas), /biblia/<livro>/<cap>/comentarios/[<trecho>/] (temas) e .../<tema>/ (comentários).
+// notas), /biblia/<livro>/<cap>/comentarios/[<trecho>/] (temas), .../<tema>/ (comentários) e
+// /biblia/leituras/ (as leituras do leitor, montadas no navegador).
 // Node puro, sem dependências. Nada inline (contrato da origem): CSS e JS são arquivos, com o
 // hash no endereço.
 import fs from 'node:fs';
@@ -27,6 +28,8 @@ const paragrafos = (s) => String(s).split(/\n\s*\n/).map((p) => `<p>${inline(p.t
 const hash = (f) => crypto.createHash('sha256').update(fs.readFileSync(path.join(SAIDA, f))).digest('hex').slice(0, 8);
 const CSS = `${BASE}css/estilo.css?v=${hash('css/estilo.css')}`;
 const JS = `${BASE}js/biblia.js?v=${hash('js/biblia.js')}`;
+// Lido antes de desenhar a página (sem defer): tema e tamanho da letra escolhidos, sem piscar.
+const PREF = `${BASE}js/preferencias.js?v=${hash('js/preferencias.js')}`;
 
 const LIVROS = JSON.parse(fs.readFileSync(path.join(CONTEUDO, 'livros.json'), 'utf8'));
 const livroPorId = Object.fromEntries(LIVROS.map((l) => [l.id, l]));
@@ -59,7 +62,11 @@ const refVers = (livro, cap, vs) => {
 
 // ---------------------------------------------------------------- moldura
 
-function pagina({ titulo, descricao, inicio = false, trilha = [], corpo, classe = '' }) {
+// Ícones da barra de cima (SVG no HTML, sem estilo inline).
+const ICONE_TEMA = '<svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="8.5" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M12 3.5a8.5 8.5 0 0 1 0 17z" fill="currentColor"/></svg>';
+const ICONE_LEITURA = '<svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path class="fita" d="M6.5 3.5h11v17l-5.5-4-5.5 4z" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/></svg>';
+
+function pagina({ titulo, descricao, inicio = false, trilha = [], corpo, classe = '', cap = '' }) {
   const marca = inicio ? '<a class="marca" href="/">Taioé</a>' : `<a class="marca" href="${BASE}">Bíblia</a>`;
   const nav = trilha.length
     ? `<nav class="trilha" aria-label="Trilha de navegação">${trilha.map(([t, h]) => (h ? `<a href="${h}">${esc(t)}</a>` : `<span aria-current="page">${esc(t)}</span>`)).join('<span class="sep">›</span>')}</nav>`
@@ -74,15 +81,29 @@ function pagina({ titulo, descricao, inicio = false, trilha = [], corpo, classe 
 <meta name="description" content="${esc(descricao)}">
 <meta name="color-scheme" content="light dark">
 <link rel="icon" href="${BASE}favicon.svg" type="image/svg+xml">
+<script src="${PREF}"></script>
 <link rel="stylesheet" href="${CSS}">
 <script defer src="${JS}"></script>
 </head>
-<body${classe ? ` class="${classe}"` : ''}>
+<body${classe ? ` class="${classe}"` : ''}${cap ? ` data-cap="${esc(cap)}"` : ''}>
 <a class="pular" href="#app">Ir para o conteúdo</a>
 <header class="topo">
   <div class="topo-int">
     ${marca}
     ${nav}
+    <div class="ferramentas">
+      <button type="button" class="ferr so-js" id="letra-menor" aria-label="Letra menor" title="Letra menor"><span class="a-menor">A</span>−</button>
+      <button type="button" class="ferr so-js" id="letra-maior" aria-label="Letra maior" title="Letra maior"><span class="a-maior">A</span>+</button>
+      <button type="button" class="ferr so-js" id="trocar-tema" aria-label="Modo claro ou escuro" title="Modo claro ou escuro">${ICONE_TEMA}</button>
+      <a class="ferr" id="botao-leituras" href="${BASE}leituras/" aria-label="Leituras" title="Leituras">${ICONE_LEITURA}</a>
+      <div class="menu-leitura" id="menu-leitura" hidden>
+        <p class="menu-titulo">Leitura aberta</p>
+        <p class="menu-nome" id="menu-nome"></p>
+        <p class="menu-pos" id="menu-pos"></p>
+        <a class="menu-item" href="${BASE}leituras/">Ver as leituras</a>
+        <button type="button" class="menu-item" id="fechar-leitura">Fechar esta leitura</button>
+      </div>
+    </div>
   </div>
 </header>
 <main id="app" tabindex="-1">
@@ -160,7 +181,7 @@ function montarTexto(c, notasPorV, botaoTrecho) {
     const tipo = v.l ? 'poesia' : 'par';
     if (v.np || modo !== tipo) fechar();
     modo = tipo;
-    const num = `<span class="num">${esc(v.v)}</span>`;
+    const num = `<span class="num" id="v${esc(String(v.v).replace(/[^0-9a-z]/gi, ''))}">${esc(v.v)}</span>`;
     const partes = marcarNotas(v, notasPorV[v.v] || [], ctx);
     if (v.l) buf.push(partes.map((ln, i) => `<span class="linha"><span class="calha">${i ? '' : num}</span><span class="txt">${ln}</span></span>`).join(''));
     else buf.push(num + partes[0]);
@@ -200,13 +221,12 @@ ${r.grego ? `<p class="pequeno apagado">A Bíblia Taioé numera os salmos pelo h
 <div class="nota-painel" id="nota-painel" role="dialog" aria-modal="false" aria-labelledby="nota-painel-ref" hidden>
   <p class="nota-painel-ref" id="nota-painel-ref"></p>
   <div class="nota-painel-texto" id="nota-painel-texto"></div>
-  <button type="button" class="nota-fechar" id="nota-fechar" aria-label="Fechar a nota">×</button>
 </div>`;
   return pagina({
     titulo: `${r.longo} · Bíblia Taioé`,
     descricao: `${r.longo}: tradução dos originais, com notas e comentários dos Padres da Igreja e dos santos.`,
     trilha: [[livro.nome, `${BASE}${c.livro}/`], [r.curto, null]],
-    corpo, classe: 'pag-capitulo',
+    corpo, classe: 'pag-capitulo', cap: r.curto,
   });
 }
 
@@ -268,10 +288,11 @@ ${com.temas.map((x) => `<a class="tema" href="${urlT}${x.id}/"><span class="tema
 </header>
 ${versosDoTema(c, x.versiculos)}
 <div class="comentarios">
-${x.itens.map((it) => `<article class="comentario">
+${x.itens.map((it) => `<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">${esc(it.autor)}</span></summary>
   <div class="comentario-texto">${paragrafos(it.texto)}</div>
   <p class="autoria"><span class="autor">${esc(it.autor)}</span>${it.sobre ? `<span class="sobre-autor">, ${esc(it.sobre)}</span>` : ''}<br><span class="obra"><em>${esc(it.obra)}</em>${it.passagem ? `, ${esc(it.passagem)}` : ''}</span>${it.link ? ` · <a href="${esc(it.link)}" rel="noopener">texto original</a>` : ''}</p>
-</article>`).join('\n')}
+</details>`).join('\n')}
 </div>
 ${passos(viz, (t) => t.titulo, (t) => `${urlT}${t.id}/`, 'Navegação entre temas')}
 </article>`;
@@ -328,6 +349,23 @@ ${voltar(BASE, 'Bíblia Taioé')}
   return pagina({ titulo: `${l.nome} · Bíblia Taioé`, descricao: `${l.nome}: capítulos disponíveis na Bíblia Taioé.`, trilha: [[l.nome, null]], corpo, classe: 'pag-livro' });
 }
 
+// As leituras: pontos de leitura que acompanham o leitor (ficam no navegador; js/biblia.js
+// monta a lista). Sem JavaScript, só o aviso.
+function paginaLeituras() {
+  const corpo = `<article class="folha">
+${voltar(BASE, 'Bíblia Taioé')}
+<h1>Leituras</h1>
+<div id="leituras" class="leituras"><p class="apagado">As leituras precisam de JavaScript.</p></div>
+<form class="nova-leitura so-js" id="nova-leitura">
+  <label for="nome-leitura">Nova leitura</label>
+  <div class="nova-linha"><input id="nome-leitura" name="nome" maxlength="60" autocomplete="off" placeholder="Nome" required><button type="submit" class="botao">Criar e abrir</button></div>
+  <p class="pequeno apagado" id="nova-onde"></p>
+</form>
+<p class="pequeno apagado">Uma leitura aberta acompanha você: a posição dela muda conforme você lê, e ela volta ao último ponto quando você a abrir de novo. As leituras ficam só neste navegador.</p>
+</article>`;
+  return pagina({ titulo: 'Leituras · Bíblia Taioé', descricao: 'As suas leituras da Bíblia Taioé.', trilha: [['Leituras', null]], corpo, classe: 'pag-leituras' });
+}
+
 // ---------------------------------------------------------------- gravação
 
 const geradas = new Map();   // caminho relativo a public/biblia → conteúdo
@@ -335,6 +373,7 @@ const gravar = (url, html) => geradas.set(path.join(...url.slice(BASE.length).sp
 
 const caps = lerCapitulos();
 gravar(BASE, paginaInicio(caps));
+gravar(`${BASE}leituras/`, paginaLeituras());
 geradas.set('404.html', pagina({ titulo: 'Página não encontrada · Bíblia Taioé', descricao: 'Página não encontrada.', corpo: `<article class="folha">
 ${voltar(BASE, 'Bíblia Taioé')}
 <h1>Página não encontrada</h1>

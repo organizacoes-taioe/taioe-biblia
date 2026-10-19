@@ -8,8 +8,9 @@
 <meta name="description" content="O Senhor que toma o escudo e a lança: que armas são essas, e por que ele combate.">
 <meta name="color-scheme" content="light dark">
 <link rel="icon" href="/biblia/favicon.svg" type="image/svg+xml">
-<link rel="stylesheet" href="/biblia/css/estilo.css?v=28b77982">
-<script defer src="/biblia/js/biblia.js?v=59ac4c4e"></script>
+<script src="/biblia/js/preferencias.js?v=e879b9fe"></script>
+<link rel="stylesheet" href="/biblia/css/estilo.css?v=0bc11739">
+<script defer src="/biblia/js/biblia.js?v=38a000ee"></script>
 </head>
 <body class="pag-tema">
 <a class="pular" href="#app">Ir para o conteúdo</a>
@@ -17,6 +18,19 @@
   <div class="topo-int">
     <a class="marca" href="/biblia/">Bíblia</a>
     <nav class="trilha" aria-label="Trilha de navegação"><a href="/biblia/salmos/">Salmos</a><span class="sep">›</span><a href="/biblia/salmos/35/">Salmo 35</a><span class="sep">›</span><a href="/biblia/salmos/35/comentarios/">Comentários</a><span class="sep">›</span><span aria-current="page">Deus armado por nós</span></nav>
+    <div class="ferramentas">
+      <button type="button" class="ferr so-js" id="letra-menor" aria-label="Letra menor" title="Letra menor"><span class="a-menor">A</span>−</button>
+      <button type="button" class="ferr so-js" id="letra-maior" aria-label="Letra maior" title="Letra maior"><span class="a-maior">A</span>+</button>
+      <button type="button" class="ferr so-js" id="trocar-tema" aria-label="Modo claro ou escuro" title="Modo claro ou escuro"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="8.5" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M12 3.5a8.5 8.5 0 0 1 0 17z" fill="currentColor"/></svg></button>
+      <a class="ferr" id="botao-leituras" href="/biblia/leituras/" aria-label="Leituras" title="Leituras"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path class="fita" d="M6.5 3.5h11v17l-5.5-4-5.5 4z" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/></svg></a>
+      <div class="menu-leitura" id="menu-leitura" hidden>
+        <p class="menu-titulo">Leitura aberta</p>
+        <p class="menu-nome" id="menu-nome"></p>
+        <p class="menu-pos" id="menu-pos"></p>
+        <a class="menu-item" href="/biblia/leituras/">Ver as leituras</a>
+        <button type="button" class="menu-item" id="fechar-leitura">Fechar esta leitura</button>
+      </div>
+    </div>
   </div>
 </header>
 <main id="app" tabindex="-1">
@@ -29,38 +43,46 @@
 </header>
 <blockquote class="versos-tema"><p class="poesia"><span class="linha"><span class="calha"><span class="num">1</span></span><span class="txt">De Davi.</span></span><span class="linha"><span class="calha"></span><span class="txt">Contende, Senhor, com os que contendem comigo;</span></span><span class="linha"><span class="calha"></span><span class="txt">combate os que me combatem.</span></span></p><p class="poesia"><span class="linha"><span class="calha"><span class="num">2</span></span><span class="txt">Empunha o escudo e o broquel,</span></span><span class="linha"><span class="calha"></span><span class="txt">e levanta-te em meu auxílio.</span></span></p><p class="poesia"><span class="linha"><span class="calha"><span class="num">3</span></span><span class="txt">Brande a lança e fecha o caminho aos que me perseguem;</span></span><span class="linha"><span class="calha"></span><span class="txt">dize à minha alma: Eu sou a tua salvação.</span></span></p></blockquote>
 <div class="comentarios">
-<article class="comentario">
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Santo Agostinho</span></summary>
   <div class="comentario-texto"><p>Se Deus é por nós, quem será contra nós? E de onde Deus nos concede isso? «Toma», diz ele, «as armas e o escudo, e levanta-te em meu auxílio.» Grande espetáculo é ver Deus armado por ti! E qual é o escudo dele? quais são as armas? «Senhor», diz em outro lugar este mesmo homem que fala aqui, «tu nos coroaste com o escudo da tua boa vontade.» E as armas dele, com que não só nos protege mas também fere os inimigos, seremos nós mesmos, se tivermos progredido bem. Pois, assim como nós recebemos dele aquilo com que nos armamos, assim ele se arma de nós. Mas ele se arma daqueles que fez; nós nos armamos daquilo que recebemos dele, que nos fez.</p></div>
   <p class="autoria"><span class="autor">Santo Agostinho</span><span class="sobre-autor">, bispo de Hipona (354–430), Doutor da Igreja</span><br><span class="obra"><em>Comentários aos Salmos (Enarrationes in Psalmos)</em>, Sl 34, sermão 1, 2</span> · <a href="https://www.augustinus.it/latino/esposizioni_salmi/esposizione_salmo_046_testo.htm" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Orígenes</span></summary>
   <div class="comentario-texto"><p>Todos os que cometem injustiça cometem injustiça contra Cristo, que é a justiça; e os que não têm paz em si mesmos têm guerras e combatem Cristo, que é a nossa paz. Julgando os injustos, o Senhor destrói a injustiça que há neles. Assim também combate os que combatem o justo, e o faz para o bem dos combatidos, para que um dia deixem de fazer o que é inimigo da justiça.</p></div>
   <p class="autoria"><span class="autor">Orígenes</span><span class="sobre-autor">, presbítero e mestre de Alexandria e de Cesareia (c. 185–254); escritor eclesiástico, não canonizado</span><br><span class="obra"><em>Seleções sobre os Salmos (Selecta in Psalmos; glosas de cadeia)</em>, Sl 34 (LXX), v. 1</span> · <a href="https://khazarzar.skeptik.net/pgm/PG_Migne/Origenes_PG%2011-17/Selecta%20in%20Psalmos.pdf" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Dídimo, o Cego</span></summary>
   <div class="comentario-texto"><p>O santo, portanto, não faz guerra a ninguém; combatido, procura não revidar, mas não sofrer dano nenhum. [...] Para que eles não cometam mais injustiça nem façam mais guerra, pede a Deus como aliado: não para que ele lhes faça injustiça ou guerra, mas para que ele mesmo continue ileso, ainda que sofra injustiça e seja combatido.</p></div>
   <p class="autoria"><span class="autor">Dídimo, o Cego</span><span class="sobre-autor">, mestre da escola de Alexandria (c. 313–398); escritor eclesiástico, não canonizado</span><br><span class="obra"><em>Comentário aos Salmos (papiro de Tura)</em>, Sl 34, v. 1 (papiro de Tura, pág. 204)</span> · <a href="https://khazarzar.skeptik.net/pgm/PG_Migne/Didymus%20the%20Blind_PG%2039/Commentarii%20in%20Psalmos.pdf" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Teodoreto de Ciro</span></summary>
   <div class="comentario-texto"><p>Tendo falado de guerra, acrescentou necessariamente também os tipos de armas, assustando com a imagem da armadura completa os que vivem na maldade. Pois Deus não precisava de tantas armas para castigar os injustos: a ele basta uma palavra para o castigo extremo. «Dize à minha alma: Eu sou a tua salvação.» A mim basta a tua palavra para a salvação. Como o profeta tinha falado de armas, ensinou com razão que Deus não precisa de tais auxiliares, mas só com a palavra castiga aqueles e faz o bem a estes.</p></div>
   <p class="autoria"><span class="autor">Teodoreto de Ciro</span><span class="sobre-autor">, bispo de Ciro, na Síria (c. 393–c. 460); escritor eclesiástico</span><br><span class="obra"><em>Interpretação dos Salmos (Interpretatio in Psalmos)</em>, Sl 34 (LXX), v. 2–3</span> · <a href="https://khazarzar.skeptik.net/pgm/PG_Migne/Theodoretus%20of%20Cyrrhus_PG%2080-84/Interpretatio%20in%20Psalmos.pdf" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Dídimo, o Cego</span></summary>
   <div class="comentario-texto"><p>Pode estar pedindo que aconteça a encarnação: quando ele assume o homem capaz de nos proteger e de lutar por nós, tomou a arma e o escudo e levantou-se em nosso socorro. Levantou-se do seio do Pai para, inclinando o céu, descer e aparecer como nosso defensor: veio não para combater por si, mas para combater por nós, e veio não simplesmente para sofrer, mas para sofrer por nós.</p></div>
   <p class="autoria"><span class="autor">Dídimo, o Cego</span><span class="sobre-autor">, mestre da escola de Alexandria (c. 313–398); escritor eclesiástico, não canonizado</span><br><span class="obra"><em>Comentário aos Salmos (papiro de Tura)</em>, Sl 34, v. 2 (papiro de Tura, págs. 204–205)</span> · <a href="https://khazarzar.skeptik.net/pgm/PG_Migne/Didymus%20the%20Blind_PG%2039/Commentarii%20in%20Psalmos.pdf" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Autor antigo (pseudo-Jerônimo)</span></summary>
   <div class="comentario-texto"><p>Também a nós ele nos defende e protege com armas espirituais, segundo o Apóstolo: «Revesti-vos da armadura de Deus». As armas do Senhor são a proteção da divindade. Que há de mais forte, de mais belo, do que Cristo armado, de pé, pelos seus santos? Assim o viu Santo Estêvão, quando disse: «Vejo os céus abertos e o Filho do homem de pé à direita de Deus Pai». Estar de pé é próprio de quem combate ou enfrenta.</p></div>
   <p class="autoria"><span class="autor">Autor antigo (pseudo-Jerônimo)</span><span class="sobre-autor">, comentário anônimo (séc. VII–VIII?) transmitido entre as obras de São Jerônimo</span><br><span class="obra"><em>Breviário dos Salmos (Breviarium in Psalmos)</em>, Breviarium in Psalmos, Sl 34, v. 2</span> · <a href="https://mlat.uzh.ch/browser/cps_2.AuInAuH.BrInPs" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Santo Aelredo de Rievaulx</span></summary>
   <div class="comentario-texto"><p>Se, pois, o espírito que tem poder subir contra ti, se agitar os aguilhões da acídia, se acender os ferrões de várias paixões, se mover o mundo contra ti, se inflamar perseguições; se tens medo, se tremes, se a cada momento receias ser vencido, e assim corres aflito para o teu Jesus, choras, contas os perigos, pedes socorro: aquele que amas se une a ti, com a figura de um rei poderosíssimo, e, segundo a oração de São Davi, tomará as armas e o escudo e se levantará em teu auxílio; e ouvirás: «Não tenhas medo deles, porque eu estou contigo».</p></div>
   <p class="autoria"><span class="autor">Santo Aelredo de Rievaulx</span><span class="sobre-autor">, abade cisterciense de Rievaulx, na Inglaterra (1110–1167)</span><br><span class="obra"><em>Sobre Jesus menino de doze anos (De Iesu puero duodenni)</em>, Sobre Jesus menino de doze anos, 24</span> · <a href="https://mlat.uzh.ch/browser/cps_2.AelRie.DeJePuD" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São Francisco de Sales</span></summary>
   <div class="comentario-texto"><p>Estamos, Pai, em lugar de tentação. «O nosso adversário, o diabo, ronda como leão que ruge, procurando a quem devorar.» Dai-nos ajuda, dai-nos socorro, Pai; os inimigos são muitos como a areia do mar, são poderosos e experientes no combate; esta alma é fraca, débil e impotente, se vós não a ajudardes. «Tomai, pois, meu Deus, as armas e o escudo, e levantai-vos em meu auxílio. Desembainhai a espada e fechai o caminho aos que me perseguem; dizei à minha alma: Eu sou a tua salvação.»</p></div>
   <p class="autoria"><span class="autor">São Francisco de Sales</span><span class="sobre-autor">, bispo de Genebra (1567–1622), Doutor da Igreja</span><br><span class="obra"><em>Paráfrase da Oração do Senhor (Paraphrase de l'Oraison dominicale: «Punti da meditare sopra l'orazione del Pater noster»)</em>, «E não nos deixeis cair em tentação»</span> · <a href="https://www.donboscosanto.eu/francesco_di_sales/26-Oeuvres%20de%20S.%20Francois%20de%20Sales-Tome%20XXVI-Vol.5-Opuscules-web.pdf" rel="noopener">texto original</a></p>
-</article>
+</details>
 </div>
 <nav class="passos" aria-label="Navegação entre temas"><a class="passo ant" href="/biblia/salmos/35/comentarios/quem-fala/" rel="prev"><span class="dir">← Anterior</span><span class="alvo">Quem fala neste salmo</span></a><a class="passo seg" href="/biblia/salmos/35/comentarios/deus-dorme/" rel="next"><span class="dir">Seguinte →</span><span class="alvo">Levanta-te: o Senhor que parece dormir</span></a></nav>
 </article>

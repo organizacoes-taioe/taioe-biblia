@@ -8,8 +8,9 @@
 <meta name="description" content="Antes só reis e sacerdotes eram ungidos; agora todos os fiéis são ungidos por Deus e se chamam cristãos.">
 <meta name="color-scheme" content="light dark">
 <link rel="icon" href="/biblia/favicon.svg" type="image/svg+xml">
-<link rel="stylesheet" href="/biblia/css/estilo.css?v=28b77982">
-<script defer src="/biblia/js/biblia.js?v=59ac4c4e"></script>
+<script src="/biblia/js/preferencias.js?v=e879b9fe"></script>
+<link rel="stylesheet" href="/biblia/css/estilo.css?v=0bc11739">
+<script defer src="/biblia/js/biblia.js?v=38a000ee"></script>
 </head>
 <body class="pag-tema">
 <a class="pular" href="#app">Ir para o conteúdo</a>
@@ -17,6 +18,19 @@
   <div class="topo-int">
     <a class="marca" href="/biblia/">Bíblia</a>
     <nav class="trilha" aria-label="Trilha de navegação"><a href="/biblia/2corintios/">II Coríntios</a><span class="sep">›</span><a href="/biblia/2corintios/1/">II Coríntios 1</a><span class="sep">›</span><a href="/biblia/2corintios/1/comentarios/5/">Comentários</a><span class="sep">›</span><span aria-current="page">«Nos ungiu»</span></nav>
+    <div class="ferramentas">
+      <button type="button" class="ferr so-js" id="letra-menor" aria-label="Letra menor" title="Letra menor"><span class="a-menor">A</span>−</button>
+      <button type="button" class="ferr so-js" id="letra-maior" aria-label="Letra maior" title="Letra maior"><span class="a-maior">A</span>+</button>
+      <button type="button" class="ferr so-js" id="trocar-tema" aria-label="Modo claro ou escuro" title="Modo claro ou escuro"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="8.5" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M12 3.5a8.5 8.5 0 0 1 0 17z" fill="currentColor"/></svg></button>
+      <a class="ferr" id="botao-leituras" href="/biblia/leituras/" aria-label="Leituras" title="Leituras"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path class="fita" d="M6.5 3.5h11v17l-5.5-4-5.5 4z" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/></svg></a>
+      <div class="menu-leitura" id="menu-leitura" hidden>
+        <p class="menu-titulo">Leitura aberta</p>
+        <p class="menu-nome" id="menu-nome"></p>
+        <p class="menu-pos" id="menu-pos"></p>
+        <a class="menu-item" href="/biblia/leituras/">Ver as leituras</a>
+        <button type="button" class="menu-item" id="fechar-leitura">Fechar esta leitura</button>
+      </div>
+    </div>
   </div>
 </header>
 <main id="app" tabindex="-1">
@@ -29,30 +43,36 @@
 </header>
 <blockquote class="versos-tema"><p class="par"><span class="num">21</span>E quem nos confirma convosco em Cristo e nos ungiu é Deus,</p></blockquote>
 <div class="comentarios">
-<article class="comentario">
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São Cirilo de Jerusalém</span></summary>
   <div class="comentario-texto"><p>Batizados em Cristo e revestidos de Cristo, vos tornastes conformes ao Filho de Deus. (…) Tendo-vos tornado participantes de Cristo, com razão sois chamados “cristos”, isto é, ungidos, e de vós dizia Deus: “Não toqueis nos meus ungidos” (Sl 105,15). E vos tornastes ungidos ao receber o sinal sacramental do Espírito Santo; tudo se realizou em vós em imagem, porque sois imagens de Cristo. (…) Tendo sido julgados dignos desta santa unção, sois chamados cristãos, confirmando o nome com o novo nascimento.</p></div>
   <p class="autoria"><span class="autor">São Cirilo de Jerusalém</span><span class="sobre-autor">, bispo de Jerusalém (c. 313–386), Doutor da Igreja</span><br><span class="obra"><em>Catequeses mistagógicas</em>, Mistagógica 3, 1 e 5 (ed. Reischl–Rupp (1860), Myst. 3, 1. 5; PG 33, 1088–1092)</span> · <a href="https://khazarzar.skeptik.net/pgm/PG_Migne/Cyrillus%20Hierosolymitanus_PG%2033/Mystagogiae.pdf" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Ambrosiaster</span></summary>
   <div class="comentario-texto"><p>O Senhor, portanto, confirma, e Deus é quem nos ungiu, isto é, quem nos deu a dignidade régia, como diz o apóstolo Pedro: «Porque somos», diz, «raça real», pela unção espiritual, cuja figura esteve nos reis dos judeus. «Que também nos marcou com o selo», dando-nos o seu Espírito como penhor, para que não duvidemos das suas promessas. Pois, se já confiou o seu Espírito a mortais, não há dúvida de que o acrescentará, para a glória, aos imortais. Diz, contudo, que é uma só a obra do Pai e do Filho, porque diz que Cristo confirma e que Deus confirma. Pois quem o Filho confirma também o Pai confirma; e quando o Pai dá o Espírito, também o Filho o dá, porque o Espírito Santo é de ambos, como diz aos romanos: «Se alguém não tem o Espírito de Cristo, não é dele». Como falou, pois, da perfeição do homem, mencionou neste lugar a Trindade, porque toda a plenitude da perfeição está na Trindade.</p></div>
   <p class="autoria"><span class="autor">Ambrosiaster</span><span class="sobre-autor">, escritor eclesiástico (séc. IV), autor do comentário às cartas de Paulo que a tradição atribuiu a Santo Ambrósio</span><br><span class="obra"><em>Comentário à Segunda Carta aos Coríntios (Commentaria in epistolam ad Corinthios secundam)</em>, Sobre 2Cor 1,21–22 (PL 17, 280B–280C)</span> · <a href="https://mlat.uzh.ch/browser/cps_2.Ambros.CoInEpA3" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São João Crisóstomo</span></summary>
   <div class="comentario-texto"><p>Que é “nos ungiu” e “nos marcou com o selo”? Deu-nos o Espírito, por meio do qual fez as duas coisas, tornando-nos ao mesmo tempo profetas, sacerdotes e reis: eram estas as três classes que antigamente se ungiam. Mas nós agora temos não uma, e sim as três dignidades, e de modo mais elevado. Pois havemos de gozar do Reino; tornamo-nos sacerdotes, oferecendo como sacrifício os nossos corpos: “Oferecei os vossos membros como sacrifício vivo, agradável a Deus” (Rm 12,1), diz; e, além disso, somos constituídos profetas: “O que o olho não viu e o ouvido não ouviu” (1Cor 2,9) nos foi revelado.</p></div>
   <p class="autoria"><span class="autor">São João Crisóstomo</span><span class="sobre-autor">, bispo de Constantinopla (c. 349–407), Doutor da Igreja</span><br><span class="obra"><em>Homilias sobre a 2ª Carta aos Coríntios</em>, Hom. 3, 5 (2Cor 1,21-22) (PG 61, 411)</span> · <a href="https://khazarzar.skeptik.net/pgm/PG_Migne/John%20Chrysostom_PG%2047-64/In%20epistulam%20ii%20ad%20Corinthios.pdf" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São João Crisóstomo</span></summary>
   <div class="comentario-texto"><p>Logo manda que sejas assinalado e te põe a cruz na fronte. (…) A cruz se imprime por meio da unção; e esta unção é ao mesmo tempo óleo e perfume: perfume, porque és a esposa; óleo, porque és o atleta. E, para veres que não é um homem, mas o próprio Deus quem te unge pela mão do sacerdote, ouve Paulo, que diz: “Quem nos confirma convosco em Cristo e nos ungiu é Deus”. E, quando esta unção tiver ungido todos os teus membros, poderás sem medo dominar o dragão, e nada sofrerás de mal.</p></div>
   <p class="autoria"><span class="autor">São João Crisóstomo</span><span class="sobre-autor">, bispo de Constantinopla (c. 349–407), Doutor da Igreja</span><br><span class="obra"><em>Catequese batismal *Ultima ad baptizandos*</em>, Catequese aos que vão ser iluminados (Papadopoulos-Kerameus 3) (ed. Papadopoulos-Kerameus, Varia graeca sacra (São Petersburgo 1909), p. 173)</span> · <a href="https://khazarzar.skeptik.net/pgm/PG_Migne/John%20Chrysostom_PG%2047-64/Catechesis%20ultima%20ad%20baptizandos.pdf" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Haimo de Auxerre</span></summary>
   <div class="comentario-texto"><p>No Antigo Testamento ungiam-se com óleo visível os sacerdotes e os reis. No Novo, todos os fiéis são ungidos, não tanto com óleo visível quanto com a graça invisível do Espírito Santo, no batismo e pela imposição das mãos, e tornam-se reis das almas e sacerdotes dos povos, para santificá-los, conforme diz Pedro: «Vós sois raça escolhida, sacerdócio real, nação santa» (1Pd 2,9). «Que também nos marcou com o selo», isto é, que nos assinalou, dando-nos o seu sinal. Pois, quando Cristo disse: «Como o Pai me enviou, também eu vos envio», pôs neles o seu sinal. «E deu o penhor do Espírito nos nossos corações». Penhor é propriamente o que se dá por uma coisa emprestada, para que, quando ela for devolvida, se receba de volta o penhor. Mas aqui o Apóstolo o pôs antes no sentido de arras, que se dão para que se tenha certeza da promessa e se complete o que falta. Nós, pois, recebemos as arras ou o penhor, isto é, a graça do Espírito Santo no batismo, para que tenhamos segurança e certeza da promessa da pátria eterna.</p></div>
   <p class="autoria"><span class="autor">Haimo de Auxerre</span><span class="sobre-autor">, monge beneditino (séc. IX (m. c. 865)); publicado na PL como «Haimo de Halberstadt»</span><br><span class="obra"><em>Exposição das cartas de Paulo (Expositio in D. Pauli epistolas)</em>, II Cor., cap. 1, vv. 21–22 (PL 117, 610D–611A)</span> · <a href="https://mlat.uzh.ch/browser/cps_2.HayHal.ExInDPa" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São Tomás de Aquino</span></summary>
   <div class="comentario-texto"><p>Estamos, pois, em Cristo de dois modos: pela graça e pela glória. Pela graça, enquanto fomos ungidos pela graça do Espírito Santo, feitos membros de Cristo e unidos a ele. Com esta graça também Cristo foi ungido, enquanto homem; Sl 44,8: «Deus te ungiu» etc. E da plenitude dessa unção ela transbordou sobre todos os seus, como o perfume sobre a cabeça, isto é, sobre Cristo, que desce etc. Por isso diz que «Deus nos ungiu». Ungiu, digo, para sermos reis e sacerdotes; Ap 5,10: «fizeste de nós, para o nosso Deus» etc.; 1Pd 2,9: «vós sois raça escolhida» etc. A união que se dá pela glória não a temos na realidade, mas numa esperança certa, enquanto temos a esperança firme da vida eterna. E temos uma dupla certeza de alcançar esta união: uma pelo selo, outra pelo penhor. Pelo selo evidente, que é o da fé; por isso diz: «marcou-nos com o selo» da fé de Cristo; ou com o sinal da cruz; Ez 9,4: «marca um tau», isto é, o sinal da cruz; Ap 7,3: «até que marquemos com o selo os servos do nosso Deus». E isso pelo Espírito Santo; Rm 8,9: «se alguém não tem o Espírito de Cristo» etc. Por isso é sinal especial e certo de que se alcançará a vida eterna estar configurado a Cristo; Ct 8,6: «põe-me como selo» etc. Ou marcou-nos com o sinal da vida. E pelo penhor, que é o maior, porque é o do Espírito Santo; por isso diz: «deu-nos o penhor do Espírito nos nossos corações». (...) Mas note-se que no penhor há duas coisas a considerar: que dê esperança de ter a coisa, e que valha tanto quanto ela, ou mais; e estas duas coisas estão no Espírito Santo. Pois, se consideramos a substância do Espírito Santo, ele vale tanto quanto a vida eterna, que é o próprio Deus, porque vale tanto quanto as três Pessoas. Mas, se se considera o modo de tê-lo, dá esperança, e não posse, da vida eterna, porque nesta vida ainda não o temos perfeitamente. E por isso não somos perfeitamente felizes senão quando o tivermos perfeitamente na pátria.</p></div>
   <p class="autoria"><span class="autor">São Tomás de Aquino</span><span class="sobre-autor">, dominicano (1225–1274), Doutor da Igreja</span><br><span class="obra"><em>Comentário à Segunda Carta aos Coríntios (Super II ad Corinthios)</em>, cap. 1, lição 5 (ed. Parma, t. 13; Corpus Thomisticum [87697])</span> · <a href="https://www.corpusthomisticum.org/c2c.html" rel="noopener">texto original</a></p>
-</article>
+</details>
 </div>
 <nav class="passos" aria-label="Navegação entre temas"><a class="passo ant" href="/biblia/2corintios/1/comentarios/5/amem/" rel="prev"><span class="dir">← Anterior</span><span class="alvo">O amém por Cristo</span></a><a class="passo seg" href="/biblia/2corintios/1/comentarios/5/trindade/" rel="next"><span class="dir">Seguinte →</span><span class="alvo">A Trindade na unção e no selo</span></a></nav>
 </article>

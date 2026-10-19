@@ -8,8 +8,9 @@
 <meta name="description" content="A pergunta que Deus faz no meio da multidão, e a vida e os dias bons que ele promete.">
 <meta name="color-scheme" content="light dark">
 <link rel="icon" href="/biblia/favicon.svg" type="image/svg+xml">
-<link rel="stylesheet" href="/biblia/css/estilo.css?v=28b77982">
-<script defer src="/biblia/js/biblia.js?v=59ac4c4e"></script>
+<script src="/biblia/js/preferencias.js?v=e879b9fe"></script>
+<link rel="stylesheet" href="/biblia/css/estilo.css?v=0bc11739">
+<script defer src="/biblia/js/biblia.js?v=38a000ee"></script>
 </head>
 <body class="pag-tema">
 <a class="pular" href="#app">Ir para o conteúdo</a>
@@ -17,6 +18,19 @@
   <div class="topo-int">
     <a class="marca" href="/biblia/">Bíblia</a>
     <nav class="trilha" aria-label="Trilha de navegação"><a href="/biblia/salmos/">Salmos</a><span class="sep">›</span><a href="/biblia/salmos/34/">Salmo 34</a><span class="sep">›</span><a href="/biblia/salmos/34/comentarios/">Comentários</a><span class="sep">›</span><span aria-current="page">Quem é o homem que deseja a vida?</span></nav>
+    <div class="ferramentas">
+      <button type="button" class="ferr so-js" id="letra-menor" aria-label="Letra menor" title="Letra menor"><span class="a-menor">A</span>−</button>
+      <button type="button" class="ferr so-js" id="letra-maior" aria-label="Letra maior" title="Letra maior"><span class="a-maior">A</span>+</button>
+      <button type="button" class="ferr so-js" id="trocar-tema" aria-label="Modo claro ou escuro" title="Modo claro ou escuro"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="8.5" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M12 3.5a8.5 8.5 0 0 1 0 17z" fill="currentColor"/></svg></button>
+      <a class="ferr" id="botao-leituras" href="/biblia/leituras/" aria-label="Leituras" title="Leituras"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path class="fita" d="M6.5 3.5h11v17l-5.5-4-5.5 4z" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/></svg></a>
+      <div class="menu-leitura" id="menu-leitura" hidden>
+        <p class="menu-titulo">Leitura aberta</p>
+        <p class="menu-nome" id="menu-nome"></p>
+        <p class="menu-pos" id="menu-pos"></p>
+        <a class="menu-item" href="/biblia/leituras/">Ver as leituras</a>
+        <button type="button" class="menu-item" id="fechar-leitura">Fechar esta leitura</button>
+      </div>
+    </div>
   </div>
 </header>
 <main id="app" tabindex="-1">
@@ -29,30 +43,36 @@
 </header>
 <blockquote class="versos-tema"><p class="poesia"><span class="linha"><span class="calha"><span class="num">13</span></span><span class="txt">Quem é o homem que deseja a vida</span></span><span class="linha"><span class="calha"></span><span class="txt">e ama os dias em que verá o bem?</span></span></p></blockquote>
 <div class="comentarios">
-<article class="comentario">
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São Bento de Núrsia</span></summary>
   <div class="comentario-texto"><p>E o Senhor, procurando o seu operário na multidão do povo a quem clama estas coisas, diz ainda: «Quem é o homem que quer a vida e deseja ver dias felizes?». Se tu, ao ouvir, respondes: «Eu», Deus te diz: «Se queres ter a vida, guarda a tua língua do mal e os teus lábios de falar com engano. Afasta-te do mal e faze o bem; procura a paz e segue-a». «E quando fizerdes isto, os meus olhos estarão sobre vós e os meus ouvidos atentos às vossas preces; e antes que me invoqueis, eu vos direi: Eis-me aqui». Que há de mais doce para nós, irmãos caríssimos, do que esta voz do Senhor que nos convida? Eis que, em sua bondade, o Senhor nos mostra o caminho da vida.</p></div>
   <p class="autoria"><span class="autor">São Bento de Núrsia</span><span class="sobre-autor">, abade (c. 480–c. 547), pai dos monges do Ocidente, padroeiro da Europa</span><br><span class="obra"><em>Regra dos Monges (Regula)</em>, Regra, Prólogo 14–20</span> · <a href="https://mlat.uzh.ch/browser/cps_2.BenNur.ReCuCo" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São Bruno de Segni</span></summary>
   <div class="comentario-texto"><p>«Vinde», diz, «e voltai para mim, porque pecando vos afastastes de mim». E agora, aos que se reuniram e se juntaram num só, diz: «Quem é o homem que quer a vida e deseja ver dias felizes?». E, como se alguém respondesse: «Eu», acrescentou: «Guarda a tua língua do mal e os teus lábios de falar com engano. Afasta-te do mal e faze o bem; procura a paz e segue-a». Nestas poucas palavras está a instrução completa do temor do Senhor e a doutrina perfeita da religião cristã. Aqui se diz tudo: o que devemos evitar e o que devemos fazer. (...) Procura e segue a paz quem ama a todos e não odeia ninguém.</p></div>
   <p class="autoria"><span class="autor">São Bruno de Segni</span><span class="sobre-autor">, bispo de Segni e abade de Montecassino (c. 1045–1123)</span><br><span class="obra"><em>Explicação dos Salmos (Expositio in Psalmos)</em>, Sl 33, vv. 12–15</span> · <a href="https://mlat.uzh.ch/browser/cps_2.BruAst.ExInPs3" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São Basílio Magno</span></summary>
   <div class="comentario-texto"><p>«Se alguém quer a vida», diz ele: não esta vida comum, que também os animais vivem, mas a vida verdadeira, que a morte não interrompe. Pois agora, diz o Apóstolo, «estais mortos, e a vossa vida está escondida com Cristo em Deus; quando Cristo, que é a vossa vida, se manifestar, então também vós sereis manifestados com ele na glória». Portanto, a vida verdadeira é Cristo, e o nosso viver nele é a vida autêntica.</p></div>
   <p class="autoria"><span class="autor">São Basílio Magno</span><span class="sobre-autor">, bispo de Cesareia da Capadócia (c. 330–379), Doutor da Igreja</span><br><span class="obra"><em>Homilia sobre o Salmo 33 (Homiliae in Psalmos)</em>, Hom. Sl 33, 9</span> · <a href="https://khazarzar.skeptik.net/pgm/PG_Migne/Basilius%20Caesariensis_PG%2029-32/Homiliae%20super%20Psalmos.pdf" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Santo Agostinho</span></summary>
   <div class="comentario-texto"><p>Quem quer que sejas, então, que amas a vida longa, ama antes a vida boa. Pois, se quiseres viver mal, a vida longa não será um bem verdadeiro, mas um mal comprido. Vê como és absurdo e às avessas: embora digas que amas mais a vida do que a tua propriedade, preferes ter uma propriedade boa a ter uma vida boa. Pois, para conseguires uma boa propriedade cobiçando-a com avidez e com maldade, fazes má a tua vida trapaceando. E, no entanto, se te dissessem, se te perguntassem se preferirias ficar sem a propriedade boa, perdendo-a, ou ficar sem a vida má, morrendo, responderias que, se não pudesses manter as duas, estarias mais disposto a perder a propriedade. Por que, então, não se ama a vida a ponto de querê-la também boa, essa vida que preferes a todos os teus bens, mesmo sendo má? Desejas, sem dúvida, que ela seja longa, ainda que seja má: faze, antes, que seja boa, e não tenhas medo de que seja curta. Pois, se vives bem e com cuidado, ela acabará depressa, e tu estarás seguro. Porque a ela sucederá a vida eterna, feliz sem medo, longa sem fim.</p></div>
   <p class="autoria"><span class="autor">Santo Agostinho</span><span class="sobre-autor">, bispo de Hipona (354–430), Doutor da Igreja</span><br><span class="obra"><em>Sermões (Sermones)</em>, Sermão 16, 2</span> · <a href="https://mlat.uzh.ch/browser/cps_2.AugHip.SeDeSc" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Santo Agostinho</span></summary>
   <div class="comentario-texto"><p>Não é isso que resmungais todo dia, e que dizeis: «Até quando vamos aguentar isto? Cada dia pior e pior: no tempo dos nossos pais os dias eram mais alegres, os dias eram melhores»? Ah, se perguntasses aos teus próprios pais, eles também resmungariam contigo dos seus dias. «Felizes foram os nossos pais, nós somos uns infelizes, temos dias maus. Aquele governou, e pensávamos que, quando morresse, viria algum alívio; veio coisa pior. Ó Deus, mostra-nos dias bons!» «Quem é o homem que quer a vida e ama ver dias bons?» Que não procure aqui os dias bons. Procura uma coisa boa, mas não a procura na terra dela. É como se procurasses um justo numa terra onde ele não morasse, e alguém te dissesse: «Procuras um homem bom, procuras um grande homem; procura-o, mas não aqui; à toa o procuras aqui; nunca o vais encontrar».</p></div>
   <p class="autoria"><span class="autor">Santo Agostinho</span><span class="sobre-autor">, bispo de Hipona (354–430), Doutor da Igreja</span><br><span class="obra"><em>Comentários aos Salmos (Enarrationes in Psalmos)</em>, Sl 33, sermão 2, 17</span> · <a href="https://www.augustinus.it/latino/esposizioni_salmi/esposizione_salmo_045_testo.htm" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Santo Agostinho</span></summary>
   <div class="comentario-texto"><p>Sempre há dias maus no mundo, mas sempre há dias bons em Deus. Abraão teve dias bons, mas por dentro, no coração; teve dias maus quando a fome o fez mudar de terra e ele procurava o que comer. Assim todos procuraram. Paulo teve dias bons, ele que diz: «Na fome e na sede, no frio e na nudez»? Mas que os servos não se irritem: o próprio Senhor não teve dias bons neste mundo; sofria afrontas, injúrias, a cruz e tantos males.</p></div>
   <p class="autoria"><span class="autor">Santo Agostinho</span><span class="sobre-autor">, bispo de Hipona (354–430), Doutor da Igreja</span><br><span class="obra"><em>Comentários aos Salmos (Enarrationes in Psalmos)</em>, Sl 33, sermão 2, 17</span> · <a href="https://www.augustinus.it/latino/esposizioni_salmi/esposizione_salmo_045_testo.htm" rel="noopener">texto original</a></p>
-</article>
+</details>
 </div>
 <nav class="passos" aria-label="Navegação entre temas"><a class="passo ant" href="/biblia/salmos/34/comentarios/vinde-filhos/" rel="prev"><span class="dir">← Anterior</span><span class="alvo">Vinde, filhos, ouvi-me</span></a><a class="passo seg" href="/biblia/salmos/34/comentarios/lingua-e-paz/" rel="next"><span class="dir">Seguinte →</span><span class="alvo">Guardar a língua, fazer o bem, correr atrás da paz</span></a></nav>
 </article>

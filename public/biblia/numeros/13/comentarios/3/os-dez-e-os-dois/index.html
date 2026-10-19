@@ -8,8 +8,9 @@
 <meta name="description" content="Dez exploradores desanimam o povo, dois o chamam à fé: os bons e os maus pensamentos, os que vivem só a Lei e os que vivem a caridade.">
 <meta name="color-scheme" content="light dark">
 <link rel="icon" href="/biblia/favicon.svg" type="image/svg+xml">
-<link rel="stylesheet" href="/biblia/css/estilo.css?v=28b77982">
-<script defer src="/biblia/js/biblia.js?v=59ac4c4e"></script>
+<script src="/biblia/js/preferencias.js?v=e879b9fe"></script>
+<link rel="stylesheet" href="/biblia/css/estilo.css?v=0bc11739">
+<script defer src="/biblia/js/biblia.js?v=38a000ee"></script>
 </head>
 <body class="pag-tema">
 <a class="pular" href="#app">Ir para o conteúdo</a>
@@ -17,6 +18,19 @@
   <div class="topo-int">
     <a class="marca" href="/biblia/">Bíblia</a>
     <nav class="trilha" aria-label="Trilha de navegação"><a href="/biblia/numeros/">Números</a><span class="sep">›</span><a href="/biblia/numeros/13/">Números 13</a><span class="sep">›</span><a href="/biblia/numeros/13/comentarios/3/">Comentários</a><span class="sep">›</span><span aria-current="page">Os dez e os dois</span></nav>
+    <div class="ferramentas">
+      <button type="button" class="ferr so-js" id="letra-menor" aria-label="Letra menor" title="Letra menor"><span class="a-menor">A</span>−</button>
+      <button type="button" class="ferr so-js" id="letra-maior" aria-label="Letra maior" title="Letra maior"><span class="a-maior">A</span>+</button>
+      <button type="button" class="ferr so-js" id="trocar-tema" aria-label="Modo claro ou escuro" title="Modo claro ou escuro"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="8.5" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M12 3.5a8.5 8.5 0 0 1 0 17z" fill="currentColor"/></svg></button>
+      <a class="ferr" id="botao-leituras" href="/biblia/leituras/" aria-label="Leituras" title="Leituras"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path class="fita" d="M6.5 3.5h11v17l-5.5-4-5.5 4z" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/></svg></a>
+      <div class="menu-leitura" id="menu-leitura" hidden>
+        <p class="menu-titulo">Leitura aberta</p>
+        <p class="menu-nome" id="menu-nome"></p>
+        <p class="menu-pos" id="menu-pos"></p>
+        <a class="menu-item" href="/biblia/leituras/">Ver as leituras</a>
+        <button type="button" class="menu-item" id="fechar-leitura">Fechar esta leitura</button>
+      </div>
+    </div>
   </div>
 </header>
 <main id="app" tabindex="-1">
@@ -29,26 +43,31 @@
 </header>
 <blockquote class="versos-tema"><p class="par"><span class="num">30</span>Caleb fez calar o povo diante de Moisés e disse: Subamos, sim, e tomemos posse dela, porque com certeza a venceremos.</p><p class="par"><span class="num">31</span>Mas os homens que tinham subido com ele disseram: Não podemos subir contra esse povo, porque ele é mais forte do que nós.</p></blockquote>
 <div class="comentarios">
-<article class="comentario">
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São Gregório de Nissa</span></summary>
   <div class="comentario-texto"><p>Por isso fazia de alguns exploradores mestres dos bens que há naquela terra. Estes seriam, a meu ver, de um lado os pensamentos que nascem da fé e apresentam as boas esperanças, confirmando a esperança dos bens guardados para nós; de outro, os que lançam no desespero das melhores esperanças seriam os pensamentos vindos do adversário, que embotam a fé nas promessas. Mas ele não dava crédito a nenhuma palavra contrária, e tinha por digno de fé quem anunciava o melhor sobre aquela terra.</p></div>
   <p class="autoria"><span class="autor">São Gregório de Nissa</span><span class="sobre-autor">, bispo de Nissa (c. 335–c. 395), irmão de São Basílio</span><br><span class="obra"><em>Vida de Moisés (De vita Moysis)</em>, Vida de Moisés II, 265–266</span> · <a href="https://khazarzar.skeptik.net/pgm/PG_Migne/Gregory%20of%20Nyssa_PG%2044-46/De%20vita%20Mosis.pdf" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São João Crisóstomo</span></summary>
   <div class="comentario-texto"><p>Caleb e Josué, portanto, porque não se misturaram com os que não creram, isto é, não concordaram com eles, escaparam do castigo dado contra aqueles. E vê que coisa admirável: não disse «não concordaram», mas «não se misturaram», isto é, separaram-se sem revolta, quando todos os outros tinham uma só e a mesma opinião.</p></div>
   <p class="autoria"><span class="autor">São João Crisóstomo</span><span class="sobre-autor">, bispo de Constantinopla (c. 349–407), Doutor da Igreja</span><br><span class="obra"><em>Homilias sobre a Carta aos Hebreus</em>, Homilias sobre Hebreus 6, 2</span> · <a href="https://khazarzar.skeptik.net/pgm/PG_Migne/John%20Chrysostom_PG%2047-64/In%20epistulam%20ad%20Hebraeos.pdf" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Ricardo de São Vítor</span></summary>
   <div class="comentario-texto"><p>Os dez exploradores que, com palavras perversas, desviaram o coração dos filhos de Israel de entrar na terra da promessa designam os judeus incrédulos, postos sob o Decálogo da lei, que se recusam a buscar pela fé em Cristo as promessas celestes. Os dois exploradores que exortaram fielmente o povo a entrar naquela terra exprimem os cristãos eleitos, postos sob os dois mandamentos da caridade, que desejam com todas as entranhas entrar na alegria da pátria celeste.</p></div>
   <p class="autoria"><span class="autor">Ricardo de São Vítor</span><span class="sobre-autor">, cônego regular de São Vítor (Paris) (m. 1173)</span><br><span class="obra"><em>Alegorias sobre o Antigo Testamento (Allegoriae in Vetus Testamentum; na PL entre as obras de Hugo de São Vítor, hoje atribuídas a Ricardo, Liber exceptionum)</em>, III, 2</span> · <a href="https://mlat.uzh.ch/browser/cps_2.AuInHuD.PosExc" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São John Henry Newman</span></summary>
   <div class="comentario-texto"><p>Tome, para contraste, a história de Caleb. Ele e Josué foram os dois exploradores, dos doze que foram ver a terra quarenta anos antes de entrarem nela, que foram os únicos fiéis. São dois servos de Deus, iguais na fidelidade e na recompensa que receberam. Só eles se puseram com coragem do lado de Deus, rasgaram as vestes quando o povo se rebelou, e por isso estiveram a ponto de ser apedrejados. Só eles, de todos os que saíram do Egito, tiveram o privilégio de entrar afinal na boa terra, enquanto os outros morreram no deserto.</p></div>
   <p class="autoria"><span class="autor">São John Henry Newman</span><span class="sobre-autor">, cardeal (1801–1890), Doutor da Igreja</span><br><span class="obra"><em>Sermons on Subjects of the Day, 12: «Joshua a Type of Christ and His Followers»</em>, ponto 4 (pp. 156–157)</span> · <a href="https://www.newmanreader.org/works/subjects/sermon12.html" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São Gregório Magno</span></summary>
   <div class="comentario-texto"><p>Assim, quando Moisés enviou doze exploradores à terra da promessa e dez deles depois lançaram o povo no desespero, esse povo, inflamado na ira da murmuração, queixou-se de ter sido enganado pelo Senhor, para que os seus cadáveres jazessem no deserto; e Deus onipotente, irado, disse que nenhum deles entraria na terra da promessa [...]. Mas, por uma admirável disposição de disciplina e de misericórdia, ele estava com eles e não estava com eles. Não estava com eles para que vencessem, mas estava com eles para que não perecessem diante dos inimigos. Ó entranhas inefáveis de piedade! Persegue as culpas, e no entanto protege os que pecam.</p></div>
   <p class="autoria"><span class="autor">São Gregório Magno</span><span class="sobre-autor">, papa (c. 540–604), Doutor da Igreja</span><br><span class="obra"><em>Homilias sobre Ezequiel (Homiliae in Hiezechihelem)</em>, I, 1, 18</span> · <a href="https://mlat.uzh.ch/browser/cps_2.GreI.HoInEz" rel="noopener">texto original</a></p>
-</article>
+</details>
 </div>
 <nav class="passos" aria-label="Navegação entre temas"><a class="passo ant" href="/biblia/numeros/13/comentarios/3/caleb/" rel="prev"><span class="dir">← Anterior</span><span class="alvo">Caleb faz calar o povo</span></a><a class="passo seg" href="/biblia/numeros/13/comentarios/3/a-terra-que-devora/" rel="next"><span class="dir">Seguinte →</span><span class="alvo">A terra que devora os seus habitantes</span></a></nav>
 </article>

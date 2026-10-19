@@ -8,8 +8,9 @@
 <meta name="description" content="O pastor e os fiéis partilham as dores e as consolações, e a paciência de uns fortalece a dos outros.">
 <meta name="color-scheme" content="light dark">
 <link rel="icon" href="/biblia/favicon.svg" type="image/svg+xml">
-<link rel="stylesheet" href="/biblia/css/estilo.css?v=28b77982">
-<script defer src="/biblia/js/biblia.js?v=59ac4c4e"></script>
+<script src="/biblia/js/preferencias.js?v=e879b9fe"></script>
+<link rel="stylesheet" href="/biblia/css/estilo.css?v=0bc11739">
+<script defer src="/biblia/js/biblia.js?v=38a000ee"></script>
 </head>
 <body class="pag-tema">
 <a class="pular" href="#app">Ir para o conteúdo</a>
@@ -17,6 +18,19 @@
   <div class="topo-int">
     <a class="marca" href="/biblia/">Bíblia</a>
     <nav class="trilha" aria-label="Trilha de navegação"><a href="/biblia/2corintios/">II Coríntios</a><span class="sep">›</span><a href="/biblia/2corintios/1/">II Coríntios 1</a><span class="sep">›</span><a href="/biblia/2corintios/1/comentarios/2/">Comentários</a><span class="sep">›</span><span aria-current="page">Companheiros nos sofrimentos e na consolação</span></nav>
+    <div class="ferramentas">
+      <button type="button" class="ferr so-js" id="letra-menor" aria-label="Letra menor" title="Letra menor"><span class="a-menor">A</span>−</button>
+      <button type="button" class="ferr so-js" id="letra-maior" aria-label="Letra maior" title="Letra maior"><span class="a-maior">A</span>+</button>
+      <button type="button" class="ferr so-js" id="trocar-tema" aria-label="Modo claro ou escuro" title="Modo claro ou escuro"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="8.5" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M12 3.5a8.5 8.5 0 0 1 0 17z" fill="currentColor"/></svg></button>
+      <a class="ferr" id="botao-leituras" href="/biblia/leituras/" aria-label="Leituras" title="Leituras"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path class="fita" d="M6.5 3.5h11v17l-5.5-4-5.5 4z" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/></svg></a>
+      <div class="menu-leitura" id="menu-leitura" hidden>
+        <p class="menu-titulo">Leitura aberta</p>
+        <p class="menu-nome" id="menu-nome"></p>
+        <p class="menu-pos" id="menu-pos"></p>
+        <a class="menu-item" href="/biblia/leituras/">Ver as leituras</a>
+        <button type="button" class="menu-item" id="fechar-leitura">Fechar esta leitura</button>
+      </div>
+    </div>
   </div>
 </header>
 <main id="app" tabindex="-1">
@@ -29,30 +43,36 @@
 </header>
 <blockquote class="versos-tema"><p class="par"><span class="num">6</span>Se somos atribulados, é para vossa consolação e salvação; se somos consolados, é para vossa consolação, que se realiza na paciência com que suportais os mesmos sofrimentos que também nós padecemos.</p><p class="par"><span class="num">7</span>E a nossa esperança a vosso respeito é firme, pois sabemos que, como sois companheiros dos sofrimentos, assim também o sois da consolação.</p></blockquote>
 <div class="comentarios">
-<article class="comentario">
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São João Crisóstomo</span></summary>
   <div class="comentario-texto"><p>“Que se opera na paciência dos mesmos sofrimentos.” Pois a vossa salvação não vem só por crer, mas também por sofrer as mesmas coisas que nós e suportá-las. Um lutador de pancrácio é admirável mesmo só de ser visto, robusto e com a arte dentro de si; mas, quando luta, recebe golpes e golpeia o adversário, então brilha mais, porque então o seu vigor entra em ação e a prova da sua arte se mostra. Assim também a vossa salvação se opera mais quando tem paciência, quando sofre e suporta tudo com coragem: então se mostra, cresce, se fortalece. Portanto, o que põe a salvação em ação não é fazer o mal, mas sofrer o mal. E não disse “que opera”, mas “que se opera”, mostrando que, junto com a boa vontade deles, também a graça contribuía muito, agindo neles.</p></div>
   <p class="autoria"><span class="autor">São João Crisóstomo</span><span class="sobre-autor">, bispo de Constantinopla (c. 349–407), Doutor da Igreja</span><br><span class="obra"><em>Homilias sobre a 2ª Carta aos Coríntios</em>, Hom. 2, 1 (2Cor 1,6) (PG 61, 392)</span> · <a href="https://khazarzar.skeptik.net/pgm/PG_Migne/John%20Chrysostom_PG%2047-64/In%20epistulam%20ii%20ad%20Corinthios.pdf" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São João Crisóstomo</span></summary>
   <div class="comentario-texto"><p>“Sabendo que, assim como sois companheiros dos sofrimentos, assim também o sereis da consolação.” Pois, assim como sofreis quando somos perseguidos, como se vós mesmos padecêsseis isso, assim também sabemos que, quando somos consolados, julgais ter parte nesse bem. Que alma pode haver mais humilde do que esta? Nos perigos ele leva tanta vantagem e chama companheiros os que não suportam nem a menor parte deles; e na consolação atribui toda a causa a eles, não aos próprios trabalhos.</p></div>
   <p class="autoria"><span class="autor">São João Crisóstomo</span><span class="sobre-autor">, bispo de Constantinopla (c. 349–407), Doutor da Igreja</span><br><span class="obra"><em>Homilias sobre a 2ª Carta aos Coríntios</em>, Hom. 2, 2 (2Cor 1,7) (PG 61, 394)</span> · <a href="https://khazarzar.skeptik.net/pgm/PG_Migne/John%20Chrysostom_PG%2047-64/In%20epistulam%20ii%20ad%20Corinthios.pdf" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Atão de Vercelli</span></summary>
   <div class="comentario-texto"><p>É preciso saber que isto não acontecia só naquele tempo, mas acontece também agora. Por exemplo: há na Igreja alguém que crê retamente e vive retamente; se lhe acontecem tribulações, perseguições e adversidades, os que são fracos na Igreja, vendo isso, passam a desprezar a vida dele, que antes veneravam. Foi o que se lê dos amigos de Jó: eles mesmos viviam santamente e julgavam que Jó vivia santamente, até que não o viram ferido; mas, logo que o viram provado, ferido e despojado de todos os bens temporais, romperam em censuras, crendo que os bens dele não eram verdadeiros, mas fingidos. Isto também agora costuma acontecer na Igreja.</p></div>
   <p class="autoria"><span class="autor">Atão de Vercelli</span><span class="sobre-autor">, bispo de Vercelli (c. 885–961)</span><br><span class="obra"><em>Exposição das cartas de São Paulo (Expositio epistolarum S. Pauli)</em>, II Cor., cap. 1, vv. 6–7 (PL 134, 416B–C)</span> · <a href="https://mlat.uzh.ch/browser/cps_2.AttVer.ExEpSPa" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São Tomás de Aquino</span></summary>
   <div class="comentario-texto"><p>E primeiro a tribulação deles, quando diz: «se somos atribulados», etc. Como se dissesse: tudo o que recebemos é de fato para o vosso bem, porque, «se somos atribulados, é para vossa exortação e salvação», isto é, porque pelo nosso exemplo Deus vos exorta a suportar os sofrimentos, e daí vos vem a salvação eterna. Por isso se lê em 1Mc 6,34 que mostraram aos elefantes o suco da uva e das amoras para incitá-los à batalha. É o que se faz quando se põem diante dos tíbios e dos preguiçosos, como exemplo, os sofrimentos dos santos. Em segundo lugar, mostra que a consolação deles redunda em proveito dos outros, quando diz: «se somos consolados». Como se dissesse: a nossa consolação, pela qual nos consolamos na esperança da recompensa, é para vossa consolação, enquanto, pelo nosso exemplo, tendo também vós a mesma esperança da recompensa, vos alegrais. Em terceiro lugar, mostra que a exortação que eles recebem é para o bem dos outros, dizendo: «se somos exortados», pela inspiração interior ou pelos flagelos, é para vossa exortação, isto é, para que vos animeis a coisas maiores e espereis a salvação.</p></div>
   <p class="autoria"><span class="autor">São Tomás de Aquino</span><span class="sobre-autor">, dominicano (1225–1274), Doutor da Igreja</span><br><span class="obra"><em>Comentário à Segunda Carta aos Coríntios (Super II ad Corinthios)</em>, cap. 1, lição 3 (ed. Parma, t. 13; Corpus Thomisticum [87695])</span> · <a href="https://www.corpusthomisticum.org/c2c.html" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São João da Cruz</span></summary>
   <div class="comentario-texto"><p>Voltando, pois, à nossa explicação: a alma reconhece aqui que tudo lhe saiu bem, que agora «as suas trevas são como a sua luz» (Sl 138,12) e que, assim como foi participante das tribulações, agora o é das consolações e do reino (2Cor 1,7); vê que os trabalhos interiores e exteriores lhe foram muito bem pagos com bens divinos da alma e do corpo, sem que haja trabalho que não tenha a sua correspondência de grande recompensa; e por isso o confessa, já bem satisfeita, dizendo: «E toda dívida paga».</p></div>
   <p class="autoria"><span class="autor">São João da Cruz</span><span class="sobre-autor">, presbítero carmelita (1542–1591), Doutor da Igreja</span><br><span class="obra"><em>Chama de amor viva (Llama de amor viva), segunda redação</em>, canção 2, v. «y toda deuda paga», n. 31 (texto da Opera omnia em espanhol da Documenta Catholica Omnia)</span> · <a href="https://www.documentacatholicaomnia.eu/03d/1542-1591,_Ioannes_a_Cruce,_Opera_Omnia,_ES.doc" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São João Paulo II</span></summary>
   <div class="comentario-texto"><p>De fato, a fé no amor e na Providência do Pai nos garante que Deus está realmente perto de cada tribulação nossa, «para que também nós possamos consolar os que estão em qualquer aflição». E esta nossa fé nasce da contemplação de Cristo crucificado para a nossa salvação. […] São Paulo reconhece abertamente as muitas tribulações que atormentam a sua vida de apóstolo, mesmo no meio das alegrias do ministério, e afirma com plena certeza que tanto os seus sofrimentos como as suas consolações são conforto e salvação para os fiéis.</p></div>
   <p class="autoria"><span class="autor">São João Paulo II</span><span class="sobre-autor">, papa (1920–2005)</span><br><span class="obra"><em>Homilia na Missa com os doentes, Haia (Países Baixos), 13 de maio de 1985</em>, n. 1 (Insegnamenti di Giovanni Paolo II VIII/1 (1985))</span> · <a href="https://www.vatican.va/content/john-paul-ii/it/homilies/1985/documents/hf_jp-ii_hom_19850513_malati-aja.html" rel="noopener">texto original</a></p>
-</article>
+</details>
 </div>
 <nav class="passos" aria-label="Navegação entre temas"><a class="passo ant" href="/biblia/2corintios/1/comentarios/2/sofrimentos-de-cristo/" rel="prev"><span class="dir">← Anterior</span><span class="alvo">«Os sofrimentos de Cristo abundam em nós»</span></a></nav>
 </article>

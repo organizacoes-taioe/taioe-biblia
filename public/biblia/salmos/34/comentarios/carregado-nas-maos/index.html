@@ -8,8 +8,9 @@
 <meta name="description" content="Na Bíblia latina, Davi diante do rei «era carregado nas próprias mãos» (1 Sm 21,14): os Padres viram nisso a Última Ceia, quando Cristo tomou o seu Corpo nas mãos.">
 <meta name="color-scheme" content="light dark">
 <link rel="icon" href="/biblia/favicon.svg" type="image/svg+xml">
-<link rel="stylesheet" href="/biblia/css/estilo.css?v=28b77982">
-<script defer src="/biblia/js/biblia.js?v=59ac4c4e"></script>
+<script src="/biblia/js/preferencias.js?v=e879b9fe"></script>
+<link rel="stylesheet" href="/biblia/css/estilo.css?v=0bc11739">
+<script defer src="/biblia/js/biblia.js?v=38a000ee"></script>
 </head>
 <body class="pag-tema">
 <a class="pular" href="#app">Ir para o conteúdo</a>
@@ -17,6 +18,19 @@
   <div class="topo-int">
     <a class="marca" href="/biblia/">Bíblia</a>
     <nav class="trilha" aria-label="Trilha de navegação"><a href="/biblia/salmos/">Salmos</a><span class="sep">›</span><a href="/biblia/salmos/34/">Salmo 34</a><span class="sep">›</span><a href="/biblia/salmos/34/comentarios/">Comentários</a><span class="sep">›</span><span aria-current="page">Carregado nas próprias mãos</span></nav>
+    <div class="ferramentas">
+      <button type="button" class="ferr so-js" id="letra-menor" aria-label="Letra menor" title="Letra menor"><span class="a-menor">A</span>−</button>
+      <button type="button" class="ferr so-js" id="letra-maior" aria-label="Letra maior" title="Letra maior"><span class="a-maior">A</span>+</button>
+      <button type="button" class="ferr so-js" id="trocar-tema" aria-label="Modo claro ou escuro" title="Modo claro ou escuro"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="8.5" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M12 3.5a8.5 8.5 0 0 1 0 17z" fill="currentColor"/></svg></button>
+      <a class="ferr" id="botao-leituras" href="/biblia/leituras/" aria-label="Leituras" title="Leituras"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path class="fita" d="M6.5 3.5h11v17l-5.5-4-5.5 4z" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/></svg></a>
+      <div class="menu-leitura" id="menu-leitura" hidden>
+        <p class="menu-titulo">Leitura aberta</p>
+        <p class="menu-nome" id="menu-nome"></p>
+        <p class="menu-pos" id="menu-pos"></p>
+        <a class="menu-item" href="/biblia/leituras/">Ver as leituras</a>
+        <button type="button" class="menu-item" id="fechar-leitura">Fechar esta leitura</button>
+      </div>
+    </div>
   </div>
 </header>
 <main id="app" tabindex="-1">
@@ -29,38 +43,46 @@
 </header>
 <blockquote class="versos-tema"><p class="par"><span class="num">1</span>De Davi, quando se fingiu de louco diante de Abimelec, que o expulsou; e ele se foi.</p></blockquote>
 <div class="comentarios">
-<article class="comentario">
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Santo Agostinho</span></summary>
   <div class="comentario-texto"><p>«E era carregado nas próprias mãos.» Isto, irmãos, quem entende como poderia acontecer num homem? Pois quem é carregado nas próprias mãos? Um homem pode ser carregado nas mãos dos outros; nas próprias mãos ninguém é carregado. Como se entenda isso ao pé da letra no próprio Davi, não achamos; mas em Cristo achamos. Pois Cristo era carregado nas próprias mãos quando, ao entregar o seu próprio corpo, disse: «Isto é o meu corpo». Pois ele carregava aquele corpo nas próprias mãos. Essa é a humildade de nosso Senhor Jesus Cristo, e é ela que se recomenda tanto aos homens. É a ela, irmãos, que ele nos exorta a viver, isto é, a imitar a sua humildade: para que derrubemos Golias e, agarrados a Cristo, vençamos a soberba.</p></div>
   <p class="autoria"><span class="autor">Santo Agostinho</span><span class="sobre-autor">, bispo de Hipona (354–430), Doutor da Igreja</span><br><span class="obra"><em>Comentários aos Salmos (Enarrationes in Psalmos)</em>, Sl 33, sermão 1, 10</span> · <a href="https://www.augustinus.it/latino/esposizioni_salmi/esposizione_salmo_044_testo.htm" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Santo Agostinho</span></summary>
   <div class="comentario-texto"><p>Foi tirado, então, o sacrifício de Aarão, e começou o sacrifício segundo a ordem de Melquisedec. Portanto, não sei quem «mudou o seu rosto». Quem é esse «não sei quem»? Que não seja um «não sei quem»: é bem conhecido, é nosso Senhor Jesus Cristo. Ele quis que a nossa salvação estivesse no seu Corpo e no seu Sangue. E como foi que ele nos deu o seu Corpo e o seu Sangue? Pela sua humildade. Pois, se não fosse humilde, não seria comido nem bebido.</p></div>
   <p class="autoria"><span class="autor">Santo Agostinho</span><span class="sobre-autor">, bispo de Hipona (354–430), Doutor da Igreja</span><br><span class="obra"><em>Comentários aos Salmos (Enarrationes in Psalmos)</em>, Sl 33, sermão 1, 6</span> · <a href="https://www.augustinus.it/latino/esposizioni_salmi/esposizione_salmo_044_testo.htm" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Santo Agostinho</span></summary>
   <div class="comentario-texto"><p>Olha a altura dele: «No princípio era o Verbo, e o Verbo estava junto de Deus, e o Verbo era Deus». Eis o alimento eterno: mas dele comem os anjos, comem as Virtudes do alto, comem os espíritos celestes; comendo, eles se fartam, e continua inteiro aquilo que os sacia e os alegra. Mas que homem poderia chegar a esse alimento? Onde haveria um coração à altura dele? Era preciso, então, que aquela mesa se fizesse leite e chegasse aos pequeninos. E como o alimento vira leite? Como o alimento se transforma em leite, senão passando pela carne? É o que faz a mãe. O que a mãe come, a criança come; mas, como a criança ainda não é capaz de comer pão, a mãe faz o próprio pão virar carne e, pela humildade do seio e pelo suco do leite, alimenta a criança com o mesmo pão.</p></div>
   <p class="autoria"><span class="autor">Santo Agostinho</span><span class="sobre-autor">, bispo de Hipona (354–430), Doutor da Igreja</span><br><span class="obra"><em>Comentários aos Salmos (Enarrationes in Psalmos)</em>, Sl 33, sermão 1, 6</span> · <a href="https://www.augustinus.it/latino/esposizioni_salmi/esposizione_salmo_044_testo.htm" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Santo Agostinho</span></summary>
   <div class="comentario-texto"><p>Ele, porém, dizia: «Se alguém não comer a minha carne e não beber o meu sangue». Como ele tinha mudado o seu rosto, parecia loucura e insensatez dar aos homens a sua carne para comer e o seu sangue para beber. Por isso Davi foi tido por louco, quando o próprio Aquis disse: «Trouxestes-me este possesso». Não parece loucura: «Comei a minha carne e bebei o meu sangue»? E, ao dizer: «Quem não comer a minha carne e não beber o meu sangue não terá a vida em si», parece que ele perdeu o juízo. Mas parece louco ao rei Aquis, isto é, aos tolos e aos ignorantes.</p></div>
   <p class="autoria"><span class="autor">Santo Agostinho</span><span class="sobre-autor">, bispo de Hipona (354–430), Doutor da Igreja</span><br><span class="obra"><em>Comentários aos Salmos (Enarrationes in Psalmos)</em>, Sl 33, sermão 1, 8</span> · <a href="https://www.augustinus.it/latino/esposizioni_salmi/esposizione_salmo_044_testo.htm" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São Bruno, o Cartuxo</span></summary>
   <div class="comentario-texto"><p>Deixou cair saliva na barba quando mandou aos apóstolos comer a sua carne e beber o seu sangue. Esse mandamento se chama saliva porque a muitos, que não o entendiam, pareceu dito de modo tolo e infantil, como a saliva que escorre da boca das crianças. (...) Mas essa saliva caiu na barba, isto é, nos apóstolos, que, como soldados valentes dele, não a rejeitaram, mas a receberam procurando entendê-la. Por isso se conta que Pedro disse: «Senhor, a quem iremos? Tu tens palavras de vida eterna». (...) E de modo admirável carregou-se a si mesmo nas mãos, quando, levando nas mãos o seu corpo e o seu sangue, os deu aos discípulos na Ceia, dizendo: «Tomai, isto é o meu corpo».</p></div>
   <p class="autoria"><span class="autor">São Bruno, o Cartuxo</span><span class="sobre-autor">, fundador da Ordem da Cartuxa (c. 1030–1101)</span><br><span class="obra"><em>Explicação dos Salmos (Expositio in Psalmos)</em>, Sl 33, título</span> · <a href="https://mlat.uzh.ch/browser/cps_2.BruCar.ExInPs2" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São Tomás de Aquino</span></summary>
   <div class="comentario-texto"><p>No sentido místico, Cristo mudou o rosto quando mudou o seu sacramento, no qual a verdade divina estava escondida. Ou: Cristo mudou o antigo sacramento da Páscoa no novo, diante de Abimelec, que se interpreta «reino de meu pai». O Pai de Cristo é Deus, segundo a divindade, e Davi, segundo a humanidade. O reino de Davi é o povo judeu; o reino de Deus é a Igreja. Cristo mudou o rosto diante de Abimelec, isto é, diante dos judeus, que eram o reino do seu pai Davi e não o reconheceram (...). E foi embora para os pagãos.</p></div>
   <p class="autoria"><span class="autor">São Tomás de Aquino</span><span class="sobre-autor">, dominicano (1225–1274), Doutor da Igreja</span><br><span class="obra"><em>Comentário aos Salmos (Postilla super Psalmos)</em>, Sl 33, n. 1 (título)</span> · <a href="https://www.corpusthomisticum.org/cps31.html" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Eusébio de Cesareia</span></summary>
   <div class="comentario-texto"><p>Já que ele mesmo, tendo comido os pães da proposição, «mudou o seu gosto» e depois sentiu, pelo gosto, uma força divina que lhe foi dada, por isso, segundo a palavra «recebi sem fraude e reparto sem inveja», exorta também os outros a se apressarem para um gosto como o dele e a pedirem para serem alimentados com o pão da vida, de que eram símbolo e imagem os pães da proposição prescritos por Moisés. Por isso Davi, compreendendo de que coisa o pão da proposição era imagem, não convida a correr para o pão do corpo, mas para aquele que por ele se entende.</p></div>
   <p class="autoria"><span class="autor">Eusébio de Cesareia</span><span class="sobre-autor">, bispo de Cesareia (c. 263–339), o primeiro historiador da Igreja; escritor eclesiástico, não canonizado</span><br><span class="obra"><em>Comentário aos Salmos (Commentaria in Psalmos)</em>, Sl 33, v. 9</span> · <a href="https://khazarzar.skeptik.net/pgm/PG_Migne/Eusebius%20Caesariensis_PG%2019-24/Commentaria%20in%20Psalmos.pdf" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Teodoreto de Ciro</span></summary>
   <div class="comentario-texto"><p>Pois esse alimento estava reservado só aos sacerdotes; mas assim mesmo se esboçavam de antemão os mistérios da graça, e já se abria aos que creem a porta da generosidade divina: o alimento divino já não está reservado só aos sacerdotes, mas a participação nas coisas divinas está à disposição de quem quiser.</p></div>
   <p class="autoria"><span class="autor">Teodoreto de Ciro</span><span class="sobre-autor">, bispo de Ciro, na Síria (c. 393–c. 460); escritor eclesiástico</span><br><span class="obra"><em>Interpretação dos Salmos (Interpretatio in Psalmos)</em>, Sl 33, v. 1</span> · <a href="https://khazarzar.skeptik.net/pgm/PG_Migne/Theodoretus%20of%20Cyrrhus_PG%2080-84/Interpretatio%20in%20Psalmos.pdf" rel="noopener">texto original</a></p>
-</article>
+</details>
 </div>
 <nav class="passos" aria-label="Navegação entre temas"><span></span><a class="passo seg" href="/biblia/salmos/34/comentarios/loucura-de-davi/" rel="next"><span class="dir">Seguinte →</span><span class="alvo">A loucura de Davi e a humildade de Cristo</span></a></nav>
 </article>

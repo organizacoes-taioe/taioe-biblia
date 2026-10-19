@@ -8,8 +8,9 @@
 <meta name="description" content="Não é Moisés, a Lei, quem leva o povo à terra prometida, mas Josué, que tem o nome de Jesus: a graça.">
 <meta name="color-scheme" content="light dark">
 <link rel="icon" href="/biblia/favicon.svg" type="image/svg+xml">
-<link rel="stylesheet" href="/biblia/css/estilo.css?v=28b77982">
-<script defer src="/biblia/js/biblia.js?v=59ac4c4e"></script>
+<script src="/biblia/js/preferencias.js?v=e879b9fe"></script>
+<link rel="stylesheet" href="/biblia/css/estilo.css?v=0bc11739">
+<script defer src="/biblia/js/biblia.js?v=38a000ee"></script>
 </head>
 <body class="pag-tema">
 <a class="pular" href="#app">Ir para o conteúdo</a>
@@ -17,6 +18,19 @@
   <div class="topo-int">
     <a class="marca" href="/biblia/">Bíblia</a>
     <nav class="trilha" aria-label="Trilha de navegação"><a href="/biblia/numeros/">Números</a><span class="sep">›</span><a href="/biblia/numeros/13/">Números 13</a><span class="sep">›</span><a href="/biblia/numeros/13/comentarios/1/">Comentários</a><span class="sep">›</span><span aria-current="page">Não por Moisés, mas por Jesus</span></nav>
+    <div class="ferramentas">
+      <button type="button" class="ferr so-js" id="letra-menor" aria-label="Letra menor" title="Letra menor"><span class="a-menor">A</span>−</button>
+      <button type="button" class="ferr so-js" id="letra-maior" aria-label="Letra maior" title="Letra maior"><span class="a-maior">A</span>+</button>
+      <button type="button" class="ferr so-js" id="trocar-tema" aria-label="Modo claro ou escuro" title="Modo claro ou escuro"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="8.5" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M12 3.5a8.5 8.5 0 0 1 0 17z" fill="currentColor"/></svg></button>
+      <a class="ferr" id="botao-leituras" href="/biblia/leituras/" aria-label="Leituras" title="Leituras"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path class="fita" d="M6.5 3.5h11v17l-5.5-4-5.5 4z" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/></svg></a>
+      <div class="menu-leitura" id="menu-leitura" hidden>
+        <p class="menu-titulo">Leitura aberta</p>
+        <p class="menu-nome" id="menu-nome"></p>
+        <p class="menu-pos" id="menu-pos"></p>
+        <a class="menu-item" href="/biblia/leituras/">Ver as leituras</a>
+        <button type="button" class="menu-item" id="fechar-leitura">Fechar esta leitura</button>
+      </div>
+    </div>
   </div>
 </header>
 <main id="app" tabindex="-1">
@@ -29,26 +43,31 @@
 </header>
 <blockquote class="versos-tema"><p class="par"><span class="num">16</span>Estes são os nomes dos homens que Moisés enviou para explorar a terra. E Moisés deu a Oseias, filho de Num, o nome de Josué.</p></blockquote>
 <div class="comentarios">
-<article class="comentario">
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Tertuliano</span></summary>
   <div class="comentario-texto"><p>«Mas se o Cristo que se espera», dizem eles, «não se chama Jesus, por que aquele que veio se chama Jesus Cristo?» Ora, os dois nomes vão constar no Cristo de Deus, no qual se encontra também o nome de Jesus. Aprende de onde vem o teu erro. Quando Auses [Oseias], filho de Nave [Num], foi destinado a suceder a Moisés, certamente foi mudado do seu nome anterior e começou a chamar-se Jesus. «É verdade», dizes. Pois afirmamos que antes isso foi figura do que havia de vir. Como Jesus Cristo havia de introduzir o segundo povo, que somos nós, as nações que antes morávamos no deserto do mundo, na terra da promessa, que mana leite e mel, isto é, na posse da vida eterna, que nada supera em doçura, e como isso havia de acontecer não por Moisés, isto é, não pela disciplina da lei, mas por Jesus, isto é, pela graça da nova lei [...], por isso aquele homem, preparado como imagem deste mistério, foi consagrado também com a figura do nome do Senhor, a ponto de se chamar Jesus.</p></div>
   <p class="autoria"><span class="autor">Tertuliano</span><span class="sobre-autor">, escritor eclesiástico de Cartago (c. 155–c. 220)</span><br><span class="obra"><em>Contra os judeus (Adversus Iudaeos)</em>, 9</span> · <a href="https://mlat.uzh.ch/browser/cps_2.Tertul.AdvJud" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Lactâncio</span></summary>
   <div class="comentario-texto"><p>Disse que haveria uma segunda circuncisão, não da carne, como foi a primeira, que os judeus praticam até hoje, mas do coração e do espírito, a que Cristo nos deu, ele que foi o verdadeiro Jesus. Pois o Profeta não diz: «E o Senhor me disse», mas «disse a Jesus», para mostrar que não falava de si, mas de Cristo, a quem Deus então falava. Aquele Jesus [Josué] trazia a figura de Cristo: chamava-se primeiro Auses, e Moisés, pressentindo o futuro, mandou que o chamassem Jesus, para que, tendo sido escolhido como chefe do exército contra Amalec, que atacava os filhos de Israel, vencesse o adversário pela figura do nome e introduzisse o povo na terra da promessa. E por isso também sucedeu a Moisés: para mostrar que a nova lei, dada por Cristo Jesus, havia de suceder à lei antiga, que foi dada por Moisés.</p></div>
   <p class="autoria"><span class="autor">Lactâncio</span><span class="sobre-autor">, escritor eclesiástico (c. 250–c. 325), retórico</span><br><span class="obra"><em>Instituições divinas (Divinae institutiones)</em>, IV, 17</span> · <a href="https://mlat.uzh.ch/browser/cps_2.Lactan.DiInLiI4" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Santo Agostinho</span></summary>
   <div class="comentario-texto"><p>Como foi dito a Moisés (assim agradou a Deus, por causa de um mistério e de um desígnio determinado) que ele mesmo não introduziria o povo na terra prometida, é escolhido outro, Jesus, filho de Num. E esse homem não se chamava por esse nome: chamava-se Oseias. Quando Moisés lhe confiou a tarefa de introduzir o povo, chamou-o, mudou o seu nome e o chamou Jesus, para que o povo de Deus entrasse na terra prometida não por Moisés, mas por Jesus, isto é, não pela lei, mas pela graça. Mas, assim como aquele Jesus não era o verdadeiro, e sim figura, assim também aquela terra prometida não era a verdadeira, e sim figura. Aquela foi temporal para o primeiro povo; a que nos foi prometida será eterna. Mas, por meio de figuras temporais, prometiam-se e anunciavam-se as coisas eternas.</p></div>
   <p class="autoria"><span class="autor">Santo Agostinho</span><span class="sobre-autor">, bispo de Hipona (354–430), Doutor da Igreja</span><br><span class="obra"><em>Sermões (Sermo 352, Sobre a utilidade da penitência, II)</em>, Sermão 352, 4</span> · <a href="https://mlat.uzh.ch/browser/cps_2.AugHip.SeDeDi" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São João Crisóstomo</span></summary>
   <div class="comentario-texto"><p>Por que [o sol parou diante de Josué]? O nome de Jesus era figura de Cristo. Por isso, como ele tinha recebido em figura esse nome, Jesus, a criação respeitou o próprio nome. E então? Nenhum outro se chamou Jesus? Mas este foi chamado assim para isso, em figura; pois antes se chamava Oseias; por isso o nome foi mudado: era uma predição e uma profecia. Ele fez o povo entrar na terra prometida, como Jesus o faz entrar no céu; não a Lei, assim como também não Moisés, que ficou de fora: a Lei não tem força para fazer entrar, mas a graça.</p></div>
   <p class="autoria"><span class="autor">São João Crisóstomo</span><span class="sobre-autor">, bispo de Constantinopla (c. 349–407), Doutor da Igreja</span><br><span class="obra"><em>Homilias sobre a Carta aos Hebreus</em>, Homilias sobre Hebreus 27, 3</span> · <a href="https://khazarzar.skeptik.net/pgm/PG_Migne/John%20Chrysostom_PG%2047-64/In%20epistulam%20ad%20Hebraeos.pdf" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Santo Agostinho</span></summary>
   <div class="comentario-texto"><p>Resta que aquele judeu, se quer ser judeu no íntimo, não pela letra mas pelo espírito, se quer ser tido como verdadeiro israelita, em quem não há falsidade, se lembre, na figura, daquele Jesus [Josué] morto, que introduziu o povo na terra dos que morrem, e reconheça, na verdade, o Jesus vivo, o Cristo, sob cuja guia possa entrar na terra dos vivos.</p></div>
   <p class="autoria"><span class="autor">Santo Agostinho</span><span class="sobre-autor">, bispo de Hipona (354–430), Doutor da Igreja</span><br><span class="obra"><em>Contra Fausto, o maniqueu (Contra Faustum Manichaeum)</em>, XVI, 20</span> · <a href="https://mlat.uzh.ch/browser/cps_2.AugHip.CoFaMa" rel="noopener">texto original</a></p>
-</article>
+</details>
 </div>
 <nav class="passos" aria-label="Navegação entre temas"><a class="passo ant" href="/biblia/numeros/13/comentarios/1/o-que-vai-a-frente/" rel="prev"><span class="dir">← Anterior</span><span class="alvo">O nome dado a quem vai à frente</span></a></nav>
 </article>

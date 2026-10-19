@@ -8,8 +8,9 @@
 <meta name="description" content="A penitência se mede pelo pecado, mas também pelas forças de quem pecou.">
 <meta name="color-scheme" content="light dark">
 <link rel="icon" href="/biblia/favicon.svg" type="image/svg+xml">
-<link rel="stylesheet" href="/biblia/css/estilo.css?v=28b77982">
-<script defer src="/biblia/js/biblia.js?v=59ac4c4e"></script>
+<script src="/biblia/js/preferencias.js?v=e879b9fe"></script>
+<link rel="stylesheet" href="/biblia/css/estilo.css?v=0bc11739">
+<script defer src="/biblia/js/biblia.js?v=38a000ee"></script>
 </head>
 <body class="pag-tema">
 <a class="pular" href="#app">Ir para o conteúdo</a>
@@ -17,6 +18,19 @@
   <div class="topo-int">
     <a class="marca" href="/biblia/">Bíblia</a>
     <nav class="trilha" aria-label="Trilha de navegação"><a href="/biblia/2corintios/">II Coríntios</a><span class="sep">›</span><a href="/biblia/2corintios/2/">II Coríntios 2</a><span class="sep">›</span><a href="/biblia/2corintios/2/comentarios/2/">Comentários</a><span class="sep">›</span><span aria-current="page">«Basta a esse tal a punição»</span></nav>
+    <div class="ferramentas">
+      <button type="button" class="ferr so-js" id="letra-menor" aria-label="Letra menor" title="Letra menor"><span class="a-menor">A</span>−</button>
+      <button type="button" class="ferr so-js" id="letra-maior" aria-label="Letra maior" title="Letra maior"><span class="a-maior">A</span>+</button>
+      <button type="button" class="ferr so-js" id="trocar-tema" aria-label="Modo claro ou escuro" title="Modo claro ou escuro"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="8.5" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M12 3.5a8.5 8.5 0 0 1 0 17z" fill="currentColor"/></svg></button>
+      <a class="ferr" id="botao-leituras" href="/biblia/leituras/" aria-label="Leituras" title="Leituras"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path class="fita" d="M6.5 3.5h11v17l-5.5-4-5.5 4z" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/></svg></a>
+      <div class="menu-leitura" id="menu-leitura" hidden>
+        <p class="menu-titulo">Leitura aberta</p>
+        <p class="menu-nome" id="menu-nome"></p>
+        <p class="menu-pos" id="menu-pos"></p>
+        <a class="menu-item" href="/biblia/leituras/">Ver as leituras</a>
+        <button type="button" class="menu-item" id="fechar-leitura">Fechar esta leitura</button>
+      </div>
+    </div>
   </div>
 </header>
 <main id="app" tabindex="-1">
@@ -29,30 +43,36 @@
 </header>
 <blockquote class="versos-tema"><p class="par"><span class="num">6</span>Basta a esse tal a punição que lhe foi imposta pela maioria,</p><p class="par"><span class="num">7</span>de modo que, pelo contrário, deveis antes perdoá-lo e consolá-lo, para que ele não seja tragado por uma tristeza excessiva.</p></blockquote>
 <div class="comentarios">
-<article class="comentario">
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Teodoreto de Ciro</span></summary>
   <div class="comentario-texto"><p>Mostrou a intensidade do arrependimento ao falar de “tristeza excessiva”; mas, mesmo assim, chama o perdão de graça, mostrando que o pecado era maior que o arrependimento. Deixou claro também o zelo dos coríntios: “basta a esse homem”, disse, “a repreensão feita pela maioria”. Pois todos lhe deram as costas, como ele tinha mandado. Tanta força tinha o fazedor de tendas, mesmo só por carta, por causa do poder que habitava nele. E chamou de “ser tragado” o desesperar e afastar-se de todo da fé.</p></div>
   <p class="autoria"><span class="autor">Teodoreto de Ciro</span><span class="sobre-autor">, bispo de Ciro, na Síria (c. 393–c. 460); escritor eclesiástico</span><br><span class="obra"><em>Interpretação da 2ª Carta aos Coríntios</em>, 2Cor 2,6-7 (PG 82, 388)</span> · <a href="https://archive.org/details/patrologiae_cursus_completus_gr_vol_082" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São João Crisóstomo</span></summary>
   <div class="comentario-texto"><p>E dizia isso, como já falei, também para conter e educar aquele homem, a fim de que ele não ficasse mais descuidado depois do perdão. “Pois não te acolhi como alguém totalmente lavado, mas porque temi que fizesses algo pior.” Daí aprendemos que a penitência deve ser fixada não só segundo a natureza dos pecados, mas também segundo a disposição e o estado de quem pecou; foi o que o Apóstolo fez então. Pois temia a fraqueza dele, e por isso dizia: “para que não seja tragado”, como por uma fera, como por uma tempestade, como pelas ondas.</p></div>
   <p class="autoria"><span class="autor">São João Crisóstomo</span><span class="sobre-autor">, bispo de Constantinopla (c. 349–407), Doutor da Igreja</span><br><span class="obra"><em>Homilias sobre a 2ª Carta aos Coríntios</em>, Hom. 4, 3 (2Cor 2,7) (PG 61, 422)</span> · <a href="https://khazarzar.skeptik.net/pgm/PG_Migne/John%20Chrysostom_PG%2047-64/In%20epistulam%20ii%20ad%20Corinthios.pdf" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Ambrosiaster</span></summary>
   <div class="comentario-texto"><p>Manda socorrer o homem aflito por causa do próprio pecado, porque a penitência, se vem de um ânimo sincero, isto é, se o repreendido logo sente dor no coração, dá fruto imediatamente. Assim se lê no livro dos Reis que Acab, repreendido pelo profeta, se comoveu e logo mereceu o perdão; e Davi, repreendido no caso de Urias, o hitita, reconheceu que tinha pecado, e o seu delito foi apagado. Assim também o Apóstolo manda chamar de volta aquele que cometera incesto, tomando a mulher do pai, e que, repreendido e afastado, estava arrependido; para que, vendo-se por muito tempo entristecido e desprezado, não desesperasse de si e se entregasse a gozar do mundo, como quem já não tivesse lugar junto de Deus. Pois ser tragado por uma tristeza maior é isto: desesperar de si e voltar a cometer pecados, sob cujo peso a pessoa é tragada pela segunda morte. A verdadeira penitência é deixar de pecar; assim a pessoa prova que sente dor de si mesma, se dali em diante para.</p></div>
   <p class="autoria"><span class="autor">Ambrosiaster</span><span class="sobre-autor">, escritor eclesiástico (séc. IV), autor do comentário às cartas de Paulo que a tradição atribuiu a Santo Ambrósio</span><br><span class="obra"><em>Comentário à Segunda Carta aos Coríntios (Commentaria in epistolam ad Corinthios secundam)</em>, Sobre 2Cor 2,6–7 (PL 17, 282A–282B)</span> · <a href="https://mlat.uzh.ch/browser/cps_2.Ambros.CoInEpA3" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Orígenes</span></summary>
   <div class="comentario-texto"><p>Quanto mais alguém é queimado pelo fogo da tristeza, tanto mais alcança misericórdia; e o tempo de castigo que basta para ele é tanto quanto se deu àquele que tinha cometido imoralidade e se entristeceu. E, como para este o tempo de castigo aqui na terra é proveitoso, por isso Paulo tratou de castigar o que tinha cometido imoralidade; e, quando o castigou com a tristeza e viu que a tristeza era suficiente, diz: “para que esse homem não seja tragado por uma tristeza excessiva, confirmai o vosso amor por ele”.</p></div>
   <p class="autoria"><span class="autor">Orígenes</span><span class="sobre-autor">, mestre de Alexandria (c. 185–c. 254), escritor eclesiástico, não canonizado</span><br><span class="obra"><em>Homilias sobre Jeremias</em>, Hom. 20 (19 na PG), 9 (Jr 20,9) (ed. Klostermann (GCS 6, 1901), hom. 20, 9; PG 13)</span> · <a href="https://khazarzar.skeptik.net/pgm/PG_Migne/Origenes_PG%2011-17/In%20Jeremiam_.pdf" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São Tomás de Aquino</span></summary>
   <div class="comentario-texto"><p>Mas, para que eles, por causa da tristeza do Apóstolo, não quisessem castigá-lo ainda mais, mostra-lhes que a pena tinha sido suficiente, dizendo: «Basta a esse tal», isto é, ao que me entristeceu pecando tão gravemente, «a repreensão feita pela maioria», isto é, uma correção tão manifesta e pública, que foi ele ter sido separado de toda comunhão, ou seja, excomungado da Igreja e entregue a Satanás, como se lê em 1Cor 5,5. Essa pena, portanto, é suficiente, pelas razões ditas. Ou pode-se dizer suficiente não quanto ao juízo de Deus, mas quanto convinha ao momento e à pessoa. Pois é melhor guardar de tal modo o espírito de brandura ao corrigir que, pela penitência, venha o fruto da correção, do que corrigir com mais dureza e o pecador desesperar e afundar em pecados maiores. Por isso se diz em Eclo 21,5: «A repreensão e as injúrias destruirão os bens».</p></div>
   <p class="autoria"><span class="autor">São Tomás de Aquino</span><span class="sobre-autor">, dominicano (1225–1274), Doutor da Igreja</span><br><span class="obra"><em>Comentário à Segunda Carta aos Coríntios (Super II ad Corinthios)</em>, cap. 2, lição 2 (ed. Parma, t. 13; Corpus Thomisticum [87699])</span> · <a href="https://www.corpusthomisticum.org/c2c.html" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Santo Agostinho</span></summary>
   <div class="comentario-texto"><p>E qual seja a medida do castigo, não só segundo a qualidade ou a quantidade das culpas, mas também segundo as forças de cada alma, o que cada um suporta e o que recusa, para que não só não progrida, mas até desfaleça: quão profundo e obscuro é isso! Não sei se, entre os que temem um castigo que os ameaça da parte dos homens, foram mais os que se corrigiram do que os que pioraram. E que dizer, quando muitas vezes acontece que, se castigas alguém, ele mesmo se perde, e, se o deixas sem castigo, outro se perde? […] E, quando parece que é preciso fazê-lo, quanto cuidado e temor exige a medida em que se faz! Não aconteça aquilo que, como se entende, o Apóstolo adverte a evitar a respeito daquele mesmo homem, na segunda carta aos mesmos destinatários: que seja tragado por uma tristeza maior. E, para que ninguém julgasse que isso não exige muito cuidado, ali diz: «Para que não sejamos dominados por Satanás, pois não ignoramos os seus pensamentos». Quanto temor em tudo isso, meu Paulino, santo homem de Deus! Quanto temor, que trevas!</p></div>
   <p class="autoria"><span class="autor">Santo Agostinho</span><span class="sobre-autor">, bispo de Hipona (354–430), Doutor da Igreja</span><br><span class="obra"><em>Carta 95, a Paulino e Terásia</em>, Carta 95, 3 (PL 33, 353)</span> · <a href="https://www.augustinus.it/latino/lettere/lettera_095_testo.htm" rel="noopener">texto original</a></p>
-</article>
+</details>
 </div>
 <nav class="passos" aria-label="Navegação entre temas"><span></span><a class="passo seg" href="/biblia/2corintios/2/comentarios/2/tragado-pela-tristeza/" rel="next"><span class="dir">Seguinte →</span><span class="alvo">«Para que não seja tragado por uma tristeza excessiva»</span></a></nav>
 </article>

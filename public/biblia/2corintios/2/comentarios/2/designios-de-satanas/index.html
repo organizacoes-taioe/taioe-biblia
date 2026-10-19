@@ -8,8 +8,9 @@
 <meta name="description" content="O demônio vence também pelo contrário do pecado: pela dureza que se veste de justiça e pela penitência sem consolo.">
 <meta name="color-scheme" content="light dark">
 <link rel="icon" href="/biblia/favicon.svg" type="image/svg+xml">
-<link rel="stylesheet" href="/biblia/css/estilo.css?v=28b77982">
-<script defer src="/biblia/js/biblia.js?v=59ac4c4e"></script>
+<script src="/biblia/js/preferencias.js?v=e879b9fe"></script>
+<link rel="stylesheet" href="/biblia/css/estilo.css?v=0bc11739">
+<script defer src="/biblia/js/biblia.js?v=38a000ee"></script>
 </head>
 <body class="pag-tema">
 <a class="pular" href="#app">Ir para o conteúdo</a>
@@ -17,6 +18,19 @@
   <div class="topo-int">
     <a class="marca" href="/biblia/">Bíblia</a>
     <nav class="trilha" aria-label="Trilha de navegação"><a href="/biblia/2corintios/">II Coríntios</a><span class="sep">›</span><a href="/biblia/2corintios/2/">II Coríntios 2</a><span class="sep">›</span><a href="/biblia/2corintios/2/comentarios/2/">Comentários</a><span class="sep">›</span><span aria-current="page">«Não ignoramos os seus desígnios»</span></nav>
+    <div class="ferramentas">
+      <button type="button" class="ferr so-js" id="letra-menor" aria-label="Letra menor" title="Letra menor"><span class="a-menor">A</span>−</button>
+      <button type="button" class="ferr so-js" id="letra-maior" aria-label="Letra maior" title="Letra maior"><span class="a-maior">A</span>+</button>
+      <button type="button" class="ferr so-js" id="trocar-tema" aria-label="Modo claro ou escuro" title="Modo claro ou escuro"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="8.5" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M12 3.5a8.5 8.5 0 0 1 0 17z" fill="currentColor"/></svg></button>
+      <a class="ferr" id="botao-leituras" href="/biblia/leituras/" aria-label="Leituras" title="Leituras"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path class="fita" d="M6.5 3.5h11v17l-5.5-4-5.5 4z" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/></svg></a>
+      <div class="menu-leitura" id="menu-leitura" hidden>
+        <p class="menu-titulo">Leitura aberta</p>
+        <p class="menu-nome" id="menu-nome"></p>
+        <p class="menu-pos" id="menu-pos"></p>
+        <a class="menu-item" href="/biblia/leituras/">Ver as leituras</a>
+        <button type="button" class="menu-item" id="fechar-leitura">Fechar esta leitura</button>
+      </div>
+    </div>
   </div>
 </header>
 <main id="app" tabindex="-1">
@@ -29,38 +43,46 @@
 </header>
 <blockquote class="versos-tema"><p class="par"><span class="num">11</span>para que Satanás não leve vantagem sobre nós, pois não ignoramos os seus desígnios.</p></blockquote>
 <div class="comentarios">
-<article class="comentario">
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São João Crisóstomo</span></summary>
   <div class="comentario-texto"><p>Depois mostra de novo o dano comum, se desobedecerem: “para que não sejamos explorados por Satanás”. Chamou bem de exploração, porque ele já não toma o que é dele, mas arrebata o que é nosso. Não me digas que só este homem se torna presa da fera; considera também que o número do rebanho diminui, e justamente agora, quando ele pode recuperar o que tinha perdido. “Pois não ignoramos os seus desígnios”: ele destrói até sob a aparência de piedade. Pode arruinar não só levando à imoralidade, mas também pelo contrário, pela tristeza sem medida na penitência. Quando, além dos seus, arrebata também os nossos, quando destrói mandando pecar e arrebata quando nós mandamos fazer penitência, como isso não seria exploração? Pois não lhe basta derrubar pelo pecado: também pela penitência, se não estivermos vigilantes, ele faz isso. Por isso, com razão, chamou exploração ao fato de vencer até com o que é nosso: tomar pelo pecado é próprio dele; pela penitência, não, pois essa arma é nossa, não dele.</p></div>
   <p class="autoria"><span class="autor">São João Crisóstomo</span><span class="sobre-autor">, bispo de Constantinopla (c. 349–407), Doutor da Igreja</span><br><span class="obra"><em>Homilias sobre a 2ª Carta aos Coríntios</em>, Hom. 4, 5 (2Cor 2,11) (PG 61, 424)</span> · <a href="https://khazarzar.skeptik.net/pgm/PG_Migne/John%20Chrysostom_PG%2047-64/In%20epistulam%20ii%20ad%20Corinthios.pdf" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Ambrosiaster</span></summary>
   <div class="comentario-texto"><p>Diz o que lembrei acima: que a consolação deve seguir o irmão que chora o seu delito; para que, entristecido por muito tempo e desprezado pela caridade da Igreja, ele não comece a desesperar de si, e o diabo, astuto, que está sempre à espreita, vendo o seu ânimo abatido, se aproxime e lhe sugira que ao menos goze das coisas presentes, já que perdeu a esperança do prêmio futuro; e assim pereça, possuído pelo diabo, o irmão a quem a penitência tinha sido dada para que, convertido, se refizesse, como diz o profeta Ezequiel: «Não quero a morte de quem morre, mas que se converta e viva».</p></div>
   <p class="autoria"><span class="autor">Ambrosiaster</span><span class="sobre-autor">, escritor eclesiástico (séc. IV), autor do comentário às cartas de Paulo que a tradição atribuiu a Santo Ambrósio</span><br><span class="obra"><em>Comentário à Segunda Carta aos Coríntios (Commentaria in epistolam ad Corinthios secundam)</em>, Sobre 2Cor 2,11 (PL 17, 283A)</span> · <a href="https://mlat.uzh.ch/browser/cps_2.Ambros.CoInEpA3" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Santo Agostinho</span></summary>
   <div class="comentario-texto"><p>Que se pode fazer ou dizer de mais moderado, de mais cuidadoso, de mais cheio de solicitude piedosa e de amor de pai e de mãe? Assim como aplica a correção a quem peca, assim quer que se devolva a consolação a quem se corrigiu e, na penitência, tem o coração contrito e humilhado: «para que», diz, «não seja tragado por uma tristeza maior». Mas que quer dizer aquilo com que concluiu esta sentença: «Para que não sejamos dominados por Satanás»? «Pois não ignoramos», diz, «os seus pensamentos.» É ele quem, sob a aparência de uma severidade justa, inspira uma dureza cruel, sem buscar outra coisa, com a sua astúcia venenosíssima, senão corromper e romper o vínculo da paz e da caridade; enquanto este se conserva entre os cristãos, todas as forças dele ficam sem poder para fazer mal, as armadilhas das suas ciladas se despedaçam e os seus planos de destruição se desvanecem.</p></div>
   <p class="autoria"><span class="autor">Santo Agostinho</span><span class="sobre-autor">, bispo de Hipona (354–430), Doutor da Igreja</span><br><span class="obra"><em>Contra a carta de Parmeniano (Contra epistulam Parmeniani)</em>, III, 1, 3 (PL 43, 85)</span> · <a href="https://www.augustinus.it/latino/contro_parmeniano/contro_parmeniano_3_libro.htm" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São Gregório Magno</span></summary>
   <div class="comentario-texto"><p>Por isso o apóstolo Paulo, ao perceber que os coríntios queriam ter misericórdia de um penitente pelo crime que cometera, diz: «A quem perdoastes alguma coisa, eu também; pois também eu, o que perdoei, perdoei por vós, na pessoa de Cristo, para que não sejamos enganados por Satanás; pois não ignoramos os seus pensamentos». Se era preciso perdoar, por que o egrégio mestre se associa com tanta humildade à vontade dos discípulos, de modo que, na causa da compaixão, nem ele parecesse separado dos discípulos, nem os discípulos dele, senão porque, com olhar atento e previdente, observou que muitas vezes, quando um perdoa, o outro se irrita? E que sacrifício de misericórdia é esse, oferecido com a discórdia do próximo? Por isso diz com razão: «Para que não sejamos enganados por Satanás; pois não ignoramos os seus pensamentos». Pois ele costuma lançar no coração de um o mal da briga justamente quando vê que o outro praticou uma obra de piedade. É imperfeito o bem que se faz sem cuidar de que nenhum mal se infiltre por outro lado; a não ser, talvez, quando seria culpa deixar de fazer aquilo que não se pode fazer sem escândalo de alguém.</p></div>
   <p class="autoria"><span class="autor">São Gregório Magno</span><span class="sobre-autor">, papa (c. 540–604), Doutor da Igreja</span><br><span class="obra"><em>Homilias sobre Ezequiel (Homiliae in Hiezechihelem)</em>, I, 7, 3 (PL 76, 841C–842A)</span> · <a href="https://mlat.uzh.ch/browser/cps_2.GreI.HoInEz" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Atão de Vercelli</span></summary>
   <div class="comentario-texto"><p>E mostra por que perdoou, quando acrescenta: «Para que Satanás não leve vantagem sobre nós». É preciso saber que Satanás engana tanto o que é frouxo demais quanto o que é severo demais. Por exemplo: há alguns que querem parecer aos seus ouvintes brandos, afáveis e agradáveis, e por isso não corrigem os seus erros; estes são enganados por Satanás. Há também os que, inflamados por um zelo excessivo da lei, perseguem os seus a ponto de levá-los ao desespero; e também estes são enganados por Satanás: aqueles por uma falsa piedade, estes por uma crueldade excessiva. E como há perigo dos dois lados, é preciso tomar muito cuidado para que, como diz Salomão, não nos desviemos nem para a direita nem para a esquerda.</p></div>
   <p class="autoria"><span class="autor">Atão de Vercelli</span><span class="sobre-autor">, bispo de Vercelli (c. 885–961)</span><br><span class="obra"><em>Exposição das cartas de São Paulo (Expositio epistolarum S. Pauli)</em>, II Cor., cap. 2, v. 11 (PL 134, 425C–426A)</span> · <a href="https://mlat.uzh.ch/browser/cps_2.AttVer.ExEpSPa" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São Tomás de Aquino</span></summary>
   <div class="comentario-texto"><p>A quarta é a necessidade; por isso diz: «para que Satanás não leve vantagem sobre nós». Pois o diabo enganou a muitos: a uns levando-os a cometer pecados, a outros a um rigor excessivo contra os que pecam, para que, se não pode tê-los cometendo crimes, ao menos perca os que já tem pela dureza dos superiores, que, não os corrigindo com misericórdia, os levam ao desespero; e assim perde a estes, e o laço do diabo prende aqueles. Ecl 7,17: «Não sejas justo demais»; 1Pd 5,8: «o vosso adversário, o diabo...». E isto nos aconteceria se não perdoássemos aos que pecam. Por isso, «para que Satanás não leve vantagem sobre nós», eu perdoei, se alguma coisa perdoei. «Pois não ignoramos os seus desígnios», isto é, de Satanás. Isto é verdade em geral; mas em particular ninguém pode conhecer os pensamentos dele, senão só Deus.</p></div>
   <p class="autoria"><span class="autor">São Tomás de Aquino</span><span class="sobre-autor">, dominicano (1225–1274), Doutor da Igreja</span><br><span class="obra"><em>Comentário à Segunda Carta aos Coríntios (Super II ad Corinthios)</em>, cap. 2, lição 2 (ed. Parma, t. 13; Corpus Thomisticum [87699])</span> · <a href="https://www.corpusthomisticum.org/c2c.html" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Cornélio a Lápide</span></summary>
   <div class="comentario-texto"><p>Disse outrora Cábrias, segundo Plutarco, e com razão: «O melhor general é o que conhece melhor as coisas dos inimigos». Do mesmo modo, o melhor chefe, e também o melhor soldado cristão, é o que conhece melhor os planos e as maquinações dos inimigos, sobretudo de Satanás: pois ele se transfigura em anjo de luz, para que nos pareça conselho e sugestão de um amigo e de um anjo o que é do inimigo e do diabo. Muitas vezes sentimos que nos são sugeridas suspeitas maldosas, amarguras de ânimo, iras, tristezas nocivas, desânimos etc., e pensamos que somos movidos por causa e razão justas e que isso vem de nós, quando vem do diabo e nos é sugerido por ele para a nossa perdição. Por isso o cristão, nessas coisas, reflita se tais sugestões estão de acordo com a caridade, a humildade, a paciência, a graça e a lei de Cristo; se vir que são contrárias, saiba que são do diabo; se tiver dúvida, converse com o superior, o confessor ou um homem prudente. (…) Assim, pois, Satanás incitava aqui os principais da Igreja de Corinto à ira e à indignação contra esse homem, como quem tinha manchado com uma nódoa tão vergonhosa o primeiro brilho da sua Igreja, para que se mostrassem duros e rígidos com ele; e assim ele, privado de toda consolação e esperança, perderia o ânimo e desesperaria. Paulo viu esse plano de Satanás e aqui o desfaz, exortando-os a recebê-lo de novo na graça e a conceder-lhe, já penitente, o perdão e a remissão.</p></div>
   <p class="autoria"><span class="autor">Cornélio a Lápide</span><span class="sobre-autor">, jesuíta flamengo (1567–1637), comentador de toda a Bíblia; não canonizado</span><br><span class="obra"><em>Comentários à Sagrada Escritura (Commentaria in Scripturam Sacram), In II Cor.</em>, In II Cor., cap. 2, v. 11 (ed. Vivès, t. XVIII (1868), p. 428)</span> · <a href="https://archive.org/details/commentariainscr18lapi/page/428/mode/1up" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Santo Agostinho</span></summary>
   <div class="comentario-texto"><p>Haja também, num ânimo pacífico e humilde, a facilidade misericordiosa de perdoar. Peça perdão quem fez a ofensa; dê o perdão quem a recebeu: para que não sejamos dominados por Satanás, cujo triunfo é a discórdia dos cristãos.</p></div>
   <p class="autoria"><span class="autor">Santo Agostinho</span><span class="sobre-autor">, bispo de Hipona (354–430), Doutor da Igreja</span><br><span class="obra"><em>Sermão 210, na Quaresma</em>, Sermão 210, 12 (PL 38, 1053)</span> · <a href="https://www.augustinus.it/latino/discorsi/discorso_266_testo.htm" rel="noopener">texto original</a></p>
-</article>
+</details>
 </div>
 <nav class="passos" aria-label="Navegação entre temas"><a class="passo ant" href="/biblia/2corintios/2/comentarios/2/na-pessoa-de-cristo/" rel="prev"><span class="dir">← Anterior</span><span class="alvo">O perdão dado «na pessoa de Cristo»</span></a></nav>
 </article>

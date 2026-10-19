@@ -8,8 +8,9 @@
 <meta name="description" content="Um exército em volta dos que temem a Deus; e quem é esse anjo.">
 <meta name="color-scheme" content="light dark">
 <link rel="icon" href="/biblia/favicon.svg" type="image/svg+xml">
-<link rel="stylesheet" href="/biblia/css/estilo.css?v=28b77982">
-<script defer src="/biblia/js/biblia.js?v=59ac4c4e"></script>
+<script src="/biblia/js/preferencias.js?v=e879b9fe"></script>
+<link rel="stylesheet" href="/biblia/css/estilo.css?v=0bc11739">
+<script defer src="/biblia/js/biblia.js?v=38a000ee"></script>
 </head>
 <body class="pag-tema">
 <a class="pular" href="#app">Ir para o conteúdo</a>
@@ -17,6 +18,19 @@
   <div class="topo-int">
     <a class="marca" href="/biblia/">Bíblia</a>
     <nav class="trilha" aria-label="Trilha de navegação"><a href="/biblia/salmos/">Salmos</a><span class="sep">›</span><a href="/biblia/salmos/34/">Salmo 34</a><span class="sep">›</span><a href="/biblia/salmos/34/comentarios/">Comentários</a><span class="sep">›</span><span aria-current="page">O anjo que acampa ao redor</span></nav>
+    <div class="ferramentas">
+      <button type="button" class="ferr so-js" id="letra-menor" aria-label="Letra menor" title="Letra menor"><span class="a-menor">A</span>−</button>
+      <button type="button" class="ferr so-js" id="letra-maior" aria-label="Letra maior" title="Letra maior"><span class="a-maior">A</span>+</button>
+      <button type="button" class="ferr so-js" id="trocar-tema" aria-label="Modo claro ou escuro" title="Modo claro ou escuro"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="8.5" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M12 3.5a8.5 8.5 0 0 1 0 17z" fill="currentColor"/></svg></button>
+      <a class="ferr" id="botao-leituras" href="/biblia/leituras/" aria-label="Leituras" title="Leituras"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path class="fita" d="M6.5 3.5h11v17l-5.5-4-5.5 4z" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/></svg></a>
+      <div class="menu-leitura" id="menu-leitura" hidden>
+        <p class="menu-titulo">Leitura aberta</p>
+        <p class="menu-nome" id="menu-nome"></p>
+        <p class="menu-pos" id="menu-pos"></p>
+        <a class="menu-item" href="/biblia/leituras/">Ver as leituras</a>
+        <button type="button" class="menu-item" id="fechar-leitura">Fechar esta leitura</button>
+      </div>
+    </div>
   </div>
 </header>
 <main id="app" tabindex="-1">
@@ -29,30 +43,36 @@
 </header>
 <blockquote class="versos-tema"><p class="poesia"><span class="linha"><span class="calha"><span class="num">8</span></span><span class="txt">O anjo do Senhor acampa ao redor dos que o temem</span></span><span class="linha"><span class="calha"></span><span class="txt">e os liberta.</span></span></p></blockquote>
 <div class="comentarios">
-<article class="comentario">
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São Roberto Belarmino</span></summary>
   <div class="comentario-texto"><p>A razão é que «o anjo do Senhor», a quem o próprio Deus mandou guardar os homens justos, como se diz no Sl 90, quando vê alguém em perigo, logo está presente e, como um acampamento militar, cerca aquele homem com a sua proteção, para que nada possa feri-lo. (...) No hebraico o sentido é mais claro; lemos literalmente: «o anjo do Senhor acampa ao redor dos que o temem, e os livra». Admirável poder dos anjos: um só anjo faz as vezes de um exército! Daí se segue que no coração dos que temem a Deus, protegidos por tal guarda, deve haver máxima segurança e paz.</p></div>
   <p class="autoria"><span class="autor">São Roberto Belarmino</span><span class="sobre-autor">, jesuíta (1542–1621), cardeal, Doutor da Igreja</span><br><span class="obra"><em>Explicação dos Salmos (Explanatio in Psalmos)</em>, Sl 33, v. 7 (o nosso v. 8)</span> · <a href="https://archive.org/details/operaomnia10bell" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São João Crisóstomo</span></summary>
   <div class="comentario-texto"><p>Se a Eliseu, só por essa razão, acompanhava um exército tão grande de anjos, que dizer de Paulo? É isso que dizia também o profeta Davi: «O anjo do Senhor acampa ao redor dos que o temem»; e ainda: «Eles te levarão nas mãos, para que o teu pé não tropece na pedra». E por que falo de anjos? O próprio Senhor estava então com ele, quando saía.</p></div>
   <p class="autoria"><span class="autor">São João Crisóstomo</span><span class="sobre-autor">, bispo de Constantinopla (c. 349–407), Doutor da Igreja</span><br><span class="obra"><em>Homilias sobre a Carta aos Efésios</em>, Homilia 9 sobre Efésios, 2</span> · <a href="https://khazarzar.skeptik.net/pgm/PG_Migne/John%20Chrysostom_PG%2047-64/In%20epistulam%20ad%20Ephesios.pdf" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São Jerônimo</span></summary>
   <div class="comentario-texto"><p>Ao Senhor Salvador, ou, por meio do Senhor, aos seus santos, Deus está sempre à direita. O justo não tem lado esquerdo: para onde quer que se volte, «o anjo do Senhor cerca, ao redor, os que o temem, e os livrará». Queres saber que o justo não tem lado esquerdo? Quando Moisés, figura da cruz, levantava as duas mãos para o céu, não está escrito que Aarão estava à sua direita e Hur à esquerda, mas que Aarão estava de um lado e Hur do outro.</p></div>
   <p class="autoria"><span class="autor">São Jerônimo</span><span class="sobre-autor">, presbítero (c. 347–420), tradutor da Bíblia, Doutor da Igreja</span><br><span class="obra"><em>Homilias sobre os Salmos (Tractatus in Psalmos), série II</em>, Tractatus de Psalmo XV</span> · <a href="https://archive.org/details/anecdotamaredsol03unse" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São Tomás de Aquino</span></summary>
   <div class="comentario-texto"><p>Diz, pois: «o anjo do Senhor acampará», protegendo com o esplendor da sua luz, «ao redor»: Sl 124: «montes ao seu redor», isto é, os anjos; 2Rs 6: «os que estão conosco são muito mais numerosos do que os que estão com eles». (...) «E os livrará», isto é, do ataque dos inimigos e dos demônios (...). Ou pode-se entender por anjo o pastor da Igreja: Ml 2: «é o mensageiro do Senhor dos exércitos». Os pastores da Igreja devem guardar o seu rebanho.</p></div>
   <p class="autoria"><span class="autor">São Tomás de Aquino</span><span class="sobre-autor">, dominicano (1225–1274), Doutor da Igreja</span><br><span class="obra"><em>Comentário aos Salmos (Postilla super Psalmos)</em>, Sl 33, n. 8 (v. 8)</span> · <a href="https://www.corpusthomisticum.org/cps31.html" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Santo Agostinho</span></summary>
   <div class="comentario-texto"><p>Quem é este que ele chamou de Anjo do Senhor, que se põe ao redor dos que o temem e os livra? O próprio nosso Senhor Jesus Cristo foi chamado na profecia de Anjo do grande conselho, Mensageiro do grande conselho: assim o chamaram os profetas. Ele, então, o Anjo do grande conselho, isto é, o Mensageiro, se porá ao redor dos que temem o Senhor e os livrará. Não tenhas medo, então, de ficar escondido: onde quer que tenhas temido o Senhor, aquele Anjo te conhece, ele que se põe ao redor e te livrará.</p></div>
   <p class="autoria"><span class="autor">Santo Agostinho</span><span class="sobre-autor">, bispo de Hipona (354–430), Doutor da Igreja</span><br><span class="obra"><em>Comentários aos Salmos (Enarrationes in Psalmos)</em>, Sl 33, sermão 2, 11</span> · <a href="https://www.augustinus.it/latino/esposizioni_salmi/esposizione_salmo_045_testo.htm" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Cassiodoro</span></summary>
   <div class="comentario-texto"><p>Para que ninguém pensasse que o Senhor pode descuidar dos seus fiéis, ele os consola com este oráculo. Repara na palavra que cura: «enviará». Por causa da presunção da fragilidade humana, ele não age às claras, mas por envios escondidos, para que, sem que saibas, recebas o que convém à tua salvação. O anjo é ministro da vontade divina. Por isso, se queres tornar-te anjo, faze o que ele manda: livra quem está em perigo, socorre o aflito, salva o inocente, e tudo o mais que a autoridade divina ordena. Somos anjos em espírito quando nos tornamos ministros da vontade do alto.</p></div>
   <p class="autoria"><span class="autor">Cassiodoro</span><span class="sobre-autor">, senador romano e monge (c. 485–c. 580), fundador do mosteiro de Vivário</span><br><span class="obra"><em>Explicação dos Salmos (Expositio Psalmorum)</em>, Sl 33, v. 7 (o nosso v. 8)</span> · <a href="https://mlat.uzh.ch/browser/cps_2.CasViv.ExInPs" rel="noopener">texto original</a></p>
-</article>
+</details>
 </div>
 <nav class="passos" aria-label="Navegação entre temas"><a class="passo ant" href="/biblia/salmos/34/comentarios/o-anjo-de-cada-um/" rel="prev"><span class="dir">← Anterior</span><span class="alvo">O anjo de cada um</span></a><a class="passo seg" href="/biblia/salmos/34/comentarios/provai-e-vede/" rel="next"><span class="dir">Seguinte →</span><span class="alvo">Provar para conhecer</span></a></nav>
 </article>

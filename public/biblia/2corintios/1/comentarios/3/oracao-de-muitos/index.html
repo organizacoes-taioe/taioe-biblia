@@ -8,8 +8,9 @@
 <meta name="description" content="O apóstolo precisa da oração dos fiéis, e o dom alcançado por muitos faz muitos darem graças.">
 <meta name="color-scheme" content="light dark">
 <link rel="icon" href="/biblia/favicon.svg" type="image/svg+xml">
-<link rel="stylesheet" href="/biblia/css/estilo.css?v=28b77982">
-<script defer src="/biblia/js/biblia.js?v=59ac4c4e"></script>
+<script src="/biblia/js/preferencias.js?v=e879b9fe"></script>
+<link rel="stylesheet" href="/biblia/css/estilo.css?v=0bc11739">
+<script defer src="/biblia/js/biblia.js?v=38a000ee"></script>
 </head>
 <body class="pag-tema">
 <a class="pular" href="#app">Ir para o conteúdo</a>
@@ -17,6 +18,19 @@
   <div class="topo-int">
     <a class="marca" href="/biblia/">Bíblia</a>
     <nav class="trilha" aria-label="Trilha de navegação"><a href="/biblia/2corintios/">II Coríntios</a><span class="sep">›</span><a href="/biblia/2corintios/1/">II Coríntios 1</a><span class="sep">›</span><a href="/biblia/2corintios/1/comentarios/3/">Comentários</a><span class="sep">›</span><span aria-current="page">A oração de muitos</span></nav>
+    <div class="ferramentas">
+      <button type="button" class="ferr so-js" id="letra-menor" aria-label="Letra menor" title="Letra menor"><span class="a-menor">A</span>−</button>
+      <button type="button" class="ferr so-js" id="letra-maior" aria-label="Letra maior" title="Letra maior"><span class="a-maior">A</span>+</button>
+      <button type="button" class="ferr so-js" id="trocar-tema" aria-label="Modo claro ou escuro" title="Modo claro ou escuro"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="8.5" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M12 3.5a8.5 8.5 0 0 1 0 17z" fill="currentColor"/></svg></button>
+      <a class="ferr" id="botao-leituras" href="/biblia/leituras/" aria-label="Leituras" title="Leituras"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path class="fita" d="M6.5 3.5h11v17l-5.5-4-5.5 4z" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/></svg></a>
+      <div class="menu-leitura" id="menu-leitura" hidden>
+        <p class="menu-titulo">Leitura aberta</p>
+        <p class="menu-nome" id="menu-nome"></p>
+        <p class="menu-pos" id="menu-pos"></p>
+        <a class="menu-item" href="/biblia/leituras/">Ver as leituras</a>
+        <button type="button" class="menu-item" id="fechar-leitura">Fechar esta leitura</button>
+      </div>
+    </div>
   </div>
 </header>
 <main id="app" tabindex="-1">
@@ -29,38 +43,46 @@
 </header>
 <blockquote class="versos-tema"><p class="par"><span class="num">11</span>contando também com a ajuda da vossa oração por nós, para que muitas pessoas deem graças por nós pelo dom que recebemos por intercessão de muitos.</p></blockquote>
 <div class="comentarios">
-<article class="comentario">
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Ambrosiaster</span></summary>
   <div class="comentario-texto"><p>Diz isto porque a graça de Deus consolou os apóstolos por causa de muitos, isto é, de todos os fiéis, por causa dos quais também as opressões caíam sobre eles; e por isso, porque é por causa de todos, que todos deem graças a Deus quando cessa a provação, ou, quando ela surge, supliquem juntos.</p></div>
   <p class="autoria"><span class="autor">Ambrosiaster</span><span class="sobre-autor">, escritor eclesiástico (séc. IV), autor do comentário às cartas de Paulo que a tradição atribuiu a Santo Ambrósio</span><br><span class="obra"><em>Comentário à Segunda Carta aos Coríntios (Commentaria in epistolam ad Corinthios secundam)</em>, Sobre 2Cor 1,10–11 (PL 17, 278A)</span> · <a href="https://mlat.uzh.ch/browser/cps_2.Ambros.CoInEpA3" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São João Crisóstomo</span></summary>
   <div class="comentario-texto"><p>E repara também nisto: ainda que Deus faça alguma coisa por misericórdia, a oração contribui muito. No começo, Paulo atribuiu a salvação às misericórdias de Deus: “O Deus das misericórdias”, diz, “foi quem nos livrou”; aqui, também às orações. Assim também, do que devia dez mil talentos, o senhor teve compaixão depois que ele se prostrou, embora esteja escrito: “Movido de compaixão, o soltou” (Mt 18,27). E à cananeia, depois de tanta insistência e perseverança, então concedeu a cura da filha, embora a salvasse por misericórdia. Disto aprendemos que, mesmo quando vamos receber misericórdia, primeiro devemos nos fazer dignos dela.</p></div>
   <p class="autoria"><span class="autor">São João Crisóstomo</span><span class="sobre-autor">, bispo de Constantinopla (c. 349–407), Doutor da Igreja</span><br><span class="obra"><em>Homilias sobre a 2ª Carta aos Coríntios</em>, Hom. 2, 4 (2Cor 1,11) (PG 61, 397)</span> · <a href="https://khazarzar.skeptik.net/pgm/PG_Migne/John%20Chrysostom_PG%2047-64/In%20epistulam%20ii%20ad%20Corinthios.pdf" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São João Crisóstomo</span></summary>
   <div class="comentario-texto"><p>Esforcemo-nos, pois, por nos unir nas súplicas e oremos uns pelos outros, como aqueles fiéis oravam pelos apóstolos. Assim cumprimos um mandamento e nos exercitamos no amor; e, quando digo amor, digo todos os bens. Aprendamos também a dar graças com mais empenho, pois quem dá graças pelos bens dos outros muito mais as dará pelos próprios.</p></div>
   <p class="autoria"><span class="autor">São João Crisóstomo</span><span class="sobre-autor">, bispo de Constantinopla (c. 349–407), Doutor da Igreja</span><br><span class="obra"><em>Homilias sobre a 2ª Carta aos Coríntios</em>, Hom. 2, 4 (2Cor 1,11) (PG 61, 398)</span> · <a href="https://khazarzar.skeptik.net/pgm/PG_Migne/John%20Chrysostom_PG%2047-64/In%20epistulam%20ii%20ad%20Corinthios.pdf" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Severiano de Gábala</span></summary>
   <div class="comentario-texto"><p>Não deseja escapar dos que lhe armam ciladas por apego ao corpo, mas para servir aos dons que lhe foram dados, a fim de que a pregação, que os salva, receba ação de graças de muitas pessoas de agora e por meio de muitos que ainda hão de vir.</p></div>
   <p class="autoria"><span class="autor">Severiano de Gábala</span><span class="sobre-autor">, bispo de Gábala († depois de 408)</span><br><span class="obra"><em>Fragmentos sobre a 2ª Carta aos Coríntios (das cadeias)</em>, 2Cor 1,11 (ed. K. Staab, Pauluskommentare aus der griechischen Kirche (Münster 1933), p. 279)</span> · <a href="https://khazarzar.skeptik.net/pgm/PG_Migne/Severianus_PG%2065/Fragmenta%20in%20epistulam%20ii%20ad%20Corinthios.pdf" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Santo Agostinho</span></summary>
   <div class="comentario-texto"><p>Não penseis, irmãos, que as nossas orações vos são necessárias e que as vossas orações não nos são necessárias. Uns aos outros nos são necessárias as orações de uns pelos outros, porque essas orações de uns pelos outros nascem do fogo da caridade, e este sacrifício sobe ao Senhor com perfume suavíssimo, como do altar da piedade. Pois, se os Apóstolos pediam que se rezasse por eles, quanto mais nós, que estamos muito longe de os igualar, mas desejamos seguir de algum modo os seus passos, sem sabermos quanto os alcançamos, nem ousarmos dizê-lo.</p></div>
   <p class="autoria"><span class="autor">Santo Agostinho</span><span class="sobre-autor">, bispo de Hipona (354–430), Doutor da Igreja</span><br><span class="obra"><em>Sermão 305/A, no dia de São Lourenço (Sermo Denis 13)</em>, Sermão 305/A, 10 (PL 46, 862)</span> · <a href="https://www.augustinus.it/latino/discorsi/discorso_432_testo.htm" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Atão de Vercelli</span></summary>
   <div class="comentario-texto"><p>Aqui se mostra quanto vale a oração perseverante. Isso não se mostra só aqui, mas também em outros lugares. Pois se lê que Pedro foi libertado do cárcere pela oração; pois assim se diz: «Pedro estava guardado no cárcere» (At 12,5) etc. Neste fato são advertidos os mais elevados a não desdenhar ser sustentados pelas orações dos menores, já que este, de tão grande autoridade, não o desdenhava. (...) Também esta regra salutar, que se observava então, deve praticar-se agora. Pois, quando os pregadores estão retidos na tribulação, os ouvintes devem orar para que sejam libertados e, libertados, dar graças a Deus. Pois toda fraqueza ou debilidade está na cabeça; e, se um membro se alegra, alegram-se com ele todos os membros.</p></div>
   <p class="autoria"><span class="autor">Atão de Vercelli</span><span class="sobre-autor">, bispo de Vercelli (c. 885–961)</span><br><span class="obra"><em>Exposição das cartas de São Paulo (Expositio epistolarum S. Pauli)</em>, II Cor., cap. 1, vv. 10–11 (PL 134, 417B–418A)</span> · <a href="https://mlat.uzh.ch/browser/cps_2.AttVer.ExEpSPa" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São Tomás de Aquino</span></summary>
   <div class="comentario-texto"><p>A causa desta esperança nos dão as vossas orações. Por isso diz: «ajudando-nos também vós nas orações» que fazeis por nós. Pr 18,19: «o irmão ajudado pelo irmão» etc. Rm 15,30: «rogo-vos, irmãos, por nosso Senhor Jesus Cristo e pela caridade do Espírito Santo, que me ajudeis com as vossas orações» etc. Essas orações são necessárias, porque Deus concede muitos bens a um só a pedido de muitos. A razão disso é que Deus quer que se lhe deem graças pelos bens que concede, e que muitos fiquem obrigados por isso à ação de graças; e isso acontece quando, dando a um só a pedido de muitos, obriga a si todos aqueles a cujo pedido concede algum bem, de modo que não só aquele a quem concede, mas também os que pediram deem graças a Deus.</p></div>
   <p class="autoria"><span class="autor">São Tomás de Aquino</span><span class="sobre-autor">, dominicano (1225–1274), Doutor da Igreja</span><br><span class="obra"><em>Comentário à Segunda Carta aos Coríntios (Super II ad Corinthios)</em>, cap. 1, lição 3 (ed. Parma, t. 13; Corpus Thomisticum [87695])</span> · <a href="https://www.corpusthomisticum.org/c2c.html" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São Tomás de Aquino</span></summary>
   <div class="comentario-texto"><p>Também pelos justos se deve orar, por três razões. Primeiro, porque as preces de muitos são atendidas mais facilmente. Por isso, sobre aquilo de Rm 15, «ajudai-me com as vossas orações», diz a Glosa: o Apóstolo faz bem em pedir aos menores que orem por ele. Pois muitos pequenos, quando se reúnem unânimes, tornam-se grandes, e é impossível que as preces de muitos não alcancem aquilo que se pode alcançar. Segundo, para que muitos deem graças a Deus pelos benefícios que ele concede aos justos, os quais também redundam em proveito de muitos, como mostra o Apóstolo em 2Cor 1. Terceiro, para que os maiores não se ensoberbeçam, considerando que precisam dos sufrágios dos menores.</p></div>
   <p class="autoria"><span class="autor">São Tomás de Aquino</span><span class="sobre-autor">, dominicano (1225–1274), Doutor da Igreja</span><br><span class="obra"><em>Suma de Teologia (Summa theologiae)</em>, II-II, q. 83, a. 7, ad 3 (ed. Leonina; Corpus Thomisticum [42519])</span> · <a href="https://www.corpusthomisticum.org/sth3082.html" rel="noopener">texto original</a></p>
-</article>
+</details>
 </div>
 <nav class="passos" aria-label="Navegação entre temas"><a class="passo ant" href="/biblia/2corintios/1/comentarios/3/deus-ressuscita/" rel="prev"><span class="dir">← Anterior</span><span class="alvo">«Em Deus, que ressuscita os mortos»</span></a></nav>
 </article>

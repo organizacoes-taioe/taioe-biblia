@@ -8,8 +8,9 @@
 <meta name="description" content="O grito dos que zombavam diante do Crucificado.">
 <meta name="color-scheme" content="light dark">
 <link rel="icon" href="/biblia/favicon.svg" type="image/svg+xml">
-<link rel="stylesheet" href="/biblia/css/estilo.css?v=28b77982">
-<script defer src="/biblia/js/biblia.js?v=59ac4c4e"></script>
+<script src="/biblia/js/preferencias.js?v=e879b9fe"></script>
+<link rel="stylesheet" href="/biblia/css/estilo.css?v=0bc11739">
+<script defer src="/biblia/js/biblia.js?v=38a000ee"></script>
 </head>
 <body class="pag-tema">
 <a class="pular" href="#app">Ir para o conteúdo</a>
@@ -17,6 +18,19 @@
   <div class="topo-int">
     <a class="marca" href="/biblia/">Bíblia</a>
     <nav class="trilha" aria-label="Trilha de navegação"><a href="/biblia/salmos/">Salmos</a><span class="sep">›</span><a href="/biblia/salmos/35/">Salmo 35</a><span class="sep">›</span><a href="/biblia/salmos/35/comentarios/">Comentários</a><span class="sep">›</span><span aria-current="page">Ah! Ah! Os nossos olhos viram!</span></nav>
+    <div class="ferramentas">
+      <button type="button" class="ferr so-js" id="letra-menor" aria-label="Letra menor" title="Letra menor"><span class="a-menor">A</span>−</button>
+      <button type="button" class="ferr so-js" id="letra-maior" aria-label="Letra maior" title="Letra maior"><span class="a-maior">A</span>+</button>
+      <button type="button" class="ferr so-js" id="trocar-tema" aria-label="Modo claro ou escuro" title="Modo claro ou escuro"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="8.5" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M12 3.5a8.5 8.5 0 0 1 0 17z" fill="currentColor"/></svg></button>
+      <a class="ferr" id="botao-leituras" href="/biblia/leituras/" aria-label="Leituras" title="Leituras"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path class="fita" d="M6.5 3.5h11v17l-5.5-4-5.5 4z" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/></svg></a>
+      <div class="menu-leitura" id="menu-leitura" hidden>
+        <p class="menu-titulo">Leitura aberta</p>
+        <p class="menu-nome" id="menu-nome"></p>
+        <p class="menu-pos" id="menu-pos"></p>
+        <a class="menu-item" href="/biblia/leituras/">Ver as leituras</a>
+        <button type="button" class="menu-item" id="fechar-leitura">Fechar esta leitura</button>
+      </div>
+    </div>
   </div>
 </header>
 <main id="app" tabindex="-1">
@@ -29,14 +43,16 @@
 </header>
 <blockquote class="versos-tema"><p class="poesia"><span class="linha"><span class="calha"><span class="num">21</span></span><span class="txt">Escancaram contra mim a boca e dizem:</span></span><span class="linha"><span class="calha"></span><span class="txt">Ah! Ah! Os nossos olhos viram!</span></span></p></blockquote>
 <div class="comentarios">
-<article class="comentario">
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Santo Agostinho</span></summary>
   <div class="comentario-texto"><p>«Os nossos olhos viram.» Eis tudo aquilo de que ele se gabava, de se dizer Filho de Deus! Mas o Senhor, paciente, continuava pregado na cruz: não tinha perdido o poder, mas mostrava a sabedoria. Pois que havia de grande para ele em descer da cruz, ele que pôde depois ressuscitar do sepulcro? Mas teria parecido ceder aos que o insultavam; e convinha que, ao ressuscitar, se mostrasse aos seus e não a eles, num grande mistério: porque a sua ressurreição significava a vida nova, e a vida nova é conhecida dos amigos, não dos inimigos.</p></div>
   <p class="autoria"><span class="autor">Santo Agostinho</span><span class="sobre-autor">, bispo de Hipona (354–430), Doutor da Igreja</span><br><span class="obra"><em>Comentários aos Salmos (Enarrationes in Psalmos)</em>, Sl 34, sermão 2, 11</span> · <a href="https://www.augustinus.it/latino/esposizioni_salmi/esposizione_salmo_047_testo.htm" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Eusébio de Cesareia</span></summary>
   <div class="comentario-texto"><p>Isto também se cumpriu quando os fariseus, procurando um pretexto, lhe disseram: «Mestre, sabemos que és verdadeiro e ensinas o caminho de Deus segundo a verdade, e não te importas com ninguém, porque não olhas para a aparência das pessoas: dize-nos, pois, é lícito pagar o imposto a César ou não?» Eram palavras ditas com astúcia; por isso, antecipando-se, ele as tinha insinuado: «Comigo falavam de paz, mas na ira tramavam enganos.» Ali, porém, faziam com astúcia as suas conversas com ele; no fim, no tempo da paixão, gritavam com a boca toda, pedindo o seu sangue sobre si e sobre os seus filhos, o que ele mostra nestas palavras: «Escancararam a boca contra mim.» Depois, quando lhes foi entregue como ovelha levada ao matadouro e como cordeiro inocente, mudo diante do tosquiador, ao verem a sua paixão exclamavam: «Muito bem, muito bem! Os nossos olhos viram!»</p></div>
   <p class="autoria"><span class="autor">Eusébio de Cesareia</span><span class="sobre-autor">, bispo de Cesareia (c. 263–339), o primeiro historiador da Igreja; escritor eclesiástico, não canonizado</span><br><span class="obra"><em>Comentário aos Salmos (Commentaria in Psalmos)</em>, Sl 34 (LXX), v. 19–21</span> · <a href="https://khazarzar.skeptik.net/pgm/PG_Migne/Eusebius%20Caesariensis_PG%2019-24/Commentaria%20in%20Psalmos.pdf" rel="noopener">texto original</a></p>
-</article>
+</details>
 </div>
 <nav class="passos" aria-label="Navegação entre temas"><a class="passo ant" href="/biblia/salmos/35/comentarios/sem-motivo/" rel="prev"><span class="dir">← Anterior</span><span class="alvo">Os que me odeiam sem motivo</span></a><a class="passo seg" href="/biblia/salmos/35/comentarios/nao-te-cales/" rel="next"><span class="dir">Seguinte →</span><span class="alvo">Não te cales, não te afastes</span></a></nav>
 </article>

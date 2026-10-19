@@ -8,8 +8,9 @@
 <meta name="description" content="Como Moisés pôde escrever que era o mais manso dos homens.">
 <meta name="color-scheme" content="light dark">
 <link rel="icon" href="/biblia/favicon.svg" type="image/svg+xml">
-<link rel="stylesheet" href="/biblia/css/estilo.css?v=28b77982">
-<script defer src="/biblia/js/biblia.js?v=59ac4c4e"></script>
+<script src="/biblia/js/preferencias.js?v=e879b9fe"></script>
+<link rel="stylesheet" href="/biblia/css/estilo.css?v=0bc11739">
+<script defer src="/biblia/js/biblia.js?v=38a000ee"></script>
 </head>
 <body class="pag-tema">
 <a class="pular" href="#app">Ir para o conteúdo</a>
@@ -17,6 +18,19 @@
   <div class="topo-int">
     <a class="marca" href="/biblia/">Bíblia</a>
     <nav class="trilha" aria-label="Trilha de navegação"><a href="/biblia/numeros/">Números</a><span class="sep">›</span><a href="/biblia/numeros/12/">Números 12</a><span class="sep">›</span><a href="/biblia/numeros/12/comentarios/1/">Comentários</a><span class="sep">›</span><span aria-current="page">Quem escreveu este elogio?</span></nav>
+    <div class="ferramentas">
+      <button type="button" class="ferr so-js" id="letra-menor" aria-label="Letra menor" title="Letra menor"><span class="a-menor">A</span>−</button>
+      <button type="button" class="ferr so-js" id="letra-maior" aria-label="Letra maior" title="Letra maior"><span class="a-maior">A</span>+</button>
+      <button type="button" class="ferr so-js" id="trocar-tema" aria-label="Modo claro ou escuro" title="Modo claro ou escuro"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="8.5" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M12 3.5a8.5 8.5 0 0 1 0 17z" fill="currentColor"/></svg></button>
+      <a class="ferr" id="botao-leituras" href="/biblia/leituras/" aria-label="Leituras" title="Leituras"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path class="fita" d="M6.5 3.5h11v17l-5.5-4-5.5 4z" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/></svg></a>
+      <div class="menu-leitura" id="menu-leitura" hidden>
+        <p class="menu-titulo">Leitura aberta</p>
+        <p class="menu-nome" id="menu-nome"></p>
+        <p class="menu-pos" id="menu-pos"></p>
+        <a class="menu-item" href="/biblia/leituras/">Ver as leituras</a>
+        <button type="button" class="menu-item" id="fechar-leitura">Fechar esta leitura</button>
+      </div>
+    </div>
   </div>
 </header>
 <main id="app" tabindex="-1">
@@ -29,14 +43,16 @@
 </header>
 <blockquote class="versos-tema"><p class="par"><span class="num">3</span>Ora, Moisés era um homem muito humilde, mais que todos os homens que havia sobre a terra.</p></blockquote>
 <div class="comentarios">
-<article class="comentario">
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São Gregório Magno</span></summary>
   <div class="comentario-texto"><p>É costume da Sagrada Escritura que os próprios autores falem de si nela como se falassem de outros. Por isso Moisés diz: «Moisés era o homem mais manso de todos os que viviam sobre a terra». Por isso João diz: «Aquele discípulo que Jesus amava». [...] Os escritores da palavra sagrada, porque são movidos pelo impulso do Espírito Santo, dão testemunho de si como se fosse de outros. Assim, o Espírito Santo falou de Moisés por meio de Moisés; o Espírito Santo falou de João por meio de João.</p></div>
   <p class="autoria"><span class="autor">São Gregório Magno</span><span class="sobre-autor">, papa (c. 540–604), Doutor da Igreja</span><br><span class="obra"><em>Comentário moral a Jó (Moralia in Iob)</em>, prefácio, 1, 3</span> · <a href="https://mlat.uzh.ch/browser/cps_2.GreI.Morali" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Procópio de Gaza</span></summary>
   <div class="comentario-texto"><p>Por mansidão, ele suportava a acusação em silêncio. E escreve o próprio elogio, como escreve também o próprio pecado, porque amava a verdade e não escondia nada, como Davi e todos os outros.</p></div>
   <p class="autoria"><span class="autor">Procópio de Gaza</span><span class="sobre-autor">, retórico cristão (c. 465–c. 528), compilador das cadeias de comentários; escritor eclesiástico</span><br><span class="obra"><em>Comentário a Números (cadeia sobre o Octateuco)</em>, In Num. 12, 3</span> · <a href="https://archive.org/details/patrologiaecurs267unkngoog" rel="noopener">texto original</a></p>
-</article>
+</details>
 </div>
 <nav class="passos" aria-label="Navegação entre temas"><a class="passo ant" href="/biblia/numeros/12/comentarios/1/deus-defende/" rel="prev"><span class="dir">← Anterior</span><span class="alvo">Deus defende quem se cala</span></a></nav>
 </article>

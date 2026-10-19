@@ -8,8 +8,9 @@
 <meta name="description" content="O mundo quer engolir o justo; mas a ressurreição desmente o triunfo da morte.">
 <meta name="color-scheme" content="light dark">
 <link rel="icon" href="/biblia/favicon.svg" type="image/svg+xml">
-<link rel="stylesheet" href="/biblia/css/estilo.css?v=28b77982">
-<script defer src="/biblia/js/biblia.js?v=59ac4c4e"></script>
+<script src="/biblia/js/preferencias.js?v=e879b9fe"></script>
+<link rel="stylesheet" href="/biblia/css/estilo.css?v=0bc11739">
+<script defer src="/biblia/js/biblia.js?v=38a000ee"></script>
 </head>
 <body class="pag-tema">
 <a class="pular" href="#app">Ir para o conteúdo</a>
@@ -17,6 +18,19 @@
   <div class="topo-int">
     <a class="marca" href="/biblia/">Bíblia</a>
     <nav class="trilha" aria-label="Trilha de navegação"><a href="/biblia/salmos/">Salmos</a><span class="sep">›</span><a href="/biblia/salmos/35/">Salmo 35</a><span class="sep">›</span><a href="/biblia/salmos/35/comentarios/">Comentários</a><span class="sep">›</span><span aria-current="page">Nós o devoramos</span></nav>
+    <div class="ferramentas">
+      <button type="button" class="ferr so-js" id="letra-menor" aria-label="Letra menor" title="Letra menor"><span class="a-menor">A</span>−</button>
+      <button type="button" class="ferr so-js" id="letra-maior" aria-label="Letra maior" title="Letra maior"><span class="a-maior">A</span>+</button>
+      <button type="button" class="ferr so-js" id="trocar-tema" aria-label="Modo claro ou escuro" title="Modo claro ou escuro"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="8.5" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M12 3.5a8.5 8.5 0 0 1 0 17z" fill="currentColor"/></svg></button>
+      <a class="ferr" id="botao-leituras" href="/biblia/leituras/" aria-label="Leituras" title="Leituras"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path class="fita" d="M6.5 3.5h11v17l-5.5-4-5.5 4z" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/></svg></a>
+      <div class="menu-leitura" id="menu-leitura" hidden>
+        <p class="menu-titulo">Leitura aberta</p>
+        <p class="menu-nome" id="menu-nome"></p>
+        <p class="menu-pos" id="menu-pos"></p>
+        <a class="menu-item" href="/biblia/leituras/">Ver as leituras</a>
+        <button type="button" class="menu-item" id="fechar-leitura">Fechar esta leitura</button>
+      </div>
+    </div>
   </div>
 </header>
 <main id="app" tabindex="-1">
@@ -29,18 +43,21 @@
 </header>
 <blockquote class="versos-tema"><p class="poesia"><span class="linha"><span class="calha"><span class="num">25</span></span><span class="txt">Não digam no seu coração: Ah! Era o que queríamos!</span></span><span class="linha"><span class="calha"></span><span class="txt">Não digam: Nós o devoramos!</span></span></p></blockquote>
 <div class="comentarios">
-<article class="comentario">
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Santo Agostinho</span></summary>
   <div class="comentario-texto"><p>«Não digam: Nós o engolimos.» Por isso dizem aqueles mártires: «Se o Senhor não estivesse conosco, talvez nos tivessem engolido vivos». Que quer dizer «nos tivessem engolido»? Teriam nos feito passar para dentro do corpo deles. Pois o que engoles é o que fazes passar para dentro do teu corpo. O mundo quer te engolir: engole tu o mundo, faze-o passar para dentro do teu corpo, mata e come. Foi o que se disse a Pedro: «Mata e come»: mata neles o que eles são, faze deles o que tu és. Mas, se ao contrário eles te persuadirem da impiedade, és engolido por eles. Não és engolido por eles quando te perseguem, mas quando te persuadem a ser o que eles são.</p></div>
   <p class="autoria"><span class="autor">Santo Agostinho</span><span class="sobre-autor">, bispo de Hipona (354–430), Doutor da Igreja</span><br><span class="obra"><em>Comentários aos Salmos (Enarrationes in Psalmos)</em>, Sl 34, sermão 2, 15</span> · <a href="https://www.augustinus.it/latino/esposizioni_salmi/esposizione_salmo_047_testo.htm" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Eusébio de Cesareia</span></summary>
   <div class="comentario-texto"><p>«Quando tu», diz ele, «te levantares contra o que ousaram e julgares segundo a tua justiça, eles não se alegrarão, nem dirão em seus corações: Muito bem, muito bem, a nossa alma venceu. Ainda que algum dia o tenham dito com a boca, não o dirão também em seus corações; nem dirão: Nós o engolimos, quando virem a minha ressurreição e a fundação da minha Igreja no mundo inteiro.» É engolido quem desceu uma vez ao fundo e não subiu mais: assim, um dia, a morte prevaleceu e engoliu. Mas também ali os que foram engolidos voltaram; por isso se disse: «E de novo Deus tirou toda lágrima de todo rosto.»</p></div>
   <p class="autoria"><span class="autor">Eusébio de Cesareia</span><span class="sobre-autor">, bispo de Cesareia (c. 263–339), o primeiro historiador da Igreja; escritor eclesiástico, não canonizado</span><br><span class="obra"><em>Comentário aos Salmos (Commentaria in Psalmos)</em>, Sl 34 (LXX), v. 24–25</span> · <a href="https://khazarzar.skeptik.net/pgm/PG_Migne/Eusebius%20Caesariensis_PG%2019-24/Commentaria%20in%20Psalmos.pdf" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Cassiodoro</span></summary>
   <div class="comentario-texto"><p>«Não digam: Ah! Ah!», isto é: «Bem, bem». São palavras de quem se alegra com mente criminosa, e que já não podem ser ditas quando se é ferido pela compunção. Condenem, pois, a sua má consciência, para não terem de sofrer a sentença do castigo. Ó imensa e infinita bondade do Criador! Não deixa que eles fiquem alegres por um tempo, para que não tenham de ser abatidos por uma desgraça eterna.</p></div>
   <p class="autoria"><span class="autor">Cassiodoro</span><span class="sobre-autor">, senador romano e monge (c. 485–c. 580), fundador do mosteiro de Vivário</span><br><span class="obra"><em>Explicação dos Salmos (Expositio Psalmorum)</em>, Sl 34, v. 28 (para Cassiodoro)</span> · <a href="https://mlat.uzh.ch/browser/cps_2.CasViv.ExInPs" rel="noopener">texto original</a></p>
-</article>
+</details>
 </div>
 <nav class="passos" aria-label="Navegação entre temas"><a class="passo ant" href="/biblia/salmos/35/comentarios/a-minha-causa/" rel="prev"><span class="dir">← Anterior</span><span class="alvo">Para a minha causa</span></a><a class="passo seg" href="/biblia/salmos/35/comentarios/louvor-todo-o-dia/" rel="next"><span class="dir">Seguinte →</span><span class="alvo">O teu louvor, todo o dia</span></a></nav>
 </article>

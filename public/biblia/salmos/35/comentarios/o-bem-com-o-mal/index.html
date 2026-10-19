@@ -8,8 +8,9 @@
 <meta name="description" content="Cristo deu a vida e recebeu a morte; e a alma que fica estéril e desolada.">
 <meta name="color-scheme" content="light dark">
 <link rel="icon" href="/biblia/favicon.svg" type="image/svg+xml">
-<link rel="stylesheet" href="/biblia/css/estilo.css?v=28b77982">
-<script defer src="/biblia/js/biblia.js?v=59ac4c4e"></script>
+<script src="/biblia/js/preferencias.js?v=e879b9fe"></script>
+<link rel="stylesheet" href="/biblia/css/estilo.css?v=0bc11739">
+<script defer src="/biblia/js/biblia.js?v=38a000ee"></script>
 </head>
 <body class="pag-tema">
 <a class="pular" href="#app">Ir para o conteúdo</a>
@@ -17,6 +18,19 @@
   <div class="topo-int">
     <a class="marca" href="/biblia/">Bíblia</a>
     <nav class="trilha" aria-label="Trilha de navegação"><a href="/biblia/salmos/">Salmos</a><span class="sep">›</span><a href="/biblia/salmos/35/">Salmo 35</a><span class="sep">›</span><a href="/biblia/salmos/35/comentarios/">Comentários</a><span class="sep">›</span><span aria-current="page">Pagam-me o bem com o mal</span></nav>
+    <div class="ferramentas">
+      <button type="button" class="ferr so-js" id="letra-menor" aria-label="Letra menor" title="Letra menor"><span class="a-menor">A</span>−</button>
+      <button type="button" class="ferr so-js" id="letra-maior" aria-label="Letra maior" title="Letra maior"><span class="a-maior">A</span>+</button>
+      <button type="button" class="ferr so-js" id="trocar-tema" aria-label="Modo claro ou escuro" title="Modo claro ou escuro"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="8.5" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M12 3.5a8.5 8.5 0 0 1 0 17z" fill="currentColor"/></svg></button>
+      <a class="ferr" id="botao-leituras" href="/biblia/leituras/" aria-label="Leituras" title="Leituras"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path class="fita" d="M6.5 3.5h11v17l-5.5-4-5.5 4z" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/></svg></a>
+      <div class="menu-leitura" id="menu-leitura" hidden>
+        <p class="menu-titulo">Leitura aberta</p>
+        <p class="menu-nome" id="menu-nome"></p>
+        <p class="menu-pos" id="menu-pos"></p>
+        <a class="menu-item" href="/biblia/leituras/">Ver as leituras</a>
+        <button type="button" class="menu-item" id="fechar-leitura">Fechar esta leitura</button>
+      </div>
+    </div>
   </div>
 </header>
 <main id="app" tabindex="-1">
@@ -29,22 +43,26 @@
 </header>
 <blockquote class="versos-tema"><p class="poesia"><span class="linha"><span class="calha"><span class="num">12</span></span><span class="txt">Pagam-me o bem com o mal:</span></span><span class="linha"><span class="calha"></span><span class="txt">deixam a minha alma desolada.</span></span></p></blockquote>
 <div class="comentarios">
-<article class="comentario">
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São Melitão de Sardes</span></summary>
   <div class="comentario-texto"><p>Por isso sofreu. Como está escrito na Lei e nos Profetas: «Pagaram-me o bem com o mal e deixaram a minha alma sem filhos, tramando o mal contra mim e dizendo: Amarremos o justo, porque nos é incômodo.»</p></div>
   <p class="autoria"><span class="autor">São Melitão de Sardes</span><span class="sobre-autor">, bispo de Sardes, na Ásia Menor (†c. 180)</span><br><span class="obra"><em>Sobre a Páscoa (Peri Pascha)</em>, Sobre a Páscoa 72</span> · <a href="https://khazarzar.skeptik.net/pgm/PG_Migne/Melito%20of%20Sardis_PG%2005/De%20pascha.pdf" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Cassiodoro</span></summary>
   <div class="comentario-texto"><p>Não se podia dizer nada mais breve nem mais elegante. Os benefícios do Senhor e o que os seus adversários fizeram estão explicados numa palavra cada: «o mal pelo bem». Ele tinha dado a vida aos que criam, e eles preferiram pagar-lhe com a morte: e esse modo de retribuir é o extremo de todos os males. Houve também esterilidade da alma, quando o bom Mestre não pôde achar neles o fruto da fé.</p></div>
   <p class="autoria"><span class="autor">Cassiodoro</span><span class="sobre-autor">, senador romano e monge (c. 485–c. 580), fundador do mosteiro de Vivário</span><br><span class="obra"><em>Explicação dos Salmos (Expositio Psalmorum)</em>, Sl 34, v. 14 (para Cassiodoro)</span> · <a href="https://mlat.uzh.ch/browser/cps_2.CasViv.ExInPs" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Santo Agostinho</span></summary>
   <div class="comentario-texto"><p>«Pagavam-me o bem com o mal, e a esterilidade da minha alma.» Eu trouxe a fecundidade, eles pagavam com a esterilidade; eu, a vida, eles, a morte; eu, a honra, eles, os insultos; eu, o remédio, eles, as feridas; e em tudo o que pagavam havia, de fato, esterilidade. Foi esta esterilidade que ele amaldiçoou na árvore, quando procurou fruto e não achou. Havia folhas, e não havia frutos: havia palavras, e não havia obras. Vê a abundância nas palavras e a esterilidade nas obras: «Tu, que pregas que não se deve roubar, roubas; tu, que dizes que não se deve cometer adultério, cometes adultério».</p></div>
   <p class="autoria"><span class="autor">Santo Agostinho</span><span class="sobre-autor">, bispo de Hipona (354–430), Doutor da Igreja</span><br><span class="obra"><em>Comentários aos Salmos (Enarrationes in Psalmos)</em>, Sl 34, sermão 2, 2</span> · <a href="https://www.augustinus.it/latino/esposizioni_salmi/esposizione_salmo_047_testo.htm" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São Bernardo de Claraval</span></summary>
   <div class="comentario-texto"><p>[A minha vinha] está aberta, exposta à tristeza, à ira e à impaciência. Destroem-na umas raposinhas diligentes, as necessidades que urgem; de todos os lados irrompem ansiedades, suspeitas, preocupações; raramente passa uma hora sem multidões de gente em discórdia e o incômodo das causas. Não há como impedir, não há como desviar, e nem mesmo tempo para rezar. Com que chuva de lágrimas poderei regar a esterilidade da minha alma? Queria dizer «da minha vinha», mas, pelo costume, saiu-me assim, do salmo; e o sentido é o mesmo. Não me pesa o engano, que lembra a semelhança: pois não se fala da vinha, mas da alma.</p></div>
   <p class="autoria"><span class="autor">São Bernardo de Claraval</span><span class="sobre-autor">, abade de Claraval (1090–1153), Doutor da Igreja</span><br><span class="obra"><em>Sermões sobre o Cântico dos Cânticos (Sermones in Cantica)</em>, Sermões sobre o Cântico, 30, 7</span> · <a href="https://mlat.uzh.ch/browser/cps_2.BerCla.SeInCaC" rel="noopener">texto original</a></p>
-</article>
+</details>
 </div>
 <nav class="passos" aria-label="Navegação entre temas"><a class="passo ant" href="/biblia/salmos/35/comentarios/testemunhas-falsas/" rel="prev"><span class="dir">← Anterior</span><span class="alvo">As testemunhas falsas</span></a><a class="passo seg" href="/biblia/salmos/35/comentarios/o-saco-de-cristo/" rel="next"><span class="dir">Seguinte →</span><span class="alvo">O saco e o jejum de Cristo</span></a></nav>
 </article>
