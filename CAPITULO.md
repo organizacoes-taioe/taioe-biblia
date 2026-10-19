@@ -142,17 +142,22 @@ espera a resposta dele. Depois de publicar, `respostas.sh marcar`.
 ```bash
 node ferramentas/conferir.mjs      # mesóclise, uso europeu, numeração, notas, comentários
 node ferramentas/gerar.mjs         # public/biblia/
-node ferramentas/revisao.mjs       # ../infra/dados/paginas/biblia.json
+node ferramentas/revisao.mjs       # ../infra/dados/paginas/biblia.json e biblia-comentarios.json
 ```
 
 - `estado: "em revisão"` no capítulo. No taioe-infra: `python dados/paginas/gerar.py
-  dados/paginas/biblia.json`, commit na `main`, e o workflow **Catálogo** (`taioe-infra`,
-  `dados/paginas/biblia.sql`) no teste e na produção.
+  dados/paginas/biblia.json` (e o mesmo com `biblia-comentarios.json`), commit na `main`, e o
+  workflow **Catálogo** (`taioe-infra`, `dados/paginas/biblia.sql` e `biblia-comentarios.sql`) no
+  teste e na produção.
 - Ver no local (http://localhost:8777/biblia/…) e na prévia; publicar (push na `main` do taioe-biblia).
 - O Gere avalia em `/admin/biblia/` as escolhas de tradução, as notas, a divisão e o registro
   (aprovar, alterar, excluir, com a explicação); cada resposta grava sozinha, no clique ou ao parar
-  de digitar. **Os comentários dos Padres não vão para a revisão** (17/10): entram direto no site,
-  e ele pede as mudanças na conversa, à medida que for lendo.
+  de digitar. As páginas não levam texto explicativo nem pergunta geral (19/10).
+- **Os comentários dos Padres** entram direto no site (17/10), e desde 19/10 ele os revisa à parte,
+  em `/admin/biblia-comentarios/`, para não misturar com o que é prioritário: cada título de tema e
+  cada texto (`resumo`) de tema (aprovar ou editar), cada comentário (aprovar, cortar ou excluir).
+  O que ele aprova ganha `revisto` (no tema, a lista `["titulo", "resumo"]`; no comentário, `true`)
+  e sai da página no próximo `revisao.mjs`.
 - Estudo de uma palavra que vale para a Bíblia inteira (ex.: *nefesh*): `revisao/estudos/<id>.md`
   (o estudo) e `<id>.json` (resumo, casos e a decisão), que o `revisao.mjs` põe na mesma página
   enquanto o `estado` for «em revisão».
@@ -173,3 +178,12 @@ bash ferramentas/respostas.sh marcar <arquivo> # depois de aplicar: marca como l
 - Quando tudo estiver respondido e aplicado: `estado: "revisado"` e apagar o `revisao` do capítulo
   (o histórico fica no git); ele sai da página de revisão no próximo `revisao.mjs`.
 - Pedido de mudança num comentário, feito na conversa: aplicar direto no `conteudo/` e publicar.
+- Respostas dos comentários (`/admin/biblia-comentarios/`):
+  ```bash
+  bash ferramentas/respostas.sh comentarios exportar                 # caminho do JSON
+  node ferramentas/aplicar-comentarios.mjs <respostas.json>           # aplica e lista os cortes
+  bash ferramentas/respostas.sh comentarios marcar <respostas.aplicadas.json>
+  ```
+  A edição dele num comentário é só para cortar: conferir cada corte que o script lista (antes e
+  depois) contra o original; se o corte mudou o sentido ou deixou a frase manca, acertar o mínimo e
+  dizer a ele. Depois, gerar, `revisao.mjs`, Catálogo e publicar, como acima.

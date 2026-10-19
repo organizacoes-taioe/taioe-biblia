@@ -8,8 +8,9 @@
 <meta name="description" content="Do cacho se espreme o vinho que é o sangue de Cristo; as romãs e os figos, e até os quarenta dias da viagem, também falam dele.">
 <meta name="color-scheme" content="light dark">
 <link rel="icon" href="/biblia/favicon.svg" type="image/svg+xml">
-<link rel="stylesheet" href="/biblia/css/estilo.css?v=28b77982">
-<script defer src="/biblia/js/biblia.js?v=59ac4c4e"></script>
+<script src="/biblia/js/preferencias.js?v=e879b9fe"></script>
+<link rel="stylesheet" href="/biblia/css/estilo.css?v=0bc11739">
+<script defer src="/biblia/js/biblia.js?v=38a000ee"></script>
 </head>
 <body class="pag-tema">
 <a class="pular" href="#app">Ir para o conteúdo</a>
@@ -17,6 +18,19 @@
   <div class="topo-int">
     <a class="marca" href="/biblia/">Bíblia</a>
     <nav class="trilha" aria-label="Trilha de navegação"><a href="/biblia/numeros/">Números</a><span class="sep">›</span><a href="/biblia/numeros/13/">Números 13</a><span class="sep">›</span><a href="/biblia/numeros/13/comentarios/2/">Comentários</a><span class="sep">›</span><span aria-current="page">O vinho do cacho, as romãs e os figos</span></nav>
+    <div class="ferramentas">
+      <button type="button" class="ferr so-js" id="letra-menor" aria-label="Letra menor" title="Letra menor"><span class="a-menor">A</span>−</button>
+      <button type="button" class="ferr so-js" id="letra-maior" aria-label="Letra maior" title="Letra maior"><span class="a-maior">A</span>+</button>
+      <button type="button" class="ferr so-js" id="trocar-tema" aria-label="Modo claro ou escuro" title="Modo claro ou escuro"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="8.5" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M12 3.5a8.5 8.5 0 0 1 0 17z" fill="currentColor"/></svg></button>
+      <a class="ferr" id="botao-leituras" href="/biblia/leituras/" aria-label="Leituras" title="Leituras"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path class="fita" d="M6.5 3.5h11v17l-5.5-4-5.5 4z" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/></svg></a>
+      <div class="menu-leitura" id="menu-leitura" hidden>
+        <p class="menu-titulo">Leitura aberta</p>
+        <p class="menu-nome" id="menu-nome"></p>
+        <p class="menu-pos" id="menu-pos"></p>
+        <a class="menu-item" href="/biblia/leituras/">Ver as leituras</a>
+        <button type="button" class="menu-item" id="fechar-leitura">Fechar esta leitura</button>
+      </div>
+    </div>
   </div>
 </header>
 <main id="app" tabindex="-1">
@@ -29,22 +43,26 @@
 </header>
 <blockquote class="versos-tema"><p class="par"><span class="num">23</span>Chegaram ao vale de Escol, cortaram ali um ramo com um só cacho de uvas e o levaram numa vara, entre dois; levaram também romãs e figos.</p><p class="par"><span class="num">25</span>Ao fim de quarenta dias, voltaram da exploração da terra.</p></blockquote>
 <div class="comentarios">
-<article class="comentario">
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São Bernardo de Claraval</span></summary>
   <div class="comentario-texto"><p>O bom vinho não se tira da vinha da impureza, mas da talha da purificação. O bom vinho não se faz da uva de Gomorra, mas da água da Judeia. «Guardaste», diz, «o bom vinho até agora». Pois o vinho ótimo é guardado ainda até agora: não é para ser feito de água, mas antes espremido daquele grande cacho da terra da promessa, que por enquanto é levado na vara, enquanto conhecemos Cristo segundo a carne, e este crucificado.</p></div>
   <p class="autoria"><span class="autor">São Bernardo de Claraval</span><span class="sobre-autor">, abade cisterciense (1090–1153), Doutor da Igreja</span><br><span class="obra"><em>Sermões sobre diversos temas (Sermones de diversis), 18</em>, Sermão 18, 2</span> · <a href="https://mlat.uzh.ch/browser/cps_2.BerCla.SeDeDi2" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Santo Isidoro de Sevilha</span></summary>
   <div class="comentario-texto"><p>Este é o cacho que, espremido para a nossa salvação, derramou no esmagamento da cruz o vinho do seu sangue e deu de beber à Igreja o cálice espremido da sua paixão. Este é o cacho que a romã acompanhou, como companheira na graça do dom: a nossa mãe Igreja, que tem dentro de si, no número dos grãos, a multidão dos povos; que pela cor vermelha brilha com o selo do sangue de Cristo; e que tem também por dentro os grãos separados, como diz o Apóstolo: os carismas divididos e os dons do Espírito Santo distribuídos pela graça. Os incrédulos, julgando-se indignos de tudo isso, não mereceram receber a terra da carne de Cristo, que mana leite e mel; os seus servos, isto é, o povo cristão, a alcançaram pela fé. [...] Quanto ao figo, que trouxeram com o cacho da terra da promessa, os exemplos do Evangelho nos ensinam que era imagem da lei, assim como o cacho, sem dúvida, mostra a figura do Salvador [...]: porque nem Cristo está sem a lei, nem a lei poderá estar sem Cristo.</p></div>
   <p class="autoria"><span class="autor">Santo Isidoro de Sevilha</span><span class="sobre-autor">, bispo de Sevilha (c. 560–636), Doutor da Igreja</span><br><span class="obra"><em>Questões sobre o Antigo Testamento (Quaestiones in Vetus Testamentum), Sobre Números</em>, In Numeros 15, 10–11</span> · <a href="https://mlat.uzh.ch/browser/cps_2.IsiHis.QuInVeT" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Ruperto de Deutz</span></summary>
   <div class="comentario-texto"><p>Trouxemos também das romãs e dos figos daquele lugar, porque entendemos que as mortes dos profetas e as perseguições que sofreram foram testemunhos do Cristo que havia de padecer. Isso nós exploramos em quarenta dias. Pois aquele que nos admitiu a explorar a ressurreição da carne mostrou-se a nós vivo, com muitas provas, aparecendo aos discípulos durante quarenta dias e falando do Reino de Deus. Um dos exploradores diz: «O que era desde o princípio, o que ouvimos, o que vimos com os nossos olhos e as nossas mãos apalparam».</p></div>
   <p class="autoria"><span class="autor">Ruperto de Deutz</span><span class="sobre-autor">, abade beneditino (c. 1075–1129), teólogo</span><br><span class="obra"><em>A Trindade e as suas obras (De Trinitate et operibus eius), Sobre Números</em>, In Numeros I, 37</span> · <a href="https://mlat.uzh.ch/browser/cps_2.RupTui.DeTrEtO" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Santo Ambrósio</span></summary>
   <div class="comentario-texto"><p>Chegando, pois, a esta mansão, a este progresso, de oferecer por Cristo os seus filhos e de receber as feridas da caridade, a Igreja, como quem encontra o bom alimento da fé, provou ela mesma os frutos da piedade e começou a exortar os outros, dizendo: «Provai e vede como o Senhor é suave», como a maçã. Na maçã há uma ferida, mas mesmo assim é suave. Chegou de novo ao vale do cacho e viu uma uva de tamanho enorme, que dois mal podiam carregar, um que ia à frente e outro que vinha atrás. Provou o mistério, provou-o em Jesus Nave [Josué], provou-o em Caleb, que diziam ao povo: «Vimos a terra onde corre mel e leite». Provai e vede como o Senhor é suave.</p></div>
   <p class="autoria"><span class="autor">Santo Ambrósio</span><span class="sobre-autor">, bispo de Milão (c. 339–397), Doutor da Igreja</span><br><span class="obra"><em>Comentário ao Salmo 118 (Expositio in psalmum CXVIII)</em>, Sermão 5 (He), 18</span> · <a href="https://mlat.uzh.ch/browser/cps_2.AmbMed.ExInPsD" rel="noopener">texto original</a></p>
-</article>
+</details>
 </div>
 <nav class="passos" aria-label="Navegação entre temas"><a class="passo ant" href="/biblia/numeros/13/comentarios/2/os-dois-carregadores/" rel="prev"><span class="dir">← Anterior</span><span class="alvo">Os dois que carregam o cacho</span></a><a class="passo seg" href="/biblia/numeros/13/comentarios/2/cacho-liturgia/" rel="next"><span class="dir">Seguinte →</span><span class="alvo">O cacho na liturgia e na arte</span></a></nav>
 </article>

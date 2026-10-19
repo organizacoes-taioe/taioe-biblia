@@ -15,8 +15,10 @@ Ainda não anunciada: sem link no site, `noindex`, e um caminho em `/admin/`.
   - `importar.mjs <livro> <cap>`: traz o capítulo da tradução de partida (projeto `biblia`, fora daqui);
   - `conferir.mjs`: mesóclise, uso europeu, numeração, notas, comentários (o CI roda);
   - `gerar.mjs`: grava `public/biblia/` (o CI confere com `--conferir`);
-  - `revisao.mjs`: monta a página de revisão do Gere (`/admin/biblia/`, conteúdo no `taioe-infra`);
+  - `revisao.mjs`: monta as páginas de revisão do Gere (`/admin/biblia/` e `/admin/biblia-comentarios/`,
+    conteúdo no `taioe-infra`);
   - `respostas.sh`: baixa as respostas dele e marca as aplicadas (workflow Respostas do `taioe-infra`);
+  - `aplicar-comentarios.mjs`: aplica as respostas da página dos comentários e lista os cortes;
   - `formato.py`: grava o JSON do capítulo legível (um versículo, nota ou comentário por linha).
 - `pesquisa/`: o acervo dos comentários (textos de domínio público, excertos candidatos, catálogo
   das fontes). Não vai ao ar. Ver `pesquisa/COMO-PESQUISAR.md`.
@@ -27,7 +29,13 @@ Ainda não anunciada: sem link no site, `noindex`, e um caminho em `/admin/`.
 
 `/biblia/` (início) · `/biblia/<livro>/` · `/biblia/<livro>/<cap>/` (texto e notas) ·
 `/biblia/<livro>/<cap>/comentarios/` (temas; com vários trechos, `.../comentarios/<trecho>/`) ·
-`.../comentarios/<tema>/` (os comentários do tema).
+`.../comentarios/<tema>/` (os comentários do tema, cada um fechado no nome do autor) ·
+`/biblia/leituras/` (as leituras: pontos de leitura com nome que acompanham o leitor).
+
+Em toda página, a barra de cima tem letra menor e maior, modo claro ou escuro (começa pelo do
+navegador) e as leituras; tudo fica no navegador, com o prefixo `biblia:` (`js/preferencias.js`
+aplica antes de desenhar a página; `js/biblia.js` faz o resto, inclusive as notas, que abrem coladas
+à linha e somem com qualquer toque ou rolagem).
 
 ## Rodar no computador
 

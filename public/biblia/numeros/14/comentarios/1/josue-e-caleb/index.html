@@ -8,8 +8,9 @@
 <meta name="description" content="Dois homens contra a multidão: dizem que a terra é boa e que o Senhor está com eles.">
 <meta name="color-scheme" content="light dark">
 <link rel="icon" href="/biblia/favicon.svg" type="image/svg+xml">
-<link rel="stylesheet" href="/biblia/css/estilo.css?v=28b77982">
-<script defer src="/biblia/js/biblia.js?v=59ac4c4e"></script>
+<script src="/biblia/js/preferencias.js?v=e879b9fe"></script>
+<link rel="stylesheet" href="/biblia/css/estilo.css?v=0bc11739">
+<script defer src="/biblia/js/biblia.js?v=38a000ee"></script>
 </head>
 <body class="pag-tema">
 <a class="pular" href="#app">Ir para o conteúdo</a>
@@ -17,6 +18,19 @@
   <div class="topo-int">
     <a class="marca" href="/biblia/">Bíblia</a>
     <nav class="trilha" aria-label="Trilha de navegação"><a href="/biblia/numeros/">Números</a><span class="sep">›</span><a href="/biblia/numeros/14/">Números 14</a><span class="sep">›</span><a href="/biblia/numeros/14/comentarios/1/">Comentários</a><span class="sep">›</span><span aria-current="page">Josué e Caleb, a voz da fé</span></nav>
+    <div class="ferramentas">
+      <button type="button" class="ferr so-js" id="letra-menor" aria-label="Letra menor" title="Letra menor"><span class="a-menor">A</span>−</button>
+      <button type="button" class="ferr so-js" id="letra-maior" aria-label="Letra maior" title="Letra maior"><span class="a-maior">A</span>+</button>
+      <button type="button" class="ferr so-js" id="trocar-tema" aria-label="Modo claro ou escuro" title="Modo claro ou escuro"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="8.5" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M12 3.5a8.5 8.5 0 0 1 0 17z" fill="currentColor"/></svg></button>
+      <a class="ferr" id="botao-leituras" href="/biblia/leituras/" aria-label="Leituras" title="Leituras"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path class="fita" d="M6.5 3.5h11v17l-5.5-4-5.5 4z" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/></svg></a>
+      <div class="menu-leitura" id="menu-leitura" hidden>
+        <p class="menu-titulo">Leitura aberta</p>
+        <p class="menu-nome" id="menu-nome"></p>
+        <p class="menu-pos" id="menu-pos"></p>
+        <a class="menu-item" href="/biblia/leituras/">Ver as leituras</a>
+        <button type="button" class="menu-item" id="fechar-leitura">Fechar esta leitura</button>
+      </div>
+    </div>
   </div>
 </header>
 <main id="app" tabindex="-1">
@@ -29,18 +43,21 @@
 </header>
 <blockquote class="versos-tema"><p class="par"><span class="num">6</span>Josué, filho de Num, e Caleb, filho de Jefoné, que estavam entre os que tinham explorado a terra, rasgaram as suas vestes</p><p class="par"><span class="num">7</span>e disseram a toda a comunidade dos filhos de Israel: A terra que percorremos para explorá-la é uma terra muito, muito boa.</p><p class="par"><span class="num">8</span>Se o Senhor se agradar de nós, ele nos fará entrar nesta terra e a dará a nós, uma terra que mana leite e mel.</p><p class="par"><span class="num">9</span>Somente não vos revolteis contra o Senhor. E vós, não temais o povo desta terra, porque eles são o nosso pão: a sombra que os cobria se retirou, e o Senhor está conosco. Não os temais.</p></blockquote>
 <div class="comentarios">
-<article class="comentario">
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Santo Tomás de Aquino</span></summary>
   <div class="comentario-texto"><p>«Mas não todos», isto é, não todos sem exceção. Pois dois, Caleb e Josué, permaneceram firmes, como se lê em Números 14,6, e ainda davam ânimo aos outros. Com isso se dá a entender que, como não cai a Igreja inteira, mas só alguns, ainda que muitos, os maus serão punidos, mas não os bons, como aconteceu com aqueles dois.</p></div>
   <p class="autoria"><span class="autor">Santo Tomás de Aquino</span><span class="sobre-autor">, dominicano (1225–1274), Doutor da Igreja</span><br><span class="obra"><em>Comentário à Carta aos Hebreus (Super Epistolam ad Hebraeos)</em>, cap. 3, lição 3</span> · <a href="https://www.corpusthomisticum.org/che01.html" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Santo Efrém, o Sírio (atribuído)</span></summary>
   <div class="comentario-texto"><p>Quando era preciso encher o povo da melhor esperança e animá-lo a levar adiante a empresa, mostrando a fertilidade do solo e a abundância e excelência dos frutos, eles [os exploradores], ao contrário, começaram a assustá-lo, exagerando sem medida a ferocidade e o número dos habitantes. Josué, filho de Num, e Caleb, filho de Jefoné, da tribo de Judá, os contradiziam: anunciando maravilhas da fertilidade da terra prometida e da fartura e abundância de tudo o que serve ao sustento, exortavam o povo a deixar o medo e ter o ânimo tranquilo. Nesses dois homens, que, depois de explorar Canaã por ordem de Moisés, chamavam o povo a entrar nela, contempla a imagem dos profetas e dos sábios que, ensinados por Deus, foram enviados aos judeus para levá-los, pelo caminho da Lei, ao Evangelho.</p></div>
   <p class="autoria"><span class="autor">Santo Efrém, o Sírio (atribuído)</span><span class="sobre-autor">, diácono de Edessa (c. 306–373), Doutor da Igreja; glosas da cadeia siríaca, de atribuição incerta</span><br><span class="obra"><em>Comentário a Números (In Numeros), na edição romana</em>, In Num. 13,1–14,9</span> · <a href="https://archive.org/details/assemani-et-alii-1732-1746-ephraem-syri-opera-omnia-syr-1" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Teodoreto de Ciro</span></summary>
   <div class="comentario-texto"><p>[Sobre «Desprezaram a terra desejável, não creram na sua palavra e murmuraram nas suas tendas».] Lembra outra desobediência: quando Deus os exortava a entrar na terra prometida, se deixaram tomar pela paixão do medo e resistiram abertamente, dizendo que os cananeus eram valentes e que eles não tinham força suficiente para enfrentar o exército deles. E isso é prova evidente de incredulidade: os que tinham visto com os próprios olhos tantos e tão grandes milagres deviam confiar em tudo no poder de quem os salvara.</p></div>
   <p class="autoria"><span class="autor">Teodoreto de Ciro</span><span class="sobre-autor">, bispo de Ciro, na Síria (c. 393–c. 460), comentador da Bíblia; escritor eclesiástico</span><br><span class="obra"><em>Interpretação dos Salmos (Interpretatio in Psalmos)</em>, Sl 105 (LXX; nosso 106), 24–25</span> · <a href="https://khazarzar.skeptik.net/pgm/PG_Migne/Theodoretus%20of%20Cyrrhus_PG%2080-84/Interpretatio%20in%20Psalmos.pdf" rel="noopener">texto original</a></p>
-</article>
+</details>
 </div>
 <nav class="passos" aria-label="Navegação entre temas"><a class="passo ant" href="/biblia/numeros/14/comentarios/1/saudade-do-egito/" rel="prev"><span class="dir">← Anterior</span><span class="alvo">A saudade do Egito</span></a><a class="passo seg" href="/biblia/numeros/14/comentarios/1/nosso-pao/" rel="next"><span class="dir">Seguinte →</span><span class="alvo">«Eles são o nosso pão»</span></a></nav>
 </article>

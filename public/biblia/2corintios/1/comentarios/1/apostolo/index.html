@@ -8,8 +8,9 @@
 <meta name="description" content="Paulo não se fez apóstolo: foi chamado, e é isso que dá autoridade à carta.">
 <meta name="color-scheme" content="light dark">
 <link rel="icon" href="/biblia/favicon.svg" type="image/svg+xml">
-<link rel="stylesheet" href="/biblia/css/estilo.css?v=28b77982">
-<script defer src="/biblia/js/biblia.js?v=59ac4c4e"></script>
+<script src="/biblia/js/preferencias.js?v=e879b9fe"></script>
+<link rel="stylesheet" href="/biblia/css/estilo.css?v=0bc11739">
+<script defer src="/biblia/js/biblia.js?v=38a000ee"></script>
 </head>
 <body class="pag-tema">
 <a class="pular" href="#app">Ir para o conteúdo</a>
@@ -17,6 +18,19 @@
   <div class="topo-int">
     <a class="marca" href="/biblia/">Bíblia</a>
     <nav class="trilha" aria-label="Trilha de navegação"><a href="/biblia/2corintios/">II Coríntios</a><span class="sep">›</span><a href="/biblia/2corintios/1/">II Coríntios 1</a><span class="sep">›</span><a href="/biblia/2corintios/1/comentarios/1/">Comentários</a><span class="sep">›</span><span aria-current="page">«Apóstolo pela vontade de Deus»</span></nav>
+    <div class="ferramentas">
+      <button type="button" class="ferr so-js" id="letra-menor" aria-label="Letra menor" title="Letra menor"><span class="a-menor">A</span>−</button>
+      <button type="button" class="ferr so-js" id="letra-maior" aria-label="Letra maior" title="Letra maior"><span class="a-maior">A</span>+</button>
+      <button type="button" class="ferr so-js" id="trocar-tema" aria-label="Modo claro ou escuro" title="Modo claro ou escuro"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="8.5" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M12 3.5a8.5 8.5 0 0 1 0 17z" fill="currentColor"/></svg></button>
+      <a class="ferr" id="botao-leituras" href="/biblia/leituras/" aria-label="Leituras" title="Leituras"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path class="fita" d="M6.5 3.5h11v17l-5.5-4-5.5 4z" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/></svg></a>
+      <div class="menu-leitura" id="menu-leitura" hidden>
+        <p class="menu-titulo">Leitura aberta</p>
+        <p class="menu-nome" id="menu-nome"></p>
+        <p class="menu-pos" id="menu-pos"></p>
+        <a class="menu-item" href="/biblia/leituras/">Ver as leituras</a>
+        <button type="button" class="menu-item" id="fechar-leitura">Fechar esta leitura</button>
+      </div>
+    </div>
   </div>
 </header>
 <main id="app" tabindex="-1">
@@ -29,30 +43,36 @@
 </header>
 <blockquote class="versos-tema"><p class="par"><span class="num">1</span>Paulo, apóstolo de Cristo Jesus pela vontade de Deus, e Timóteo, o irmão, à Igreja de Deus que está em Corinto, com todos os santos que estão em toda a Acaia:</p></blockquote>
 <div class="comentarios">
-<article class="comentario">
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São Cirilo de Alexandria</span></summary>
   <div class="comentario-texto"><p>Ao dizer-se apóstolo de Jesus, anuncia que Jesus é Deus por natureza e verdadeiramente; pois ninguém se diria apóstolo de homens, mas sim de quem é Deus por natureza. E mostra que não foi chamado ao apostolado sem a vontade do Pai, nem fala do próprio coração, como os falsos adivinhos, mas serve às palavras de Deus.</p></div>
   <p class="autoria"><span class="autor">São Cirilo de Alexandria</span><span class="sobre-autor">, bispo de Alexandria (c. 376–444), Doutor da Igreja</span><br><span class="obra"><em>Fragmentos sobre a 2ª Carta aos Coríntios</em>, Livro I, discurso 1 (2Cor 1,1) (ed. Pusey, In D. Joannis Evangelium, III (Oxford 1872), p. 321; PG 74)</span> · <a href="https://khazarzar.skeptik.net/pgm/PG_Migne/Cyril%20of%20Alexandria_PG%2068-77/Fragmenta%20in%20sancti%20Pauli%20epistulam%20ii%20ad%20Corinthios.pdf" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Ambrosiaster</span></summary>
   <div class="comentario-texto"><p>«Paulo, apóstolo de Jesus Cristo.» Já seguro a respeito deles, proclama com confiança que é apóstolo do Senhor. Na primeira carta, de fato, dizia-se chamado a ser apóstolo, mas ainda não reconhecido por aqueles que tinham sido afastados do seu ensinamento. «Pela vontade de Deus.» Para provar que o seu apostolado é válido, diz que foi feito apóstolo pela vontade de Cristo, o Senhor; assim disse o Senhor aos judeus: «faço sempre o que lhe agrada», isto é, a Deus Pai. «E Timóteo, o irmão.» Escreve junto com aquele por meio de quem mandou a primeira carta, isto é, com Timóteo, para mostrar que soube por ele da boa vontade deles, com que se deixaram corrigir. «À Igreja que está em Corinto, com todos os santos que estão na Acaia.» Agora os associa aos santos das outras Igrejas, para que saibam que progrediram. «Graça e paz a vós, da parte de Deus, nosso Pai, e do Senhor Jesus Cristo.» Porque o dom de Deus e o de Cristo é um só, deseja que eles participem da graça de Deus, que é também a de Cristo.</p></div>
   <p class="autoria"><span class="autor">Ambrosiaster</span><span class="sobre-autor">, escritor eclesiástico (séc. IV), autor do comentário às cartas de Paulo que a tradição atribuiu a Santo Ambrósio</span><br><span class="obra"><em>Comentário à Segunda Carta aos Coríntios (Commentaria in epistolam ad Corinthios secundam)</em>, Sobre 2Cor 1,1–2 (PL 17, 275C–276C)</span> · <a href="https://mlat.uzh.ch/browser/cps_2.Ambros.CoInEpA3" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Atão de Vercelli</span></summary>
   <div class="comentario-texto"><p>E ele, para firmar a autoridade do seu apostolado e mostrar que essa dignidade era legítima, acrescentou: «pela vontade de Deus». Pois nem todos os que se dizem apóstolos o são pela vontade de Deus. Ou disse «de Deus» para mostrar que não foi feito apóstolo só por Cristo homem, mas também por Deus. Assim fala o próprio Filho de Deus aos judeus: «Faço sempre o que lhe agrada» (Jo 8,29). Paulo, por sua vez, diz que foi chamado apóstolo pela vontade de Deus porque em tudo cumpria a vontade de Deus. Portanto, os que chegam a algum grau da dignidade eclesiástica e procuram cumprir em tudo a vontade de Deus devem ser tidos como chegados a ele pela vontade divina.</p></div>
   <p class="autoria"><span class="autor">Atão de Vercelli</span><span class="sobre-autor">, bispo de Vercelli (c. 885–961)</span><br><span class="obra"><em>Exposição das cartas de São Paulo (Expositio epistolarum S. Pauli)</em>, II Cor., cap. 1, v. 1 (PL 134, 413D–414A)</span> · <a href="https://mlat.uzh.ch/browser/cps_2.AttVer.ExEpSPa" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São Bruno, o Cartuxo (atribuído)</span></summary>
   <div class="comentario-texto"><p>Segundo o seu costume, põe primeiro a saudação, dizendo: «Paulo» (nome tanto de humildade como de autoridade); Paulo, digo, «apóstolo», isto é, embaixador «de Cristo Jesus», pois anuncia a glória de Cristo. Apóstolo, digo, não por temerária presunção, como os falsos apóstolos, mas «pela vontade», isto é, pelo beneplácito de Deus; e com ele «Timóteo, o irmão», isto é, colaborador na obra de Cristo. Põe Timóteo, por quem tinha mandado a primeira carta, para que saibam que conhece tudo o que se passa entre eles. Paulo e Timóteo escrevem «à Igreja», isto é, à assembleia convocada dos fiéis; à Igreja «de Deus», digo, isto é, na qual age só a graça de Deus, e não os méritos dos mestres, como se gloriam os falsos apóstolos. (...) «Com todos os santos», isto é, os santificados por Cristo no batismo; com todos, digo, «os que estão em toda a Acaia». Como se dissesse: à Igreja de Corinto e a todas as Igrejas que dela dependem.</p></div>
   <p class="autoria"><span class="autor">São Bruno, o Cartuxo (atribuído)</span><span class="sobre-autor">, fundador da Cartuxa (c. 1030–1101); a atribuição deste comentário é discutida</span><br><span class="obra"><em>Exposição das cartas de Paulo (Expositio in epistolas Pauli)</em>, In II Cor., cap. 1, expositio (PL 153, 219D–220B)</span> · <a href="https://mlat.uzh.ch/browser/cps_2.BruCar.ExInEpP" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São Tomás de Aquino</span></summary>
   <div class="comentario-texto"><p>Mas por que aqui se chama apóstolo, dizendo «Paulo, apóstolo», quando na carta aos Romanos escreve que é servo? A razão é que repreende os romanos pela discórdia e pela soberba, que é a mãe da discórdia, porque «entre os soberbos há sempre brigas». Por isso, para afastá-los da discórdia, leva-os à humildade, chamando-se servo. Os coríntios, porém, eram teimosos e rebeldes; por isso, para reprimir a insolência deles, usou aqui o nome da dignidade, dizendo-se apóstolo. Em segundo lugar, diz de quem é enviado: «de Jesus Cristo»; mais adiante, no cap. 5,20: «exercemos a função de embaixadores em nome de Cristo». Em terceiro lugar, diz o modo como obteve essa embaixada: não se intrometeu, como os falsos apóstolos; Jr 23,21: «eu não os enviava, e eles corriam». Não foi dado ao povo pela ira divina, conforme Jó 34,30: «ele faz reinar o hipócrita», e Os 13,11: «eu te darei um rei, mas na minha ira». Obteve o apostolado pela vontade de Deus e pelo seu beneplácito; At 9,15: «este é para mim um instrumento escolhido». Por isso diz: «pela vontade de Deus».</p></div>
   <p class="autoria"><span class="autor">São Tomás de Aquino</span><span class="sobre-autor">, dominicano (1225–1274), Doutor da Igreja</span><br><span class="obra"><em>Comentário à Segunda Carta aos Coríntios (Super II ad Corinthios)</em>, cap. 1, lição 1 (ed. Parma, t. 13; Corpus Thomisticum [87693])</span> · <a href="https://www.corpusthomisticum.org/c2c.html" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Bento XVI</span></summary>
   <div class="comentario-texto"><p>De fato, ele vai se definir explicitamente como «apóstolo por vocação» (cf. Rm 1,1; 1Cor 1,1) ou «apóstolo pela vontade de Deus» (2Cor 1,1; Ef 1,1; Cl 1,1), como para sublinhar que a sua conversão não foi o resultado de uma evolução de pensamentos e reflexões, mas o fruto de uma intervenção divina, de uma graça divina imprevisível.</p></div>
   <p class="autoria"><span class="autor">Bento XVI</span><span class="sobre-autor">, papa (1927–2022)</span><br><span class="obra"><em>Audiência geral de 25 de outubro de 2006 (catequese sobre São Paulo: a vocação)</em>, § 3 (Insegnamenti di Benedetto XVI II/2 (2006))</span> · <a href="https://www.vatican.va/content/benedict-xvi/it/audiences/2006/documents/hf_ben-xvi_aud_20061025.html" rel="noopener">texto original</a></p>
-</article>
+</details>
 </div>
 <nav class="passos" aria-label="Navegação entre temas"><span></span><a class="passo seg" href="/biblia/2corintios/1/comentarios/1/igreja-de-deus/" rel="next"><span class="dir">Seguinte →</span><span class="alvo">«À Igreja de Deus que está em Corinto»</span></a></nav>
 </article>

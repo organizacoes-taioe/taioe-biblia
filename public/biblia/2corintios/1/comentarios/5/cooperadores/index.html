@@ -8,8 +8,9 @@
 <meta name="description" content="Ninguém pode ser obrigado a crer: o pastor não domina a fé, serve à alegria dos fiéis.">
 <meta name="color-scheme" content="light dark">
 <link rel="icon" href="/biblia/favicon.svg" type="image/svg+xml">
-<link rel="stylesheet" href="/biblia/css/estilo.css?v=28b77982">
-<script defer src="/biblia/js/biblia.js?v=59ac4c4e"></script>
+<script src="/biblia/js/preferencias.js?v=e879b9fe"></script>
+<link rel="stylesheet" href="/biblia/css/estilo.css?v=0bc11739">
+<script defer src="/biblia/js/biblia.js?v=38a000ee"></script>
 </head>
 <body class="pag-tema">
 <a class="pular" href="#app">Ir para o conteúdo</a>
@@ -17,6 +18,19 @@
   <div class="topo-int">
     <a class="marca" href="/biblia/">Bíblia</a>
     <nav class="trilha" aria-label="Trilha de navegação"><a href="/biblia/2corintios/">II Coríntios</a><span class="sep">›</span><a href="/biblia/2corintios/1/">II Coríntios 1</a><span class="sep">›</span><a href="/biblia/2corintios/1/comentarios/5/">Comentários</a><span class="sep">›</span><span aria-current="page">«Cooperadores da vossa alegria»</span></nav>
+    <div class="ferramentas">
+      <button type="button" class="ferr so-js" id="letra-menor" aria-label="Letra menor" title="Letra menor"><span class="a-menor">A</span>−</button>
+      <button type="button" class="ferr so-js" id="letra-maior" aria-label="Letra maior" title="Letra maior"><span class="a-maior">A</span>+</button>
+      <button type="button" class="ferr so-js" id="trocar-tema" aria-label="Modo claro ou escuro" title="Modo claro ou escuro"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="8.5" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M12 3.5a8.5 8.5 0 0 1 0 17z" fill="currentColor"/></svg></button>
+      <a class="ferr" id="botao-leituras" href="/biblia/leituras/" aria-label="Leituras" title="Leituras"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path class="fita" d="M6.5 3.5h11v17l-5.5-4-5.5 4z" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/></svg></a>
+      <div class="menu-leitura" id="menu-leitura" hidden>
+        <p class="menu-titulo">Leitura aberta</p>
+        <p class="menu-nome" id="menu-nome"></p>
+        <p class="menu-pos" id="menu-pos"></p>
+        <a class="menu-item" href="/biblia/leituras/">Ver as leituras</a>
+        <button type="button" class="menu-item" id="fechar-leitura">Fechar esta leitura</button>
+      </div>
+    </div>
   </div>
 </header>
 <main id="app" tabindex="-1">
@@ -29,38 +43,46 @@
 </header>
 <blockquote class="versos-tema"><p class="par"><span class="num">24</span>Não que dominemos sobre a vossa fé, mas somos cooperadores da vossa alegria, pois na fé estais firmes.</p></blockquote>
 <div class="comentarios">
-<article class="comentario">
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São João Crisóstomo</span></summary>
   <div class="comentario-texto"><p>Como a palavra era de quem mostra grande autoridade (pois só se poupa aquele que se tem o poder de castigar), para suavizar isto mesmo e encobrir o que parecia duro, diz: “Não que dominemos sobre a vossa fé”, isto é: não disse “foi para vos poupar que não fui” como quem vos domina. E não disse “sobre vós”, mas “sobre a vossa fé”, o que era mais brando e mais verdadeiro. Pois quem pode obrigar a crer aquele que não quer? “Mas somos cooperadores da vossa alegria.” Como a vossa alegria é nossa, diz, não fui, para não vos lançar na tristeza e aumentar o meu desânimo; mas fiquei, para que, corrigidos pela ameaça, vos alegreis. Pois fazemos tudo pela vossa alegria e nos apressamos por ela, porque também nós temos parte nela.</p></div>
   <p class="autoria"><span class="autor">São João Crisóstomo</span><span class="sobre-autor">, bispo de Constantinopla (c. 349–407), Doutor da Igreja</span><br><span class="obra"><em>Homilias sobre a 2ª Carta aos Coríntios</em>, Hom. 4, 1 (2Cor 1,24) (PG 61, 418)</span> · <a href="https://khazarzar.skeptik.net/pgm/PG_Migne/John%20Chrysostom_PG%2047-64/In%20epistulam%20ii%20ad%20Corinthios.pdf" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São João Crisóstomo</span></summary>
   <div class="comentario-texto"><p>O poder de aceitar o tratamento não está em quem aplica o remédio, mas no doente. Sabendo disto, aquele homem admirável dizia aos coríntios: “Não que dominemos sobre a vossa fé, mas somos cooperadores da vossa alegria”. Pois aos cristãos, mais do que a ninguém, não é permitido corrigir à força as faltas dos que pecam. Os juízes de fora, quando apanham os malfeitores sob as leis, mostram grande poder e os impedem, mesmo contra a vontade, de seguir os seus costumes; aqui, porém, é preciso tornar melhor quem assim procede, não pela força, mas pela persuasão.</p></div>
   <p class="autoria"><span class="autor">São João Crisóstomo</span><span class="sobre-autor">, bispo de Constantinopla (c. 349–407), Doutor da Igreja</span><br><span class="obra"><em>Sobre o sacerdócio</em>, Livro II, 3 (PG 48, 634)</span> · <a href="https://khazarzar.skeptik.net/pgm/PG_Migne/John%20Chrysostom_PG%2047-64/De%20sacerdotio.pdf" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Ambrosiaster</span></summary>
   <div class="comentario-texto"><p>Como era necessário corrigi-los, desviou a sua viagem para outros, para não entristecer a muitos; e isso foi poupá-los. Para gravar isso na mente deles, toma Deus por testemunha, para que não pensassem que eram indignos e desprezados por ele; sabendo disso, haveriam de emendar-se para merecer a sua presença. «Não que dominemos sobre a vossa fé, mas somos colaboradores da vossa alegria, pois pela fé estais firmes.» Porque a fé não é coisa de necessidade, mas de vontade, diz: «Não que dominemos sobre a vossa fé»; pois o domínio é causa de necessidade. «Mas somos colaboradores», diz, «da vossa alegria»; isto é: assim como na má obra há tristeza, assim na emenda há alegria. Desta alegria somos colaboradores, diz, porque, aos que querem emendar-se, oferecem advertências, para que possam cumprir o que começaram a querer.</p></div>
   <p class="autoria"><span class="autor">Ambrosiaster</span><span class="sobre-autor">, escritor eclesiástico (séc. IV), autor do comentário às cartas de Paulo que a tradição atribuiu a Santo Ambrósio</span><br><span class="obra"><em>Comentário à Segunda Carta aos Coríntios (Commentaria in epistolam ad Corinthios secundam)</em>, Sobre 2Cor 1,23–24 (PL 17, 280D–281A)</span> · <a href="https://mlat.uzh.ch/browser/cps_2.Ambros.CoInEpA3" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São Gregório Magno</span></summary>
   <div class="comentario-texto"><p>Paulo, diante dos irmãos que agiam bem, ignorava estar acima deles, quando dizia: «Não que dominemos sobre a vossa fé, mas somos colaboradores da vossa alegria». E logo acrescentou: «Pois pela fé estais firmes». Como se explicasse o que tinha dito, dizendo: Não dominamos sobre a vossa fé porque pela fé estais firmes; pois somos iguais a vós naquilo em que vos sabemos firmes. Era como se ignorasse estar acima dos irmãos quando dizia: «Fizemo-nos pequenos no meio de vós». E ainda: «Nós, vossos servos por Cristo». Mas, quando encontrou uma culpa que devia ser corrigida, logo se lembrou de que era mestre, dizendo: «Que quereis? Que eu vá a vós com a vara?». O lugar mais alto, portanto, é bem governado quando quem preside domina mais os vícios do que os irmãos.</p></div>
   <p class="autoria"><span class="autor">São Gregório Magno</span><span class="sobre-autor">, papa (c. 540–604), Doutor da Igreja</span><br><span class="obra"><em>Regra pastoral (Regula pastoralis)</em>, II, 6 (PL 77, 36B–36C)</span> · <a href="https://mlat.uzh.ch/browser/cps_2.GreI.RegPas" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São Bruno, o Cartuxo (atribuído)</span></summary>
   <div class="comentario-texto"><p>Pois os coríntios, armando ciladas às palavras dele, poderiam dizer: «Dizes que nos poupaste, como se tivesses poder real para nos obrigar segundo a tua vontade». «Não digo ‘poupando’ porque dominemos sobre a vossa fé»: pois a fé é coisa da vontade, que não se obriga pela necessidade de um domínio. Fala-se de domínio nos poderes em que o filho sucede ao pai por necessidade de uso; mas nos prelados da Igreja (e também nos do século que governam não por lei de sucessão, mas por eleição) deve-se falar antes de serviço que de domínio. Por isso diz: «não dominamos sobre a vossa fé, mas somos os vossos cooperadores», não deixando de orar a Deus pela vossa correção; cooperadores, digo, «da vossa alegria»: pois vos ajudamos naquilo de que tereis uma alegria permanente; por isso deveis obedecer-nos.</p></div>
   <p class="autoria"><span class="autor">São Bruno, o Cartuxo (atribuído)</span><span class="sobre-autor">, fundador da Cartuxa (c. 1030–1101); a atribuição deste comentário é discutida</span><br><span class="obra"><em>Exposição das cartas de Paulo (Expositio in epistolas Pauli)</em>, In II Cor., cap. 1, expositio, v. 24 (PL 153, 225A–B)</span> · <a href="https://mlat.uzh.ch/browser/cps_2.BruCar.ExInEpP" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São Bernardo de Claraval</span></summary>
   <div class="comentario-texto"><p>Se Cristo te enviou, julgarás que não vieste para ser servido, mas para servir, e para servir não só com os bens, mas com a própria vida, como disse antes. O verdadeiro sucessor de Paulo dirá com Paulo: «Não que dominemos sobre a vossa fé, mas somos cooperadores da vossa alegria». O herdeiro de Pedro ouvirá Pedro dizer: «Não como dominadores sobre o clero, mas como modelos do rebanho». Assim, por ti, a Igreja, já não escrava, mas livre e formosa, será levada aos abraços tão desejados do Esposo, o mais belo de todos. De outro modo, de quem mais se há de esperar esta liberdade tão devida, se também tu (que tal não aconteça!) procurares na herança de Cristo o que é teu, tu que já antes aprendeste não só a não reter o que é teu, mas nem a ser de ti mesmo?</p></div>
   <p class="autoria"><span class="autor">São Bernardo de Claraval</span><span class="sobre-autor">, abade cisterciense (1090–1153), Doutor da Igreja</span><br><span class="obra"><em>Cartas (Epistolae)</em>, carta 238, a Eugênio III, 6 (PL 182, 428C–D)</span> · <a href="https://mlat.uzh.ch/browser/cps_2.BerCla.Episto308" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São Tomás de Aquino</span></summary>
   <div class="comentario-texto"><p>Justifica-se com um juramento duplo. Um de testemunho, quando diz: «eu invoco a Deus por testemunha»; outro de execração, quando diz: «sobre a minha alma», isto é, contra a minha alma. Rm 1,9: «Deus me é testemunha» etc. Invoco a Deus por testemunha, digo, de que «não fui mais», isto é, depois da primeira vez, ou depois que me afastei de vós; e fiz isso «para vos poupar», isto é, porque ele sabia que estavam incorrigíveis. Por isso, se tivesse ido então, ou os teria punido, e assim talvez se afastassem totalmente da fé; ou não os teria punido, e assim lhes teria dado ocasião de pecar mais. Mas, como alguém poderia dizer: «Por que dizes ‘para vos poupar’? Acaso és nosso senhor?», ele afasta isso em seguida, dizendo: «não», digo, «que dominemos sobre a vossa fé, mas somos cooperadores» etc. Como se dissesse: não digo isto como senhor, mas como colaborador. 1Pd 5,3: «não como dominadores sobre o clero» etc. Colaborador, digo, «da vossa alegria», ou da vossa emenda. E por que diz «da vossa fé», explica em seguida, dizendo: «pois pela fé estais de pé», isto é, estais de pé nesta graça de Cristo pela fé.</p></div>
   <p class="autoria"><span class="autor">São Tomás de Aquino</span><span class="sobre-autor">, dominicano (1225–1274), Doutor da Igreja</span><br><span class="obra"><em>Comentário à Segunda Carta aos Coríntios (Super II ad Corinthios)</em>, cap. 1, lição 5 (ed. Parma, t. 13; Corpus Thomisticum [87697])</span> · <a href="https://www.corpusthomisticum.org/c2c.html" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Bento XVI</span></summary>
   <div class="comentario-texto"><p>O apóstolo Paulo chama os ministros do Evangelho «servidores da alegria». Aos cristãos de Corinto, na sua Segunda Carta, ele escreve: «Não que dominemos sobre a vossa fé; somos, antes, cooperadores da vossa alegria, porque na fé estais firmes» (2Cor 1,24). São palavras programáticas para todo sacerdote. Para ser cooperadores da alegria dos outros, num mundo muitas vezes triste e negativo, é preciso que o fogo do Evangelho arda dentro de vós, que a alegria do Senhor habite em vós.</p></div>
   <p class="autoria"><span class="autor">Bento XVI</span><span class="sobre-autor">, papa (1927–2022)</span><br><span class="obra"><em>Homilia nas ordenações sacerdotais, 27 de abril de 2008 (6º domingo da Páscoa)</em>, § 2 (Insegnamenti di Benedetto XVI IV/1 (2008))</span> · <a href="https://www.vatican.va/content/benedict-xvi/it/homilies/2008/documents/hf_ben-xvi_hom_20080427_ordinazioni-sacerdotali.html" rel="noopener">texto original</a></p>
-</article>
+</details>
 </div>
 <nav class="passos" aria-label="Navegação entre temas"><a class="passo ant" href="/biblia/2corintios/1/comentarios/5/testemunha/" rel="prev"><span class="dir">← Anterior</span><span class="alvo">«Invoco a Deus por testemunha»</span></a></nav>
 </article>

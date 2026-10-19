@@ -8,8 +8,9 @@
 <meta name="description" content="Nos vv. 21–22 o Pai, Cristo e o Espírito fazem juntos uma só obra.">
 <meta name="color-scheme" content="light dark">
 <link rel="icon" href="/biblia/favicon.svg" type="image/svg+xml">
-<link rel="stylesheet" href="/biblia/css/estilo.css?v=28b77982">
-<script defer src="/biblia/js/biblia.js?v=59ac4c4e"></script>
+<script src="/biblia/js/preferencias.js?v=e879b9fe"></script>
+<link rel="stylesheet" href="/biblia/css/estilo.css?v=0bc11739">
+<script defer src="/biblia/js/biblia.js?v=38a000ee"></script>
 </head>
 <body class="pag-tema">
 <a class="pular" href="#app">Ir para o conteúdo</a>
@@ -17,6 +18,19 @@
   <div class="topo-int">
     <a class="marca" href="/biblia/">Bíblia</a>
     <nav class="trilha" aria-label="Trilha de navegação"><a href="/biblia/2corintios/">II Coríntios</a><span class="sep">›</span><a href="/biblia/2corintios/1/">II Coríntios 1</a><span class="sep">›</span><a href="/biblia/2corintios/1/comentarios/5/">Comentários</a><span class="sep">›</span><span aria-current="page">A Trindade na unção e no selo</span></nav>
+    <div class="ferramentas">
+      <button type="button" class="ferr so-js" id="letra-menor" aria-label="Letra menor" title="Letra menor"><span class="a-menor">A</span>−</button>
+      <button type="button" class="ferr so-js" id="letra-maior" aria-label="Letra maior" title="Letra maior"><span class="a-maior">A</span>+</button>
+      <button type="button" class="ferr so-js" id="trocar-tema" aria-label="Modo claro ou escuro" title="Modo claro ou escuro"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="8.5" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M12 3.5a8.5 8.5 0 0 1 0 17z" fill="currentColor"/></svg></button>
+      <a class="ferr" id="botao-leituras" href="/biblia/leituras/" aria-label="Leituras" title="Leituras"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path class="fita" d="M6.5 3.5h11v17l-5.5-4-5.5 4z" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/></svg></a>
+      <div class="menu-leitura" id="menu-leitura" hidden>
+        <p class="menu-titulo">Leitura aberta</p>
+        <p class="menu-nome" id="menu-nome"></p>
+        <p class="menu-pos" id="menu-pos"></p>
+        <a class="menu-item" href="/biblia/leituras/">Ver as leituras</a>
+        <button type="button" class="menu-item" id="fechar-leitura">Fechar esta leitura</button>
+      </div>
+    </div>
   </div>
 </header>
 <main id="app" tabindex="-1">
@@ -29,30 +43,36 @@
 </header>
 <blockquote class="versos-tema"><p class="par"><span class="num">21</span>E quem nos confirma convosco em Cristo e nos ungiu é Deus,</p><p class="par"><span class="num">22</span>que nos marcou com o seu selo e nos deu nos corações o penhor do Espírito.</p></blockquote>
 <div class="comentarios">
-<article class="comentario">
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Santo Ambrósio</span></summary>
   <div class="comentario-texto"><p>Acaso vivemos na água como vivemos no Espírito? Acaso somos marcados com o selo na água como no Espírito? Pois nele vivemos, e ele é o penhor da nossa herança, como diz também o Apóstolo, escrevendo aos efésios: «Nele, tendo crido, fostes marcados com o selo do Espírito Santo da promessa, que é o penhor da nossa herança». Pelo Espírito Santo, portanto, fomos marcados com o selo, não pela natureza, mas por Deus, porque está escrito: «Deus é quem nos ungiu, quem também nos marcou com o selo e deu o penhor do Espírito em nossos corações». Fomos, pois, marcados com o selo do Espírito por Deus. Pois, assim como morremos em Cristo para renascer, assim também somos marcados com o selo do Espírito, para que possamos guardar o seu esplendor, a sua imagem e a sua graça: isto é, sem dúvida, o selo espiritual. Pois, ainda que sejamos marcados visivelmente no corpo, é no coração que somos marcados em verdade, para que o Espírito Santo imprima em nós a semelhança da imagem celeste.</p></div>
   <p class="autoria"><span class="autor">Santo Ambrósio</span><span class="sobre-autor">, bispo de Milão (c. 340–397), Doutor da Igreja</span><br><span class="obra"><em>O Espírito Santo (De Spiritu Sancto)</em>, I, 6, 78–79 (PL 16, 723A–723B)</span> · <a href="https://mlat.uzh.ch/browser/cps_2.AmbMed.DeSpSa" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Santo Ambrósio</span></summary>
   <div class="comentario-texto"><p>Lembra-te, pois, de que recebeste o selo espiritual, o espírito de sabedoria e de entendimento, o espírito de conselho e de fortaleza, o espírito de ciência e de piedade, o espírito do santo temor; e guarda o que recebeste. Deus Pai te marcou com o selo, Cristo Senhor te confirmou, e deu o penhor do Espírito em teus corações, como aprendeste na leitura do Apóstolo.</p></div>
   <p class="autoria"><span class="autor">Santo Ambrósio</span><span class="sobre-autor">, bispo de Milão (c. 340–397), Doutor da Igreja</span><br><span class="obra"><em>Os mistérios (De mysteriis)</em>, 7, 42 (PL 16, 402B–403A)</span> · <a href="https://mlat.uzh.ch/browser/cps_2.AmbMed.DeMys" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Santo Ambrósio</span></summary>
   <div class="comentario-texto"><p>Recebeste, portanto, os sacramentos e conheceste plenamente tudo: que foste batizado em nome da Trindade. Em tudo o que fizemos, guardou-se o mistério da Trindade. Em toda parte o Pai, o Filho e o Espírito Santo: uma só operação, uma só santificação, ainda que algumas coisas pareçam como que próprias de cada um. Como? «Deus, que te ungiu, e o Senhor te marcou com o selo, e pôs o Espírito Santo no teu coração.» Recebeste, pois, o Espírito Santo no teu coração. Recebe outra coisa: assim como o Espírito Santo está no coração, assim também Cristo está no coração. Como? Tens isto no Cântico dos Cânticos, onde Cristo diz à Igreja: «Põe-me como selo sobre o teu coração, como selo sobre o teu braço». Portanto, Deus te ungiu, Cristo te marcou com o selo. Como? Porque foste marcado na forma da sua cruz, da sua paixão: recebeste o selo à sua semelhança, para que ressuscites na sua forma e vivas à sua imagem, ele que foi crucificado para o pecado e vive para Deus; e o teu homem velho, mergulhado na fonte, foi crucificado para o pecado, mas ressuscitou para Deus.</p></div>
   <p class="autoria"><span class="autor">Santo Ambrósio</span><span class="sobre-autor">, bispo de Milão (c. 340–397), Doutor da Igreja</span><br><span class="obra"><em>Os sacramentos (De sacramentis)</em>, VI, 2, 5–7 (PL 16, 455B–455C)</span> · <a href="https://mlat.uzh.ch/browser/cps_2.AmbMed.DeSac" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São Cirilo de Alexandria</span></summary>
   <div class="comentario-texto"><p>Diz-se que Deus nos marca com o selo, nos unge e nos dá o penhor do Espírito; mas é Cristo, por sua vez, quem realiza isto em nós, não como ajudante, nem nos ungindo e selando com um Espírito alheio, mas com o seu próprio, que é também o do Pai. Pois o Espírito Santo está em ambos sem divisão, por causa da identidade da substância, e chega à criação vindo do Pai pelo Filho: ele soprou sobre os santos apóstolos dizendo: “Recebei o Espírito Santo” (Jo 20,22). Por ele e nele fomos marcados com o selo segundo a imagem divina e espiritual.</p></div>
   <p class="autoria"><span class="autor">São Cirilo de Alexandria</span><span class="sobre-autor">, bispo de Alexandria (c. 376–444), Doutor da Igreja</span><br><span class="obra"><em>Fragmentos sobre a 2ª Carta aos Coríntios</em>, Livro I, discurso 2 (2Cor 1,21-22) (ed. Pusey, In D. Joannis Evangelium, III (Oxford 1872), p. 326; PG 74)</span> · <a href="https://khazarzar.skeptik.net/pgm/PG_Migne/Cyril%20of%20Alexandria_PG%2068-77/Fragmenta%20in%20sancti%20Pauli%20epistulam%20ii%20ad%20Corinthios.pdf" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Atão de Vercelli</span></summary>
   <div class="comentario-texto"><p>Note-se que com estas palavras mostra uma só obra do Pai e do Filho, pois se diz que o Pai unge e marca com o selo aqueles que se diz que o Filho confirma. Portanto, os que o Filho confirma também o Pai confirma; porque os que o Pai unge e marca, também o Filho unge e marca; e àqueles a quem o Pai dá o seu Espírito também o Filho o dá, porque o Espírito do Pai e do Filho é um só. Por isso diz o mesmo Apóstolo aos Romanos: «Se alguém não tem o Espírito de Cristo, não é dele» (Rm 8,9). E note-se isto: falando da perfeição do homem, fez menção de toda a Trindade, porque o cume da perfeição está na Trindade. Segue: «e deu o penhor do Espírito», etc. Note-se bem que o penhor se dá por uma coisa emprestada ou prometida, e, quando a coisa emprestada ou prometida é entregue, recebe-se de volta o penhor. Dá-se também o penhor em proporção à grandeza da coisa emprestada ou prometida. Aqui é preciso considerar com atenção quanto será dado aos eleitos já imortais, quando tanto lhes é dado ainda mortais; isto é, quão grande será a recompensa do Reino dos céus, quando já agora se dá aos eleitos tão grande graça do Espírito Santo. E saiba-se isto: o penhor se dá para que o homem fique mais seguro. A graça do Espírito Santo, portanto, é dada aos eleitos para que estejam mais certos da promessa do Reino dos céus.</p></div>
   <p class="autoria"><span class="autor">Atão de Vercelli</span><span class="sobre-autor">, bispo de Vercelli (c. 885–961)</span><br><span class="obra"><em>Exposição das cartas de São Paulo (Expositio epistolarum S. Pauli)</em>, II Cor., cap. 1, vv. 21–22 (PL 134, 421D–422C)</span> · <a href="https://mlat.uzh.ch/browser/cps_2.AttVer.ExEpSPa" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São Tomás de Aquino</span></summary>
   <div class="comentario-texto"><p>Os dons espirituais nos são dados pelo Espírito Santo, como se mostrou. E assim, pelo Espírito Santo somos configurados a Deus; por ele nos tornamos aptos para agir bem; e por ele mesmo se prepara o nosso caminho para a bem-aventurança. Estas três coisas o Apóstolo nos indica em 2Cor 1, dizendo: «Deus nos ungiu, e nos marcou com o selo, e deu o penhor do Espírito nos nossos corações». E em Ef 1,13: «fostes marcados com o selo do Espírito da promessa, o Santo, que é o penhor da nossa herança». Pois o selo parece pertencer à semelhança da configuração; a unção, à aptidão do homem para as obras perfeitas; e o penhor, à esperança pela qual somos ordenados à herança celeste, que é a bem-aventurança perfeita.</p></div>
   <p class="autoria"><span class="autor">São Tomás de Aquino</span><span class="sobre-autor">, dominicano (1225–1274), Doutor da Igreja</span><br><span class="obra"><em>Suma contra os gentios (Summa contra Gentiles)</em>, IV, cap. 21, n. 6 (ed. Leonina manual; Corpus Thomisticum [27441])</span> · <a href="https://www.corpusthomisticum.org/scg4001.html" rel="noopener">texto original</a></p>
-</article>
+</details>
 </div>
 <nav class="passos" aria-label="Navegação entre temas"><a class="passo ant" href="/biblia/2corintios/1/comentarios/5/uncao/" rel="prev"><span class="dir">← Anterior</span><span class="alvo">«Nos ungiu»</span></a><a class="passo seg" href="/biblia/2corintios/1/comentarios/5/selo/" rel="next"><span class="dir">Seguinte →</span><span class="alvo">«Nos marcou com o seu selo»</span></a></nav>
 </article>

@@ -8,8 +8,9 @@
 <meta name="description" content="Buscar a Deus, e não só alguma coisa de Deus; e buscá-lo dentro de si.">
 <meta name="color-scheme" content="light dark">
 <link rel="icon" href="/biblia/favicon.svg" type="image/svg+xml">
-<link rel="stylesheet" href="/biblia/css/estilo.css?v=28b77982">
-<script defer src="/biblia/js/biblia.js?v=59ac4c4e"></script>
+<script src="/biblia/js/preferencias.js?v=e879b9fe"></script>
+<link rel="stylesheet" href="/biblia/css/estilo.css?v=0bc11739">
+<script defer src="/biblia/js/biblia.js?v=38a000ee"></script>
 </head>
 <body class="pag-tema">
 <a class="pular" href="#app">Ir para o conteúdo</a>
@@ -17,6 +18,19 @@
   <div class="topo-int">
     <a class="marca" href="/biblia/">Bíblia</a>
     <nav class="trilha" aria-label="Trilha de navegação"><a href="/biblia/salmos/">Salmos</a><span class="sep">›</span><a href="/biblia/salmos/34/">Salmo 34</a><span class="sep">›</span><a href="/biblia/salmos/34/comentarios/">Comentários</a><span class="sep">›</span><span aria-current="page">Buscar o próprio Senhor</span></nav>
+    <div class="ferramentas">
+      <button type="button" class="ferr so-js" id="letra-menor" aria-label="Letra menor" title="Letra menor"><span class="a-menor">A</span>−</button>
+      <button type="button" class="ferr so-js" id="letra-maior" aria-label="Letra maior" title="Letra maior"><span class="a-maior">A</span>+</button>
+      <button type="button" class="ferr so-js" id="trocar-tema" aria-label="Modo claro ou escuro" title="Modo claro ou escuro"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="8.5" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M12 3.5a8.5 8.5 0 0 1 0 17z" fill="currentColor"/></svg></button>
+      <a class="ferr" id="botao-leituras" href="/biblia/leituras/" aria-label="Leituras" title="Leituras"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path class="fita" d="M6.5 3.5h11v17l-5.5-4-5.5 4z" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/></svg></a>
+      <div class="menu-leitura" id="menu-leitura" hidden>
+        <p class="menu-titulo">Leitura aberta</p>
+        <p class="menu-nome" id="menu-nome"></p>
+        <p class="menu-pos" id="menu-pos"></p>
+        <a class="menu-item" href="/biblia/leituras/">Ver as leituras</a>
+        <button type="button" class="menu-item" id="fechar-leitura">Fechar esta leitura</button>
+      </div>
+    </div>
   </div>
 </header>
 <main id="app" tabindex="-1">
@@ -29,26 +43,31 @@
 </header>
 <blockquote class="versos-tema"><p class="poesia"><span class="linha"><span class="calha"><span class="num">5</span></span><span class="txt">Busquei o Senhor, e ele me respondeu;</span></span><span class="linha"><span class="calha"></span><span class="txt">livrou-me de todos os meus temores.</span></span></p></blockquote>
 <div class="comentarios">
-<article class="comentario">
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Santo Agostinho</span></summary>
   <div class="comentario-texto"><p>Uma coisa é buscar alguma coisa do Senhor; outra, buscar o próprio Senhor. «Busquei o Senhor», diz ele, «e ele me ouviu». Tu, porém, quando rezas e dizes: «Mata aquele meu inimigo», não buscas o Senhor, mas te fazes juiz do teu inimigo e fazes do teu Deus o teu carrasco. Como sabes se não é melhor do que tu aquele cuja morte pedes? Talvez justamente porque ele não pede a tua. Portanto, não busques do Senhor nada fora dele, mas busca o próprio Senhor, e ele te ouvirá, e, enquanto ainda estiveres falando, dirá: «Eis-me aqui». Que quer dizer: «Eis-me aqui»? Eis que estou presente: que queres, que me pedes? Tudo o que eu te der vale menos do que eu: tem a mim, goza de mim, abraça-me; ainda não podes inteiramente; toca-me pela fé, e te prenderás a mim (é Deus que te diz isso), e eu tirarei de ti os teus outros fardos, para que te prendas a mim inteiro, quando eu tiver transformado este teu corpo mortal em imortalidade.</p></div>
   <p class="autoria"><span class="autor">Santo Agostinho</span><span class="sobre-autor">, bispo de Hipona (354–430), Doutor da Igreja</span><br><span class="obra"><em>Comentários aos Salmos (Enarrationes in Psalmos)</em>, Sl 33, sermão 2, 9</span> · <a href="https://www.augustinus.it/latino/esposizioni_salmi/esposizione_salmo_045_testo.htm" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Santo Agostinho</span></summary>
   <div class="comentario-texto"><p>«Busquei o Senhor, e ele me ouviu.» Onde o Senhor ouviu? Dentro. Onde ele dá? Dentro. Ali rezas, ali és ouvido, ali és feliz. Rezaste, foste ouvido, foste feito feliz, e quem está ao teu lado não sabe: tudo se passou no escondido, como diz o Senhor no Evangelho: «Entra no teu quarto, fecha a tua porta e reza no escondido, e o teu Pai, que vê no escondido, te dará a recompensa». Quando, então, entras no teu quarto, entras no teu coração. Felizes os que se alegram quando entram no seu coração e não encontram ali nada de mal.</p></div>
   <p class="autoria"><span class="autor">Santo Agostinho</span><span class="sobre-autor">, bispo de Hipona (354–430), Doutor da Igreja</span><br><span class="obra"><em>Comentários aos Salmos (Enarrationes in Psalmos)</em>, Sl 33, sermão 2, 8</span> · <a href="https://www.augustinus.it/latino/esposizioni_salmi/esposizione_salmo_045_testo.htm" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Cassiodoro</span></summary>
   <div class="comentario-texto"><p>Procurou o Senhor, não percorrendo longas distâncias pela terra, nem lugares espalhados por toda parte, mas no coração: ali, se pensamos na sua majestade, a encontramos presente de todos os modos. (...) Quem seria capaz de pedir, uma por uma, tantas coisas quantas este mereceu obter de uma só vez? Dizendo «de todas», não ficou nada que se possa suspeitar que restou de adverso.</p></div>
   <p class="autoria"><span class="autor">Cassiodoro</span><span class="sobre-autor">, senador romano e monge (c. 485–c. 580), fundador do mosteiro de Vivário</span><br><span class="obra"><em>Explicação dos Salmos (Expositio Psalmorum)</em>, Sl 33, v. 4 (o nosso v. 5)</span> · <a href="https://mlat.uzh.ch/browser/cps_2.CasViv.ExInPs" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São Basílio Magno</span></summary>
   <div class="comentario-texto"><p>Deus livra da tribulação os seus santos não deixando-os sem prova, mas dando-lhes a paciência. Pois, se «a tribulação produz a paciência, e a paciência, a virtude provada», quem foge da tribulação priva a si mesmo da prova. Assim como ninguém é coroado sem adversário, também ninguém pode ser declarado provado senão pelas tribulações. «De todas as minhas tribulações me livrou», portanto, não deixando de permitir que eu fosse atribulado, mas dando, junto com a tentação, a saída, para que eu pudesse suportá-la.</p></div>
   <p class="autoria"><span class="autor">São Basílio Magno</span><span class="sobre-autor">, bispo de Cesareia da Capadócia (c. 330–379), Doutor da Igreja</span><br><span class="obra"><em>Homilia sobre o Salmo 33 (Homiliae in Psalmos)</em>, Hom. Sl 33, 4</span> · <a href="https://khazarzar.skeptik.net/pgm/PG_Migne/Basilius%20Caesariensis_PG%2029-32/Homiliae%20super%20Psalmos.pdf" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Santo Afonso Maria de Ligório</span></summary>
   <div class="comentario-texto"><p>Quem nas suas orações não procura a Deus, mas a si mesmo, não será ouvido; ao contrário, será bem ouvido quem nos seus pedidos procura a Deus e a sua divina vontade: «Busquei o Senhor, e ele me ouviu» (Sl 33,5). […] como Davi nos assegura em vários lugares: «O Senhor está perto dos que têm o coração atribulado» (Sl 33,19): Deus gosta de estar perto dos atribulados.</p></div>
   <p class="autoria"><span class="autor">Santo Afonso Maria de Ligório</span><span class="sobre-autor">, bispo de Sant'Agata dei Goti (1696–1787), fundador dos Redentoristas, Doutor da Igreja</span><br><span class="obra"><em>A verdadeira esposa de Jesus Cristo (La vera Sposa di Gesù Cristo, 1760)</em>, Cap. XIV («Della rassegnazione nella volontà di Dio»), § 2</span> · <a href="https://www.intratext.com/IXT/ITASA0000/_P38Q.HTM" rel="noopener">texto original</a></p>
-</article>
+</details>
 </div>
 <nav class="passos" aria-label="Navegação entre temas"><a class="passo ant" href="/biblia/salmos/34/comentarios/engrandecei-comigo/" rel="prev"><span class="dir">← Anterior</span><span class="alvo">Engrandecei comigo o Senhor</span></a><a class="passo seg" href="/biblia/salmos/34/comentarios/aproximai-vos/" rel="next"><span class="dir">Seguinte →</span><span class="alvo">Aproximar-se dele e ser iluminado</span></a></nav>
 </article>

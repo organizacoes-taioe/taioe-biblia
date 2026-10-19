@@ -8,8 +8,9 @@
 <meta name="description" content="Os Padres liam «a morte dos pecadores é péssima»: a morte má não é a violenta, mas a que chega no pecado.">
 <meta name="color-scheme" content="light dark">
 <link rel="icon" href="/biblia/favicon.svg" type="image/svg+xml">
-<link rel="stylesheet" href="/biblia/css/estilo.css?v=28b77982">
-<script defer src="/biblia/js/biblia.js?v=59ac4c4e"></script>
+<script src="/biblia/js/preferencias.js?v=e879b9fe"></script>
+<link rel="stylesheet" href="/biblia/css/estilo.css?v=0bc11739">
+<script defer src="/biblia/js/biblia.js?v=38a000ee"></script>
 </head>
 <body class="pag-tema">
 <a class="pular" href="#app">Ir para o conteúdo</a>
@@ -17,6 +18,19 @@
   <div class="topo-int">
     <a class="marca" href="/biblia/">Bíblia</a>
     <nav class="trilha" aria-label="Trilha de navegação"><a href="/biblia/salmos/">Salmos</a><span class="sep">›</span><a href="/biblia/salmos/34/">Salmo 34</a><span class="sep">›</span><a href="/biblia/salmos/34/comentarios/">Comentários</a><span class="sep">›</span><span aria-current="page">A morte do ímpio</span></nav>
+    <div class="ferramentas">
+      <button type="button" class="ferr so-js" id="letra-menor" aria-label="Letra menor" title="Letra menor"><span class="a-menor">A</span>−</button>
+      <button type="button" class="ferr so-js" id="letra-maior" aria-label="Letra maior" title="Letra maior"><span class="a-maior">A</span>+</button>
+      <button type="button" class="ferr so-js" id="trocar-tema" aria-label="Modo claro ou escuro" title="Modo claro ou escuro"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="8.5" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M12 3.5a8.5 8.5 0 0 1 0 17z" fill="currentColor"/></svg></button>
+      <a class="ferr" id="botao-leituras" href="/biblia/leituras/" aria-label="Leituras" title="Leituras"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path class="fita" d="M6.5 3.5h11v17l-5.5-4-5.5 4z" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/></svg></a>
+      <div class="menu-leitura" id="menu-leitura" hidden>
+        <p class="menu-titulo">Leitura aberta</p>
+        <p class="menu-nome" id="menu-nome"></p>
+        <p class="menu-pos" id="menu-pos"></p>
+        <a class="menu-item" href="/biblia/leituras/">Ver as leituras</a>
+        <button type="button" class="menu-item" id="fechar-leitura">Fechar esta leitura</button>
+      </div>
+    </div>
   </div>
 </header>
 <main id="app" tabindex="-1">
@@ -29,30 +43,36 @@
 </header>
 <blockquote class="versos-tema"><p class="poesia"><span class="linha"><span class="calha"><span class="num">22</span></span><span class="txt">O mal matará o ímpio,</span></span><span class="linha"><span class="calha"></span><span class="txt">e os que odeiam o justo serão condenados.</span></span></p></blockquote>
 <div class="comentarios">
-<article class="comentario">
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Santo Agostinho</span></summary>
   <div class="comentario-texto"><p>Ouve: «A morte dos pecadores é péssima». A que te parece uma boa morte é péssima, se olhares por dentro. Vês, por fora, o corpo deitado na cama; vês, por acaso, por dentro, a alma arrebatada para o inferno?</p></div>
   <p class="autoria"><span class="autor">Santo Agostinho</span><span class="sobre-autor">, bispo de Hipona (354–430), Doutor da Igreja</span><br><span class="obra"><em>Comentários aos Salmos (Enarrationes in Psalmos)</em>, Sl 33, sermão 2, 25</span> · <a href="https://www.augustinus.it/latino/esposizioni_salmi/esposizione_salmo_045_testo.htm" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Santo Agostinho</span></summary>
   <div class="comentario-texto"><p>Pois é pela alma que se deve entender a morte péssima ou a ótima, e não pelas afrontas ou pelas honras que os homens veem nos corpos. «E não pecarão todos os que esperam nele.» Esta é a medida da justiça humana: que a vida mortal, por mais que progrida, como não pode ser sem pecado, não peque nisto, enquanto espera naquele em quem está o perdão dos pecados. Amém.</p></div>
   <p class="autoria"><span class="autor">Santo Agostinho</span><span class="sobre-autor">, bispo de Hipona (354–430), Doutor da Igreja</span><br><span class="obra"><em>Comentários aos Salmos (Enarrationes in Psalmos)</em>, Sl 33, sermão 2, 26</span> · <a href="https://www.augustinus.it/latino/esposizioni_salmi/esposizione_salmo_045_testo.htm" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São Basílio Magno</span></summary>
   <div class="comentario-texto"><p>Com exatidão se acrescentou: «A morte dos pecadores é má», porque há para os justos uma morte que não é má por natureza, mas boa. Os que morreram com Cristo tiveram uma morte boa; e os que morreram para o pecado morreram a morte boa e salvadora.</p></div>
   <p class="autoria"><span class="autor">São Basílio Magno</span><span class="sobre-autor">, bispo de Cesareia da Capadócia (c. 330–379), Doutor da Igreja</span><br><span class="obra"><em>Homilia sobre o Salmo 33 (Homiliae in Psalmos)</em>, Hom. Sl 33, 14</span> · <a href="https://khazarzar.skeptik.net/pgm/PG_Migne/Basilius%20Caesariensis_PG%2029-32/Homiliae%20super%20Psalmos.pdf" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São João Crisóstomo</span></summary>
   <div class="comentario-texto"><p>Morrer mal, homem, não é terminar a vida com uma morte violenta, mas morrer nos pecados. Ouve, pois, o profeta, que reflete justamente sobre isso e diz: «A morte dos pecadores é má». Não disse: «A morte violenta é má», mas o quê? «A morte dos pecadores é má.» E com razão: porque, depois da partida daqui, vêm o castigo insuportável, as penas sem fim, o verme venenoso, o fogo que não se apaga, as trevas exteriores, as correntes que não se soltam, o ranger de dentes, a tribulação, a angústia e a condenação eterna.</p></div>
   <p class="autoria"><span class="autor">São João Crisóstomo</span><span class="sobre-autor">, bispo de Constantinopla (c. 349–407), Doutor da Igreja</span><br><span class="obra"><em>Homilias ao povo de Antioquia, sobre as estátuas (Ad populum Antiochenum)</em>, Homilia 5 ao povo de Antioquia, 2</span> · <a href="https://khazarzar.skeptik.net/pgm/PG_Migne/John%20Chrysostom_PG%2047-64/Ad%20populum%20Antiochenum.pdf" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Cassiodoro</span></summary>
   <div class="comentario-texto"><p>Se olhas para a morte que os nossos olhos veem, encontras muitas vezes o pecador rico levado com pompa e decoro, chorado pela família de tal modo que ela mente aos ouvidos dos homens que ele foi piedoso. (...) Onde está então a morte péssima dos pecadores? No inferno, onde, recebidos, sofrem penas eternas. Com quanta pompa, imaginamos, foi levado ao sepulcro aquele rico vestido de púrpura, que depois pediu ao pobre Lázaro uma gota de água fresca?</p></div>
   <p class="autoria"><span class="autor">Cassiodoro</span><span class="sobre-autor">, senador romano e monge (c. 485–c. 580), fundador do mosteiro de Vivário</span><br><span class="obra"><em>Explicação dos Salmos (Expositio Psalmorum)</em>, Sl 33, v. 21 (o nosso v. 22)</span> · <a href="https://mlat.uzh.ch/browser/cps_2.CasViv.ExInPs" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São Bernardo de Claraval</span></summary>
   <div class="comentario-texto"><p>A morte do justo é, pois, boa por causa do descanso, melhor por causa da novidade, ótima por causa da segurança. Ao contrário, «a morte dos pecadores é péssima». E ouve por que é péssima. É má na perda do mundo, pior na separação da carne, péssima no duplo tormento do verme e do fogo. Vamos, pois, apressa-te, sai, afasta-te: morra a tua alma com a morte dos justos, para que o teu fim seja como o deles.</p></div>
   <p class="autoria"><span class="autor">São Bernardo de Claraval</span><span class="sobre-autor">, abade de Claraval (1090–1153), Doutor da Igreja</span><br><span class="obra"><em>Cartas (Epistolae)</em>, Carta 105, a Romano, subdiácono da Cúria</span> · <a href="https://mlat.uzh.ch/browser/cps_2.BerCla.Episto308" rel="noopener">texto original</a></p>
-</article>
+</details>
 </div>
 <nav class="passos" aria-label="Navegação entre temas"><a class="passo ant" href="/biblia/salmos/34/comentarios/os-ossos/" rel="prev"><span class="dir">← Anterior</span><span class="alvo">Nem um só osso será quebrado</span></a><a class="passo seg" href="/biblia/salmos/34/comentarios/o-resgate/" rel="next"><span class="dir">Seguinte →</span><span class="alvo">O resgate dos servos</span></a></nav>
 </article>

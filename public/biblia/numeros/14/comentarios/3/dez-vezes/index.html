@@ -8,8 +8,9 @@
 <meta name="description" content="O que é tentar a Deus, quais foram as dez tentações e por que há um número.">
 <meta name="color-scheme" content="light dark">
 <link rel="icon" href="/biblia/favicon.svg" type="image/svg+xml">
-<link rel="stylesheet" href="/biblia/css/estilo.css?v=28b77982">
-<script defer src="/biblia/js/biblia.js?v=59ac4c4e"></script>
+<script src="/biblia/js/preferencias.js?v=e879b9fe"></script>
+<link rel="stylesheet" href="/biblia/css/estilo.css?v=0bc11739">
+<script defer src="/biblia/js/biblia.js?v=38a000ee"></script>
 </head>
 <body class="pag-tema">
 <a class="pular" href="#app">Ir para o conteúdo</a>
@@ -17,6 +18,19 @@
   <div class="topo-int">
     <a class="marca" href="/biblia/">Bíblia</a>
     <nav class="trilha" aria-label="Trilha de navegação"><a href="/biblia/numeros/">Números</a><span class="sep">›</span><a href="/biblia/numeros/14/">Números 14</a><span class="sep">›</span><a href="/biblia/numeros/14/comentarios/3/">Comentários</a><span class="sep">›</span><span aria-current="page">«Tentaram-me dez vezes»</span></nav>
+    <div class="ferramentas">
+      <button type="button" class="ferr so-js" id="letra-menor" aria-label="Letra menor" title="Letra menor"><span class="a-menor">A</span>−</button>
+      <button type="button" class="ferr so-js" id="letra-maior" aria-label="Letra maior" title="Letra maior"><span class="a-maior">A</span>+</button>
+      <button type="button" class="ferr so-js" id="trocar-tema" aria-label="Modo claro ou escuro" title="Modo claro ou escuro"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="8.5" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M12 3.5a8.5 8.5 0 0 1 0 17z" fill="currentColor"/></svg></button>
+      <a class="ferr" id="botao-leituras" href="/biblia/leituras/" aria-label="Leituras" title="Leituras"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path class="fita" d="M6.5 3.5h11v17l-5.5-4-5.5 4z" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/></svg></a>
+      <div class="menu-leitura" id="menu-leitura" hidden>
+        <p class="menu-titulo">Leitura aberta</p>
+        <p class="menu-nome" id="menu-nome"></p>
+        <p class="menu-pos" id="menu-pos"></p>
+        <a class="menu-item" href="/biblia/leituras/">Ver as leituras</a>
+        <button type="button" class="menu-item" id="fechar-leitura">Fechar esta leitura</button>
+      </div>
+    </div>
   </div>
 </header>
 <main id="app" tabindex="-1">
@@ -29,30 +43,36 @@
 </header>
 <blockquote class="versos-tema"><p class="par"><span class="num">22</span>nenhum dos homens que viram a minha glória e os sinais que fiz no Egito e no deserto, e que já me tentaram dez vezes e não ouviram a minha voz,</p><p class="par"><span class="num">23</span>verá a terra que jurei a seus pais; nenhum dos que me desprezaram a verá.</p></blockquote>
 <div class="comentarios">
-<article class="comentario">
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Procópio de Gaza</span></summary>
   <div class="comentario-texto"><p>Os homens daquela geração tentaram a Deus dez vezes. A primeira, no Egito, quando, como o faraó não obedecia à ordem de Deus, caluniaram Moisés como se não fosse enviado por Deus. A segunda quando, estando junto ao mar, o insultaram assim: «Faltavam sepulturas no Egito, para nos trazeres para morrer?». A terceira, sobre a água amarga. A quarta, quando os tomou o desejo das delícias do Egito. A quinta, quando desfaleciam de sede, e por isso a rocha foi fendida. A sexta, quando fabricaram o bezerro. A sétima, quando, cansados da caminhada, foram consumidos pelo fogo. A oitava, no pedido importuno de carne. A nona, na acusação que Maria e Aarão fizeram contra Moisés, que Deus imputou a todos em comum, como o sacrilégio de Acã. A décima, por fim, quando desesperaram da terra, como de coisa invencível e insuperável.</p></div>
   <p class="autoria"><span class="autor">Procópio de Gaza</span><span class="sobre-autor">, retórico cristão (c. 465–c. 528), compilador das cadeias de comentários; escritor eclesiástico</span><br><span class="obra"><em>Comentário ao Octateuco (Commentarii in Octateuchum), Números</em>, In Num. 14,22</span> · <a href="https://archive.org/details/patrologiaecurs267unkngoog" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Ruperto de Deutz</span></summary>
   <div class="comentario-texto"><p>[«E me tentaram já dez vezes.»] Enumeremos aqui brevemente essas tentações. Da primeira tentação se lê assim no Êxodo [...]. A nona tentação foi aqui, no deserto de Faran, que nesse lugar se chama Barne, a dos exploradores: «Até quando», diz, «este povo me ultrajará? Até quando não crerão em mim, depois de todos os sinais que fiz diante deles?». E pouco depois: «Conforme o número dos quarenta dias em que explorastes a terra, durante quarenta anos carregareis as vossas iniquidades». A décima tentação está em que, «tendo Moisés dito todas as palavras do Senhor a todos os filhos de Israel, o povo chorou muito; e eis que, levantando-se de madrugada, subiram ao alto do monte e disseram: Estamos prontos a subir ao lugar de que o Senhor falou, porque pecamos. Moisés lhes disse: Por que transgredis a palavra do Senhor? Isso não vos dará bom resultado. Não subais, porque o Senhor não está convosco».</p></div>
   <p class="autoria"><span class="autor">Ruperto de Deutz</span><span class="sobre-autor">, abade beneditino (c. 1075–1129), teólogo</span><br><span class="obra"><em>Sobre a Trindade e as suas obras (De Trinitate et operibus eius), In Numeros</em>, In Numeros I, 39</span> · <a href="https://mlat.uzh.ch/browser/cps_2.RupTui.DeTrEtO" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São João Crisóstomo</span></summary>
   <div class="comentario-texto"><p>«Puseram-me à prova», diz, «e viram as minhas obras durante quarenta anos.» Vês que não se deve pedir contas a Deus, mas crer nele, quer ele nos proteja, quer não? Pois é disso que agora os acusa: de terem tentado a Deus. Quem quer receber provas do seu poder, da sua providência ou do seu cuidado ainda não crê que ele seja poderoso nem que ame os homens.</p></div>
   <p class="autoria"><span class="autor">São João Crisóstomo</span><span class="sobre-autor">, bispo de Constantinopla (c. 349–407), Doutor da Igreja</span><br><span class="obra"><em>Homilias sobre a Carta aos Hebreus</em>, Hom. 6 sobre Hebreus, 3</span> · <a href="https://khazarzar.skeptik.net/pgm/PG_Migne/John%20Chrysostom_PG%2047-64/In%20epistulam%20ad%20Hebraeos.pdf" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Santo Tomás de Aquino</span></summary>
   <div class="comentario-texto"><p>Deve-se saber que tentar é fazer a prova de uma coisa que se ignora. Por isso, tentar a Deus procede da falta de fé. Mas deve-se saber que às vezes alguém tenta a Deus sem a intenção de tentar e experimentar, e no entanto se porta como quem tenta. Quem usa uma coisa sua para algum proveito não tenta propriamente: por exemplo, se alguém, fugindo, corre no seu cavalo; e, se tenta, não é com intenção de tentar. Mas, quando o que faz não serve para nada, então tenta. Do mesmo modo, se alguém se expõe a algum perigo obrigado pela necessidade, esperando o auxílio divino, não tenta a Deus; mas, se o faz sem necessidade alguma, então tenta a Deus. É o que ele mesmo diz em Mateus 4,7: «Não tentarás o Senhor teu Deus», porque não havia necessidade nenhuma de se atirar para baixo. Assim estes tentaram o Senhor, porque duvidaram do poder de Deus, clamando contra Moisés como se Deus não pudesse dar-lhes comida, eles que tinham experimentado o seu poder em coisas maiores; por isso era pecado de infidelidade, que é o maior. Em seguida mostra a gravidade da culpa, quando diz «puseram-me à prova» etc. Pois, quanto maiores benefícios de Deus alguém recebe e maior certeza tem do poder divino, se depois duvida, tanto mais gravemente peca. Estes viram sinais e prodígios na terra do Egito, a abertura do mar e outros milagres, e no entanto não creram. Por isso, Números 14,22: «Os homens que viram a minha majestade e os sinais que fiz no Egito e no deserto, e me tentaram já dez vezes» etc.</p></div>
   <p class="autoria"><span class="autor">Santo Tomás de Aquino</span><span class="sobre-autor">, dominicano (1225–1274), Doutor da Igreja</span><br><span class="obra"><em>Comentário à Carta aos Hebreus (Super Epistolam ad Hebraeos)</em>, cap. 3, lição 2</span> · <a href="https://www.corpusthomisticum.org/che01.html" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Santo Afonso Maria de Ligório</span></summary>
   <div class="comentario-texto"><p>Deus, portanto, espera e tem paciência até certo número; mas, quando a medida dos pecados está cheia, não espera mais e castiga: «Selaste como num saco os meus delitos». Os pecadores põem os seus pecados no saco sem fazer a conta, mas Deus faz bem a conta deles para dar o castigo quando a messe está madura, isto é, quando o número está completo: «Lançai a foice, porque a messe está madura». E exemplos assim há muitos nas divinas Escrituras. Num lugar, falando dos hebreus, o Senhor disse: «Tentaram-me dez vezes» — eis como ele conta os pecados —, «não verão a terra» — eis como, completo o número, castiga.</p></div>
   <p class="autoria"><span class="autor">Santo Afonso Maria de Ligório</span><span class="sobre-autor">, bispo e fundador dos redentoristas (1696–1787), Doutor da Igreja</span><br><span class="obra"><em>Sermões resumidos para todos os domingos do ano (Sermoni compendiati), sermão XV, 1º domingo da Quaresma: «Del numero de' peccati, oltre il quale Iddio più non perdona»</em>, ponto I</span> · <a href="https://www.intratext.com/IXT/ITASA0000/_P31I.HTM" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Santo Ambrósio</span></summary>
   <div class="comentario-texto"><p>O povo dos hebreus atravessou os mares, mas não pôde atravessar as tentações. Todos foram tentados, menos Jesus [Josué] e Caleb, que por isso, dentre os mais velhos, mereceram entrar na terra da promessa: porque ficaram livres da tentação. Nem Aarão entrou, nem Maria, porque também eles foram tentados. Nem Moisés entrou, porque era o chefe do povo que era tentado: figura da Lei, que não podia excluir as tentações, não podia introduzir na terra da ressurreição, porque essa graça era devida ao Evangelho. A Lei não pôde dar a paz; por isso Moisés, enquanto viveu, sempre combateu: o povo da Lei está sempre na incerteza das guerras. Jesus, filho de Num, porém, compôs os ânimos do povo numa paz profunda, porque quem está sob a Lei é agitado pela incerteza; quem está sob o Evangelho ouve o que diz: «Deixo-vos a paz, dou-vos a minha paz».</p></div>
   <p class="autoria"><span class="autor">Santo Ambrósio</span><span class="sobre-autor">, bispo de Milão (c. 339–397), Doutor da Igreja</span><br><span class="obra"><em>Comentário ao Salmo 118 (Expositio in Psalmum CXVIII)</em>, Sermão 21 (Sin), 20</span> · <a href="https://mlat.uzh.ch/browser/cps_2.AmbMed.ExInPsD" rel="noopener">texto original</a></p>
-</article>
+</details>
 </div>
 <nav class="passos" aria-label="Navegação entre temas"><a class="passo ant" href="/biblia/numeros/14/comentarios/3/a-gloria/" rel="prev"><span class="dir">← Anterior</span><span class="alvo">A glória que enche a terra</span></a><a class="passo seg" href="/biblia/numeros/14/comentarios/3/caleb/" rel="next"><span class="dir">Seguinte →</span><span class="alvo">Caleb e o outro espírito</span></a></nav>
 </article>

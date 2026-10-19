@@ -8,8 +8,9 @@
 <meta name="description" content="A Vulgata leu «na pessoa de Cristo», e a tradição viu aqui o perdão que a Igreja dá com a autoridade de Cristo e a primeira indulgência.">
 <meta name="color-scheme" content="light dark">
 <link rel="icon" href="/biblia/favicon.svg" type="image/svg+xml">
-<link rel="stylesheet" href="/biblia/css/estilo.css?v=28b77982">
-<script defer src="/biblia/js/biblia.js?v=59ac4c4e"></script>
+<script src="/biblia/js/preferencias.js?v=e879b9fe"></script>
+<link rel="stylesheet" href="/biblia/css/estilo.css?v=0bc11739">
+<script defer src="/biblia/js/biblia.js?v=38a000ee"></script>
 </head>
 <body class="pag-tema">
 <a class="pular" href="#app">Ir para o conteúdo</a>
@@ -17,6 +18,19 @@
   <div class="topo-int">
     <a class="marca" href="/biblia/">Bíblia</a>
     <nav class="trilha" aria-label="Trilha de navegação"><a href="/biblia/2corintios/">II Coríntios</a><span class="sep">›</span><a href="/biblia/2corintios/2/">II Coríntios 2</a><span class="sep">›</span><a href="/biblia/2corintios/2/comentarios/2/">Comentários</a><span class="sep">›</span><span aria-current="page">O perdão dado «na pessoa de Cristo»</span></nav>
+    <div class="ferramentas">
+      <button type="button" class="ferr so-js" id="letra-menor" aria-label="Letra menor" title="Letra menor"><span class="a-menor">A</span>−</button>
+      <button type="button" class="ferr so-js" id="letra-maior" aria-label="Letra maior" title="Letra maior"><span class="a-maior">A</span>+</button>
+      <button type="button" class="ferr so-js" id="trocar-tema" aria-label="Modo claro ou escuro" title="Modo claro ou escuro"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="8.5" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M12 3.5a8.5 8.5 0 0 1 0 17z" fill="currentColor"/></svg></button>
+      <a class="ferr" id="botao-leituras" href="/biblia/leituras/" aria-label="Leituras" title="Leituras"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path class="fita" d="M6.5 3.5h11v17l-5.5-4-5.5 4z" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/></svg></a>
+      <div class="menu-leitura" id="menu-leitura" hidden>
+        <p class="menu-titulo">Leitura aberta</p>
+        <p class="menu-nome" id="menu-nome"></p>
+        <p class="menu-pos" id="menu-pos"></p>
+        <a class="menu-item" href="/biblia/leituras/">Ver as leituras</a>
+        <button type="button" class="menu-item" id="fechar-leitura">Fechar esta leitura</button>
+      </div>
+    </div>
   </div>
 </header>
 <main id="app" tabindex="-1">
@@ -29,34 +43,41 @@
 </header>
 <blockquote class="versos-tema"><p class="par"><span class="num">10</span>A quem perdoais alguma coisa, também eu perdoo; pois o que perdoei, se alguma coisa perdoei, foi por vós, na presença de Cristo,</p></blockquote>
 <div class="comentarios">
-<article class="comentario">
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Ambrosiaster</span></summary>
   <div class="comentario-texto"><p>Com isto os obriga ainda mais: pois, se o mestre, a pedido dos discípulos, perdoou o pecado a quem eles quiseram, quanto mais os discípulos devem obedecer ao mestre! E, para mostrar que o perdão dado àquele homem era válido diante de Deus, diz que perdoou na pessoa de Cristo o que perdoou, isto é, que Cristo, de quem era embaixador, o tomou como seu; de modo que o ato do Apóstolo fosse ato de Cristo, como ele disse: «Tudo o que desligardes na terra será desligado no céu». Se, portanto, Cristo perdoou por meio do Apóstolo aquele por quem eles pediram, quanto mais estava já perdoado aquele a quem o próprio Apóstolo os exorta a perdoar!</p></div>
   <p class="autoria"><span class="autor">Ambrosiaster</span><span class="sobre-autor">, escritor eclesiástico (séc. IV), autor do comentário às cartas de Paulo que a tradição atribuiu a Santo Ambrósio</span><br><span class="obra"><em>Comentário à Segunda Carta aos Coríntios (Commentaria in epistolam ad Corinthios secundam)</em>, Sobre 2Cor 2,10 (PL 17, 282C–282D)</span> · <a href="https://mlat.uzh.ch/browser/cps_2.Ambros.CoInEpA3" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Santo Ambrósio</span></summary>
   <div class="comentario-texto"><p>Isso, de fato, eles reconhecem com razão a respeito de si mesmos: não têm a herança de Pedro os que não têm a cátedra de Pedro, que eles dilaceram com uma divisão ímpia. Mas é perverso que neguem que os pecados possam ser perdoados também na Igreja, quando a Pedro foi dito: «Eu te darei as chaves do Reino dos céus, e tudo o que ligares na terra será ligado no céu, e tudo o que desligares na terra será desligado nos céus»; e quando o próprio vaso de eleição do Senhor diz: «A quem perdoastes alguma coisa, eu também; pois também eu, o que perdoei, perdoei por vós, na pessoa de Cristo». Por que, então, leem Paulo, se pensam que ele errou tão impiamente, a ponto de reivindicar para si o direito do seu Senhor? Mas ele reivindicou o que tinha recebido, não usurpou o que não lhe era devido.</p></div>
   <p class="autoria"><span class="autor">Santo Ambrósio</span><span class="sobre-autor">, bispo de Milão (c. 340–397), Doutor da Igreja</span><br><span class="obra"><em>A penitência (De paenitentia)</em>, I, 7, 33 (PL 16, 476B–476C)</span> · <a href="https://mlat.uzh.ch/browser/cps_2.AmbMed.DePoe2" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São Paciano de Barcelona</span></summary>
   <div class="comentario-texto"><p>O que se negará ao bispo, em quem age o nome de Deus? Ele prestará contas a Deus, se fizer algo errado ou se julgar de modo corrupto e ímpio; e não se tira de Deus o poder de desfazer as obras do mau construtor; mas, enquanto aquela administração é piedosa, ele continua colaborador das obras de Deus. Eis que o Apóstolo escreve a leigos: «A quem perdoais alguma coisa, eu também; pois também eu, o que perdoei, se algo perdoei, foi por vós, na pessoa de Cristo, para que não seja dominado por Satanás; pois não ignoramos as suas astúcias». Se o Apóstolo diz que perdoou o que os leigos perdoam, como se há de rejeitar o que o bispo fizer?</p></div>
   <p class="autoria"><span class="autor">São Paciano de Barcelona</span><span class="sobre-autor">, bispo de Barcelona (séc. IV)</span><br><span class="obra"><em>Cartas a Semproniano (Epistolae ad Sympronianum)</em>, Carta I, 7 (PL 13, 1057D)</span> · <a href="https://mlat.uzh.ch/browser/cps_2.PacBar.Episto17" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São Tomás de Aquino</span></summary>
   <div class="comentario-texto"><p>«Pois também eu, o que perdoei...»: aqui se tocam quatro coisas necessárias a esse perdão ou remissão. A primeira é o discernimento, para que não se perdoe a esmo e temerariamente; por isso diz «se alguma coisa perdoei», isto é, do modo devido; Pr 4,25: «que as tuas pálpebras vão adiante dos teus passos». A segunda é o fim, porque não deve ser feito por amor ou por ódio, mas para alguma utilidade da Igreja ou de algumas pessoas; por isso diz «por vós». A terceira é a autoridade, porque não deve ser feito por autoridade própria, mas de Cristo, que perdoa os pecados por autoridade, enquanto os outros, a quem isso foi confiado, perdoam por ministério e como membros de Cristo; por isso diz «na pessoa de Cristo», isto é, não por minha autoridade. E, no entanto, tudo o que se perdoa, é Cristo que perdoa. Jo 20,23: «A quem perdoardes os pecados...».</p></div>
   <p class="autoria"><span class="autor">São Tomás de Aquino</span><span class="sobre-autor">, dominicano (1225–1274), Doutor da Igreja</span><br><span class="obra"><em>Comentário à Segunda Carta aos Coríntios (Super II ad Corinthios)</em>, cap. 2, lição 2 (ed. Parma, t. 13; Corpus Thomisticum [87699])</span> · <a href="https://www.corpusthomisticum.org/c2c.html" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São Tomás de Aquino</span></summary>
   <div class="comentario-texto"><p>O primeiro agente em qualquer gênero de tal modo influi que não recebe nesse gênero, assim como o sol ilumina mas não é iluminado, e o fogo aquece mas não é aquecido. Ora, Cristo é a fonte de todo o sacerdócio, pois o sacerdote da Lei antiga era figura dele; e o sacerdote da nova Lei age na pessoa dele, conforme aquilo de 2Cor 2: «Pois também eu, o que perdoei, se alguma coisa perdoei, foi por vós, na pessoa de Cristo». Por isso não convém a Cristo receber o efeito do sacerdócio.</p></div>
   <p class="autoria"><span class="autor">São Tomás de Aquino</span><span class="sobre-autor">, dominicano (1225–1274), Doutor da Igreja</span><br><span class="obra"><em>Suma Teológica (Summa theologiae)</em>, III, q. 22, a. 4, co. (ed. Leonina; Corpus Thomisticum [47855])</span> · <a href="https://www.corpusthomisticum.org/sth4016.html" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São Roberto Belarmino</span></summary>
   <div class="comentario-texto"><p>Que já no tempo dos Apóstolos se concedia a indulgência, fica claro pelas palavras de São Paulo em 2Cor 2: «A quem perdoais alguma coisa, também eu; pois também eu, o que perdoei, se alguma coisa perdoei, foi por vós, na pessoa de Cristo, para que Satanás não leve vantagem sobre nós». Os coríntios tinham pedido a São Paulo, como ensinam neste lugar Teodoreto e Santo Tomás, que perdoasse ao incestuoso excomungado, que fazia uma penitência séria, e lhe dispensasse o que restava da penitência; São Paulo consentiu e mandou que eles o perdoassem em nome dele. E, para vermos que não faltou nada do que é próprio de uma indulgência justa — os teólogos contam três coisas, que trataremos mais longamente no lugar próprio: a autoridade de quem concede, a causa piedosa e o estado de graça de quem recebe —, o Apóstolo diz que perdoa «na pessoa de Cristo», isto é, com a autoridade recebida de Cristo, e isso «por vós», isto é, pelo bem comum deles, para que não se dê lugar às ciladas do diabo por uma severidade excessiva do superior. Enfim, consta pela mesma carta que o incestuoso concebeu tanta dor do seu pecado que havia perigo de ser tragado por uma tristeza excessiva; por onde entendemos que ele tinha chegado ao estado de graça por uma verdadeira penitência.</p></div>
   <p class="autoria"><span class="autor">São Roberto Belarmino</span><span class="sobre-autor">, jesuíta e cardeal (1542–1621), Doutor da Igreja</span><br><span class="obra"><em>Controvérsias: Sobre as indulgências (De indulgentiis)</em>, liv. I, cap. 3 (Opera omnia, ed. Fèvre, Paris, Vivès, t. VII (1870), pp. 23–24)</span> · <a href="https://archive.org/details/operaomnia07bell/page/23/mode/1up" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Santo Afonso Maria de Ligório</span></summary>
   <div class="comentario-texto"><p>Que na Igreja sempre houve o costume de conceder indulgências se vê pelo caso daquele pecador incestuoso de Corinto: os seus amigos, vendo-o já arrependido da sua falta, pediram a São Paulo que lhe perdoasse a pena merecida, «para que não fosse tragado pela tristeza»; e o Apóstolo concordou com eles, dizendo: «A quem perdoastes alguma coisa, eu também perdoo; pois o que eu perdoei, se alguma coisa perdoei, foi por vós, na pessoa de Cristo». O que o Apóstolo chama doação, nós chamamos indulgência.</p></div>
   <p class="autoria"><span class="autor">Santo Afonso Maria de Ligório</span><span class="sobre-autor">, bispo de Sant'Agata dei Goti (1696–1787), fundador dos Redentoristas, Doutor da Igreja</span><br><span class="obra"><em>Opera dogmatica contra gli eretici pretesi riformati (1769), sobre a sessão XXV do Concílio de Trento, «Delle indulgenze»</em>, n. 56 (IntraText, Opera omnia italiane, p. 1007)</span> · <a href="https://www.intratext.com/IXT/ITASA0000/_P2QB.HTM" rel="noopener">texto original</a></p>
-</article>
+</details>
 </div>
 <nav class="passos" aria-label="Navegação entre temas"><a class="passo ant" href="/biblia/2corintios/2/comentarios/2/na-presenca-de-cristo/" rel="prev"><span class="dir">← Anterior</span><span class="alvo">«Na presença de Cristo»</span></a><a class="passo seg" href="/biblia/2corintios/2/comentarios/2/designios-de-satanas/" rel="next"><span class="dir">Seguinte →</span><span class="alvo">«Não ignoramos os seus desígnios»</span></a></nav>
 </article>

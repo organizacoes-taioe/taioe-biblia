@@ -8,8 +8,9 @@
 <meta name="description" content="Uma comunidade de uma cidade é a Igreja de Deus inteira, e os seus fiéis se chamam santos e irmãos.">
 <meta name="color-scheme" content="light dark">
 <link rel="icon" href="/biblia/favicon.svg" type="image/svg+xml">
-<link rel="stylesheet" href="/biblia/css/estilo.css?v=28b77982">
-<script defer src="/biblia/js/biblia.js?v=59ac4c4e"></script>
+<script src="/biblia/js/preferencias.js?v=e879b9fe"></script>
+<link rel="stylesheet" href="/biblia/css/estilo.css?v=0bc11739">
+<script defer src="/biblia/js/biblia.js?v=38a000ee"></script>
 </head>
 <body class="pag-tema">
 <a class="pular" href="#app">Ir para o conteúdo</a>
@@ -17,6 +18,19 @@
   <div class="topo-int">
     <a class="marca" href="/biblia/">Bíblia</a>
     <nav class="trilha" aria-label="Trilha de navegação"><a href="/biblia/2corintios/">II Coríntios</a><span class="sep">›</span><a href="/biblia/2corintios/1/">II Coríntios 1</a><span class="sep">›</span><a href="/biblia/2corintios/1/comentarios/1/">Comentários</a><span class="sep">›</span><span aria-current="page">«À Igreja de Deus que está em Corinto»</span></nav>
+    <div class="ferramentas">
+      <button type="button" class="ferr so-js" id="letra-menor" aria-label="Letra menor" title="Letra menor"><span class="a-menor">A</span>−</button>
+      <button type="button" class="ferr so-js" id="letra-maior" aria-label="Letra maior" title="Letra maior"><span class="a-maior">A</span>+</button>
+      <button type="button" class="ferr so-js" id="trocar-tema" aria-label="Modo claro ou escuro" title="Modo claro ou escuro"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="8.5" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M12 3.5a8.5 8.5 0 0 1 0 17z" fill="currentColor"/></svg></button>
+      <a class="ferr" id="botao-leituras" href="/biblia/leituras/" aria-label="Leituras" title="Leituras"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path class="fita" d="M6.5 3.5h11v17l-5.5-4-5.5 4z" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/></svg></a>
+      <div class="menu-leitura" id="menu-leitura" hidden>
+        <p class="menu-titulo">Leitura aberta</p>
+        <p class="menu-nome" id="menu-nome"></p>
+        <p class="menu-pos" id="menu-pos"></p>
+        <a class="menu-item" href="/biblia/leituras/">Ver as leituras</a>
+        <button type="button" class="menu-item" id="fechar-leitura">Fechar esta leitura</button>
+      </div>
+    </div>
   </div>
 </header>
 <main id="app" tabindex="-1">
@@ -29,34 +43,41 @@
 </header>
 <blockquote class="versos-tema"><p class="par"><span class="num">1</span>Paulo, apóstolo de Cristo Jesus pela vontade de Deus, e Timóteo, o irmão, à Igreja de Deus que está em Corinto, com todos os santos que estão em toda a Acaia:</p><p class="par"><span class="num">2</span>graça a vós e paz, da parte de Deus, nosso Pai, e do Senhor Jesus Cristo.</p></blockquote>
 <div class="comentarios">
-<article class="comentario">
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São João Crisóstomo</span></summary>
   <div class="comentario-texto"><p>“À Igreja de Deus que está em Corinto.” De novo os chama Igreja, reunindo-os todos numa só coisa e ligando-os uns aos outros. Pois não pode haver uma só Igreja se os que estão nela vivem divididos e postos uns contra os outros. “Com todos os santos que estão em toda a Acaia.” Ao mesmo tempo honra os coríntios, saudando a todos por meio da carta dirigida a eles, e reúne o povo inteiro. E os chama santos para mostrar que, se alguém é impuro, fica fora deste nome.</p></div>
   <p class="autoria"><span class="autor">São João Crisóstomo</span><span class="sobre-autor">, bispo de Constantinopla (c. 349–407), Doutor da Igreja</span><br><span class="obra"><em>Homilias sobre a 2ª Carta aos Coríntios</em>, Hom. 1, 2 (2Cor 1,1) (PG 61, 384)</span> · <a href="https://khazarzar.skeptik.net/pgm/PG_Migne/John%20Chrysostom_PG%2047-64/In%20epistulam%20ii%20ad%20Corinthios.pdf" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São João Crisóstomo</span></summary>
   <div class="comentario-texto"><p>Paulo põe Timóteo junto de si na saudação, e assim o torna mais respeitável e mostra a sua grande humildade: pois Timóteo era bem menor do que ele, mas o amor junta tudo. Por isso, em toda parte o iguala a si: ora diz “como um filho com o pai, serviu comigo” (Fl 2,22), ora “ele faz a obra do Senhor, como eu” (1Cor 16,10); e aqui o chama também irmão, fazendo-o de todos os modos digno de respeito aos olhos dos coríntios.</p></div>
   <p class="autoria"><span class="autor">São João Crisóstomo</span><span class="sobre-autor">, bispo de Constantinopla (c. 349–407), Doutor da Igreja</span><br><span class="obra"><em>Homilias sobre a 2ª Carta aos Coríntios</em>, Hom. 1, 2 (2Cor 1,1) (PG 61, 384)</span> · <a href="https://khazarzar.skeptik.net/pgm/PG_Migne/John%20Chrysostom_PG%2047-64/In%20epistulam%20ii%20ad%20Corinthios.pdf" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Santo Agostinho</span></summary>
   <div class="comentario-texto"><p>Vede como saudou os coríntios: «Paulo, apóstolo de Jesus Cristo pela vontade de Deus, e Timóteo, o irmão, à Igreja de Deus que está em Corinto, com todos os santos que estão em toda a Acaia». Quantas Igrejas pensais que há em toda a Acaia? Talvez nem saibais onde fica a Acaia, e julgais com tamanha cegueira uma província tão desconhecida, que dizeis que ela pereceu pelos crimes dos africanos.</p></div>
   <p class="autoria"><span class="autor">Santo Agostinho</span><span class="sobre-autor">, bispo de Hipona (354–430), Doutor da Igreja</span><br><span class="obra"><em>Carta aos católicos sobre a seita dos donatistas (Epistula ad catholicos, De unitate Ecclesiae)</em>, n. 30 (PL 43, 414)</span> · <a href="https://www.augustinus.it/latino/lettera_cattolici/lettera_cattolici_libro.htm" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Teodoreto de Ciro</span></summary>
   <div class="comentario-texto"><p>Chama-os Igreja de Deus, unindo-os de novo na concórdia e mostrando quem é o Senhor e o benfeitor. E junta a eles todos os que tinham crido naquela região, declarando que todos os que foram julgados dignos da salvação formam um só corpo.</p></div>
   <p class="autoria"><span class="autor">Teodoreto de Ciro</span><span class="sobre-autor">, bispo de Ciro, na Síria (c. 393–c. 460); escritor eclesiástico</span><br><span class="obra"><em>Interpretação da 2ª Carta aos Coríntios</em>, cap. 1, vv. 1-2 (PG 82, 377)</span> · <a href="https://archive.org/details/patrologiae_cursus_completus_gr_vol_082" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Cassiodoro</span></summary>
   <div class="comentario-texto"><p>Com Timóteo, o irmão, escreve à Igreja de Deus estabelecida em Corinto, abraçando também os que perseveravam no santo propósito por toda a Acaia; pede que lhes sejam concedidas a graça e a paz da parte de Deus, nosso Pai, e do Senhor Jesus Cristo. Nomeados estes, também o Espírito Santo fica amplamente lembrado: pois um da Trindade, quando nomeado, abraça plenissimamente a Trindade inteira.</p></div>
   <p class="autoria"><span class="autor">Cassiodoro</span><span class="sobre-autor">, senador romano e monge (c. 485–c. 580), fundador do mosteiro de Vivário</span><br><span class="obra"><em>Resumos das cartas dos apóstolos (Complexiones in epistolas apostolorum)</em>, 2Cor, 1 (sobre 2Cor 1,1–2) (PL 70, 1339A–1339B)</span> · <a href="https://mlat.uzh.ch/browser/cps_2.CasViv.Comple" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São Tomás de Aquino</span></summary>
   <div class="comentario-texto"><p>«À Igreja de Deus», que é todo o povo fiel, tanto clérigos como leigos; 1Tm 3,15: «para que saibas como deves proceder». «Que está em Corinto», porque Corinto era a metrópole da Acaia. As pessoas acrescentadas são todos os santos, isto é, os que renasceram pela graça do único Espírito Santo; 1Cor 6,11: «mas fostes lavados, mas fostes santificados». «Que estão na Acaia», cuja metrópole é Corinto. A essas pessoas que saúda, o Apóstolo deseja bens; por isso diz: «graça a vós». (...) Põe os dois bens extremos, para que se entendam neles os do meio. O primeiro bem é a graça, que é o princípio de todos os bens: antes da graça não há em nós nada que não seja diminuído. O último de todos os bens é a paz, porque a paz é o fim geral da alma. Pois, de qualquer modo que se entenda a paz, ela tem razão de fim: na glória eterna, no governo e na convivência, o fim é a paz.</p></div>
   <p class="autoria"><span class="autor">São Tomás de Aquino</span><span class="sobre-autor">, dominicano (1225–1274), Doutor da Igreja</span><br><span class="obra"><em>Comentário à Segunda Carta aos Coríntios (Super II ad Corinthios)</em>, cap. 1, lição 1 (ed. Parma, t. 13; Corpus Thomisticum [87693])</span> · <a href="https://www.corpusthomisticum.org/c2c.html" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Bento XVI</span></summary>
   <div class="comentario-texto"><p>Em outras cartas, ele fala da Igreja de Deus que está em Corinto (1Cor 1,2; 2Cor 1,1), que está na Galácia (Gl 1,2 etc.), portanto de Igrejas particulares; mas diz também que perseguiu «a Igreja de Deus»: não uma comunidade local determinada, mas «a Igreja de Deus». Assim vemos que esta palavra «Igreja» tem um sentido de várias dimensões: indica, de um lado, as assembleias de Deus em lugares determinados (uma cidade, uma região, uma casa), mas significa também a Igreja inteira no seu conjunto.</p></div>
   <p class="autoria"><span class="autor">Bento XVI</span><span class="sobre-autor">, papa (1927–2022)</span><br><span class="obra"><em>Audiência geral de 15 de outubro de 2008 (catequese sobre São Paulo: a Igreja)</em>, § 1 (Insegnamenti di Benedetto XVI IV/2 (2008))</span> · <a href="https://www.vatican.va/content/benedict-xvi/it/audiences/2008/documents/hf_ben-xvi_aud_20081015.html" rel="noopener">texto original</a></p>
-</article>
+</details>
 </div>
 <nav class="passos" aria-label="Navegação entre temas"><a class="passo ant" href="/biblia/2corintios/1/comentarios/1/apostolo/" rel="prev"><span class="dir">← Anterior</span><span class="alvo">«Apóstolo pela vontade de Deus»</span></a></nav>
 </article>

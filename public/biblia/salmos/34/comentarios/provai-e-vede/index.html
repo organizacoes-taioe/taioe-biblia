@@ -8,8 +8,9 @@
 <meta name="description" content="Nas coisas de Deus, o provar vem antes do ver: a sua bondade se conhece pela experiência, não pelos livros.">
 <meta name="color-scheme" content="light dark">
 <link rel="icon" href="/biblia/favicon.svg" type="image/svg+xml">
-<link rel="stylesheet" href="/biblia/css/estilo.css?v=28b77982">
-<script defer src="/biblia/js/biblia.js?v=59ac4c4e"></script>
+<script src="/biblia/js/preferencias.js?v=e879b9fe"></script>
+<link rel="stylesheet" href="/biblia/css/estilo.css?v=0bc11739">
+<script defer src="/biblia/js/biblia.js?v=38a000ee"></script>
 </head>
 <body class="pag-tema">
 <a class="pular" href="#app">Ir para o conteúdo</a>
@@ -17,6 +18,19 @@
   <div class="topo-int">
     <a class="marca" href="/biblia/">Bíblia</a>
     <nav class="trilha" aria-label="Trilha de navegação"><a href="/biblia/salmos/">Salmos</a><span class="sep">›</span><a href="/biblia/salmos/34/">Salmo 34</a><span class="sep">›</span><a href="/biblia/salmos/34/comentarios/">Comentários</a><span class="sep">›</span><span aria-current="page">Provar para conhecer</span></nav>
+    <div class="ferramentas">
+      <button type="button" class="ferr so-js" id="letra-menor" aria-label="Letra menor" title="Letra menor"><span class="a-menor">A</span>−</button>
+      <button type="button" class="ferr so-js" id="letra-maior" aria-label="Letra maior" title="Letra maior"><span class="a-maior">A</span>+</button>
+      <button type="button" class="ferr so-js" id="trocar-tema" aria-label="Modo claro ou escuro" title="Modo claro ou escuro"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="8.5" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M12 3.5a8.5 8.5 0 0 1 0 17z" fill="currentColor"/></svg></button>
+      <a class="ferr" id="botao-leituras" href="/biblia/leituras/" aria-label="Leituras" title="Leituras"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path class="fita" d="M6.5 3.5h11v17l-5.5-4-5.5 4z" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/></svg></a>
+      <div class="menu-leitura" id="menu-leitura" hidden>
+        <p class="menu-titulo">Leitura aberta</p>
+        <p class="menu-nome" id="menu-nome"></p>
+        <p class="menu-pos" id="menu-pos"></p>
+        <a class="menu-item" href="/biblia/leituras/">Ver as leituras</a>
+        <button type="button" class="menu-item" id="fechar-leitura">Fechar esta leitura</button>
+      </div>
+    </div>
   </div>
 </header>
 <main id="app" tabindex="-1">
@@ -29,34 +43,41 @@
 </header>
 <blockquote class="versos-tema"><p class="poesia"><span class="linha"><span class="calha"><span class="num">9</span></span><span class="txt">Provai e vede como o Senhor é bom:</span></span><span class="linha"><span class="calha"></span><span class="txt">feliz o homem que nele se refugia.</span></span></p></blockquote>
 <div class="comentarios">
-<article class="comentario">
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São Basílio Magno</span></summary>
   <div class="comentario-texto"><p>Já que nosso Senhor é o pão verdadeiro, e a sua carne é verdadeira comida, é necessário que o prazer da alegria deste pão nos venha por um paladar espiritual. Assim como a natureza do mel não pode ser explicada aos que não a provaram tanto pelas palavras quanto pela própria sensação do gosto, assim também a bondade da Palavra celeste não pode ser transmitida com clareza por meio de ensinamentos, se não examinarmos mais a fundo as verdades da fé e chegarmos a perceber a bondade do Senhor pela nossa própria experiência.</p></div>
   <p class="autoria"><span class="autor">São Basílio Magno</span><span class="sobre-autor">, bispo de Cesareia da Capadócia (c. 330–379), Doutor da Igreja</span><br><span class="obra"><em>Homilia sobre o Salmo 33 (Homiliae in Psalmos)</em>, Hom. Sl 33, 6</span> · <a href="https://khazarzar.skeptik.net/pgm/PG_Migne/Basilius%20Caesariensis_PG%2029-32/Homiliae%20super%20Psalmos.pdf" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Santo Agostinho</span></summary>
   <div class="comentario-texto"><p>Pois, se tens sentidos interiores, todos esses sentidos interiores se deleitam no deleite da justiça. Se tens olhos interiores, vê a luz da justiça: «Porque em ti está a fonte da vida, e na tua luz veremos a luz». Dessa luz diz o salmo: «Ilumina os meus olhos, para que eu nunca adormeça na morte». Do mesmo modo, se tens ouvidos interiores, ouve a justiça. Tais ouvidos procurava quem dizia: «Quem tem ouvidos para ouvir, ouça». Se tens olfato interior, ouve o Apóstolo: «Somos para Deus o bom perfume de Cristo em todo lugar». Se tens paladar interior, ouve: «Provai e vede como o Senhor é suave». Se tens tato interior, ouve o que a esposa canta do esposo: «A sua mão esquerda está sob a minha cabeça, e a sua direita me abraçará».</p></div>
   <p class="autoria"><span class="autor">Santo Agostinho</span><span class="sobre-autor">, bispo de Hipona (354–430), Doutor da Igreja</span><br><span class="obra"><em>Sermões (Sermones)</em>, Sermão 159, 4</span> · <a href="https://mlat.uzh.ch/browser/cps_2.AugHip.SeDeSc" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São Tomás de Aquino</span></summary>
   <div class="comentario-texto"><p>A experiência de uma coisa se tem pelos sentidos, mas de um modo quando a coisa está presente, de outro quando está ausente: da ausente, pela vista, pelo olfato e pela audição; da presente, pelo tato e pelo paladar; pelo tato, do que está presente fora, pelo paladar, do que está presente dentro. Ora, Deus não está longe de nós, nem fora de nós, mas em nós: Jr 14: «tu estás no meio de nós, Senhor». Por isso a experiência da bondade divina se chama provar (...). Nas coisas do corpo, primeiro se vê, depois se prova; mas nas coisas espirituais primeiro se prova, depois se vê, porque ninguém conhece se não provar. Por isso diz primeiro «provai» e depois «vede».</p></div>
   <p class="autoria"><span class="autor">São Tomás de Aquino</span><span class="sobre-autor">, dominicano (1225–1274), Doutor da Igreja</span><br><span class="obra"><em>Comentário aos Salmos (Postilla super Psalmos)</em>, Sl 33, n. 9 (v. 9)</span> · <a href="https://www.corpusthomisticum.org/cps31.html" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São Bernardo de Claraval</span></summary>
   <div class="comentario-texto"><p>Em vão consultas a página; procura antes a experiência. É uma sabedoria cujo preço o homem não conhece. Tira-se de lugares escondidos, e essa suavidade não se encontra na terra dos que vivem regaladamente. É a suavidade do Senhor: se não provares, não verás. «Provai», diz, «e vede como o Senhor é suave.» É o maná escondido, é o nome novo que ninguém conhece senão quem o recebe. Não o ensina a erudição, mas a unção; não o compreende a ciência, mas a consciência.</p></div>
   <p class="autoria"><span class="autor">São Bernardo de Claraval</span><span class="sobre-autor">, abade de Claraval (1090–1153), Doutor da Igreja</span><br><span class="obra"><em>Sobre a conversão, aos clérigos (De conversione ad clericos)</em>, Sobre a conversão, aos clérigos, 13</span> · <a href="https://mlat.uzh.ch/browser/cps_2.BerCla.DeCon4" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São Roberto Belarmino</span></summary>
   <div class="comentario-texto"><p>«Provai e vede como o Senhor é suave», isto é: fazei a experiência, tentai, começai de fato a lançar em Deus toda a vossa preocupação, apegando-vos a ele e deixando de lado todos os outros consoladores; «e vede», isto é, reconhecei como o Senhor é doce para todos os que se apegam a ele. E, de fato, que se pode imaginar de mais suave do que uma alma com caridade, boa consciência, coração puro e fé sincera, repousando no seio do sumo bem? Verdadeiramente «feliz o homem que nele espera», isto é, que tem paz com Deus e se reclina nele com esperança firme.</p></div>
   <p class="autoria"><span class="autor">São Roberto Belarmino</span><span class="sobre-autor">, jesuíta (1542–1621), cardeal, Doutor da Igreja</span><br><span class="obra"><em>Explicação dos Salmos (Explanatio in Psalmos)</em>, Sl 33, v. 8 (o nosso v. 9)</span> · <a href="https://archive.org/details/operaomnia10bell" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Santo Afonso Maria de Ligório</span></summary>
   <div class="comentario-texto"><p>Quem mais ama a Deus mais o conhece: «O amor é conhecimento», dizia São Gregório; e Santo Agostinho: «Amar é ver». Por isso Davi exortava: «Provai e vede como o Senhor é suave.» Quem mais saboreia Deus amando-o, mais o vê e mais conhece como é grande a sua bondade. Quem prova o mel entende dele mais que todos os filósofos que pensam nele e explicam a sua natureza.</p></div>
   <p class="autoria"><span class="autor">Santo Afonso Maria de Ligório</span><span class="sobre-autor">, bispo de Sant'Agata dei Goti (1696–1787), fundador dos Redentoristas, Doutor da Igreja</span><br><span class="obra"><em>Selva de matérias para pregação (Selva di materie predicabili, 1760)</em>, Parte II, instrução V («Circa l'orazione mentale»)</span> · <a href="https://www.intratext.com/IXT/ITASA0000/_P2ZN.HTM" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Santo Afonso Maria de Ligório</span></summary>
   <div class="comentario-texto"><p>Trabalham, penam para juntar mais dinheiro e mais coisas, mas nunca acham descanso: quanto mais acumulam, mais ficam inquietos e aflitos. «Os ricos passaram necessidade e fome; mas os que buscam o Senhor não terão falta de nenhum bem.» […] Os mundanos não querem convencer-se disso, com medo de levar uma vida amarga e triste demais se se derem a Deus; mas eu lhes digo com o profeta: «Provai e vede como o Senhor é suave.» Coitados, por que quereis desprezar e chamar de infeliz uma vida que ainda não provastes? Provai e vede: começai a experimentá-la, ouvi missa todo dia.</p></div>
   <p class="autoria"><span class="autor">Santo Afonso Maria de Ligório</span><span class="sobre-autor">, bispo de Sant'Agata dei Goti (1696–1787), fundador dos Redentoristas, Doutor da Igreja</span><br><span class="obra"><em>Sermões resumidos para todos os domingos do ano (Sermoni compendiati, 1771)</em>, Sermão XIII, para o domingo da Sexagésima («Vita infelice del peccatore e vita felice di chi ama Dio»)</span> · <a href="https://www.intratext.com/IXT/ITASA0000/_P31G.HTM" rel="noopener">texto original</a></p>
-</article>
+</details>
 </div>
 <nav class="passos" aria-label="Navegação entre temas"><a class="passo ant" href="/biblia/salmos/34/comentarios/o-acampamento/" rel="prev"><span class="dir">← Anterior</span><span class="alvo">O anjo que acampa ao redor</span></a><a class="passo seg" href="/biblia/salmos/34/comentarios/o-gosto-e-a-fome/" rel="next"><span class="dir">Seguinte →</span><span class="alvo">O gosto que dá mais fome</span></a></nav>
 </article>

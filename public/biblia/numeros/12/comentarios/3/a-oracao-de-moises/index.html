@@ -8,8 +8,9 @@
 <meta name="description" content="Insultado pelos irmãos, Moisés não os acusa: reza por eles. Os Padres o admiram mais por isso do que pelos milagres.">
 <meta name="color-scheme" content="light dark">
 <link rel="icon" href="/biblia/favicon.svg" type="image/svg+xml">
-<link rel="stylesheet" href="/biblia/css/estilo.css?v=28b77982">
-<script defer src="/biblia/js/biblia.js?v=59ac4c4e"></script>
+<script src="/biblia/js/preferencias.js?v=e879b9fe"></script>
+<link rel="stylesheet" href="/biblia/css/estilo.css?v=0bc11739">
+<script defer src="/biblia/js/biblia.js?v=38a000ee"></script>
 </head>
 <body class="pag-tema">
 <a class="pular" href="#app">Ir para o conteúdo</a>
@@ -17,6 +18,19 @@
   <div class="topo-int">
     <a class="marca" href="/biblia/">Bíblia</a>
     <nav class="trilha" aria-label="Trilha de navegação"><a href="/biblia/numeros/">Números</a><span class="sep">›</span><a href="/biblia/numeros/12/">Números 12</a><span class="sep">›</span><a href="/biblia/numeros/12/comentarios/3/">Comentários</a><span class="sep">›</span><span aria-current="page">Moisés reza por quem o ofendeu</span></nav>
+    <div class="ferramentas">
+      <button type="button" class="ferr so-js" id="letra-menor" aria-label="Letra menor" title="Letra menor"><span class="a-menor">A</span>−</button>
+      <button type="button" class="ferr so-js" id="letra-maior" aria-label="Letra maior" title="Letra maior"><span class="a-maior">A</span>+</button>
+      <button type="button" class="ferr so-js" id="trocar-tema" aria-label="Modo claro ou escuro" title="Modo claro ou escuro"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="8.5" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M12 3.5a8.5 8.5 0 0 1 0 17z" fill="currentColor"/></svg></button>
+      <a class="ferr" id="botao-leituras" href="/biblia/leituras/" aria-label="Leituras" title="Leituras"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path class="fita" d="M6.5 3.5h11v17l-5.5-4-5.5 4z" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/></svg></a>
+      <div class="menu-leitura" id="menu-leitura" hidden>
+        <p class="menu-titulo">Leitura aberta</p>
+        <p class="menu-nome" id="menu-nome"></p>
+        <p class="menu-pos" id="menu-pos"></p>
+        <a class="menu-item" href="/biblia/leituras/">Ver as leituras</a>
+        <button type="button" class="menu-item" id="fechar-leitura">Fechar esta leitura</button>
+      </div>
+    </div>
   </div>
 </header>
 <main id="app" tabindex="-1">
@@ -29,38 +43,46 @@
 </header>
 <blockquote class="versos-tema"><p class="par"><span class="num">11</span>Disse a Moisés: Rogo-te, meu senhor, não ponhas sobre nós o pecado que loucamente cometemos.</p><p class="par"><span class="num">13</span>Moisés clamou ao Senhor, dizendo: Ó Deus, rogo-te, cura-a.</p></blockquote>
 <div class="comentarios">
-<article class="comentario">
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São Basílio Magno</span></summary>
   <div class="comentario-texto"><p>A isto acrescenta o belo exemplo de Moisés. Insultado por Aarão e por Maria, ele não os acusou diante de Deus, mas rezou por eles. De quem preferes ser discípulo: dos homens amigos de Deus e bem-aventurados, ou dos que estão cheios do espírito do mal?</p></div>
   <p class="autoria"><span class="autor">São Basílio Magno</span><span class="sobre-autor">, bispo de Cesareia da Capadócia (c. 330–379), Doutor da Igreja</span><br><span class="obra"><em>Homilia 10, Contra os irados (Adversus eos qui irascuntur)</em>, Hom. 10 (De ira)</span> · <a href="https://khazarzar.skeptik.net/pgm/PG_Migne/Basilius%20Caesariensis_PG%2029-32/Homilia%20adversus%20eos%20qui%20irascuntur.pdf" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São Gregório Nazianzeno</span></summary>
   <div class="comentario-texto"><p>Moisés também foi louvado por ter matado o egípcio, condoído do israelita; mas foi mais admirado por ter curado com a sua oração Maria, a irmã, que ficara leprosa por ter murmurado.</p></div>
   <p class="autoria"><span class="autor">São Gregório Nazianzeno</span><span class="sobre-autor">, bispo de Constantinopla (c. 329–390), Doutor da Igreja</span><br><span class="obra"><em>Cartas</em>, Ep. 77, 8 (a Teodoro de Tiana)</span> · <a href="https://khazarzar.skeptik.net/pgm/PG_Migne/Gregory%20of%20Nazianzus_PG%2035-38/Epistulae.pdf" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São Gregório de Nissa</span></summary>
   <div class="comentario-texto"><p>Nem lhe veio o impulso de se vingar dos que o tinham ferido, nem, quando eles foram condenados pelo julgamento imparcial, esqueceu o que é justo segundo a natureza [o laço de sangue]; mas se fez suplicante diante de Deus pelos irmãos. Isto ele não teria feito se não estivesse atrás de Deus, que lhe mostrava as costas para guiá-lo com segurança no caminho da virtude.</p></div>
   <p class="autoria"><span class="autor">São Gregório de Nissa</span><span class="sobre-autor">, bispo de Nissa (c. 335–c. 395), irmão de São Basílio</span><br><span class="obra"><em>Vida de Moisés (De vita Moysis)</em>, Vida de Moisés II, 263</span> · <a href="https://khazarzar.skeptik.net/pgm/PG_Migne/Gregory%20of%20Nyssa_PG%2044-46/De%20vita%20Mosis.pdf" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São Gregório Magno</span></summary>
   <div class="comentario-texto"><p>Quando desejamos encher-nos de mansidão, os exemplos dos que vieram antes nos ajudam. Quem foi mais manso do que Moisés? Ele suporta a revolta do povo que lhe foi confiado e, mesmo assim, pede ao Senhor irado por esses mesmos que o perseguem, e se põe diante da ira divina em favor deles, porque no seu peito santo até a perseguição acende a caridade.</p></div>
   <p class="autoria"><span class="autor">São Gregório Magno</span><span class="sobre-autor">, papa (c. 540–604), Doutor da Igreja</span><br><span class="obra"><em>Comentário moral a Jó (Moralia in Iob)</em>, XXVII, 10 (n. 16–17)</span> · <a href="https://mlat.uzh.ch/browser/cps_2.GreI.Morali2" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Santo Ambrósio</span></summary>
   <div class="comentario-texto"><p>A própria profetisa Maria, que com os irmãos tinha atravessado a pé o mar, por ter murmurado contra o irmão Moisés, sem conhecer ainda o mistério da etíope, cobriu-se de manchas de lepra; e mal teria sido livrada de um contágio tão grande se Moisés não tivesse rezado. Essa murmuração, porém, se refere à figura da Sinagoga, que, sem conhecer o mistério desta etíope, isto é, da Igreja dos gentios, murmura contra ela com insultos todos os dias e tem inveja desse povo; e é pela fé desse mesmo povo que ela há de ser despida da lepra da sua incredulidade, como lemos: uma parte de Israel ficou cega até que entrasse a plenitude dos gentios, e assim todo Israel será salvo.</p></div>
   <p class="autoria"><span class="autor">Santo Ambrósio</span><span class="sobre-autor">, bispo de Milão (c. 339–397), Doutor da Igreja</span><br><span class="obra"><em>Cartas (Epistulae), 63, à Igreja de Vercelli</em>, Ep. 63, 57</span> · <a href="https://mlat.uzh.ch/browser/cps_2.AmbMed.EpClI" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São Bernardo de Claraval</span></summary>
   <div class="comentario-texto"><p>Que direi de Moisés? De quanta gordura e unção ele também tinha enchido o seu íntimo? Aquela casa rebelde, no meio da qual ele vivia então, nunca pôde, com toda a sua murmuração e o seu furor, arrancar dele a unção do Espírito que um dia tinha recebido, de modo que, entre brigas constantes e discussões de todo dia, ele permanecia na sua mansidão. Com razão o Espírito Santo deu testemunho de que ele era o mais manso de todos os homens que viviam sobre a terra. Com os que odiavam a paz, ele era pacífico; tanto que não só não se irritava com o povo ingrato e rebelde, mas ainda acalmava, com a sua intercessão, a ira de Deus. [...] Homem verdadeiramente ungido com a unção da misericórdia!</p></div>
   <p class="autoria"><span class="autor">São Bernardo de Claraval</span><span class="sobre-autor">, abade cisterciense (1090–1153), Doutor da Igreja</span><br><span class="obra"><em>Sermões sobre o Cântico dos Cânticos (Sermones super Cantica canticorum)</em>, sermão 12, 4</span> · <a href="https://mlat.uzh.ch/browser/cps_2.BerCla.SeInCaC" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São João Crisóstomo</span></summary>
   <div class="comentario-texto"><p>E tu, ouvindo estas dificuldades, não penses que só elas lhe aconteceram; deixei de lado não poucas das que estão escritas: as guerras, a oposição dos inimigos, as longas caminhadas, o insulto da irmã e o castigo dela, que doeu mais àquele mansíssimo Moisés [que o próprio insulto].</p></div>
   <p class="autoria"><span class="autor">São João Crisóstomo</span><span class="sobre-autor">, bispo de Constantinopla (c. 349–407), Doutor da Igreja</span><br><span class="obra"><em>A Estagírio, atormentado pelo demônio (Ad Stagirium)</em>, Ad Stag. III</span> · <a href="https://khazarzar.skeptik.net/pgm/PG_Migne/John%20Chrysostom_PG%2047-64/Ad%20Stagirium%20a%20daemone%20vexatum.pdf" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Catecismo da Igreja Católica</span></summary>
   <div class="comentario-texto"><p>Nessa intimidade com o Deus fiel, lento para a ira e cheio de amor, Moisés tirou a força e a tenacidade da sua intercessão. Ele não reza por si, mas pelo povo que Deus adquiriu para si. Já durante o combate com os amalecitas, ou para obter a cura de Miriam, Moisés foi intercessor.</p></div>
   <p class="autoria"><span class="autor">Catecismo da Igreja Católica</span><br><span class="obra"><em>Catecismo da Igreja Católica</em>, § 2577</span> · <a href="https://www.vatican.va/archive/cathechism_po/index_new/p4s1cap1_2566-2649_po.html" rel="noopener">texto original</a></p>
-</article>
+</details>
 </div>
 <nav class="passos" aria-label="Navegação entre temas"><a class="passo ant" href="/biblia/numeros/12/comentarios/3/so-miriam/" rel="prev"><span class="dir">← Anterior</span><span class="alvo">Por que só Maria?</span></a><a class="passo seg" href="/biblia/numeros/12/comentarios/3/sete-dias/" rel="next"><span class="dir">Seguinte →</span><span class="alvo">Sete dias fora do arraial</span></a></nav>
 </article>

@@ -8,8 +8,9 @@
 <meta name="description" content="O amém dos fiéis sobe a Deus por Cristo, o mediador, e o povo o diz junto com o sacerdote.">
 <meta name="color-scheme" content="light dark">
 <link rel="icon" href="/biblia/favicon.svg" type="image/svg+xml">
-<link rel="stylesheet" href="/biblia/css/estilo.css?v=28b77982">
-<script defer src="/biblia/js/biblia.js?v=59ac4c4e"></script>
+<script src="/biblia/js/preferencias.js?v=e879b9fe"></script>
+<link rel="stylesheet" href="/biblia/css/estilo.css?v=0bc11739">
+<script defer src="/biblia/js/biblia.js?v=38a000ee"></script>
 </head>
 <body class="pag-tema">
 <a class="pular" href="#app">Ir para o conteúdo</a>
@@ -17,6 +18,19 @@
   <div class="topo-int">
     <a class="marca" href="/biblia/">Bíblia</a>
     <nav class="trilha" aria-label="Trilha de navegação"><a href="/biblia/2corintios/">II Coríntios</a><span class="sep">›</span><a href="/biblia/2corintios/1/">II Coríntios 1</a><span class="sep">›</span><a href="/biblia/2corintios/1/comentarios/5/">Comentários</a><span class="sep">›</span><span aria-current="page">O amém por Cristo</span></nav>
+    <div class="ferramentas">
+      <button type="button" class="ferr so-js" id="letra-menor" aria-label="Letra menor" title="Letra menor"><span class="a-menor">A</span>−</button>
+      <button type="button" class="ferr so-js" id="letra-maior" aria-label="Letra maior" title="Letra maior"><span class="a-maior">A</span>+</button>
+      <button type="button" class="ferr so-js" id="trocar-tema" aria-label="Modo claro ou escuro" title="Modo claro ou escuro"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="8.5" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M12 3.5a8.5 8.5 0 0 1 0 17z" fill="currentColor"/></svg></button>
+      <a class="ferr" id="botao-leituras" href="/biblia/leituras/" aria-label="Leituras" title="Leituras"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path class="fita" d="M6.5 3.5h11v17l-5.5-4-5.5 4z" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/></svg></a>
+      <div class="menu-leitura" id="menu-leitura" hidden>
+        <p class="menu-titulo">Leitura aberta</p>
+        <p class="menu-nome" id="menu-nome"></p>
+        <p class="menu-pos" id="menu-pos"></p>
+        <a class="menu-item" href="/biblia/leituras/">Ver as leituras</a>
+        <button type="button" class="menu-item" id="fechar-leitura">Fechar esta leitura</button>
+      </div>
+    </div>
   </div>
 </header>
 <main id="app" tabindex="-1">
@@ -29,30 +43,36 @@
 </header>
 <blockquote class="versos-tema"><p class="par"><span class="num">20</span>Pois todas as promessas de Deus têm nele o sim; por isso é também por ele que dizemos a Deus o amém, para a sua glória.</p></blockquote>
 <div class="comentarios">
-<article class="comentario">
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Ambrosiaster</span></summary>
   <div class="comentario-texto"><p>«Pois em Cristo Jesus não houve o sim e o não, mas nele houve o sim»: porque nunca quis outra coisa senão o que é útil. Pois a sua vontade está sempre unida à utilidade: nem mudou, de modo que fizesse contra a vontade, como homem, o que é útil, nem hesitou sobre coisa alguma para mudar de vontade. «Pois todas as promessas de Deus, quantas forem, estão nele; e por ele o amém a Deus, para a glória, por meio de nós.» É claro que em Deus sempre está a verdade, isto é, o amém, manifestada por Cristo e depois pregada pelos apóstolos para a glória de Deus, com o poder dos sinais dando testemunho de que é verdade o que Deus prometeu por Cristo, nosso Senhor. Pois é glória de Deus quando se diz que tudo vem dele, por ele e nele.</p></div>
   <p class="autoria"><span class="autor">Ambrosiaster</span><span class="sobre-autor">, escritor eclesiástico (séc. IV), autor do comentário às cartas de Paulo que a tradição atribuiu a Santo Ambrósio</span><br><span class="obra"><em>Comentário à Segunda Carta aos Coríntios (Commentaria in epistolam ad Corinthios secundam)</em>, Sobre 2Cor 1,19–20 (PL 17, 280A–280B)</span> · <a href="https://mlat.uzh.ch/browser/cps_2.Ambros.CoInEpA3" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São João Crisóstomo</span></summary>
   <div class="comentario-texto"><p>Que quer dizer “nele está o sim e o amém”? Indica o que há de acontecer com toda a certeza. Pois as promessas têm nele, e não num homem, o seu cumprimento e a sua realização. Não temas, pois: não é um homem, para que desconfies; é Deus, que diz e cumpre. “Para a glória de Deus, por meio de nós.” Que quer dizer “para a glória, por meio de nós”? Cumpre-as por meio de nós, isto é, pelos benefícios que nos faz, para a sua glória: é isto “para a glória de Deus”. E, se é para a glória de Deus, há de acontecer com toda a certeza.</p></div>
   <p class="autoria"><span class="autor">São João Crisóstomo</span><span class="sobre-autor">, bispo de Constantinopla (c. 349–407), Doutor da Igreja</span><br><span class="obra"><em>Homilias sobre a 2ª Carta aos Coríntios</em>, Hom. 3, 4 (2Cor 1,20) (PG 61, 410)</span> · <a href="https://khazarzar.skeptik.net/pgm/PG_Migne/John%20Chrysostom_PG%2047-64/In%20epistulam%20ii%20ad%20Corinthios.pdf" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São Cirilo de Alexandria</span></summary>
   <div class="comentario-texto"><p>“Por isso também é por ele que dizemos a Deus o amém, para a glória, por meio de nós.” Pois, sendo ele o mediador, o único por quem se tem acesso ao Pai e em quem está todo dom espiritual, é por ele, sem dúvida, que se dará também todo o termo da oração; e isto é o amém. (…) Por ele, pois, se diz o amém a Deus Pai, para a glória, por meio de nós; pois é nosso costume encerrar toda oração no nome de Cristo. (…) Tornou-se também “ministro do santuário” (Hb 8,2) por causa da sua humanidade, e oferece como sacrifício espiritual a oração de cada um dos santos; pois é por ele o nosso amém.</p></div>
   <p class="autoria"><span class="autor">São Cirilo de Alexandria</span><span class="sobre-autor">, bispo de Alexandria (c. 376–444), Doutor da Igreja</span><br><span class="obra"><em>Fragmentos sobre a 2ª Carta aos Coríntios</em>, Livro I, discurso 2 (2Cor 1,20) (ed. Pusey, In D. Joannis Evangelium, III (Oxford 1872), pp. 324–325; PG 74)</span> · <a href="https://khazarzar.skeptik.net/pgm/PG_Migne/Cyril%20of%20Alexandria_PG%2068-77/Fragmenta%20in%20sancti%20Pauli%20epistulam%20ii%20ad%20Corinthios.pdf" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Teodoreto de Ciro</span></summary>
   <div class="comentario-texto"><p>Muitas são as promessas de Deus: a ressurreição dos mortos, a incorrupção do corpo, a vida sem fim, o Reino dos céus. Mas o Deus do universo nos concedeu tudo isso por meio do Filho unigênito. Por isso, também por meio dele lhe oferecemos o hino de ação de graças. E não foi à toa que acrescentou aqui o “Amém”: ensina que não é só o sacerdote que reza quem oferece o hino, mas também quem responde “Amém” participa da doxologia que se oferece.</p></div>
   <p class="autoria"><span class="autor">Teodoreto de Ciro</span><span class="sobre-autor">, bispo de Ciro, na Síria (c. 393–c. 460); escritor eclesiástico</span><br><span class="obra"><em>Interpretação da 2ª Carta aos Coríntios</em>, cap. 1, v. 20 (PG 82, 384)</span> · <a href="https://archive.org/details/patrologiae_cursus_completus_gr_vol_082" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Cornélio a Lápide</span></summary>
   <div class="comentario-texto"><p>«Por isso também o Amém» — subentende-se: dizemos, isto é, confirmamos e declaramos que elas foram verdadeiras; pois «amém», para os hebreus, é palavra de quem confirma. Assim Crisóstomo e Ambrósio. (...) Acrescente-se a isso que «amém» comumente é advérbio e significa «verdadeiramente, firmemente, fielmente, estavelmente»; às vezes, porém, é nome, e é o mesmo que «verdade, firmeza, fidelidade, estabilidade». (...) Assim Cristo é chamado «Amém» em Ap 3,14: «Isto diz o Amém (em grego, «o Amém», aquele que é amém, isto é, estável, constante, verdadeiro, e a própria estabilidade, constância e verdade), a testemunha fiel e verdadeira, o princípio da criação de Deus». (...) Assim se toma também aqui: «Por ele (Cristo) o amém (isto é, a verdade, a fidelidade, a constância) a Deus», subentende-se: damos e atribuímos, dizendo: tudo o que Deus prometeu de Cristo é amém, isto é, verdadeiríssimo, e verdadeiríssimamente cumprido por Deus.</p></div>
   <p class="autoria"><span class="autor">Cornélio a Lápide</span><span class="sobre-autor">, jesuíta flamengo (1567–1637), comentador de toda a Bíblia; não canonizado</span><br><span class="obra"><em>Comentários à Sagrada Escritura (Commentaria in Scripturam Sacram), In II Cor.</em>, In II Cor., cap. 1, v. 20 (ed. Vivès, t. XVIII (1868), p. 423–424)</span> · <a href="https://archive.org/details/commentariainscr18lapi/page/423/mode/1up" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Catecismo da Igreja Católica</span></summary>
   <div class="comentario-texto"><p>O próprio Jesus Cristo é o «Amém» (Ap 3,14). Ele é o Amém definitivo do amor do Pai por nós; assume e leva a termo o nosso «Amém» ao Pai: «Todas as promessas de Deus têm nele o seu “sim”; por isso é por ele que dizemos “Amém” a Deus, para a sua glória» (2Cor 1,20).</p></div>
   <p class="autoria"><span class="autor">Catecismo da Igreja Católica</span><br><span class="obra"><em>Catecismo da Igreja Católica</em>, n. 1065</span> · <a href="https://www.vatican.va/archive/cathechism_po/index_new/p1s2cap3_683-1065_po.html" rel="noopener">texto original</a></p>
-</article>
+</details>
 </div>
 <nav class="passos" aria-label="Navegação entre temas"><a class="passo ant" href="/biblia/2corintios/1/comentarios/5/o-sim/" rel="prev"><span class="dir">← Anterior</span><span class="alvo">«Nele se fez o sim»</span></a><a class="passo seg" href="/biblia/2corintios/1/comentarios/5/uncao/" rel="next"><span class="dir">Seguinte →</span><span class="alvo">«Nos ungiu»</span></a></nav>
 </article>

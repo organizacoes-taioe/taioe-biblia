@@ -8,8 +8,9 @@
 <meta name="description" content="Moisés não alega o mérito do povo, mas a honra de Deus e as palavras com que ele mesmo se revelou.">
 <meta name="color-scheme" content="light dark">
 <link rel="icon" href="/biblia/favicon.svg" type="image/svg+xml">
-<link rel="stylesheet" href="/biblia/css/estilo.css?v=28b77982">
-<script defer src="/biblia/js/biblia.js?v=59ac4c4e"></script>
+<script src="/biblia/js/preferencias.js?v=e879b9fe"></script>
+<link rel="stylesheet" href="/biblia/css/estilo.css?v=0bc11739">
+<script defer src="/biblia/js/biblia.js?v=38a000ee"></script>
 </head>
 <body class="pag-tema">
 <a class="pular" href="#app">Ir para o conteúdo</a>
@@ -17,6 +18,19 @@
   <div class="topo-int">
     <a class="marca" href="/biblia/">Bíblia</a>
     <nav class="trilha" aria-label="Trilha de navegação"><a href="/biblia/numeros/">Números</a><span class="sep">›</span><a href="/biblia/numeros/14/">Números 14</a><span class="sep">›</span><a href="/biblia/numeros/14/comentarios/2/">Comentários</a><span class="sep">›</span><span aria-current="page">Pelo nome de Deus diante das nações</span></nav>
+    <div class="ferramentas">
+      <button type="button" class="ferr so-js" id="letra-menor" aria-label="Letra menor" title="Letra menor"><span class="a-menor">A</span>−</button>
+      <button type="button" class="ferr so-js" id="letra-maior" aria-label="Letra maior" title="Letra maior"><span class="a-maior">A</span>+</button>
+      <button type="button" class="ferr so-js" id="trocar-tema" aria-label="Modo claro ou escuro" title="Modo claro ou escuro"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="8.5" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M12 3.5a8.5 8.5 0 0 1 0 17z" fill="currentColor"/></svg></button>
+      <a class="ferr" id="botao-leituras" href="/biblia/leituras/" aria-label="Leituras" title="Leituras"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path class="fita" d="M6.5 3.5h11v17l-5.5-4-5.5 4z" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/></svg></a>
+      <div class="menu-leitura" id="menu-leitura" hidden>
+        <p class="menu-titulo">Leitura aberta</p>
+        <p class="menu-nome" id="menu-nome"></p>
+        <p class="menu-pos" id="menu-pos"></p>
+        <a class="menu-item" href="/biblia/leituras/">Ver as leituras</a>
+        <button type="button" class="menu-item" id="fechar-leitura">Fechar esta leitura</button>
+      </div>
+    </div>
   </div>
 </header>
 <main id="app" tabindex="-1">
@@ -29,26 +43,31 @@
 </header>
 <blockquote class="versos-tema"><p class="par"><span class="num">13</span>Moisés disse ao Senhor: Os egípcios vão ouvir isso, eles, do meio dos quais tiraste este povo com a tua força,</p><p class="par"><span class="num">14</span>e o dirão aos habitantes desta terra. Eles ouviram que tu, Senhor, estás no meio deste povo; que tu, Senhor, és visto olho no olho; que a tua nuvem está sobre eles, e que vais adiante deles numa coluna de nuvem de dia e numa coluna de fogo de noite.</p><p class="par"><span class="num">15</span>Se fizeres morrer este povo como um só homem, as nações que ouviram a tua fama dirão:</p><p class="par"><span class="num">16</span>Porque o Senhor não pôde fazer este povo entrar na terra que lhes tinha jurado, massacrou-os no deserto.</p><p class="par"><span class="num">17</span>Agora, pois, que se mostre grande o poder do Senhor, como disseste:</p><p class="par"><span class="num">18</span>O Senhor é lento para a ira e rico em misericórdia; perdoa a iniquidade e a transgressão, mas não deixa nada impune, e castiga a iniquidade dos pais nos filhos até a terceira e a quarta geração.</p><p class="par"><span class="num">19</span>Perdoa, por favor, a iniquidade deste povo, segundo a grandeza da tua misericórdia, como perdoaste a este povo desde o Egito até aqui.</p></blockquote>
 <div class="comentarios">
-<article class="comentario">
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Ruperto de Deutz</span></summary>
   <div class="comentario-texto"><p>Ele conhece a leviandade dos povos que ignoram a Deus, e teme que redunde em ultraje do nome divino junto deles aquilo que previu que Deus faria com o povo de Israel, o povo com quem tinha feito aliança, de quem era o Deus, no qual era conhecido. Teme, digo, que um dia as nações digam: «Onde está o Deus deles?», ou ao menos: «Onde está a fidelidade, ou o poder, do Deus deles?». Essa preocupação prova de verdade que um homem é fiel a Deus; e lemos que a teve primeiro o santo Moisés, que era fiel em toda a sua casa. Quando o Senhor, irado por causa do bezerro que tinham feito, dizia: «Vejo que este povo é de dura cerviz. Deixa-me, para que se acenda o meu furor contra eles e eu os destrua, e farei de ti uma grande nação», ele, orando ao Senhor seu Deus, disse: «Que os egípcios não digam, peço-te: Com astúcia os tirou, para os matar nos montes e os apagar da terra. Acalme-se a tua ira, e sê favorável à maldade do teu povo». E de novo, em outra ocasião, quando tinham difamado a terra que os exploradores haviam visto, e o Senhor dizia: «Vou feri-los com a peste e consumi-los», ele, ao contrário: «Para que os egípcios», disse, «do meio dos quais tiraste este povo, ouçam que mataste tamanha multidão como se fosse um só homem, e digam: Não pôde introduzir este povo na terra que lhe tinha jurado, por isso os matou no deserto». Também Josué, caindo diante da arca do Senhor, clamava: «Meu Senhor Deus, que direi, vendo Israel voltar as costas aos seus inimigos?», e acrescentou isto, como o maior de tudo: «E que farás pelo teu grande nome?».</p></div>
   <p class="autoria"><span class="autor">Ruperto de Deutz</span><span class="sobre-autor">, abade beneditino (c. 1075–1129), teólogo</span><br><span class="obra"><em>Comentário aos doze profetas menores (In Michaeam)</em>, In Michaeam I (sobre Mq 1,2)</span> · <a href="https://mlat.uzh.ch/browser/cps_2.RupTui.CoInDuP" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Teodoreto de Ciro</span></summary>
   <div class="comentario-texto"><p>Também isso o divino Moisés ensina, contando que Deus disse: «E agora deixa-me, e, irado, eu os exterminarei e farei de ti uma grande nação». Depois relata a sua própria súplica, e no fim acrescenta: «Se os feres, o Egito ouvirá e dirá: Foi por o Senhor não poder introduzi-los na terra que prometera aos pais deles que os aniquilou no deserto». É o que [Deus] também aqui deu a entender, dizendo: «E agi para que o meu nome não fosse de modo algum profanado diante das nações, diante de cujos olhos os fiz sair». Depois conta mais amplamente que quis submeter todos eles a uma ruína total no deserto, por terem pisado os preceitos que dão vida e profanado os sábados. E, deixando de lado os sábados, acrescenta: «E o meu olho teve compaixão deles, para não os exterminar, e não os aniquilei no deserto». Pois entregou aqueles transgressores a castigos variados, mas guardou os filhos deles, embora não fossem ser em nada melhores do que eles, e os introduziu na terra prometida aos antepassados.</p></div>
   <p class="autoria"><span class="autor">Teodoreto de Ciro</span><span class="sobre-autor">, bispo de Ciro, na Síria (c. 393–c. 460), comentador da Bíblia; escritor eclesiástico</span><br><span class="obra"><em>Interpretação de Ezequiel (Interpretatio in Ezechielem)</em>, Ez 20,14–17</span> · <a href="https://khazarzar.skeptik.net/pgm/PG_Migne/Theodoretus%20of%20Cyrrhus_PG%2080-84/Interpretatio%20in%20Ezechielem.pdf" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São Cirilo de Alexandria</span></summary>
   <div class="comentario-texto"><p>O próprio bem-aventurado Moisés o testemunhará, ensinando no livro dos Números, quando Israel tropeçou de novo por um medo fora de hora, porque alguns difamavam a terra da promessa: tinham sido enviados por Moisés, por ordem do Senhor, para explorá-la. Ao voltarem da terra dos estrangeiros e chegarem de novo ao povo, cuspiam palavras amargas sobre ela, dizendo que era uma terra tão selvagem e cruel que podia devorar os seus habitantes; e levaram os ouvintes a tal blasfêmia que, com o rosto banhado em lágrimas, já desejavam as fadigas do Egito: «Demos a nós chefes», diziam, «e voltemos para o Egito». E, quando Deus ameaçava aniquilá-los, Moisés de novo suplicava e, como que recordando a Deus a promessa que lhe fora feita, adiantou-se, clamando: «E agora, Senhor, seja exaltada a tua força, como disseste: O Senhor é paciente, rico em misericórdia e verdadeiro; tira as iniquidades, as injustiças e os pecados, e com purificação não purificará o culpado, fazendo recair os pecados dos pais sobre os filhos até a terceira e a quarta geração. Perdoa o pecado deste povo segundo a grandeza da tua misericórdia, assim como lhe foste propício desde o Egito até agora». Fica mostrado, portanto, que o próprio Deus, que está acima de todos, dá testemunho de si mesmo, do seu amor pelos homens e da sua extrema paciência.</p></div>
   <p class="autoria"><span class="autor">São Cirilo de Alexandria</span><span class="sobre-autor">, bispo de Alexandria (c. 376–444), Doutor da Igreja</span><br><span class="obra"><em>Comentário ao Evangelho de João</em>, In Jo. VI (sobre Jo 9,2–3)</span> · <a href="https://khazarzar.skeptik.net/pgm/PG_Migne/Cyril%20of%20Alexandria_PG%2068-77/Commentarii%20in%20Joannem.pdf" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Cornélio a Lápide</span></summary>
   <div class="comentario-texto"><p>«Seja, pois, engrandecida a força do Senhor.» Ser engrandecido significa duas coisas: primeiro, tornar-se grande; segundo, aparecer grande. A força de Deus não pode tornar-se maior, porque tem em si toda a força possível e imaginável, e até mais do que se pode imaginar, pois em si mesma é imensa e infinita; portanto a força de Deus só é engrandecida quando aparece grande, ou maior, aos nossos olhos [...]. Em segundo lugar, «força» pode ser tomada aqui como clemência, diz o Abulense. Pois quem vence a ira e perdoa a ofensa ao inimigo que pode castigar e tem nas mãos, este tem uma alma grande, forte e de leão. É esse o sentido que parece exigir o que se segue: «Como juraste, dizendo: O Senhor é paciente e rico em misericórdia», etc.</p></div>
   <p class="autoria"><span class="autor">Cornélio a Lápide</span><span class="sobre-autor">, jesuíta flamengo (1567–1637), comentador de toda a Bíblia; não canonizado</span><br><span class="obra"><em>Comentário aos Números (Commentaria in Numeros)</em>, Nm 14,17 (Vulgata)</span> · <a href="https://archive.org/details/commentariainscr02lapi_0/page/264/mode/1up" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São João Paulo II</span></summary>
   <div class="comentario-texto"><p>Sobre esse gesto de ruptura da Aliança o próprio Senhor triunfou, quando se declarou solenemente a Moisés como «Deus de ternura e de graça, lento para a cólera e rico em misericórdia e fidelidade» (cf. Ex 34,6). É nessa revelação central que o povo eleito, e cada um dos seus membros, há de encontrar, depois de cada culpa, a força e a razão para se voltar ao Senhor, para lembrar-lhe aquilo que ele mesmo tinha revelado com exatidão a respeito de si (cf. Nm 14,18…) e para implorar o seu perdão.</p></div>
   <p class="autoria"><span class="autor">São João Paulo II</span><span class="sobre-autor">, papa (1920–2005)</span><br><span class="obra"><em>Carta encíclica Dives in misericordia (30/11/1980)</em>, n. 4</span> · <a href="https://www.vatican.va/content/john-paul-ii/it/encyclicals/documents/hf_jp-ii_enc_30111980_dives-in-misericordia.html" rel="noopener">texto original</a></p>
-</article>
+</details>
 </div>
 <nav class="passos" aria-label="Navegação entre temas"><a class="passo ant" href="/biblia/numeros/14/comentarios/2/moises-intercessor/" rel="prev"><span class="dir">← Anterior</span><span class="alvo">Moisés, o intercessor</span></a><a class="passo seg" href="/biblia/numeros/14/comentarios/2/pais-e-filhos/" rel="next"><span class="dir">Seguinte →</span><span class="alvo">Os pecados dos pais nos filhos</span></a></nav>
 </article>

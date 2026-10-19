@@ -8,8 +8,9 @@
 <meta name="description" content="Os filhos que o povo deu como presa recebem a herança: os Padres viram neles o povo novo.">
 <meta name="color-scheme" content="light dark">
 <link rel="icon" href="/biblia/favicon.svg" type="image/svg+xml">
-<link rel="stylesheet" href="/biblia/css/estilo.css?v=28b77982">
-<script defer src="/biblia/js/biblia.js?v=59ac4c4e"></script>
+<script src="/biblia/js/preferencias.js?v=e879b9fe"></script>
+<link rel="stylesheet" href="/biblia/css/estilo.css?v=0bc11739">
+<script defer src="/biblia/js/biblia.js?v=38a000ee"></script>
 </head>
 <body class="pag-tema">
 <a class="pular" href="#app">Ir para o conteúdo</a>
@@ -17,6 +18,19 @@
   <div class="topo-int">
     <a class="marca" href="/biblia/">Bíblia</a>
     <nav class="trilha" aria-label="Trilha de navegação"><a href="/biblia/numeros/">Números</a><span class="sep">›</span><a href="/biblia/numeros/14/">Números 14</a><span class="sep">›</span><a href="/biblia/numeros/14/comentarios/4/">Comentários</a><span class="sep">›</span><span aria-current="page">Os pequenos entram na terra</span></nav>
+    <div class="ferramentas">
+      <button type="button" class="ferr so-js" id="letra-menor" aria-label="Letra menor" title="Letra menor"><span class="a-menor">A</span>−</button>
+      <button type="button" class="ferr so-js" id="letra-maior" aria-label="Letra maior" title="Letra maior"><span class="a-maior">A</span>+</button>
+      <button type="button" class="ferr so-js" id="trocar-tema" aria-label="Modo claro ou escuro" title="Modo claro ou escuro"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="8.5" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M12 3.5a8.5 8.5 0 0 1 0 17z" fill="currentColor"/></svg></button>
+      <a class="ferr" id="botao-leituras" href="/biblia/leituras/" aria-label="Leituras" title="Leituras"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path class="fita" d="M6.5 3.5h11v17l-5.5-4-5.5 4z" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/></svg></a>
+      <div class="menu-leitura" id="menu-leitura" hidden>
+        <p class="menu-titulo">Leitura aberta</p>
+        <p class="menu-nome" id="menu-nome"></p>
+        <p class="menu-pos" id="menu-pos"></p>
+        <a class="menu-item" href="/biblia/leituras/">Ver as leituras</a>
+        <button type="button" class="menu-item" id="fechar-leitura">Fechar esta leitura</button>
+      </div>
+    </div>
   </div>
 </header>
 <main id="app" tabindex="-1">
@@ -29,38 +43,46 @@
 </header>
 <blockquote class="versos-tema"><p class="par"><span class="num">31</span>Mas os vossos pequenos, dos quais dissestes que seriam presa, eu os farei entrar, e eles conhecerão a terra que rejeitastes.</p></blockquote>
 <div class="comentarios">
-<article class="comentario">
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Santo Ambrósio</span></summary>
   <div class="comentario-texto"><p>Acendeu-se a indignação do Senhor, a ponto de querer destruir a todos; mas, a pedido de Moisés, temperou a sentença e adiou o castigo, julgando ser pena suficiente para os infiéis que, mesmo poupando-os por enquanto e não ferindo os incrédulos, não chegassem, como preço da sua incredulidade, àquela terra que tinham recusado; mas as crianças e as mulheres, que não tinham murmurado e eram dignas de perdão pelo sexo ou pela idade, recebessem a herança prometida daquela terra. Assim, todos os que tinham de vinte anos para cima caíram no deserto, mas a pena dos outros foi adiada. Os que tinham subido com Jesus [Josué] e acharam que deviam dissuadir o povo morreram logo de uma grande praga; mas Jesus e Caleb, com os de idade ou sexo inocente, entraram na terra da promessa.</p></div>
   <p class="autoria"><span class="autor">Santo Ambrósio</span><span class="sobre-autor">, bispo de Milão (c. 339–397), Doutor da Igreja</span><br><span class="obra"><em>Os deveres dos ministros (De officiis ministrorum)</em>, III, 8, 55</span> · <a href="https://mlat.uzh.ch/browser/cps_2.AmbMed.DeOfMi" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Orígenes</span></summary>
   <div class="comentario-texto"><p>Mas o Senhor mede a correção com equilíbrio e diz que os homens que saíram do Egito, que o tentaram e permaneceram incrédulos, cairão neste deserto; e «não verão», diz, «a terra que jurei a seus pais; mas os filhos deles, que estão aqui comigo, todos os que não conhecem o bem nem o mal». [...] Nós, por ora, dizemos que nossos pais foram aquele primeiro povo, e nós somos os filhos deles. Eles, porque pecaram, foram rejeitados e caíram; e nós, os filhos deles, nos levantamos no lugar deles e fomos erguidos, nós que não conhecíamos o bem nem o mal. Pois somos das nações, nós que não conhecíamos nem os bens que vêm de Deus nem os males que nascem do pecado. Contudo, ocupando o lugar dos que foram rejeitados, tenhamos medo do exemplo de tão grande queda, ouvindo a advertência de Paulo: «Considera, pois, a severidade e a bondade de Deus: severidade para com os que caíram, bondade para contigo, se permaneceres na bondade; do contrário, também tu serás cortado. E eles, se não permanecerem na incredulidade, serão enxertados».</p></div>
   <p class="autoria"><span class="autor">Orígenes</span><span class="sobre-autor">, mestre de Alexandria (c. 185–c. 254), escritor eclesiástico, não canonizado; texto da tradução latina de Rufino</span><br><span class="obra"><em>Homilias sobre Números (Homiliae in Numeros), trad. de Rufino</em>, Homilia 8, 1</span> · <a href="https://archive.org/details/origenes-werke.-bd-7-1921/page/50/mode/1up" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Orígenes</span></summary>
   <div class="comentario-texto"><p>«Certamente não verão a terra que jurei a seus pais.» Note-se que alguns dos que saíram da terra do Egito entraram na terra da promessa, pois Deus não proibiu isso; fez morrer no deserto só os que tinham saído da terra do Egito com vinte anos ou mais e tinham feito o bezerro, poupando a mocidade da mesma família, os que ainda não tinham vinte anos de vida, e muito mais as crianças pequenas e os meninos, até a idade da adolescência. Do mesmo autor: Isto é figura da verdade: «Se não vos converterdes e não vos tornardes como as crianças, não entrareis no Reino».</p></div>
   <p class="autoria"><span class="autor">Orígenes</span><span class="sobre-autor">, mestre de Alexandria (c. 185–c. 254), escritor eclesiástico, não canonizado; texto da tradução latina de Rufino</span><br><span class="obra"><em>Escólios sobre Números (Selecta in Numeros), de cadeia</em>, sobre Nm 14,23 (LXX)</span> · <a href="https://khazarzar.skeptik.net/pgm/PG_Migne/Origenes_PG%2011-17/Selecta%20in%20Numeros.pdf" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São Cirilo de Alexandria</span></summary>
   <div class="comentario-texto"><p>Então só o resto da Sinagoga dos judeus herdou as promessas e entrou na terra santa? Longe disso! Com ele avançou também o povo novo, o povo da fé. Pois o Deus do universo prometia fazer entrar com Caleb toda criança pequena. É o que também o divino Davi nos indicava, falando da herança dos santos: «Escreva-se isto para outra geração, e o povo que será criado louvará o Senhor». Pois a herança não foi guardada para os que eram educados sob a Lei, mas para outra geração. E qual é a outra geração? O povo novo, como eu disse, o povo da fé. Pois fomos criados em Cristo para uma vida nova, despojados do homem velho com as suas paixões e desejos; de fato, se diz que Cristo criou os dois povos num só homem novo, fazendo a paz e reconciliando ambos com o Pai num só Espírito. Assim, as crianças que entram junto com Caleb seriam figura do povo novo.</p></div>
   <p class="autoria"><span class="autor">São Cirilo de Alexandria</span><span class="sobre-autor">, bispo de Alexandria (c. 376–444), Doutor da Igreja</span><br><span class="obra"><em>Glaphyra sobre os Números (Glaphyra in Numeros), «Sobre os que exploraram a terra da promessa»</em>, Glaph. in Num., «Sobre os exploradores», 2</span> · <a href="https://khazarzar.skeptik.net/pgm/PG_Migne/Cyril%20of%20Alexandria_PG%2068-77/Glaphyra%20in%20Pentateuchum.pdf" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Teodoreto de Ciro</span></summary>
   <div class="comentario-texto"><p>A essa sentença convém comparar a que foi pronunciada nos Evangelhos: «O Reino vos será tirado e será dado a um povo que produza os seus frutos». Pois os que caíram no deserto por incredulidade são figura dos judeus que não creram; e os meninos incircuncisos, que no lugar deles receberam por meio de Jesus [Josué] a terra prometida aos antepassados, são figura dos gentios que creram.</p></div>
   <p class="autoria"><span class="autor">Teodoreto de Ciro</span><span class="sobre-autor">, bispo de Ciro, na Síria (c. 393–c. 460), comentador da Bíblia; escritor eclesiástico</span><br><span class="obra"><em>Questões sobre o Octateuco (Quaestiones in Octateuchum)</em>, Questões sobre Números 27</span> · <a href="https://khazarzar.skeptik.net/pgm/PG_Migne/Theodoretus%20of%20Cyrrhus_PG%2080-84/Quaestiones%20in%20Octateuchum.pdf" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Orígenes</span></summary>
   <div class="comentario-texto"><p>Como explicar o ataque dos amalecitas, as várias tentações e aqueles cujos corpos caíram no deserto? E como explicar que não os filhos de Israel, mas os filhos dos filhos de Israel puderam chegar à terra santa, e que todo aquele povo velho caiu, os que tinham vivido e morado com os egípcios, e só o povo novo, que não conhecia os egípcios, chegou ao reino, exceto os sacerdotes e os levitas? Quem conseguir pôr-se na ordem dos sacerdotes e levitas, quem conseguir não ter nenhuma parte na terra, a não ser só o Senhor, esse não cai no deserto, mas chega à terra da promessa. Por isso também tu, se não queres cair no deserto, mas chegar às promessas feitas aos pais, não tenhas a tua parte na terra, nem tenhas nada em comum com a terra. Que a tua parte seja só o Senhor, e nunca cairás.</p></div>
   <p class="autoria"><span class="autor">Orígenes</span><span class="sobre-autor">, mestre de Alexandria (c. 185–c. 254), escritor eclesiástico, não canonizado; texto da tradução latina de Rufino</span><br><span class="obra"><em>Homilias sobre Números (Homiliae in Numeros), trad. de Rufino</em>, Homilia 27, 4 (sobre as etapas de Nm 33)</span> · <a href="https://archive.org/details/origenes-werke.-bd-7-1921/page/262/mode/1up" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São Pedro Damião</span></summary>
   <div class="comentario-texto"><p>É preciso notar que todo aquele percurso, tudo o que ali se lê como acontecido na história, se cumpre inteiro em nós pelo mistério do sentido espiritual. Pois o que então se fez de modo visível convém a nós pela inteligência espiritual: aquele tempo antigo serviu ao nosso. Isso, como diz o Apóstolo, «lhes acontecia em figura». Nós saímos da fornalha da escravidão do Egito e procuramos entrar na terra da promessa por muitas mansões, isto é, por diversos progressos nas virtudes. Mas, como, exceto só a tribo de Levi, os cadáveres de quase todos os pais ficaram estendidos no deserto, e só os filhos chegaram àquela terra, convém que o nosso homem velho morra e que o novo, criado segundo Deus, se fortaleça para alcançar a terra dos vivos.</p></div>
   <p class="autoria"><span class="autor">São Pedro Damião</span><span class="sobre-autor">, cardeal bispo de Óstia (1007–1072), Doutor da Igreja</span><br><span class="obra"><em>Sobre a Quaresma e as quarenta e duas mansões dos hebreus (De quadragesima et quadraginta duabus mansionibus)</em>, introdução</span> · <a href="https://mlat.uzh.ch/browser/cps_2.PetDam.DeQuEtQ" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Cornélio a Lápide</span></summary>
   <div class="comentario-texto"><p>«Os vossos filhos andarão errantes no deserto quarenta anos.» Os filhos inocentes de pais culpados são castigados aqui pelo pecado e pela culpa dos pais, como que com um exílio de quarenta anos. Mas isso, para os pequenos, foi menos um castigo do que um benefício: servia primeiro para que, nesse meio-tempo, crescessem até a idade e o vigor necessários para lutar com os cananeus; segundo, para que crescessem em número, de modo a suceder aos pais que haviam de morrer e encher Canaã. Assim o Abulense.</p></div>
   <p class="autoria"><span class="autor">Cornélio a Lápide</span><span class="sobre-autor">, jesuíta flamengo (1567–1637), comentador de toda a Bíblia; não canonizado</span><br><span class="obra"><em>Comentário aos Números (Commentaria in Numeros)</em>, Nm 14,33 (Vulgata)</span> · <a href="https://archive.org/details/commentariainscr02lapi_0/page/266/mode/1up" rel="noopener">texto original</a></p>
-</article>
+</details>
 </div>
 <nav class="passos" aria-label="Navegação entre temas"><a class="passo ant" href="/biblia/numeros/14/comentarios/4/no-deserto/" rel="prev"><span class="dir">← Anterior</span><span class="alvo">Os corpos caídos no deserto</span></a><a class="passo seg" href="/biblia/numeros/14/comentarios/4/quarenta-anos/" rel="next"><span class="dir">Seguinte →</span><span class="alvo">Quarenta anos, cada dia por um ano</span></a></nav>
 </article>

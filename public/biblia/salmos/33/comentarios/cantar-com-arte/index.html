@@ -8,8 +8,9 @@
 <meta name="description" content="O que é «cantar bem» a Deus, e o júbilo, o canto que já não cabe em palavras.">
 <meta name="color-scheme" content="light dark">
 <link rel="icon" href="/biblia/favicon.svg" type="image/svg+xml">
-<link rel="stylesheet" href="/biblia/css/estilo.css?v=28b77982">
-<script defer src="/biblia/js/biblia.js?v=59ac4c4e"></script>
+<script src="/biblia/js/preferencias.js?v=e879b9fe"></script>
+<link rel="stylesheet" href="/biblia/css/estilo.css?v=0bc11739">
+<script defer src="/biblia/js/biblia.js?v=38a000ee"></script>
 </head>
 <body class="pag-tema">
 <a class="pular" href="#app">Ir para o conteúdo</a>
@@ -17,6 +18,19 @@
   <div class="topo-int">
     <a class="marca" href="/biblia/">Bíblia</a>
     <nav class="trilha" aria-label="Trilha de navegação"><a href="/biblia/salmos/">Salmos</a><span class="sep">›</span><a href="/biblia/salmos/33/">Salmo 33</a><span class="sep">›</span><a href="/biblia/salmos/33/comentarios/">Comentários</a><span class="sep">›</span><span aria-current="page">Cantar com arte e com júbilo</span></nav>
+    <div class="ferramentas">
+      <button type="button" class="ferr so-js" id="letra-menor" aria-label="Letra menor" title="Letra menor"><span class="a-menor">A</span>−</button>
+      <button type="button" class="ferr so-js" id="letra-maior" aria-label="Letra maior" title="Letra maior"><span class="a-maior">A</span>+</button>
+      <button type="button" class="ferr so-js" id="trocar-tema" aria-label="Modo claro ou escuro" title="Modo claro ou escuro"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="8.5" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M12 3.5a8.5 8.5 0 0 1 0 17z" fill="currentColor"/></svg></button>
+      <a class="ferr" id="botao-leituras" href="/biblia/leituras/" aria-label="Leituras" title="Leituras"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path class="fita" d="M6.5 3.5h11v17l-5.5-4-5.5 4z" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/></svg></a>
+      <div class="menu-leitura" id="menu-leitura" hidden>
+        <p class="menu-titulo">Leitura aberta</p>
+        <p class="menu-nome" id="menu-nome"></p>
+        <p class="menu-pos" id="menu-pos"></p>
+        <a class="menu-item" href="/biblia/leituras/">Ver as leituras</a>
+        <button type="button" class="menu-item" id="fechar-leitura">Fechar esta leitura</button>
+      </div>
+    </div>
   </div>
 </header>
 <main id="app" tabindex="-1">
@@ -29,22 +43,26 @@
 </header>
 <blockquote class="versos-tema"><p class="poesia"><span class="linha"><span class="calha"><span class="num">3</span></span><span class="txt">Cantai-lhe um cântico novo,</span></span><span class="linha"><span class="calha"></span><span class="txt">tocai com arte, entre aclamações.</span></span></p></blockquote>
 <div class="comentarios">
-<article class="comentario">
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Santo Agostinho</span></summary>
   <div class="comentario-texto"><p>Eis que ele te dá como que o modo de cantar: não procures palavras, como se pudesses explicar aquilo de que Deus se agrada. Canta «com júbilo»: cantar bem a Deus é isto, cantar com júbilo. O que é cantar com júbilo? É entender que não se pode explicar com palavras o que se canta no coração. Os que cantam, seja na colheita, seja na vindima, seja em algum trabalho intenso, quando começam a exultar de alegria com as palavras das canções, ficam tão cheios de alegria que já não conseguem explicá-la com palavras; deixam então as sílabas das palavras e passam ao som do júbilo. O júbilo é um som que significa que o coração está dando à luz o que não consegue dizer. E a quem convém esse júbilo, senão ao Deus inefável? Inefável é aquele que não podes dizer; e, se não podes dizê-lo e não deves calar, que resta senão jubilar, para que o coração se alegre sem palavras e a imensa largueza da alegria não tenha os limites das sílabas?</p></div>
   <p class="autoria"><span class="autor">Santo Agostinho</span><span class="sobre-autor">, bispo de Hipona (354–430), Doutor da Igreja</span><br><span class="obra"><em>Comentários aos Salmos (Enarrationes in Psalmos)</em>, Sl 32, comentário 2, sermão 1, 8</span> · <a href="https://www.augustinus.it/latino/esposizioni_salmi/esposizione_salmo_042_testo.htm" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São Basílio Magno</span></summary>
   <div class="comentario-texto"><p>Cantai bem: com a mente sem distração, com a disposição sincera. Cantai com aclamação: como bons soldados depois da vitória sobre os inimigos, elevai hinos a quem é a causa da vitória. «Coragem», diz ele, «eu venci o mundo». […] A aclamação é um grito sem palavras, que os companheiros de armas soltam juntos, a uma só voz, na batalha. Cantai, pois, em concórdia e num só sopro, na união que vem do amor.</p></div>
   <p class="autoria"><span class="autor">São Basílio Magno</span><span class="sobre-autor">, bispo de Cesareia da Capadócia (c. 330–379), Doutor da Igreja</span><br><span class="obra"><em>Homilia sobre o Salmo 32 (Homiliae in Psalmos)</em>, Hom. Sl 32, 3</span> · <a href="https://khazarzar.skeptik.net/pgm/PG_Migne/Basilius%20Caesariensis_PG%2029-32/Homiliae%20super%20Psalmos.pdf" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São Tomás de Aquino</span></summary>
   <div class="comentario-texto"><p>No sentido espiritual, o homem deve exultar por duas coisas: pelos bens da graça já recebidos e pelos bens da glória esperados. Pelos primeiros somos renovados. (...) Canta, pois, o cântico novo quem exulta em Deus pela renovação da graça (...). E toca bem «com aclamação» quem canta os bens da glória e exprime em palavras o cântico que concebe no coração. Ou «com júbilo», como traduz Jerônimo. O júbilo é uma alegria inefável, que não se pode exprimir com palavras, mas pela voz se dá a entender a imensa largueza das alegrias. Ora, o que não se pode exprimir são os bens da glória (...). Por isso diz «tocai bem para ele com júbilo», porque esses bens não se conseguem exprimir cantando.</p></div>
   <p class="autoria"><span class="autor">São Tomás de Aquino</span><span class="sobre-autor">, dominicano (1225–1274), Doutor da Igreja</span><br><span class="obra"><em>Comentário aos Salmos (Postilla super Psalmos)</em>, Sl 32, n. 3</span> · <a href="https://www.corpusthomisticum.org/cps31.html" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São Bruno de Segni</span></summary>
   <div class="comentario-texto"><p>«Cantai para ele um cântico novo, tocai bem para ele com júbilo.» O Novo Testamento não precisa de instrumentos de madeira: quer a voz humana e a língua dotada de razão. O cântico novo é o cântico do nascimento de Cristo, da sua paixão, ressurreição e ascensão. E tocam bem, e com júbilo, os que louvam a Deus com o coração e com a boca e cumprem com as obras o bem que dizem.</p></div>
   <p class="autoria"><span class="autor">São Bruno de Segni</span><span class="sobre-autor">, bispo e abade de Montecassino (c. 1045–1123)</span><br><span class="obra"><em>Explicação dos Salmos (Expositio in Psalmos)</em>, Sl 32, v. 3</span> · <a href="https://mlat.uzh.ch/browser/cps_2.BruAst.ExInPs3" rel="noopener">texto original</a></p>
-</article>
+</details>
 </div>
 <nav class="passos" aria-label="Navegação entre temas"><a class="passo ant" href="/biblia/salmos/33/comentarios/cantico-novo/" rel="prev"><span class="dir">← Anterior</span><span class="alvo">O cântico novo</span></a><a class="passo seg" href="/biblia/salmos/33/comentarios/palavra-fiel/" rel="next"><span class="dir">Seguinte →</span><span class="alvo">A palavra reta e a obra fiel</span></a></nav>
 </article>

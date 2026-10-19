@@ -8,8 +8,9 @@
 <meta name="description" content="As perseguições e a morte dos apóstolos e dos mártires são o desfile da vitória de Cristo.">
 <meta name="color-scheme" content="light dark">
 <link rel="icon" href="/biblia/favicon.svg" type="image/svg+xml">
-<link rel="stylesheet" href="/biblia/css/estilo.css?v=28b77982">
-<script defer src="/biblia/js/biblia.js?v=59ac4c4e"></script>
+<script src="/biblia/js/preferencias.js?v=e879b9fe"></script>
+<link rel="stylesheet" href="/biblia/css/estilo.css?v=0bc11739">
+<script defer src="/biblia/js/biblia.js?v=38a000ee"></script>
 </head>
 <body class="pag-tema">
 <a class="pular" href="#app">Ir para o conteúdo</a>
@@ -17,6 +18,19 @@
   <div class="topo-int">
     <a class="marca" href="/biblia/">Bíblia</a>
     <nav class="trilha" aria-label="Trilha de navegação"><a href="/biblia/2corintios/">II Coríntios</a><span class="sep">›</span><a href="/biblia/2corintios/2/">II Coríntios 2</a><span class="sep">›</span><a href="/biblia/2corintios/2/comentarios/4/">Comentários</a><span class="sep">›</span><span aria-current="page">«Sempre nos conduz em triunfo»</span></nav>
+    <div class="ferramentas">
+      <button type="button" class="ferr so-js" id="letra-menor" aria-label="Letra menor" title="Letra menor"><span class="a-menor">A</span>−</button>
+      <button type="button" class="ferr so-js" id="letra-maior" aria-label="Letra maior" title="Letra maior"><span class="a-maior">A</span>+</button>
+      <button type="button" class="ferr so-js" id="trocar-tema" aria-label="Modo claro ou escuro" title="Modo claro ou escuro"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="8.5" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M12 3.5a8.5 8.5 0 0 1 0 17z" fill="currentColor"/></svg></button>
+      <a class="ferr" id="botao-leituras" href="/biblia/leituras/" aria-label="Leituras" title="Leituras"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path class="fita" d="M6.5 3.5h11v17l-5.5-4-5.5 4z" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/></svg></a>
+      <div class="menu-leitura" id="menu-leitura" hidden>
+        <p class="menu-titulo">Leitura aberta</p>
+        <p class="menu-nome" id="menu-nome"></p>
+        <p class="menu-pos" id="menu-pos"></p>
+        <a class="menu-item" href="/biblia/leituras/">Ver as leituras</a>
+        <button type="button" class="menu-item" id="fechar-leitura">Fechar esta leitura</button>
+      </div>
+    </div>
   </div>
 </header>
 <main id="app" tabindex="-1">
@@ -29,22 +43,26 @@
 </header>
 <blockquote class="versos-tema"><p class="par"><span class="num">14</span>Graças a Deus, que sempre nos conduz em triunfo em Cristo e, por meio de nós, manifesta em todo lugar o perfume do seu conhecimento.</p></blockquote>
 <div class="comentarios">
-<article class="comentario">
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São João Crisóstomo</span></summary>
   <div class="comentario-texto"><p>Estamos tão longe de nos lamentar que chamamos a coisa de triunfo e nos gloriamos do que acontece. Por isso dizia: “Graças a Deus, que sempre nos leva em triunfo”, isto é, que nos torna ilustres diante de todos. Pois o que parece ser desonra, ser expulso de toda parte, isso nos parece a maior honra. Por isso não disse “que nos torna conhecidos”, mas “que nos leva em triunfo”, mostrando que essas perseguições levantam troféus contínuos contra o diabo em toda a terra. Depois, junto com quem triunfa, põe também a causa, e com isso levanta o ouvinte: não somos levados em triunfo só por Deus, mas também “em Cristo”, isto é, por causa de Cristo e da pregação. Pois, quando é preciso celebrar um triunfo, é inteiramente necessário que também nós, que levamos o troféu, fiquemos à vista de todos, porque o carregamos.</p></div>
   <p class="autoria"><span class="autor">São João Crisóstomo</span><span class="sobre-autor">, bispo de Constantinopla (c. 349–407), Doutor da Igreja</span><br><span class="obra"><em>Homilias sobre a 2ª Carta aos Coríntios</em>, Hom. 5, 1 (2Cor 2,14) (PG 61, 429)</span> · <a href="https://khazarzar.skeptik.net/pgm/PG_Migne/John%20Chrysostom_PG%2047-64/In%20epistulam%20ii%20ad%20Corinthios.pdf" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São Jerônimo</span></summary>
   <div class="comentario-texto"><p>«Triunfa sobre nós» quer dizer: triunfa de nós, ou celebra o seu triunfo por meio de nós; ele que em outro lugar dissera: «Tornamo-nos espetáculo para o mundo, para os anjos e para os homens». […] Antes, pois, que Tito chegasse, depois de ter sofrido muito, dá graças a Deus em Cristo Jesus, a quem pregava aos gentios, por tê-lo escolhido como digno de que nele se celebrasse o triunfo do seu Filho. O triunfo de Deus é a paixão dos mártires, o sangue derramado pelo nome de Cristo e a alegria no meio dos tormentos. Pois, quando alguém vê os mártires ficarem firmes com tanta perseverança, serem torturados e se gloriarem nos seus sofrimentos, o perfume do conhecimento de Deus se espalha entre os povos, e surge o pensamento silencioso de que, se o Evangelho não fosse verdadeiro, nunca seria defendido com sangue. Pois não é uma confissão delicada, apegada às riquezas e tranquila, mas feita nos cárceres, nos açoites, nas perseguições, na fome, na nudez e na sede. Este é o triunfo de Deus e a vitória dos Apóstolos.</p></div>
   <p class="autoria"><span class="autor">São Jerônimo</span><span class="sobre-autor">, presbítero e tradutor da Bíblia (c. 347–420), Doutor da Igreja</span><br><span class="obra"><em>Carta 120, a Hedíbia (Epistula ad Hedybiam)</em>, Carta 120, questão 11 (PL 22, 1002)</span> · <a href="https://mlat.uzh.ch/browser/cps_2.HieStr.Episto32" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Ambrosiaster</span></summary>
   <div class="comentario-texto"><p>Isto é Deus triunfar em Cristo por meio dos apóstolos: fazê-los vencedores na fé de Cristo, de modo que, pisada a incredulidade, a fé tenha o seu troféu, quando de incrédulos se fazem fiéis e os malévolos nada conseguem perseguindo os que creem. «E manifestar por meio de nós, em todo lugar, o perfume do seu conhecimento; porque somos para Deus o bom odor de Cristo, entre os que se salvam e entre os que se perdem.» O perfume do conhecimento de Deus está em Cristo e vem por Cristo. Disse «perfume» porque, assim como certas coisas não se veem, mas se conhecem pelo cheiro, e percebes que está num lugar aquilo que não vês, assim também Deus, que é invisível, quis ser conhecido por meio de Cristo; de modo que a pregação de Cristo, que chega aos ouvidos invisivelmente, como o perfume chega às narinas, desse a conhecer Deus Pai criador e o seu Filho unigênito.</p></div>
   <p class="autoria"><span class="autor">Ambrosiaster</span><span class="sobre-autor">, escritor eclesiástico (séc. IV), autor do comentário às cartas de Paulo que a tradição atribuiu a Santo Ambrósio</span><br><span class="obra"><em>Comentário à Segunda Carta aos Coríntios (Commentaria in epistolam ad Corinthios secundam)</em>, Sobre 2Cor 2,14–15 (PL 17, 283B–283D)</span> · <a href="https://mlat.uzh.ch/browser/cps_2.Ambros.CoInEpA3" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Santo Afonso Maria de Ligório</span></summary>
   <div class="comentario-texto"><p>Por isso o Apóstolo, depois de falar das tentações que nos assaltam, diz: «Em tudo isso somos vencedores por aquele que nos amou». E em outro lugar escreve: «Graças a Deus, que sempre nos faz triunfar em Cristo Jesus». São Paulo, portanto, agradecia a Deus pela vitória sobre as tentações, porque reconhecia tê-las vencido pela força da graça. Santo Agostinho diz que esse agradecimento seria vão se a vitória não fosse dom de Deus: «Seria uma ação de graças irrisória dar graças a Deus por aquilo que ele mesmo não deu nem fez».</p></div>
   <p class="autoria"><span class="autor">Santo Afonso Maria de Ligório</span><span class="sobre-autor">, bispo de Sant'Agata dei Goti (1696–1787), fundador dos Redentoristas, Doutor da Igreja</span><br><span class="obra"><em>Storia delle eresie colle loro confutazioni (1772), Confutação V (heresia de Pelágio), § 1 («Della necessità della grazia»)</em>, n. 3 (IntraText, Opera omnia italiane, p. 305)</span> · <a href="https://www.intratext.com/IXT/ITASA0000/_P354.HTM" rel="noopener">texto original</a></p>
-</article>
+</details>
 </div>
 <nav class="passos" aria-label="Navegação entre temas"><span></span><a class="passo seg" href="/biblia/2corintios/2/comentarios/4/perfume-do-conhecimento/" rel="next"><span class="dir">Seguinte →</span><span class="alvo">«O perfume do seu conhecimento»</span></a></nav>
 </article>

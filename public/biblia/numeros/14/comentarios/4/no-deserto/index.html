@@ -8,8 +8,9 @@
 <meta name="description" content="O castigo do deserto é figura de outro, maior: perder não a terra, mas o Reino.">
 <meta name="color-scheme" content="light dark">
 <link rel="icon" href="/biblia/favicon.svg" type="image/svg+xml">
-<link rel="stylesheet" href="/biblia/css/estilo.css?v=28b77982">
-<script defer src="/biblia/js/biblia.js?v=59ac4c4e"></script>
+<script src="/biblia/js/preferencias.js?v=e879b9fe"></script>
+<link rel="stylesheet" href="/biblia/css/estilo.css?v=0bc11739">
+<script defer src="/biblia/js/biblia.js?v=38a000ee"></script>
 </head>
 <body class="pag-tema">
 <a class="pular" href="#app">Ir para o conteúdo</a>
@@ -17,6 +18,19 @@
   <div class="topo-int">
     <a class="marca" href="/biblia/">Bíblia</a>
     <nav class="trilha" aria-label="Trilha de navegação"><a href="/biblia/numeros/">Números</a><span class="sep">›</span><a href="/biblia/numeros/14/">Números 14</a><span class="sep">›</span><a href="/biblia/numeros/14/comentarios/4/">Comentários</a><span class="sep">›</span><span aria-current="page">Os corpos caídos no deserto</span></nav>
+    <div class="ferramentas">
+      <button type="button" class="ferr so-js" id="letra-menor" aria-label="Letra menor" title="Letra menor"><span class="a-menor">A</span>−</button>
+      <button type="button" class="ferr so-js" id="letra-maior" aria-label="Letra maior" title="Letra maior"><span class="a-maior">A</span>+</button>
+      <button type="button" class="ferr so-js" id="trocar-tema" aria-label="Modo claro ou escuro" title="Modo claro ou escuro"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="8.5" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M12 3.5a8.5 8.5 0 0 1 0 17z" fill="currentColor"/></svg></button>
+      <a class="ferr" id="botao-leituras" href="/biblia/leituras/" aria-label="Leituras" title="Leituras"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path class="fita" d="M6.5 3.5h11v17l-5.5-4-5.5 4z" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/></svg></a>
+      <div class="menu-leitura" id="menu-leitura" hidden>
+        <p class="menu-titulo">Leitura aberta</p>
+        <p class="menu-nome" id="menu-nome"></p>
+        <p class="menu-pos" id="menu-pos"></p>
+        <a class="menu-item" href="/biblia/leituras/">Ver as leituras</a>
+        <button type="button" class="menu-item" id="fechar-leitura">Fechar esta leitura</button>
+      </div>
+    </div>
   </div>
 </header>
 <main id="app" tabindex="-1">
@@ -29,30 +43,36 @@
 </header>
 <blockquote class="versos-tema"><p class="par"><span class="num">29</span>Neste deserto cairão os vossos cadáveres. Todos vós que fostes recenseados, segundo o vosso número, de vinte anos para cima, vós que murmurastes contra mim,</p><p class="par"><span class="num">30</span>não entrareis na terra sobre a qual levantei a minha mão, jurando que vos faria habitar nela, exceto Caleb, filho de Jefoné, e Josué, filho de Num.</p><p class="par"><span class="num">31</span>Mas os vossos pequenos, dos quais dissestes que seriam presa, eu os farei entrar, e eles conhecerão a terra que rejeitastes.</p><p class="par"><span class="num">32</span>Quanto a vós, os vossos cadáveres cairão neste deserto.</p><p class="par"><span class="num">33</span>Os vossos filhos serão pastores no deserto durante quarenta anos e carregarão as vossas infidelidades, até que os vossos cadáveres se acabem no deserto.</p><p class="par"><span class="num">34</span>Segundo o número dos dias em que explorastes a terra, quarenta dias, cada dia por um ano, carregareis as vossas iniquidades durante quarenta anos, e sabereis o que é ter-me contra vós.</p><p class="par"><span class="num">35</span>Eu, o Senhor, falei: assim farei a toda esta comunidade perversa, que se juntou contra mim. Neste deserto se acabarão, e aqui morrerão.</p></blockquote>
 <div class="comentarios">
-<article class="comentario">
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São João Crisóstomo</span></summary>
   <div class="comentario-texto"><p>Vede, então, quantos benefícios lhes fez: livrou-os do Egito e da escravidão de lá, estendeu o mar sob os seus pés, fez descer o maná do céu, fez brotar de baixo fontes de água estranhas e inesperadas, estava presente em toda parte fazendo milagres e protegendo-os como uma muralha. Mas, porque não mostraram nada digno desse dom, não os poupou: fez perecer a todos. «Pois foram abatidos», diz, «no deserto»; com essa palavra mostra a morte deles em massa, os castigos e as penas mandadas por Deus, e que nem sequer alcançaram os prêmios propostos. Pois não fez isso com eles na terra da promessa, mas fora, longe e muito distante daquela região, castigando-os com uma pena dupla: não lhes permitiu ver a terra, embora prometida a eles, e os castigou duramente. «E que temos nós com isso?», pergunta alguém. É contigo mesmo! Por isso o Apóstolo acrescentou: «Essas coisas aconteceram como figuras para nós». Pois, como os dons eram figuras, assim também os castigos; e, como o batismo e a mesa foram desenhados de antemão, assim também, pelo que veio depois, foi anunciado de antemão, por nossa causa, que serão castigados os indignos desse dom, para que fiquemos mais sábios com aqueles exemplos.</p></div>
   <p class="autoria"><span class="autor">São João Crisóstomo</span><span class="sobre-autor">, bispo de Constantinopla (c. 349–407), Doutor da Igreja</span><br><span class="obra"><em>Homilias sobre a 1ª Carta aos Coríntios</em>, Hom. 23 sobre 1 Coríntios, 3</span> · <a href="https://khazarzar.skeptik.net/pgm/PG_Migne/John%20Chrysostom_PG%2047-64/In%20epistulam%20i%20ad%20Corinthios.pdf" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São João Crisóstomo</span></summary>
   <div class="comentario-texto"><p>Aqui não fala só da incredulidade, mas também das murmurações: «Os seus cadáveres», diz, «caíram no deserto». Depois, para que ninguém pense que será apenas privado do repouso, acrescenta também o castigo, dizendo: «Pois a palavra de Deus é viva, eficaz e mais cortante que qualquer espada de dois gumes; penetra até dividir alma e espírito, juntas e medulas, e julga os pensamentos e as intenções do coração». Aqui fala da geena e do castigo. Ela penetra, diz, nos segredos do nosso coração e corta a alma. Aqui não se trata de cadáveres que caem, nem de ser privado de uma terra, como lá, mas do Reino dos céus, e de ser entregue à geena eterna, a um castigo e a uma pena que não morrem.</p></div>
   <p class="autoria"><span class="autor">São João Crisóstomo</span><span class="sobre-autor">, bispo de Constantinopla (c. 349–407), Doutor da Igreja</span><br><span class="obra"><em>Homilias sobre a Carta aos Hebreus</em>, Hom. 6 sobre Hebreus, 3</span> · <a href="https://khazarzar.skeptik.net/pgm/PG_Migne/John%20Chrysostom_PG%2047-64/In%20epistulam%20ad%20Hebraeos.pdf" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Santo Agostinho</span></summary>
   <div class="comentario-texto"><p>Ora, se aquela morte pelas serpentes, aquela destruição pelo exterminador e aquela matança pela espada foram figuras, como diz claramente o Apóstolo, e é certo que tudo aquilo aconteceu (pois ele não diz «eram ditas em figura» nem «foram escritas em figura», mas «aconteciam-lhes em figura»), com quanto mais cuidado e piedade devemos evitar as penas de que aquelas foram figura! Sem dúvida, assim como nas coisas boas há muito mais bem naquilo que a figura significa do que na própria figura, assim também nas más são muito piores as coisas significadas pelas figuras, quando já são tão grandes os males que servem de figura. Pois, assim como a terra da promessa, para onde aquele povo era conduzido, não é nada em comparação com o Reino dos céus, para onde é conduzido o povo cristão, assim também aquelas penas que foram figura, embora tão terríveis, não são nada em comparação com as penas que elas significam.</p></div>
   <p class="autoria"><span class="autor">Santo Agostinho</span><span class="sobre-autor">, bispo de Hipona (354–430), Doutor da Igreja</span><br><span class="obra"><em>Comentários aos Salmos (Enarrationes in Psalmos)</em>, Sl 77, 3</span> · <a href="https://www.augustinus.it/latino/esposizioni_salmi/esposizione_salmo_096_testo.htm" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São Roberto Belarmino</span></summary>
   <div class="comentario-texto"><p>«E tiveram por nada a terra desejável», isto é, a terra prometida, que deviam desejar como felicíssima, eles a desprezaram e a tiveram por nada, dizendo: «Esta terra devora os seus habitantes». […] «Não creram na sua palavra», isto é, na palavra de Deus, que tantas vezes tinha dito que a terra era ótima; «e murmuraram nas suas tendas» contra o Senhor, que os tinha tirado do Egito para os levar à terra prometida. […] E Deus de fato executou a primeira ameaça: todos os que tinham murmurado morreram no deserto, como a Escritura conta em Nm 14. […] Neste lugar é preciso notar com que gravidade Deus se ira contra os que desprezam o reino dos céus, pregado e prometido a nós pelo Filho de Deus, se tão gravemente se irou contra os hebreus por terem desprezado a terra prometida pregada por Moisés, que não era mais que uma terra e figura do reino dos céus.</p></div>
   <p class="autoria"><span class="autor">São Roberto Belarmino</span><span class="sobre-autor">, jesuíta e cardeal (1542–1621), Doutor da Igreja</span><br><span class="obra"><em>Explicação dos Salmos (Explanatio in Psalmos)</em>, Sl 105 (hebr. 106), vv. 24-27</span> · <a href="https://archive.org/details/operaomnia11bell" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Orígenes</span></summary>
   <div class="comentario-texto"><p>Moisés escreveu isso por ordem do Senhor para que nós, lendo e vendo quantas partidas e quantas paradas nos esperam no caminho que leva ao reino, nos preparemos para essa viagem e, olhando o caminho que temos pela frente, não deixemos que o tempo da nossa vida se gaste na preguiça e no relaxamento; para que não aconteça que, enquanto nos demoramos nas vaidades deste mundo e nos deleitamos com cada coisa que chega à vista, ao ouvido, ao tato, ao olfato e ao paladar, os dias passem, o tempo se vá e não consigamos percorrer todo o caminho que temos adiante, e desfaleçamos no meio dele, e nos aconteça o que se conta de alguns que não puderam chegar, mas cujos corpos caíram no deserto. Estamos, pois, de viagem, e viemos a este mundo para passar de virtude em virtude, não para ficar na terra por causa das coisas da terra.</p></div>
   <p class="autoria"><span class="autor">Orígenes</span><span class="sobre-autor">, mestre de Alexandria (c. 185–c. 254), escritor eclesiástico, não canonizado; texto da tradução latina de Rufino</span><br><span class="obra"><em>Homilias sobre Números (Homiliae in Numeros), trad. de Rufino</em>, Homilia 27, 7 (sobre Nm 33,2)</span> · <a href="https://archive.org/details/origenes-werke.-bd-7-1921/page/265/mode/1up" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Cornélio a Lápide</span></summary>
   <div class="comentario-texto"><p>Por fim, todos esses foram condenados à morte temporal, não à eterna; antes, todos os que morreram no deserto arrependidos e na graça resgataram com a morte presente a eterna, como se vê em Moisés e Aarão, que foram excluídos de Canaã, mas por outro motivo, de que se trata no capítulo 20.</p></div>
   <p class="autoria"><span class="autor">Cornélio a Lápide</span><span class="sobre-autor">, jesuíta flamengo (1567–1637), comentador de toda a Bíblia; não canonizado</span><br><span class="obra"><em>Comentário aos Números (Commentaria in Numeros)</em>, Nm 14,29–30 (Vulgata)</span> · <a href="https://archive.org/details/commentariainscr02lapi_0/page/266/mode/1up" rel="noopener">texto original</a></p>
-</article>
+</details>
 </div>
 <nav class="passos" aria-label="Navegação entre temas"><a class="passo ant" href="/biblia/numeros/14/comentarios/4/murmuracao/" rel="prev"><span class="dir">← Anterior</span><span class="alvo">A murmuração</span></a><a class="passo seg" href="/biblia/numeros/14/comentarios/4/os-pequenos/" rel="next"><span class="dir">Seguinte →</span><span class="alvo">Os pequenos entram na terra</span></a></nav>
 </article>

@@ -8,8 +8,9 @@
 <meta name="description" content="«O Senhor falou só por Moisés?»: a inveja, que começa no paraíso e chega até os irmãos mais próximos.">
 <meta name="color-scheme" content="light dark">
 <link rel="icon" href="/biblia/favicon.svg" type="image/svg+xml">
-<link rel="stylesheet" href="/biblia/css/estilo.css?v=28b77982">
-<script defer src="/biblia/js/biblia.js?v=59ac4c4e"></script>
+<script src="/biblia/js/preferencias.js?v=e879b9fe"></script>
+<link rel="stylesheet" href="/biblia/css/estilo.css?v=0bc11739">
+<script defer src="/biblia/js/biblia.js?v=38a000ee"></script>
 </head>
 <body class="pag-tema">
 <a class="pular" href="#app">Ir para o conteúdo</a>
@@ -17,6 +18,19 @@
   <div class="topo-int">
     <a class="marca" href="/biblia/">Bíblia</a>
     <nav class="trilha" aria-label="Trilha de navegação"><a href="/biblia/numeros/">Números</a><span class="sep">›</span><a href="/biblia/numeros/12/">Números 12</a><span class="sep">›</span><a href="/biblia/numeros/12/comentarios/1/">Comentários</a><span class="sep">›</span><span aria-current="page">A inveja entre irmãos</span></nav>
+    <div class="ferramentas">
+      <button type="button" class="ferr so-js" id="letra-menor" aria-label="Letra menor" title="Letra menor"><span class="a-menor">A</span>−</button>
+      <button type="button" class="ferr so-js" id="letra-maior" aria-label="Letra maior" title="Letra maior"><span class="a-maior">A</span>+</button>
+      <button type="button" class="ferr so-js" id="trocar-tema" aria-label="Modo claro ou escuro" title="Modo claro ou escuro"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="8.5" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M12 3.5a8.5 8.5 0 0 1 0 17z" fill="currentColor"/></svg></button>
+      <a class="ferr" id="botao-leituras" href="/biblia/leituras/" aria-label="Leituras" title="Leituras"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path class="fita" d="M6.5 3.5h11v17l-5.5-4-5.5 4z" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/></svg></a>
+      <div class="menu-leitura" id="menu-leitura" hidden>
+        <p class="menu-titulo">Leitura aberta</p>
+        <p class="menu-nome" id="menu-nome"></p>
+        <p class="menu-pos" id="menu-pos"></p>
+        <a class="menu-item" href="/biblia/leituras/">Ver as leituras</a>
+        <button type="button" class="menu-item" id="fechar-leitura">Fechar esta leitura</button>
+      </div>
+    </div>
   </div>
 </header>
 <main id="app" tabindex="-1">
@@ -29,26 +43,31 @@
 </header>
 <blockquote class="versos-tema"><p class="par"><span class="num">1</span>Maria e Aarão falaram contra Moisés por causa da mulher etíope que ele tomara — pois tinha tomado uma mulher etíope —</p><p class="par"><span class="num">2</span>e disseram: Acaso o Senhor falou somente por Moisés? Não falou também por nós? E o Senhor ouviu.</p></blockquote>
 <div class="comentarios">
-<article class="comentario">
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São Gregório de Nissa</span></summary>
   <div class="comentario-texto"><p>Depois disso, a inveja brota contra ele da parte dos irmãos: a inveja, paixão que é princípio dos males, pai da morte, primeira porta do pecado, raiz da maldade, origem da tristeza, mãe das desgraças, causa da desobediência, começo da vergonha. A inveja nos expulsou do paraíso, feita serpente contra Eva. A inveja nos murou o acesso à árvore da vida e, despindo-nos das vestes santas, nos levou envergonhados às folhas da figueira.</p></div>
   <p class="autoria"><span class="autor">São Gregório de Nissa</span><span class="sobre-autor">, bispo de Nissa (c. 335–c. 395), irmão de São Basílio</span><br><span class="obra"><em>Vida de Moisés (De vita Moysis)</em>, Vida de Moisés II, 256–257</span> · <a href="https://khazarzar.skeptik.net/pgm/PG_Migne/Gregory%20of%20Nyssa_PG%2044-46/De%20vita%20Mosis.pdf" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São Gregório de Nissa</span></summary>
   <div class="comentario-texto"><p>A inveja sofre com a felicidade dos homens e pisa nas suas desgraças. Dizem que os abutres que comem carniça morrem com o perfume, porque a natureza deles se acostumou ao que é fétido e podre. Assim também quem está tomado por esta doença se consome com o bem-estar dos outros como com o cheiro de um perfume; mas, se vê alguma dor nascida de uma desgraça, voa para ela e mete o bico curvo, arrancando o que estava escondido do infortúnio.</p></div>
   <p class="autoria"><span class="autor">São Gregório de Nissa</span><span class="sobre-autor">, bispo de Nissa (c. 335–c. 395), irmão de São Basílio</span><br><span class="obra"><em>Vida de Moisés (De vita Moysis)</em>, Vida de Moisés II, 258</span> · <a href="https://khazarzar.skeptik.net/pgm/PG_Migne/Gregory%20of%20Nyssa_PG%2044-46/De%20vita%20Mosis.pdf" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São Gregório Nazianzeno</span></summary>
   <div class="comentario-texto"><p>Pereça dentre os homens a inveja, que devora quem a tem e envenena quem a sofre, a mais injusta e ao mesmo tempo a mais justa das paixões: injusta, porque perturba todos os que são bons; justa, porque consome os que a têm. […] Ela soterrou Datã e Abiram, enfurecidos contra Moisés, e cobriu de lepra Maria, que só tinha murmurado contra o irmão.</p></div>
   <p class="autoria"><span class="autor">São Gregório Nazianzeno</span><span class="sobre-autor">, bispo de Constantinopla (c. 329–390), Doutor da Igreja</span><br><span class="obra"><em>Discurso 36 (Sobre si mesmo)</em>, Or. 36, 5</span> · <a href="https://khazarzar.skeptik.net/pgm/PG_Migne/Gregory%20of%20Nazianzus_PG%2035-38/" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São Cirilo de Alexandria</span></summary>
   <div class="comentario-texto"><p>A palavra vem da soberba; a voz, de um orgulho vazio. Quem pensa direito não deve de modo algum ter pressa em subir à mesma medida daquele que ouviu com justiça: «Eu te conheço mais que a todos, e achaste graça diante de mim»; deve antes dar graças pelas honras que recebeu, sem ultrapassar a ordem fixada do alto e sem roubar para si a honra que foi dada desse modo [a outro].</p></div>
   <p class="autoria"><span class="autor">São Cirilo de Alexandria</span><span class="sobre-autor">, bispo de Alexandria (c. 376–444), Doutor da Igreja</span><br><span class="obra"><em>Comentários elegantes ao Pentateuco (Glaphyra in Numeros)</em>, Glaph. in Num., 2</span> · <a href="https://khazarzar.skeptik.net/pgm/PG_Migne/Cyril%20of%20Alexandria_PG%2068-77/Glaphyra%20in%20Pentateuchum.pdf" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São Gregório de Nissa</span></summary>
   <div class="comentario-texto"><p>Tão exposto a ofensas é o governo do povo e o ofício de ensinar que nem os irmãos de Moisés o pouparam: também Maria o difamava e Aarão o insultava; o peso do cargo irritou o afeto natural e levantou contra aquele homem tão sofrido os que lhe eram mais próximos. Mas nada disso o atingiu: ele continuou sendo Moisés, e não ficou pior do que era; os outros, porém, tiveram de prestar contas a Deus pelas faltas contra o chefe, e pagaram.</p></div>
   <p class="autoria"><span class="autor">São Gregório de Nissa</span><span class="sobre-autor">, bispo de Nissa (c. 335–c. 395), irmão de São Basílio</span><br><span class="obra"><em>Contra os que levam a mal as repreensões (Adversus eos qui castigationes aegre ferunt)</em>, Adv. castig.</span> · <a href="https://khazarzar.skeptik.net/pgm/PG_Migne/Gregory%20of%20Nyssa_PG%2044-46/" rel="noopener">texto original</a></p>
-</article>
+</details>
 </div>
 <nav class="passos" aria-label="Navegação entre temas"><a class="passo ant" href="/biblia/numeros/12/comentarios/1/a-etiope/" rel="prev"><span class="dir">← Anterior</span><span class="alvo">A mulher etíope</span></a><a class="passo seg" href="/biblia/numeros/12/comentarios/1/manso-e-humilde/" rel="next"><span class="dir">Seguinte →</span><span class="alvo">Moisés, manso e humilde</span></a></nav>
 </article>

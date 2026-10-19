@@ -8,8 +8,9 @@
 <meta name="description" content="O salmo diz «provai», e não «saciai-vos»: as delícias de Deus, quanto mais se provam, mais se desejam.">
 <meta name="color-scheme" content="light dark">
 <link rel="icon" href="/biblia/favicon.svg" type="image/svg+xml">
-<link rel="stylesheet" href="/biblia/css/estilo.css?v=28b77982">
-<script defer src="/biblia/js/biblia.js?v=59ac4c4e"></script>
+<script src="/biblia/js/preferencias.js?v=e879b9fe"></script>
+<link rel="stylesheet" href="/biblia/css/estilo.css?v=0bc11739">
+<script defer src="/biblia/js/biblia.js?v=38a000ee"></script>
 </head>
 <body class="pag-tema">
 <a class="pular" href="#app">Ir para o conteúdo</a>
@@ -17,6 +18,19 @@
   <div class="topo-int">
     <a class="marca" href="/biblia/">Bíblia</a>
     <nav class="trilha" aria-label="Trilha de navegação"><a href="/biblia/salmos/">Salmos</a><span class="sep">›</span><a href="/biblia/salmos/34/">Salmo 34</a><span class="sep">›</span><a href="/biblia/salmos/34/comentarios/">Comentários</a><span class="sep">›</span><span aria-current="page">O gosto que dá mais fome</span></nav>
+    <div class="ferramentas">
+      <button type="button" class="ferr so-js" id="letra-menor" aria-label="Letra menor" title="Letra menor"><span class="a-menor">A</span>−</button>
+      <button type="button" class="ferr so-js" id="letra-maior" aria-label="Letra maior" title="Letra maior"><span class="a-maior">A</span>+</button>
+      <button type="button" class="ferr so-js" id="trocar-tema" aria-label="Modo claro ou escuro" title="Modo claro ou escuro"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="8.5" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M12 3.5a8.5 8.5 0 0 1 0 17z" fill="currentColor"/></svg></button>
+      <a class="ferr" id="botao-leituras" href="/biblia/leituras/" aria-label="Leituras" title="Leituras"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path class="fita" d="M6.5 3.5h11v17l-5.5-4-5.5 4z" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/></svg></a>
+      <div class="menu-leitura" id="menu-leitura" hidden>
+        <p class="menu-titulo">Leitura aberta</p>
+        <p class="menu-nome" id="menu-nome"></p>
+        <p class="menu-pos" id="menu-pos"></p>
+        <a class="menu-item" href="/biblia/leituras/">Ver as leituras</a>
+        <button type="button" class="menu-item" id="fechar-leitura">Fechar esta leitura</button>
+      </div>
+    </div>
   </div>
 </header>
 <main id="app" tabindex="-1">
@@ -29,18 +43,21 @@
 </header>
 <blockquote class="versos-tema"><p class="poesia"><span class="linha"><span class="calha"><span class="num">9</span></span><span class="txt">Provai e vede como o Senhor é bom:</span></span><span class="linha"><span class="calha"></span><span class="txt">feliz o homem que nele se refugia.</span></span></p></blockquote>
 <div class="comentarios">
-<article class="comentario">
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São Basílio Magno</span></summary>
   <div class="comentario-texto"><p>Ele disse «provai», e não «saciai-vos», porque agora conhecemos em parte e vemos a verdade como num espelho e de modo obscuro; mas há de chegar o tempo em que este penhor de agora, este gosto da graça, chegará para nós à plenitude do gozo. Assim como os doentes do estômago e os que não têm apetite, que recusam a comida, são tratados pelos médicos, que despertam o apetite com algum tempero nos alimentos, de modo que, estimulado o sentido, o desejo cresce sempre mais, assim também com a Palavra da verdade: «a própria experiência», diz ele, «vai chamar-vos sempre a um desejo que não se sacia». Por isso diz «provai», para que sejais felizes, tendo sempre fome e sede de justiça.</p></div>
   <p class="autoria"><span class="autor">São Basílio Magno</span><span class="sobre-autor">, bispo de Cesareia da Capadócia (c. 330–379), Doutor da Igreja</span><br><span class="obra"><em>Homilia sobre o Salmo 33 (Homiliae in Psalmos)</em>, Hom. Sl 33, 6</span> · <a href="https://khazarzar.skeptik.net/pgm/PG_Migne/Basilius%20Caesariensis_PG%2029-32/Homiliae%20super%20Psalmos.pdf" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São Gregório Magno</span></summary>
   <div class="comentario-texto"><p>Irmãos caríssimos, a diferença entre as delícias do corpo e as do coração costuma ser esta: as delícias do corpo, quando não as temos, acendem em nós um desejo forte; quando as temos e as comemos, logo levam quem come ao fastio, pela saciedade. As delícias espirituais, ao contrário, quando não as temos, causam fastio; quando as temos, causam desejo; e quanto mais quem as come as come, mais fome tem delas. (...) E por isso não podem ser amadas enquanto não as temos, porque não se conhece o seu sabor. Quem pode amar o que não conhece? Por isso o salmista nos exorta: «Provai e vede como o Senhor é suave». É como se dissesse claramente: Não conheceis a sua suavidade se não a provais. Tocai o alimento da vida com o paladar do coração, para que, experimentando a sua doçura, possais amá-la.</p></div>
   <p class="autoria"><span class="autor">São Gregório Magno</span><span class="sobre-autor">, papa (c. 540–604), Doutor da Igreja</span><br><span class="obra"><em>Homilias sobre os Evangelhos (Homiliae in Evangelia)</em>, Homilias sobre os Evangelhos, 36, 1</span> · <a href="https://mlat.uzh.ch/browser/cps_2.GreI.HoInEv" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São Jerônimo</span></summary>
   <div class="comentario-texto"><p>Ele é sempre quem dá, sempre quem presenteia. Não me basta que tenha dado uma vez, se não der sempre. Peço para receber, e quando recebo, peço de novo. Sou avarento para receber os benefícios de Deus: ele não se cansa de dar, e eu não me farto de receber. Quanto mais bebo, mais tenho sede. Pois li o que o salmista canta: «Provai e vede como o Senhor é suave». Todo o bem que temos é um gosto do Senhor.</p></div>
   <p class="autoria"><span class="autor">São Jerônimo</span><span class="sobre-autor">, presbítero (c. 347–420), tradutor da Bíblia, Doutor da Igreja</span><br><span class="obra"><em>Cartas (Epistulae)</em>, Carta 133, a Ctesifonte, contra Pelágio</span> · <a href="https://mlat.uzh.ch/browser/cps_2.HieStr.Episto32" rel="noopener">texto original</a></p>
-</article>
+</details>
 </div>
 <nav class="passos" aria-label="Navegação entre temas"><a class="passo ant" href="/biblia/salmos/34/comentarios/provai-e-vede/" rel="prev"><span class="dir">← Anterior</span><span class="alvo">Provar para conhecer</span></a><a class="passo seg" href="/biblia/salmos/34/comentarios/na-comunhao/" rel="next"><span class="dir">Seguinte →</span><span class="alvo">O salmo da comunhão</span></a></nav>
 </article>

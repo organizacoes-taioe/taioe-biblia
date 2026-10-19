@@ -8,8 +8,9 @@
 <meta name="description" content="Paulo deixa uma porta aberta por amor a um irmão: o apóstolo não é de ferro.">
 <meta name="color-scheme" content="light dark">
 <link rel="icon" href="/biblia/favicon.svg" type="image/svg+xml">
-<link rel="stylesheet" href="/biblia/css/estilo.css?v=28b77982">
-<script defer src="/biblia/js/biblia.js?v=59ac4c4e"></script>
+<script src="/biblia/js/preferencias.js?v=e879b9fe"></script>
+<link rel="stylesheet" href="/biblia/css/estilo.css?v=0bc11739">
+<script defer src="/biblia/js/biblia.js?v=38a000ee"></script>
 </head>
 <body class="pag-tema">
 <a class="pular" href="#app">Ir para o conteúdo</a>
@@ -17,6 +18,19 @@
   <div class="topo-int">
     <a class="marca" href="/biblia/">Bíblia</a>
     <nav class="trilha" aria-label="Trilha de navegação"><a href="/biblia/2corintios/">II Coríntios</a><span class="sep">›</span><a href="/biblia/2corintios/2/">II Coríntios 2</a><span class="sep">›</span><a href="/biblia/2corintios/2/comentarios/3/">Comentários</a><span class="sep">›</span><span aria-current="page">«Não tive descanso no meu espírito»</span></nav>
+    <div class="ferramentas">
+      <button type="button" class="ferr so-js" id="letra-menor" aria-label="Letra menor" title="Letra menor"><span class="a-menor">A</span>−</button>
+      <button type="button" class="ferr so-js" id="letra-maior" aria-label="Letra maior" title="Letra maior"><span class="a-maior">A</span>+</button>
+      <button type="button" class="ferr so-js" id="trocar-tema" aria-label="Modo claro ou escuro" title="Modo claro ou escuro"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="8.5" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M12 3.5a8.5 8.5 0 0 1 0 17z" fill="currentColor"/></svg></button>
+      <a class="ferr" id="botao-leituras" href="/biblia/leituras/" aria-label="Leituras" title="Leituras"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path class="fita" d="M6.5 3.5h11v17l-5.5-4-5.5 4z" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/></svg></a>
+      <div class="menu-leitura" id="menu-leitura" hidden>
+        <p class="menu-titulo">Leitura aberta</p>
+        <p class="menu-nome" id="menu-nome"></p>
+        <p class="menu-pos" id="menu-pos"></p>
+        <a class="menu-item" href="/biblia/leituras/">Ver as leituras</a>
+        <button type="button" class="menu-item" id="fechar-leitura">Fechar esta leitura</button>
+      </div>
+    </div>
   </div>
 </header>
 <main id="app" tabindex="-1">
@@ -29,34 +43,41 @@
 </header>
 <blockquote class="versos-tema"><p class="par"><span class="num">13</span>não tive descanso no meu espírito, por não encontrar Tito, meu irmão; mas me despedi deles e parti para a Macedônia.</p></blockquote>
 <div class="comentarios">
-<article class="comentario">
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São João Crisóstomo</span></summary>
   <div class="comentario-texto"><p>É duro, e basta para abater uma alma, suportar provações; mas, quando falta também quem console e possa ajudar a carregar o fardo, a tempestade fica maior. […] Pois ele não diz que a ausência de Tito impediu a salvação dos que iam se aproximar, nem que por isso descuidou dos que tinham crido, mas que “não teve descanso”, isto é, ficou aflito e sofreu pela ausência do irmão, mostrando o que é a ausência de um irmão; e por isso partiu dali. Que quer dizer “chegando a Trôade para o Evangelho”? “Não fui lá simplesmente de passagem”, diz, “mas para pregar.” E, no entanto, tendo ido para isso e encontrado um trabalho enorme — “pois uma porta se abriu para mim no Senhor” —, diz: “não tive descanso”; não que isso tenha atrapalhado a obra.</p></div>
   <p class="autoria"><span class="autor">São João Crisóstomo</span><span class="sobre-autor">, bispo de Constantinopla (c. 349–407), Doutor da Igreja</span><br><span class="obra"><em>Homilias sobre a 2ª Carta aos Coríntios</em>, Hom. 5, 1 (2Cor 2,12-13) (PG 61, 427–428)</span> · <a href="https://khazarzar.skeptik.net/pgm/PG_Migne/John%20Chrysostom_PG%2047-64/In%20epistulam%20ii%20ad%20Corinthios.pdf" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Teodoreto de Ciro</span></summary>
   <div class="comentario-texto"><p>“Tendo chegado a Trôade”, diz, “por nenhum outro motivo senão só para pregar, fiquei muito angustiado, vendo muitos que se aproximavam da pregação e não tendo um colaborador para cuidar deles. Pois Tito, que eu tinha enviado a vós pensando no vosso bem, ainda não tinha voltado para junto de nós. Por isso, como não tinha quem partilhasse os trabalhos, deixei-os e parti.” Não é à toa que lembra aqui o três vezes bem-aventurado Tito: como ele ia levar esta carta, quis mostrar a virtude desse homem. E o fez muito bem, ensinando que, na ausência dele, embora muitos se aproximassem da pregação, não conseguia fazer nada do que era necessário. Por isso o chamou de irmão e acrescentou “meu”, mostrando que era um irmão verdadeiro.</p></div>
   <p class="autoria"><span class="autor">Teodoreto de Ciro</span><span class="sobre-autor">, bispo de Ciro, na Síria (c. 393–c. 460); escritor eclesiástico</span><br><span class="obra"><em>Interpretação da 2ª Carta aos Coríntios</em>, 2Cor 2,12-13 (PG 82, 389)</span> · <a href="https://archive.org/details/patrologiae_cursus_completus_gr_vol_082" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São João Crisóstomo</span></summary>
   <div class="comentario-texto"><p>Paulo, separado de uma só alma que ele amava, ficou tão perturbado e abalado que logo saiu às pressas da cidade onde esperava ver o amigo e não o encontrou. […] Preso no tronco, morando numa prisão, com as costas marcadas pelos açoites e cobertas de sangue, tu iniciavas nos mistérios, batizavas, oferecias o sacrifício e não desprezavas nem um só que estivesse para ser salvo; mas, chegando a Trôade e vendo o campo limpo e pronto para receber a semente, e a pesca abundante e tão fácil para ti, jogaste fora das mãos um ganho tão grande, embora tivesses ido lá justamente para isso.</p></div>
   <p class="autoria"><span class="autor">São João Crisóstomo</span><span class="sobre-autor">, bispo de Constantinopla (c. 349–407), Doutor da Igreja</span><br><span class="obra"><em>Cartas a Olímpia</em>, Carta 8, 11 (2Cor 2,12-13) (ed. A.-M. Malingrey (SC 13 bis, 1968), carta 8, 11; PG 52)</span> · <a href="https://khazarzar.skeptik.net/pgm/PG_Migne/John%20Chrysostom_PG%2047-64/Epistulae%20ad%20Olympiadem.pdf" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Santo Agostinho</span></summary>
   <div class="comentario-texto"><p>Considera as angústias do Apóstolo: «Não tive descanso no meu espírito», disse, «por não ter encontrado Tito, meu irmão». E em outro lugar: «Quem fraqueja, e eu não fraquejo? Quem se escandaliza, e eu não me abraso?» Quem, portanto, fraquejava e se abrasava, não estava em sofrimentos e num cárcere? Mas estes sofrimentos, nascidos da caridade, dão à luz a coroa.</p></div>
   <p class="autoria"><span class="autor">Santo Agostinho</span><span class="sobre-autor">, bispo de Hipona (354–430), Doutor da Igreja</span><br><span class="obra"><em>Comentários aos Salmos (Enarrationes in Psalmos)</em>, Sl 141, 19, sobre Sl 141,8 (PL 37, 1844)</span> · <a href="https://www.augustinus.it/latino/esposizioni_salmi/esposizione_salmo_199_testo.htm" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Guilherme Estius</span></summary>
   <div class="comentario-texto"><p>O espírito de Paulo, portanto, não tinha descanso porque não tinha encontrado Tito de volta de Corinto, para ficar sabendo, pelo relato dele, das coisas dos coríntios. «E o Apóstolo escreve isso», diz Primásio, «para que entendam que fez tudo por amor.» (…) Segundo essa explicação, o Apóstolo mostra, a partir das palavras «Quando cheguei a Trôade...», que, embora ainda não tivesse chegado a Corinto com o corpo, estava presente aos coríntios pelo espírito e pela solicitude, como quem não ficou com o ânimo sossegado enquanto não encontrou Tito, de volta deles, e soube por ele como iam as coisas lá. O que diz, então, é isto: «Depois que saí de Éfeso, cheguei a Trôade por causa do Evangelho; e, embora nessa cidade aparecesse a esperança de um fruto abundante, a preocupação e a solicitude pelas vossas coisas me prendiam tanto que achei que não devia ficar ali, porque Tito, que eu esperava que viesse da vossa parte, não tinha chegado».</p></div>
   <p class="autoria"><span class="autor">Guilherme Estius</span><span class="sobre-autor">, exegeta e professor em Douai (1542–1613); não canonizado</span><br><span class="obra"><em>Comentários a todas as cartas de São Paulo (In omnes D. Pauli epistolas commentarii), In II Cor.</em>, II Cor., cap. 2, v. 13 (ed. Holzammer, Mainz, Kirchheim, 1858, t. II, p. 41)</span> · <a href="https://archive.org/details/guilielmiestiiin02estw/page/41/mode/1up" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São Jerônimo</span></summary>
   <div class="comentario-texto"><p>«E, quando se abriu para mim uma porta no Senhor», isto é, quando muitos creram, seja pelos sinais e milagres que Deus operava por meio de mim, seja porque havia esperança de uma fé que nascia e crescia no Senhor, «não tive descanso no meu espírito», isto é, não pude encontrar a consolação que esperava, «por não encontrar Tito, meu irmão», seja porque pensava encontrá-lo ali, seja porque ouvira dizer que ali morava, ou porque ele dissera que iria até lá. […] Embora tivesse a ciência das Sagradas Escrituras e possuísse o dom da palavra e de diversas línguas, de modo que se gloria no Senhor e diz: «Dou graças a Deus porque falo línguas mais do que todos vós», não conseguia exprimir em grego digno a majestade dos sentidos divinos. Tinha, pois, a Tito como intérprete, assim como São Pedro tinha Marcos, cujo Evangelho foi composto com Pedro narrando e Marcos escrevendo. […] Por isso o apóstolo Paulo se entristece: porque não encontrara, naquele momento, a flauta e o instrumento da sua pregação, com que cantar a Cristo.</p></div>
   <p class="autoria"><span class="autor">São Jerônimo</span><span class="sobre-autor">, presbítero e tradutor da Bíblia (c. 347–420), Doutor da Igreja</span><br><span class="obra"><em>Carta 120, a Hedíbia (Epistula ad Hedybiam)</em>, Carta 120, questão 11 (PL 22, 1001–1002)</span> · <a href="https://mlat.uzh.ch/browser/cps_2.HieStr.Episto32" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São John Henry Newman</span></summary>
   <div class="comentario-texto"><p>Esse afeto fiel pelos irmãos, esse amor ardente, mas não idólatra, aparece em tudo o que ele escreve. […] E assim com os amigos, um por um: na plenitude da sua união sobrenatural com o Deus infinito e eterno, ele continua sempre ansioso por ver aqueles rostos conhecidos. «Alegro-me», diz ele, «com a presença de Estéfanas, Fortunato e Acaico, porque eles reanimaram o meu espírito e o vosso». E ainda: «Não tive descanso no meu espírito, porque não encontrei Tito, meu irmão». E ainda: «Deus, que consola os humildes, nos consolou com a chegada de Tito».</p></div>
   <p class="autoria"><span class="autor">São John Henry Newman</span><span class="sobre-autor">, cardeal (1801–1890), Doutor da Igreja</span><br><span class="obra"><em>Sermons Preached on Various Occasions, sermão 8, «St. Paul's Gift of Sympathy» (Oratório de Birmingham, Sexagésima de 1857)</em>, pp. 114–115 (ed. Longmans, 1908)</span> · <a href="https://www.newmanreader.org/works/occasions/sermon8.html" rel="noopener">texto original</a></p>
-</article>
+</details>
 </div>
 <nav class="passos" aria-label="Navegação entre temas"><a class="passo ant" href="/biblia/2corintios/2/comentarios/3/porta-aberta/" rel="prev"><span class="dir">← Anterior</span><span class="alvo">«Uma porta estava aberta para mim no Senhor»</span></a></nav>
 </article>

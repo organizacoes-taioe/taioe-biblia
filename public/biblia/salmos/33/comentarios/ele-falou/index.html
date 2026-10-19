@@ -8,8 +8,9 @@
 <meta name="description" content="A palavra de Deus não descreve: faz. E o que ela faz no mundo, faz também em nós, e no altar.">
 <meta name="color-scheme" content="light dark">
 <link rel="icon" href="/biblia/favicon.svg" type="image/svg+xml">
-<link rel="stylesheet" href="/biblia/css/estilo.css?v=28b77982">
-<script defer src="/biblia/js/biblia.js?v=59ac4c4e"></script>
+<script src="/biblia/js/preferencias.js?v=e879b9fe"></script>
+<link rel="stylesheet" href="/biblia/css/estilo.css?v=0bc11739">
+<script defer src="/biblia/js/biblia.js?v=38a000ee"></script>
 </head>
 <body class="pag-tema">
 <a class="pular" href="#app">Ir para o conteúdo</a>
@@ -17,6 +18,19 @@
   <div class="topo-int">
     <a class="marca" href="/biblia/">Bíblia</a>
     <nav class="trilha" aria-label="Trilha de navegação"><a href="/biblia/salmos/">Salmos</a><span class="sep">›</span><a href="/biblia/salmos/33/">Salmo 33</a><span class="sep">›</span><a href="/biblia/salmos/33/comentarios/">Comentários</a><span class="sep">›</span><span aria-current="page">Ele falou, e tudo se fez</span></nav>
+    <div class="ferramentas">
+      <button type="button" class="ferr so-js" id="letra-menor" aria-label="Letra menor" title="Letra menor"><span class="a-menor">A</span>−</button>
+      <button type="button" class="ferr so-js" id="letra-maior" aria-label="Letra maior" title="Letra maior"><span class="a-maior">A</span>+</button>
+      <button type="button" class="ferr so-js" id="trocar-tema" aria-label="Modo claro ou escuro" title="Modo claro ou escuro"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="8.5" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M12 3.5a8.5 8.5 0 0 1 0 17z" fill="currentColor"/></svg></button>
+      <a class="ferr" id="botao-leituras" href="/biblia/leituras/" aria-label="Leituras" title="Leituras"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path class="fita" d="M6.5 3.5h11v17l-5.5-4-5.5 4z" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/></svg></a>
+      <div class="menu-leitura" id="menu-leitura" hidden>
+        <p class="menu-titulo">Leitura aberta</p>
+        <p class="menu-nome" id="menu-nome"></p>
+        <p class="menu-pos" id="menu-pos"></p>
+        <a class="menu-item" href="/biblia/leituras/">Ver as leituras</a>
+        <button type="button" class="menu-item" id="fechar-leitura">Fechar esta leitura</button>
+      </div>
+    </div>
   </div>
 </header>
 <main id="app" tabindex="-1">
@@ -29,34 +43,41 @@
 </header>
 <blockquote class="versos-tema"><p class="poesia"><span class="linha"><span class="calha"><span class="num">9</span></span><span class="txt">Porque ele falou, e tudo se fez;</span></span><span class="linha"><span class="calha"></span><span class="txt">ele ordenou, e tudo se firmou.</span></span></p></blockquote>
 <div class="comentarios">
-<article class="comentario">
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Santo Agostinho</span></summary>
   <div class="comentario-texto"><p>Mas tu, como as fazes? Como fizeste, ó Deus, o céu e a terra? Não foi, por certo, no céu nem na terra que fizeste o céu e a terra, nem no ar ou nas águas, porque também estes pertencem ao céu e à terra; nem foi no universo que fizeste o universo, porque não havia onde fazê-lo antes que fosse feito, para que existisse. Nem tinhas na mão alguma coisa de que fazer o céu e a terra: pois de onde te viria aquilo que não tivesses feito, para dele fazeres alguma coisa? E que coisa existe, senão porque tu existes? Portanto, disseste, e as coisas foram feitas, e no teu Verbo as fizeste.</p></div>
   <p class="autoria"><span class="autor">Santo Agostinho</span><span class="sobre-autor">, bispo de Hipona (354–430), Doutor da Igreja</span><br><span class="obra"><em>Confissões (Confessiones)</em>, Confissões XI, 5, 7</span> · <a href="https://www.thelatinlibrary.com/augustine/conf11.shtml" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São Cirilo de Jerusalém</span></summary>
   <div class="comentario-texto"><p>Uma só é a criação de todas as coisas, pois o Pai fez tudo por meio do Filho: «porque ele disse, e foram feitos; ele mandou, e foram criados», diz o salmista. Quem fala, fala a alguém que ouve; e quem manda, manda a alguém que está presente.</p></div>
   <p class="autoria"><span class="autor">São Cirilo de Jerusalém</span><span class="sobre-autor">, bispo de Jerusalém (c. 313–386), Doutor da Igreja</span><br><span class="obra"><em>Catequeses aos que vão ser iluminados (Catecheses ad illuminandos)</em>, Catequese 11, 16</span> · <a href="https://khazarzar.skeptik.net/pgm/PG_Migne/Cyrillus%20Hierosolymitanus_PG%2033/Catecheses%20ad%20illuminandos.pdf" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São Francisco de Sales</span></summary>
   <div class="comentario-texto"><p>E de fato ele orna os céus com o seu sopro, porque falou uma vez e ficou feito para sempre: ali não há alteração nem mudança de geração e de produção. Já vistes como os vidreiros fazem os vidros? Pegam a massa na ponta de um bastão furado, depois sopram, e o vidro se faz [...]. O céu foi feito por uma única palavra de Deus, e com o sopro do seu espírito ele ornou os céus, tirando-os do nada; soprou e fez o sol, a lua, o Órion [...].</p></div>
   <p class="autoria"><span class="autor">São Francisco de Sales</span><span class="sobre-autor">, bispo de Genebra (1567–1622), Doutor da Igreja</span><br><span class="obra"><em>Sermão de 1612, sobre Jó 26,13 (Sermons)</em>, Œuvres, ed. de Annecy, t. VIII, pp. 90–91</span> · <a href="https://archive.org/details/oeuvresdesaintfr08fran/page/90/mode/1up" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São Francisco de Sales</span></summary>
   <div class="comentario-texto"><p>Deus diz como faz e faz como diz. Com isso ele nos mostra que não basta falar bem: é preciso ajustar os efeitos aos nossos propósitos e as obras às nossas palavras, se queremos agradar a ele. E assim como o dizer dele é fazer, ele quer que o nosso dizer seja logo seguido do fazer e da execução do nosso bom propósito.</p></div>
   <p class="autoria"><span class="autor">São Francisco de Sales</span><span class="sobre-autor">, bispo de Genebra (1567–1622), Doutor da Igreja</span><br><span class="obra"><em>Sermão da festa da Purificação, 1620 (Sermons)</em>, Œuvres, ed. de Annecy, t. IX, p. 250</span> · <a href="https://archive.org/details/oeuvresdesaintfr09fran/page/250/mode/1up" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Santo Afonso Maria de Ligório</span></summary>
   <div class="comentario-texto"><p>Assim como bastou a Deus, ao criar o mundo, dizer a palavra, e o mundo foi criado («Porque ele disse, e as coisas foram feitas»), assim basta ao sacerdote dizer sobre o pão: «Isto é o meu corpo», e eis que o pão já não é pão, mas é o corpo de Jesus Cristo.</p></div>
   <p class="autoria"><span class="autor">Santo Afonso Maria de Ligório</span><span class="sobre-autor">, bispo e fundador dos redentoristas (1696–1787), Doutor da Igreja</span><br><span class="obra"><em>Selva de matérias para pregar (Selva di materie predicabili, 1760)</em>, Parte I, cap. I (a dignidade do sacerdote)</span> · <a href="https://archive.org/details/opere-ascetiche-di-alfonso-maria-de-liguori-volume-3" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São John Henry Newman</span></summary>
   <div class="comentario-texto"><p>Quando o homem faz uma coisa, é um esforço da parte dele que passa a um resultado; quando Deus cria, é pelo seu «faça-se», por uma palavra que desemboca numa obra. Ele não faz: ele diz «Que seja feito». O estilo hebraico exprime com exatidão esse sinal da majestade divina. O salmista não diz «Ele falou, e fez», mas «Ele falou, e foi feito». Da parte dele houve só uma palavra, mas uma Palavra substancial, com a obra colada a ela como a sombra que a acompanha. Do mesmo modo, parece fiel ao que a Escritura afirma sobre o assunto dizer que ele não nos faz justos: ele nos chama justos, e no mesmo instante somos feitos justos.</p></div>
   <p class="autoria"><span class="autor">São John Henry Newman</span><span class="sobre-autor">, cardeal (1801–1890), Doutor da Igreja; este texto é de 1838, quando ainda era anglicano</span><br><span class="obra"><em>Lições sobre a justificação (Lectures on Justification)</em>, Lição 4</span> · <a href="https://www.newmanreader.org/works/justification/lecture4.html" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Bento XVI</span></summary>
   <div class="comentario-texto"><p>A criação nasce do Logos e traz, de modo indelével, a marca da Razão criadora que ordena e guia. É desta alegre certeza que cantam os salmos: «Pela palavra do Senhor foram feitos os céus, pelo sopro da sua boca todo o seu exército» (Sl 33,6); e ainda: «Ele falou, e tudo foi criado; ordenou, e tudo se cumpriu» (Sl 33,9).</p></div>
   <p class="autoria"><span class="autor">Bento XVI</span><span class="sobre-autor">, papa (1927–2022)</span><br><span class="obra"><em>A Palavra do Senhor (Verbum Domini), exortação apostólica</em>, n. 8</span> · <a href="https://www.vatican.va/content/benedict-xvi/it/apost_exhortations/documents/hf_ben-xvi_exh_20100930_verbum-domini.html" rel="noopener">texto original</a></p>
-</article>
+</details>
 </div>
 <nav class="passos" aria-label="Navegação entre temas"><a class="passo ant" href="/biblia/salmos/33/comentarios/ceus-apostolos/" rel="prev"><span class="dir">← Anterior</span><span class="alvo">Os céus que regam a terra: apóstolos e mártires</span></a><a class="passo seg" href="/biblia/salmos/33/comentarios/odre-e-abismos/" rel="next"><span class="dir">Seguinte →</span><span class="alvo">O mar recolhido e os abismos</span></a></nav>
 </article>

@@ -8,8 +8,9 @@
 <meta name="description" content="Nada se compara a Deus, e a sua força se vê quando ele livra o pobre do mais forte.">
 <meta name="color-scheme" content="light dark">
 <link rel="icon" href="/biblia/favicon.svg" type="image/svg+xml">
-<link rel="stylesheet" href="/biblia/css/estilo.css?v=28b77982">
-<script defer src="/biblia/js/biblia.js?v=59ac4c4e"></script>
+<script src="/biblia/js/preferencias.js?v=e879b9fe"></script>
+<link rel="stylesheet" href="/biblia/css/estilo.css?v=0bc11739">
+<script defer src="/biblia/js/biblia.js?v=38a000ee"></script>
 </head>
 <body class="pag-tema">
 <a class="pular" href="#app">Ir para o conteúdo</a>
@@ -17,6 +18,19 @@
   <div class="topo-int">
     <a class="marca" href="/biblia/">Bíblia</a>
     <nav class="trilha" aria-label="Trilha de navegação"><a href="/biblia/salmos/">Salmos</a><span class="sep">›</span><a href="/biblia/salmos/35/">Salmo 35</a><span class="sep">›</span><a href="/biblia/salmos/35/comentarios/">Comentários</a><span class="sep">›</span><span aria-current="page">Senhor, quem é semelhante a ti?</span></nav>
+    <div class="ferramentas">
+      <button type="button" class="ferr so-js" id="letra-menor" aria-label="Letra menor" title="Letra menor"><span class="a-menor">A</span>−</button>
+      <button type="button" class="ferr so-js" id="letra-maior" aria-label="Letra maior" title="Letra maior"><span class="a-maior">A</span>+</button>
+      <button type="button" class="ferr so-js" id="trocar-tema" aria-label="Modo claro ou escuro" title="Modo claro ou escuro"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="8.5" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M12 3.5a8.5 8.5 0 0 1 0 17z" fill="currentColor"/></svg></button>
+      <a class="ferr" id="botao-leituras" href="/biblia/leituras/" aria-label="Leituras" title="Leituras"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path class="fita" d="M6.5 3.5h11v17l-5.5-4-5.5 4z" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/></svg></a>
+      <div class="menu-leitura" id="menu-leitura" hidden>
+        <p class="menu-titulo">Leitura aberta</p>
+        <p class="menu-nome" id="menu-nome"></p>
+        <p class="menu-pos" id="menu-pos"></p>
+        <a class="menu-item" href="/biblia/leituras/">Ver as leituras</a>
+        <button type="button" class="menu-item" id="fechar-leitura">Fechar esta leitura</button>
+      </div>
+    </div>
   </div>
 </header>
 <main id="app" tabindex="-1">
@@ -29,30 +43,36 @@
 </header>
 <blockquote class="versos-tema"><p class="poesia"><span class="linha"><span class="calha"><span class="num">10</span></span><span class="txt">Todos os meus ossos dirão:</span></span><span class="linha"><span class="calha"></span><span class="txt">Senhor, quem é semelhante a ti,</span></span><span class="linha"><span class="calha"></span><span class="txt">que livras o pobre do mais forte que ele,</span></span><span class="linha"><span class="calha"></span><span class="txt">o pobre e o necessitado de quem os despoja?</span></span></p></blockquote>
 <div class="comentarios">
-<article class="comentario">
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Santo Agostinho</span></summary>
   <div class="comentario-texto"><p>E daí talvez se voltem para uma criatura mais alta e me digam: «Adora a lua, adora este sol, que com a sua luz, como uma grande lâmpada, faz o dia a partir do céu». E aqui também digo com toda a clareza: «Senhor, quem é semelhante a ti?». A lua e as estrelas, tu as fizeste; o sol do dia, tu o acendeste; o céu, tu o compuseste. Há muitas coisas invisíveis, melhores. Mas talvez aqui também me digam: «Presta culto aos anjos, adora os anjos». E aqui também direi: «Senhor, quem é semelhante a ti?». Também os anjos, tu os criaste. Os anjos não são nada senão vendo-te. É melhor possuir-te com eles do que, adorando-os, cair longe de ti.</p></div>
   <p class="autoria"><span class="autor">Santo Agostinho</span><span class="sobre-autor">, bispo de Hipona (354–430), Doutor da Igreja</span><br><span class="obra"><em>Comentários aos Salmos (Enarrationes in Psalmos)</em>, Sl 34, sermão 1, 13</span> · <a href="https://www.augustinus.it/latino/esposizioni_salmi/esposizione_salmo_046_testo.htm" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São Francisco de Sales</span></summary>
   <div class="comentario-texto"><p>Um amigo desejaria que o seu amigo fosse rei. Quando ele o é, embora deixe de desejar, não é menos amigo; mas, no lugar do desejo, faz um ato de contentamento, de satisfação e de alegria pela dignidade que o amigo possui. Assim, em vez de desejar bem a Deus, a gente se compraz e se alegra no bem que ele possui e que ele mesmo é. O amor de benevolência se transforma em amor de complacência. É desse amor que fala Davi: «Como é grande a abundância da vossa doçura!»; «Todos os meus ossos dirão: Senhor, quem é semelhante a vós?».</p></div>
   <p class="autoria"><span class="autor">São Francisco de Sales</span><span class="sobre-autor">, bispo de Genebra (1567–1622), Doutor da Igreja</span><br><span class="obra"><em>Exortação ao serviço de Deus (Exhortation au service de Dieu), 1594</em>, Sermão autógrafo sobre o Sl 133,1 («Ecce nunc benedicite Dominum»)</span> · <a href="https://archive.org/details/oeuvresdesaintfr07fran/page/199/mode/1up" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São Tomás de Aquino</span></summary>
   <div class="comentario-texto"><p>Diz, então: «todos os meus ossos». Toda a força do homem, comparada com Deus, é fraqueza; por isso, quanto mais alguém conhece a Deus, tanto menos julga ser a sua própria força. Mas, como se poderia pensar que só o que é fraco em nós não se compara a Deus, e não o que é firme, ele mostra que não é assim: tudo o que é firme, por mais firme que seja, não se compara a Deus. (...) Alguém parece forte quando livra um fraco de um poderoso: isso é próprio de grande fortaleza. E é isso que Deus faz neste mundo.</p></div>
   <p class="autoria"><span class="autor">São Tomás de Aquino</span><span class="sobre-autor">, dominicano (1225–1274), Doutor da Igreja</span><br><span class="obra"><em>Comentário aos Salmos (Postilla super Psalmos)</em>, Sl 34, n. 7 (v. 10)</span> · <a href="https://www.corpusthomisticum.org/cps31.html" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Santo Agostinho</span></summary>
   <div class="comentario-texto"><p>Quem é que livra, senão aquele que é forte de mão? Aquele Davi livrará o pobre da mão dos mais fortes do que ele. Pois o diabo tinha sido mais forte para te prender, porque foi ele quem venceu, ele a quem deste consentimento. Mas que fez o forte de mão? Ninguém entra na casa do forte para roubar os seus bens se antes não amarrar o forte. Com o seu poder santíssimo e magnífico, amarrou o diabo, desembainhando a espada para lhe fechar o caminho, a fim de livrar o pobre e o necessitado, que não tinha quem o ajudasse. Pois quem é o teu auxílio, senão o Senhor, a quem dizes: «Senhor, meu auxílio e meu redentor»? Se quiseres confiar nas tuas forças, cairás por onde confiaste; se nas de outro, ele quer dominar, não socorrer. Portanto, só ele deve ser procurado, que resgatou e fez livres, que deu o seu sangue para comprá-los e fez dos seus servos irmãos.</p></div>
   <p class="autoria"><span class="autor">Santo Agostinho</span><span class="sobre-autor">, bispo de Hipona (354–430), Doutor da Igreja</span><br><span class="obra"><em>Comentários aos Salmos (Enarrationes in Psalmos)</em>, Sl 34, sermão 1, 15</span> · <a href="https://www.augustinus.it/latino/esposizioni_salmi/esposizione_salmo_046_testo.htm" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Santo Afonso Maria de Ligório</span></summary>
   <div class="comentario-texto"><p>Davi, considerando a grandeza e a majestade de Deus, dizia: «Senhor, quem é semelhante a vós?» (Sl 34,10). Mas Deus, por sua vez, quando se vê posto pelos pecadores em comparação com uma satisfação miserável, e posto abaixo dela, lhes diz: «A quem me comparastes e igualastes? diz o Santo» (Is 40,25). Então (diz o Senhor) valia mais aquele gosto vil do que a minha graça?</p></div>
   <p class="autoria"><span class="autor">Santo Afonso Maria de Ligório</span><span class="sobre-autor">, bispo de Sant'Agata dei Goti (1696–1787), fundador dos Redentoristas, Doutor da Igreja</span><br><span class="obra"><em>Preparação para a morte (Apparecchio alla morte)</em>, Consideração XV, «A malícia do pecado mortal», ponto II</span> · <a href="https://www.intratext.com/IXT/ITASA0000/_P38.HTM" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Santo Afonso Maria de Ligório</span></summary>
   <div class="comentario-texto"><p>Davi, considerando a grandeza divina e vendo que não podia nem jamais poderia chegar a compreendê-la, não sabia dizer outra coisa senão: «Deus, quem é semelhante a vós?» (Sl 34,10). Senhor, que grandeza pode haver semelhante à vossa? Mas como Davi poderia compreendê-la, se a sua mente era finita e a grandeza de Deus é infinita? […] Pois este Deus tão grande se fez menino pequeno; e por quem? «Um menino nasceu para nós»: por nós.</p></div>
   <p class="autoria"><span class="autor">Santo Afonso Maria de Ligório</span><span class="sobre-autor">, bispo de Sant'Agata dei Goti (1696–1787), fundador dos Redentoristas, Doutor da Igreja</span><br><span class="obra"><em>Novena do Santo Natal (Novena del Santo Natale)</em>, Discurso II, «O Verbo eterno, de grande, se fez pequeno»</span> · <a href="https://www.intratext.com/IXT/ITASA0000/_P2NA.HTM" rel="noopener">texto original</a></p>
-</article>
+</details>
 </div>
 <nav class="passos" aria-label="Navegação entre temas"><a class="passo ant" href="/biblia/salmos/35/comentarios/exultar-no-senhor/" rel="prev"><span class="dir">← Anterior</span><span class="alvo">A alma exulta no Senhor</span></a><a class="passo seg" href="/biblia/salmos/35/comentarios/todos-os-ossos/" rel="next"><span class="dir">Seguinte →</span><span class="alvo">Todos os meus ossos dirão</span></a></nav>
 </article>

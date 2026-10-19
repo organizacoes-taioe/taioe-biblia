@@ -8,8 +8,9 @@
 <meta name="description" content="A vida e a alma, que se têm uma vez só; e a alma de Cristo, que nunca foi escrava do pecado.">
 <meta name="color-scheme" content="light dark">
 <link rel="icon" href="/biblia/favicon.svg" type="image/svg+xml">
-<link rel="stylesheet" href="/biblia/css/estilo.css?v=28b77982">
-<script defer src="/biblia/js/biblia.js?v=59ac4c4e"></script>
+<script src="/biblia/js/preferencias.js?v=e879b9fe"></script>
+<link rel="stylesheet" href="/biblia/css/estilo.css?v=0bc11739">
+<script defer src="/biblia/js/biblia.js?v=38a000ee"></script>
 </head>
 <body class="pag-tema">
 <a class="pular" href="#app">Ir para o conteúdo</a>
@@ -17,6 +18,19 @@
   <div class="topo-int">
     <a class="marca" href="/biblia/">Bíblia</a>
     <nav class="trilha" aria-label="Trilha de navegação"><a href="/biblia/salmos/">Salmos</a><span class="sep">›</span><a href="/biblia/salmos/35/">Salmo 35</a><span class="sep">›</span><a href="/biblia/salmos/35/comentarios/">Comentários</a><span class="sep">›</span><span aria-current="page">A única que eu tenho</span></nav>
+    <div class="ferramentas">
+      <button type="button" class="ferr so-js" id="letra-menor" aria-label="Letra menor" title="Letra menor"><span class="a-menor">A</span>−</button>
+      <button type="button" class="ferr so-js" id="letra-maior" aria-label="Letra maior" title="Letra maior"><span class="a-maior">A</span>+</button>
+      <button type="button" class="ferr so-js" id="trocar-tema" aria-label="Modo claro ou escuro" title="Modo claro ou escuro"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="8.5" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M12 3.5a8.5 8.5 0 0 1 0 17z" fill="currentColor"/></svg></button>
+      <a class="ferr" id="botao-leituras" href="/biblia/leituras/" aria-label="Leituras" title="Leituras"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path class="fita" d="M6.5 3.5h11v17l-5.5-4-5.5 4z" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/></svg></a>
+      <div class="menu-leitura" id="menu-leitura" hidden>
+        <p class="menu-titulo">Leitura aberta</p>
+        <p class="menu-nome" id="menu-nome"></p>
+        <p class="menu-pos" id="menu-pos"></p>
+        <a class="menu-item" href="/biblia/leituras/">Ver as leituras</a>
+        <button type="button" class="menu-item" id="fechar-leitura">Fechar esta leitura</button>
+      </div>
+    </div>
   </div>
 </header>
 <main id="app" tabindex="-1">
@@ -29,18 +43,21 @@
 </header>
 <blockquote class="versos-tema"><p class="poesia"><span class="linha"><span class="calha"><span class="num">17</span></span><span class="txt">Senhor, até quando ficarás olhando?</span></span><span class="linha"><span class="calha"></span><span class="txt">Livra a minha vida das suas devastações,</span></span><span class="linha"><span class="calha"></span><span class="txt">dos leões jovens a única que eu tenho.</span></span></p></blockquote>
 <div class="comentarios">
-<article class="comentario">
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São Roberto Belarmino</span></summary>
   <div class="comentario-texto"><p>«Dos leões a minha única», isto é: devolve-me a vida, que para mim é única e, por isso, a mais querida; e o farás arrancando-a do poder dos inimigos, que pela crueldade e ferocidade podem ser chamados leões (...). Com razão a alma é chamada «única», como quem diz «amada acima de tudo». Pois a vida temporal é o fundamento de todos os bens temporais, e a vida eterna, de todos os bens sem mais. Por isso diz o Senhor no Evangelho (Mt 16): «Que adianta ao homem ganhar o mundo inteiro, se perder a sua alma? Ou que dará o homem em troca da sua alma?». E, no entanto, muitos são tão insensatos que perdem de boa vontade, por nada, a alma que deveriam amar acima de tudo.</p></div>
   <p class="autoria"><span class="autor">São Roberto Belarmino</span><span class="sobre-autor">, jesuíta (1542–1621), cardeal, Doutor da Igreja</span><br><span class="obra"><em>Explicação dos Salmos (Explanatio in Psalmos)</em>, Sl 34, v. 20 (para Belarmino)</span> · <a href="https://archive.org/details/operaomnia10bell" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Arnóbio, o Jovem</span></summary>
   <div class="comentario-texto"><p>Tu, faze o que é teu, e clama: «Senhor, quando olharás? Livra a minha alma das suas más ações, dos leões a minha única». Uma só é a nossa alma, no número e no amor. (...) Pois os demônios nos falam todo dia em tom de paz. Coisa de paz parece o fruto do desejo; mas por baixo tramam o engano, como a isca no anzol: doce à vista, mortal ao gosto.</p></div>
   <p class="autoria"><span class="autor">Arnóbio, o Jovem</span><span class="sobre-autor">, monge e comentador dos Salmos (séc. V); escritor eclesiástico, não canonizado</span><br><span class="obra"><em>Comentários aos Salmos (Commentarii in Psalmos)</em>, Sl 34, comentário</span> · <a href="https://mlat.uzh.ch/browser/cps_2.ArnJun.CoInPs" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Dídimo, o Cego</span></summary>
   <div class="comentario-texto"><p>As nossas almas passam a pertencer a quem as domina: cada um é escravo daquilo que o venceu. [...] Como a alma de Jesus «foi provada em tudo, à nossa semelhança, sem pecado», nunca pertenceu a nenhum outro senão àquele que a assumiu. Por isso ele a chama «a minha única».</p></div>
   <p class="autoria"><span class="autor">Dídimo, o Cego</span><span class="sobre-autor">, mestre da escola de Alexandria (c. 313–398); escritor eclesiástico, não canonizado</span><br><span class="obra"><em>Comentário aos Salmos (papiro de Tura)</em>, Sl 34, v. 17 (papiro de Tura, pág. 221)</span> · <a href="https://khazarzar.skeptik.net/pgm/PG_Migne/Didymus%20the%20Blind_PG%2039/Commentarii%20in%20Psalmos.pdf" rel="noopener">texto original</a></p>
-</article>
+</details>
 </div>
 <nav class="passos" aria-label="Navegação entre temas"><a class="passo ant" href="/biblia/salmos/35/comentarios/ate-quando/" rel="prev"><span class="dir">← Anterior</span><span class="alvo">Até quando, Senhor?</span></a><a class="passo seg" href="/biblia/salmos/35/comentarios/a-grande-assembleia/" rel="next"><span class="dir">Seguinte →</span><span class="alvo">Na grande assembleia</span></a></nav>
 </article>

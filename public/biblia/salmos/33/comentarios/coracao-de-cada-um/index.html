@@ -8,8 +8,9 @@
 <meta name="description" content="Deus formou o coração de cada pessoa, e por isso o conhece por dentro: as intenções, e não só os gestos.">
 <meta name="color-scheme" content="light dark">
 <link rel="icon" href="/biblia/favicon.svg" type="image/svg+xml">
-<link rel="stylesheet" href="/biblia/css/estilo.css?v=28b77982">
-<script defer src="/biblia/js/biblia.js?v=59ac4c4e"></script>
+<script src="/biblia/js/preferencias.js?v=e879b9fe"></script>
+<link rel="stylesheet" href="/biblia/css/estilo.css?v=0bc11739">
+<script defer src="/biblia/js/biblia.js?v=38a000ee"></script>
 </head>
 <body class="pag-tema">
 <a class="pular" href="#app">Ir para o conteúdo</a>
@@ -17,6 +18,19 @@
   <div class="topo-int">
     <a class="marca" href="/biblia/">Bíblia</a>
     <nav class="trilha" aria-label="Trilha de navegação"><a href="/biblia/salmos/">Salmos</a><span class="sep">›</span><a href="/biblia/salmos/33/">Salmo 33</a><span class="sep">›</span><a href="/biblia/salmos/33/comentarios/">Comentários</a><span class="sep">›</span><span aria-current="page">Deus formou os corações</span></nav>
+    <div class="ferramentas">
+      <button type="button" class="ferr so-js" id="letra-menor" aria-label="Letra menor" title="Letra menor"><span class="a-menor">A</span>−</button>
+      <button type="button" class="ferr so-js" id="letra-maior" aria-label="Letra maior" title="Letra maior"><span class="a-maior">A</span>+</button>
+      <button type="button" class="ferr so-js" id="trocar-tema" aria-label="Modo claro ou escuro" title="Modo claro ou escuro"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="8.5" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M12 3.5a8.5 8.5 0 0 1 0 17z" fill="currentColor"/></svg></button>
+      <a class="ferr" id="botao-leituras" href="/biblia/leituras/" aria-label="Leituras" title="Leituras"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path class="fita" d="M6.5 3.5h11v17l-5.5-4-5.5 4z" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/></svg></a>
+      <div class="menu-leitura" id="menu-leitura" hidden>
+        <p class="menu-titulo">Leitura aberta</p>
+        <p class="menu-nome" id="menu-nome"></p>
+        <p class="menu-pos" id="menu-pos"></p>
+        <a class="menu-item" href="/biblia/leituras/">Ver as leituras</a>
+        <button type="button" class="menu-item" id="fechar-leitura">Fechar esta leitura</button>
+      </div>
+    </div>
   </div>
 </header>
 <main id="app" tabindex="-1">
@@ -29,22 +43,26 @@
 </header>
 <blockquote class="versos-tema"><p class="poesia"><span class="linha"><span class="calha"><span class="num">15</span></span><span class="txt">ele, que formou o coração de todos eles</span></span><span class="linha"><span class="calha"></span><span class="txt">e compreende todas as suas obras.</span></span></p></blockquote>
 <div class="comentarios">
-<article class="comentario">
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Santo Agostinho</span></summary>
   <div class="comentario-texto"><p>Com a mão da sua graça, com a mão da sua misericórdia, formou os corações, modelou os nossos corações; formou-os um a um, dando a cada um de nós um coração próprio, que, no entanto, não rompe a unidade. Assim como os membros foram todos formados um a um e cada um tem a sua função, e contudo vivem na unidade do corpo — a mão faz o que o olho não faz, o ouvido pode o que nem o olho nem a mão podem; todos, porém, agem na unidade, e a mão, o olho e o ouvido fazem coisas diferentes sem se opor uns aos outros —, assim também no corpo de Cristo cada pessoa, como um membro, se alegra com os seus dons, porque aquele que escolheu o povo como sua herança formou um a um os seus corações.</p></div>
   <p class="autoria"><span class="autor">Santo Agostinho</span><span class="sobre-autor">, bispo de Hipona (354–430), Doutor da Igreja</span><br><span class="obra"><em>Comentários aos Salmos (Enarrationes in Psalmos)</em>, Sl 32, comentário 2, sermão 2, 21</span> · <a href="https://www.augustinus.it/latino/esposizioni_salmi/esposizione_salmo_043_testo.htm" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São Basílio Magno</span></summary>
   <div class="comentario-texto"><p>Ele está tão longe de não ver cada um em particular, que vê até os corações, que ele mesmo formou sem mistura com o pior. Deus, o criador dos homens, formou o coração simples, guardando em si a imagem; nós é que depois o tornamos variado e complicado, enredando-o com as paixões da carne, e destruímos o que nele havia de semelhante a Deus, de simples e de uniforme. Por ser o criador dos corações, ele entende todas as nossas obras.</p></div>
   <p class="autoria"><span class="autor">São Basílio Magno</span><span class="sobre-autor">, bispo de Cesareia da Capadócia (c. 330–379), Doutor da Igreja</span><br><span class="obra"><em>Homilia sobre o Salmo 32 (Homiliae in Psalmos)</em>, Hom. Sl 32, 8</span> · <a href="https://khazarzar.skeptik.net/pgm/PG_Migne/Basilius%20Caesariensis_PG%2029-32/Homiliae%20super%20Psalmos.pdf" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Santo Agostinho</span></summary>
   <div class="comentario-texto"><p>O homem vê a ação do homem pelo movimento do corpo; Deus, porém, vê no coração. Porque vê por dentro, foi dito: «compreende todas as suas obras». Dois dão esmola aos pobres: um busca para si a recompensa do céu, o outro o louvor dos homens. Tu, nos dois, vês uma só coisa; Deus compreende duas: compreende por dentro e conhece por dentro, vê os fins de cada um, vê as próprias intenções.</p></div>
   <p class="autoria"><span class="autor">Santo Agostinho</span><span class="sobre-autor">, bispo de Hipona (354–430), Doutor da Igreja</span><br><span class="obra"><em>Comentários aos Salmos (Enarrationes in Psalmos)</em>, Sl 32, comentário 2, sermão 2, 22</span> · <a href="https://www.augustinus.it/latino/esposizioni_salmi/esposizione_salmo_043_testo.htm" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São João Crisóstomo</span></summary>
   <div class="comentario-texto"><p>Tudo isso está fora do alcance dos homens, mas não do olho que nunca dorme: ainda que enganemos os homens, a ele jamais enganaremos. Não digas, pois: «As trevas me cercam, e as paredes: quem me vê?». Aquele que formou um a um os nossos corações sabe tudo, porque para ele as trevas não são escuras. E o pecador diz bem: «As trevas me cercam, e as paredes»; pois, se não houvesse trevas na sua mente, não teria expulsado o temor de Deus para agir sem medo.</p></div>
   <p class="autoria"><span class="autor">São João Crisóstomo</span><span class="sobre-autor">, bispo de Constantinopla (c. 349–407), Doutor da Igreja</span><br><span class="obra"><em>Homilias sobre a Primeira Carta aos Coríntios</em>, Homilia 11 sobre 1 Coríntios, 3</span> · <a href="https://khazarzar.skeptik.net/pgm/PG_Migne/John%20Chrysostom_PG%2047-64/In%20epistulam%20i%20ad%20Corinthios.pdf" rel="noopener">texto original</a></p>
-</article>
+</details>
 </div>
 <nav class="passos" aria-label="Navegação entre temas"><a class="passo ant" href="/biblia/salmos/33/comentarios/olhar-de-deus/" rel="prev"><span class="dir">← Anterior</span><span class="alvo">O olhar de Deus</span></a><a class="passo seg" href="/biblia/salmos/33/comentarios/rei-gigante-cavalo/" rel="next"><span class="dir">Seguinte →</span><span class="alvo">Nem rei, nem gigante, nem cavalo</span></a></nav>
 </article>

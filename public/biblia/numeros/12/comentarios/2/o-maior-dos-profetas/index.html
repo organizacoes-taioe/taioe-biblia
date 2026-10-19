@@ -8,8 +8,9 @@
 <meta name="description" content="Aos profetas, Deus fala em visões e sonhos; a Moisés, claramente. E em Cristo, mais ainda.">
 <meta name="color-scheme" content="light dark">
 <link rel="icon" href="/biblia/favicon.svg" type="image/svg+xml">
-<link rel="stylesheet" href="/biblia/css/estilo.css?v=28b77982">
-<script defer src="/biblia/js/biblia.js?v=59ac4c4e"></script>
+<script src="/biblia/js/preferencias.js?v=e879b9fe"></script>
+<link rel="stylesheet" href="/biblia/css/estilo.css?v=0bc11739">
+<script defer src="/biblia/js/biblia.js?v=38a000ee"></script>
 </head>
 <body class="pag-tema">
 <a class="pular" href="#app">Ir para o conteúdo</a>
@@ -17,6 +18,19 @@
   <div class="topo-int">
     <a class="marca" href="/biblia/">Bíblia</a>
     <nav class="trilha" aria-label="Trilha de navegação"><a href="/biblia/numeros/">Números</a><span class="sep">›</span><a href="/biblia/numeros/12/">Números 12</a><span class="sep">›</span><a href="/biblia/numeros/12/comentarios/2/">Comentários</a><span class="sep">›</span><span aria-current="page">Visões, sonhos e o maior dos profetas</span></nav>
+    <div class="ferramentas">
+      <button type="button" class="ferr so-js" id="letra-menor" aria-label="Letra menor" title="Letra menor"><span class="a-menor">A</span>−</button>
+      <button type="button" class="ferr so-js" id="letra-maior" aria-label="Letra maior" title="Letra maior"><span class="a-maior">A</span>+</button>
+      <button type="button" class="ferr so-js" id="trocar-tema" aria-label="Modo claro ou escuro" title="Modo claro ou escuro"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="8.5" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M12 3.5a8.5 8.5 0 0 1 0 17z" fill="currentColor"/></svg></button>
+      <a class="ferr" id="botao-leituras" href="/biblia/leituras/" aria-label="Leituras" title="Leituras"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path class="fita" d="M6.5 3.5h11v17l-5.5-4-5.5 4z" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/></svg></a>
+      <div class="menu-leitura" id="menu-leitura" hidden>
+        <p class="menu-titulo">Leitura aberta</p>
+        <p class="menu-nome" id="menu-nome"></p>
+        <p class="menu-pos" id="menu-pos"></p>
+        <a class="menu-item" href="/biblia/leituras/">Ver as leituras</a>
+        <button type="button" class="menu-item" id="fechar-leitura">Fechar esta leitura</button>
+      </div>
+    </div>
   </div>
 </header>
 <main id="app" tabindex="-1">
@@ -29,34 +43,41 @@
 </header>
 <blockquote class="versos-tema"><p class="poesia"><span class="linha"><span class="calha"><span class="num">6</span></span><span class="txt">Ele disse: Ouvi as minhas palavras.</span></span><span class="linha"><span class="calha"></span><span class="txt">Se houver entre vós um profeta,</span></span><span class="linha"><span class="calha"></span><span class="txt">eu, o Senhor, em visão me revelarei a ele,</span></span><span class="linha"><span class="calha"></span><span class="txt">em sonho falarei com ele.</span></span></p><p class="poesia"><span class="linha"><span class="calha"><span class="num">7</span></span><span class="txt">Não é assim com o meu servo Moisés,</span></span><span class="linha"><span class="calha"></span><span class="txt">que é fiel em toda a minha casa:</span></span></p><p class="poesia"><span class="linha"><span class="calha"><span class="num">8</span></span><span class="txt">boca a boca falo com ele,</span></span><span class="linha"><span class="calha"></span><span class="txt">com clareza, e não por enigmas,</span></span><span class="linha"><span class="calha"></span><span class="txt">e ele contempla a figura do Senhor.</span></span><span class="linha"><span class="calha"></span><span class="txt">Por que, então, não temestes falar contra o meu servo Moisés?</span></span></p></blockquote>
 <div class="comentarios">
-<article class="comentario">
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São Tomás de Aquino</span></summary>
   <div class="comentario-texto"><p>Respondo que, embora algum outro profeta tenha sido maior que Moisés em algum ponto, Moisés, pura e simplesmente, foi maior que todos. [...] Moisés foi superior aos outros, primeiro, na visão intelectual, porque viu a própria essência de Deus, como Paulo no arrebatamento, segundo diz Agostinho (Comentário literal ao Gênesis XII). Por isso se diz em Números 12 que ele vê a Deus claramente, e não por enigmas. Segundo, na visão imaginativa, que tinha quase quando queria, não só ouvindo as palavras, mas também vendo quem falava, até sob a figura de Deus, e não só dormindo, mas também acordado.</p></div>
   <p class="autoria"><span class="autor">São Tomás de Aquino</span><span class="sobre-autor">, dominicano (1225–1274), Doutor da Igreja</span><br><span class="obra"><em>Suma Teológica (Summa Theologiae)</em>, II-II, q. 174, a. 4, resp.</span> · <a href="https://www.corpusthomisticum.org/sth3171.html" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São Tomás de Aquino</span></summary>
   <div class="comentario-texto"><p>O primeiro modo de ocultar é quando a verdade inteligível é revelada a alguém por uma visão da imaginação, segundo o que se diz em Números 12,6: «Se houver entre vós um profeta do Senhor, falarei com ele em sonho ou em visão; mas não é assim o meu servo Moisés: falo com ele boca a boca, e ele vê a Deus claramente, e não por enigmas». Moisés, portanto, ouviu essa palavra escondida como voz clara; os outros, como um sussurro.</p></div>
   <p class="autoria"><span class="autor">São Tomás de Aquino</span><span class="sobre-autor">, dominicano (1225–1274), Doutor da Igreja</span><br><span class="obra"><em>Comentário ao livro de Jó (Expositio super Iob ad litteram)</em>, Jó 4 (sobre Jó 4,12)</span> · <a href="https://www.corpusthomisticum.org/cio03.html" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Ruperto de Deutz</span></summary>
   <div class="comentario-texto"><p>Deviam conhecer a sua medida, para que, vendo a distância entre o menor e o maior, não se levantassem acima de si mesmos [...]. «Em visão», diz, «lhe aparecerei, ou em sonho lhe falarei.» Os sonhos trazem as imagens das coisas futuras e, se tiverem um intérprete prudente, são uma espécie de profecia: primeiro se veem as imagens ou figuras das coisas futuras, e depois, interpretando, se preveem em parte as próprias coisas [...]. «Mas não é assim o meu servo Moisés, que é o mais fiel em toda a minha casa.» Ele não vê primeiro as figuras em sonho para depois deduzir as coisas futuras; ao contrário, primeiro contempla de longe as próprias coisas futuras, e depois, por um tempo, as cobre e envolve com figuras e enigmas. [...] É como se dissesse: ele vê primeiro, com olhar claro, a ordem das coisas futuras; e, embora escreva enigmas e figuras, guarda dentro de si a verdade das coisas.</p></div>
   <p class="autoria"><span class="autor">Ruperto de Deutz</span><span class="sobre-autor">, abade beneditino (c. 1075–1129), teólogo</span><br><span class="obra"><em>A Trindade e as suas obras (De Trinitate et operibus eius), Comentário a Números (In Numeros)</em>, I, 34</span> · <a href="https://mlat.uzh.ch/browser/cps_2.RupTui.DeTrEtO" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Santo Ambrósio</span></summary>
   <div class="comentario-texto"><p>Quanto vale cada um no seu próprio ofício, a leitura que com razão te impressionou deve servir de exemplo: aquele Moisés, que viu a Deus mais de perto do que ninguém, e depois do qual não surgiu em Israel profeta que visse a Deus face a face como ele, [...] aparece aprovando mais o conselho do irmão Aarão do que o seu. Houve então alguém mais prudente e mais instruído do que Moisés? E, no entanto, lemos que o próprio Aarão, mais tarde, errou com Maria a respeito da etíope. Examina com cuidado onde Moisés prevalece pelo conhecimento e onde Aarão pelo conselho. [...] Na causa da profecia, Moisés é preferido, como profeta; mas onde se trata da causa, do encargo e do ofício do sacerdócio, Aarão é preferido, como sacerdote.</p></div>
   <p class="autoria"><span class="autor">Santo Ambrósio</span><span class="sobre-autor">, bispo de Milão (c. 339–397), Doutor da Igreja</span><br><span class="obra"><em>Cartas (Epistulae), 67, a Simpliciano</em>, Ep. 67, 1–2</span> · <a href="https://mlat.uzh.ch/browser/cps_2.AmbMed.EpClIi" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São Cirilo de Alexandria</span></summary>
   <div class="comentario-texto"><p>Assim se guarda para Moisés o privilégio nas visões de Deus acima dos outros, e com razão se dá testemunho de que ele podia ouvir as palavras divinas de modo diferente. Mas isto poderás ver com mais verdade em Cristo. Pois Deus Pai não falou no Filho como falou nos profetas. Estes recebiam do Espírito o conhecimento do que deviam aprender; ele, porém, conhece sem ser ensinado os desígnios do Espírito, porque é a Sabedoria e o Conselho de quem o gerou. Os bem-aventurados profetas recebiam por enigmas a visão da glória de Deus, pois «ninguém jamais viu a Deus»; mas ele é visto pelo único que é Filho por natureza.</p></div>
   <p class="autoria"><span class="autor">São Cirilo de Alexandria</span><span class="sobre-autor">, bispo de Alexandria (c. 376–444), Doutor da Igreja</span><br><span class="obra"><em>Comentários elegantes ao Pentateuco (Glaphyra in Numeros)</em>, Glaph. in Num., 3</span> · <a href="https://khazarzar.skeptik.net/pgm/PG_Migne/Cyril%20of%20Alexandria_PG%2068-77/Glaphyra%20in%20Pentateuchum.pdf" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São John Henry Newman</span></summary>
   <div class="comentario-texto"><p>Em seguida, Cristo nos revela a vontade de Deus, como Moisés aos israelitas. Ele é o nosso Profeta, além de ser o nosso Redentor. Ninguém foi tão favorecido quanto Moisés nisso: antes de Cristo vir, só Moisés viu Deus face a face; todos os profetas depois dele apenas ouviram a sua voz ou o viram em visão. [...] Mas Moisés, em certo sentido, viu Deus e continuou vivo; foi assim que Deus o honrou. «Se houver um profeta entre vós», disse Deus Todo-Poderoso, «eu, o Senhor, me farei conhecer a ele numa visão e falarei com ele num sonho. Não é assim o meu servo Moisés, que é fiel em toda a minha casa. Com ele falarei boca a boca, às claras e não por enigmas, e ele verá a figura do Senhor» [Nm 12,6-8].</p></div>
   <p class="autoria"><span class="autor">São John Henry Newman</span><span class="sobre-autor">, cardeal (1801–1890), Doutor da Igreja</span><br><span class="obra"><em>Parochial and Plain Sermons, vol. VII</em>, sermão 9, «Moses the Type of Christ», n. 2</span> · <a href="https://www.newmanreader.org/works/parochial/volume7/sermon9.html" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Catecismo da Igreja Católica</span></summary>
   <div class="comentario-texto"><p>A oração de Moisés é o modelo da contemplação, graças à qual o servo de Deus se mantém fiel à sua missão. [...] «Eu o estabeleci sobre toda a minha casa! Falo com ele face a face, claramente e não por enigmas» (Nm 12,7-8), porque «Moisés era um homem muito humilde, mais que todos os homens que há sobre a face da terra» (Nm 12,3).</p></div>
   <p class="autoria"><span class="autor">Catecismo da Igreja Católica</span><br><span class="obra"><em>Catecismo da Igreja Católica</em>, § 2576</span> · <a href="https://www.vatican.va/archive/cathechism_po/index_new/p4s1cap1_2566-2649_po.html" rel="noopener">texto original</a></p>
-</article>
+</details>
 </div>
 <nav class="passos" aria-label="Navegação entre temas"><a class="passo ant" href="/biblia/numeros/12/comentarios/2/viu-a-deus/" rel="prev"><span class="dir">← Anterior</span><span class="alvo">Moisés viu a Deus?</span></a><a class="passo seg" href="/biblia/numeros/12/comentarios/2/lei-em-cristo/" rel="next"><span class="dir">Seguinte →</span><span class="alvo">Claramente, e não por enigmas: a Lei lida em Cristo</span></a></nav>
 </article>

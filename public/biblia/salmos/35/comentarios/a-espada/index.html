@@ -8,8 +8,9 @@
 <meta name="description" content="A arma que Deus brande é a alma do justo, e ela não fere nada se ele não a toma na mão.">
 <meta name="color-scheme" content="light dark">
 <link rel="icon" href="/biblia/favicon.svg" type="image/svg+xml">
-<link rel="stylesheet" href="/biblia/css/estilo.css?v=28b77982">
-<script defer src="/biblia/js/biblia.js?v=59ac4c4e"></script>
+<script src="/biblia/js/preferencias.js?v=e879b9fe"></script>
+<link rel="stylesheet" href="/biblia/css/estilo.css?v=0bc11739">
+<script defer src="/biblia/js/biblia.js?v=38a000ee"></script>
 </head>
 <body class="pag-tema">
 <a class="pular" href="#app">Ir para o conteúdo</a>
@@ -17,6 +18,19 @@
   <div class="topo-int">
     <a class="marca" href="/biblia/">Bíblia</a>
     <nav class="trilha" aria-label="Trilha de navegação"><a href="/biblia/salmos/">Salmos</a><span class="sep">›</span><a href="/biblia/salmos/35/">Salmo 35</a><span class="sep">›</span><a href="/biblia/salmos/35/comentarios/">Comentários</a><span class="sep">›</span><span aria-current="page">A lança na mão de Deus</span></nav>
+    <div class="ferramentas">
+      <button type="button" class="ferr so-js" id="letra-menor" aria-label="Letra menor" title="Letra menor"><span class="a-menor">A</span>−</button>
+      <button type="button" class="ferr so-js" id="letra-maior" aria-label="Letra maior" title="Letra maior"><span class="a-maior">A</span>+</button>
+      <button type="button" class="ferr so-js" id="trocar-tema" aria-label="Modo claro ou escuro" title="Modo claro ou escuro"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="8.5" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M12 3.5a8.5 8.5 0 0 1 0 17z" fill="currentColor"/></svg></button>
+      <a class="ferr" id="botao-leituras" href="/biblia/leituras/" aria-label="Leituras" title="Leituras"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path class="fita" d="M6.5 3.5h11v17l-5.5-4-5.5 4z" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/></svg></a>
+      <div class="menu-leitura" id="menu-leitura" hidden>
+        <p class="menu-titulo">Leitura aberta</p>
+        <p class="menu-nome" id="menu-nome"></p>
+        <p class="menu-pos" id="menu-pos"></p>
+        <a class="menu-item" href="/biblia/leituras/">Ver as leituras</a>
+        <button type="button" class="menu-item" id="fechar-leitura">Fechar esta leitura</button>
+      </div>
+    </div>
   </div>
 </header>
 <main id="app" tabindex="-1">
@@ -29,18 +43,21 @@
 </header>
 <blockquote class="versos-tema"><p class="poesia"><span class="linha"><span class="calha"><span class="num">3</span></span><span class="txt">Brande a lança e fecha o caminho aos que me perseguem;</span></span><span class="linha"><span class="calha"></span><span class="txt">dize à minha alma: Eu sou a tua salvação.</span></span></p></blockquote>
 <div class="comentarios">
-<article class="comentario">
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Santo Agostinho</span></summary>
   <div class="comentario-texto"><p>Portanto, chamou de espada de Deus a sua alma: «Livra», diz, «a minha alma dos ímpios», isto é: livra a tua espada dos inimigos da tua mão. Pois tu empunhas a minha alma e derrotas os meus inimigos. E que é a nossa alma, por mais brilhante, por mais bem forjada, por mais afiada, por mais untada, por mais que vibre com a luz e o fulgor da sabedoria? Que é a nossa alma, ou que pode ela, se Deus não a segura e não combate com ela? Pois qualquer espada, por mais bem-feita que seja, fica no chão se não tiver quem lute com ela.</p></div>
   <p class="autoria"><span class="autor">Santo Agostinho</span><span class="sobre-autor">, bispo de Hipona (354–430), Doutor da Igreja</span><br><span class="obra"><em>Comentários aos Salmos (Enarrationes in Psalmos)</em>, Sl 34, sermão 1, 2</span> · <a href="https://www.augustinus.it/latino/esposizioni_salmi/esposizione_salmo_046_testo.htm" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Santo Agostinho</span></summary>
   <div class="comentario-texto"><p>O tentado, porém, venceu; o tentador foi vencido. Pois Deus, que tinha permitido ao diabo tirar aquelas coisas, não tinha abandonado por dentro aquele seu servo, e tinha feito da alma do seu servo a sua espada para vencer o próprio diabo. Quanto vale isso? Falo de um homem. Vencido no paraíso, vencedor no esterco. Lá foi vencido pelo diabo por meio da mulher; aqui venceu o diabo e a mulher. «Falaste», diz ele, «como uma mulher insensata. Se recebemos os bens da mão do Senhor, por que não suportaremos os males?» Como ele tinha ouvido bem: «Eu sou a tua salvação»!</p></div>
   <p class="autoria"><span class="autor">Santo Agostinho</span><span class="sobre-autor">, bispo de Hipona (354–430), Doutor da Igreja</span><br><span class="obra"><em>Comentários aos Salmos (Enarrationes in Psalmos)</em>, Sl 34, sermão 1, 7</span> · <a href="https://www.augustinus.it/latino/esposizioni_salmi/esposizione_salmo_046_testo.htm" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Cassiodoro</span></summary>
   <div class="comentario-texto"><p>Nas divinas Escrituras, a «frámea» tem muitos sentidos: entende-se a espada, a lança real, a astúcia, a vingança. Aqui, porém, ele quer que se entenda a sua própria alma, que foi de fato uma lança contra os adversários. Foi por ela que acabou o culto sacrílego dos ídolos, que foi vencida a maldade do diabo, que caiu ferido o poder da própria morte, que antes reinava livremente no mundo inteiro. (...) Pede também que o Senhor diga à sua alma: «Eu sou a tua salvação», porque sabe que as palavras dele se cumprem sem dificuldade alguma.</p></div>
   <p class="autoria"><span class="autor">Cassiodoro</span><span class="sobre-autor">, senador romano e monge (c. 485–c. 580), fundador do mosteiro de Vivário</span><br><span class="obra"><em>Explicação dos Salmos (Expositio Psalmorum)</em>, Sl 34, v. 3</span> · <a href="https://mlat.uzh.ch/browser/cps_2.CasViv.ExInPs" rel="noopener">texto original</a></p>
-</article>
+</details>
 </div>
 <nav class="passos" aria-label="Navegação entre temas"><a class="passo ant" href="/biblia/salmos/35/comentarios/deus-dorme/" rel="prev"><span class="dir">← Anterior</span><span class="alvo">Levanta-te: o Senhor que parece dormir</span></a><a class="passo seg" href="/biblia/salmos/35/comentarios/eu-sou-a-tua-salvacao/" rel="next"><span class="dir">Seguinte →</span><span class="alvo">Eu sou a tua salvação</span></a></nav>
 </article>

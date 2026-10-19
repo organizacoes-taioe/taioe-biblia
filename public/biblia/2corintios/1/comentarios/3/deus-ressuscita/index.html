@@ -8,8 +8,9 @@
 <meta name="description" content="A sentença de morte ensinou a não confiar em si; cada livramento é uma pequena ressurreição.">
 <meta name="color-scheme" content="light dark">
 <link rel="icon" href="/biblia/favicon.svg" type="image/svg+xml">
-<link rel="stylesheet" href="/biblia/css/estilo.css?v=28b77982">
-<script defer src="/biblia/js/biblia.js?v=59ac4c4e"></script>
+<script src="/biblia/js/preferencias.js?v=e879b9fe"></script>
+<link rel="stylesheet" href="/biblia/css/estilo.css?v=0bc11739">
+<script defer src="/biblia/js/biblia.js?v=38a000ee"></script>
 </head>
 <body class="pag-tema">
 <a class="pular" href="#app">Ir para o conteúdo</a>
@@ -17,6 +18,19 @@
   <div class="topo-int">
     <a class="marca" href="/biblia/">Bíblia</a>
     <nav class="trilha" aria-label="Trilha de navegação"><a href="/biblia/2corintios/">II Coríntios</a><span class="sep">›</span><a href="/biblia/2corintios/1/">II Coríntios 1</a><span class="sep">›</span><a href="/biblia/2corintios/1/comentarios/3/">Comentários</a><span class="sep">›</span><span aria-current="page">«Em Deus, que ressuscita os mortos»</span></nav>
+    <div class="ferramentas">
+      <button type="button" class="ferr so-js" id="letra-menor" aria-label="Letra menor" title="Letra menor"><span class="a-menor">A</span>−</button>
+      <button type="button" class="ferr so-js" id="letra-maior" aria-label="Letra maior" title="Letra maior"><span class="a-maior">A</span>+</button>
+      <button type="button" class="ferr so-js" id="trocar-tema" aria-label="Modo claro ou escuro" title="Modo claro ou escuro"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="8.5" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M12 3.5a8.5 8.5 0 0 1 0 17z" fill="currentColor"/></svg></button>
+      <a class="ferr" id="botao-leituras" href="/biblia/leituras/" aria-label="Leituras" title="Leituras"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path class="fita" d="M6.5 3.5h11v17l-5.5-4-5.5 4z" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/></svg></a>
+      <div class="menu-leitura" id="menu-leitura" hidden>
+        <p class="menu-titulo">Leitura aberta</p>
+        <p class="menu-nome" id="menu-nome"></p>
+        <p class="menu-pos" id="menu-pos"></p>
+        <a class="menu-item" href="/biblia/leituras/">Ver as leituras</a>
+        <button type="button" class="menu-item" id="fechar-leitura">Fechar esta leitura</button>
+      </div>
+    </div>
   </div>
 </header>
 <main id="app" tabindex="-1">
@@ -29,26 +43,31 @@
 </header>
 <blockquote class="versos-tema"><p class="par"><span class="num">9</span>Trazíamos em nós mesmos a sentença de morte, para que não confiássemos em nós, mas em Deus, que ressuscita os mortos.</p><p class="par"><span class="num">10</span>Ele nos livrou de tão grande morte e nos livrará; nele pusemos a esperança de que ainda nos livrará,</p></blockquote>
 <div class="comentarios">
-<article class="comentario">
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Santo Agostinho</span></summary>
   <div class="comentario-texto"><p>Este Apóstolo, portanto, olhando a fraqueza dos seus pintinhos, queria voar como a pomba, pelo afeto e pelo desejo, mas ficava, como a galinha, pela caridade para com os filhos. «Nós mesmos», diz, «tivemos em nós a resposta de morte, para que não confiássemos em nós, mas em Deus, que ressuscita os mortos, que nos livrou de tantas mortes e nos livrará; nele esperamos que ainda nos livrará.» «Livrou e livrará»: que quer dizer? Conserva esta nossa vida para vós. Livrou-o de muitas mortes, para que não fosse esmagado pelos perseguidores, para que não fosse coroado antes do tempo de que os pintinhos precisavam.</p></div>
   <p class="autoria"><span class="autor">Santo Agostinho</span><span class="sobre-autor">, bispo de Hipona (354–430), Doutor da Igreja</span><br><span class="obra"><em>Sermão 305/A, no dia de São Lourenço (Sermo Denis 13)</em>, Sermão 305/A, 6 (PL 46, 859)</span> · <a href="https://www.augustinus.it/latino/discorsi/discorso_432_testo.htm" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Ambrosiaster</span></summary>
   <div class="comentario-texto"><p>Dá a entender que se levantou contra os pregadores da fé uma iniquidade tão insolente, que tinham a morte diante dos olhos; por fim, arrancados daquela opressão, dizem-se ressuscitados. Pois tinham sido tão afligidos que desesperavam da vida presente. Mas, porque Deus não nega a sua proteção aos que estão em necessidade, sobretudo aos seus, livrou-os, desesperados de si mesmos, mas confiantes em Deus. Confessavam, pois, que pela opressão excessiva desfaleceriam, se Deus não estivesse presente.</p></div>
   <p class="autoria"><span class="autor">Ambrosiaster</span><span class="sobre-autor">, escritor eclesiástico (séc. IV), autor do comentário às cartas de Paulo que a tradição atribuiu a Santo Ambrósio</span><br><span class="obra"><em>Comentário à Segunda Carta aos Coríntios (Commentaria in epistolam ad Corinthios secundam)</em>, Sobre 2Cor 1,9 (PL 17, 277C–278A)</span> · <a href="https://mlat.uzh.ch/browser/cps_2.Ambros.CoInEpA3" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São João Crisóstomo</span></summary>
   <div class="comentario-texto"><p>“Mas nós mesmos tínhamos em nós a sentença de morte, para não confiarmos em nós mesmos, mas em Deus, que ressuscita os mortos.” Que é “a sentença de morte”? O veredicto, o julgamento, a expectativa. Pois esta era a voz dos fatos, esta a resposta que davam os acontecimentos: “Morreremos com certeza”. Mas isto não chegou a acontecer; parou na nossa suposição. A natureza dos fatos pronunciou a sentença, mas o poder de Deus não deixou que ela passasse à obra: permitiu que acontecesse só no nosso pensamento e na nossa expectativa. Por isso diz: “Tínhamos em nós mesmos a sentença de morte”, não na experiência. E por que permitiu um perigo tão grande, a ponto de perdermos a esperança e desesperarmos? “Para não confiarmos em nós mesmos”, diz, “mas em Deus”.</p></div>
   <p class="autoria"><span class="autor">São João Crisóstomo</span><span class="sobre-autor">, bispo de Constantinopla (c. 349–407), Doutor da Igreja</span><br><span class="obra"><em>Homilias sobre a 2ª Carta aos Coríntios</em>, Hom. 2, 2 (2Cor 1,9) (PG 61, 395)</span> · <a href="https://khazarzar.skeptik.net/pgm/PG_Migne/John%20Chrysostom_PG%2047-64/In%20epistulam%20ii%20ad%20Corinthios.pdf" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">São João Crisóstomo</span></summary>
   <div class="comentario-texto"><p>De novo lembra a doutrina da ressurreição, sobre a qual tanto falou na primeira carta, e a confirma pelo que acontecia naquele momento. Por isso acrescentou: “Ele nos livrou de tão grandes mortes”. Não disse “de tão grandes perigos”, mostrando ao mesmo tempo que as provações eram insuportáveis e dando prova daquela doutrina de que falei. Como a ressurreição era coisa futura, mostra que ela acontece todos os dias. Quando Deus tira para cima um homem desenganado, que já chegara às próprias portas do abismo, não mostra outra coisa senão uma ressurreição, arrancando da própria boca da morte quem nela tinha caído. Por isso muitos costumam dizer, dos que foram desenganados e depois se recuperaram de uma doença grave ou de provações insuportáveis: “Vimos neste homem uma ressurreição dos mortos”.</p></div>
   <p class="autoria"><span class="autor">São João Crisóstomo</span><span class="sobre-autor">, bispo de Constantinopla (c. 349–407), Doutor da Igreja</span><br><span class="obra"><em>Homilias sobre a 2ª Carta aos Coríntios</em>, Hom. 2, 3 (2Cor 1,9-10) (PG 61, 395–396)</span> · <a href="https://khazarzar.skeptik.net/pgm/PG_Migne/John%20Chrysostom_PG%2047-64/In%20epistulam%20ii%20ad%20Corinthios.pdf" rel="noopener">texto original</a></p>
-</article>
-<article class="comentario">
+</details>
+<details class="comentario">
+  <summary><span class="abrir" aria-hidden="true"></span><span class="autor">Haimo de Auxerre</span></summary>
   <div class="comentario-texto"><p>Para que os coríntios, que sofriam perseguição dos infiéis, não desanimassem, o Apóstolo se dá a si mesmo como exemplo, dizendo: «Não quero que ignoreis as tribulações que sofremos», para que sejais fortalecidos pelo nosso exemplo. Que há de admirar se os discípulos são açoitados, quando os mestres são decapitados, crucificados e apedrejados? (...) Como pode a morte falar e dar resposta? «Nós mesmos», diz, «tivemos em nós a resposta da morte», isto é, a própria morte, a tribulação e a angústia nos diziam no coração, enquanto éramos torturados: Não confieis em vós, mas em Deus, porque não podeis vencer estes tormentos pela vossa força nem pela de outros homens. Ponde em Deus a vossa confiança e a vossa esperança, e ele, que ressuscita os mortos, poderá certamente livrar-vos. Pois assim lhes parecia, como se fossem chamados da morte à vida.</p></div>
   <p class="autoria"><span class="autor">Haimo de Auxerre</span><span class="sobre-autor">, monge beneditino (séc. IX (m. c. 865)); publicado na PL como «Haimo de Halberstadt»</span><br><span class="obra"><em>Exposição das cartas de Paulo (Expositio in D. Pauli epistolas)</em>, II Cor., cap. 1, vv. 8–10 (PL 117, 608B–C)</span> · <a href="https://mlat.uzh.ch/browser/cps_2.HayHal.ExInDPa" rel="noopener">texto original</a></p>
-</article>
+</details>
 </div>
 <nav class="passos" aria-label="Navegação entre temas"><a class="passo ant" href="/biblia/2corintios/1/comentarios/3/acima-das-forcas/" rel="prev"><span class="dir">← Anterior</span><span class="alvo">«Acima das nossas forças»</span></a><a class="passo seg" href="/biblia/2corintios/1/comentarios/3/oracao-de-muitos/" rel="next"><span class="dir">Seguinte →</span><span class="alvo">A oração de muitos</span></a></nav>
 </article>
