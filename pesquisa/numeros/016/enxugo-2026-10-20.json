@@ -1,0 +1,242 @@
+{
+ "capitulo": "numeros/016",
+ "antes": 99,
+ "depois": 82,
+ "temas": {
+  "1": [
+   {
+    "id": "inveja-e-ambicao",
+    "itens": [
+     "procopio-num-16-1-2",
+     "teodoreto-qnum-32",
+     "efrem-in-num-16-1",
+     "clemente-1clem-4",
+     "newman-pps4-18-homens-de-nome"
+    ]
+   },
+   {
+    "id": "toda-a-comunidade-e-santa",
+    "itens": [
+     "cirilo-de-adoratione-13-a",
+     "didascalia-23-quem-ama-o-primeiro-lugar",
+     "crisostomo-2timoteo-2-3",
+     "newman-pps4-18-toda-a-comunidade-e-santa",
+     "cipriano-ep69-o-mesmo-deus-e-o-mesmo-culto",
+     "belarmino-de-clericis-1-1-sufficiat-vobis"
+    ]
+   },
+   {
+    "id": "a-mansidao-de-moises",
+    "itens": [
+     "procopio-num-16-4",
+     "cirilo-de-adoratione-13-b",
+     "beda-jd11-a-contradicao-de-core",
+     "ambrosiaster-2tm2-19-o-senhor-conhece-os-seus"
+    ]
+   },
+   {
+    "id": "ninguem-toma-esta-honra",
+    "itens": [
+     "cirilo-de-adoratione-11",
+     "crisostomo-sacerdocio-3-6",
+     "origenes-hnum-9-1-sacerdocio-nao-se-invade",
+     "efrem-contra-perscrutadores-8-o-senhor-dos-misterios",
+     "menaion-moises-4-set-ode7-core"
+    ]
+   },
+   {
+    "id": "e-pouco-para-vos",
+    "itens": [
+     "nazianzeno-or-32-17",
+     "mashtots-sevan-carta-longe-de-mim-ser-core",
+     "newman-pps4-18-e-pouco-para-vos",
+     "lapide-num16-9-a-dignidade-de-servir",
+     "escolio-climaco-4-100-pecar-contra-o-pai",
+     "ruperto-inapoc-contra-os-pastores-contra-deus"
+    ]
+   }
+  ],
+  "2": [
+   {
+    "id": "nao-iremos",
+    "itens": [
+     "procopio-num-16-13-14",
+     "constituicoes-apostolicas-6-3",
+     "barsanufio-escolio-climaco-26-contradicao",
+     "newman-pps4-18-arrancar-os-olhos",
+     "agostinho-qhept-4-26-os-olhos"
+    ]
+   },
+   {
+    "id": "nem-um-jumento",
+    "itens": [
+     "teodoreto-qnum-33-a",
+     "crisostomo-sl-44",
+     "crisostomo-sl-131-1",
+     "ruperto-innum-2-3-o-mais-manso-se-irrita",
+     "pedro-damiao-philargyria-nem-um-jumento"
+    ]
+   }
+  ],
+  "3": [
+   {
+    "id": "o-incenso-sem-chamado",
+    "itens": [
+     "basilio-regulae-brevius-276",
+     "cirilo-de-adoratione-9",
+     "crisostomo-vidi-dominum-4-5",
+     "didascalia-23-duzentos-e-cinquenta-turibulos",
+     "afraates-dem-4-3-o-fogo-que-recebeu-ordem",
+     "origenes-hnum-9-1-fogo-estranho",
+     "newman-pps4-18-core-diante-da-tenda",
+     "vida-pacomio-silvano-medo-de-ser-engolido"
+    ]
+   },
+   {
+    "id": "deus-dos-espiritos",
+    "itens": [
+     "teodoreto-qnum-33-b",
+     "procopio-num-16-19-21",
+     "nissa-vm-1-69",
+     "clemente-1clem-59-3",
+     "ruperto-innum-2-3-na-ira-lembrados-da-misericordia",
+     "goar-exequias-deus-dos-espiritos"
+    ]
+   }
+  ],
+  "4": [
+   {
+    "id": "afastai-vos-das-tendas",
+    "itens": [
+     "procopio-num-16-26",
+     "crisostomo-joao-57-2",
+     "didascalia-23-fugi-dos-cismas",
+     "agostinho-qhept-4-27-separai-vos",
+     "cipriano-ep69-separar-se-dos-cismaticos"
+    ]
+   },
+   {
+    "id": "a-terra-obedece",
+    "itens": [
+     "procopio-num-16-28-33",
+     "crisostomo-sl-110-2",
+     "afonso-verita-della-fede-2-3-6",
+     "agostinho-civ-10-8"
+    ]
+   },
+   {
+    "id": "vivos-a-morada-dos-mortos",
+    "itens": [
+     "clemente-1clem-51",
+     "afraates-demonstracao-22-24",
+     "efrem-nisibenos-39-4-festa-no-sheol",
+     "basilio-quod-deus-5",
+     "agostinho-en54-16-vivos",
+     "tomas-sl54-descer-vivos-pela-consideracao",
+     "narek-lamentacoes-68-onde-firmar-o-pe",
+     "andre-de-creta-grande-canon-6-data-e-abiram"
+    ]
+   },
+   {
+    "id": "subida-para-baixo",
+    "itens": [
+     "nissa-vm-2-279-281",
+     "cassiodoro-ps105-terra-porque-saborearam-a-terra",
+     "ruperto-innum-2-2-cada-soberba-sua-pena",
+     "agostinho-en54-16-fogo-sobre-fogo"
+    ]
+   },
+   {
+    "id": "o-castigo-do-cisma",
+    "itens": [
+     "ireneu-adv-haer-4-26-2",
+     "crisostomo-efesios-11-5",
+     "constituicoes-apostolicas-6-1-2",
+     "efrem-nisibenos-19-7-com-uma-fenda",
+     "shnorhali-enciclica-bispos-cabeca-de-aarao",
+     "cipriano-unitate-18-ninguem-contra-a-ordem-de-deus",
+     "agostinho-ep-43-8-24"
+    ]
+   },
+   {
+    "id": "os-filhos-de-core",
+    "itens": [
+     "nissa-inscr-ps-filhos-de-core",
+     "teodoreto-quaest-1par-6",
+     "origenes-crom-10-7-filhos-de-core",
+     "lapide-num16-32-os-pequenos-e-os-filhos-de-core"
+    ]
+   }
+  ]
+ },
+ "excluidos": [
+  {
+   "id": "cirilo-de-adoratione-10",
+   "motivo": "diz o mesmo que cirilo-de-adoratione-9 e cirilo-de-adoratione-11 (do mesmo Cirilo): tomaram por conta própria a honra que Deus não lhes deu, e pagaram a pena."
+  },
+  {
+   "id": "afraates-dem-9-8-a-inveja-de-core",
+   "motivo": "diz o mesmo que clemente-1clem-4: a inveja contra Moisés punida em Coré e também em Aarão e Maria; Clemente é a fonte mais antiga e mais clara."
+  },
+  {
+   "id": "antioco-pandectes-32-contradicao",
+   "motivo": "diz o mesmo que barsanufio-escolio-climaco-26-contradicao (a contradição que perde) e que procopio-num-16-1-2 (a vontade de mandar), sem acrescentar nada."
+  },
+  {
+   "id": "constituicoes-apostolicas-2-27",
+   "motivo": "diz o mesmo que cirilo-de-adoratione-11: se Cristo não glorificou a si mesmo (Hb 5), ninguém toma o sacerdócio; o resto só repete os castigos."
+  },
+  {
+   "id": "efrem-grego-sacerdocio-incenso",
+   "motivo": "diz o mesmo que cirilo-de-adoratione-11 e origenes-hnum-9-1-sacerdocio-nao-se-invade: não subir ao sacerdócio por soberba, lembrando o fogo que os devorou."
+  },
+  {
+   "id": "lambron-instituicoes-alimento-da-terra",
+   "motivo": "uma frase que repete cirilo-de-adoratione-11: foram engolidos os que buscavam por vontade própria a honra do sacerdócio."
+  },
+  {
+   "id": "shnorhali-enciclica-padres-nao-se-oponha",
+   "motivo": "diz o mesmo que mashtots-sevan-carta-longe-de-mim-ser-core (não ser Coré contra o bispo, sob pena da mesma ruína), que é mais vivo; e ruperto-inapoc-contra-os-pastores-contra-deus."
+  },
+  {
+   "id": "cipriano-ep3-honra-dos-sacerdotes",
+   "motivo": "diz o mesmo que cipriano-unitate-18-ninguem-contra-a-ordem-de-deus (do mesmo Cipriano): terra e fogo provam que Deus defende os sacerdotes; e ruperto-inapoc-contra-os-pastores-contra-deus."
+  },
+  {
+   "id": "procopio-num-16-15",
+   "motivo": "diz o mesmo que teodoreto-qnum-33-a: «não olhes a oferta deles», Moisés chama Deus por testemunha da sua inocência e lhe entrega o julgamento; Teodoreto explica melhor a disputa."
+  },
+  {
+   "id": "tiago-dipticas-deus-dos-espiritos",
+   "motivo": "diz o mesmo que goar-exequias-deus-dos-espiritos: o título na oração pelos defuntos, com as mesmas palavras («onde fugiram a dor, a tristeza e o gemido»); a das exéquias é mais completa."
+  },
+  {
+   "id": "narek-lamentacoes-2-deus-dos-espiritos",
+   "motivo": "só invoca o título, como clemente-1clem-59-3 e goar-exequias-deus-dos-espiritos, sem acrescentar nada sobre ele."
+  },
+  {
+   "id": "agostinho-post-coll-20-27",
+   "motivo": "diz o mesmo que agostinho-qhept-4-27-separai-vos (do mesmo Agostinho, com os mesmos exemplos de Noé e Ló): a separação do corpo só quando o castigo vem; o que contamina é o consentimento."
+  },
+  {
+   "id": "constituicoes-apostolicas-6-4",
+   "motivo": "diz o mesmo que didascalia-23-fugi-dos-cismas, de que as Constituições são reelaboração: não se aproximar dos cismáticos, com o mesmo «separai-vos»."
+  },
+  {
+   "id": "teodoreto-qnum-33-c",
+   "motivo": "diz o mesmo que crisostomo-sl-110-2: o mar abriu caminho e a terra afogou como o mar; Crisóstomo vai mais fundo (a natureza obedece a Deus)."
+  },
+  {
+   "id": "cirilo-de-adoratione-13-c",
+   "motivo": "diz o mesmo que procopio-num-16-4: contentar-se com a própria parte e não cobiçar o que Deus não deu."
+  },
+  {
+   "id": "firmiliano-ep75-quem-levanta-outro-altar",
+   "motivo": "diz o mesmo que ireneu-adv-haer-4-26-2 (sucessão apostólica; quem se levanta contra a Igreja é Coré) e cipriano-unitate-18-ninguem-contra-a-ordem-de-deus (os cúmplices perecem com os chefes)."
+  },
+  {
+   "id": "tomas-st-2-2-108-4-as-criancas",
+   "motivo": "diz o mesmo que lapide-num16-32-os-pequenos-e-os-filhos-de-core, que repete o raciocínio de Tomás (os pequenos são dos pais; a morte antes lhes fez bem) e ainda acrescenta os filhos de Coré."
+  }
+ ]
+}

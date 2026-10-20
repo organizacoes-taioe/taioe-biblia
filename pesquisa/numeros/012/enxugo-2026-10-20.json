@@ -1,0 +1,213 @@
+{
+ "capitulo": "numeros/012",
+ "antes": 88,
+ "depois": 78,
+ "temas": {
+  "1": [
+   {
+    "id": "a-etiope",
+    "itens": [
+     "agostinho-qhept4-20",
+     "ruperto-innum-1-34a",
+     "ireneu-ah-4-20-12",
+     "origenes-hnum-6-4a",
+     "ambrosio-apoldavid-17-18",
+     "bernardo-sc39-10"
+    ]
+   },
+   {
+    "id": "a-inveja",
+    "itens": [
+     "nissa-vm-2-256",
+     "nissa-vm-2-258",
+     "nazianzeno-or-36-5",
+     "cirilo-glaph-num-12-2c",
+     "nissa-castigatione"
+    ]
+   },
+   {
+    "id": "manso-e-humilde",
+    "itens": [
+     "crisostomo-1cor-1-2",
+     "agostinho-cgaud1-19-20",
+     "jeronimo-ep129-1",
+     "tomas-st-2-2-157-4-mansidao",
+     "newman-pps-2-31",
+     "sales-traite-8-12"
+    ]
+   },
+   {
+    "id": "deus-defende",
+    "itens": [
+     "cirilo-glaph-num-12-2d",
+     "ruperto-innum-1-34b",
+     "origenes-hnum-7-2a"
+    ]
+   },
+   {
+    "id": "o-proprio-elogio",
+    "itens": [
+     "gregorio-moralia-praef-1-3",
+     "procopio-num-12-3"
+    ]
+   }
+  ],
+  "2": [
+   {
+    "id": "boca-a-boca",
+    "itens": [
+     "ireneu-ah-4-20-9",
+     "crisostomo-mt-78-4",
+     "gregorio-incant-3",
+     "nissa-cant-1",
+     "bernardo-sc32-9",
+     "jdc-subida-2-16-9"
+    ]
+   },
+   {
+    "id": "viu-a-deus",
+    "itens": [
+     "agostinho-gnlit12-26-54",
+     "agostinho-ep147-13-31",
+     "tomas-sent-4-49-boca",
+     "basilio-hex-1-1",
+     "origenes-hnum-7-2d",
+     "lapide-nm12-6-8-contra-essencia"
+    ]
+   },
+   {
+    "id": "o-maior-dos-profetas",
+    "itens": [
+     "tomas-st-2-2-174-4",
+     "tomas-iob-4-sussurro",
+     "ruperto-innum-1-34c",
+     "ambrosio-ep67-1-2",
+     "cirilo-glaph-num-12-3a",
+     "newman-pps-7-9-a",
+     "cic-2576"
+    ]
+   },
+   {
+    "id": "lei-em-cristo",
+    "itens": [
+     "origenes-hnum-7-2b",
+     "origenes-hnum-7-2c",
+     "origenes-hnum-7-1c",
+     "origenes-hnum-7-2e"
+    ]
+   },
+   {
+    "id": "fiel-na-casa",
+    "itens": [
+     "tomas-heb3-l1-fiel",
+     "crisostomo-hb-5-3",
+     "tomas-heb3-l1-servo-filho",
+     "cirilo-glaph-num-12-3b"
+    ]
+   },
+   {
+    "id": "falar-contra",
+    "itens": [
+     "origenes-hnum-7-1a",
+     "basilio-rbt-25",
+     "basilio-rbt-26-27",
+     "possidio-vita-22"
+    ]
+   }
+  ],
+  "3": [
+   {
+    "id": "nuvem-e-lepra",
+    "itens": [
+     "origenes-hnum-7-2f",
+     "cirilo-glaph-num-12-3c",
+     "origenes-hnum-7-1b",
+     "lapide-nm12-10-lepra-murmuracao",
+     "cirilo-ador-14",
+     "bernardo-deconv-4"
+    ]
+   },
+   {
+    "id": "so-miriam",
+    "itens": [
+     "teodoreto-qnum-23",
+     "lapide-nm12-1-so-maria",
+     "ambrosio-exlc-2-35"
+    ]
+   },
+   {
+    "id": "a-oracao-de-moises",
+    "itens": [
+     "basilio-ira-10",
+     "nazianzeno-ep-77-8",
+     "nissa-vm-2-263",
+     "bernardo-sc12-4",
+     "crisostomo-stagirio-3",
+     "cic-2577"
+    ]
+   },
+   {
+    "id": "sete-dias",
+    "itens": [
+     "crisostomo-statuis-20-4",
+     "crisostomo-mt-5-4",
+     "cirilo-glaph-num-12-4a",
+     "origenes-hnum-7-4b",
+     "jeronimo-ep77-5"
+    ]
+   },
+   {
+    "id": "o-povo-espera",
+    "itens": [
+     "cirilo-glaph-num-12-4b",
+     "origenes-hnum-7-4a",
+     "origenes-hnum-7-4c",
+     "ruperto-innum-1-35b",
+     "jeronimo-ep78-mansio14"
+    ]
+   }
+  ]
+ },
+ "excluidos": [
+  {
+   "id": "gregorio-hez-2-3-21",
+   "motivo": "diz o mesmo que crisostomo-1cor-1-2: Moisés, o mais manso, governando um povo enorme; Crisóstomo já diz isso e mais."
+  },
+  {
+   "id": "teodoreto-qnum-22b",
+   "motivo": "diz o mesmo que ruperto-innum-1-34b: Moisés se cala, Deus o defende, «minha é a vingança»."
+  },
+  {
+   "id": "origenes-hnum-7-1d",
+   "motivo": "diz o mesmo que origenes-hnum-7-2a (mesma homilia, logo adiante): falar mal de Moisés lhe valeu o elogio de Deus."
+  },
+  {
+   "id": "ambrosio-hex-1-2-6",
+   "motivo": "diz o mesmo que basilio-hex-1-1 (Ambrósio segue Basílio): Moisés viu a Deus face a face como nenhum profeta; aqui é só paráfrase do versículo."
+  },
+  {
+   "id": "agostinho-gnlit12-27-55a",
+   "motivo": "diz o mesmo que agostinho-gnlit12-26-54 e tomas-sent-4-49-boca: Moisés viu a glória que desejava; quase só cita o versículo."
+  },
+  {
+   "id": "tomas-st-1-12-11",
+   "motivo": "diz o mesmo que agostinho-ep147-13-31 (que ele resume) e tomas-st-2-2-174-4: Moisés, como Paulo, elevado à visão da essência nesta vida."
+  },
+  {
+   "id": "origenes-hnum-7-2g",
+   "motivo": "diz o mesmo que origenes-hnum-7-2f (mesma homilia): quem fala mal perde a nuvem da graça, e vem a lepra."
+  },
+  {
+   "id": "gregorio-moralia-27-10",
+   "motivo": "diz o mesmo que bernardo-sc12-4: o mais manso suporta o povo rebelde e ainda aplaca por ele a ira de Deus."
+  },
+  {
+   "id": "ambrosio-ep63-57",
+   "motivo": "diz o mesmo que ambrosio-apoldavid-17-18 (a Sinagoga, sem conhecer o mistério da etíope, fica leprosa) e, no fim, o que dizem jeronimo-ep78-mansio14 e ruperto-innum-1-35b (até a plenitude dos gentios)."
+  },
+  {
+   "id": "lapide-nm12-11-14-pai-cuspiu",
+   "motivo": "diz o mesmo que crisostomo-statuis-20-4 e ruperto-innum-1-35b: paráfrase do v. 14 (se o pai lhe cuspisse no rosto…)."
+  }
+ ]
+}

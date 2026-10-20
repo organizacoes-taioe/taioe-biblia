@@ -1,0 +1,347 @@
+{
+ "capitulo": "2corintios/001",
+ "antes": 155,
+ "depois": 137,
+ "temas": {
+  "1": [
+   {
+    "id": "apostolo",
+    "itens": [
+     "cirilo-alex-2cor-1-1-apostolo",
+     "ambrosiaster-2cor-1-1-2",
+     "bruno-cartuxo-2cor1-saudacao",
+     "tomas-2cor-l1-apostolo-por-vontade",
+     "bento16-aud-20061025-2cor1-1"
+    ]
+   },
+   {
+    "id": "igreja-de-deus",
+    "itens": [
+     "crisostomo-2cor-h1-2-igreja",
+     "crisostomo-2cor-h1-2-timoteo",
+     "agostinho-ep-catholicos-30",
+     "cassiodoro-complexiones-2cor-1",
+     "tomas-2cor-l1-igreja-santos-graca-paz",
+     "bento16-aud-20081015-2cor1-1"
+    ]
+   }
+  ],
+  "2": [
+   {
+    "id": "pai-das-misericordias",
+    "itens": [
+     "didimo-2cor-1-3-essencia",
+     "ambrosiaster-2cor-1-3",
+     "crisostomo-2cor-h1-3-pai-misericordias",
+     "bernardo-natal-5-pai-das-misericordias",
+     "bernardo-natal-5-misericordias-no-plural",
+     "afonso-pratica-confessore-2cor1-3",
+     "jp2-dives-in-misericordia-1"
+    ]
+   },
+   {
+    "id": "toda-consolacao",
+    "itens": [
+     "ambrosio-in-ps-118-10-36",
+     "crisostomo-2cor-h1-3-na-tribulacao",
+     "fulgencio-contra-fabianum-2",
+     "aelredo-speculum-2-6-consolacao-na-tribulacao",
+     "tomas-2cor-l2-misericordia-e-consolacao",
+     "sales-carta-cclxxiv-bourgeois-1605",
+     "bento16-aud-20120530-consolacao"
+    ]
+   },
+   {
+    "id": "consolar-os-outros",
+    "itens": [
+     "crisostomo-2cor-h1-3-consolar-outros",
+     "gregorio-hom-ev-20-13",
+     "tomas-2cor-l2-consolados-para-consolar",
+     "afonso-condannati-morte-2cor1-4",
+     "newman-pps5-21-affliction-b",
+     "leao14-vigilia-consolacao-20250915"
+    ]
+   },
+   {
+    "id": "sofrimentos-de-cristo",
+    "itens": [
+     "agostinho-sermo-305a-6",
+     "agostinho-sermo-305a-5a",
+     "crisostomo-2cor-h1-3-companheiro-de-cristo",
+     "crisostomo-2cor-h1-4-caminho-estreito",
+     "ambrosiaster-2cor-1-4-5",
+     "tomas-2cor-l2-sofrimentos-de-cristo",
+     "lapide-2cor1-5-sofrimentos-de-cristo",
+     "jp2-salvifici-doloris-20"
+    ]
+   },
+   {
+    "id": "companheiros",
+    "itens": [
+     "crisostomo-2cor-h2-1-lutador",
+     "crisostomo-2cor-h2-2-companheiros",
+     "atao-2cor1-os-amigos-de-jo",
+     "tomas-2cor-l3-exemplo-dos-santos",
+     "joao-da-cruz-llama-b-2-31",
+     "jp2-hom-19850513-aja"
+    ]
+   }
+  ],
+  "3": [
+   {
+    "id": "acima-das-forcas",
+    "itens": [
+     "agostinho-sermo-305a-5b",
+     "agostinho-en-ps-106-12",
+     "ambrosiaster-2cor-1-8",
+     "teodoreto-2cor-1-8-9-demetrio",
+     "tomas-2cor-l3-acima-das-forcas",
+     "lapide-2cor1-8-o-tedio-da-vida",
+     "newman-occasions-8-sympathy-asia"
+    ]
+   },
+   {
+    "id": "deus-ressuscita",
+    "itens": [
+     "agostinho-sermo-305a-6b",
+     "crisostomo-2cor-h2-2-sentenca",
+     "crisostomo-2cor-h2-3-ressurreicao-diaria",
+     "haimo-2cor1-a-resposta-da-morte"
+    ]
+   },
+   {
+    "id": "oracao-de-muitos",
+    "itens": [
+     "ambrosiaster-2cor-1-10-11",
+     "crisostomo-2cor-h2-4-oracao-e-misericordia",
+     "crisostomo-2cor-h2-4-orar-uns-pelos-outros",
+     "severiano-2cor-1-11-servir-os-dons",
+     "agostinho-sermo-305a-10",
+     "atao-2cor1-os-ouvintes-orem-pelos-pregadores",
+     "tomas-2cor-l3-a-oracao-de-muitos",
+     "tomas-suma-ii-ii-83-7-orar-pelos-justos"
+    ]
+   }
+  ],
+  "4": [
+   {
+    "id": "boa-consciencia",
+    "itens": [
+     "crisostomo-2cor-h3-1-consciencia",
+     "agostinho-en-ps-53-8",
+     "agostinho-en-ps-149-11",
+     "bernardo-cantico-85-a-claridade-da-consciencia",
+     "bernardo-ep42-so-o-humilde-pode-dizer",
+     "kempis-imitacao-2-6-alegria-da-boa-consciencia",
+     "newman-pps5-17-conscience-a"
+    ]
+   },
+   {
+    "id": "testemunho-do-espirito",
+    "itens": [
+     "bernardo-todos-os-santos-2-testemunho-do-espirito",
+     "bernardo-anunciacao-1-testemunho-em-tres-coisas",
+     "tomas-2cor-l4-testemunho-da-consciencia"
+    ]
+   },
+   {
+    "id": "gloria-verdadeira",
+    "itens": [
+     "efrem-2cor-1-12-gloria",
+     "agostinho-civ-5-12-4",
+     "agostinho-bono-viduitatis-22-27",
+     "gregorio-hom-ev-12",
+     "tomas-galatas-5-l7-gloria-verdadeira"
+    ]
+   },
+   {
+    "id": "martirio-escondido",
+    "itens": [
+     "origenes-exhortatio-21-martirio-escondido",
+     "ambrosio-in-ps-118-20-48"
+    ]
+   },
+   {
+    "id": "simplicidade",
+    "itens": [
+     "crisostomo-2cor-h3-1-simplicidade",
+     "ambrosiaster-2cor-1-12",
+     "boaventura-anunciacao-5-simplicidade-contra-duplicidade",
+     "newman-pps5-17-conscience-b"
+    ]
+   },
+   {
+    "id": "gloria-mutua",
+    "itens": [
+     "crisostomo-2cor-h3-2-gloria-mutua",
+     "agostinho-sermo-305a-10-v14",
+     "tomas-2cor-l4-gloria-mutua-no-dia-do-senhor"
+    ]
+   }
+  ],
+  "5": [
+   {
+    "id": "leviandade",
+    "itens": [
+     "ambrosiaster-2cor-1-15-16",
+     "ambrosiaster-2cor-1-17",
+     "crisostomo-2cor-h3-3-servo-do-espirito",
+     "cassiano-collationes-17-25",
+     "gregorio-regula-pastoralis-3-18",
+     "sedulio-2cor1-o-centuriao-e-o-selo",
+     "tomas-suma-ii-ii-110-3-paulo-nao-mentiu"
+    ]
+   },
+   {
+    "id": "o-sim",
+    "itens": [
+     "crisostomo-2cor-h3-3-deus-fiel",
+     "agostinho-contra-faustum-19-7",
+     "agostinho-trin-15-15-24",
+     "fulgencio-ad-trasimundum-3-11",
+     "tomas-2cor-l5-nele-houve-o-sim",
+     "newman-pps5-3-unreal-words",
+     "bento16-aud-20120530-sim"
+    ]
+   },
+   {
+    "id": "amem",
+    "itens": [
+     "ambrosiaster-2cor-1-20",
+     "crisostomo-2cor-h3-4-sim-e-amem",
+     "cirilo-alex-2cor-1-20-amem-mediador",
+     "teodoreto-2cor-1-20-amem-do-povo",
+     "lapide-2cor1-20-amem",
+     "cic-1065-amen"
+    ]
+   },
+   {
+    "id": "uncao",
+    "itens": [
+     "cirilo-jerusalem-mist-3-cristos",
+     "ambrosiaster-2cor-1-21-22",
+     "crisostomo-2cor-h3-5-profetas-sacerdotes-reis",
+     "crisostomo-catequese-ultima-deus-unge",
+     "haimo-2cor1-uncao-de-todos-e-penhor-ou-arras",
+     "tomas-2cor-l5-uncao-selo-penhor"
+    ]
+   },
+   {
+    "id": "trindade",
+    "itens": [
+     "ambrosio-spiritu-sancto-1-6-78-79",
+     "ambrosio-sacramentis-6-2-5-7",
+     "cirilo-alex-2cor-1-22-espirito-proprio",
+     "tomas-contra-gentiles-4-21-uncao-selo-penhor"
+    ]
+   },
+   {
+    "id": "selo",
+    "itens": [
+     "nazianzeno-or-40-15-ovelha-marcada",
+     "crisostomo-2cor-h3-6-selo-do-soldado",
+     "severiano-2cor-1-22-selo-e-penhor",
+     "catecismo-romano-ii-1-carater",
+     "belarmino-efeito-dos-sacramentos-2-20-uncao-selo-penhor",
+     "lapide-2cor1-21-22-confirmacao",
+     "cic-1296-selo"
+    ]
+   },
+   {
+    "id": "penhor",
+    "itens": [
+     "basilio-espirito-santo-15-36-penhor",
+     "crisostomo-2cor-h3-4-penhor",
+     "agostinho-sermo-378"
+    ]
+   },
+   {
+    "id": "testemunha",
+    "itens": [
+     "didimo-2cor-1-23-juramento",
+     "crisostomo-2cor-h4-1-poupar",
+     "agostinho-ep-211-2",
+     "cic-2154-juramento"
+    ]
+   },
+   {
+    "id": "cooperadores",
+    "itens": [
+     "crisostomo-2cor-h4-1-nao-dominamos",
+     "crisostomo-sacerdocio-2-3-persuasao",
+     "ambrosiaster-2cor-1-23-24",
+     "gregorio-regula-pastoralis-2-6",
+     "bernardo-carta-238-verdadeiro-sucessor-de-paulo",
+     "tomas-2cor-l5-juramento-e-cooperadores-da-alegria",
+     "bento16-hom-20080427-ordenacoes"
+    ]
+   }
+  ]
+ },
+ "excluidos": [
+  {
+   "id": "atao-2cor1-por-vontade-de-deus",
+   "motivo": "diz o mesmo que ambrosiaster-2cor-1-1-2: «pela vontade de Deus» prova que o apostolado é legítimo, com a mesma citação de Jo 8,29"
+  },
+  {
+   "id": "teodoreto-2cor-1-1-igreja",
+   "motivo": "diz o mesmo que crisostomo-2cor-h1-2-igreja: chamá-los «Igreja de Deus» os une na concórdia e junta os da Acaia num só corpo"
+  },
+  {
+   "id": "herve-2cor1-pai-dos-penitentes",
+   "motivo": "diz o mesmo que ambrosiaster-2cor-1-3, quase palavra por palavra: os corrigidos se aliviam no Pai das misericórdias, que não só perdoa, mas restaura o estado de antes"
+  },
+  {
+   "id": "hilario-in-ps-118-iod-14",
+   "motivo": "diz o mesmo que crisostomo-2cor-h1-3-na-tribulacao: Deus não tira a tribulação, consola dentro dela; Crisóstomo o diz melhor, com os três jovens na fornalha"
+  },
+  {
+   "id": "francisco-dilexit-nos-162",
+   "motivo": "só cita o v. 4 (consolados para consolar), o que leao14-vigilia-consolacao-20250915 e tomas-2cor-l2-consolados-para-consolar já dizem e explicam"
+  },
+  {
+   "id": "newman-occasions-8-sympathy-a",
+   "motivo": "diz o mesmo que newman-pps5-21-affliction-b: a experiência da própria aflição nos capacita a consolar os aflitos"
+  },
+  {
+   "id": "ambrosiaster-2cor-1-9",
+   "motivo": "diz o mesmo que haimo-2cor1-a-resposta-da-morte e crisostomo-2cor-h2-3-ressurreicao-diaria: desesperados de si, confiam em Deus, e o livramento é como ressuscitar"
+  },
+  {
+   "id": "boaventura-sermao-teologico-1-testemunho-de-cristo",
+   "motivo": "diz o mesmo que bernardo-todos-os-santos-2-testemunho-do-espirito: a consciência não basta por si, precisa do testemunho do alto"
+  },
+  {
+   "id": "agostinho-sermo-93-9-10",
+   "motivo": "diz o mesmo que gregorio-hom-ev-12: o óleo nos vasos das virgens é a glória guardada na consciência, e as tolas a buscam na boca dos outros"
+  },
+  {
+   "id": "lumen-fidei-15-2cor1-20",
+   "motivo": "diz o mesmo que agostinho-contra-faustum-19-7 (as promessas se cumprem em Cristo) e bento16-aud-20120530-sim (o nosso amém responde ao sim de Deus)"
+  },
+  {
+   "id": "atao-2cor1-a-trindade-nos-vv-21-22",
+   "motivo": "diz o mesmo que ambrosiaster-2cor-1-21-22, quase palavra por palavra: uma só obra do Pai e do Filho, Rm 8,9, a Trindade como cume da perfeição e o penhor dado aos mortais"
+  },
+  {
+   "id": "ambrosio-mysteriis-7-42",
+   "motivo": "diz o mesmo que ambrosio-sacramentis-6-2-5-7: no rito, o Pai unge, Cristo marca com o selo e o Espírito é dado no coração"
+  },
+  {
+   "id": "francisco-aud-20241030-selo",
+   "motivo": "diz o mesmo que catecismo-romano-ii-1-carater: o selo do v. 22 é o caráter indelével"
+  },
+  {
+   "id": "agostinho-sermo-23-8-9",
+   "motivo": "diz o mesmo que agostinho-sermo-378: «arra» é melhor que «penhor», porque a arra não se devolve, completa-se; o Sermão 378 diz isso mais curto e claro"
+  },
+  {
+   "id": "agostinho-sermo-180-5",
+   "motivo": "só aponta que o v. 23 é um juramento, o que didimo-2cor-1-23-juramento e cic-2154-juramento dizem e explicam"
+  },
+  {
+   "id": "bruno-cartuxo-2cor1-servico-e-nao-dominio",
+   "motivo": "diz o mesmo que ambrosiaster-2cor-1-23-24 (a fé é coisa da vontade, não se obriga por domínio) e bernardo-carta-238-verdadeiro-sucessor-de-paulo (serviço, não domínio)"
+  }
+ ]
+}
