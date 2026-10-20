@@ -4,14 +4,14 @@ Gerado por `pesquisa/ferramentas/base-indice.py`; não editar à mão. Os textos
 na língua original, cortados para este capítulo. A pesquisa do capítulo parte daqui e procura o
 que não é óbvio (`CAPITULO.md`, etapa 6).
 
-12 fontes, 4 orientais.
+12 fontes, 3 orientais.
 
 | autor e obra | passagem | cobre | oriental | arquivo |
 |---|---|---|---|---|
 | Santo Agostinho, Locutiones in Heptateuchum IV (Números) | Nm 33; Locutiones in Hept. IV, 3 entradas | todas as entradas deste capítulo (só gramática e idiomatismos da Vetus Latina) |  | [agostinho-locutiones-in-heptateuchum-4.md](base/agostinho-locutiones-in-heptateuchum-4.md) (1 KB) |
 | São Bruno de Segni, Expositio in Numeros | Nm 33; Bruno, Expositio in Numeros, cap. XXXIII | o capítulo inteiro, resumido (Bruno cita o texto e comenta só o que serve à alegoria e à moral) |  | [bruno-expositio-in-numeros.md](base/bruno-expositio-in-numeros.md) (4 KB) |
 | São Cirilo de Alexandria, De adoratione (trechos sobre Números) | Nm 33; 2 fala(s) do diálogo com Paládio, PG 68, 372, 413 | só as falas que citam este capítulo (ver Nota); não é a obra inteira nem as alusões sem citação | sim | [cirilo-de-adoratione-numeros.md](base/cirilo-de-adoratione-numeros.md) (13 KB) |
-| Dionísio bar Salibi, Comentário literal a Números: Números 33 | Números 33; lemas reconhecidos: vv. 3, 4, 7, 52 | o capítulo inteiro, em glosas literais curtas (corte automático pelos lemas; conferir as bordas) | sim | [dionisio-bar-salibi-comentario-numeros.md](base/dionisio-bar-salibi-comentario-numeros.md) (2 KB) |
+| Dionísio bar Salibi, Comentário literal a Números: Números 33 | Números 33; lemas reconhecidos: vv. 3, 4, 7, 52 | o capítulo inteiro, em glosas literais curtas (corte automático pelos lemas; conferir as bordas) | sim (só pista, não vai ao site) | [dionisio-bar-salibi-comentario-numeros.md](base/dionisio-bar-salibi-comentario-numeros.md) (2 KB) |
 | Santo Isidoro, Quaestiones in Vetus Testamentum, In Numeros | Nm 33; Isidoro, In Numeros: Praefatio; caps. I–XLII (as 42 mansões, com os episódios de cada uma) | o livro inteiro: Praefatio e as 42 mansões de Nm 33 |  | [isidoro-quaestiones-in-numeros.md](base/isidoro-quaestiones-in-numeros.md) (48 KB) |
 | Cornélio a Lápide, Commentaria in Numeros | Nm 33; Lápide, cap. XXXIII | o capítulo inteiro, versículo a versículo, com o texto da Vulgata no começo e a SYNOPSIS |  | [lapide-commentaria-in-numeros.md](base/lapide-commentaria-in-numeros.md) (29 KB) |
 | Orígenes, Homiliae in Numeros (Rufino) | Nm 33; H27 | a(s) homilia(s) que comentam este capítulo, inteiras ou no trecho indicado |  | [origenes-homilias-in-numeros.md](base/origenes-homilias-in-numeros.md) (69 KB) |

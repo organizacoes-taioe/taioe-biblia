@@ -49,8 +49,10 @@ def indice(livro, cap):
         titulo, c = cabecalho(p)
         tam = os.path.getsize(p) // 1024
         ori = 'sim' if c.get('oriental', '').lower().startswith('s') else ''
+        if c.get('uso', '').startswith('só pista'):
+            ori += ' (só pista, não vai ao site)'
         linhas.append(f"| {titulo} | {c.get('passagem', '')} | {c.get('cobre', '')} | {ori} | [{nome}](base/{nome}) ({tam} KB) |")
-    n_or = sum(1 for l in linhas if '| sim |' in l)
+    n_or = sum(1 for l in linhas if '| sim |' in l)  # os «só pista» não contam
     out = [f'# Pré-pesquisa: {livro} {int(cap)}', '',
            'Gerado por `pesquisa/ferramentas/base-indice.py`; não editar à mão. Os textos estão em `base/`,',
            'na língua original, cortados para este capítulo. A pesquisa do capítulo parte daqui e procura o',

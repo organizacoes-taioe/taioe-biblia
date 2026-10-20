@@ -4,7 +4,7 @@ Gerado por `pesquisa/ferramentas/base-indice.py`; não editar à mão. Os textos
 na língua original, cortados para este capítulo. A pesquisa do capítulo parte daqui e procura o
 que não é óbvio (`CAPITULO.md`, etapa 6).
 
-21 fontes, 7 orientais.
+21 fontes, 6 orientais.
 
 | autor e obra | passagem | cobre | oriental | arquivo |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ que não é óbvio (`CAPITULO.md`, etapa 6).
 | São Bruno, o Cartuxo, Expositio in Psalmos | Sl 54 (Vulgata), que corresponde ao Sl 55 hebr. | o salmo inteiro |  | [bruno-cartuxo-expositio-in-psalmos.md](base/bruno-cartuxo-expositio-in-psalmos.md) (31 KB) |
 | São Bruno de Segni, Expositio in Psalmos | Sl 54 (Vulgata), que corresponde ao Sl 55 hebr. | o salmo inteiro |  | [bruno-segni-expositio-in-psalmos.md](base/bruno-segni-expositio-in-psalmos.md) (16 KB) |
 | Cassiodoro, Expositio Psalmorum | Sl 54 (Vulgata), que corresponde ao Sl 55 hebr. | o salmo inteiro |  | [cassiodoro-expositio-psalmorum.md](base/cassiodoro-expositio-psalmorum.md) (27 KB) |
-| Dionísio bar Salibi, Comentário literal aos Salmos: Sl 55 | Sl 55 (Peshitta e hebraico; Sl 54 da LXX/Vulgata, aproximado); lemas reconhecidos: vv. 4, 23 | o salmo, em glosas literais curtas (corte automático pelos lemas e títulos; conferir as bordas) | sim | [dionisio-bar-salibi-comentario-salmos.md](base/dionisio-bar-salibi-comentario-salmos.md) (5 KB) |
+| Dionísio bar Salibi, Comentário literal aos Salmos: Sl 55 | Sl 55 (Peshitta e hebraico; Sl 54 da LXX/Vulgata, aproximado); lemas reconhecidos: vv. 4, 23 | o salmo, em glosas literais curtas (corte automático pelos lemas e títulos; conferir as bordas) | sim (só pista, não vai ao site) | [dionisio-bar-salibi-comentario-salmos.md](base/dionisio-bar-salibi-comentario-salmos.md) (5 KB) |
 | Eusébio de Cesareia, Commentaria in Psalmos | Sl 55 (hebr.) = Sl 54 (LXX) | o salmo inteiro (Eusébio comenta de forma contínua os Sl 51–95); pode parar antes do fim em alguns salmos | sim | [eusebio-commentaria-in-psalmos.md](base/eusebio-commentaria-in-psalmos.md) (54 KB) |
 | São Gregório de Nissa, In inscriptiones Psalmorum | Sl 55 (hebr.) = Sl 54 (LXX) | só os trechos em que Gregório cita o título ou o primeiro versículo do salmo e comenta (não é comentário seguido) | sim | [gregorio-nissa-in-inscriptiones-psalmorum.md](base/gregorio-nissa-in-inscriptiones-psalmorum.md) (6 KB) |
 | «Haimo de Halberstadt», Commentaria in Psalmos | Sl 54 (Vulgata), que corresponde ao Sl 55 hebr. | o salmo inteiro |  | [haimo-commentaria-in-psalmos.md](base/haimo-commentaria-in-psalmos.md) (14 KB) |

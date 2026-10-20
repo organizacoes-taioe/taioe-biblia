@@ -4,7 +4,7 @@ Gerado por `pesquisa/ferramentas/base-indice.py`; não editar à mão. Os textos
 na língua original, cortados para este capítulo. A pesquisa do capítulo parte daqui e procura o
 que não é óbvio (`CAPITULO.md`, etapa 6).
 
-23 fontes, 10 orientais.
+23 fontes, 9 orientais.
 
 | autor e obra | passagem | cobre | oriental | arquivo |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ que não é óbvio (`CAPITULO.md`, etapa 6).
 | Cassiodoro, Expositio Psalmorum | Sl 41 (Vulgata), que corresponde ao Sl 42 hebr. | o salmo inteiro |  | [cassiodoro-expositio-psalmorum.md](base/cassiodoro-expositio-psalmorum.md) (18 KB) |
 | São Cirilo de Alexandria, Expositio in Psalmos | Sl 42 (hebr.) = Sl 41 (LXX) | excertos de cadeia (ed. Mai) sobre o salmo; não cobre todos os versículos; trechos entre colchetes têm origem incerta e várias glosas repetem Basílio e Teodoreto | sim | [cirilo-expositio-in-psalmos.md](base/cirilo-expositio-in-psalmos.md) (28 KB) |
 | São João Crisóstomo, Expositiones in Psalmos | Sl 42 (hebr.) = Sl 41 (LXX) | o salmo inteiro (homilias contínuas) | sim | [crisostomo-expositiones-in-psalmos.md](base/crisostomo-expositiones-in-psalmos.md) (63 KB) |
-| Dionísio bar Salibi, Comentário literal aos Salmos: Sl 42 | Sl 42 (Peshitta e hebraico; Sl 41 da LXX/Vulgata, aproximado); lemas reconhecidos: vv. 2, 9 | o salmo, em glosas literais curtas (corte automático pelos lemas e títulos; conferir as bordas) | sim | [dionisio-bar-salibi-comentario-salmos.md](base/dionisio-bar-salibi-comentario-salmos.md) (3 KB) |
+| Dionísio bar Salibi, Comentário literal aos Salmos: Sl 42 | Sl 42 (Peshitta e hebraico; Sl 41 da LXX/Vulgata, aproximado); lemas reconhecidos: vv. 2, 9 | o salmo, em glosas literais curtas (corte automático pelos lemas e títulos; conferir as bordas) | sim (só pista, não vai ao site) | [dionisio-bar-salibi-comentario-salmos.md](base/dionisio-bar-salibi-comentario-salmos.md) (3 KB) |
 | Eusébio de Cesareia, Commentaria in Psalmos | Sl 42 (hebr.) = Sl 41 (LXX) | SÓ CADEIA: excertos de cadeia que levam o nome de Eusébio, misturados a trechos de outros autores (Orígenes, Dídimo, Apolinário…); atribuição insegura e pode parar antes do fim do salmo | sim | [eusebio-commentaria-in-psalmos.md](base/eusebio-commentaria-in-psalmos.md) (30 KB) |
 | São Gregório de Nissa, In inscriptiones Psalmorum | Sl 42 (hebr.) = Sl 41 (LXX) | só os trechos em que Gregório cita o título ou o primeiro versículo do salmo e comenta (não é comentário seguido) | sim | [gregorio-nissa-in-inscriptiones-psalmorum.md](base/gregorio-nissa-in-inscriptiones-psalmorum.md) (6 KB) |
 | «Haimo de Halberstadt», Commentaria in Psalmos | Sl 41 (Vulgata), que corresponde ao Sl 42 hebr. | o salmo inteiro |  | [haimo-commentaria-in-psalmos.md](base/haimo-commentaria-in-psalmos.md) (9 KB) |

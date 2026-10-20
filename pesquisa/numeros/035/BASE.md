@@ -4,7 +4,7 @@ Gerado por `pesquisa/ferramentas/base-indice.py`; não editar à mão. Os textos
 na língua original, cortados para este capítulo. A pesquisa do capítulo parte daqui e procura o
 que não é óbvio (`CAPITULO.md`, etapa 6).
 
-12 fontes, 5 orientais.
+12 fontes, 4 orientais.
 
 | autor e obra | passagem | cobre | oriental | arquivo |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ que não é óbvio (`CAPITULO.md`, etapa 6).
 | Santo Agostinho, Quaestiones in Heptateuchum IV (Números) | Nm 35; Quaest. in Hept. IV, qq. 64–65 | todas as questões de Agostinho sobre este capítulo (as referências entre colchetes são da Vulgata) |  | [agostinho-quaestiones-in-heptateuchum-4.md](base/agostinho-quaestiones-in-heptateuchum-4.md) (2 KB) |
 | São Bruno de Segni, Expositio in Numeros | Nm 35; Bruno, Expositio in Numeros, cap. XXXV | o capítulo inteiro, resumido (Bruno cita o texto e comenta só o que serve à alegoria e à moral) |  | [bruno-expositio-in-numeros.md](base/bruno-expositio-in-numeros.md) (5 KB) |
 | São Cirilo de Alexandria, De adoratione (trechos sobre Números) | Nm 35; 5 fala(s) do diálogo com Paládio, PG 68, 152, 413, 580, 581, 864 | só as falas que citam este capítulo (ver Nota); não é a obra inteira nem as alusões sem citação | sim | [cirilo-de-adoratione-numeros.md](base/cirilo-de-adoratione-numeros.md) (23 KB) |
-| Dionísio bar Salibi, Comentário literal a Números: Números 35 | Números 35; lemas reconhecidos: vv. 14, 15, 28 | o capítulo inteiro, em glosas literais curtas (corte automático pelos lemas; conferir as bordas) | sim | [dionisio-bar-salibi-comentario-numeros.md](base/dionisio-bar-salibi-comentario-numeros.md) (3 KB) |
+| Dionísio bar Salibi, Comentário literal a Números: Números 35 | Números 35; lemas reconhecidos: vv. 14, 15, 28 | o capítulo inteiro, em glosas literais curtas (corte automático pelos lemas; conferir as bordas) | sim (só pista, não vai ao site) | [dionisio-bar-salibi-comentario-numeros.md](base/dionisio-bar-salibi-comentario-numeros.md) (3 KB) |
 | Santo Efrém (atribuído), Explanatio in Numeros | Nm 35; 3 unidade(s) de ~1500 caracteres do OCR (atribuição aproximada, ver Nota) | as unidades de texto atribuídas a este capítulo (só o latim; o siríaco do OCR é ilegível); pode faltar ou sobrar meia página nas pontas | sim | [efrem-in-numeros.md](base/efrem-in-numeros.md) (5 KB) |
 | Cornélio a Lápide, Commentaria in Numeros | Nm 35; Lápide, cap. XXXV | o capítulo inteiro, versículo a versículo, com o texto da Vulgata no começo e a SYNOPSIS |  | [lapide-commentaria-in-numeros.md](base/lapide-commentaria-in-numeros.md) (43 KB) |
 | Paterius, Expositio Veteris ac Novi Testamenti, livro IV (Números) | Nm 35; Paterius IV, cap. XXIV | os excertos de Gregório sobre versículos deste capítulo (só os que Paterius escolheu) |  | [paterio-expositio-numeros.md](base/paterio-expositio-numeros.md) (1 KB) |

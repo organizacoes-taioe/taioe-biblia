@@ -4,7 +4,7 @@ Gerado por `pesquisa/ferramentas/base-indice.py`; não editar à mão. Os textos
 na língua original, cortados para este capítulo. A pesquisa do capítulo parte daqui e procura o
 que não é óbvio (`CAPITULO.md`, etapa 6).
 
-22 fontes, 8 orientais.
+22 fontes, 6 orientais.
 
 | autor e obra | passagem | cobre | oriental | arquivo |
 |---|---|---|---|---|
@@ -18,9 +18,9 @@ que não é óbvio (`CAPITULO.md`, etapa 6).
 | São Bruno de Segni, Expositio in Psalmos | Sl 38 (Vulgata), que corresponde ao Sl 39 hebr. | o salmo inteiro |  | [bruno-segni-expositio-in-psalmos.md](base/bruno-segni-expositio-in-psalmos.md) (10 KB) |
 | Cassiodoro, Expositio Psalmorum | Sl 38 (Vulgata), que corresponde ao Sl 39 hebr. | o salmo inteiro |  | [cassiodoro-expositio-psalmorum.md](base/cassiodoro-expositio-psalmorum.md) (21 KB) |
 | São Cirilo de Alexandria, Expositio in Psalmos | Sl 39 (hebr.) = Sl 38 (LXX) | excertos de cadeia (ed. Mai) sobre o salmo; não cobre todos os versículos; trechos entre colchetes têm origem incerta e várias glosas repetem Basílio e Teodoreto | sim | [cirilo-expositio-in-psalmos.md](base/cirilo-expositio-in-psalmos.md) (20 KB) |
-| Dionísio bar Salibi, Comentário literal aos Salmos: Sl 39 | Sl 39 (Peshitta e hebraico; Sl 38 da LXX/Vulgata, aproximado); lemas reconhecidos: vv. 7 | o salmo, em glosas literais curtas (corte automático pelos lemas e títulos; conferir as bordas) | sim | [dionisio-bar-salibi-comentario-salmos.md](base/dionisio-bar-salibi-comentario-salmos.md) (3 KB) |
+| Dionísio bar Salibi, Comentário literal aos Salmos: Sl 39 | Sl 39 (Peshitta e hebraico; Sl 38 da LXX/Vulgata, aproximado); lemas reconhecidos: vv. 7 | o salmo, em glosas literais curtas (corte automático pelos lemas e títulos; conferir as bordas) | sim (só pista, não vai ao site) | [dionisio-bar-salibi-comentario-salmos.md](base/dionisio-bar-salibi-comentario-salmos.md) (3 KB) |
 | Eusébio de Cesareia, Commentaria in Psalmos | Sl 39 (hebr.) = Sl 38 (LXX) | SÓ CADEIA: excertos de cadeia que levam o nome de Eusébio, misturados a trechos de outros autores (Orígenes, Dídimo, Apolinário…); atribuição insegura e pode parar antes do fim do salmo | sim | [eusebio-commentaria-in-psalmos.md](base/eusebio-commentaria-in-psalmos.md) (16 KB) |
-| Filoxeno de Mabug, Discursos sobre a vida cristã, 7: Sobre o temor de Deus | Discurso 7: o temor de Deus nas palavras de Davi (Sl 38 e 39 da Peshitta, em sequência) | só citações dos vv. 3–4 e 10–12 (o mesmo parágrafo está em salmos/038) | sim | [filoxeno-discursos.md](base/filoxeno-discursos.md) (3 KB) |
+| Filoxeno de Mabug, Discursos sobre a vida cristã, 7: Sobre o temor de Deus | Discurso 7: o temor de Deus nas palavras de Davi (Sl 38 e 39 da Peshitta, em sequência) | só citações dos vv. 3–4 e 10–12 (o mesmo parágrafo está em salmos/038) | sim (só pista, não vai ao site) | [filoxeno-discursos.md](base/filoxeno-discursos.md) (3 KB) |
 | «Haimo de Halberstadt», Commentaria in Psalmos | Sl 38 (Vulgata), que corresponde ao Sl 39 hebr. | o salmo inteiro |  | [haimo-commentaria-in-psalmos.md](base/haimo-commentaria-in-psalmos.md) (11 KB) |
 | Liturgia da Igreja, Usos litúrgicos do salmo | Sl 39 (hebraico) = Sl 38 (Vulgata) | onde o salmo é rezado: saltério de quatro semanas, salmo responsorial da Missa, propers do Missal e saltério do Breviário até 1962 |  | [liturgia.md](base/liturgia.md) (2 KB) |
 | Orígenes, Fragmenta in Psalmos 1–150 (Pitra) | Sl 39 (hebr.) = Sl 38 (LXX) | fragmentos de cadeia sobre versículos do salmo (nem todos); marcadores [PG n, m] = salmo, versículo; OCR ruim | sim | [origenes-fragmenta-in-psalmos.md](base/origenes-fragmenta-in-psalmos.md) (12 KB) |

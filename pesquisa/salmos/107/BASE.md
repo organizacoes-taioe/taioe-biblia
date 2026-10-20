@@ -8,7 +8,7 @@ que não é óbvio (`CAPITULO.md`, etapa 6).
 
 | autor e obra | passagem | cobre | oriental | arquivo |
 |---|---|---|---|---|
-| Santo Afonso Maria de Ligório, Traduzione de' Salmi e de' Cantici | Sl 107 (hebraico) = Sl 106 (Vulgata, numeração de Afonso); pp. 823–826 da edição-base do IntraText | o salmo inteiro (argomento e, versículo a versículo, latim da Vulgata e paráfrase italiana) |  | [afonso-salmi.md](base/afonso-salmi.md) (10 KB) |
+| Santo Afonso Maria de Ligório, Traduzione de' Salmi e de' Cantici | Sl 107 (hebraico) = Sl 106 (Vulgata, numeração de Afonso); pp. 823–826 da edição-base do IntraText | o salmo inteiro (argomento e, versículo a versículo, latim da Vulgata e paráfrase italiana) |  | [afonso-salmi.md](base/afonso-salmi.md) (9 KB) |
 | Santo Agostinho, Enarrationes in Psalmos | Sl 106 (Vulgata), que corresponde ao Sl 107 hebr.; uma enarratio | o salmo inteiro (todas as enarrationes e sermões) |  | [agostinho-enarrationes-in-psalmos.md](base/agostinho-enarrationes-in-psalmos.md) (32 KB) |
 | Arnóbio, o Jovem, Commentarii in Psalmos | Sl 106 (Vulgata), que corresponde ao Sl 107 hebr. | o salmo inteiro |  | [arnobio-commentarii-in-psalmos.md](base/arnobio-commentarii-in-psalmos.md) (11 KB) |
 | São Roberto Belarmino, Explanatio in Psalmos | Sl 106 (Vulgata), que corresponde ao Sl 107 hebr. | o salmo inteiro |  | [belarmino-explanatio-in-psalmos.md](base/belarmino-explanatio-in-psalmos.md) (35 KB) |

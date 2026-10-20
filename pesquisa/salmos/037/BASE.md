@@ -4,7 +4,7 @@ Gerado por `pesquisa/ferramentas/base-indice.py`; não editar à mão. Os textos
 na língua original, cortados para este capítulo. A pesquisa do capítulo parte daqui e procura o
 que não é óbvio (`CAPITULO.md`, etapa 6).
 
-21 fontes, 7 orientais.
+21 fontes, 6 orientais.
 
 | autor e obra | passagem | cobre | oriental | arquivo |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ que não é óbvio (`CAPITULO.md`, etapa 6).
 | São Bruno de Segni, Expositio in Psalmos | Sl 36 (Vulgata), que corresponde ao Sl 37 hebr. | o salmo inteiro |  | [bruno-segni-expositio-in-psalmos.md](base/bruno-segni-expositio-in-psalmos.md) (17 KB) |
 | Cassiodoro, Expositio Psalmorum | Sl 36 (Vulgata), que corresponde ao Sl 37 hebr. | o salmo inteiro |  | [cassiodoro-expositio-psalmorum.md](base/cassiodoro-expositio-psalmorum.md) (42 KB) |
 | São Cirilo de Alexandria, Expositio in Psalmos | Sl 37 (hebr.) = Sl 36 (LXX) | excertos de cadeia (ed. Mai) sobre o salmo; não cobre todos os versículos; trechos entre colchetes têm origem incerta e várias glosas repetem Basílio e Teodoreto | sim | [cirilo-expositio-in-psalmos.md](base/cirilo-expositio-in-psalmos.md) (66 KB) |
-| Dionísio bar Salibi, Comentário literal aos Salmos: Sl 37 | Sl 37 (Peshitta e hebraico; Sl 36 da LXX/Vulgata, aproximado); lemas reconhecidos: vv. 1, 5 | o salmo, em glosas literais curtas (corte automático pelos lemas e títulos; conferir as bordas) | sim | [dionisio-bar-salibi-comentario-salmos.md](base/dionisio-bar-salibi-comentario-salmos.md) (1 KB) |
+| Dionísio bar Salibi, Comentário literal aos Salmos: Sl 37 | Sl 37 (Peshitta e hebraico; Sl 36 da LXX/Vulgata, aproximado); lemas reconhecidos: vv. 1, 5 | o salmo, em glosas literais curtas (corte automático pelos lemas e títulos; conferir as bordas) | sim (só pista, não vai ao site) | [dionisio-bar-salibi-comentario-salmos.md](base/dionisio-bar-salibi-comentario-salmos.md) (1 KB) |
 | Eusébio de Cesareia, Commentaria in Psalmos | Sl 37 (hebr.) = Sl 36 (LXX) | SÓ CADEIA: excertos de cadeia que levam o nome de Eusébio, misturados a trechos de outros autores (Orígenes, Dídimo, Apolinário…); atribuição insegura e pode parar antes do fim do salmo | sim | [eusebio-commentaria-in-psalmos.md](base/eusebio-commentaria-in-psalmos.md) (45 KB) |
 | «Haimo de Halberstadt», Commentaria in Psalmos | Sl 36 (Vulgata), que corresponde ao Sl 37 hebr. | o salmo inteiro |  | [haimo-commentaria-in-psalmos.md](base/haimo-commentaria-in-psalmos.md) (20 KB) |
 | Liturgia da Igreja, Usos litúrgicos do salmo | Sl 37 (hebraico) = Sl 36 (Vulgata) | onde o salmo é rezado: saltério de quatro semanas, salmo responsorial da Missa, propers do Missal e saltério do Breviário até 1962 |  | [liturgia.md](base/liturgia.md) (4 KB) |

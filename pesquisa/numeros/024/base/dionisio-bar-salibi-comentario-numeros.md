@@ -6,6 +6,7 @@
 - Fonte: https://syriaccorpus.org/231 (XML: https://raw.githubusercontent.com/srophe/syriac-corpus/main/data/tei/231.xml)
 - Cobre: o capítulo inteiro, em glosas literais curtas (corte automático pelos lemas; conferir as bordas)
 - Oriental: sim
+- Uso: só pista: fora da comunhão com Roma; não entra no site (decisão do Gere, 20/10/2026)
 - Língua: syr
 - Baixado: 2026-10-20, por pesquisa/ferramentas/base/ori-siriaco-dionisio.py
 

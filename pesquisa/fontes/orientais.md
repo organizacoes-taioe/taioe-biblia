@@ -56,6 +56,12 @@ comentário, usar a frase da coluna «como apresentar».
 | Simeão, o Novo Teólogo; Gregório Palamas; Nicolau Cabásilas | santos nas Igrejas ortodoxas, posteriores a 1054 | escritores eclesiásticos; Palamas, nunca em ponto de doutrina (energias). |
 | Teofilacto de Ocrida (c. 1050–1107); Eutímio Zigabeno (séc. XII); Nicetas de Heracleia (séc. XI); «Ecumênio» das cartas (séc. X) | escritores eclesiásticos bizantinos (posteriores a 1054) | resumem os Padres; valem quando acrescentam. Teofilacto e Ecumênio sobre 2Cor já têm base/ (grupo dos gregos). |
 
+
+> **Decisão do Gere (20/10/2026): os siríacos fora da comunhão com Roma ficam só como pista.**
+> Dionísio bar Salibi, Filoxeno de Mabug, Narsai, Isho`dad de Merv e Teodoro bar Koni não entram no
+> site; os textos deles em `base/` levam «Uso: só pista» e servem para achar o que os Padres
+> disseram. O que vale abaixo sobre o estatuto deles fica só como registro.
+
 ## 2. Onde está o texto (só domínio público; URLs conferidas em 2026-10-20)
 
 ### Siríaco: a fonte principal é o Digital Syriac Corpus

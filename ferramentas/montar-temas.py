@@ -71,6 +71,8 @@ def nome_autor(a, onde):
     if e is None:
         problemas.append(f'{onde}: autor fora de ferramentas/autores.json: {nome!r} (acrescentar com "sobre" e "oriental")')
         return nome, {'sobre': '', 'oriental': False}
+    if e.get('site') is False:
+        problemas.append(f'{onde}: {nome} fica só como pista, não entra no site (decisão do Gere, 20/10)')
     if e.get('usar'):
         return e['usar'], AUTORES[e['usar']]
     return nome, e

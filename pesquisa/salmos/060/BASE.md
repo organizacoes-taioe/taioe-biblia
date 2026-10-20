@@ -4,7 +4,7 @@ Gerado por `pesquisa/ferramentas/base-indice.py`; não editar à mão. Os textos
 na língua original, cortados para este capítulo. A pesquisa do capítulo parte daqui e procura o
 que não é óbvio (`CAPITULO.md`, etapa 6).
 
-22 fontes, 9 orientais.
+22 fontes, 8 orientais.
 
 | autor e obra | passagem | cobre | oriental | arquivo |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ que não é óbvio (`CAPITULO.md`, etapa 6).
 | São Bruno de Segni, Expositio in Psalmos | Sl 59 (Vulgata), que corresponde ao Sl 60 hebr. | o salmo inteiro |  | [bruno-segni-expositio-in-psalmos.md](base/bruno-segni-expositio-in-psalmos.md) (12 KB) |
 | Cassiodoro, Expositio Psalmorum | Sl 59 (Vulgata), que corresponde ao Sl 60 hebr. | o salmo inteiro |  | [cassiodoro-expositio-psalmorum.md](base/cassiodoro-expositio-psalmorum.md) (18 KB) |
 | São Cirilo de Alexandria, Expositio in Psalmos | Sl 60 (hebr.) = Sl 59 (LXX) | excertos de cadeia (ed. Mai) sobre o salmo; não cobre todos os versículos; trechos entre colchetes têm origem incerta e várias glosas repetem Basílio e Teodoreto | sim | [cirilo-expositio-in-psalmos.md](base/cirilo-expositio-in-psalmos.md) (1 KB) |
-| Dionísio bar Salibi, Comentário literal aos Salmos: Sl 60 | Sl 60 (Peshitta e hebraico; Sl 59 da LXX/Vulgata, aproximado); lemas reconhecidos: vv. — | o salmo, em glosas literais curtas (corte automático pelos lemas e títulos; conferir as bordas) | sim | [dionisio-bar-salibi-comentario-salmos.md](base/dionisio-bar-salibi-comentario-salmos.md) (3 KB) |
+| Dionísio bar Salibi, Comentário literal aos Salmos: Sl 60 | Sl 60 (Peshitta e hebraico; Sl 59 da LXX/Vulgata, aproximado); lemas reconhecidos: vv. — | o salmo, em glosas literais curtas (corte automático pelos lemas e títulos; conferir as bordas) | sim (só pista, não vai ao site) | [dionisio-bar-salibi-comentario-salmos.md](base/dionisio-bar-salibi-comentario-salmos.md) (3 KB) |
 | Eusébio de Cesareia, Commentaria in Psalmos | Sl 60 (hebr.) = Sl 59 (LXX) | o salmo inteiro (Eusébio comenta de forma contínua os Sl 51–95); pode parar antes do fim em alguns salmos | sim | [eusebio-commentaria-in-psalmos.md](base/eusebio-commentaria-in-psalmos.md) (60 KB) |
 | São Gregório de Nissa, In inscriptiones Psalmorum | Sl 60 (hebr.) = Sl 59 (LXX) | só os trechos em que Gregório cita o título ou o primeiro versículo do salmo e comenta (não é comentário seguido) | sim | [gregorio-nissa-in-inscriptiones-psalmorum.md](base/gregorio-nissa-in-inscriptiones-psalmorum.md) (6 KB) |
 | «Haimo de Halberstadt», Commentaria in Psalmos | Sl 59 (Vulgata), que corresponde ao Sl 60 hebr. | o salmo inteiro |  | [haimo-commentaria-in-psalmos.md](base/haimo-commentaria-in-psalmos.md) (12 KB) |

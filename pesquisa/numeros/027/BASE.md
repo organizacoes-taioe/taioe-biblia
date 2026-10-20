@@ -4,14 +4,14 @@ Gerado por `pesquisa/ferramentas/base-indice.py`; não editar à mão. Os textos
 na língua original, cortados para este capítulo. A pesquisa do capítulo parte daqui e procura o
 que não é óbvio (`CAPITULO.md`, etapa 6).
 
-13 fontes, 4 orientais.
+13 fontes, 3 orientais.
 
 | autor e obra | passagem | cobre | oriental | arquivo |
 |---|---|---|---|---|
 | Santo Agostinho, Locutiones in Heptateuchum IV (Números) | Nm 27; Locutiones in Hept. IV, 3 entradas | todas as entradas deste capítulo (só gramática e idiomatismos da Vetus Latina) |  | [agostinho-locutiones-in-heptateuchum-4.md](base/agostinho-locutiones-in-heptateuchum-4.md) (1 KB) |
 | Santo Agostinho, Quaestiones in Heptateuchum IV (Números) | Nm 27; Quaest. in Hept. IV, qq. 53–55 | todas as questões de Agostinho sobre este capítulo (as referências entre colchetes são da Vulgata) |  | [agostinho-quaestiones-in-heptateuchum-4.md](base/agostinho-quaestiones-in-heptateuchum-4.md) (4 KB) |
 | São Bruno de Segni, Expositio in Numeros | Nm 27; Bruno, Expositio in Numeros, cap. XXVI; cap. XXVII | o capítulo inteiro, resumido (Bruno cita o texto e comenta só o que serve à alegoria e à moral) |  | [bruno-expositio-in-numeros.md](base/bruno-expositio-in-numeros.md) (1 KB) |
-| Dionísio bar Salibi, Comentário literal a Números: Números 27 | Números 27; lemas reconhecidos: vv. 12, 13, 18, 20 | o capítulo inteiro, em glosas literais curtas (corte automático pelos lemas; conferir as bordas) | sim | [dionisio-bar-salibi-comentario-numeros.md](base/dionisio-bar-salibi-comentario-numeros.md) (3 KB) |
+| Dionísio bar Salibi, Comentário literal a Números: Números 27 | Números 27; lemas reconhecidos: vv. 12, 13, 18, 20 | o capítulo inteiro, em glosas literais curtas (corte automático pelos lemas; conferir as bordas) | sim (só pista, não vai ao site) | [dionisio-bar-salibi-comentario-numeros.md](base/dionisio-bar-salibi-comentario-numeros.md) (3 KB) |
 | Santo Efrém (atribuído), Explanatio in Numeros | Nm 27; 2 unidade(s) de ~1500 caracteres do OCR (atribuição aproximada, ver Nota) | as unidades de texto atribuídas a este capítulo (só o latim; o siríaco do OCR é ilegível); pode faltar ou sobrar meia página nas pontas | sim | [efrem-in-numeros.md](base/efrem-in-numeros.md) (4 KB) |
 | Santo Isidoro, Quaestiones in Vetus Testamentum, In Numeros | Nm 27; Isidoro, In Numeros: cap. XLI, §§1–2; cap. XLII, §§11–12 | só os trechos que tratam deste capítulo (o In Numeros de Isidoro é uma alegoria das 42 mansões; ver Nota) |  | [isidoro-quaestiones-in-numeros.md](base/isidoro-quaestiones-in-numeros.md) (2 KB) |
 | Cornélio a Lápide, Commentaria in Numeros | Nm 27; Lápide, cap. XXVII | o capítulo inteiro, versículo a versículo, com o texto da Vulgata no começo e a SYNOPSIS |  | [lapide-commentaria-in-numeros.md](base/lapide-commentaria-in-numeros.md) (24 KB) |

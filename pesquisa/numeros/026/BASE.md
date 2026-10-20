@@ -4,13 +4,13 @@ Gerado por `pesquisa/ferramentas/base-indice.py`; não editar à mão. Os textos
 na língua original, cortados para este capítulo. A pesquisa do capítulo parte daqui e procura o
 que não é óbvio (`CAPITULO.md`, etapa 6).
 
-11 fontes, 4 orientais.
+11 fontes, 3 orientais.
 
 | autor e obra | passagem | cobre | oriental | arquivo |
 |---|---|---|---|---|
 | Santo Agostinho, Locutiones in Heptateuchum IV (Números) | Nm 26 (a Vulgata põe no v. 1 o que o hebraico tem em 25,19); Locutiones in Hept. IV, 1 entradas | todas as entradas deste capítulo (só gramática e idiomatismos da Vetus Latina) |  | [agostinho-locutiones-in-heptateuchum-4.md](base/agostinho-locutiones-in-heptateuchum-4.md) (1 KB) |
 | São Cirilo de Alexandria, De adoratione (trechos sobre Números) | Nm 26 (a Vulgata põe no v. 1 o que o hebraico tem em 25,19); 3 fala(s) do diálogo com Paládio, PG 68, 316, 345, 348 | só as falas que citam este capítulo (ver Nota); não é a obra inteira nem as alusões sem citação | sim | [cirilo-de-adoratione-numeros.md](base/cirilo-de-adoratione-numeros.md) (18 KB) |
-| Dionísio bar Salibi, Comentário literal a Números: Números 26 | Números 26; lemas reconhecidos: vv. 2, 51, 62 | o capítulo inteiro, em glosas literais curtas (corte automático pelos lemas; conferir as bordas) | sim | [dionisio-bar-salibi-comentario-numeros.md](base/dionisio-bar-salibi-comentario-numeros.md) (2 KB) |
+| Dionísio bar Salibi, Comentário literal a Números: Números 26 | Números 26; lemas reconhecidos: vv. 2, 51, 62 | o capítulo inteiro, em glosas literais curtas (corte automático pelos lemas; conferir as bordas) | sim (só pista, não vai ao site) | [dionisio-bar-salibi-comentario-numeros.md](base/dionisio-bar-salibi-comentario-numeros.md) (2 KB) |
 | Santo Isidoro, Quaestiones in Vetus Testamentum, In Numeros | Nm 26 (a Vulgata põe no v. 1 o que o hebraico tem em 25,19); Isidoro, In Numeros: cap. XLII, §§9–10 | só os trechos que tratam deste capítulo (o In Numeros de Isidoro é uma alegoria das 42 mansões; ver Nota) |  | [isidoro-quaestiones-in-numeros.md](base/isidoro-quaestiones-in-numeros.md) (1 KB) |
 | Cornélio a Lápide, Commentaria in Numeros | Nm 26 (a Vulgata põe no v. 1 o que o hebraico tem em 25,19); Lápide, cap. XXVI | o capítulo inteiro, versículo a versículo, com o texto da Vulgata no começo e a SYNOPSIS |  | [lapide-commentaria-in-numeros.md](base/lapide-commentaria-in-numeros.md) (18 KB) |
 | Orígenes, Homiliae in Numeros (Rufino) | Nm 26 (a Vulgata põe no v. 1 o que o hebraico tem em 25,19); H21 | a(s) homilia(s) que comentam este capítulo, inteiras ou no trecho indicado |  | [origenes-homilias-in-numeros.md](base/origenes-homilias-in-numeros.md) (13 KB) |

@@ -8,7 +8,7 @@ que não é óbvio (`CAPITULO.md`, etapa 6).
 
 | autor e obra | passagem | cobre | oriental | arquivo |
 |---|---|---|---|---|
-| Santo Afonso Maria de Ligório, Traduzione de' Salmi e de' Cantici | Sl 119 (hebraico) = Sl 118 (Vulgata, numeração de Afonso); pp. 658–661 da edição-base do IntraText | o salmo inteiro (argomento e, versículo a versículo, latim da Vulgata e paráfrase italiana) |  | [afonso-salmi.md](base/afonso-salmi.md) (8 KB) |
+| Santo Afonso Maria de Ligório, Traduzione de' Salmi e de' Cantici | Sl 119 (hebraico) = Sl 118 (Vulgata, numeração de Afonso); pp. 658–661 da edição-base do IntraText | o salmo inteiro (argomento e, versículo a versículo, latim da Vulgata e paráfrase italiana) |  | [afonso-salmi.md](base/afonso-salmi.md) (7 KB) |
 | Santo Agostinho, Enarrationes in Psalmos | Sl 118 (Vulgata), que corresponde ao Sl 119 hebr.; prólogo e 32 sermões (enarrationes I–XXXII) | o salmo inteiro (todas as enarrationes e sermões) |  | [agostinho-enarrationes-in-psalmos.md](base/agostinho-enarrationes-in-psalmos.md) (276 KB) |
 | Santo Ambrósio, Expositio in Psalmum CXVIII | Sl 118 (Vulgata), que corresponde ao Sl 119 hebr. | o salmo inteiro |  | [ambrosio-expositio-in-psalmum-118.md](base/ambrosio-expositio-in-psalmum-118.md) (841 KB) |
 | Arnóbio, o Jovem, Commentarii in Psalmos | Sl 118 (Vulgata), que corresponde ao Sl 119 hebr. | o salmo inteiro |  | [arnobio-commentarii-in-psalmos.md](base/arnobio-commentarii-in-psalmos.md) (46 KB) |

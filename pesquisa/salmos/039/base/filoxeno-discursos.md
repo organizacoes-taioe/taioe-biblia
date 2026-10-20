@@ -6,6 +6,7 @@
 - Fonte: https://syriaccorpus.org/380
 - Cobre: só citações dos vv. 3–4 e 10–12 (o mesmo parágrafo está em salmos/038)
 - Oriental: sim
+- Uso: só pista: fora da comunhão com Roma; não entra no site (decisão do Gere, 20/10/2026)
 - Língua: syr
 - Baixado: 2026-10-20, por pesquisa/ferramentas/base/ori-siriaco-gravar.py
 

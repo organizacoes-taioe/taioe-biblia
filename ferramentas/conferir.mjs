@@ -4,7 +4,7 @@
 // - versículos em ordem, sem lacuna nem duplicata; nenhum `np` logo depois de subtítulo;
 // - notas com âncora que existe no versículo; ids únicos e no formato da revisão;
 // - comentários com autor, obra, passagem, texto e link https; tema com id, título e itens;
-// - autor cadastrado em ferramentas/autores.json; nenhum excerto repetido de um capítulo para outro.
+// - autor cadastrado em ferramentas/autores.json (e não marcado "site": false, os que ficam só como pista); nenhum excerto repetido de um capítulo para outro.
 // No fim mostra, por capítulo, quantos comentários são de Padres orientais.
 import fs from 'node:fs';
 import path from 'node:path';
@@ -90,6 +90,7 @@ for (const l of livros) {
           itens.add(it.id);
           const a = AUTORES[it.autor];
           if (!a) erro(onde, `comentário ${it.id}: autor fora de ferramentas/autores.json: ${it.autor}`);
+          else if (a.site === false) erro(onde, `comentário ${it.id}: ${it.autor} fica só como pista, não entra no site (decisão do Gere, 20/10)`);
           nCom++; if (a && a.oriental) nOr++;
           if (it.texto) excertos.push({ onde: `${l.id}/${f} ${it.id}`, cap: onde, seq: sequencias(it.texto) });
           for (const k of ['autor', 'obra', 'passagem', 'texto']) if (!it[k]) erro(onde, `comentário ${it.id} sem ${k}`);

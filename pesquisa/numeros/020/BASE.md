@@ -4,7 +4,7 @@ Gerado por `pesquisa/ferramentas/base-indice.py`; não editar à mão. Os textos
 na língua original, cortados para este capítulo. A pesquisa do capítulo parte daqui e procura o
 que não é óbvio (`CAPITULO.md`, etapa 6).
 
-18 fontes, 10 orientais.
+18 fontes, 9 orientais.
 
 | autor e obra | passagem | cobre | oriental | arquivo |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ que não é óbvio (`CAPITULO.md`, etapa 6).
 | São Cirilo de Alexandria, De adoratione (trechos sobre Números) | Nm 20; 3 fala(s) do diálogo com Paládio, PG 68, 569, 885, 896 | só as falas que citam este capítulo (ver Nota); não é a obra inteira nem as alusões sem citação | sim | [cirilo-de-adoratione-numeros.md](base/cirilo-de-adoratione-numeros.md) (13 KB) |
 | São Cirilo de Alexandria, Fragmenta duo in Numeros | Nm 20; segundo fragmento (Nm 20,8: «Λαβὲ τὴν ῥάβδον καὶ ἐκκλησίασον τὴν συναγωγήν», a pedra que é Cristo) | só um fragmento curto (quatro a cinco linhas) | sim | [cirilo-fragmenta-in-numeros.md](base/cirilo-fragmenta-in-numeros.md) (1 KB) |
 | São Cosme de Jerusalém, Cânon da Exaltação da Cruz | ode 3, tropário depois do irmo | alusão a Nm 20,10–11 (a rocha ferida dá água ao povo «rebelde», ἀπειθοῦντι; cf. Ex 17,6 e Dt 8,15, «rocha ἀκρότομος»), lida como mistério da Igreja, que tem a cruz por força e firmeza | sim | [cosme-canon-exaltacao-cruz.md](base/cosme-canon-exaltacao-cruz.md) (1 KB) |
-| Dionísio bar Salibi, Comentário literal a Números: Números 20 | Números 20; lemas reconhecidos: vv. 1, 6, 8, 10, 13 | o capítulo inteiro, em glosas literais curtas (corte automático pelos lemas; conferir as bordas) | sim | [dionisio-bar-salibi-comentario-numeros.md](base/dionisio-bar-salibi-comentario-numeros.md) (8 KB) |
+| Dionísio bar Salibi, Comentário literal a Números: Números 20 | Números 20; lemas reconhecidos: vv. 1, 6, 8, 10, 13 | o capítulo inteiro, em glosas literais curtas (corte automático pelos lemas; conferir as bordas) | sim (só pista, não vai ao site) | [dionisio-bar-salibi-comentario-numeros.md](base/dionisio-bar-salibi-comentario-numeros.md) (8 KB) |
 | Santo Efrém (atribuído), Explanatio in Numeros | Nm 20; 2 unidade(s) de ~1500 caracteres do OCR (atribuição aproximada, ver Nota) | as unidades de texto atribuídas a este capítulo (só o latim; o siríaco do OCR é ilegível); pode faltar ou sobrar meia página nas pontas | sim | [efrem-in-numeros.md](base/efrem-in-numeros.md) (5 KB) |
 | Santo Isidoro, Quaestiones in Vetus Testamentum, In Numeros | Nm 20; Isidoro, In Numeros: cap. XXXIII, §§1–6; cap. XXXIV, §1 | só os trechos que tratam deste capítulo (o In Numeros de Isidoro é uma alegoria das 42 mansões; ver Nota) |  | [isidoro-quaestiones-in-numeros.md](base/isidoro-quaestiones-in-numeros.md) (4 KB) |
 | São Jacó de Sarug, Memra sobre Aarão, o sacerdote | a morte de Aarão no monte Hor (Nm 20,22-29), memra inteiro | Nm 20,22-29, memra inteiro | sim | [jaco-sarug-sobre-aarao.md](base/jaco-sarug-sobre-aarao.md) (34 KB) |
