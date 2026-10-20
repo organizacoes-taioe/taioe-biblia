@@ -1,0 +1,88 @@
+[
+ {
+  "id": "jaco-sarug-memra-78-sabado-nas-franjas",
+  "autor": "São Jacó de Sarug",
+  "autor_id": "jaco-sarug",
+  "datas": "c. 451–521",
+  "titulo_autor": "bispo de Batnan, poeta",
+  "obra": "Memra 78, Sobre os dois bodes (o do sacrifício e o de Azazel)",
+  "passagem": "Memra 78 (Bedjan III), p. 286",
+  "edicao": "P. Bedjan, Homiliae selectae Mar-Jacobi Sarugensis III (Paris–Leipzig 1907), p. 286; siríaco transcrito da imagem da página",
+  "versiculos": [
+   32,
+   38,
+   39,
+   40
+  ],
+  "trecho": "5",
+  "lingua": "syr",
+  "original": "ܠܫܘܪܐ ܕܡܝܐ ܕܡܢ ܝܡܝܢܗ ܘܡܢ ܣܡܠܗ: ܛܥܐ ܗܘܐ ܒܣܝܢܝ ܘܕܡܢ ܦܪܩܗ ܠܐ ܝܕܥ ܗܘܐ܀ […] ܟܠ ܡܥܗܕܢܘܬܐ ܣܐܡ ܗܘܐ ܠܗ ܠܥܡܐ ܡܪܗ܀ ܡܛܠ ܫܒܬ ܩܛܪ ܨܘܨܝ̈ܬܐ ܒܡܪ̈ܛܘܛܝܗܘܢ: ܕܛܥܝܢ ܗܘܘ ܠܗ ܠܝܘܡܐ ܩܪܝܐ ܕܐܬܝܗܒ ܗܘܐ܀ ܥܠ ܟܢܦ̈ܐ ܕܢܚ̈ܬܐ ܨܪܗ̇ ܒܙܥܘܪܝܬܐ: ܠܫܒܬܐ ܕܩܘܕܫܐ ܕܢܬܕܟܪܘܢܗ̇ ܕܛܥܐܘܗ̇ ܗܘܘ܀",
+  "fonte_url": "https://archive.org/details/homiliaeselectae03jaco/page/n285/mode/1up",
+  "traducao_pt": "O muro de água, à sua direita e à sua esquerda, o povo o esqueceu no Sinai, e já não sabia quem o tinha salvado. […] Toda espécie de lembrete o seu Senhor ia pondo para o povo. Por causa do sábado, atou franjas nos mantos deles, porque se esqueciam do dia solene que lhes tinha sido dado; nas pontas das vestes o desenhou em miniatura, para que se lembrassem do santo sábado de que se tinham esquecido.",
+  "temas": [
+   "as franjas, lembrete do sábado",
+   "o povo que esquece",
+   "a pedagogia de Deus"
+  ],
+  "resumo": "Deus trata o povo esquecido como a uma criança e o cerca de lembretes: nas franjas dos mantos desenha em miniatura o sábado que eles esqueciam.",
+  "relevancia": 3,
+  "direitos": "domínio público (texto siríaco antigo; ed. Bedjan, 1907)"
+ },
+ {
+  "id": "efrem-juliano-saba-20-13-lenha-e-franjas",
+  "autor": "Santo Efrém, o Sírio (atribuído)",
+  "autor_id": "efrem",
+  "datas": "c. 306–373",
+  "titulo_autor": "diácono de Nísibis e Edessa, Doutor da Igreja",
+  "obra": "Hinos sobre Juliano Saba, 20 (Moisés e Juliano Saba no Sinai)",
+  "passagem": "Hino 20, estrofe 13",
+  "edicao": "ed. T. J. Lamy, Sancti Ephraem Syri hymni et sermones III (Malines 1889), col. 913–914 (siríaco e latim); siríaco transcrito da imagem da página",
+  "versiculos": [
+   32,
+   33,
+   34,
+   35,
+   36,
+   38
+  ],
+  "trecho": "4",
+  "lingua": "syr",
+  "original": "ܡܘܫܐ ܒܛܘܪܐ ܕܣܝܢܝ ܝܗܒ ܗܘܐ. ܫܒܬ ܒܛܠܢܐ ܐܝܟ ܕܒܙܒܢܗ. ܘܚܕ ܕܛܥܐ ܗܘܐ ܘܠܩܛ ܩܝ̈ܣܐ. ܒܥܠܬܗ ܨܘܨܝ̈ܬܐ ܐܣܪܘ ܠܠܒܘ̈ܫܐ܀",
+  "fonte_url": "https://archive.org/details/sanctiephraemsy01lamygoog/page/n523/mode/1up",
+  "traducao_pt": "Moisés, no monte Sinai, deu o sábado do descanso, para que se guardasse a seu tempo. Um homem se esqueceu e foi recolher lenha: por causa dele, amarraram franjas nas vestes.",
+  "temas": [
+   "o homem da lenha e as franjas",
+   "o sábado esquecido"
+  ],
+  "resumo": "O hino liga os dois trechos do capítulo: porque um homem esqueceu o sábado e recolheu lenha, Israel passou a amarrar franjas nas vestes.",
+  "relevancia": 2,
+  "direitos": "domínio público (texto siríaco antigo; ed. Lamy, 1889)"
+ },
+ {
+  "id": "efrem-sermao-nosso-senhor-32-sinais-dos-mantos",
+  "autor": "Santo Efrém, o Sírio",
+  "autor_id": "efrem",
+  "datas": "c. 306–373",
+  "titulo_autor": "diácono de Nísibis e Edessa, Doutor da Igreja",
+  "obra": "Sermão sobre Nosso Senhor (Memra de Domino nostro)",
+  "passagem": "§ 32 (numeração de Lamy)",
+  "edicao": "ed. T. J. Lamy, Sancti Ephraem Syri hymni et sermones I (Malines 1882), col. 221–222 (siríaco e latim); siríaco transcrito da imagem da página; ed. crítica de E. Beck, CSCO 270 (1966)",
+  "versiculos": [
+   38,
+   39
+  ],
+  "trecho": "5",
+  "lingua": "syr",
+  "original": "ܣܡ ܓܝܪ ܐܠܗܐ ܐܬܘ̈ܬܐ ܒܦܓܪ̈ܝܗܘܢ ܕܣܡ̈ܝܐ. ܘܫܕܪ ܐܢܘܢ ܠܘܬ ܣܒ̈ܐ. ܗܢܘܢ ܕܐܬܘ̈ܬܐ ܒܟܢܦ̈ܐ ܕܡܪ̈ܛܘܛܝܗܘܢ ܥܒܕܝܢ ܗܘܘ. ܠܐܬܘ̈ܬܐ ܕܝܢ ܕܡܪ̈ܛܘܛܐ ܠܐ ܥܗܕܘ.",
+  "fonte_url": "https://archive.org/details/sanctiephraemsy00lamygoog/page/n205/mode/1up",
+  "traducao_pt": "Pois Deus pôs sinais nos corpos dos cegos e os mandou aos anciãos, àqueles que faziam sinais nas pontas dos seus mantos; mas dos sinais dos mantos eles não se lembraram.",
+  "temas": [
+   "os sinais que não lembram",
+   "as franjas sem memória",
+   "os sinais no corpo"
+  ],
+  "resumo": "Os anciãos que traziam nos mantos os sinais feitos para lembrar (Nm 15,38-39) não se lembraram deles, nem dos sinais que Deus pôs nos corpos dos cegos, como a cegueira de Paulo.",
+  "relevancia": 2,
+  "direitos": "domínio público (texto siríaco antigo; ed. Lamy, 1882)"
+ }
+]

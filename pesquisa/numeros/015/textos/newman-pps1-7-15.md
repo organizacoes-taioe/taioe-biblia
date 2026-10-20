@@ -1,0 +1,8 @@
+# São John Henry Newman, *Parochial and Plain Sermons* I, 7: «Sins of Ignorance and Weakness»
+
+- Texto do sermão: Hb 10,22. Pregado no período anglicano.
+- Link: https://www.newmanreader.org/works/parochial/volume1/sermon7.html (pp. 85–87 da ed. de 1891). Domínio público.
+- **Não cita Nm 15**: a nota 1 remete a Lv 5. Entra como paralelo dos «pecados por ignorância» que pedem sacrifício (Nm 15,22-29).
+- Busca em toda a obra de Newman (937 páginas do newmanreader, cache no scratchpad de outra conversa): «Numb. xv» só numa nota de *Essays on Miracles* II, 5 (Nm 15,35 numa lista de execuções fora da cidade); nada sobre a lenha no sábado, as franjas («ribband», «fringe of the borders») ou a massa («first of your dough»).
+
+> Let no one lightly pass over the Book of Leviticus, and say it only contains the ceremonial of a national law. […] And if so, that minute ceremonial of the Law presents us with a picture of our daily life. It impressively testifies to our continual sinning, by suggesting that an expiation is needful in all the most trivial circumstances of our conduct; and that it is at our peril if we go on carelessly and thoughtlessly, trusting to our having been once accepted […]. Or consider the sacrifices necessary according to the Law for sins of ignorance [Note 1: Levit. v.]; or again, for the mere touching any thing which the Law pronounced unclean, or for bodily disease, and hence learn how sinful our ordinary thoughts and deeds must be, represented to us as they are by these outward ceremonial transgressions. Not even their thanksgiving might the Israelites offer without an offering of blood to cleanse it; for our corruption is not merely in this act or that, but in our nature.

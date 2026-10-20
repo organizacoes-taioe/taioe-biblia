@@ -21,7 +21,7 @@ RAIZ = os.path.abspath(os.path.join(os.path.dirname(os.path.abspath(__file__)), 
 CACHE = os.path.join(RAIZ, 'cache', 'base', 'numeros')
 NUM = os.path.join(RAIZ, 'numeros')
 DATA = '2026-10-20'
-CAPS = list(range(1, 12)) + list(range(17, 37))
+CAPS = list(range(1, 12)) + [15] + list(range(17, 37))
 UA = 'Mozilla/5.0 (pesquisa-biblia-taioe; contato: taioe.com.br)'
 _ultimo = [0.0]
 

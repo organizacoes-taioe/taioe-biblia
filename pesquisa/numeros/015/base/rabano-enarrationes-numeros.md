@@ -1,0 +1,284 @@
+# Rábano Mauro, Enarrationes in librum Numerorum
+- Autor: Rábano Mauro (c. 780–856)
+- Obra: Enarrationes in librum Numerorum
+- Passagem: Nm 15; Rábano, livro II: caps. XII, XIII, XIV, XV, XVI
+- Edição: PL 108, 675–680
+- Fonte: https://mlat.uzh.ch/browser/cps_2.RabMau.EnInLiN
+- Cobre: o capítulo inteiro (compilação: Orígenes/Rufino, Agostinho, Jerônimo, Isidoro; as fontes aparecem nas notas de Migne)
+- Oriental: não
+- Língua: la
+- Baixado: 2026-10-20, por pesquisa/ferramentas/base/lat-rabano-num.py
+
+> Texto da PL (Migne) revisto no Corpus Corporum, com as colunas «[col. …]» e as notas de Migne no rodapé de cada página («N: (CAP. X.)»). O lema bíblico vem no corpo do texto; as chamadas «[N]» remetem às notas de Migne. Rábano copia Orígenes quase palavra por palavra.
+
+[col. 0675C]
+          CAPUT XII. De ritu sacrificiorum per singulas species.
+
+[col. 0675D]
+[235]Locutus est Dominus ad Moysen dicens: Loquere ad filios Israel et 
+dices ad eos: Cum ingressi fueritis terram habitationis vestrae, quam ego 
+dabo vobis, et feceritis oblationem Domino in holocaustum aut victimam 
+pacificam, vota solventes vel sponte offerentes munera, aut in solemnitatibus 
+vestris adolentes odorem suavitatis Domino, de bobus sive de ovibus, offeret 
+quicunque immolaverit victimam, sacrificium similae decimam partem ephi 
+conspersam oleo: quod mensuram habet quartam partem hin, et vinum ad liba 
+fundenda ejusdem mesurae dabit in holocaustum sive in victimam. Per agnos 
+singulos et arietes erit sacrificium similae duarum decimarum, quae conspersa 
+fit oleo tertiae partis hin; et
+______________________________________________________________________
+     235: (CAP. XV.)
+
+[col. 0676A]
+vinum ad libamentum tertiae partis ejusdem mensurae, offeret in odorem 
+suavitatis Domino. Quando vero de bobus feceris holocaustum aut hostiam 
+ut impleas volum, vel pacificas victimas, dabis per singulos boves similae 
+tres decimas conspersae oleo, quod habebit medium mensurae hin, et ad liba 
+fundenda vinum ejusdem mensurae, in oblationem suavissimi odoris Domino. 
+Sic facietis per singulos boves et arietes, et agnos et haedos, et rel. 
+Josephus in Antiquitatum suarum tertio, hujus loci meminens refert. Lex 
+autem praecepit in privatis publicisque sacrificiis etiam farinam mundissimam 
+adjici, in agno quidem assari unam mensuram, in ariete vero duorum, in 
+tauro trium. Et hoc sanctificant super altare oleo mistum. Nam et oleum 
+offertur ab immolantibus, in bove quidem
+[col. 0676B]
+hin medietatem, in ariete autem hujus mensurae tertiam partem et quartam 
+in agno. Hin autem mensura Hebraeorum antiqua choas Atticas duas capit, 
+secundum quam mensuram oleum offerebant. Est autem uti in libro Ruth legitur, 
+ephi mensura trium modiorum. Hin autem ut illi volunt qui de ponderibus 
+ac mensuris scripserunt, sextarii mensuram tenet. Qui ita ideo nominatus 
+est, eo quod sexta pars est congii. Quid ergo hoc vult quod jubetur ingressuris 
+terram repromissionis, per singulas species animalium, quae offerri licebant, 
+sacrificium adhiberi, nisi quod spiritaliter nos docet, qui in terram Ecclesiae 
+per Domini gratiam intravimus, ut per singulas species bonorum operum, 
+scientiam spiritalem in meditatione divinae legis adhibeamus.
+[col. 0676C]
+Mensura ergo ephi, quae tres habet alias mensuras, significat sanctae Trinitatis 
+fidem. Cujus decimam jubetur offerre, id est, credulitatem incarnationis 
+Christi, quae in lege nobis plenissime commendatur, sive observantiam ipsius 
+decalogi. Jubemur simul offerre oleum, hoc est charitatem et misericordiam. 
+Jubemur et vinum ad libamentum, id est, gratiam spiritalem, sive communicationem 
+passionis Christi. Et haec juxta participationem mensurae hin, hoc est, 
+secundum distributionem perfectae devotionis. Senarius autem, qui perfectus 
+est numerus, perfectionem cujusque rei significat. Quid est ergo aliud 
+in agni oblatione decimam partem ephi offerre, similae conspersae oleo 
+juxta quartam partem hin, et vinum ejusdem mensurae ad liba fundenda, nisi 
+simplicitatem
+[col. 0676D]
+morum, simul cum scientia legis divinae et prudentia evangelica exhibere? 
+Quia non decet simplicitatem sine prudentia, nec prudentiam sine simplicitate 
+quemquam habere, qui desiderat oblationem suam Deo acceptabilem facere. 
+Unde Salvator in Evangelio discipulis praecepit dicens: Estote prudentes 
+sicut serpentes et simplices sicut columbae. Omnis enim stultitia sicut 
+et versutia Deo abominabilis est, et ideo omni modo ab anima pellenda est 
+catholica, in qua solummodo semper vigere debet simplicitas Christiana. 
+Item in oblatione arietis duas decimas similae jubet offerre, simul olei 
+atque vini tertiam partem hin. Et quia aries rectorum ordinem significat, 
+apte cum duabus decimis aries offertur,
+[col. 0677A]
+cum quilibet homo decalogum legis intellectu et operatione tenens, officio 
+rectoris delegatur. In qua oblatione oleum et vinum tertiae partis him 
+simul exhibetur, quando charitas, misericordia et gratia spiritalis doctrinae, 
+ab ea erga subditorum curam diligenter impenditur. Item in oblatione tres 
+decimae similae offerri praecipiuntur, simul et medium mensurae hin in 
+oleo sive vino. Et quid in bonis nomine nisi sanctorum praedicatorum ordo 
+designatur, qui agrum Dominicum colunt, et vomere evangelico exstirpantes 
+spinas vitiorum, multiplicant segetem virtutum? Qui cum tribus decimis 
+similae offeruntur, quia decalogum legis, scientia, opere et doctrina rite 
+tenentes, fidei sanctae Trinitatis veri assertores esse probantur. Hi ergo 
+charitatem praecipuam debent habere,
+[col. 0677B]
+et in necessitatibus proximi per misericordiam consulendo, aliis bonum 
+exemplum praebere. Nec non et ipsis studendum est, ut in gratia divina 
+quantum mortalibus possibile est proficiant, et ad vitae perfectionem ac 
+sanctitatem perveniant, juxta illud Dominicum praeceptum: Sancti estote, 
+quia ego sanctus sum, Dominus Deus vester[236]. Illud tamen quod in hac 
+vita sibi deest, incoelesti beatitudine per Domini gratiam in se perficiendum 
+debent sperare.
+
+          CAPUT XIII. De primitiis Domino dandis.
+[237]Locutus est Dominus ad Moysen dicens: Loquere filiis Israel et dices 
+ad eos: Cum veneritis in terram, quam dabo vobis, et comederitis de panibus 
+regionis illius, separabitis primitias Domino de cibis
+______________________________________________________________________
+     236: (Levit. XIX)
+
+     237: (IBID.)
+
+[col. 0677C]
+vestris. Sicut de areis primitias separabitis, ita et de pulmentis dabitis 
+primitiva Domino. Quid est quod primitias de cibis Israelitae Domino jubentur 
+offerre, hoc est, ut sicut de areis primitias separabunt, ita etiam de 
+pulmentis primitiva Domino tribuant? Terram igitur quam ingredientes Domino 
+oblationes sive primitias debent offerre, praesentem Ecclesiam significare 
+superius diximus. Ergo quisquis Ecclesiam per fidem et baptismum intraverit, 
+necesse est ut terram carnis suae, hoc est, corporalem vitam diligenter 
+in Dei timore exerceat, quatenus frugem virtutum in ea excrescere faciat, 
+unde sibi refectio aeterna praeparetur. Jubemur ergo non solum de areis, 
+sed et de pulmentis primitias Domino consecrare. Quid est de area primitias 
+separare, nisi de
+[col. 0677D]
+praedicationis officio, laboris primordia Domino consecrare? Et quid de 
+pulmentis primitiva est offerre, nisi de domesticis disciplinis quas in 
+semetipso solerter quisque exercere debet, inchoationem bonae voluntatis 
+Domino dedicare? Sive in semetipso aliquis virtutum studiis operam det, 
+sive de aliorum salute docendo, exhortando, atque bonis exemplis provocando 
+pium laborem impendat, necesse est ut hoc non sibi aliquis, sed gratiae 
+deputet divinae, ut ei consecretur omnis boni initium, a quo decet sperari 
+totius perfectionis supplementum.
+
+          CAPUT XIV. De peccatis ignorantiae.
+[238]Quod si per ignorantiam praeterieritis quidquam
+______________________________________________________________________
+     238: (IBID.)
+
+[col. 0678A]
+horum, quae locutus est Dominus ad Moysen, et mandavit per eum ad vos, 
+a die qua coepit jubere et ultra, oblitaque fuerit multitudo facere offeret 
+vitulum de armento holocaustum in odorem suavissimum ejus ac liba ut caeremoniae 
+postulant, hircumque pro peccato; et rogabit sacerdos pro omni multitudine 
+filiorum Israel, et dimittetur eis, quoniam non sponte peccaverunt, et 
+rel.[239]Merito quaeritur quae sint ipsa peccata nolentium, utrum a nescientibus 
+committuntur, an etiam possit recte dici peccatum esse nolentis, quod facere 
+compellitur. Nam et hoc contra voluntatem facere dici solet. Sed utique 
+vult propter quod facit, cum vult vivere, si quisquam, nisi fecerit, mortem 
+minetur. Vult ergo facere, quia vult vivere, et ideo non per seipsum
+______________________________________________________________________
+     239: (Ex Augustino.)
+
+[col. 0678B]
+appetendo ut falsum juret, sed ut falsum jurando vivat. Quod si ita est, 
+utrum possint dici ista peccata nolentium, qualia hic dicuntur expianda. 
+Nam si diligenter consideretur, forte ipsum peccare nemo velit, sed propter 
+aliud fit, quod vult, qui peccat. Omnes quippe homines, qui scientes faciunt 
+quod non licet, id vellent licere. Usque adeo ipsum peccatum nemo appetit 
+propter hoc ipsum, sed propter illud quod ex eo consequitur. Haec si ita 
+se habent, non sunt peccata nolentium nisi nescientium, quae discernuntur 
+a peccatis volentium.
+Mystice autem offerunt filii Israel vitulum de armento in holocaustum, 
+cum fideles populi plena fide corpus Dominicum pro salute generis humani 
+in ara crucis immolatum in odorem suavitatis, Domino credunt
+[col. 0678C]
+et confitentur. Offerunt sacrificium ejus ac liba ut caeremoniae postulant, 
+cum in sacramento panem et vinum in commemorationem passionis ejus super 
+altare deferunt, ac de eo participantes, corpus et sanguinem ejus veraciter 
+se percepisse confidunt. Offerunt hircum pro peccato, cum ipsam humanitatem 
+ejus non peccatricem, sed in similitudinem carnis peccati, hoc est, nostrae 
+mortalitatis consortem eum suscepisse, ac pro peccatis nostris dissolvendis 
+obtulisse credimus. Rogatque ipse sacerdos, qui advocatus noster est apud 
+Patrem pro peccatis populi sui et dimittetur ei, quoniam secundum Pauli 
+sententiam: In diebus carnis suae preces supplicationesque ad eum, qui 
+possit illum a morte salvum facere, cum clamore valido et
+[col. 0678D]
+lacrymis offerens, exauditus est pro sua reverentia[240]. Praeterea et 
+incensum jubentur offerre pro se et pro peccato atque errore suo. Incensum 
+ergo offerunt pro peccatis suis, qui orationem cum jejuniis et eleemosynis 
+Deo offerunt, in quibus placatus veniam erroris digne postulantibus tribuit. 
+Sequitur:
+Quod si anima nesciens peccaverit, offeret capram anniculam pro peccato 
+suo, et deprecabitur pro ea sacerdos, quod inscia peccaverit coram Domino; 
+impetrabitque ei veniam, et dimittetur illi, etc. Capram ergo anniculam 
+offert, qui poenitentiam pro peccato non tepide, sed fervide gerit, et 
+perfecte a peccato eodem, atque studiosissimo recedit proposito, de caetero 
+cavens, quotidieque commissorum veniam
+______________________________________________________________________
+     240: (Hebr. V)
+
+[col. 0679A]
+postulans, ingemiscens dicit cum Propheta: Delicta juventutis meae, et 
+ignorantias meas ne memineris, Domine: secundum magnam misericordiam tuam, 
+memor esto mei, Domine. Adjuvabitque eum ad impetrandam veniam intercessio 
+pontificis summi, qui non per sanguinem hircorum et vitulorum, sed per 
+sanguinem proprium introivit semel in sancta, aeterna redemptione inventa.
+
+          CAPUT XV. De peccatis per superbiam factis.
+[241]Anima vero, quae per superbiam aliquid commiserit, sive civis sit 
+ille, sive peregrinus quoniam adversus Dominum rebellis fuit, peribit de 
+populo suo, et reliqua.[242]Quae sint peccata quae fiunt in manu superbiae, 
+id est, superbia committuntur,
+______________________________________________________________________
+     241: (IBID.)
+
+     242: (Ex Augustino.)
+
+[col. 0679B]
+Scriptura ipsa in consequentibus satis exposuit ubi ait: Quoniam verbum 
+contempsit. Aliud est ergo praecepta contemnere, aliud quidem magni pendere, 
+sed aut ignarum contra facere, aut victum vel invitum. Quae duo fortasse 
+pertineant ad illa peccata, quae a nolentibus fiunt: de quibus superius 
+quemadmodum Deo propitiato expiarentur admonuit, ac deinde subjecit peccata 
+superbiae, cum quisque superbiendo, id est, praeceptum contemnendo perperam 
+facit: quod genus peccati non dixit ullo genere sacrificii purgare oportere 
+tanquam insanabile judicans; illa duntaxat curatione, quae per sacrificia 
+gerebantur, qualia facienda in hac Scriptura praecipiuntur. Quae si per 
+ipsa attendantur, nulli peccato possunt mederi; si autem res ipsae quorum 
+sacramenta
+[col. 0679C]
+sunt inquirantur, in eis inveniri poterit purgatio peccatorum. Quod ergo 
+scriptum est: Peccator cum venerit in profundum malorum, contemnit[243], 
+iste significatus est, quem Scriptura hoc loco dicit in manu superbiae 
+delinquere. Hoc igitur sine poena ejus qui committit non potest aboleri, 
+atque ideo non potest esse impunitum; et cum poenitendo sanatur: ipsa enim 
+afflictio poenitentis, poena peccati est; quamvis medicinalis et salubris. 
+Merito quippe magnum judicatur peccatum, cum superbia praeceptum contemnit. 
+Sed e contrario ut sanari possit, cor contritum et humiliatum Deus non 
+spernit. Verumtamen quia sine poena non sit, ideo talia hinc dicta sunt: 
+Deum, inquit, hic exacerbat, quia Deus superbis resistit. Et exterminabitur 
+anima
+______________________________________________________________________
+     243: (Prov. XVIII)
+
+[col. 0679D]
+illa de populo suo, quoniam talis omnino in numero eorum qui ad Deum pertinent, 
+non est. Quoniam verbum Domini contempsit, et mandata ejus dispersit, contritione 
+conteretur anima illa. Quare autem contritione conteretur, consequenter 
+adjungit dicens: Peccatum ejus in illo, ac per hoc si tali peccato debitam 
+contritionem ipse sibi adhibeat poenitendo, cor contritum, ut dictum est, 
+Deus non spernit.
+
+          CAPUT XVI. De homine colligente ligna in die sabbati; et de fimbriis 
+faciendis per angulos palliorum cum vittis hyacinthinis.
+[244]Factum est autem cum essent filii Israel in solitudine, et invenissent 
+hominem colligentem ligna
+______________________________________________________________________
+     244: (IBID.)
+
+[col. 0680A]
+in die sabbati, obtulerunt eum Moysi et Aaron et universae multitudini. 
+Qui recluserunt eum in carcerem, nescientes quid super eo facere deberent. 
+Dixitque Dominus ad Moysen: Morte moriatur homo iste; obruat eum omnis 
+turba lapidibus extra castra. Cumque eum eduxissent foras, obruerunt lapidibus 
+et mortuus est, sicut praeceperat Dominus. Quid autem insinuat, quod tam 
+atrociter jussu Dei fuerit idem ab omni populo trucidatus, quod facile 
+ab infidelibus promittitur? Intelligant ergo quia haec omnia in typo acciderunt 
+illis: scripta sunt enim ad correptionem nostram. Ille enim pristinus carnalisque 
+homo qui diem sabbati violare ausus est dum ligna colligeret, propter quod 
+est et punitus, formam significabat ejus qui hodie in Christo signatus, 
+invenitur
+[col. 0680B]
+agere carnale opus, id est, contrahere ligna, fenum, stipulam, ad escam 
+ignis aeterni convenientem. Quae dum colligit in suam perniciem, si fuerit 
+deprehensus, pellitur ab omnibus et statim occiditur: dum judicatur ab 
+spiritalibus. Sic ergo omnibus quaecunque illis Judaeis per legem acciderunt, 
+formaliter intelligenda sunt.
+Dixit quoque Dominus ad Moysen: Loquere filiis Israel et dices ad eos, 
+ut faciant sibi fimbrias per angulos palliorum, ponentes in eis vittas 
+hyacinthinas. Quas cum viderint, recordabuntur omnium mandatorum Domini, 
+ne sequantur cogitationes suas, et oculos suos per res varias fornicantes; 
+sed magis praeceptorum Domini memores, faciant ea, sintque sancti Domino 
+Deo suo. Ego Dominus Deus vester, qui eduxi vos de
+[col. 0680C]
+terra Aegypti ut essem Deus vester. Secundum historiam ergo mandavit Dominus 
+per Moysen filiis Israel, in quatuor angulis palliorum hyacinthinas fimbrias 
+facere, ad Israeliticum populum dignoscendum, ut quomodo in corporibus 
+circumcisio signum Judaicae gentis daret, ita et vestis haberet aliquam 
+differentiam; et ut commonerentur, quia habitu a caeteris gentibus Dei 
+praecepto differebant, distarent et religione, quatenus unum Deum colerent 
+spretis cunctis idolis nationum, ejusque mandata studiosissime conservare 
+niterentur. Allegorice autem nos instruit, ut intelligamus, quia mandata 
+quae videntur esse minima in habitu legis, si propter coelestem vitam, 
+quod vitta hyacinthina significat, colorem aeris exprimens, serventur, 
+multum proficiant. Qui enim
+[col. 0680D]
+spernit minima, paulatim defluit. Ideoque necesse est, ut secundum Apostoli 
+documentum, sive manducemus, sive bibamus, sive aliud quid agamus, omnia 
+in gloriam Dei faciamus.
