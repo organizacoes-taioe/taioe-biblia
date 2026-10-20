@@ -174,3 +174,25 @@ Numeração: todos usam a da LXX (o nosso Sl 33 é o «32» deles, λβʹ).
 O catálogo das fontes paulinas ficou na pasta do capítulo; ler antes do próximo capítulo de Paulo:
 
 - `../2corintios/001/fontes-gregos.md`: Crisóstomo (PG 61), Teodoreto (PG 82), as cadeias (Staab), Damasceno e os PDFs do khazarzar para todas as cartas.
+
+## Acréscimos do Sl 36 (LXX 35) (2026-10-20, `../salmos/036/relatorio-gregos.md`)
+
+- **Dídimo (Tura)**: o Sl 35 LXX ocupa as págs. 230–240, inteiro; faltam as págs. 241–244 (começo do Sl 36 LXX, que retoma no v. 9 na pág. 245).
+- **Crisóstomo** não comentou o Sl 35 LXX; **Basílio** também não. Para os versículos famosos, a busca no corpus inteiro rende mais
+  que os comentários (no Sl 36: 13 padrões, ~420 ocorrências, 2 min com a tabela `translate`).
+- **Unicode**: os textos convertidos misturam oxia (U+1F71…) e tonos (U+03AC…); antes de procurar uma frase digitada ou de fazer
+  `replace`, normalizar com `unicodedata.normalize('NFC', …)`. Na mesma linha: `python -I` ignora `PYTHONIOENCODING`; nos scripts, pôr
+  `sys.stdout.reconfigure(encoding='utf-8')`; e o Python do Windows não entende caminhos `/c/...` no `glob` (usar `C:/...`).
+- **Basílio, *Sobre o Espírito Santo***: o OCR de Johnston (`bookofsaintbasil00basi_djvu.txt`) traz as seções («47.») e, à margem, as
+  referências bíblicas («Ps. xxxvi.»); buscar por `Ps\. xxxvi` ou pela palavra grega. Grego ruim: refazer à mão com a PG 32.
+- **Nazianzeno**: no khazarzar, `De spiritu sancto.pdf` é o *Discurso* 31 em edição moderna (sem colunas; seções 1, 2, 3…; Or. 31, 3 =
+  PG 36, 136); `In Aegyptiorum adventum 1.pdf` (o «1» faz parte do nome) é o *Discurso* 34, com colunas da PG.
+- **Basílio, *Asceticon***: há `Asceticon magnum.pdf` e `Asceticon magnu1.pdf`; as *Regras breves* (PG 31, 1052–1305) estão no
+  segundo, com perguntas «ΕΡΩΤΗΣΙΣ ΠΑʹ» (= 81). *Contra Eunômio* IV–V (PG 29, 672 ss.) é espúrio.
+- **Epifânio**, *Panarion*: `Epiphanius_PG 41-43/Panarion.pdf` segue Holl (GCS): «[PG 3, 200]» = vol. III, p. 200; cada heresia começa
+  com «Κατὰ … ˉμˉθ, τῆς δὲ ἀκολουθίας ˉξˉθ» (= heresia 69) e os capítulos vêm como «54.».
+- **Hesíquio**: `Hesychius_PG 93/` tem só as homilias de festa (ed. Aubineau, edição moderna: citação curta); o comentário aos Salmos não.
+- **Cirilo de Alexandria** cita o par «fonte da vida / torrente das delícias» (Sl 35,9–10 LXX) em quase toda obra (*Com. a João*,
+  *Glaphyra*, *De adoratione*, *Homilias pascais*, Isaías, Doze Profetas): sempre Cristo que rega com o Espírito. A glosa do v. 10 na
+  *Expositio* de Mai vem do *Tesouro* 4 (PG 75, 40): as glosas de Mai podem vir de outras obras do próprio Cirilo.
+- **Teodoreto, *História eclesiástica***: no khazarzar segue Parmentier (sem colunas); traz cartas de Alexandre de Alexandria e de Ário.

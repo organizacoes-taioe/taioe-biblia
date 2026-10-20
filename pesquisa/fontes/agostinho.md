@@ -186,3 +186,39 @@ Não há índice bíblico livre e completo das obras de Agostinho. O que funcion
 O catálogo das fontes paulinas ficou na pasta do capítulo; ler antes do próximo capítulo de Paulo:
 
 - `../2corintios/001/fontes-agostinho-latinos.md`: o Ambrosiaster carta por carta no Corpus Corporum, a tabela sermão → arquivo do augustinus.it, Ambrósio, Gregório Magno.
+
+## 6. Salmo 35 da Vulgata (= Sl 36; 2026-10-19, `salmos/036/relatorio-agostinho.md`)
+
+- **Uma só *enarratio***, sermão ao povo: arquivo 048, PL 36, 341–354 (texto 342–354), vv. 2–13, sem
+  comentar o título. NPNF `1801036` (16 §§, resumido). O [v 8.] do augustinus.it está em «Homines et
+  iumenta», que no hebraico é o fim do v. 7; o resto coincide.
+- **augustinus.it, outras obras** (todas com cópia no Internet Archive, `web/2016id_/`; NNN = ordem do
+  arquivo, conferir o `<TITLE>`):
+  - *Tratados sobre João*: `latino/commento_vsg/omelia_NNN_testo.htm`, **NNN = número do tratado** (013 = 13).
+  - Cartas: `latino/lettere/lettera_NNN_testo.htm`, **NNN = número da carta + 1** a partir de certo ponto
+    (`lettera_131` = Ep. 130; `lettera_130` = Ep. 129).
+  - Sermões: `latino/discorsi/discorso_NNN_testo.htm`, pela lista de `discorsi/sommario.htm`
+    (`grep -o 'discorso_[0-9]*_testo.htm">[^<]*'`): Sermo 23 = 029, 225 = 296, 233 = 328, 255 = 353,
+    284 = 398, 306 = 433.
+  - Opúsculos: `latino/<pasta>/<pasta>_libro.htm` (a página `<pasta>.htm` é só a moldura):
+    `agone_cristiano`, `santa_verginita`.
+- **Notas de Migne**: `(Psal. XXXV, n)` deu 108 notas em 30 obras; com o script `ctx.py` (scratchpad
+  `a645f7af…/pesq-agostinho/scripts/`) cada ocorrência sai com obra, livro/tratado/sermão, parágrafo e
+  coluna. Cuidado: a janela de 25 letras para achar a coluna final dá falso positivo em fórmulas
+  repetidas («qui fecit caelum et terram»): procurar o fim **depois** do começo.
+- Pistas temáticas (servem para outros salmos):
+  - «Apud te est fons vitae, et in lumine tuo videbimus lumen» (Sl 35,10) é dos versículos que ele mais
+    cita: *Confissões* IX, 10, 23 (Óstia) e XIII, 16, 19; *De Trinitate* VII, 3, 4; *In Io.* 13, 5;
+    25, 17; 26, 4; 34, 3–5; Sermões 23, 225, 233, 284, 306; Ep. 130, 27; En. in Ps. 41, 2; 120, 5.
+    Tema recorrente: aqui a fonte e a luz estão separadas, em Deus são uma coisa só.
+  - «Homines et iumenta salvos facies… filii autem hominum» = Adão (homem, não filho de homem) e Cristo
+    (Filho do homem): En. in Ps. 35, 12; Sermões 23, 11 e 233, 3; Ep. 140, 22; *In Io.* 34, 3–4. Deus
+    cuida dos animais × «de bobus cura non est Deo»: En. in Ps. 145, 13–14.
+  - Os mártires «ébrios» que não reconhecem a família (Sl 35,9 e Sl 22,5 «calix inebrians»): En. in
+    Ps. 35, 14; Sermo 284, 2. A «sóbria embriaguez»: *De agone christiano* 9, 10.
+  - «Non veniat mihi pes superbiae» = «ab occultis meis munda me» (Sl 18,13): En. in Ps. 18, 13;
+    35, 17; o pé que se move é a soberba: En. in Ps. 120, 5; *De sancta virginitate* 52, 53 («pede
+    humilitatis»); *In Io.* 25, 16–17.
+  - Montes = apóstolos e pregadores, nuvens = pregadores (Sl 35,6–7 e Sl 120,1): En. in Ps. 35, 8–9;
+    120, 4; *Confissões* XIII, 15, 18; Ep. 140, 71.
+  - Não há citação do Sl 35 na *Cidade de Deus*, nem dos vv. 2–3 fora da *enarratio*.

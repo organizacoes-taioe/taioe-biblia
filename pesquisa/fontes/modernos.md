@@ -332,3 +332,35 @@ portuguesa) dá a lista completa em segundos. Os arquivos são ISO-8859-1. Para 
 O catálogo das fontes paulinas ficou na pasta do capítulo; ler antes do próximo capítulo de Paulo:
 
 - `../2corintios/001/fontes-modernos.md`: Catecismo, catequeses de Bento XVI sobre Paulo, Newman, Francisco de Sales, a liturgia (lecionário, Liturgia das Horas, Missal antigo).
+
+## 14. Achados novos do Sl 36 (2026-10-20)
+
+- **Santo Afonso, *Traduzione***: o Sl 35 (Vulgata) é o «Salmo X del Mattutino della Feria Seconda», `_P36Y.HTM`
+  (pp. 693–694); Bassano 1775, pp. 131–133. Os números de versículo de Afonso não seguem um padrão fixo (ele divide ou
+  junta versículos): conferir salmo a salmo contra o latim.
+- **Francisco de Sales**: os PDFs do donboscosanto têm páginas de texto desalinhadas da página do livro; achar a página pelo
+  número impresso nas primeiras linhas (`fitz`, `get_text()`), com o deslocamento do tomo (t. IV: +93; t. XXVI: +19). O t.
+  XXII (*Opuscules* I) traz os escritos da juventude (tentação de Paris, 1586–1587; notas de teologia, 1590–1591), cheios de
+  salmos, e o Index scripturaire não registra todos (faltou o v. 7 do *Acte d'abandon*): ler as páginas vizinhas.
+- **Santa Teresinha**: Archives du Carmel de Lisieux. A busca do site é por JavaScript; em vez dela, baixar as páginas
+  `/archive/<obra>/` listadas em `https://archives.carmeldelisieux.fr/archive-sitemap.xml` (664 páginas, 1 min) e procurar
+  no JSON embutido (`"content_one": "…"`, texto por fólio). A tradução inglesa de 1912 (Project Gutenberg 16772 *Story of a
+  Soul*; 63294 *Thoughts*) anota as citações bíblicas («Cf. Ps. xxxv, 6») e ajuda a achar o lugar.
+- **Santa Catarina de Sena**: *Il Dialogo* em italiano na DCO, `1347-1380,_Catharina_Sienensis_Sancta,_Il_Dialogo,_IT.pdf`
+  (`pdftotext -enc UTF-8`); texto modernizado com erros de conversão («possiede» no lugar de «hai»).
+- **Newman**: cópia dos 259 sermões já baixados numa conversa anterior; refazer pelo newmanreader (§ 12). Newman cita o
+  Saltério do *Book of Common Prayer* (numeração hebraica, «well of life», «plenteousness of Thy house»).
+- **Clerus, índice dos Salmos**: `https://www.clerus.org/bibliaclerusonline/en/gyu.htm` tem um ícone por salmo com
+  `title="Ps 36,1-12"` (numeração hebraica); o link ao lado (`9abtssbd.htm` para o Sl 36) dá as citações. Mistura as
+  numerações (Agostinho, Newman, *Noite escura*): conferir cada uma.
+- **Varredura dos Papas** (vatican.va, italiano): 8.362 documentos (`/it/` dos índices anuais de homilias, audiências e
+  Angelus, mais encíclicas, exortações, cartas e motu proprio). Pré-filtrar com `grep -l -E` (15 s) antes de ler em Python.
+  João Paulo II escreve «Sal 36,10» (hebraico) nas catequeses de 1985 e 2000, e «Salmo 35» na de 2001 (ciclo das Laudes).
+- **Liturgia das Horas, sem o Universalis** (fora do ar em 20/10/2026): Laudes em espanhol em
+  `https://www.aciprensa.com/Oracion/<dia><semana>.htm` (ex. `miercoles1.htm`); o texto latino e o da CNBB continuam sem
+  fonte na internet.
+- **Lecionário da CNBB**: a Canção Nova (`16a-semana-tempo-comum-quinta-feira-5/`) traz o refrão e as estrofes do salmo
+  responsorial; provar os sufixos `-1`…`-7` (anos diferentes).
+- **Rito bizantino**: a Grande Doxologia do Orthros termina com Sl 35,10-11 (LXX); texto grego atual na Wikipedia
+  («Gloria in excelsis Deo», seção «Present-day Greek Orthodox text»). Vale procurar outros salmos citados nela
+  (Sl 89,1; 40,5; 142,9-10) e nos ofícios bizantinos das festas.
