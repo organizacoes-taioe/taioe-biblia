@@ -315,6 +315,16 @@
        "original": "for know this, that if any of you love preeminence or venture to make a schism, he will inherit the place of Korah and Dathan and Abiram, he and those who are with him, and also with them he will be condemned in the fire. They also of the house of Korah were Levites, and they served in the Tabernacle of witness. They loved preeminence, and coveted the high-priesthood, and began to speak evil things against that great Moses, as that he had espoused a heathen woman, because he had an Ethiopian wife, and he was defiled by her. […] They spoke evil things against the friend and servant of the Lord, as if to be glorified in righteousness and to boast in holiness and to exhibit purity, and in hypocrisy they showed religion. They also said thus as sober and sedate in holiness, We will not be soiled with Moses and the people who are with him, for they are polluted."
       },
       {
+       "id": "antioco-pandectes-32-contradicao",
+       "autor": "Antíoco de São Sabas",
+       "sobre": "monge da Laura de São Sabas (séc. VII), na Palestina",
+       "obra": "Pandectes da Sagrada Escritura (Pandectes Scripturae sacrae), homilia 32: Sobre a contradição",
+       "passagem": "Hom. 32 (PG 89, 1537C)",
+       "texto": "A contradição e a insolência estão presas sob o jugo da maldade. Quem vive contradizendo vale tanto quanto o rebelde: quer sempre lutar contra a verdade, e muitas vezes se agita, movido pela vontade de mandar. É o que está escrito na Lei: Coré, Datã e Abiram se levantaram contra Moisés, e o Senhor se irou contra eles; e a terra se abriu debaixo deles e os engoliu, com as suas casas. Pois os que buscam o comando pela própria força, sem Deus, e resistem à autoridade que vem de Deus ficam sujeitos a castigos como esses.",
+       "link": "https://archive.org/details/PatrologiaGraeca/Patrologia%20Graeca%20Vol.%20089/page/n788/mode/1up",
+       "original": "Ἡ ἀντιλογία καὶ ἡ ἰταμότης ὑπὸ τοῦ ζυγοῦ τῆς κακίας σφίγγονται. Ὁ γὰρ ἀντίλογος ἰσοσθενεῖ τῷ ἀφηνιαστῇ. Θέλει γὰρ ἀεὶ καταγωνίζεσθαι κατὰ τῆς ἀληθείας, καὶ συχνῶς κλονεῖται πολεμούμενος τοῦ καθηγεῖσθαι· καθὼς καὶ ἐν τῷ νόμῳ γέγραπται· ὅτι ἀνέστησαν τῷ Μωϋσῇ, Κορὲ, καὶ Δαθάν, καὶ Ἀβιρών· καὶ ἐθυμώθη Κύριος ἐπ' αὐτοῖς. Καὶ ἠνοίχθη ἡ γῆ ὑποκάτωθεν αὐτῶν, καὶ κατέπιεν αὐτοὺς καὶ τοὺς οἴκους αὐτῶν. Οἱ γὰρ ἀπὸ ἰδίας δυνάμεως, χωρὶς Θεοῦ, ἀρχὰς ἐπιζητοῦντες, καὶ τῇ ὑπὸ Θεοῦ ἀρχῇ ἀνθιστάμενοι, τοιαύταις τιμωρίαις ὑπόκεινται."
+      },
+      {
        "id": "crisostomo-2timoteo-2-3",
        "autor": "São João Crisóstomo",
        "sobre": "arcebispo de Constantinopla (c. 349–407), Doutor da Igreja",
@@ -469,14 +479,14 @@
        "original": "Rursus caelestis ignis absumsit cum suis thuribulis sacerdotes quinquaginta supra ducentos, qui delatum Aaroni pontificatum usurpare volebant: terraque dehiscens Core Levitam cum sociis absorpsit, quod sacerdotale officium temere et arroganter petiissent. Profecto si Aaronicum sacerdotium tali reverentia dignum habitum fuit, qualem adhibendam putas Mystarum Domino, qui suum sacerdotium proprio sanguine dedicavit. Hujus proinde numen tu scrutari ne audeas."
       },
       {
-       "id": "efrem-necrosima-16-nao-arrebataste-o-sacerdocio",
-       "autor": "Santo Efrém, o Sírio (atribuído)",
-       "sobre": "diácono de Nísibis e Edessa (c. 306–373), Doutor da Igreja",
-       "obra": "Cânones fúnebres (Necrosima), 16: por um sacerdote",
-       "passagem": "Cânone 16",
-       "texto": "A dignidade sacerdotal, que o Senhor te confiou como dinheiro para negociar, tu a dobraste com os teus ganhos. Não a arrebataste, essa senhora do céu, nem pela força nem pela fraude, nem a compraste com dinheiro ou outro preço: ela é dom do Espírito divino. […] Sempre abominaste a ambição de Coré, de Datã e de Abiram, porque sabias que fim tão triste eles tiveram; e não acusaste de altivez e soberba os teus superiores, como eles fizeram com Moisés e Aarão, homens santíssimos, pois não ignoravas que os que tinham ousado tais coisas pereceram miseravelmente, consumidos pelo fogo.",
-       "link": "https://archive.org/details/assemani-et-alii-1732-1746-ephraem-syri-opera-omnia-syr-3/page/n332/mode/1up",
-       "original": "Sacerdotalem quippe dignitatem, quasi foenebrem pecuniam tibi a Domino ad negotiationem traditam, in duplum auxisti foeneratione et contractibus. At tu quidem istam caeli dominam nec vi fraudibusve rapuisti, neque numerata pecunia, aliove pretio tibi comparasti; divini quippe Spiritus donum est. […] Chore et Dathan atque Abiron ambitionem numquam non abominatus fuisti, qui noveras, qualem quamque tristem illi tulissent exitum: nec tu praesulibus, sicut illi Mosi et Aaroni sanctissimis viris, fastum et superbiam objectasti, qui non ignorares eos, qui talia ausi fuerant, incendio absumtos male periisse."
+       "id": "efrem-grego-sacerdocio-incenso",
+       "autor": "Santo Efrém, o Sírio",
+       "sobre": "diácono de Nísibis e Edessa (c. 306–373), Doutor da Igreja; obra conservada em grego",
+       "obra": "Sobre o sacerdócio (De sacerdotio)",
+       "passagem": "Sobre o sacerdócio",
+       "texto": "Dou a você outro exemplo, ó homem, para que não se atreva, por soberba, a subir sem ser digno ao grau do sacerdócio, porque o Deus puro não se agrada dos que foram ordenados com soberba. Veja o que sofreram aqueles infelizes que um dia se levantaram contra Moisés e Aarão e se atreveram, sem pudor e com arrogância, a oferecer incenso a Deus: não veio do céu um fogo que os devorou a todos, por terem ousado subir a um grau acima deles?",
+       "link": "https://archive.org/details/assemani-et-alii-1732-1746-ephraem-syri-opera-omnia-gr-lt-3.1/page/n71/mode/1up",
+       "original": "Ἄλλο σοι ὑπόδειγμα δίδωμι, ὦ ἄνθρωπε, ἵνα μὴ τολμήσῃς ἐν ἀλαζονείᾳ σου ἀναξίως ὑπελθεῖν βαθμῷ ἱερωσύνης· ἐπειδὴ οὐκ εὐδοκεῖ ἐν τοῖς ἀλαζονικῶς κεχειροτονημένοις ὁ Θεὸς ὁ καθαρός. Γνῶθι τί πεπόνθασιν οἱ τάλανες ἐκεῖνοι, οἱ Μωσεῖ καὶ Ἀαρὼν ἀντιπεσόντες ποτέ, καὶ προπετευσάμενοι ἀναιδῶς καὶ αὐθάδως θυμιᾶσαι τῷ Θεῷ· οὐχὶ πῦρ κατέφαγεν ἅπαντας οὐρανόθεν, ἀνθ' ὧν κατετόλμησαν εἰς βαθμὸν ὑπὲρ αὐτούς;"
       },
       {
        "id": "menaion-moises-4-set-ode7-core",
@@ -530,6 +540,16 @@
        "texto": "Nota aqui quanta é a dignidade de ser clérigo, de ser levita, de ser dedicado ao culto de Deus e servir à Morada. O bem-aventurado Tomás More se alegrava e se gloriava disso: nas procissões públicas levava a cruz à frente do sacerdote, fazia o ofício de um clérigo qualquer ou de um sacristão, servia ao sacerdote que celebrava e, vestido de sobrepeliz, respondia ao seu canto como um ajudante. E quando o duque de Norfolk, chegando por acaso, lhe disse que aquilo não lhe ficava bem, que estava abaixo da sua dignidade (pois More era então chanceler da Inglaterra) e que desagradaria ao rei Henrique, More respondeu: «Não pode desagradar ao rei, meu senhor, que eu preste serviço ao Senhor do próprio rei, ao Senhor, digo, dos senhores». [...] «Pois quem é Aarão?»: isto é, que fez Aarão? Ele não se impôs ao sacerdócio, mas foi chamado a ele por Deus.",
        "link": "https://archive.org/details/commentariainscr02lapi_0/page/275/mode/1up",
        "original": "Nota hic quanta sit dignitas esse Clericum, esse Levitam, dedicari Dei cultui, servire tabernaculo. B. Thomas Morus hac re gaudebat et gloriabatur: nam in publica supplicatione ipse crucem sacerdoti præferebat, et vulgaris Clerici aut æditui munus obibat, serviebat sacerdoti sacrificanti, eique canenti ipse indutus superpellicium succinebat instar Custodis; cumque Dux Norfolciæ casu superveniens diceret hoc eum dedecere, esseque præter ejus dignitatem (erat enim tunc Morus Angliæ Cancellarius) regique Henrico displiciturum, respondit Morus: « Domino meo regi displicere non potest, quod ipsius regis Domino, Domino, inquam, dominantium, obsequium impendo. » [...] Quid est enim Aaron? — q. d. Quid fecit Aaron? nec enim ipse se ingessit sacerdotio, sed ad id a Deo vocatus est."
+      },
+      {
+       "id": "escolio-climaco-4-100-pecar-contra-o-pai",
+       "autor": "Escólio antigo à Escada de São João Clímaco",
+       "sobre": "comentário grego anônimo à Escada, o livro dos monges do Sinai",
+       "obra": "Escólios à Escada do Paraíso (Scholia in Scalam Paradisi)",
+       "passagem": "escólio 100 ao Degrau 4, sobre a frase de Clímaco «é melhor pecar contra Deus do que contra o nosso pai» (PG 88, 761D–764A)",
+       "texto": "De fato, quando os israelitas pecaram contra Deus fazendo o bezerro e foram condenados por Deus à destruição total, Moisés se pôs diante de Deus em favor deles e disse: «Se perdoas o pecado deles, perdoa; se não, apaga também o meu nome do livro que escreveste». E logo, por causa de Moisés, encontraram Deus propício e escaparam do castigo. Mas, quando os do grupo de Datã e Abiram e Maria, irmã de Moisés, ofenderam o próprio Moisés, sofreram o castigo sem nenhuma demora.",
+       "link": "https://archive.org/details/bim_early-english-books-1641-1700_1860_88/page/n380/mode/1up",
+       "original": "Καὶ γὰρ ὅτε μὲν εἰς Θεὸν ἥμαρτον οἱ Ἰσραηλῖται μοσχοποιήσαντες, καὶ ὑπὸ Θεοῦ πανωλεθρίας κατεδικάσθησαν, ὑπὲρ αὐτοὺς στάντος τοῦ Μωϋσέως, καὶ πρὸς τὸν Θεὸν εἰπόντος, ὅτι, Εἰ μὲν ἀφῇς αὐτοῖς τὴν ἁμαρτίαν, ἄφες· εἰ δὲ μή, κἀμὲ ἐξάλειψον ἐκ τῆς βίβλου ἧς ἔγραψας· ἵλεων ἔσχον εὐθὺς τὸν Θεὸν διὰ Μωϋσῆν, καὶ τὴν δίκην διέφυγον. Ὅτε δὲ εἰς Μωϋσῆν ἐπλημμέλησαν οἱ περὶ Δαθὰν καὶ Ἀβειρών, καὶ ἡ ἀδελφὴ αὐτοῦ Μαριάμ, ἀνυπέρθετον τὴν τιμωρίαν ὑπέμειναν."
       },
       {
        "id": "ruperto-inapoc-contra-os-pastores-contra-deus",
@@ -586,6 +606,16 @@
        "texto": "Datã, Abiram e os de Coré diziam a Moisés: «É pouco que nos tenhas tirado da terra do Egito, de uma terra que mana mel e leite? E por que nos arrancaste os olhos? E tu nos governas?». [...] E levantaram-se contra Moisés, o servo de Deus, o mais manso e fiel de todos os homens, que tantos sinais e prodígios fizera da parte de Deus em favor do povo.",
        "link": "https://khazarzar.skeptik.net/pgm/PG_Migne/Constitutiones%20Apostolorum_PG%2001/Constitutiones%20Apostolorum.pdf",
        "original": "Ὁ δὲ Δαθὰν καὶ Ἀβειρὼν καὶ οἱ Κορεῖται λέγοντες Μωϋσεῖ· «Μὴ μικρόν, ὅτι ἀνήγαγες ἡμᾶς ἐκ γῆς Αἰγύπτου, ἐκ γῆς ῥεούσης μέλι καὶ γάλα; Καὶ τί ὅτι ἐξέκοψας τοὺς ὀφθαλμοὺς ἡμῶν; Καὶ σὺ ἄρχεις ἡμῶν;» [...] Καὶ ἐπανέστησαν Μωϋσεῖ τῷ τοῦ Θεοῦ θεράποντι, τῷ παρὰ πάντας ἀνθρώπους πραοτάτῳ καὶ πιστῷ, τῷ τοσαῦτα παρὰ Θεοῦ σημεῖα καὶ τέρατα τῷ λαῷ πεποιηκότι."
+      },
+      {
+       "id": "barsanufio-escolio-climaco-26-contradicao",
+       "autor": "São Barsanúfio de Gaza (atribuído)",
+       "sobre": "monge recluso de Gaza (séc. VI), num escólio à Escada de São João Clímaco",
+       "obra": "Escólios à Escada do Paraíso (Scholia in Scalam Paradisi)",
+       "passagem": "escólio 4 de Barsanúfio ao Degrau 26 (PG 88, 1093B)",
+       "texto": "A contradição já pôs a perder muitas pessoas, como os do grupo de Datã e Abiram, que resistiram a Moisés. E isto é um mau sinal: se alguém não respeita o seu abade, quem mais vai respeitar? E não respeitar ninguém é sinal de um pensamento sem confiança; essa falta de confiança diante da advertência vem do diabo, e os que agem assim se tornam filhos dele. E o que acontece com eles? Esses tais se exilaram a si mesmos da humildade. E Davi diz: «Livra-me da contradição do povo».",
+       "link": "https://archive.org/details/bim_early-english-books-1641-1700_1860_88/page/n546/mode/1up",
+       "original": "Ἡ ἀντιλογία πολλοὺς ἀνθρώπους ἀπώλεσεν, ὡς καὶ τοὺς περὶ Δαθὰν καὶ Ἀβειρὼν τοὺς ἀντιστάντας τῷ Μωσῇ· καὶ τοῦτο σημεῖόν ἐστι κακόν· ὅτι εἰ τὸν ἀββᾶν αὐτοῦ οὐκ ἐντρέπεταί τις, τίνα ἔχει διατραπῆναι; Τὸ δὲ μὴ διατρέπεσθαί τινα, σημεῖόν ἐστι ἀθαρσίας λογισμοῦ· καὶ αὕτη ἡ ἀθαρσία τῆς νουθεσίας ἐστὶ τοῦ διαβόλου, καὶ οἱ τὸ αὐτὸ ποιοῦντες τέκνα αὐτοῦ γίνονται· καὶ ποῖα γίνεται αὐτοῖς; Οἱ τοιοῦτοι ἐξορίᾳ ἐξώρισαν ἑαυτοὺς τῆς ταπεινώσεως· καὶ ὁ Δαυῒδ λέγει· Ῥῦσαί με ἐξ ἀντιλογίας λαοῦ."
       },
       {
        "id": "newman-pps4-18-arrancar-os-olhos",
@@ -764,14 +794,14 @@
        "original": "Nor was Korah's confidence less. Moses challenged him and the rest to appear before God, to perform the priest's office, and so to stand the test whether or not He would accept them; and they promptly accepted the proposal. They were to \"take their censers, and put fire therein, and put incense in them before the Lord,\" \"and it shall be, that the man whom the Lord doth choose, he shall be holy.\" Korah and his company accordingly \"stood in the door of the tabernacle of the congregation with Moses and Aaron;\" nay, in that sacred and awful place, where was the glory of the Lord visibly displayed, did Korah endure to \"gather all the congregation \" against Moses and Aaron. Sceptics, were there such standing by, might have made the remark, that both parties were equally sincere, equally confident; and therefore neither was more pleasing to God than the other."
       },
       {
-       "id": "lapide-num16-17-tu-reza-tu-protege-tu-trabalha",
-       "autor": "Cornélio a Lápide",
-       "sobre": "jesuíta (1567–1637), exegeta",
-       "obra": "Comentários aos Números (Commentaria in Numeros)",
-       "passagem": "cap. 16, vv. 17–19",
-       "texto": "Por isso Deus quis que a sua sentença nessa disputa fosse examinada e declarada pela oferta de incenso, mais do que pelo sacrifício de vítimas: imolar 250 vítimas teria sido caro, demorado e trabalhoso, enquanto o incenso e os turíbulos estavam à mão. Acrescenta que, pelo rito de todos os povos, Deus é honrado com incenso, e que oferecer incenso é o sacrifício mais fácil e, ao mesmo tempo, o mais digno de Deus. [...] Vê aqui como são insensatos os que, não contentes com a sua vocação, invadem a alheia, e como é sábio o dito que os sábios escreveram no alto das portas das casas: «Tu (clérigo), reza suplicante; tu (soldado), protege; e tu (lavrador), trabalha». Se Coré e os seus se tivessem contentado com o seu grau e o seu ofício, não teriam incorrido na morte do corpo e da alma.",
-       "link": "https://archive.org/details/commentariainscr02lapi_0/page/276/mode/1up",
-       "original": "Hinc potius thurificatione, quam mactatione victimarum voluit Deus explorari et declarari suam in hac lite sententiam, quia pretiosa, longa et operosa fuisset 250 victimarum immolatio: thymiama vero et thuribula ad manum erant. Adde thure omnium gentium ritu coli Deum, et thurificationem esse facillimum, æque ac dignissimum Deo sacrificium. [...] Vide hic quam insipientes sint, qui vocatione sua non contenti, alienam invadunt, quamque sapienter dictum sit, et a sapientibus domorum epistyliis inscriptum: Tu (clerice) supplex ora: tu (miles) protege: tuque (agricola) labora. Si enim suo gradu et officio contentus fuisset Core cum suis, mortem corporis et animæ non incurrisset."
+       "id": "vida-pacomio-silvano-medo-de-ser-engolido",
+       "autor": "Vida de São Pacômio",
+       "sobre": "a vida do pai dos monges que vivem em comunidade (séc. IV), na coleção monástica do Evergetinos",
+       "obra": "Evergetinos (Synagogē), livro I, hipótese 44",
+       "passagem": "I, 44, 1: o monge Silvano, que tinha sido ator",
+       "texto": "Vocês não querem, irmãos, que eu chore ao ver santos me servindo, homens de quem até a poeira dos pés é grande demais para mim, e de quem não sou digno de jeito nenhum? Não devo então chorar? Digam: eu, um homem vindo do teatro, servido por homens tão santos! Por isso choro, meus irmãos: tenho medo, a cada dia, de ser engolido como Datã e Abiram, aqueles profanos que, com más intenções e mãos impuras, se atreveram a oferecer incenso às coisas santas. Porque eu, depois de receber tanto conhecimento, descuido da salvação da minha alma.",
+       "link": "https://archive.org/details/Evergetinos/Euergetinos%20I/page/n637/mode/1up",
+       "original": "…οὐ βούλεσθε, ἀδελφοί, ἵνα κλαύσω ὁρῶν ἁγίους ὑπηρετοῦντάς μοι, ὧν καὶ ὁ κονιορτὸς τῶν ποδῶν μέγας ἐμοί, καὶ ὧν οὐδόλως ἐγὼ ἄξιός εἰμι; οὐκ ὀφείλω οὖν πενθεῖν; Εἴπατέ μοι, ὅτι ἀπὸ θυμέλης ἄνθρωπος ὑπηρετοῦμαι ὑπὸ τοιούτων ἁγίων ἀνδρῶν. Πενθῶ οὖν, ἀδελφοί μου, φοβούμενος ἐφ' ἑκάστης, μήπως κατὰ Δαθὰν καὶ Ἀβειρὼν τοὺς βεβήλους καταποθῶ, ἐπιχειρούντων πονηραῖς προαιρέσεσι καὶ χερσὶν οὐ καθαραῖς θυμιᾶν εἰς τὰ ἅγια, ὅτι τοσαύτην γνῶσιν δεξάμενος, τῆς κατὰ ψυχὴν ἀμελῶ σωτηρίας."
       }
      ]
     },
