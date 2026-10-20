@@ -4,7 +4,7 @@ Gerado por `pesquisa/ferramentas/base-indice.py`; não editar à mão. Os textos
 na língua original, cortados para este capítulo. A pesquisa do capítulo parte daqui e procura o
 que não é óbvio (`CAPITULO.md`, etapa 6).
 
-20 fontes, 10 orientais.
+20 fontes, 8 orientais.
 
 | autor e obra | passagem | cobre | oriental | arquivo |
 |---|---|---|---|---|
@@ -14,13 +14,13 @@ que não é óbvio (`CAPITULO.md`, etapa 6).
 | São Cirilo de Alexandria, De adoratione (trechos sobre Números) | Nm 21; 3 fala(s) do diálogo com Paládio, PG 68, 381, 569, 896 | só as falas que citam este capítulo (ver Nota); não é a obra inteira nem as alusões sem citação | sim | [cirilo-de-adoratione-numeros.md](base/cirilo-de-adoratione-numeros.md) (14 KB) |
 | São Cirilo de Alexandria, Glaphyra in Numeros | Nm 21; seção «Περὶ τοῦ ὄφεως τοῦ χαλκοῦ (Nm 21,6-9)» | a seção inteira dos Glaphyra sobre este capítulo | sim | [cirilo-glaphyra-in-numeros.md](base/cirilo-glaphyra-in-numeros.md) (13 KB) |
 | São Cosme de Jerusalém, Cânon da Exaltação da Cruz | ode 1, segundo tropário | Nm 21,8–9: a serpente de bronze posta na haste, remédio da mordida venenosa, presa ao lenho em forma de cruz | sim | [cosme-canon-exaltacao-cruz.md](base/cosme-canon-exaltacao-cruz.md) (1 KB) |
-| Dionísio bar Salibi, Comentário literal a Números: Números 21 | Números 21; lemas reconhecidos: vv. 1, 8, 9, 14, 15, 17, 18, 27, 28, 29 | o capítulo inteiro, em glosas literais curtas (corte automático pelos lemas; conferir as bordas) | sim | [dionisio-bar-salibi-comentario-numeros.md](base/dionisio-bar-salibi-comentario-numeros.md) (14 KB) |
+| Dionísio bar Salibi, Comentário literal a Números: Números 21 | Números 21; lemas reconhecidos: vv. 1, 8, 9, 14, 15, 17, 18, 27, 28, 29 | o capítulo inteiro, em glosas literais curtas (corte automático pelos lemas; conferir as bordas) | sim (só pista, não vai ao site) | [dionisio-bar-salibi-comentario-numeros.md](base/dionisio-bar-salibi-comentario-numeros.md) (14 KB) |
 | Santo Efrém (atribuído), Explanatio in Numeros | Nm 21; 2 unidade(s) de ~1500 caracteres do OCR (atribuição aproximada, ver Nota) | as unidades de texto atribuídas a este capítulo (só o latim; o siríaco do OCR é ilegível); pode faltar ou sobrar meia página nas pontas | sim | [efrem-in-numeros.md](base/efrem-in-numeros.md) (4 KB) |
 | Hugo de São Vítor, Adnotationes in Pentateuchon | Nm 21; capítulo XIV da obra, nota «NUM. XXI.» de Migne | só a nota deste capítulo (a obra tem quatro notas curtas sobre Números) |  | [hugo-adnotationes-in-pentateuchon.md](base/hugo-adnotationes-in-pentateuchon.md) (3 KB) |
 | Santo Isidoro, Quaestiones in Vetus Testamentum, In Numeros | Nm 21; Isidoro, In Numeros: cap. XXXIV, §2; cap. XXXVI, §§1–4; cap. XXXIX, §§1–3 | só os trechos que tratam deste capítulo (o In Numeros de Isidoro é uma alegoria das 42 mansões; ver Nota) |  | [isidoro-quaestiones-in-numeros.md](base/isidoro-quaestiones-in-numeros.md) (4 KB) |
 | São Jacó de Sarug, Memra sobre a serpente de bronze que Moisés ergueu no deserto | Nm 21,4-9 (e Jo 3,14), memra inteiro | Nm 21,4-9, memra inteiro | sim | [jaco-sarug-serpente-de-bronze.md](base/jaco-sarug-serpente-de-bronze.md) (36 KB) |
 | Cornélio a Lápide, Commentaria in Numeros | Nm 21; Lápide, cap. XXI | o capítulo inteiro, versículo a versículo, com o texto da Vulgata no começo e a SYNOPSIS |  | [lapide-commentaria-in-numeros.md](base/lapide-commentaria-in-numeros.md) (37 KB) |
-| Narsai, Memra sobre a serpente de bronze | Nm 21,4-9, memra inteiro | Nm 21,4-9, memra inteiro | sim | [narsai-serpente-de-bronze.md](base/narsai-serpente-de-bronze.md) (31 KB) |
+| Narsai, Memra sobre a serpente de bronze | Nm 21,4-9, memra inteiro | Nm 21,4-9, memra inteiro | sim (só pista, não vai ao site) | [narsai-serpente-de-bronze.md](base/narsai-serpente-de-bronze.md) (31 KB) |
 | São Gregório de Nissa, Vida de Moisés | Nm 21; I, 67–68; I, 72; II, 271–283; II, 287–291 | só os trechos que tratam deste capítulo (a obra lê os episódios como etapas da alma) | sim | [nissa-vida-de-moises.md](base/nissa-vida-de-moises.md) (18 KB) |
 | Orígenes, Homiliae in Numeros (Rufino) | Nm 21; H12; H13, §§1–2 | a(s) homilia(s) que comentam este capítulo, inteiras ou no trecho indicado |  | [origenes-homilias-in-numeros.md](base/origenes-homilias-in-numeros.md) (44 KB) |
 | Procópio de Gaza, Commentarii in Numeros | Nm 21; 9 unidade(s) de ~1500 caracteres do OCR (atribuição aproximada, ver Nota) | as unidades de texto atribuídas a este capítulo; pode faltar ou sobrar meia página nas pontas | sim | [procopio-commentarii-in-numeros.md](base/procopio-commentarii-in-numeros.md) (20 KB) |

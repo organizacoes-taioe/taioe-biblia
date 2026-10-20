@@ -4,7 +4,7 @@ Gerado por `pesquisa/ferramentas/base-indice.py`; não editar à mão. Os textos
 na língua original, cortados para este capítulo. A pesquisa do capítulo parte daqui e procura o
 que não é óbvio (`CAPITULO.md`, etapa 6).
 
-14 fontes, 6 orientais.
+14 fontes, 5 orientais.
 
 | autor e obra | passagem | cobre | oriental | arquivo |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ que não é óbvio (`CAPITULO.md`, etapa 6).
 | São Bruno de Segni, Expositio in Numeros | Nm 18; Bruno, Expositio in Numeros, cap. XVIII | o capítulo inteiro, resumido (Bruno cita o texto e comenta só o que serve à alegoria e à moral) |  | [bruno-expositio-in-numeros.md](base/bruno-expositio-in-numeros.md) (5 KB) |
 | São Cirilo de Alexandria, De adoratione (trechos sobre Números) | Nm 18; 3 fala(s) do diálogo com Paládio, PG 68, 837, 841, 861 | só as falas que citam este capítulo (ver Nota); não é a obra inteira nem as alusões sem citação | sim | [cirilo-de-adoratione-numeros.md](base/cirilo-de-adoratione-numeros.md) (22 KB) |
 | São Cirilo de Alexandria, Fragmenta duo in Numeros | Nm 18; primeiro fragmento (Nm 18,26: «Ἀφελεῖτε ὑμεῖς ἀπ’ αὐτοῦ ἀφαίρεμα», o dízimo do dízimo) | só um fragmento curto (quatro a cinco linhas) | sim | [cirilo-fragmenta-in-numeros.md](base/cirilo-fragmenta-in-numeros.md) (1 KB) |
-| Dionísio bar Salibi, Comentário literal a Números: Números 18 | Números 18; lemas reconhecidos: vv. 1, 7, 9, 12, 29 | o capítulo inteiro, em glosas literais curtas (corte automático pelos lemas; conferir as bordas) | sim | [dionisio-bar-salibi-comentario-numeros.md](base/dionisio-bar-salibi-comentario-numeros.md) (4 KB) |
+| Dionísio bar Salibi, Comentário literal a Números: Números 18 | Números 18; lemas reconhecidos: vv. 1, 7, 9, 12, 29 | o capítulo inteiro, em glosas literais curtas (corte automático pelos lemas; conferir as bordas) | sim (só pista, não vai ao site) | [dionisio-bar-salibi-comentario-numeros.md](base/dionisio-bar-salibi-comentario-numeros.md) (4 KB) |
 | Hugo de São Vítor, Adnotationes in Pentateuchon | Nm 18; capítulo XIV da obra, nota «NUM. XVIII.» de Migne | só a nota deste capítulo (a obra tem quatro notas curtas sobre Números) |  | [hugo-adnotationes-in-pentateuchon.md](base/hugo-adnotationes-in-pentateuchon.md) (1 KB) |
 | Cornélio a Lápide, Commentaria in Numeros | Nm 18; Lápide, cap. XVIII | o capítulo inteiro, versículo a versículo, com o texto da Vulgata no começo e a SYNOPSIS |  | [lapide-commentaria-in-numeros.md](base/lapide-commentaria-in-numeros.md) (40 KB) |
 | Orígenes, escólios gregos sobre Números (Adnotationes e Selecta) | Nm 18; Selecta | só as notas e glosas que a cadeia grega liga a este capítulo (poucas linhas) | sim | [origenes-escolios-gregos-numeros.md](base/origenes-escolios-gregos-numeros.md) (2 KB) |

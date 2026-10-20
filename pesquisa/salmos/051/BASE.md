@@ -4,7 +4,7 @@ Gerado por `pesquisa/ferramentas/base-indice.py`; não editar à mão. Os textos
 na língua original, cortados para este capítulo. A pesquisa do capítulo parte daqui e procura o
 que não é óbvio (`CAPITULO.md`, etapa 6).
 
-24 fontes, 11 orientais.
+24 fontes, 10 orientais.
 
 | autor e obra | passagem | cobre | oriental | arquivo |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ que não é óbvio (`CAPITULO.md`, etapa 6).
 | Cassiodoro, Expositio Psalmorum | Sl 50 (Vulgata), que corresponde ao Sl 51 hebr. | o salmo inteiro |  | [cassiodoro-expositio-psalmorum.md](base/cassiodoro-expositio-psalmorum.md) (44 KB) |
 | São Cirilo de Alexandria, Expositio in Psalmos | Sl 51 (hebr.) = Sl 50 (LXX) | excertos de cadeia (ed. Mai) sobre o salmo; não cobre todos os versículos; trechos entre colchetes têm origem incerta e várias glosas repetem Basílio e Teodoreto | sim | [cirilo-expositio-in-psalmos.md](base/cirilo-expositio-in-psalmos.md) (39 KB) |
 | São João Crisóstomo, In Psalmum 50 | Sl 51 (hebr.) = Sl 50 (LXX) | o salmo inteiro (homilia) | sim | [crisostomo-in-psalmum-50.md](base/crisostomo-in-psalmum-50.md) (17 KB) |
-| Dionísio bar Salibi, Comentário literal aos Salmos: Sl 51 | Sl 51 (Peshitta e hebraico; Sl 50 da LXX/Vulgata, aproximado); lemas reconhecidos: vv. — | o salmo, em glosas literais curtas (corte automático pelos lemas e títulos; conferir as bordas) | sim | [dionisio-bar-salibi-comentario-salmos.md](base/dionisio-bar-salibi-comentario-salmos.md) (2 KB) |
+| Dionísio bar Salibi, Comentário literal aos Salmos: Sl 51 | Sl 51 (Peshitta e hebraico; Sl 50 da LXX/Vulgata, aproximado); lemas reconhecidos: vv. — | o salmo, em glosas literais curtas (corte automático pelos lemas e títulos; conferir as bordas) | sim (só pista, não vai ao site) | [dionisio-bar-salibi-comentario-salmos.md](base/dionisio-bar-salibi-comentario-salmos.md) (2 KB) |
 | Eusébio de Cesareia, Commentaria in Psalmos | Sl 51 (hebr.) = Sl 50 (LXX) | SÓ CADEIA: excertos de cadeia que levam o nome de Eusébio, misturados a trechos de outros autores (Orígenes, Dídimo, Apolinário…); atribuição insegura e pode parar antes do fim do salmo | sim | [eusebio-commentaria-in-psalmos.md](base/eusebio-commentaria-in-psalmos.md) (10 KB) |
 | São Gregório de Nissa, In inscriptiones Psalmorum | Sl 51 (hebr.) = Sl 50 (LXX) | só os trechos em que Gregório cita o título ou o primeiro versículo do salmo e comenta (não é comentário seguido) | sim | [gregorio-nissa-in-inscriptiones-psalmorum.md](base/gregorio-nissa-in-inscriptiones-psalmorum.md) (6 KB) |
 | «Haimo de Halberstadt», Commentaria in Psalmos | Sl 50 (Vulgata), que corresponde ao Sl 51 hebr. | o salmo inteiro |  | [haimo-commentaria-in-psalmos.md](base/haimo-commentaria-in-psalmos.md) (13 KB) |

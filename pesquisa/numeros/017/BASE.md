@@ -4,7 +4,7 @@ Gerado por `pesquisa/ferramentas/base-indice.py`; não editar à mão. Os textos
 na língua original, cortados para este capítulo. A pesquisa do capítulo parte daqui e procura o
 que não é óbvio (`CAPITULO.md`, etapa 6).
 
-19 fontes, 9 orientais.
+19 fontes, 8 orientais.
 
 | autor e obra | passagem | cobre | oriental | arquivo |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ que não é óbvio (`CAPITULO.md`, etapa 6).
 | São Bruno de Segni, Expositio in Numeros | Nm 17 = Nm 16,36-50 e 17,1-13 na Vulgata de Jerônimo e nas edições antigas da LXX (a de Rahlfs já segue o hebraico); Bruno, Expositio in Numeros, cap. XVI; cap. XVII | o capítulo inteiro, resumido (Bruno cita o texto e comenta só o que serve à alegoria e à moral) |  | [bruno-expositio-in-numeros.md](base/bruno-expositio-in-numeros.md) (3 KB) |
 | São Cirilo de Alexandria, De adoratione (trechos sobre Números) | Nm 17 = Nm 16,36-50 e 17,1-13 na Vulgata de Jerônimo e nas edições antigas da LXX (a de Rahlfs já segue o hebraico); 2 fala(s) do diálogo com Paládio, PG 68, 613, 672 | só as falas que citam este capítulo (ver Nota); não é a obra inteira nem as alusões sem citação | sim | [cirilo-de-adoratione-numeros.md](base/cirilo-de-adoratione-numeros.md) (9 KB) |
 | São Cosme de Jerusalém, Cânon da Exaltação da Cruz | ode 3, irmo | Nm 17,16–26 (LXX 17,1–11): a vara de Aarão que floresce e escolhe o sacerdote, figura da cruz que floresce para a Igreja antes estéril | sim | [cosme-canon-exaltacao-cruz.md](base/cosme-canon-exaltacao-cruz.md) (1 KB) |
-| Dionísio bar Salibi, Comentário literal a Números: Números 17 | Números 17; lemas reconhecidos: vv. 2, 7, 11, 13, 14, 17, 19 | o capítulo inteiro, em glosas literais curtas (corte automático pelos lemas; conferir as bordas) | sim | [dionisio-bar-salibi-comentario-numeros.md](base/dionisio-bar-salibi-comentario-numeros.md) (5 KB) |
+| Dionísio bar Salibi, Comentário literal a Números: Números 17 | Números 17; lemas reconhecidos: vv. 2, 7, 11, 13, 14, 17, 19 | o capítulo inteiro, em glosas literais curtas (corte automático pelos lemas; conferir as bordas) | sim (só pista, não vai ao site) | [dionisio-bar-salibi-comentario-numeros.md](base/dionisio-bar-salibi-comentario-numeros.md) (5 KB) |
 | Santo Efrém, o Sírio, Hinos de Nísibis (Carmina Nisibena), 39 | Hino 39, estrofe 6 (fala a Morte: o turíbulo de Aarão entre os mortos e os vivos, Nm 17,11-13; a Cruz) | só a estrofe que retoma Nm 17,11-13 | sim | [efrem-carmina-nisibena.md](base/efrem-carmina-nisibena.md) (1 KB) |
 | Santo Efrém, o Sírio, Hinos sobre a Natividade (Madrashe ʿal Yalda), 1 | Hino 1, estrofe 17 (a vara de Aarão que floresce, Nm 17,23, figura da Virgem) | só a estrofe que retoma Nm 17,23 | sim | [efrem-hinos-natividade.md](base/efrem-hinos-natividade.md) (1 KB) |
 | Santo Efrém (atribuído), Explanatio in Numeros | Nm 17 = Nm 16,36-50 e 17,1-13 na Vulgata de Jerônimo e nas edições antigas da LXX (a de Rahlfs já segue o hebraico); 1 unidade(s) de ~1500 caracteres do OCR (atribuição aproximada, ver Nota) | as unidades de texto atribuídas a este capítulo (só o latim; o siríaco do OCR é ilegível); pode faltar ou sobrar meia página nas pontas | sim | [efrem-in-numeros.md](base/efrem-in-numeros.md) (3 KB) |

@@ -4,14 +4,14 @@ Gerado por `pesquisa/ferramentas/base-indice.py`; não editar à mão. Os textos
 na língua original, cortados para este capítulo. A pesquisa do capítulo parte daqui e procura o
 que não é óbvio (`CAPITULO.md`, etapa 6).
 
-19 fontes, 10 orientais.
+19 fontes, 9 orientais.
 
 | autor e obra | passagem | cobre | oriental | arquivo |
 |---|---|---|---|---|
 | São Bruno de Segni, Expositio in Numeros | Nm 24; Bruno, Expositio in Numeros, cap. XXIV | o capítulo inteiro, resumido (Bruno cita o texto e comenta só o que serve à alegoria e à moral) |  | [bruno-expositio-in-numeros.md](base/bruno-expositio-in-numeros.md) (5 KB) |
 | São Cirilo de Alexandria, De adoratione (trechos sobre Números) | Nm 24; 4 fala(s) do diálogo com Paládio, PG 68, 321, 440, 892, 897 | só as falas que citam este capítulo (ver Nota); não é a obra inteira nem as alusões sem citação | sim | [cirilo-de-adoratione-numeros.md](base/cirilo-de-adoratione-numeros.md) (18 KB) |
 | São Cosme de Jerusalém, Cânon do Natal | ode 4 (irmo «Ῥάβδος ἐκ τῆς ῥίζης Ἰεσσαί»), segundo tropário | Nm 24,17 («uma estrela sairá de Jacó»): os magos, «iniciados nas palavras do adivinho Balaão», são as primícias dos gentios | sim | [cosme-canon-natal.md](base/cosme-canon-natal.md) (1 KB) |
-| Dionísio bar Salibi, Comentário literal a Números: Números 24 | Números 24; lemas reconhecidos: vv. 1, 2, 4, 5, 6, 7, 8, 16, 17, 19, 20, 21, 22, 24 | o capítulo inteiro, em glosas literais curtas (corte automático pelos lemas; conferir as bordas) | sim | [dionisio-bar-salibi-comentario-numeros.md](base/dionisio-bar-salibi-comentario-numeros.md) (12 KB) |
+| Dionísio bar Salibi, Comentário literal a Números: Números 24 | Números 24; lemas reconhecidos: vv. 1, 2, 4, 5, 6, 7, 8, 16, 17, 19, 20, 21, 22, 24 | o capítulo inteiro, em glosas literais curtas (corte automático pelos lemas; conferir as bordas) | sim (só pista, não vai ao site) | [dionisio-bar-salibi-comentario-numeros.md](base/dionisio-bar-salibi-comentario-numeros.md) (12 KB) |
 | Santo Efrém, o Sírio, Hinos sobre a Natividade (Madrashe ʿal Yalda), 1 | Hino 1, estrofes 4–6 (a estrela de Jacó, Nm 24,17: «a profecia que Balaão falou, hoje é a sua interpretação») | só as estrofes que retomam Nm 24,17 | sim | [efrem-hinos-natividade.md](base/efrem-hinos-natividade.md) (1 KB) |
 | Hugo de São Vítor, Adnotationes in Pentateuchon | Nm 24; capítulo XIV da obra, nota «NUM. XXIV.» de Migne | só a nota deste capítulo (a obra tem quatro notas curtas sobre Números) |  | [hugo-adnotationes-in-pentateuchon.md](base/hugo-adnotationes-in-pentateuchon.md) (1 KB) |
 | Santo Isidoro, Quaestiones in Vetus Testamentum, In Numeros | Nm 24; Isidoro, In Numeros: cap. XLII, §2 | só os trechos que tratam deste capítulo (o In Numeros de Isidoro é uma alegoria das 42 mansões; ver Nota) |  | [isidoro-quaestiones-in-numeros.md](base/isidoro-quaestiones-in-numeros.md) (1 KB) |

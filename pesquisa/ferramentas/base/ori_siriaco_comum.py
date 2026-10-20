@@ -105,6 +105,11 @@ def ler_tei(n):
     return meta, blocos
 
 
+# Decisão do Gere (20/10/2026): os siríacos fora da comunhão com Roma ficam só como pista.
+FORA_DA_COMUNHAO = r'Salibi|Filoxeno|Narsai|Isho|bar Koni'
+USO_PISTA = 'só pista: fora da comunhão com Roma; não entra no site (decisão do Gere, 20/10/2026)'
+
+
 def cabecalho(titulo, campos):
     ordem = ['Autor', 'Obra', 'Passagem', 'Edição', 'Fonte', 'Cobre', 'Oriental', 'Língua', 'Baixado']
     return '\n'.join([f'# {titulo}'] + [f'- {k}: {campos[k]}' for k in ordem])
@@ -113,6 +118,8 @@ def cabecalho(titulo, campos):
 def gravar(livro, cap, arquivo, titulo, campos, corpo, nota=None, script=None):
     campos = dict(campos)
     campos.setdefault('Oriental', 'sim')
+    if re.search(FORA_DA_COMUNHAO, campos.get('Autor', '')):
+        campos['Uso'] = USO_PISTA
     campos.setdefault('Baixado', f'{DATA}, por pesquisa/ferramentas/base/{script or os.path.basename(sys.argv[0])}')
     pasta = os.path.join(RAIZ, livro, f'{cap:03d}', 'base')
     os.makedirs(pasta, exist_ok=True)

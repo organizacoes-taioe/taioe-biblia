@@ -4,7 +4,7 @@ Gerado por `pesquisa/ferramentas/base-indice.py`; não editar à mão. Os textos
 na língua original, cortados para este capítulo. A pesquisa do capítulo parte daqui e procura o
 que não é óbvio (`CAPITULO.md`, etapa 6).
 
-19 fontes, 10 orientais.
+19 fontes, 8 orientais.
 
 | autor e obra | passagem | cobre | oriental | arquivo |
 |---|---|---|---|---|
@@ -13,10 +13,10 @@ que não é óbvio (`CAPITULO.md`, etapa 6).
 | Santo Agostinho, Quaestiones in Heptateuchum IV (Números) | Nm 25 (o v. 19 hebraico é o 26,1 da Vulgata); Quaest. in Hept. IV, q. 52 | todas as questões de Agostinho sobre este capítulo (as referências entre colchetes são da Vulgata) |  | [agostinho-quaestiones-in-heptateuchum-4.md](base/agostinho-quaestiones-in-heptateuchum-4.md) (3 KB) |
 | São Bruno de Segni, Expositio in Numeros | Nm 25 (o v. 19 hebraico é o 26,1 da Vulgata); Bruno, Expositio in Numeros, cap. XXV | o capítulo inteiro, resumido (Bruno cita o texto e comenta só o que serve à alegoria e à moral) |  | [bruno-expositio-in-numeros.md](base/bruno-expositio-in-numeros.md) (2 KB) |
 | São Cirilo de Alexandria, De adoratione (trechos sobre Números) | Nm 25 (o v. 19 hebraico é o 26,1 da Vulgata); 4 fala(s) do diálogo com Paládio, PG 68, 321, 325, 517, 908 | só as falas que citam este capítulo (ver Nota); não é a obra inteira nem as alusões sem citação | sim | [cirilo-de-adoratione-numeros.md](base/cirilo-de-adoratione-numeros.md) (21 KB) |
-| Dionísio bar Salibi, Comentário literal a Números: Números 25 | Números 25; lemas reconhecidos: vv. 4, 6, 15 | o capítulo inteiro, em glosas literais curtas (corte automático pelos lemas; conferir as bordas) | sim | [dionisio-bar-salibi-comentario-numeros.md](base/dionisio-bar-salibi-comentario-numeros.md) (2 KB) |
+| Dionísio bar Salibi, Comentário literal a Números: Números 25 | Números 25; lemas reconhecidos: vv. 4, 6, 15 | o capítulo inteiro, em glosas literais curtas (corte automático pelos lemas; conferir as bordas) | sim (só pista, não vai ao site) | [dionisio-bar-salibi-comentario-numeros.md](base/dionisio-bar-salibi-comentario-numeros.md) (2 KB) |
 | Santo Efrém, o Sírio, Hinos de Nísibis (Carmina Nisibena), 39 | Hino 39, estrofes 5–7 (fala a Morte: a lança de Fineias, Zambri e Cozbi, a praga detida, Nm 25,6-9; o turíbulo de Aarão; a lança de Cristo) | só as estrofes que retomam Nm 25,6-9 | sim | [efrem-carmina-nisibena.md](base/efrem-carmina-nisibena.md) (2 KB) |
 | Santo Efrém (atribuído), Explanatio in Numeros | Nm 25 (o v. 19 hebraico é o 26,1 da Vulgata); 3 unidade(s) de ~1500 caracteres do OCR (atribuição aproximada, ver Nota) | as unidades de texto atribuídas a este capítulo (só o latim; o siríaco do OCR é ilegível); pode faltar ou sobrar meia página nas pontas | sim | [efrem-in-numeros.md](base/efrem-in-numeros.md) (6 KB) |
-| Filoxeno de Mabug, Discursos sobre a vida cristã, 4: Sobre a fé e a simplicidade | Discurso 4 (só caíram em Baal-Fegor os nascidos no Egito, Nm 25,1-9; 26,64-65) | só o trecho sobre Nm 25 | sim | [filoxeno-discursos.md](base/filoxeno-discursos.md) (7 KB) |
+| Filoxeno de Mabug, Discursos sobre a vida cristã, 4: Sobre a fé e a simplicidade | Discurso 4 (só caíram em Baal-Fegor os nascidos no Egito, Nm 25,1-9; 26,64-65) | só o trecho sobre Nm 25 | sim (só pista, não vai ao site) | [filoxeno-discursos.md](base/filoxeno-discursos.md) (7 KB) |
 | Santo Isidoro, Quaestiones in Vetus Testamentum, In Numeros | Nm 25 (o v. 19 hebraico é o 26,1 da Vulgata); Isidoro, In Numeros: cap. XLII, §§6–8 | só os trechos que tratam deste capítulo (o In Numeros de Isidoro é uma alegoria das 42 mansões; ver Nota) |  | [isidoro-quaestiones-in-numeros.md](base/isidoro-quaestiones-in-numeros.md) (2 KB) |
 | Cornélio a Lápide, Commentaria in Numeros | Nm 25 (o v. 19 hebraico é o 26,1 da Vulgata); Lápide, cap. XXV | o capítulo inteiro, versículo a versículo, com o texto da Vulgata no começo e a SYNOPSIS |  | [lapide-commentaria-in-numeros.md](base/lapide-commentaria-in-numeros.md) (39 KB) |
 | São Gregório de Nissa, Vida de Moisés | Nm 25 (o v. 19 hebraico é o 26,1 da Vulgata); I, 75; II, 298–304 | só os trechos que tratam deste capítulo (a obra lê os episódios como etapas da alma) | sim | [nissa-vida-de-moises.md](base/nissa-vida-de-moises.md) (8 KB) |

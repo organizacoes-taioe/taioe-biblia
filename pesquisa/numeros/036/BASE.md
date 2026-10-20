@@ -4,11 +4,11 @@ Gerado por `pesquisa/ferramentas/base-indice.py`; não editar à mão. Os textos
 na língua original, cortados para este capítulo. A pesquisa do capítulo parte daqui e procura o
 que não é óbvio (`CAPITULO.md`, etapa 6).
 
-6 fontes, 3 orientais.
+6 fontes, 2 orientais.
 
 | autor e obra | passagem | cobre | oriental | arquivo |
 |---|---|---|---|---|
-| Dionísio bar Salibi, Comentário literal a Números: Números 36 | Números 36; lemas reconhecidos: vv. 4, 9 | o capítulo inteiro, em glosas literais curtas (corte automático pelos lemas; conferir as bordas) | sim | [dionisio-bar-salibi-comentario-numeros.md](base/dionisio-bar-salibi-comentario-numeros.md) (3 KB) |
+| Dionísio bar Salibi, Comentário literal a Números: Números 36 | Números 36; lemas reconhecidos: vv. 4, 9 | o capítulo inteiro, em glosas literais curtas (corte automático pelos lemas; conferir as bordas) | sim (só pista, não vai ao site) | [dionisio-bar-salibi-comentario-numeros.md](base/dionisio-bar-salibi-comentario-numeros.md) (3 KB) |
 | Cornélio a Lápide, Commentaria in Numeros | Nm 36; Lápide, cap. XXXVI | o capítulo inteiro, versículo a versículo, com o texto da Vulgata no começo e a SYNOPSIS |  | [lapide-commentaria-in-numeros.md](base/lapide-commentaria-in-numeros.md) (19 KB) |
 | Procópio de Gaza, Commentarii in Numeros | Nm 36; 3 unidade(s) de ~1500 caracteres do OCR (atribuição aproximada, ver Nota) | as unidades de texto atribuídas a este capítulo; pode faltar ou sobrar meia página nas pontas | sim | [procopio-commentarii-in-numeros.md](base/procopio-commentarii-in-numeros.md) (6 KB) |
 | Rábano Mauro, Enarrationes in librum Numerorum | Nm 36; Rábano, livro IV: cap. XIII | o capítulo inteiro (compilação: Orígenes/Rufino, Agostinho, Jerônimo, Isidoro; as fontes aparecem nas notas de Migne) |  | [rabano-enarrationes-numeros.md](base/rabano-enarrationes-numeros.md) (7 KB) |

@@ -116,7 +116,10 @@ Sl 33, de 20 notas ficaram 4.
   **pelo menos a metade** dos comentários de cada capítulo, quando as fontes permitirem. Orientais
   são os gregos e bizantinos, os siríacos (Efrém, Afraates, Jacó de Sarug, Isaac de Nínive), os
   armênios (Gregório de Narek, Nerses), os coptas e os Padres do deserto, e a liturgia e a
-  hinografia orientais (Romano, o Melodista, André de Creta, os cânones e kontákia). Um subagente
+  hinografia orientais (Romano, o Melodista, André de Creta, os cânones e kontákia). **Os
+  siríacos fora da comunhão com Roma ficam só como pista**, nunca no site (o Gere, 20/10): Dionísio
+  bar Salibi, Filoxeno de Mabug, Narsai, Isho`dad de Merv, Teodoro bar Koni; em `autores.json`
+  levam `"site": false`, e o `conferir` os recusa. Servem para achar o que os Padres disseram. Um subagente
   só para os orientais que não são os comentadores gregos de sempre (catálogo `orientais.md`).
 - Tudo se guarda em `pesquisa/<livro>/<ccc>/`: os textos inteiros (domínio público) em
   `textos/`, os excertos candidatos em `achados-*.json`, e um relatório do que se procurou e não

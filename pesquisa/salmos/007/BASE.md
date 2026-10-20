@@ -8,7 +8,7 @@ que não é óbvio (`CAPITULO.md`, etapa 6).
 
 | autor e obra | passagem | cobre | oriental | arquivo |
 |---|---|---|---|---|
-| Santo Afonso Maria de Ligório, Traduzione de' Salmi e de' Cantici | Sl 7 (hebraico) = Sl 7 (Vulgata, numeração de Afonso); pp. 630–631 da edição-base do IntraText | o salmo inteiro (argomento e, versículo a versículo, latim da Vulgata e paráfrase italiana) |  | [afonso-salmi.md](base/afonso-salmi.md) (6 KB) |
+| Santo Afonso Maria de Ligório, Traduzione de' Salmi e de' Cantici | Sl 7 (hebraico) = Sl 7 (Vulgata, numeração de Afonso); pp. 630–631 da edição-base do IntraText | o salmo inteiro (argomento e, versículo a versículo, latim da Vulgata e paráfrase italiana) |  | [afonso-salmi.md](base/afonso-salmi.md) (5 KB) |
 | Santo Agostinho, Enarrationes in Psalmos | Sl 7 (Vulgata); uma enarratio | o salmo inteiro (todas as enarrationes e sermões) |  | [agostinho-enarrationes-in-psalmos.md](base/agostinho-enarrationes-in-psalmos.md) (34 KB) |
 | Arnóbio, o Jovem, Commentarii in Psalmos | Sl 7 (Vulgata) | o salmo inteiro |  | [arnobio-commentarii-in-psalmos.md](base/arnobio-commentarii-in-psalmos.md) (4 KB) |
 | Santo Atanásio, Expositiones in Psalmos | Sl 7 (hebr. e LXX) | o salmo inteiro: Ὑπόθεσις e glosa dos versículos (colchetes = acréscimos de cadeia) | sim | [atanasio-expositiones-in-psalmos.md](base/atanasio-expositiones-in-psalmos.md) (5 KB) |

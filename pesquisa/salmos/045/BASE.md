@@ -4,7 +4,7 @@ Gerado por `pesquisa/ferramentas/base-indice.py`; não editar à mão. Os textos
 na língua original, cortados para este capítulo. A pesquisa do capítulo parte daqui e procura o
 que não é óbvio (`CAPITULO.md`, etapa 6).
 
-24 fontes, 11 orientais.
+24 fontes, 9 orientais.
 
 | autor e obra | passagem | cobre | oriental | arquivo |
 |---|---|---|---|---|
@@ -19,12 +19,12 @@ que não é óbvio (`CAPITULO.md`, etapa 6).
 | Cassiodoro, Expositio Psalmorum | Sl 44 (Vulgata), que corresponde ao Sl 45 hebr. | o salmo inteiro |  | [cassiodoro-expositio-psalmorum.md](base/cassiodoro-expositio-psalmorum.md) (28 KB) |
 | São Cirilo de Alexandria, Expositio in Psalmos | Sl 45 (hebr.) = Sl 44 (LXX) | excertos de cadeia (ed. Mai) sobre o salmo; não cobre todos os versículos; trechos entre colchetes têm origem incerta e várias glosas repetem Basílio e Teodoreto | sim | [cirilo-expositio-in-psalmos.md](base/cirilo-expositio-in-psalmos.md) (49 KB) |
 | São João Crisóstomo, Expositiones in Psalmos | Sl 45 (hebr.) = Sl 44 (LXX) | o salmo inteiro (homilias contínuas) | sim | [crisostomo-expositiones-in-psalmos.md](base/crisostomo-expositiones-in-psalmos.md) (110 KB) |
-| Dionísio bar Salibi, Comentário literal aos Salmos: Sl 45 | Sl 45 (Peshitta e hebraico; Sl 44 da LXX/Vulgata, aproximado); lemas reconhecidos: vv. 2, 5, 10, 17 | o salmo, em glosas literais curtas (corte automático pelos lemas e títulos; conferir as bordas) | sim | [dionisio-bar-salibi-comentario-salmos.md](base/dionisio-bar-salibi-comentario-salmos.md) (8 KB) |
+| Dionísio bar Salibi, Comentário literal aos Salmos: Sl 45 | Sl 45 (Peshitta e hebraico; Sl 44 da LXX/Vulgata, aproximado); lemas reconhecidos: vv. 2, 5, 10, 17 | o salmo, em glosas literais curtas (corte automático pelos lemas e títulos; conferir as bordas) | sim (só pista, não vai ao site) | [dionisio-bar-salibi-comentario-salmos.md](base/dionisio-bar-salibi-comentario-salmos.md) (8 KB) |
 | Eusébio de Cesareia, Commentaria in Psalmos | Sl 45 (hebr.) = Sl 44 (LXX) | SÓ CADEIA: excertos de cadeia que levam o nome de Eusébio, misturados a trechos de outros autores (Orígenes, Dídimo, Apolinário…); atribuição insegura e pode parar antes do fim do salmo | sim | [eusebio-commentaria-in-psalmos.md](base/eusebio-commentaria-in-psalmos.md) (37 KB) |
 | São Gregório de Nissa, In inscriptiones Psalmorum | Sl 45 (hebr.) = Sl 44 (LXX) | só os trechos em que Gregório cita o título ou o primeiro versículo do salmo e comenta (não é comentário seguido) | sim | [gregorio-nissa-in-inscriptiones-psalmorum.md](base/gregorio-nissa-in-inscriptiones-psalmorum.md) (6 KB) |
 | «Haimo de Halberstadt», Commentaria in Psalmos | Sl 44 (Vulgata), que corresponde ao Sl 45 hebr. | o salmo inteiro |  | [haimo-commentaria-in-psalmos.md](base/haimo-commentaria-in-psalmos.md) (18 KB) |
 | Liturgia da Igreja, Usos litúrgicos do salmo | Sl 45 (hebraico) = Sl 44 (Vulgata) | onde o salmo é rezado: saltério de quatro semanas, salmo responsorial da Missa, propers do Missal e saltério do Breviário até 1962 |  | [liturgia.md](base/liturgia.md) (9 KB) |
-| Narsai, Memra sobre a dedicação da Igreja | Mingana I, pp. 161–162: a Igreja, filha do rei à direita do Esposo (Sl 45,10-15) | só o trecho sobre os vv. 10–15 | sim | [narsai-dedicacao-da-igreja.md](base/narsai-dedicacao-da-igreja.md) (4 KB) |
+| Narsai, Memra sobre a dedicação da Igreja | Mingana I, pp. 161–162: a Igreja, filha do rei à direita do Esposo (Sl 45,10-15) | só o trecho sobre os vv. 10–15 | sim (só pista, não vai ao site) | [narsai-dedicacao-da-igreja.md](base/narsai-dedicacao-da-igreja.md) (4 KB) |
 | Orígenes, Fragmenta in Psalmos 1–150 (Pitra) | Sl 45 (hebr.) = Sl 44 (LXX) | fragmentos de cadeia sobre versículos do salmo (nem todos); marcadores [PG n, m] = salmo, versículo; OCR ruim | sim | [origenes-fragmenta-in-psalmos.md](base/origenes-fragmenta-in-psalmos.md) (13 KB) |
 | Orígenes, Selecta in Psalmos | Sl 45 (hebr.) = Sl 44 (LXX) | só glosas de cadeia sobre trechos do salmo (lemas terminados em «κ. τ. ἑ.»); parte é de Evágrio ou de Dídimo; atribuição insegura | sim | [origenes-selecta-in-psalmos.md](base/origenes-selecta-in-psalmos.md) (10 KB) |
 | Pedro Lombardo, Commentaria in Psalmos | Sl 44 (Vulgata), que corresponde ao Sl 45 hebr. | o salmo inteiro |  | [pedro-lombardo-commentaria-in-psalmos.md](base/pedro-lombardo-commentaria-in-psalmos.md) (37 KB) |

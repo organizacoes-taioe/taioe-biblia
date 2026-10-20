@@ -4,7 +4,7 @@ Gerado por `pesquisa/ferramentas/base-indice.py`; não editar à mão. Os textos
 na língua original, cortados para este capítulo. A pesquisa do capítulo parte daqui e procura o
 que não é óbvio (`CAPITULO.md`, etapa 6).
 
-17 fontes, 7 orientais.
+17 fontes, 6 orientais.
 
 | autor e obra | passagem | cobre | oriental | arquivo |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ que não é óbvio (`CAPITULO.md`, etapa 6).
 | Santo Agostinho, Quaestiones in Heptateuchum IV (Números) | Nm 22; Quaest. in Hept. IV, qq. 46–50 | todas as questões de Agostinho sobre este capítulo (as referências entre colchetes são da Vulgata) |  | [agostinho-quaestiones-in-heptateuchum-4.md](base/agostinho-quaestiones-in-heptateuchum-4.md) (10 KB) |
 | São Bruno de Segni, Expositio in Numeros | Nm 22; Bruno, Expositio in Numeros, cap. XXII | o capítulo inteiro, resumido (Bruno cita o texto e comenta só o que serve à alegoria e à moral) |  | [bruno-expositio-in-numeros.md](base/bruno-expositio-in-numeros.md) (1 KB) |
 | São Cirilo de Alexandria, De adoratione (trechos sobre Números) | Nm 22; 5 fala(s) do diálogo com Paládio, PG 68, 321, 413, 440, 892, 897 | só as falas que citam este capítulo (ver Nota); não é a obra inteira nem as alusões sem citação | sim | [cirilo-de-adoratione-numeros.md](base/cirilo-de-adoratione-numeros.md) (27 KB) |
-| Dionísio bar Salibi, Comentário literal a Números: Números 22 | Números 22; lemas reconhecidos: vv. 3, 4, 8, 12, 20, 21, 22, 28, 29, 30, 32, 34 | o capítulo inteiro, em glosas literais curtas (corte automático pelos lemas; conferir as bordas) | sim | [dionisio-bar-salibi-comentario-numeros.md](base/dionisio-bar-salibi-comentario-numeros.md) (7 KB) |
+| Dionísio bar Salibi, Comentário literal a Números: Números 22 | Números 22; lemas reconhecidos: vv. 3, 4, 8, 12, 20, 21, 22, 28, 29, 30, 32, 34 | o capítulo inteiro, em glosas literais curtas (corte automático pelos lemas; conferir as bordas) | sim (só pista, não vai ao site) | [dionisio-bar-salibi-comentario-numeros.md](base/dionisio-bar-salibi-comentario-numeros.md) (7 KB) |
 | Santo Efrém (atribuído), Explanatio in Numeros | Nm 22; 2 unidade(s) de ~1500 caracteres do OCR (atribuição aproximada, ver Nota) | as unidades de texto atribuídas a este capítulo (só o latim; o siríaco do OCR é ilegível); pode faltar ou sobrar meia página nas pontas | sim | [efrem-in-numeros.md](base/efrem-in-numeros.md) (5 KB) |
 | Santo Isidoro, Quaestiones in Vetus Testamentum, In Numeros | Nm 22; Isidoro, In Numeros: cap. XLII, §§2–5 | só os trechos que tratam deste capítulo (o In Numeros de Isidoro é uma alegoria das 42 mansões; ver Nota) |  | [isidoro-quaestiones-in-numeros.md](base/isidoro-quaestiones-in-numeros.md) (2 KB) |
 | Cornélio a Lápide, Commentaria in Numeros | Nm 22; Lápide, cap. XXII | o capítulo inteiro, versículo a versículo, com o texto da Vulgata no começo e a SYNOPSIS |  | [lapide-commentaria-in-numeros.md](base/lapide-commentaria-in-numeros.md) (39 KB) |

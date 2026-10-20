@@ -4,7 +4,7 @@ Gerado por `pesquisa/ferramentas/base-indice.py`; não editar à mão. Os textos
 na língua original, cortados para este capítulo. A pesquisa do capítulo parte daqui e procura o
 que não é óbvio (`CAPITULO.md`, etapa 6).
 
-15 fontes, 6 orientais.
+15 fontes, 5 orientais.
 
 | autor e obra | passagem | cobre | oriental | arquivo |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ que não é óbvio (`CAPITULO.md`, etapa 6).
 | São Bruno de Segni, Expositio in Numeros | Nm 19; Bruno, Expositio in Numeros, cap. XIX | o capítulo inteiro, resumido (Bruno cita o texto e comenta só o que serve à alegoria e à moral) |  | [bruno-expositio-in-numeros.md](base/bruno-expositio-in-numeros.md) (11 KB) |
 | São Cirilo de Alexandria, De adoratione (trechos sobre Números) | Nm 19; 6 fala(s) do diálogo com Paládio, PG 68, 688, 705, 708, 712, 776, 777 | só as falas que citam este capítulo (ver Nota); não é a obra inteira nem as alusões sem citação | sim | [cirilo-de-adoratione-numeros.md](base/cirilo-de-adoratione-numeros.md) (25 KB) |
 | São Cirilo de Alexandria, Glaphyra in Numeros | Nm 19; seção «Περὶ τῆς δαμάλεως τῆς πυῤῥᾶς (Nm 19)» | a seção inteira dos Glaphyra sobre este capítulo | sim | [cirilo-glaphyra-in-numeros.md](base/cirilo-glaphyra-in-numeros.md) (29 KB) |
-| Dionísio bar Salibi, Comentário literal a Números: Números 19 | Números 19; lemas reconhecidos: vv. 2, 22 | o capítulo inteiro, em glosas literais curtas (corte automático pelos lemas; conferir as bordas) | sim | [dionisio-bar-salibi-comentario-numeros.md](base/dionisio-bar-salibi-comentario-numeros.md) (4 KB) |
+| Dionísio bar Salibi, Comentário literal a Números: Números 19 | Números 19; lemas reconhecidos: vv. 2, 22 | o capítulo inteiro, em glosas literais curtas (corte automático pelos lemas; conferir as bordas) | sim (só pista, não vai ao site) | [dionisio-bar-salibi-comentario-numeros.md](base/dionisio-bar-salibi-comentario-numeros.md) (4 KB) |
 | Santo Efrém (atribuído), Explanatio in Numeros | Nm 19; 1 unidade(s) de ~1500 caracteres do OCR (atribuição aproximada, ver Nota) | as unidades de texto atribuídas a este capítulo (só o latim; o siríaco do OCR é ilegível); pode faltar ou sobrar meia página nas pontas | sim | [efrem-in-numeros.md](base/efrem-in-numeros.md) (2 KB) |
 | Santo Isidoro, Quaestiones in Vetus Testamentum, In Numeros | Nm 19; Isidoro, In Numeros: cap. XV, §§20–28 | só os trechos que tratam deste capítulo (o In Numeros de Isidoro é uma alegoria das 42 mansões; ver Nota) |  | [isidoro-quaestiones-in-numeros.md](base/isidoro-quaestiones-in-numeros.md) (5 KB) |
 | Cornélio a Lápide, Commentaria in Numeros | Nm 19; Lápide, cap. XIX | o capítulo inteiro, versículo a versículo, com o texto da Vulgata no começo e a SYNOPSIS |  | [lapide-commentaria-in-numeros.md](base/lapide-commentaria-in-numeros.md) (29 KB) |

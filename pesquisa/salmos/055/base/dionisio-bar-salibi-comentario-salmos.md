@@ -6,6 +6,7 @@
 - Fonte: https://syriaccorpus.org/238 (XML: https://raw.githubusercontent.com/srophe/syriac-corpus/main/data/tei/238.xml)
 - Cobre: o salmo, em glosas literais curtas (corte automático pelos lemas e títulos; conferir as bordas)
 - Oriental: sim
+- Uso: só pista: fora da comunhão com Roma; não entra no site (decisão do Gere, 20/10/2026)
 - Língua: syr
 - Baixado: 2026-10-20, por pesquisa/ferramentas/base/ori-siriaco-dionisio.py
 

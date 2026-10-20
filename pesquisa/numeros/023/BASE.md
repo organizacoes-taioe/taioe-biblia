@@ -4,7 +4,7 @@ Gerado por `pesquisa/ferramentas/base-indice.py`; não editar à mão. Os textos
 na língua original, cortados para este capítulo. A pesquisa do capítulo parte daqui e procura o
 que não é óbvio (`CAPITULO.md`, etapa 6).
 
-16 fontes, 6 orientais.
+16 fontes, 5 orientais.
 
 | autor e obra | passagem | cobre | oriental | arquivo |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ que não é óbvio (`CAPITULO.md`, etapa 6).
 | Santo Agostinho, Quaestiones in Heptateuchum IV (Números) | Nm 23; Quaest. in Hept. IV, q. 51 | todas as questões de Agostinho sobre este capítulo (as referências entre colchetes são da Vulgata) |  | [agostinho-quaestiones-in-heptateuchum-4.md](base/agostinho-quaestiones-in-heptateuchum-4.md) (1 KB) |
 | São Bruno de Segni, Expositio in Numeros | Nm 23; Bruno, Expositio in Numeros, cap. XXIII | o capítulo inteiro, resumido (Bruno cita o texto e comenta só o que serve à alegoria e à moral) |  | [bruno-expositio-in-numeros.md](base/bruno-expositio-in-numeros.md) (3 KB) |
 | São Cirilo de Alexandria, De adoratione (trechos sobre Números) | Nm 23; 4 fala(s) do diálogo com Paládio, PG 68, 321, 440, 892, 897 | só as falas que citam este capítulo (ver Nota); não é a obra inteira nem as alusões sem citação | sim | [cirilo-de-adoratione-numeros.md](base/cirilo-de-adoratione-numeros.md) (18 KB) |
-| Dionísio bar Salibi, Comentário literal a Números: Números 23 | Números 23; lemas reconhecidos: vv. 3, 4, 5, 7, 9, 10, 13, 21, 23, 27 | o capítulo inteiro, em glosas literais curtas (corte automático pelos lemas; conferir as bordas) | sim | [dionisio-bar-salibi-comentario-numeros.md](base/dionisio-bar-salibi-comentario-numeros.md) (7 KB) |
+| Dionísio bar Salibi, Comentário literal a Números: Números 23 | Números 23; lemas reconhecidos: vv. 3, 4, 5, 7, 9, 10, 13, 21, 23, 27 | o capítulo inteiro, em glosas literais curtas (corte automático pelos lemas; conferir as bordas) | sim (só pista, não vai ao site) | [dionisio-bar-salibi-comentario-numeros.md](base/dionisio-bar-salibi-comentario-numeros.md) (7 KB) |
 | Santo Isidoro, Quaestiones in Vetus Testamentum, In Numeros | Nm 23; Isidoro, In Numeros: cap. XLII, §2 | só os trechos que tratam deste capítulo (o In Numeros de Isidoro é uma alegoria das 42 mansões; ver Nota) |  | [isidoro-quaestiones-in-numeros.md](base/isidoro-quaestiones-in-numeros.md) (1 KB) |
 | Cornélio a Lápide, Commentaria in Numeros | Nm 23; Lápide, cap. XXIII | o capítulo inteiro, versículo a versículo, com o texto da Vulgata no começo e a SYNOPSIS |  | [lapide-commentaria-in-numeros.md](base/lapide-commentaria-in-numeros.md) (54 KB) |
 | São Gregório de Nissa, Vida de Moisés | Nm 23; II, 292–297 | só os trechos que tratam deste capítulo (a obra lê os episódios como etapas da alma) | sim | [nissa-vida-de-moises.md](base/nissa-vida-de-moises.md) (7 KB) |

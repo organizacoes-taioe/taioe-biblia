@@ -6,6 +6,7 @@
 - Fonte: https://syriaccorpus.org/380
 - Cobre: só citações dos vv. 4–14, numa reflexão sobre o temor de Deus
 - Oriental: sim
+- Uso: só pista: fora da comunhão com Roma; não entra no site (decisão do Gere, 20/10/2026)
 - Língua: syr
 - Baixado: 2026-10-20, por pesquisa/ferramentas/base/ori-siriaco-gravar.py
 
