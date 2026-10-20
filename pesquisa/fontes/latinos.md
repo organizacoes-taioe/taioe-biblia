@@ -348,3 +348,42 @@ O catálogo das fontes paulinas ficou na pasta do capítulo; ler antes do próxi
 
 - `../2corintios/001/fontes-agostinho-latinos.md`: o Ambrosiaster carta por carta no Corpus Corporum, a tabela sermão → arquivo do augustinus.it, Ambrósio, Gregório Magno.
 - `../2corintios/001/fontes-medievais.md`: Tomás (*Super epistolas*), Bruno Cartuxo, Haimo, Atão, Hervé, Sedúlio, Lanfranco, Lombardo no Corpus Corporum, Lápide no archive.org, Belarmino, Boaventura.
+
+## 10. Aprendido no Sl 36 (35), 2026-10-20 (`salmos/036/relatorio-latinos.md`)
+
+- **Índice dos textos já baixados**: os scratchpads das conversas anteriores do taioe guardam 655
+  textos da PL (70 autores). Listar só as pastas `dl/`, `bern/`, `n12/`, `a<autor>/` com
+  `find -maxdepth 6 -name "*.txt" -size +15k` e ler o cabeçalho (`cc_idno`, autor, obra): leva
+  segundos. Um `os.walk` no scratchpad inteiro não termina (há worktrees e cópias enormes).
+- Fluxo que funcionou: varrer todos os textos (menos Agostinho) com as notas de Migne reinseridas
+  e com 16 padrões das palavras dos versículos (`j`→`i`, `v`→`u`); ~600 ocorrências, resumidas
+  numa linha cada; depois abrir o contexto só das melhores. Os `original` saem por script, como
+  substring do texto limpo (sem notas, sem marcas de coluna e sem os números de página da edição
+  anterior, «766», que Migne deixa no meio das frases), com a coluna calculada sozinha.
+- Ids de texto novos: **Santo Anselmo** (autor 1938), *Proslogion* **10631** (`AnsCan.Proslo`; o
+  cap. 25 está também, retrabalhado, nas *Meditationes* 10626, col. 818); **Ricardo de São Vítor**
+  (2350), *Adnotationes mysticae in Psalmos* **11526** (`RiSVi.AdMyInP`; só os Sl 2, 25, 28, 30, 40,
+  44, 71, 74, 80, 84, 90, 98, 104, 113, 117–118, 121, 134, 136, 138–139, 143), *Benjamin major*
+  11527, *Benjamin minor* 11528; **Isaac de Stella** Sermões **11493** (`IsDeSt.Sermon43`);
+  **Guerrico de Igny** Sermões **21443** (`GueIgn.SePeAn`); **Pedro Crisólogo** Sermões **7597**
+  (`PetChr.Sermon7`); **Máximo de Turim** Homilias 7652 (`MaxTau.Homili3`); **Ambrósio** *De fuga
+  saeculi* 6954 (`AmbMed.DeFuSa`), *Exhortatio virginitatis* 6980 (`AmbMed.ExhVir`), *De Spiritu
+  Sancto* 6967 (`AmbMed.DeSpSa`), *De paradiso* 21375, *De Isaac* 6949, *De Abraham* 6947;
+  **Bernardo** *De diligendo Deo* 11196 (`BerCla.DeDiDe2`), quarta-feira santa 11231
+  (`BerCla.InFeIvH`), Natal 11239 (`BerCla.InNaDo`), Purificação 11220, Septuagésima 11222.
+- **Corpus Thomisticum inteiro** já baixado (579 páginas) em
+  `…/94b210f9-de88-4ff1-a06d-f01e9346d6d5/scratchpad/n12/ct/`: buscar ali antes de baixar de novo.
+  Atenção ao filtrar títulos: «I q. 12» casa com o fim de «I-II q. 12» (comparar o título inteiro).
+- **Santo Ambrósio comentou o Sl 35 (36)**: *Explanatio in Ps. 35*, PL 14, 952D–966C (texto 6956,
+  depois da do Sl 1; `grep -n "IN PSALMUM XXXV ENARRATIO"`). Para os Sl 36–40, 43, 45, 47, 48, 61,
+  começar por ele.
+- Na **edição Morin** (Jerônimo), os *Tractatus* e a homilia de Natal citam muito os salmos; achar
+  pelas notas de rodapé de Morin («Ps. 35, 7») no `_djvu.txt` com os espaços normalizados e a
+  hifenização desfeita, e ler o texto ~2000 caracteres antes da nota.
+- Com o Corpus Corporum rápido (20/10), listar as obras de um autor (`navigate.php?load=/38/<autor>`)
+  e baixar um texto levou segundos. No XML das obras, o `<idno>` da obra vem logo depois do `<name>`
+  que segue o bloco `</corpora>`.
+- Temas fortes nos latinos para os salmos com «embriaguez», «torrente» e «fonte»: Cassiodoro,
+  Ambrósio, Gregório (*Hom. in Ez.* I, 10, 7), Bernardo (*De diligendo Deo* 33), Ricardo de São
+  Vítor, Tomás; para «na tua luz veremos a luz», o *lumen gloriae* de Tomás (*Suma* I, q. 12, a. 2 e
+  5) e Isaac de Stella, Sermão 26.

@@ -75,3 +75,6 @@ de onde veio. Ler antes de preparar um capítulo (`CAPITULO.md`, etapas 2 a 4).
   dos justos») mostram o tom certo: excerto completo, tradução direta.
 - Textos do Magistério (*Verbum Domini*, *Laudato si'*) «podem ficar, com certeza», mesmo de Papas
   não canonizados; com direito autoral, só citação curta. (Sl 33)
+- Excerto que começa no meio do raciocínio fica brusco: «achei difícil de entender e de conectar com a
+  cena, o começo ficou brusco». Começar pela frase que situa o leitor (a fala do texto que o Padre
+  comenta). Cirilo sobre Nm 12,2 ganhou a fala de Maria e Aarão, em vez de sair. (Nm 12, 20/10)
