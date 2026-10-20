@@ -1,0 +1,236 @@
+{
+ "1": [
+  {
+   "id": "ofertas",
+   "titulo": "Farinha, azeite e vinho",
+   "versiculos": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+   ],
+   "resumo": "A lei das ofertas vem logo depois da sentença do deserto, e a farinha, o azeite e o vinho que acompanham cada sacrifício falam da vida, da alegria e da oferta de nós mesmos.",
+   "itens": [
+    "procopio-num-15-2",
+    "cirilo-de-adoratione-16-a",
+    "bruno-de-segni-innum-15-nos-somos-a-oferta",
+    "tomas-sth-1-2-102-3-ad13-pao-vinho-azeite"
+   ]
+  },
+  {
+   "id": "estrangeiro",
+   "titulo": "Uma só lei para o estrangeiro",
+   "versiculos": [
+    14,
+    15,
+    16
+   ],
+   "resumo": "O estrangeiro que oferece como o israelita anuncia as nações que entram no mesmo caminho.",
+   "itens": [
+    "cirilo-de-adoratione-16-b",
+    "procopio-num-15-15"
+   ]
+  }
+ ],
+ "2": [
+  {
+   "id": "primicia-cristo",
+   "titulo": "Cristo, primícia da nossa massa",
+   "versiculos": [
+    19,
+    20,
+    21
+   ],
+   "resumo": "O bolo separado da massa e levado a Deus figura Cristo, tirado da nossa natureza, nascido da Virgem e oferecido ao Pai por todos.",
+   "itens": [
+    "cirilo-glaph-num-15-2",
+    "andre-de-creta-natividade-1-primicia-da-massa",
+    "joao-damasceno-expositio-fidei-46",
+    "gregorio-nissa-in-cant-13"
+   ]
+  },
+  {
+   "id": "primicias-vida",
+   "titulo": "As primícias da nossa vida",
+   "versiculos": [
+    18,
+    19,
+    20,
+    21
+   ],
+   "resumo": "Separar as primícias é dar a Deus o primeiro e o melhor: os movimentos limpos da alma, o começo de toda obra boa, o pão dos pobres.",
+   "itens": [
+    "ambrosio-caim-2-1-6-primicias-da-massa",
+    "rabano-innum-2-13-primicias-da-boa-vontade",
+    "lapide-num15-20-21-o-pao-dos-pobres"
+   ]
+  }
+ ],
+ "3": [
+  {
+   "id": "inadvertencia",
+   "titulo": "O perdão dos pecados sem querer",
+   "versiculos": [
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29
+   ],
+   "resumo": "Para o pecado por inadvertência há sacrifício e perdão, e os Padres veem nele Cristo, que expia as faltas que nem percebemos.",
+   "itens": [
+    "cirilo-glaph-num-15-3",
+    "bruno-de-segni-innum-15-a-ignorancia-dos-que-mataram-cristo",
+    "agostinho-qhept-4-24",
+    "newman-pps1-7-sacrificios-pela-ignorancia"
+   ]
+  },
+  {
+   "id": "mao-levantada",
+   "titulo": "De mão levantada",
+   "versiculos": [
+    30,
+    31
+   ],
+   "resumo": "O pecado que despreza a palavra do Senhor não tem sacrifício na Lei; fica só o coração contrito.",
+   "itens": [
+    "teodoreto-q-num-29",
+    "basilio-de-iudicio-dei-b",
+    "ruperto-innum-2-1-o-pecado-de-soberba",
+    "agostinho-qhept-4-25b"
+   ]
+  },
+  {
+   "id": "mortal-venial",
+   "titulo": "Os graus do pecado",
+   "versiculos": [
+    22,
+    27,
+    30,
+    31
+   ],
+   "resumo": "A distinção da Lei entre o pecado sem querer e o de soberba está na raiz do que a Igreja chama pecado venial e pecado mortal.",
+   "itens": [
+    "tomas-sth-1-2-105-2-ad9-os-graus-do-pecado",
+    "joao-paulo-ii-reconciliatio-et-paenitentia-17-a"
+   ]
+  }
+ ],
+ "4": [
+  {
+   "id": "lenha",
+   "titulo": "A lenha que alimenta o fogo",
+   "versiculos": [
+    32,
+    33,
+    34,
+    35,
+    36
+   ],
+   "resumo": "A lenha seca juntada no dia do repouso é figura das obras mortas e do pecado, que alimentam o fogo.",
+   "itens": [
+    "cirilo-de-adoratione-7-sabado",
+    "isidoro-quaestnum-15-12-13-lenha-feno-palha",
+    "jeronimo-inez-13-o-sabado-de-deus"
+   ]
+  },
+  {
+   "id": "castigo",
+   "titulo": "Por que um castigo tão duro?",
+   "versiculos": [
+    32,
+    34,
+    35,
+    36
+   ],
+   "resumo": "Um gesto pequeno punido com a morte: o primeiro transgressor serve de exemplo, e Deus olha a desobediência, não o tamanho da obra.",
+   "itens": [
+    {
+     "id": "teodoreto-q-gen-37",
+     "texto": "É preciso considerar que aos primeiros que transgridem as leis se aplicam castigos sem perdão, para que os outros, vendo a punição, não ousem a transgressão. Isso aconteceu também com a lei do sábado: o primeiro que ousou recolher lenha no sábado e transgrediu essa lei foi apedrejado por todo o povo, por ordem de Deus, para que, sendo eles mesmos os executores do castigo, tivessem horror da transgressão, que traz o castigo. Mais tarde, quando muitos transgrediram a lei do sábado, o legislador suportou com paciência a transgressão. Assim também submeteu Caim, o primeiro homicida, a castigos sem remédio, para assustar os do seu tempo e os que viessem depois, de modo que não ousassem coisas semelhantes."
+    },
+    "basilio-de-iudicio-dei-a",
+    "sales-sermao-cxxxviii-1617-lenha",
+    "jeronimo-innaum-1-9-punido-uma-so-vez"
+   ]
+  },
+  {
+   "id": "letra-espirito",
+   "titulo": "A letra mata, o Espírito dá a vida",
+   "versiculos": [
+    32,
+    35,
+    36
+   ],
+   "resumo": "O apedrejamento do homem da lenha mostra a Lei que pune, e por contraste a graça que perdoa.",
+   "itens": [
+    "crisostomo-2cor-6",
+    {
+     "id": "agostinho-cadim-22",
+     "texto": "O Senhor, quando no Evangelho curou em dia de sábado a mão seca de um homem, fez uma obra divina, não humana; e não deixou o repouso aquele que deu uma ordem, e a coisa se fez. Por isso esse fato não se parece com o daquele homem que catava lenha e que, encontrado a fazer isso em dia de sábado, foi apedrejado por ordem de Deus. Sobre a observância servil do sábado e sobre o castigo da morte temporal já se disse muito. Pois, assim como no tempo da caridade se põe em relevo sobretudo a bondade de Deus, assim no tempo do temor se põe em relevo a sua severidade. E, como antes da vinda do Senhor ainda não convinha desvendar ao povo os sacramentos das figuras da Lei, não eram convidados a entender o que elas significavam, mas eram obrigados a cumprir o que se mandava; pois ainda não se uniam a Deus pelo espírito, mas serviam à Lei pela carne."
+    },
+    "ambrosio-ep-74-5-6-a-sombra-e-o-sol"
+   ]
+  }
+ ],
+ "5": [
+  {
+   "id": "cor-do-ceu",
+   "titulo": "A cor do céu",
+   "versiculos": [
+    38,
+    39,
+    40
+   ],
+   "resumo": "O cordão violeta tem a cor do céu: lembra o Senhor que está no alto e chama os pensamentos e as obras para cima.",
+   "itens": [
+    "teodoreto-q-num-31",
+    "cirilo-de-adoratione-7-franjas-a",
+    "maximo-confessor-quaestiones-et-dubia-76",
+    "bruno-de-segni-innum-15-pensamentos-cor-do-ceu"
+   ]
+  },
+  {
+   "id": "lembrar",
+   "titulo": "Para se lembrarem dos mandamentos",
+   "versiculos": [
+    39,
+    40
+   ],
+   "resumo": "As franjas são um lembrete contra o esquecimento, que Deus dá como a crianças; lembram o temor do Senhor, e as imagens dos santos fazem o mesmo para os cristãos.",
+   "itens": [
+    "crisostomo-mt-72",
+    "jaco-sarug-memra-78-sabado-nas-franjas",
+    "nilo-sermo-lc-22-36-10-franjas-temor",
+    "germano-ep4-tomas-franjas-e-imagens"
+   ]
+  },
+  {
+   "id": "franja-de-cristo",
+   "titulo": "A franja do manto de Jesus",
+   "versiculos": [
+    38
+   ],
+   "resumo": "Jesus usava essas franjas, e a mulher doente foi curada ao tocar a franja do seu manto.",
+   "itens": [
+    {
+     "id": "lapide-num15-38-a-cor-do-ceu",
+     "texto": "Os fariseus, como atesta Cristo em Mt 23,5, para parecerem mais religiosos que os outros, alargavam essas franjas; mais ainda, o próprio Cristo, segundo o costume do seu povo, usou essas franjas, como se vê em Lc 8,44, onde se diz que a mulher que sofria de hemorragia tocou a franja da veste de Cristo e logo ficou curada. Sobre essas franjas os judeus punham e estendiam em volta um fio, ou uma fita, isto é, um cordão de púrpura violeta; e isso, de um lado, para se distinguirem, para que por esse sinal fossem reconhecidos entre os gentios; de outro, por piedade, para que isso fosse como uma lembrança dos mandamentos de Deus. Essas franjas eram cor de jacinto, isto é, de cor violeta e celeste, para significar que a vida e a esperança dos judeus deviam estar no céu, de modo que, tendo o pensamento junto de Deus, tivessem sempre diante dos olhos o temor e a presença de Deus; pois é isto o que se segue: «Quando as virem, lembrem-se de todos os mandamentos do Senhor»."
+    },
+    "ambrosio-inlc-6-58-59-tocar-a-franja",
+    "agostinho-sermo-62-7",
+    "antonio-sermao-dom-xxiv-pentecostes-fimbria"
+   ]
+  }
+ ]
+}

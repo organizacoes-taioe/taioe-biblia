@@ -40,25 +40,27 @@ principal do Gere, só leitura). Não entra aqui o que já está em `numeros/<cc
 
 ## Nm 18–19
 
-- Nm 18: nada anotado além do que está em `base/` (Cirilo, *Fragmenta duo*; Teodoreto q. XXXIV; Orígenes H10–H11).
+- Nm 18: além do que está em `base/` (Cirilo, *Fragmenta duo*; Teodoreto q. XXXIV; Orígenes H10–H11), a *Didascália* siríaca, caps. 8–9 (Gibson 1903, pp. 46–48, https://archive.org/details/didascaliaaposto00gibsuoft), cita Nm 18 por extenso e passa as primícias e os dízimos ao bispo, aos presbíteros e aos pobres (relatório de Nm 15, orientais).
 - Nm 19: nada anotado; o Ofício das Leituras (ciclo anual) salta os caps. 15–19.
 
 ## Nm 20–21
 
+- Jacó de Sarug: o OCR siríaco dos cinco volumes de Bedjan (`homiliaeselectae01jaco` a `05jaco`) dá para buscar sem as vogais (relatório de Nm 15, orientais): procurar ali antes de cada capítulo de Nm 20–25.
+
 - **Nm 20**: o Missal antigo (1570–1962) lê Números só em Nm 20, na sexta-feira da 3ª semana da Quaresma (`Tempora/Quad3-5` do Divinum Officium; relatório de Nm 12, modernos); o Lecionário de 1981 e o Ofício das Leituras (sábado da 4ª semana da Quaresma) leem Nm 20,1-13; Santo Antônio de Pádua cita Nm 20 (relatório de Nm 15, modernos).
-- **Nm 21**: Nm 21,4b-9 na Missa e no Ofício das Leituras (relatórios de Nm 14–15); o Papa Francisco (ver Nm 11); Santo Antônio de Pádua e o Catecismo citam Nm 21; Teodoreto, *In Ps.* 77, 94, 105 (ver Nm 11); Eusébio, *Onomasticon* (verbetes com a referência bíblica dos lugares) (relatório de Nm 13, gregos).
+- **Nm 21**: Padres do deserto e bizantinos na PG (relatório de Nm 15, deserto e bizantinos, com as páginas): o abade Poimen compara o abade Nisteroos à serpente de bronze (*Apophthegmata*, PG 65); São Germano, *Sobre o termo da vida* (PG 98); São Teodoro Estudita, *Antirrhetici* (Ezequias quebra a serpente, PG 99). Nm 21,4b-9 na Missa e no Ofício das Leituras (relatórios de Nm 14–15); o Papa Francisco (ver Nm 11); Santo Antônio de Pádua e o Catecismo citam Nm 21; Teodoreto, *In Ps.* 77, 94, 105 (ver Nm 11); Eusébio, *Onomasticon* (verbetes com a referência bíblica dos lugares) (relatório de Nm 13, gregos).
 
 ## Nm 22–25
 
 - **Nm 22**: São João da Cruz cita Nm 22 (relatório de Nm 14, modernos).
 - **Nm 23**: Santo Antônio de Pádua cita Nm 23 (relatório de Nm 15, modernos).
 - **Nm 24**: o Catecismo cita Nm 24; Nm 24,2-7.15-17 é lido na Missa (Lecionário de 1981); Santo Antônio de Pádua cita Nm 24 (relatórios de Nm 13 e 15).
-- **Nm 25**: Santo Antônio de Pádua cita Nm 25; Teodoreto *In Ps.* 105 (Baal-Fegor) (relatórios de Nm 14–15).
+- **Nm 25**: São Nilo (PG 79): Fineias é a palavra sacerdotal que mata o adultério interior; São Teodoro Estudita (PG 99): Cristo, «o grande Fineias», faz a expiação pela Cruz (relatório de Nm 15, deserto e bizantinos). Santo Antônio de Pádua cita Nm 25; Teodoreto *In Ps.* 105 (Baal-Fegor) (relatórios de Nm 14–15).
 
 ## Nm 26–29
 
 - **Nm 26**: Nm 26,11 — os filhos de Coré não morreram, e deles vêm os «filhos de Coré» dos Salmos (pedido de Nm 16).
-- **Nm 27**: Nm 27,16 («Deus dos espíritos de toda carne»; Nm 16,22; Hb 12,9): Deus autor das almas; os Padres sobre a origem da alma (pedido de Nm 16).
+- **Nm 27**: Dionísio bar Salibi identifica o homem da lenha de Nm 15 com Salfaad (só pista: fora da comunhão com Roma). Nm 27,16 («Deus dos espíritos de toda carne»; Nm 16,22; Hb 12,9): Deus autor das almas; os Padres sobre a origem da alma (pedido de Nm 16).
 - **Nm 28–29**: Cirilo, *De adoratione* XVII (PG 68, 1081 ss.): as medidas «τέταρτον τοῦ ἵν» e «οἶνον εἰς σπονδήν» são de Nm 28–29 (relatório de Nm 15, gregos); o Catecismo cita Nm 28 (relatório de Nm 13); Pseudo-Atanásio, *De sabbatis et circumcisione* (PG 28, 136) cita Nm 28 (não Nm 15).
 
 ## Nm 30–36

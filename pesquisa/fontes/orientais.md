@@ -100,7 +100,7 @@ comentário, usar a frase da coluna «como apresentar».
 | Efrém, Rábula, Balai… *Opera selecta* | J. J. Overbeck, 1865 (só siríaco) | `sephraemisyrirab00ephruoft` | hinos e sermões menores |
 | Afraates, *Demonstrações* | J. Parisot, PS I/1 (1894), siríaco e latim | `patrologiasyriac01graf` | latim de Parisot para conferir |
 | *Liber Graduum* | M. Kmosko, PS I/3 (1926) | `PatrologiaSyriacaIIILiberGraduum_201603` | |
-| Jacó de Sarug, *Homiliae selectae* I–V | P. Bedjan, 1905–1910 (só siríaco) | `homiliaeselectae01jaco` … `homiliaeselectae05jaco` | ~195 memre; o corpus tem só 39: para os outros, índice no começo de cada volume |
+| Jacó de Sarug, *Homiliae selectae* I–V | P. Bedjan, 1905–1910 (só siríaco) | `homiliaeselectae01jaco` … `homiliaeselectae05jaco` | ~195 memre; o corpus tem só 39: para os outros, índice no começo de cada volume  O OCR siríaco desses itens é aproveitável: sem as vogais, dá para buscar palavras nos ~195 memre (Nm 15: memra 78, Bedjan III, p. 286) |
 | Isaac de Nínive, *De perfectione religiosa* | P. Bedjan, 1909 | `212102178MarIsaacusNinivitaDePerfectioneReligiosa` | = corpus 392–473 |
 | Isaac de Nínive, *Mystic Treatises* | A. J. Wensinck, 1923 (inglês) | `isaac_of_nineveh_mystical_treatises` | conferir a tradução |
 | Narsai, *Homiliae et carmina* I–II | A. Mingana, Mossul 1905 | `narsaihomiliaeetcarmina1`, `MinganaNarsaiVol2` | |
@@ -154,6 +154,7 @@ ebible.org só para busca, https://ebible.org/Scriptures/grcbrent_usfm.zip, nume
 | Romano, kontákia | Pitra, *Analecta sacra* I (1876): https://archive.org/details/analectasacraspicilegiosolesmensipar (página impressa = n − 100); Pitra, *Sanctus Romanus veterum melodorum princeps* (1888): https://archive.org/details/sanctusromanusve00roma | abrem; OCR grego razoável |
 | PG 34, 90, 91 (para conferir colunas) | archive.org `bim_early-english-books-1641-1700_1860_34`, `…_patrologiae-cursus-completus-_1860_90`, `…_1860_91` | abrem |
 | *Apophthegmata* (PG 65), Clímaco e Doroteu (PG 88), Nilo (PG 79), Isidoro (PG 78), Teofilacto (PG 124) | identificadores achados: `patrologiaecursu65mignuoft`, `bim_early-english-books-1641-1700_1860_88`, `…_1860_79`, `…_1860_78`, `…_1864_124` | **não abertos/conferidos**. Não estão no khazarzar; Barsanúfio, Diádoco, Marcos o Eremita, Isaac grego e Eutímio (PG 128; ver `gregos.md`) também não foram procurados |
+| PG com OCR grego legível | item `PatrologiaGraeca` do archive.org (pastas «Patrologia Graeca Vol. 0NN»), diferente dos `bim_…` | usado no Nm 15 para Nilo (PG 79), Germano (PG 98), André de Creta (PG 97), Teofilacto (PG 123), Antíoco (PG 89): buscar no texto, achar a página, conferir na imagem |
 | Livros litúrgicos gregos (Triódio, Menaion, Octoechos, Horológio) | edições do séc. XIX (archive.org; anemi.lib.uoc.gr); textos em glt.goarch.org, apostoliki-diakonia.gr, analogion.gr | **não confirmados** nesta rodada |
 
 ## 3. Cobertura por livro

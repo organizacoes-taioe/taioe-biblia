@@ -1,0 +1,14 @@
+# São Francisco de Sales, Plano de sermão CXXXVIII (segunda-feira depois do 4º domingo da Quaresma, 6 de março de 1617)
+
+- Edição: *Œuvres de saint François de Sales*, éd. d'Annecy, t. VIII (Sermons, vol. II), 1897, pp. 330–332 (Ms. de Turim, p. 238 verso; «inédit» em 1897). Original em latim; a tradução francesa ao pé da página é do editor.
+- Link (PDF do tomo, com OCR): https://www.donboscosanto.eu/francesco_di_sales/08-Oeuvres%20de%20S.%20Francois%20de%20Sales-Tome%20VIII-Vol.2-Sermons-web.pdf
+- Achado pelo *Index scripturaire* do t. XXVII («Nombres XV, v. 32-35: VIII, 330»). É a única referência de Nm 15 em toda a obra de Francisco de Sales.
+- Domínio público. Transcrição do OCR, conferida com a tradução francesa do editor (œ do OCR = æ).
+
+Evangelho do dia: Jo 2,13-25 (os vendilhões expulsos do Templo), tema «Auferte ista hinc».
+
+> Num. 15. ℣. [32-]35; colligens ligna in die Sabathi jubente Domino lapidibus obruitur. Et quidem, Ex. 31. ℣. 14, præcipiebatur ut deleretur de populo qui Sabathum violaret, tamen Moyses et Aaron nesciebant quid facere de hoc colligente ligna; sive quia parva videbatur transgressio, sive quia nesciebant quo genere mortis puniri deberet. Dominus autem lapidandum jussit. Terribilis sententia! 2. Reg. 6, terribilius factum videmus. Arca Dei e Gabaa transfertur; boves calcitrabant et la faysoyent pancher (et declinaverunt eam). Et percussit illico Dominus Ozam super temeritate, et mortuus est ibi juxta Arcam. Terribilior adhuc, 4. Reg. 2, cum iret Helizeus ex Hiericho in Bethel; de 42 pueris devoratis ab ursis quia calvum per injuriam appellaverant Prophetam. Terribilissimum autem, Act. 5, quod contigit Ananiæ et Saphiræ. Sed nimirum peccata sunt in religionem, quæ est regina omnium virtutum moralium; et est constans et perpetua voluntas Deo honorem debitum, quoad fieri potest, reddendi. [Margem: Cf. S. Thom., IIa IIæ, qu. LXXXI, art. II, VIII.]
+>
+> Miratur Sanctus Hieronymus Dominum bis e Templo ejicientem et percutientem vendentes et ementes. Nunquam Dominus percussit quemquam, imo cum caperetur neminem percuti voluit, et Petrum percutientem repressit; at nunc, magno zelo, etc.
+
+Tradução francesa do editor (para conferir a leitura): «Il est raconté dans le Livre des Nombres qu'un homme ramassait du bois le jour du Sabbat ; sur l'ordre du Seigneur, il fut lapidé. En effet, il était déjà ordonné dans l'Exode de retrancher du peuple tout violateur du Sabbat ; Moïse et Aaron ne savaient toutefois quelle peine infliger à cet homme qui ramassait du bois, soit que cette violation de la Loi leur parût légère, soit qu'ils ne sussent de quel genre de mort la punir. Mais le Seigneur ordonne de lapider cet homme. Terrible sentence ! […] Mais il faut se rappeler que tous ces péchés étaient opposés à la vertu de religion, cette reine de toutes les vertus morales, qui consiste dans la constante et perpétuelle volonté de rendre à Dieu, autant qu'il se peut, l'honneur qui lui est dû.»
