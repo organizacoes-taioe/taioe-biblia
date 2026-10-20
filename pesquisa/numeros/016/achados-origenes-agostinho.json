@@ -1,0 +1,715 @@
+[
+  {
+    "id": "origenes-hnum-9-1-fogo-estranho",
+    "autor": "Orígenes",
+    "autor_id": "origenes",
+    "datas": "c. 185–c. 254",
+    "titulo_autor": "presbítero e teólogo de Alexandria (não é santo nem Padre canonizado, mas a tradição o leu sempre)",
+    "obra": "Homilias sobre Números (Homiliae in Numeros), trad. de Rufino",
+    "passagem": "IX, 1",
+    "edicao": "GCS 30 (Baehrens), 54; Lommatzsch X, 74–75",
+    "versiculos": [
+      6,
+      7,
+      17,
+      18,
+      35
+    ],
+    "trecho": "3",
+    "lingua": "la",
+    "original": "Chore figuram tenet eorum, qui contra ecclesiasticam fidem et doctrinam veritatis insurgunt. Scriptum est ergo de Chore et de coetu eius quod in batillis aereis incensum obtulerint «ignis alieni». [...] Hoc ergo mihi per hanc figuram videtur ostendi quod «batilla» ista, quae Scriptura nominat «aerea», figuram teneant Scripturae divinae. Cui Scripturae haeretici «ignem alienum» imponentes, hoc est sensum et intelligentiam alienam a Deo et veritati contrariam introducentes, incensum Domino non suave, sed exsecrabile offerunt.",
+    "fonte_url": "https://archive.org/details/origenes-werke.-bd-7-1921/page/54/mode/1up",
+    "traducao_pt": "Coré é figura dos que se levantam contra a fé da Igreja e a doutrina da verdade. Está escrito, pois, que Coré e o seu grupo ofereceram incenso em turíbulos de bronze, com «fogo estranho». [...] Esta figura me parece mostrar que esses «turíbulos», que a Escritura chama «de bronze», são figura da divina Escritura. Os hereges põem sobre essa Escritura um «fogo estranho», isto é, introduzem nela um sentido e uma interpretação alheios a Deus e contrários à verdade, e assim oferecem ao Senhor um incenso que não é suave, mas execrável.",
+    "temas": [
+      "Coré, figura dos hereges",
+      "o fogo estranho: o sentido alheio posto na Escritura",
+      "o incenso que não agrada"
+    ],
+    "resumo": "Coré é figura dos que se levantam contra a fé da Igreja; o turíbulo é a Escritura, e o fogo estranho que os hereges põem nela é um sentido alheio a Deus: o incenso deles é execrável.",
+    "nota": "A homilia 9 comenta Nm 16,36–17,13 da Vulgata (o nosso 17,1–28); este trecho de 9,1 parte dos turíbulos batidos em lâminas (o nosso 17,1–5), mas interpreta a oferta de Coré e dos 250 (16,6–7.17–18.35). A LXX e a Vetus Latina chamam «fogo estranho» o fogo deles (16,37 LXX = 17,2).",
+    "relevancia": 2,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "origenes-hnum-9-1-sacerdocio-nao-se-invade",
+    "autor": "Orígenes",
+    "autor_id": "origenes",
+    "datas": "c. 185–c. 254",
+    "titulo_autor": "presbítero e teólogo de Alexandria (não é santo nem Padre canonizado, mas a tradição o leu sempre)",
+    "obra": "Homilias sobre Números (Homiliae in Numeros), trad. de Rufino",
+    "passagem": "IX, 1 (fim)",
+    "edicao": "GCS 30 (Baehrens), 56; Lommatzsch X, 77",
+    "versiculos": [
+      5,
+      7,
+      9,
+      10,
+      40
+    ],
+    "trecho": "1",
+    "lingua": "la",
+    "original": "Haec autem diximus de batillis eorum, qui condemnati sunt, quae altari iubentur affigi, quod ex comparatione inferiorum iusti clariores appareant, simul ut et posteris daretur exemplum, ne qui praesumptione superbi spiritus non sibi a Deo datum munus pontificatus invaderet, sed ut illi cedat, quem non ambitio humana, non favor corruptus adsciverit nec largitio condemnanda subrogaverit, sed meritorum conscientia et Dei voluntas assumpserit.",
+    "fonte_url": "https://archive.org/details/origenes-werke.-bd-7-1921/page/56/mode/1up",
+    "traducao_pt": "Dissemos isso dos turíbulos dos condenados, que Deus manda pregar no altar: pela comparação com os piores, os justos aparecem mais luminosos; e ao mesmo tempo se dava um exemplo aos que viessem depois, para que ninguém, pela presunção de um espírito soberbo, invadisse o ofício do sumo sacerdócio que Deus não lhe deu, mas cedesse o lugar àquele que não foi chamado pela ambição humana, nem por um favor corrompido, nem posto ali por uma doação condenável, mas escolhido pela consciência dos seus méritos e pela vontade de Deus.",
+    "temas": [
+      "o sacerdócio que não se toma por si mesmo",
+      "a ambição do sacerdócio",
+      "a eleição pela vontade de Deus"
+    ],
+    "resumo": "Os turíbulos dos rebeldes ficam no altar como exemplo: ninguém invada por soberba o sacerdócio que Deus não lhe deu; ele cabe a quem não foi posto pela ambição, pelo favor ou pelo dinheiro, mas pela vontade de Deus.",
+    "nota": "Fecha a explicação dos turíbulos (Nm 16,40 Vulgata = o nosso 17,5), mas a lição é a do pecado de Coré: «e quereis também o sacerdócio?» (16,10). Paralelo de Hb 5,4. Texto conferido com a imagem da página (também em `../../013/textos/origenes-homilias-numeros-7-8-9.md`).",
+    "relevancia": 3,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "origenes-crom-10-7-filhos-de-core",
+    "autor": "Orígenes",
+    "autor_id": "origenes",
+    "datas": "c. 185–c. 254",
+    "titulo_autor": "presbítero e teólogo de Alexandria (não é santo nem Padre canonizado, mas a tradição o leu sempre)",
+    "obra": "Comentário à Carta aos Romanos (Commentarii in epistulam ad Romanos), trad. de Rufino",
+    "passagem": "X, 7 (sobre Rm 15,5–6)",
+    "edicao": "PG 14, 1261–1262; Lommatzsch VII, 396–397",
+    "versiculos": [
+      26,
+      27
+    ],
+    "trecho": "4",
+    "lingua": "la",
+    "original": "Ut autem adhuc, quanta sit unanimitatis virtus, et quanta gratia, clarius fiat, non puto absurdum videri, si ea, quae nobis de his etiam in veteri Testamento a patribus rationabiliter tradita sunt, his scilicet, qui ex Hebraeis ad Christi fidem venerunt, in medium proferamus. Aiebant ergo, tres illos filios Core, quorum nomina invenimus in Exodo, id est, Assir, qui interpretatur eruditio, et Elcana, qui in nostra lingua dicitur possessio Dei, et Abiasaph, qui in latino sermone indicat congregationem patris, cum pater eorum Core peccasset una cum Dathan et Abiram, et omnibus, qui consenserunt iis, et divinae ultionis in eos pararetur excidium, istos segregasse se a coetu nefario, et ab impia conspiratione sequestratos unanimiter ad Deum precem poenitentiae profudisse: atque exauditos a Deo non solum veniam poenae, sed et prophetiae gratiam meruisse; et hoc quoque iis a Deo poscentibus esse praestitum, ne quid triste aut exitiabile prophetare iuberentur: et ob hoc omnes Psalmos, quicunque nominibus eorum attitulati referuntur, nihil triste adversum peccatores, aut asperum continere. Hoc autem protulimus, ut, quanta sit unanimitatis virtus, et unum sentire, atque unum invicem sapere, magnificentius nosceretur.",
+    "fonte_url": "https://archive.org/details/origenous-ta-heuriskomena-panta-t.-7-1837/page/397/mode/1up",
+    "traducao_pt": "Para que fique ainda mais claro quão grande é a força e a graça da unanimidade, não me parece absurdo trazer aqui o que os pais nos transmitiram com bom fundamento também sobre isso no Antigo Testamento, isto é, os que vieram dos hebreus à fé de Cristo. Diziam eles que aqueles três filhos de Coré cujos nomes encontramos no Êxodo (Assir, que se interpreta «instrução», Elcana, que na nossa língua quer dizer «possessão de Deus», e Abiasaf, que em latim significa «assembleia do pai»), quando seu pai Coré pecou com Datã e Abiram e com todos os que concordaram com eles, e se preparava contra eles a ruína do castigo divino, se separaram daquele grupo criminoso e, afastados da conspiração ímpia, derramaram unânimes diante de Deus uma oração de penitência; e que, ouvidos por Deus, mereceram não só o perdão do castigo, mas também a graça da profecia; e que, a pedido deles, Deus lhes concedeu ainda que nunca lhes mandasse profetizar nada triste ou funesto; e por isso todos os salmos que levam o nome deles no título não contêm nada triste nem duro contra os pecadores. Contamos isso para que se conheça melhor quão grande é a força da unanimidade, de sentir uma só coisa e ter um só pensamento uns com os outros.",
+    "temas": [
+      "os filhos de Coré, que não morreram",
+      "separar-se dos rebeldes",
+      "a penitência e a graça da profecia",
+      "os salmos dos filhos de Coré"
+    ],
+    "resumo": "Tradição dos hebreus convertidos: os três filhos de Coré se separaram da conspiração do pai, rezaram juntos em penitência e, ouvidos, receberam o perdão e o dom da profecia; por isso os salmos «dos filhos de Coré» nada têm de triste contra os pecadores.",
+    "nota": "Rufino traduz um comentário a Rm 15,5–6 (a unanimidade); a história vem como exemplo. Supõe Nm 26,11 («os filhos de Coré não morreram») e a separação de 16,26–27. O PG traz «Abiron»; Lommatzsch, «Abiram». Os nomes são os de Êx 6,24.",
+    "relevancia": 2,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "origenes-fragm-sl-105-16",
+    "autor": "Orígenes",
+    "autor_id": "origenes",
+    "datas": "c. 185–c. 254",
+    "titulo_autor": "presbítero e teólogo de Alexandria (não é santo nem Padre canonizado, mas a tradição o leu sempre)",
+    "obra": "Fragmentos sobre os Salmos (Fragmenta in Psalmos), de cadeia, atribuídos a Orígenes",
+    "passagem": "sobre o Sl 105(106),16",
+    "edicao": "J.-B. Pitra, Analecta sacra III (1883); PDF da «Ψηφιακή Πατρολογία», p. 89–90",
+    "versiculos": [
+      3,
+      11
+    ],
+    "trecho": "1",
+    "lingua": "grc",
+    "original": "Καὶ παρώργησαν Μωϋσῆν ἐν τῇ παρεμβολῇ, καὶ Ἀαρὼν τὸν ἅγιον Κυρίου. Οἱ τὰς ἐντολὰς τοῦ Θεοῦ παραβαίνοντες, Μωϋσῆν παροργίζουσιν· οἱ δὲ τὴν πίστιν ἀθετοῦντες, τὸν Ἀαρὼν παροξύνουσιν. Ὁ μὲν γὰρ πρᾶξιν, ὁ δὲ θεωρίαν σημαίνει.",
+    "fonte_url": "https://khazarzar.skeptik.net/pgm/PG_Migne/Origenes_PG%2011-17/Fragmenta%20in%20Psalmos.pdf",
+    "traducao_pt": "«E provocaram Moisés no acampamento, e Aarão, o santo do Senhor.» Os que transgridem os mandamentos de Deus provocam Moisés; os que rejeitam a fé irritam Aarão. Pois um significa a prática; o outro, a contemplação.",
+    "temas": [
+      "a revolta contra Moisés e Aarão",
+      "Moisés, a prática; Aarão, a contemplação"
+    ],
+    "resumo": "Sobre o Sl 106,16 (a revolta de Coré): provoca Moisés quem transgride os mandamentos, irrita Aarão quem rejeita a fé; Moisés é a vida ativa, Aarão a contemplativa.",
+    "nota": "Escólio de cadeia, de atribuição incerta (a dupla prática/contemplação lembra Evágrio). O escólio seguinte, sobre o v. 17 (Datã e Abiram), só comenta a ordem da narração.",
+    "relevancia": 1,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "agostinho-qhept-4-26-os-olhos",
+    "autor": "Santo Agostinho",
+    "autor_id": "agostinho",
+    "datas": "354–430",
+    "titulo_autor": "bispo de Hipona, Doutor da Igreja",
+    "obra": "Questões sobre o Heptateuco (Quaestiones in Heptateuchum)",
+    "passagem": "IV, 26 (sobre Nm 16,13–14)",
+    "edicao": "PL 34, 729; CSEL 28/1 (Zycha)",
+    "versiculos": [
+      12,
+      13,
+      14
+    ],
+    "trecho": "2",
+    "lingua": "la",
+    "original": "Quid est quod Dathan et Abiron, cum in seditionem consurrexissent, vocati a Moyse, ac superbe et iniuriose respondentes, Numquid pussillum hoc, quoniam eduxisti nos in terram fluentem lac et mel, interficere nos in eremo? quoniam praees nobis, princeps es: et tu in terram fluentem lac et mel induxisti nos, et dedisti nobis sortem agri et vineas; post haec addiderunt, Oculos hominum illorum abscidisses: non ascendimus? Quorum oculos hominum dixerunt? Utrum populi Israel, tanquam dicentes, Si ista praestitisses, oculos hominum illorum abscidisses; id est, ita te diligerent, ut oculos suos eruerent, et darent tibi? Quod indicium magnum dilectionis et Apostolus dicit, Quoniam si fieri posset, oculos vestros eruissetis, et dedissetis mihi. Et deinde plenam contumaciam addiderunt, Non ascendimus, id est, Non veniemus; quia vocaverat eos. An potius oculos hominum illorum, dicit hostium, qui nimis acres et terribiles fuerant nuntiati: tanquam dicerent, Etsi hoc fecisses, non tibi obtemperaremus; nisi quod modus verbi alius pro alio positus est, ut non dicerent, Non ascenderemus; sed, Non ascendimus, quodam genere locutionis?",
+    "fonte_url": "https://www.augustinus.it/latino/questioni_ettateuco/quest_ettateuco_4_libro.htm",
+    "traducao_pt": "Que significa o que disseram Datã e Abiram quando, levantados em revolta e chamados por Moisés, responderam com soberba e insolência: «É pouco nos teres tirado para uma terra que mana leite e mel, para nos matar no deserto? Porque nos governas, és chefe; e tu nos levaste a uma terra que mana leite e mel e nos deste herança de campos e vinhas», e depois acrescentaram: «Terias arrancado os olhos daqueles homens; não subimos»? De que homens falaram, ao dizer os olhos? Do povo de Israel, como se dissessem: Se nos tivesses dado isso, terias arrancado os olhos daqueles homens, isto é, eles te amariam tanto que arrancariam os próprios olhos para dá-los a ti? É um grande sinal de amor, que também o Apóstolo lembra: «Se fosse possível, teríeis arrancado os vossos olhos para dá-los a mim». E depois acrescentaram a obstinação completa: «Não subimos», isto é, não iremos, porque ele os tinha chamado. Ou antes chamam «olhos daqueles homens» os dos inimigos, que lhes tinham sido descritos como muito ferozes e terríveis, como se dissessem: Mesmo que tivesses feito isso, não te obedeceríamos? Só que um modo do verbo foi posto por outro, e não disseram «não subiríamos», mas «não subimos», por certo modo de falar.",
+    "temas": [
+      "a recusa de Datã e Abiram",
+      "a obstinação: «Não iremos!»",
+      "«arrancar os olhos»"
+    ],
+    "resumo": "Agostinho pergunta de quem são os «olhos» do v. 14 (na sua versão, a partir da LXX): os do povo, que por amor arrancaria os olhos por Moisés se ele cumprisse a promessa (Gl 4,15), ou os dos inimigos temidos; e vê no «não subimos» a obstinação completa.",
+    "nota": "A Vetus Latina dele segue a LXX («terias arrancado os olhos»), diferente do hebraico («queres arrancar os olhos destes homens?»).",
+    "relevancia": 2,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "agostinho-qhept-4-27-separai-vos",
+    "autor": "Santo Agostinho",
+    "autor_id": "agostinho",
+    "datas": "354–430",
+    "titulo_autor": "bispo de Hipona, Doutor da Igreja",
+    "obra": "Questões sobre o Heptateuco (Quaestiones in Heptateuchum)",
+    "passagem": "IV, 27 (sobre Nm 16,20–21)",
+    "edicao": "PL 34, 729–730; CSEL 28/1 (Zycha)",
+    "versiculos": [
+      21,
+      24,
+      26
+    ],
+    "trecho": "3",
+    "lingua": "la",
+    "original": "Et locutus est Dominus ad Moysen et Aaron, dicens: Abscedite vos de medio synagogae istius. Notandum est tunc iubere Dominum separationem fieri corporalem, cum iam vindicta imminet malis: sic Noe cum domo sua separatur a caeteris diluvio perituris; sic Lot cum suis separatur a Sodomis igne coelitus consumendis; sic ipse populus ab Aegyptiis marinis fluctibus obruendis; sic isti nunc a synagoga Chore, Abiron et Dathan, qui se primitus per seditionem abrumpere voluerunt: cum quibus tamen sancti antea viventes et conversantes, et cum caeteris quos reprobat Deus, secundum verba quae in eos increpans dicit, contaminari tamen ab eis minime potuerunt: nec separare se iussi sunt, quando vindictam Dominus sive differebat, sive talem adhibebat, qua innocentes periclitari laedive non possent [...]. Non quia et ibi Deus suos conservare non posset; sed quid opus erat tentatione miraculi ubi separatio fieri poterat, ut vel aqua, vel ignis, vel hiatus terrae, quos invenisset, auferret? Sic et in fine a zizaniis separabuntur frumenta, ut malos cremantibus flammis, iusti fulgeant sicut sol in regno Patris sui.",
+    "fonte_url": "https://www.augustinus.it/latino/questioni_ettateuco/quest_ettateuco_4_libro.htm",
+    "traducao_pt": "«E o Senhor falou a Moisés e a Aarão: Afastai-vos do meio desta assembleia.» Deve-se notar que o Senhor manda fazer a separação corporal só quando o castigo já está para cair sobre os maus: assim Noé com a sua casa é separado dos outros, que iam perecer no dilúvio; assim Ló com os seus é separado de Sodoma, que ia ser consumida pelo fogo do céu; assim o próprio povo é separado dos egípcios, que iam ser cobertos pelas ondas do mar; assim estes agora são separados do grupo de Coré, Abiram e Datã, que antes quiseram romper com os outros pela revolta. No entanto, os santos que antes viviam e conviviam com eles, e com os outros que Deus reprova, como mostram as palavras com que os repreende, de modo nenhum puderam ser contaminados por eles; e não receberam ordem de se separar enquanto o Senhor adiava o castigo, ou aplicava um castigo em que os inocentes não corriam perigo nem sofriam dano [...]. Não que ali Deus não pudesse conservar os seus; mas que necessidade havia de tentá-lo com um milagre, onde se podia fazer a separação, para que a água, ou o fogo, ou a fenda da terra levasse os que encontrasse? Assim também, no fim, o trigo será separado do joio, para que os maus ardam nas chamas e os justos brilhem como o sol no reino de seu Pai.",
+    "temas": [
+      "separar-se dos maus: de corpo só na hora do castigo",
+      "conviver com os maus sem se contaminar",
+      "o trigo e o joio"
+    ],
+    "resumo": "Deus manda separar-se de corpo dos maus só quando o castigo vai cair (Noé, Ló, o Mar Vermelho, Coré); antes disso os santos viviam com eles sem se contaminar, e a separação final será a do trigo e do joio.",
+    "nota": "É a leitura antidonatista de Agostinho dita no comentário literal: a separação de coração é sempre; a de corpo, quando Deus a manda. Omitida uma lista de castigos (serpentes, peste) que poupavam os inocentes.",
+    "relevancia": 3,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "agostinho-qhept-4-28-phasma",
+    "autor": "Santo Agostinho",
+    "autor_id": "agostinho",
+    "datas": "354–430",
+    "titulo_autor": "bispo de Hipona, Doutor da Igreja",
+    "obra": "Questões sobre o Heptateuco (Quaestiones in Heptateuchum)",
+    "passagem": "IV, 28 (sobre Nm 16,30)",
+    "edicao": "PL 34, 730; CSEL 28/1 (Zycha)",
+    "versiculos": [
+      30
+    ],
+    "trecho": "4",
+    "lingua": "la",
+    "original": "Quod ait Moyses de Chore et Abiron et Dathan, In visione ostendet Deus, et aperiens terra os suum absorbebit eos, quidam interpretati sunt, In hiatu ostendet Dominus: credo, putantes dictum χάσματι, quod graece positum est φάσματι, quod pro eo dictum est, ac si diceretur, In manifestatione, quod aperte oculis apparebit. Non enim sic dictum est, In visione, quemadmodum solent dici visiones, sive somniorum, sive quarumque in ecstasi figurarum; sed ut dixi, in manifestatione.",
+    "fonte_url": "https://www.augustinus.it/latino/questioni_ettateuco/quest_ettateuco_4_libro.htm",
+    "traducao_pt": "O que Moisés diz de Coré, Abiram e Datã, «Deus o mostrará em visão, e a terra, abrindo a sua boca, os engolirá», alguns traduziram «o Senhor o mostrará numa fenda», creio que pensando que estava escrito χάσματι, quando em grego está φάσματι, dito como se fosse «em manifestação», isto é, algo que vai aparecer abertamente aos olhos. Pois «em visão» não foi dito aqui no sentido em que se costuma falar de visões, de sonhos ou de quaisquer figuras vistas em êxtase, mas, como eu disse, no sentido de manifestação.",
+    "temas": [
+      "«se o Senhor criar uma coisa nova»",
+      "o prodígio visível"
+    ],
+    "resumo": "No v. 30 a LXX diz que Deus o mostrará ἐν φάσματι, «num prodígio visível», e não «numa fenda» (χάσματι), como alguns latinos entenderam; não é visão de sonho ou de êxtase, mas manifestação aos olhos.",
+    "nota": "Onde o hebraico tem «se o Senhor criar uma coisa nova», a LXX tem «o Senhor o mostrará num prodígio». A questão continua com a crítica da tradução «in phantasmate», omitida.",
+    "relevancia": 1,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "agostinho-qhept-4-29-infernos",
+    "autor": "Santo Agostinho",
+    "autor_id": "agostinho",
+    "datas": "354–430",
+    "titulo_autor": "bispo de Hipona, Doutor da Igreja",
+    "obra": "Questões sobre o Heptateuco (Quaestiones in Heptateuchum)",
+    "passagem": "IV, 29 (sobre Nm 16,32–33)",
+    "edicao": "PL 34, 730; CSEL 28/1 (Zycha)",
+    "versiculos": [
+      32,
+      33
+    ],
+    "trecho": "4",
+    "lingua": "la",
+    "original": "Et descenderunt ipsi, et omnia quaecumque sunt eis, viventes ad inferos. Notandum secundum locum terrenum dictos esse inferos, hoc est in inferioribus terrae partibus. Varie quippe in Scripturis et sub intellectu multiplici, sicut rerum de quibus agitur sensus exigit, nomen ponitur inferorum, et maxime in mortuis hoc accipi solet. Sed quoniam istos viventes dictum est ad inferos descendisse, et ipsa narratione quid factum fuerit satis apparet; manifestum est, ut dixi, inferiores partes terrae inferorum vocabulo nuncupatas, in comparatione huius superioris terrae in cuius facie vivitur: sicut in comparatione coeli superioris, ubi sanctorum demoratio est Angelorum, peccantes angelos in huius aeris detrusos caliginem Scriptura dicit tanquam carceribus inferi puniendos reservari.",
+    "fonte_url": "https://www.augustinus.it/latino/questioni_ettateuco/quest_ettateuco_4_libro.htm",
+    "traducao_pt": "«E desceram eles, e tudo o que era deles, vivos aos infernos.» Deve-se notar que aqui se chamam infernos um lugar da terra, isto é, as partes de baixo da terra. Nas Escrituras, de fato, o nome de infernos se usa de vários modos e com muitos sentidos, conforme pede o assunto de que se trata, e sobretudo costuma entender-se dos mortos. Mas, como se diz que estes desceram vivos aos infernos, e a própria narração mostra bem o que aconteceu, é claro, como eu disse, que as partes de baixo da terra foram chamadas pelo nome de infernos, em comparação com esta terra de cima, em cuja superfície se vive; assim como, em comparação com o céu superior, onde moram os santos anjos, a Escritura diz que os anjos que pecaram foram lançados na escuridão deste ar, como em prisões do inferno, reservados para o castigo.",
+    "temas": [
+      "descer vivos à morada dos mortos",
+      "o que são os «infernos»"
+    ],
+    "resumo": "Os «infernos» a que Coré e os seus desceram vivos são aqui as partes de baixo da terra, como a Escritura chama «inferno» ao ar escuro em que estão presos os anjos caídos (2Pd 2,4): a palavra muda de sentido conforme o assunto.",
+    "nota": "A questão cita depois 2Pd 2,4 e Ef 2,2 (o príncipe do poder do ar).",
+    "relevancia": 2,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "agostinho-locutiones-4-nm-16-33-34",
+    "autor": "Santo Agostinho",
+    "autor_id": "agostinho",
+    "datas": "354–430",
+    "titulo_autor": "bispo de Hipona, Doutor da Igreja",
+    "obra": "Expressões do Heptateuco (Locutiones in Heptateuchum)",
+    "passagem": "IV, sobre Nm 16,33–34",
+    "edicao": "PL 34, 525–526; CSEL 28/1 (Zycha)",
+    "versiculos": [
+      33,
+      34
+    ],
+    "trecho": "4",
+    "lingua": "la",
+    "original": "Et descenderunt ipsi et omnia quae sunt eis: praesens posuit pro praeterito, sunt pro erant vel fuerunt. Et omnis Israel qui in circuitu eorum, fugerunt a voce eorum: subauditur erat; id est, omnis Israel qui erat in circuitu eorum.",
+    "fonte_url": "https://www.augustinus.it/latino/locuzioni_ettateuco/locuz_ettateuco_4_libro.htm",
+    "traducao_pt": "«E desceram eles e tudo o que é deles»: pôs o presente pelo passado, «é» por «era» ou «foi». «E todo Israel que ao redor deles fugiram do grito deles»: subentende-se «estava», isto é, todo Israel que estava ao redor deles.",
+    "temas": [
+      "a língua da Bíblia latina"
+    ],
+    "resumo": "Duas notas de gramática sobre a Vetus Latina dos vv. 33–34: o presente pelo passado e um verbo subentendido.",
+    "nota": "Só gramática; registrado para não procurar de novo. As Locutiones IV também anotam o v. 17 (só citado) e o v. 37 (= 17,2), este para Nm 17.",
+    "relevancia": 1,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "agostinho-en54-16-vivos",
+    "autor": "Santo Agostinho",
+    "autor_id": "agostinho",
+    "datas": "354–430",
+    "titulo_autor": "bispo de Hipona, Doutor da Igreja",
+    "obra": "Comentários aos Salmos (Enarrationes in Psalmos)",
+    "passagem": "Sl 54, 16",
+    "edicao": "PL 36, 639",
+    "versiculos": [
+      30,
+      31,
+      32,
+      33
+    ],
+    "trecho": "4",
+    "lingua": "la",
+    "original": "Veniat mors super eos, et descendant ad infernum viventes. Quo modo replicavit et recolere nos fecit primum illud schismatis initium, quando in illo primo populo Iudaeorum quidam superbi se separaverunt, et extra sacrificare voluerunt. Nova mors super eos venit: aperuit se terra, et vivos absorbuit. Veniat, inquit, mors super eos, et descendant ad infernum viventes. Quid est, viventes? Scientes quia pereunt, et tamen pereuntes. Audi viventes perire et absorberi hiatu terrae, id est devoratione terrenarum cupiditatum absorberi. [...] Si mortuus descenderes, quid ageres ignorares: cum vero scis malum esse quod facis, et tamen facis; nonne vivus descendis ad inferos?",
+    "fonte_url": "https://www.augustinus.it/latino/esposizioni_salmi/esposizione_salmo_070_testo.htm",
+    "traducao_pt": "«Venha a morte sobre eles, e desçam vivos ao inferno.» Assim o salmo repetiu e nos fez recordar aquele primeiro começo do cisma, quando, naquele primeiro povo dos judeus, alguns soberbos se separaram e quiseram oferecer sacrifício à parte. Uma morte nova veio sobre eles: a terra se abriu e os engoliu vivos. «Venha», diz, «a morte sobre eles, e desçam vivos ao inferno.» Que quer dizer «vivos»? Sabendo que se perdem, e mesmo assim se perdendo. Entende que perecer vivo e ser engolido pela fenda da terra é ser engolido pela voracidade dos desejos terrenos. [...] Se descesses morto, não saberias o que fazias; mas, quando sabes que é mau o que fazes, e mesmo assim o fazes, não desces vivo ao inferno?",
+    "temas": [
+      "descer vivos à morada dos mortos",
+      "pecar sabendo",
+      "o cisma, primeiro de todos",
+      "a terra que engole: os desejos terrenos"
+    ],
+    "resumo": "O Sl 55,16 recorda o primeiro cisma, o de Coré; descer «vivo» ao inferno é perder-se sabendo que se perde, e a terra que engole é a voracidade dos desejos terrenos.",
+    "nota": "Pregado contra os donatistas. «Nova mors» ecoa a «coisa nova» do v. 30. No meio (omitido), o diálogo com o donatista que concorda que a separação é um mal, mas culpa os antepassados.",
+    "relevancia": 3,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "agostinho-en54-16-fogo-sobre-fogo",
+    "autor": "Santo Agostinho",
+    "autor_id": "agostinho",
+    "datas": "354–430",
+    "titulo_autor": "bispo de Hipona, Doutor da Igreja",
+    "obra": "Comentários aos Salmos (Enarrationes in Psalmos)",
+    "passagem": "Sl 54, 16",
+    "edicao": "PL 36, 639–640",
+    "versiculos": [
+      31,
+      32,
+      33,
+      35
+    ],
+    "trecho": "4",
+    "lingua": "la",
+    "original": "Et quare maxime ipsos duces terrae hiatus absorbuit vivos, populum autem illis consentientem e coelo irruens ignis absumpsit? Propterea hanc poenam commemorans psalmus iste, a populo coepit, et ad duces conclusit. [...] Quid illi duces et principes? Descendant ad infernum viventes: quia ipsi Scripturas tractant, et noverunt bene quotidie legendo quomodo Ecclesia catholica per totum orbem terrarum ita diffusa est, ut omnino contradictio omnis vacet, nec inveniri possit aliquod testimonium pro schismate eorum, noverunt bene; ideo ad inferos viventes descendunt, quia malum quod faciunt, malum esse noverunt. Illos autem divinae iracundiae ignis absumpsit. Studio enim contentionis accensi, a ducibus suis malis recedere noluerunt: venit super ignem ignis, super ardorem dissensionis ardor consumptionis.",
+    "fonte_url": "https://www.augustinus.it/latino/esposizioni_salmi/esposizione_salmo_070_testo.htm",
+    "traducao_pt": "E por que a fenda da terra engoliu vivos sobretudo os próprios chefes, enquanto o fogo que caiu do céu consumiu o povo que concordava com eles? Por isso este salmo, ao lembrar esse castigo, começou pelo povo e terminou nos chefes. [...] E aqueles chefes e líderes? «Desçam vivos ao inferno», porque eles mesmos manejam as Escrituras e sabem bem, lendo-as todo dia, que a Igreja católica está espalhada pelo mundo inteiro, de modo que não sobra nenhuma objeção e não se pode achar nenhum testemunho a favor do cisma deles: eles o sabem bem. Por isso descem vivos ao inferno: porque sabem que é mau o mal que fazem. Os outros, consumiu-os o fogo da ira divina. Inflamados pela paixão da disputa, não quiseram afastar-se dos seus maus chefes: veio fogo sobre fogo, sobre o ardor da discórdia o ardor da destruição.",
+    "temas": [
+      "os chefes e o povo que os segue",
+      "o fogo que consome os 250",
+      "afastar-se dos maus chefes"
+    ],
+    "resumo": "Os chefes desceram vivos, porque sabiam o que faziam; o povo que os seguiu foi queimado pelo fogo: ardiam de discórdia e não quiseram afastar-se dos maus chefes, e veio fogo sobre fogo.",
+    "nota": "Agostinho lê o fogo do v. 35 como castigo do povo que seguiu os chefes (no texto, os 250 que ofereciam incenso). O «e caelo» vem do Sl 105,18 e da tradição; Nm diz «fogo que saiu do Senhor». No PL, «censentientem» (erro de digitação) por «consentientem».",
+    "relevancia": 3,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "agostinho-en105-17-18",
+    "autor": "Santo Agostinho",
+    "autor_id": "agostinho",
+    "datas": "354–430",
+    "titulo_autor": "bispo de Hipona, Doutor da Igreja",
+    "obra": "Comentários aos Salmos (Enarrationes in Psalmos)",
+    "passagem": "Sl 105, 17–18",
+    "edicao": "PL 37, 1412",
+    "versiculos": [
+      1,
+      2,
+      31,
+      32,
+      35
+    ],
+    "trecho": "4",
+    "lingua": "la",
+    "original": "Aperta est, inquit, et deglutivit Dathan, et superoperuit super congregationem Abiron. Quod est, deglutivit; hoc est, superoperuit. Amborum autem, id est, Dathan et Abiron, una erat causa superbissimi et sacrilegi schismatis. Et exarsit ignis in synagoga eorum, flamma combussit peccatores. Non est hoc nomen in Scripturis usitatum eorum, qui licet iuste ac laudabiliter vivant, non sunt sine peccato. Magis enim sicut interest inter irridentes et irrisores, inter murmurantes et murmuratores, inter scribentes et scriptores, et caetera similia; ita Scriptura peccatores appellare consuevit valde iniquos et grandibus peccatorum sarcinis oneratos.",
+    "fonte_url": "https://www.augustinus.it/latino/esposizioni_salmi/esposizione_salmo_130_testo.htm",
+    "traducao_pt": "«Abriu-se», diz, «e engoliu Datã, e cobriu o grupo de Abiram.» O que é «engoliu» é o mesmo que «cobriu». De ambos, isto é, de Datã e de Abiram, a causa era uma só: um cisma soberbíssimo e sacrílego. «E acendeu-se um fogo no grupo deles, a chama queimou os pecadores.» Esse nome não se usa nas Escrituras para os que, embora vivam de modo justo e louvável, não estão sem pecado. Assim como há diferença entre os que riem e os zombadores, entre os que murmuram e os murmuradores, entre os que escrevem e os escritores, e coisas assim, assim a Escritura costuma chamar de «pecadores» os muito iníquos e carregados com grandes fardos de pecados.",
+    "temas": [
+      "o cisma soberbo e sacrílego",
+      "o fogo que queimou os pecadores"
+    ],
+    "resumo": "Sobre o Sl 106,17–18: Datã e Abiram tinham uma só causa, um cisma soberbíssimo e sacrílego; e os «pecadores» que o fogo queimou são os grandes iníquos, não os justos que têm faltas.",
+    "nota": "Comentário ditado, curto; o v. 16 do salmo («irritaram Moisés no acampamento») só diz que o contexto mostra que irritação foi essa.",
+    "relevancia": 2,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "agostinho-ep-43-8-24",
+    "autor": "Santo Agostinho",
+    "autor_id": "agostinho",
+    "datas": "354–430",
+    "titulo_autor": "bispo de Hipona, Doutor da Igreja",
+    "obra": "Cartas (Epistulae)",
+    "passagem": "Carta 43, 8, 24 (aos donatistas Glório, Eleusio e outros)",
+    "edicao": "PL 33, 171–172",
+    "versiculos": [
+      31,
+      32,
+      33,
+      35
+    ],
+    "trecho": "4",
+    "lingua": "la",
+    "original": "Violatam pacem, conscissam unitatem, iterata baptismata, exsufflata Sacramenta, quae in sceleratis quoque hominibus sancta sunt, plangimus et lugemus. Quae si parvi pendunt, intueantur exempla quibus demonstratum est quanti haec penderit Deus. Qui fecerunt idolum, usitata gladii morte perempti sunt: qui vero schisma facere voluerunt, hiatu terrae principes devorati, et turba consentiens igne consumpta est. Diversitate poenarum, diversitas agnoscitur meritorum.",
+    "fonte_url": "https://www.augustinus.it/latino/lettere/lettera_043_testo.htm",
+    "traducao_pt": "A paz violada, a unidade rasgada, os batismos repetidos, os sacramentos desprezados, que são santos até em homens criminosos: isso é o que choramos e lamentamos. Se eles dão pouco peso a essas coisas, olhem os exemplos que mostram quanto peso Deus lhes deu. Os que fizeram o ídolo foram mortos pela espada, de morte comum; mas, dos que quiseram fazer um cisma, os chefes foram devorados pela fenda da terra, e a multidão que concordava com eles foi consumida pelo fogo. Pela diversidade dos castigos se reconhece a diversidade das culpas.",
+    "temas": [
+      "o cisma, pior que a idolatria",
+      "os chefes e a multidão que consente"
+    ],
+    "resumo": "O bezerro de ouro foi punido com a espada, morte comum; o cisma de Coré, com a terra que se abre e o fogo: pela diferença dos castigos se vê que o cisma é culpa mais grave.",
+    "relevancia": 3,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "agostinho-ep-51-1",
+    "autor": "Santo Agostinho",
+    "autor_id": "agostinho",
+    "datas": "354–430",
+    "titulo_autor": "bispo de Hipona, Doutor da Igreja",
+    "obra": "Cartas (Epistulae)",
+    "passagem": "Carta 51, 1 (a Crispino, bispo donatista de Calama)",
+    "edicao": "PL 33, 191–192",
+    "versiculos": [
+      31,
+      32,
+      33,
+      35
+    ],
+    "trecho": "4",
+    "lingua": "la",
+    "original": "Procul dubio te non fugit prioris populi temporibus et idololatriae sacrilegium fuisse commissum, et a rege contemptore librum propheticum incensum; quo utroque crimine schismatis malum non puniretur atrocius, nisi gravius penderetur. Profecto enim recordaris quemadmodum schismatis auctores vivos dehiscens terra sorbuerit, et eos qui consenserant, coelo irruens ignis absumpserit. Sic nec fabricatum et adoratum idolum, nec sacer Liber exustus meruit vindicari.",
+    "fonte_url": "https://www.augustinus.it/latino/lettere/lettera_051_testo.htm",
+    "traducao_pt": "Sem dúvida não te escapa que, no tempo do primeiro povo, se cometeu o sacrilégio da idolatria e um rei desdenhoso queimou o livro profético; e o mal do cisma não seria punido com mais dureza que esses dois crimes se não pesasse mais. Certamente te lembras de como a terra, abrindo-se, engoliu vivos os autores do cisma, e o fogo, caindo do céu, consumiu os que tinham concordado com eles. Nem o ídolo fabricado e adorado, nem o Livro sagrado queimado mereceram castigo assim.",
+    "temas": [
+      "o cisma, pior que a idolatria"
+    ],
+    "resumo": "Idolatria e queima do livro de Jeremias não foram castigadas como o cisma de Coré: se o cisma foi punido com mais dureza, é porque pesa mais.",
+    "nota": "Mesmo argumento da Carta 43 e do De baptismo II, 6, 9.",
+    "relevancia": 1,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "agostinho-ep-87-4",
+    "autor": "Santo Agostinho",
+    "autor_id": "agostinho",
+    "datas": "354–430",
+    "titulo_autor": "bispo de Hipona, Doutor da Igreja",
+    "obra": "Cartas (Epistulae)",
+    "passagem": "Carta 87, 4 (a Emérito, bispo donatista de Cesareia)",
+    "edicao": "PL 33, 298",
+    "versiculos": [
+      31,
+      32,
+      33,
+      35
+    ],
+    "trecho": "4",
+    "lingua": "la",
+    "original": "Neque enim vobis obiicimus, nisi schismatis crimen, quam etiam haeresim male perseverando fecistis. Quanti autem divino iudicio pendatur hoc facinus, lege quod te legisse non ambigo. Invenies Dathan et Abiron hiatu terrae devoratos, caeterosque omnes, qui eis consenserant, igne de medio eorum existente consumptos. Illud ergo scelus ad exemplum devitandi Dominus Deus praesenti supplicio denotavit, ut cum talibus patientissime parcit, quale ultimo iudicio reservet, ostenderet.",
+    "fonte_url": "https://www.augustinus.it/latino/lettere/lettera_087_testo.htm",
+    "traducao_pt": "Pois não vos acusamos senão do crime de cisma, que, perseverando nele para o mal, transformastes também em heresia. Quanto pesa esse crime no juízo de Deus, lê o que não duvido que já leste: acharás Datã e Abiram devorados pela fenda da terra, e todos os outros que tinham concordado com eles consumidos pelo fogo que saiu do meio deles. O Senhor Deus marcou aquele crime com um castigo imediato, como exemplo do que se deve evitar, para mostrar, quando poupa com tanta paciência os que fazem o mesmo, o que lhes reserva para o juízo final.",
+    "temas": [
+      "o castigo visível como aviso",
+      "a paciência de Deus e o juízo final",
+      "o cisma que se torna heresia"
+    ],
+    "resumo": "Deus castigou de imediato o cisma de Datã e Abiram como exemplo; se hoje poupa com paciência os cismáticos, aquele castigo mostra o que lhes reserva no juízo final.",
+    "relevancia": 3,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "agostinho-ep-93-9-28",
+    "autor": "Santo Agostinho",
+    "autor_id": "agostinho",
+    "datas": "354–430",
+    "titulo_autor": "bispo de Hipona, Doutor da Igreja",
+    "obra": "Cartas (Epistulae)",
+    "passagem": "Carta 93, 9, 28 (a Vicente, bispo rogatista)",
+    "edicao": "PL 33, 335",
+    "versiculos": [
+      30,
+      33
+    ],
+    "trecho": "4",
+    "lingua": "la",
+    "original": "De quibus alibi dicitur, Tu vero unanimis meus, et dux meus, et notus meus, qui simul mecum dulces capiebas cibos; in domo Domini ambulavimus cum consensu. Veniat mors super illos, et descendant in infernum viventes, sicut Dathan et Abiron, impiae separationis auctores.",
+    "fonte_url": "https://www.augustinus.it/latino/lettere/lettera_093_testo.htm",
+    "traducao_pt": "Deles se diz em outro lugar: «Mas tu, meu companheiro, meu guia e meu conhecido, que comias comigo doces alimentos; na casa do Senhor andávamos em concórdia. Venha a morte sobre eles, e desçam vivos ao inferno», como Datã e Abiram, autores de uma separação ímpia.",
+    "temas": [
+      "descer vivos à morada dos mortos",
+      "a separação ímpia"
+    ],
+    "resumo": "Os que comungavam os mesmos sacramentos e se separaram são os do Sl 55,14–16, que descem vivos ao inferno como Datã e Abiram, autores de uma separação ímpia.",
+    "relevancia": 1,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "agostinho-ep-93-13-52",
+    "autor": "Santo Agostinho",
+    "autor_id": "agostinho",
+    "datas": "354–430",
+    "titulo_autor": "bispo de Hipona, Doutor da Igreja",
+    "obra": "Cartas (Epistulae)",
+    "passagem": "Carta 93, 13, 52 (a Vicente, bispo rogatista)",
+    "edicao": "PL 33, 346",
+    "versiculos": [
+      30,
+      33
+    ],
+    "trecho": "4",
+    "lingua": "la",
+    "original": "Hoc est illud quod Scriptura non tacuit: Est confusio adducens peccatum, et est confusio adducens gratiam et gloriam. Confusio adducit peccatum, cum erubescit quisque pravam mutare sententiam ne aut inconstans putetur, aut diu errasse seipso iudice teneatur: ita descendunt in infernum viventes, id est, suam perditionem sentientes; quos Dathan et Abiron et Core hiatu terrae absorpti, tanto ante futuros figuraverunt. Confusio autem adducit gratiam et gloriam, cum erubescit quisque de propria iniquitate, et poenitendo in melius commutatur.",
+    "fonte_url": "https://www.augustinus.it/latino/lettere/lettera_093_testo.htm",
+    "traducao_pt": "É isto o que a Escritura não calou: «Há uma vergonha que traz o pecado, e há uma vergonha que traz graça e glória». A vergonha traz o pecado quando alguém se envergonha de mudar uma opinião errada, para não ser tido por inconstante ou para não ser condenado pelo próprio juízo por ter errado tanto tempo. Assim descem vivos ao inferno, isto é, sentindo a própria perdição; e Datã, Abiram e Coré, engolidos pela fenda da terra, foram figura deles tanto tempo antes. Mas a vergonha traz graça e glória quando alguém se envergonha da própria iniquidade e, fazendo penitência, muda para melhor.",
+    "temas": [
+      "descer vivos à morada dos mortos",
+      "a vergonha de mudar",
+      "pecar sabendo"
+    ],
+    "resumo": "Desce vivo ao inferno quem, por vergonha de parecer inconstante, não muda de opinião errada: sente a própria perdição e fica nela; Coré, Datã e Abiram foram figura desses; a outra vergonha, a da penitência, traz graça e glória.",
+    "nota": "Eclo 4,25 (Vulgata); Sl 55,16.",
+    "relevancia": 3,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "agostinho-civ-10-8",
+    "autor": "Santo Agostinho",
+    "autor_id": "agostinho",
+    "datas": "354–430",
+    "titulo_autor": "bispo de Hipona, Doutor da Igreja",
+    "obra": "A Cidade de Deus (De civitate Dei)",
+    "passagem": "X, 8",
+    "edicao": "PL 41, 286",
+    "versiculos": [
+      1,
+      2,
+      3,
+      31,
+      32,
+      33
+    ],
+    "trecho": "4",
+    "lingua": "la",
+    "original": "Quid de illis miraculis dicam, quae cum in deserto idem populus ductaretur, stupenda divinitate crebruerunt; [...] seditiosos in populo Dei, ac sese ab ordinata divinitus societate dividentes, ad exemplum visibile invisibilis poenae, vivos terra dehiscente submersos [...]?",
+    "fonte_url": "https://www.augustinus.it/latino/cdd/cdd_10_libro.htm",
+    "traducao_pt": "Que direi dos milagres que, enquanto esse mesmo povo era conduzido pelo deserto, se multiplicaram com espantoso poder divino? [...] Os sediciosos do povo de Deus, que se separavam da sociedade ordenada por Deus, foram tragados vivos pela terra que se abriu, como exemplo visível de um castigo invisível [...].",
+    "temas": [
+      "o castigo visível de um castigo invisível",
+      "separar-se da sociedade ordenada por Deus"
+    ],
+    "resumo": "Entre os milagres do deserto, a terra que engoliu vivos os sediciosos que se separavam da sociedade ordenada por Deus: exemplo visível de um castigo invisível.",
+    "nota": "Numa lista dos milagres do Êxodo e de Números, contra os que atribuem prodígios aos demônios (Porfírio). Omitidos os outros milagres da lista (maná, codornizes, Amalec, a rocha, a serpente de bronze).",
+    "relevancia": 3,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "agostinho-bapt-1-8-10",
+    "autor": "Santo Agostinho",
+    "autor_id": "agostinho",
+    "datas": "354–430",
+    "titulo_autor": "bispo de Hipona, Doutor da Igreja",
+    "obra": "O batismo, contra os donatistas (De baptismo contra Donatistas)",
+    "passagem": "I, 8, 10",
+    "edicao": "PL 43, 115",
+    "versiculos": [
+      31,
+      32,
+      33
+    ],
+    "trecho": "4",
+    "lingua": "la",
+    "original": "Itaque illi quos baptizant, sanant a vulnere idololatriae vel infidelitatis; sed gravius feriunt vulnere schismatis. Idololatras enim in populo Dei gladius interemit, schismaticos autem terrae hiatus absorbuit. Et Apostolus: Si habeam omnem, inquit, fidem, ita ut montes transferam, charitatem vero non habeam, nihil sum.",
+    "fonte_url": "https://www.augustinus.it/latino/sul_battesimo/sul_battesimo_1_libro.htm",
+    "traducao_pt": "Assim, os que eles batizam ficam curados da ferida da idolatria ou da incredulidade, mas eles os ferem mais gravemente com a ferida do cisma. Pois, no povo de Deus, a espada matou os idólatras, mas os cismáticos, a fenda da terra os engoliu. E o Apóstolo diz: «Ainda que eu tenha toda a fé, a ponto de transportar montanhas, se não tiver caridade, nada sou».",
+    "temas": [
+      "o cisma, pior que a idolatria",
+      "a ferida do cisma e a caridade"
+    ],
+    "resumo": "O batismo dos donatistas cura da idolatria, mas fere mais gravemente com o cisma: a espada matou os idólatras, a terra engoliu os cismáticos; sem caridade, nem a fé que move montanhas vale nada.",
+    "relevancia": 2,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "agostinho-bapt-2-6-9",
+    "autor": "Santo Agostinho",
+    "autor_id": "agostinho",
+    "datas": "354–430",
+    "titulo_autor": "bispo de Hipona, Doutor da Igreja",
+    "obra": "O batismo, contra os donatistas (De baptismo contra Donatistas)",
+    "passagem": "II, 6, 9",
+    "edicao": "PL 43, 132",
+    "versiculos": [
+      31,
+      32,
+      33,
+      35
+    ],
+    "trecho": "4",
+    "lingua": "la",
+    "original": "Non afferamus stateras dolosas, ubi appendamus quod volumus, et quomodo volumus, pro arbitrio nostro dicentes, Hoc grave, hoc leve est: sed afferamus divinam stateram de Scripturis sanctis tanquam de thesauris dominicis, et in illa quid sit gravius appendamus; imo non appendamus, sed a Domino appensa recognoscamus. Tempore illo quo Dominus priora delicta recentibus poenarum exemplis cavenda monstravit, et idolum fabricatum atque adoratum est, et propheticus liber ira regis contemptoris incensus, et schisma tentatum; idololatria gladio punita est, exustio libri bellica caede et peregrina captivitate, schisma hiatu terrae, sepultis auctoribus vivis, et caeteris coelesti igne consumptis. Quis iam dubitaverit hoc esse sceleratius commissum, quod est gravius vindicatum?",
+    "fonte_url": "https://www.augustinus.it/latino/sul_battesimo/sul_battesimo_2_libro.htm",
+    "traducao_pt": "Não tragamos balanças enganosas, em que pesemos o que queremos e como queremos, dizendo a nosso bel-prazer: isto é grave, isto é leve. Tragamos, sim, a balança divina das santas Escrituras, como dos tesouros do Senhor, e pesemos nela o que é mais grave; ou antes, não pesemos, mas reconheçamos o que o Senhor já pesou. Naquele tempo em que o Senhor mostrou, com exemplos recentes de castigo, quais pecados antigos se deviam evitar, fabricou-se e adorou-se um ídolo, um rei desdenhoso queimou com ira o livro profético, e tentou-se um cisma. A idolatria foi castigada pela espada; a queima do livro, pela matança da guerra e pelo cativeiro em terra estrangeira; o cisma, pela fenda da terra, que sepultou vivos os seus autores, enquanto os outros foram consumidos pelo fogo do céu. Quem ainda duvidará de que foi cometido com maior crime o que foi castigado com mais rigor?",
+    "temas": [
+      "o cisma, pior que a idolatria",
+      "a balança das Escrituras"
+    ],
+    "resumo": "Pesando os pecados na balança da Escritura, e não na nossa: a idolatria foi punida com a espada, a queima do livro com a guerra e o exílio, o cisma de Coré com a terra que sepulta vivos e o fogo do céu; o mais castigado é o mais grave.",
+    "relevancia": 3,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "agostinho-bapt-3-18-24",
+    "autor": "Santo Agostinho",
+    "autor_id": "agostinho",
+    "datas": "354–430",
+    "titulo_autor": "bispo de Hipona, Doutor da Igreja",
+    "obra": "O batismo, contra os donatistas (De baptismo contra Donatistas)",
+    "passagem": "III, 18, 24",
+    "edicao": "PL 43, 151",
+    "versiculos": [
+      7,
+      10,
+      17,
+      35
+    ],
+    "trecho": "1",
+    "lingua": "la",
+    "original": "Dathan vero, Chore et Abiron, qui sibi licentiam sacrificandi usurpare conati sunt contra unitatem populi Dei, et filii Aaron qui alienum ignem altari imposuerunt, novimus quod impune non fecerint. Nec nos talia scelera dicimus impunita remanere, nisi se tales correxerint, si patientia Dei ad poenitentiam adducens tempus corrigendi largitur.",
+    "fonte_url": "https://www.augustinus.it/latino/sul_battesimo/sul_battesimo_3_libro.htm",
+    "traducao_pt": "Quanto a Datã, Coré e Abiram, que tentaram usurpar para si o direito de oferecer sacrifício contra a unidade do povo de Deus, e aos filhos de Aarão, que puseram fogo estranho no altar, sabemos que não o fizeram impunemente. Também nós não dizemos que tais crimes ficam impunes, a não ser que os que assim agem se corrijam, se a paciência de Deus, que conduz à penitência, lhes der tempo para se corrigirem.",
+    "temas": [
+      "o sacerdócio usurpado",
+      "contra a unidade do povo de Deus",
+      "Nadab e Abiú e o fogo estranho"
+    ],
+    "resumo": "Coré, Datã e Abiram quiseram tomar para si o direito de sacrificar contra a unidade do povo, e foram punidos, como os filhos de Aarão; tais crimes não ficam impunes, a não ser que haja penitência no tempo que a paciência de Deus concede.",
+    "nota": "Resposta a um bispo do concílio de Cipriano (256) que citava Coré contra o batismo dos hereges.",
+    "relevancia": 2,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "agostinho-post-coll-20-27",
+    "autor": "Santo Agostinho",
+    "autor_id": "agostinho",
+    "datas": "354–430",
+    "titulo_autor": "bispo de Hipona, Doutor da Igreja",
+    "obra": "Aos donatistas, depois da conferência (Post collationem contra Donatistas)",
+    "passagem": "20, 27",
+    "edicao": "PL 43, 668",
+    "versiculos": [
+      21,
+      24,
+      26
+    ],
+    "trecho": "4",
+    "lingua": "la",
+    "original": "In isto ergo propheta multo evidentius quod volumus demonstramus, quia non corporalis, sed spiritualis contactus, qui fit per consensionem, ipse polluit homines, quorum causam unam facit ipsa consensio. Nam quando impios Dominus etiam visibili poena perdere voluit, ipse ab eis iustos admonitione separavit. Sicut Noe cum domo sua ab eis quos diluvio fuerat perditurus: sicut Loth ab eis quos igne fuerat consumpturus: sicut populum suum a synagoga Abiron, quam mox fuerat exstincturus.",
+    "fonte_url": "https://www.augustinus.it/latino/donatisti_dopo_conf/donatisti_dopo_conf_libro.htm",
+    "traducao_pt": "Neste profeta mostramos com muito mais evidência o que defendemos: não é o contato do corpo, mas o do espírito, que se faz pelo consentimento, que contamina os homens; é o próprio consentimento que faz deles uma só causa. Pois, quando o Senhor quis destruir os ímpios também com um castigo visível, ele mesmo, com um aviso, separou deles os justos: como Noé com a sua casa, dos que ia destruir com o dilúvio; como Ló, dos que ia consumir com o fogo; como o seu povo, do grupo de Abiram, que logo ia exterminar.",
+    "temas": [
+      "separar-se dos maus: de corpo só na hora do castigo",
+      "o consentimento que contamina",
+      "«não toqueis em nada do que é deles»"
+    ],
+    "resumo": "Contamina o consentimento, não o contato do corpo; por isso a separação de corpo, quando é necessária, Deus mesmo a manda, avisando os justos: Noé, Ló, o povo afastado das tendas de Abiram.",
+    "nota": "O «profeta» é Ageu 2,11–14 (o pão tocado pelo impuro), que os donatistas citavam.",
+    "relevancia": 3,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "agostinho-gesta-emerito-10",
+    "autor": "Santo Agostinho",
+    "autor_id": "agostinho",
+    "datas": "354–430",
+    "titulo_autor": "bispo de Hipona, Doutor da Igreja",
+    "obra": "Atas da conferência com Emérito (Gesta cum Emerito)",
+    "passagem": "10",
+    "edicao": "PL 43, 704–705",
+    "versiculos": [
+      1,
+      31,
+      32,
+      33
+    ],
+    "trecho": "4",
+    "lingua": "la",
+    "original": "Maximianum fidei aemulum, veritatis adulterum, Ecclesiae matris inimicum, Dathae, Chore, et Abiron ministrum. Haec verba sunt partis Donati in Maximianistas, isto ut audivimus dictante prolata. Scitis autem qui sint Dathan, Chore, et Abiron. Ipsi primo schisma fecerunt, quibus poena usitata non suffecit, vivos aperta terra devoravit.",
+    "fonte_url": "https://www.augustinus.it/latino/confronto_emerito/confronto_emerito_libro.htm",
+    "traducao_pt": "«Maximiano, êmulo da fé, adúltero da verdade, inimigo da Igreja mãe, ministro de Datã, Coré e Abiram.» Essas palavras o partido de Donato as disse contra os maximianistas, e foi este homem, como ouvimos, quem as ditou. Sabeis quem são Datã, Coré e Abiram. Foram eles os primeiros a fazer um cisma, e para eles não bastou o castigo comum: a terra se abriu e os devorou vivos.",
+    "temas": [
+      "o cisma, primeiro de todos",
+      "o castigo fora do comum"
+    ],
+    "resumo": "Pregando ao povo de Cesareia diante de Emérito, Agostinho lembra que o próprio concílio donatista chamou Maximiano de ministro de Coré: e Coré, Datã e Abiram foram os primeiros cismáticos, castigados com uma morte fora do comum.",
+    "nota": "A frase entre aspas é da sentença do concílio donatista de Bagai (394) contra Maximiano, que Agostinho cita muitas vezes (Contra Cresconium III–IV; Carta 108; Contra Gaudentium I, 39, 54) para mostrar que os donatistas depois receberam de volta os que tinham comparado a Coré.",
+    "relevancia": 2,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "agostinho-ep-76-4",
+    "autor": "Santo Agostinho",
+    "autor_id": "agostinho",
+    "datas": "354–430",
+    "titulo_autor": "bispo de Hipona, Doutor da Igreja",
+    "obra": "Cartas (Epistulae)",
+    "passagem": "Carta 76, 4 (aos donatistas)",
+    "edicao": "PL 33, 265–266",
+    "versiculos": [
+      31,
+      32,
+      33
+    ],
+    "trecho": "4",
+    "lingua": "la",
+    "original": "Si traditio Codicum scelerata est, quam Deus in regem qui Ieremiae librum incendit, morte bellica vindicavit, quanto sceleratius est sacrilegium schismatis, cuius auctores, quibus Maximianistas comparastis, aperta terra vivos absorbuit!",
+    "fonte_url": "https://www.augustinus.it/latino/lettere/lettera_076_testo.htm",
+    "traducao_pt": "Se é criminosa a entrega dos Livros sagrados, que Deus castigou com a morte na guerra no rei que queimou o livro de Jeremias, quanto mais criminoso é o sacrilégio do cisma, cujos autores, com os quais comparastes os maximianistas, a terra se abriu e engoliu vivos!",
+    "temas": [
+      "o cisma, pior que a idolatria"
+    ],
+    "resumo": "Pior que entregar os Livros sagrados é o cisma, cujos autores a terra engoliu vivos.",
+    "relevancia": 1,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "agostinho-haer-18-cainitas",
+    "autor": "Santo Agostinho",
+    "autor_id": "agostinho",
+    "datas": "354–430",
+    "titulo_autor": "bispo de Hipona, Doutor da Igreja",
+    "obra": "As heresias (De haeresibus)",
+    "passagem": "18 (os cainitas)",
+    "edicao": "PL 42, 29",
+    "versiculos": [
+      1,
+      31,
+      32,
+      33
+    ],
+    "trecho": "1",
+    "lingua": "la",
+    "original": "Caiani propterea sic appellati, quoniam Cain honorant, dicentes eum fortissimae esse virtutis. Simul et Iudam traditorem divinum aliquid putant, et scelus eius beneficium deputant; asserentes eum praescisse quantum esset generi humano Christi passio profutura, et occidendum Iudaeis propterea tradidisse. Illos etiam, qui schisma facientes in primo populo Dei, terra dehiscente perierunt, et Sodomitas colere perhibentur.",
+    "fonte_url": "https://www.augustinus.it/latino/eresie/eresie_libro.htm",
+    "traducao_pt": "Os cainitas têm esse nome porque honram Caim, dizendo que ele foi de uma força admirável. Ao mesmo tempo, julgam que Judas, o traidor, é algo divino e consideram o crime dele um benefício, afirmando que ele previu quanto a paixão de Cristo havia de ser útil ao gênero humano e por isso o entregou aos judeus para ser morto. Diz-se também que veneram os que, fazendo um cisma no primeiro povo de Deus, pereceram quando a terra se abriu, e os sodomitas.",
+    "temas": [
+      "Coré honrado pelos hereges"
+    ],
+    "resumo": "Os cainitas, gnósticos que honravam Caim e Judas, veneravam também Coré e os seus, os cismáticos que a terra engoliu.",
+    "nota": "Dado de Ireneu (Adv. haer. I, 31, 1) e Epifânio, que Agostinho resume. Link do augustinus.it presumido pelo padrão (não conferido).",
+    "relevancia": 1,
+    "direitos": "domínio público"
+  }
+]

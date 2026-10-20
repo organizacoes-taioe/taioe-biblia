@@ -1,0 +1,935 @@
+[
+ {
+  "id": "newman-pps4-18-homens-de-nome",
+  "autor": "São John Henry Newman",
+  "autor_id": "john-henry-newman",
+  "datas": "1801–1890",
+  "titulo_autor": "cardeal, Doutor da Igreja",
+  "obra": "Parochial and Plain Sermons IV, 18: «The Gainsaying of Korah»",
+  "passagem": "§ 1 (pp. 270–271)",
+  "edicao": "Parochial Sermons, vol. 4, Londres, Rivingtons, 1839 (The Newman Reader)",
+  "versiculos": [
+   1,
+   2,
+   8,
+   9,
+   10
+  ],
+  "trecho": "1",
+  "lingua": "en",
+  "original": "1. First, then, let the number and dignity of the offenders be observed. They seem to have been some of the most eminent and considerable persons in Israel. Dathan and Abiram's party are said more than once, with some emphasis, to have been \"famous in the congregation, men of renown.\" [Numb. xvi. 2; xxvi. 9.] Moreover there were among them as many as two hundred and fifty princes, or as we should now say, noblemen. A very great and formidable opposition to Moses and Aaron was it, when so great a number of eminent persons rebelled against, or (in modern language) became dissenters from the Church. Nor was this all,—a portion of God's appointed ministers joined them. The Levites, as we all know, were the especially holy tribe: a portion of them, viz. the family of Aaron, were priests; but all of them were ministers. Such was Korah; but, dissatisfied with being merely what God had made him, he aspired to be something more, to have the priesthood. And it appears that just as many of his brethren joined him in his rebellion as there were princes who joined Dathan and Abiram. Two hundred and fifty Levites, or ministers, were banded together in this opposition to Moses, forming, from their rank and number a body (to use once more modern language) of very high respectability",
+  "fonte_url": "https://www.newmanreader.org/works/parochial/volume4/sermon18.html",
+  "traducao_pt": "1. Primeiro, então, observemos o número e a dignidade dos culpados. Parecem ter sido algumas das pessoas mais eminentes e consideradas de Israel. Do partido de Datã e Abiram se diz mais de uma vez, com certa ênfase, que eram «famosos na comunidade, homens de nome» (Nm 16,2; 26,9). Além disso, havia entre eles nada menos que duzentos e cinquenta príncipes, ou, como diríamos hoje, nobres. Era uma oposição muito grande e temível a Moisés e Aarão, quando um número tão grande de pessoas eminentes se rebelava contra a Igreja, ou (em linguagem moderna) se tornava dissidente dela. E não era só isso: uma parte dos ministros designados por Deus se juntou a eles. Os levitas, como todos sabemos, eram a tribo santa por excelência: uma parte deles, a família de Aarão, era de sacerdotes, mas todos eram ministros. Assim era Coré; mas, descontente de ser apenas o que Deus o tinha feito, aspirou a ser algo mais, a ter o sacerdócio. E parece que tantos irmãos seus se juntaram a ele na rebelião quantos eram os príncipes que se juntaram a Datã e Abiram. Duzentos e cinquenta levitas, ou ministros, se uniram nessa oposição a Moisés, formando, pela posição e pelo número, um corpo (para usar mais uma vez a linguagem moderna) de altíssima respeitabilidade.",
+  "temas": [
+   "«homens de nome»: a revolta dos importantes",
+   "Coré descontente de ser o que Deus o fez",
+   "o cisma"
+  ],
+  "resumo": "A revolta não foi de gente miúda: eram os mais eminentes de Israel e uma parte dos próprios ministros; Coré não se contentou com o que Deus o tinha feito e quis o sacerdócio.",
+  "relevancia": 3,
+  "direitos": "domínio público",
+  "nota": "Sermão inteiro sobre a revolta de Coré, a partir de Jd 11 («pereceram na rebelião de Coré»); período anglicano (o domingo depois da Páscoa, com as primeiras leituras de Nm 16 no lecionário anglicano). Texto completo em textos/newman-pps4-18-16.md. Newman lê que os 250 do partido de Coré eram levitas, ao lado dos 250 príncipes de Datã e Abiram; o texto (v. 2) fala de 250 chefes da comunidade."
+ },
+ {
+  "id": "newman-pps4-18-toda-a-comunidade-e-santa",
+  "autor": "São John Henry Newman",
+  "autor_id": "john-henry-newman",
+  "datas": "1801–1890",
+  "titulo_autor": "cardeal, Doutor da Igreja",
+  "obra": "Parochial and Plain Sermons IV, 18: «The Gainsaying of Korah»",
+  "passagem": "§ 3 (pp. 273–274)",
+  "edicao": "Parochial Sermons, vol. 4, Londres, Rivingtons, 1839 (The Newman Reader)",
+  "versiculos": [
+   3
+  ],
+  "trecho": "1",
+  "lingua": "en",
+  "original": "Their ground was this: they accused Moses and Aaron of what is now called priestcraft. […] Far from showing any scoffing or lightness of mind, or profaneness, such as Esau's who rejected the blessing, they so esteemed it as to claim it as their own, in all its fulness; nay, they claimed it for the whole people. They were only opposed to what is now called exclusiveness; they were champions of the rights of the people against what they called the encroachments, the arrogant pretensions, the priestcraft of Moses their Lawgiver, and Aaron the Saint of the Lord. They said, \"Ye take too much upon you, seeing all the congregation are holy, every one of them; and the Lord is among them; wherefore then lift ye up yourselves above the congregation of the Lord?\" Their objection was, that Moses was interposing himself as a mediator between God and them,—limiting the mercies of God, restraining the freedom, obscuring the glory of His grace, and robbing them of their covenanted privileges; that he had instituted an order of priests, whereas they were all priests, every one, and needed no human assistance, no voice or advice, or direction, or performance, from fallible man, from men of like passions and imperfections with themselves, in order to approach God withal, and serve Him acceptably.",
+  "fonte_url": "https://www.newmanreader.org/works/parochial/volume4/sermon18.html",
+  "traducao_pt": "O argumento deles era este: acusavam Moisés e Aarão daquilo que hoje se chama «clericalismo». […] Longe de mostrar zombaria, leviandade ou profanação, como a de Esaú, que rejeitou a bênção, eles a estimavam tanto que a reclamavam para si em toda a sua plenitude; mais ainda, a reclamavam para o povo inteiro. Só se opunham ao que hoje se chama exclusivismo; eram os defensores dos direitos do povo contra o que chamavam as usurpações, as pretensões arrogantes, o clericalismo de Moisés, o seu legislador, e de Aarão, o santo do Senhor. Diziam: «Basta! Toda a comunidade é santa, todos eles, e o Senhor está no meio dela; por que vos elevais acima da assembleia do Senhor?» A objeção deles era que Moisés se punha como mediador entre Deus e eles, limitando as misericórdias de Deus, restringindo a liberdade, escurecendo a glória da sua graça e roubando-lhes os privilégios da aliança; que ele tinha instituído uma ordem de sacerdotes, quando eles eram todos sacerdotes, cada um, e não precisavam de nenhuma ajuda humana, de nenhuma voz, conselho, direção ou ministério de um homem falível, de homens com as mesmas paixões e imperfeições que eles, para se aproximar de Deus e servi-lo de modo agradável.",
+  "temas": [
+   "«toda a comunidade é santa»",
+   "o sacerdócio de todos contra o sacerdócio ministerial",
+   "a acusação de clericalismo"
+  ],
+  "resumo": "Coré, Datã e Abiram não negavam a Deus: negavam a mediação; com o argumento de que todos são santos e sacerdotes, recusavam o sacerdócio que Deus tinha instituído.",
+  "relevancia": 3,
+  "direitos": "domínio público",
+  "nota": "Sermão inteiro sobre a revolta de Coré, a partir de Jd 11 («pereceram na rebelião de Coré»); período anglicano (o domingo depois da Páscoa, com as primeiras leituras de Nm 16 no lecionário anglicano). Texto completo em textos/newman-pps4-18-16.md. «Priestcraft» (palavra pejorativa inglesa: a manipulação do povo pelos padres) vai aqui como «clericalismo»."
+ },
+ {
+  "id": "newman-pps4-18-e-pouco-para-vos",
+  "autor": "São John Henry Newman",
+  "autor_id": "john-henry-newman",
+  "datas": "1801–1890",
+  "titulo_autor": "cardeal, Doutor da Igreja",
+  "obra": "Parochial and Plain Sermons IV, 18: «The Gainsaying of Korah»",
+  "passagem": "§ 3 (pp. 278–279)",
+  "edicao": "Parochial Sermons, vol. 4, Londres, Rivingtons, 1839 (The Newman Reader)",
+  "versiculos": [
+   9,
+   10,
+   11
+  ],
+  "trecho": "1",
+  "lingua": "en",
+  "original": "still certain it is that at this time \"it seemed but a small thing unto them\" (in Moses' words) \"that the God of Israel had separated them from the congregation of Israel, to bring them near to Himself to do the service of the tabernacle of the Lord, and to stand before the congregation to minister unto them;\" and \"they sought the priesthood also,\" Aaron's portion, on whom they were appointed to attend. And the circumstance that Aaron had failed on that trying occasion when they were rewarded, might dispose them to contemn him at this time, not recollecting that God's will made the difference between man and man, and that He who gave them His covenanted blessings through bulls and calves, might also vouchsafe them, did it please Him, through frail and erring men; and might dispense with inward perfection, and take up with mere earthen vessels, and be content with faith instead of consistent obedience.",
+  "fonte_url": "https://www.newmanreader.org/works/parochial/volume4/sermon18.html",
+  "traducao_pt": "[…] o certo é que, naquele momento, «pareceu-lhes pouca coisa» (nas palavras de Moisés) «que o Deus de Israel os tivesse separado da comunidade de Israel para os aproximar de si, para fazerem o serviço da Morada do Senhor e estarem diante da comunidade para servi-la»; e «quiseram também o sacerdócio», a parte de Aarão, a quem tinham sido designados para servir. E o fato de Aarão ter falhado naquela ocasião difícil em que eles foram recompensados podia predispô-los a desprezá-lo agora, sem lembrar que é a vontade de Deus que faz a diferença entre um homem e outro, e que aquele que lhes dava as bênçãos da aliança por meio de touros e bezerros podia também concedê-las, se lhe aprouvesse, por meio de homens frágeis e falíveis; e podia dispensar a perfeição interior, contentar-se com simples vasos de barro, e contentar-se com a fé em lugar de uma obediência coerente.",
+  "temas": [
+   "«é pouco para vós?»",
+   "«e quereis também o sacerdócio?»",
+   "Deus age por homens frágeis",
+   "«quem é Aarão?»"
+  ],
+  "resumo": "Os levitas desprezaram o próprio serviço e cobiçaram o de Aarão, talvez lembrando a queda dele no bezerro de ouro; esqueceram que é Deus quem escolhe e que ele dá a graça por vasos de barro.",
+  "relevancia": 3,
+  "direitos": "domínio público",
+  "nota": "Sermão inteiro sobre a revolta de Coré, a partir de Jd 11 («pereceram na rebelião de Coré»); período anglicano (o domingo depois da Páscoa, com as primeiras leituras de Nm 16 no lecionário anglicano). Texto completo em textos/newman-pps4-18-16.md. Antes do excerto, Newman lembra que os levitas foram consagrados quando ficaram do lado do Senhor no episódio do bezerro de ouro (Ex 32,26-29), enquanto Aarão pecava."
+ },
+ {
+  "id": "belarmino-de-clericis-1-1-sufficiat-vobis",
+  "autor": "São Roberto Belarmino",
+  "autor_id": "belarmino",
+  "datas": "1542–1621",
+  "titulo_autor": "cardeal, Doutor da Igreja",
+  "obra": "Controvérsias: De clericis (De membris Ecclesiae militantis I)",
+  "passagem": "livro I, cap. 1 (o nome de «clérigo»)",
+  "edicao": "Opera omnia, ed. Vivès, Paris, 1870, t. II, pp. 417–418",
+  "versiculos": [
+   3,
+   31,
+   32,
+   33
+  ],
+  "trecho": "1",
+  "lingua": "la",
+  "original": "Sed accedat postremo Dei ipsius gravissimum testimonium, non solum verbo prolatum, sed etiam horribili quodam prodigio quasi sigillo proprio consignatum. Quod enim hoc tempore Lutherus et Calvinus adversus Clericos clamant, idem olim Dathan et Abiron adversus Sacerdotes Testamenti veteris clamabant: Sufficiat vobis, aiebant illi Num. XVI, quod omnis multitudo sanctorum est, et in ipsis est Dominus, cur elevamini super populum Domini? Quid vero Lutherus et Calvinus dicunt? Sufficiat vobis quod omnis Ecclesia clerus, id est, haereditas Domini est, cur elevamini super laicos? Cur soli vobis Cleri vocabulum usurpatis? At qualem exitum reperit contentio illa veterum schismaticorum? Acerbum omnino et luctuosum: siquidem continuo, ut Scriptura eodem loco narrat, ad imperium Domini, qui schismata et seditiones adversus ministros suos ferre non potest, dirupta est terra sub pedibus eorum, et aperiens os suum devoravit illos cum uxoribus, cum liberis, cum tabernaculis, cunctisque opibus, descenderuntque vivi in infernum, operti humo, et perierunt de medio multitudinis. Haec videlicet justissima poena illorum est, qui diversos in Ecclesia gradus, ordinemque pulcherrimum, ab ipsa Dei sapientia constitutum, confundere ac perturbare nituntur, ut ad ea inferorum detrudantur loca, ubi umbra mortis, et nullus ordo, sed sempiternus horror inhabitat.",
+  "fonte_url": "https://archive.org/details/operaomnia02bell_0",
+  "traducao_pt": "Venha por fim o testemunho gravíssimo do próprio Deus, não só pronunciado em palavra, mas confirmado com um prodígio terrível, como com o seu próprio selo. Aquilo que hoje Lutero e Calvino gritam contra os clérigos, Datã e Abiram o gritavam outrora contra os sacerdotes do Antigo Testamento: «Basta!», diziam eles (Nm 16), «toda a multidão é de santos, e o Senhor está no meio deles; por que vos elevais acima do povo do Senhor?» E o que dizem Lutero e Calvino? «Basta! Toda a Igreja é clero, isto é, herança do Senhor; por que vos elevais acima dos leigos? Por que só vós usurpais o nome de clero?» Mas que fim teve aquela disputa dos antigos cismáticos? Amargo e lamentável, sem dúvida: logo em seguida, como a Escritura conta no mesmo lugar, por ordem do Senhor, que não suporta cismas e sedições contra os seus ministros, a terra se fendeu debaixo dos pés deles, abriu a boca e os devorou com as mulheres, com os filhos, com as tendas e com todos os bens; e desceram vivos ao inferno, cobertos de terra, e pereceram do meio da multidão. Este é o castigo justíssimo dos que tentam confundir e perturbar os diferentes graus da Igreja e a sua ordem belíssima, estabelecida pela própria sabedoria de Deus: serem lançados naqueles lugares dos infernos onde há sombra de morte e nenhuma ordem, mas mora um horror eterno.",
+  "temas": [
+   "«toda a comunidade é santa»",
+   "o clero e os leigos",
+   "o cisma contra os ministros",
+   "a ordem da Igreja"
+  ],
+  "resumo": "O «toda a comunidade é santa» de Datã e Abiram é o grito dos reformadores contra o clero; a terra que os engole é o selo de Deus sobre a ordem dos graus na Igreja.",
+  "relevancia": 3,
+  "direitos": "domínio público",
+  "nota": "Texto do OCR do archive.org (operaomnia02bell_0_djvu.txt), corrigido em poucas letras (heereditas, Haic, descenderunt que). Belarmino responde a quem dizia que todos os fiéis são «clero» (1Pd 5,3, «herança»). Texto em textos/belarmino-varios-16.md."
+ },
+ {
+  "id": "afonso-selva-1-10-vocacao",
+  "autor": "Santo Afonso Maria de Ligório",
+  "autor_id": "afonso-de-ligorio",
+  "datas": "1696–1787",
+  "titulo_autor": "bispo, Doutor da Igreja",
+  "obra": "Selva di materie predicabili ed istruttive (1760), parte I",
+  "passagem": "cap. X, «Della vocazione al sacerdozio», § 1",
+  "edicao": "Opere ascetiche; texto da IntraText (Opera omnia italiane), p. 84–85",
+  "versiculos": [
+   5,
+   7,
+   10,
+   35
+  ],
+  "trecho": "1",
+  "lingua": "it",
+  "original": "Chi prende pertanto gli ordini sacri senza i segni della vocazione non può essere scusato da colpa grave, come dicono molti dd. Habert, Natal. Aless., Iuvenin. e il Contin. di Tournely. E prima di tutti ben l'insegnò s. Agostino, allorché parlando del castigo dato da Dio a Core, Datan ed Abiron, che non chiamati si posero a far l'officio di sacerdote, disse: Condemnati sunt ut daretur exemplum ne quis non sibi a Deo datum pontificatus munus invaderet etc. Hoc patiuntur quicumque se in episcopatus aut presbyteratus aut diaconatus officium conantur incedere. E la ragione è sì perché non può scusarsi da grave presunzione l'intromettersi nel santuario senza la divina chiamata, sì perché egli resterà allora privo degli aiuti congrui e convenienti, senza i quali, assolutamente parlando, potrà sì bene adempire gli obblighi dello stato, ma con molta difficoltà gli adempirà, come scrive Habert.",
+  "fonte_url": "https://www.intratext.com/IXT/ITASA0000/_P2ZG.HTM",
+  "traducao_pt": "Quem recebe as ordens sacras sem os sinais da vocação não pode ser desculpado de culpa grave, como dizem muitos doutores: Habert, Natal Alexandre, Juénin e o continuador de Tournely. E, antes de todos, Santo Agostinho o ensinou bem quando, falando do castigo que Deus deu a Coré, Datã e Abiram, que, sem serem chamados, se puseram a fazer o ofício de sacerdote, disse: «Foram condenados para que ficasse o exemplo de que ninguém deve invadir o múnus do sacerdócio que Deus não lhe deu. […] Isso sofrem todos os que tentam meter-se no ofício do episcopado, do presbiterado ou do diaconato.» E a razão é, de um lado, que não se pode desculpar de grave presunção quem se intromete no santuário sem o chamado divino; e, de outro, que ele ficará então sem as ajudas adequadas e convenientes, sem as quais, falando em absoluto, poderá sim cumprir as obrigações do estado, mas com muita dificuldade, como escreve Habert.",
+  "temas": [
+   "o sacerdócio que não se toma por si mesmo",
+   "a vocação",
+   "Hb 5,4"
+  ],
+  "resumo": "Afonso faz de Coré, Datã e Abiram o exemplo de quem se ordena sem vocação: tomar o sacerdócio sem o chamado de Deus é presunção grave e deixa o padre sem as graças do seu estado.",
+  "relevancia": 3,
+  "direitos": "domínio público",
+  "nota": "A citação que Afonso dá como de Agostinho é, na primeira frase, de Orígenes, *Homilias sobre Números* IX, 1 (Rufino), sobre os turíbulos pregados no altar (Nm 17,3-5: «ut et posteris daretur exemplum, ne qui praesumptione superbi spiritus non sibi a Deo datum munus pontificatus invaderet»; ver achados-origenes-agostinho.json); a segunda («Hoc patiuntur…») não foi identificada. «Incedere» está assim na IntraText (leia-se «ingerere»?). A *Selva* é a obra de Afonso para a formação do clero (cap. X da parte I)."
+ },
+ {
+  "id": "vianney-domingo-18-pentecostes-inveja",
+  "autor": "São João Maria Vianney",
+  "autor_id": "joao-maria-vianney",
+  "datas": "1786–1859",
+  "titulo_autor": "presbítero, Cura d'Ars",
+  "obra": "Sermão para o 18º domingo depois de Pentecostes (sobre a inveja)",
+  "passagem": "pp. 278–279",
+  "edicao": "Sermons du vénérable serviteur de Dieu Jean-Baptiste-Marie Vianney, Paris, Vic et Amat, 1883 (4 t.)",
+  "versiculos": [
+   3,
+   10,
+   17,
+   18,
+   21,
+   24,
+   26,
+   31,
+   32,
+   33
+  ],
+  "trecho": "1",
+  "lingua": "fr",
+  "original": "Voyez encore ce qui arriva à Coré, Dathan et Abiron. Jaloux des honneurs que l’on rendait à Moïse, ces misérables lui dirent: « Est-ce que nous ne sommes pas autant que vous? Est-ce que nous ne pouvons pas offrir de l’encens au Seigneur aussi bien que vous? » On eut beau leur représenter qu'ils allaient irriter le Seigneur, qu'il les punirait. Rien ne fut capable de les arrêter. Ils voulurent offrir de l'encens. Mais Dieu dit à Moïse et à Aaron: « Faites-les séparer, et tout ce qui leur appartient. Je vais les punir rigoureusement. » En effet, dans le moment où ils croyaient contenter leur envie, la terre s’ouvrit sous leurs pieds, et les engloutit tout vivants dans les enfers.",
+  "fonte_url": "https://archive.org/details/sermons-du-venerable-serviteur-de-dieu-jean-baptiste-marie-vianney-4-tomes",
+  "traducao_pt": "Vede ainda o que aconteceu a Coré, Datã e Abiram. Com ciúme das honras que se prestavam a Moisés, aqueles miseráveis lhe disseram: «Será que não somos tanto quanto tu? Será que não podemos oferecer incenso ao Senhor tanto quanto tu?» Por mais que lhes mostrassem que iam irritar o Senhor e que ele os castigaria, nada foi capaz de detê-los. Quiseram oferecer o incenso. Mas Deus disse a Moisés e a Aarão: «Mandai que se separem deles e de tudo o que lhes pertence. Vou castigá-los com rigor.» De fato, no momento em que pensavam satisfazer a sua inveja, a terra se abriu debaixo dos pés deles e os engoliu vivos nos infernos.",
+  "temas": [
+   "a inveja",
+   "«será que não somos tanto quanto tu?»",
+   "a obstinação",
+   "separar-se dos rebeldes"
+  ],
+  "resumo": "Coré, Datã e Abiram, com ciúme de Moisés, mostram como a inveja cega e endurece: ninguém conseguiu detê-los, e a terra os engoliu no momento em que pensavam satisfazê-la.",
+  "relevancia": 3,
+  "direitos": "domínio público",
+  "nota": "Logo antes, Vianney usa Maria, irmã de Moisés (Nm 12), como o outro exemplo da inveja. OCR do archive.org («l’enrens an», o cabeçalho de página no meio da frase, corrigidos)."
+ },
+ {
+  "id": "newman-sd15-a-regra-da-lei-e-do-evangelho",
+  "autor": "São John Henry Newman",
+  "autor_id": "john-henry-newman",
+  "datas": "1801–1890",
+  "titulo_autor": "cardeal, Doutor da Igreja",
+  "obra": "Sermons on Subjects of the Day 15: «The Principle of Continuity between the Jewish and Christian Churches»",
+  "passagem": "pp. 210–211; texto do sermão: Cl 2,20",
+  "edicao": "Sermons bearing on Subjects of the Day, Londres, Rivingtons, 1843 (The Newman Reader)",
+  "versiculos": [
+   3,
+   10,
+   35
+  ],
+  "trecho": "1",
+  "lingua": "en",
+  "original": "Again: we learn from the histories of Nadab and Abihu, of Korah, Dathan, and Abiram, and of Uzziah, that no one could intrude upon the priestly office, or rebel against the priest, without the most fearful responsibility. What was the rule of the Law is the rule of the Gospel, as St. Jude expressly teaches us; for he speaks of the opposers of Church authority in his day as \"perishing in the gainsaying of Core;\" nay, and St. Paul, who lays down the general principle, \"No man taketh this honour unto himself, but he that is called of God, as was Aaron.\"",
+  "fonte_url": "https://www.newmanreader.org/works/subjects/sermon15.html",
+  "traducao_pt": "E mais: aprendemos das histórias de Nadab e Abiú, de Coré, Datã e Abiram, e de Ozias que ninguém podia intrometer-se no ofício sacerdotal, ou rebelar-se contra o sacerdote, sem a mais terrível responsabilidade. O que era regra da Lei é regra do Evangelho, como ensina expressamente São Judas, que fala dos que se opunham à autoridade da Igreja no tempo dele como «perecendo na rebelião de Coré»; e São Paulo estabelece o princípio geral: «Ninguém se atribui esta honra, senão quem é chamado por Deus, como Aarão».",
+  "temas": [
+   "Jd 11: «pereceram na rebelião de Coré»",
+   "Hb 5,4: «ninguém se atribui esta honra»",
+   "a mesma regra na Lei e no Evangelho"
+  ],
+  "resumo": "Nadab e Abiú, Coré e Ozias mostram que ninguém toma o sacerdócio por si; Judas (Jd 11) e Hebreus (5,4) fazem dessa regra da Lei a regra do Evangelho.",
+  "relevancia": 2,
+  "direitos": "domínio público",
+  "nota": "Período anglicano (1843)."
+ },
+ {
+  "id": "afonso-salmos-105-16-inveja",
+  "autor": "Santo Afonso Maria de Ligório",
+  "autor_id": "afonso-de-ligorio",
+  "datas": "1696–1787",
+  "titulo_autor": "bispo, Doutor da Igreja",
+  "obra": "Traduzione de' Salmi e de' Cantici (1774)",
+  "passagem": "Sábado, Matinas: Sl 105 (106), 16–18",
+  "edicao": "Bassano, Remondini, 1775; texto da IntraText (Opera omnia italiane), pp. 819–820",
+  "versiculos": [
+   1,
+   2,
+   3,
+   31,
+   32,
+   33,
+   35
+  ],
+  "trecho": "1",
+  "lingua": "it",
+  "original": "Et irritaverunt Moysen in castris; Aaron sanctum Domini. (Et irritaverunt, l'ebreo legge inviderunt, e il caldeo invidia commoti sunt). E per l'invidia che Datan ed Abiron (nominati nel verso seguente) avean conceputa contra Mosè ed Aronne per cagion di vederli fatti capi del popolo (onde diceano loro, come si scrive: Cur elevamini super populum Domini?) stando nel campo, provocarono a sdegno essi Mosè ed Aronne sacerdote del Signore. Aperta est terra et deglutivit Dathan; et operuit super congregationem Abiron. Ma si aprì la terra ed inghiottì Datan ed Abiron con tutti gli altri che si erano congregati e sollevati con essi. Et exarsit ignis in synagoga eorum; flamma combussit peccatores. E si accese un fuoco nell'adunanza di quella gente sollevata; e la fiamma bruciò quegli empj.",
+  "fonte_url": "https://www.intratext.com/IXT/ITASA0000/_P378.HTM",
+  "traducao_pt": "«Et irritaverunt Moysen in castris; Aaron sanctum Domini» («irritaram», o hebraico lê «invejaram», e o caldeu «movidos de inveja»). E, pela inveja que Datã e Abiram (nomeados no verso seguinte) tinham concebido contra Moisés e Aarão por vê-los feitos chefes do povo (por isso lhes diziam, como está escrito: «Por que vos elevais acima do povo do Senhor?»), estando no acampamento, provocaram à ira Moisés e Aarão, sacerdote do Senhor. «Aperta est terra et deglutivit Dathan; et operuit super congregationem Abiron.» Mas a terra se abriu e engoliu Datã e Abiram com todos os outros que se tinham reunido e revoltado com eles. «Et exarsit ignis in synagoga eorum; flamma combussit peccatores.» E acendeu-se um fogo no ajuntamento daquela gente revoltada, e a chama queimou aqueles ímpios.",
+  "temas": [
+   "a inveja, raiz da revolta",
+   "Sl 106,16-18",
+   "«por que vos elevais?»"
+  ],
+  "resumo": "O hebraico do Sl 106,16 diz «invejaram»: Datã e Abiram se revoltaram por inveja de verem Moisés e Aarão à frente do povo.",
+  "relevancia": 2,
+  "direitos": "domínio público",
+  "nota": "O «inviderunt» do hebraico (וַיְקַנְאוּ, «tiveram ciúme») é o que a Nova Vulgata adotou («Et zelaverunt Moysen»)."
+ },
+ {
+  "id": "vianney-domingo-10-pentecostes-orgulho",
+  "autor": "São João Maria Vianney",
+  "autor_id": "joao-maria-vianney",
+  "datas": "1786–1859",
+  "titulo_autor": "presbítero, Cura d'Ars",
+  "obra": "Sermão para o 10º domingo depois de Pentecostes (sobre o orgulho)",
+  "passagem": "p. 381",
+  "edicao": "Sermons du vénérable serviteur de Dieu Jean-Baptiste-Marie Vianney, Paris, Vic et Amat, 1883 (4 t.)",
+  "versiculos": [
+   3,
+   7,
+   10,
+   21,
+   24,
+   26,
+   31,
+   32,
+   33
+  ],
+  "trecho": "1",
+  "lingua": "fr",
+  "original": "Voyez les châtiments que le Seigneur fit subir à Coré, Dathan et Abiron, avec deux cents des plus considérables des Juifs. Remplis d'orgueil, ils disent à Moïse et à Aaron: « Et pourquoi est-ce que nous n'aurions pas aussi l'honneur d'offrir de l'encens au Seigneur aussi bien que vous? » Le Seigneur dit à Moïse et à Aaron de les séparer, avec tout ce qui leur appartenait; qu'il voulait les punir... A peine furent-ils séparés que la terre s’ouvrit sous leurs pieds, et les engloutit tout vivants en enfer.",
+  "fonte_url": "https://archive.org/details/sermons-du-venerable-serviteur-de-dieu-jean-baptiste-marie-vianney-4-tomes",
+  "traducao_pt": "Vede os castigos que o Senhor infligiu a Coré, Datã e Abiram, com duzentos dos judeus mais importantes. Cheios de orgulho, dizem a Moisés e a Aarão: «Por que é que nós também não teríamos a honra de oferecer incenso ao Senhor, tanto quanto vós?» O Senhor disse a Moisés e a Aarão que os separassem, com tudo o que lhes pertencia, porque queria castigá-los… Mal se tinham separado, a terra se abriu debaixo dos pés deles e os engoliu vivos no inferno.",
+  "temas": [
+   "o orgulho",
+   "querer também o sacerdócio",
+   "a terra engole os rebeldes"
+  ],
+  "resumo": "Para o Cura d'Ars, a revolta de Coré é orgulho: querer a honra de oferecer incenso como Aarão; Deus humilha os soberbos na medida em que querem se elevar.",
+  "relevancia": 2,
+  "direitos": "domínio público",
+  "nota": "Sermão sobre o orgulho, entre os exemplos de Nabucodonosor e de Herodes (At 12). Vianney cita de memória («duzentos»). OCR do archive.org («ct» corrigido). Texto em textos/vianney-sermoes-16.md."
+ },
+ {
+  "id": "newman-pps8-6-orgulho-de-data",
+  "autor": "São John Henry Newman",
+  "autor_id": "john-henry-newman",
+  "datas": "1801–1890",
+  "titulo_autor": "cardeal, Doutor da Igreja",
+  "obra": "Parochial and Plain Sermons VIII, 6: «Miracles no Remedy for Unbelief»",
+  "passagem": "pp. 78–79; texto do sermão: Nm 14,11",
+  "edicao": "Parochial and Plain Sermons, vol. 8, Londres, Rivingtons, 1843 (The Newman Reader)",
+  "versiculos": [
+   1,
+   2,
+   3
+  ],
+  "trecho": "1",
+  "lingua": "en",
+  "original": "Those evil tempers which the people displayed in the desert, their greediness, selfishness, murmuring, caprice, waywardness, fickleness, ingratitude, jealousy, suspiciousness, obstinacy, unbelief, all these are seen in the uneducated multitude now-a-days, according to its opportunity of displaying them. The pride of Dathan and the presumption of Korah are still instanced in our higher ranks and among educated persons. Saul, Ahithophel, Joab, and Absalom, have had their parallels all over the world.",
+  "fonte_url": "https://www.newmanreader.org/works/parochial/volume8/sermon6.html",
+  "traducao_pt": "Aqueles maus humores que o povo mostrou no deserto, a voracidade, o egoísmo, a murmuração, o capricho, a teimosia, a inconstância, a ingratidão, o ciúme, a desconfiança, a obstinação, a incredulidade, tudo isso se vê hoje no povo sem instrução, conforme a oportunidade que tem de mostrá-los. O orgulho de Datã e a presunção de Coré ainda têm exemplos nas nossas classes altas e entre pessoas instruídas. Saul, Aquitofel, Joab e Absalão tiveram os seus paralelos no mundo inteiro.",
+  "temas": [
+   "o orgulho de Datã e a presunção de Coré",
+   "Israel somos nós"
+  ],
+  "resumo": "O orgulho de Datã e a presunção de Coré não são coisa só dos judeus: aparecem hoje sobretudo entre os instruídos e importantes.",
+  "relevancia": 1,
+  "direitos": "domínio público",
+  "nota": "Período anglicano. O sermão é sobre Nm 14 (já usado em ../014/achados-modernos.json); aqui, só a frase sobre Coré e Datã."
+ },
+ {
+  "id": "newman-pps4-18-arrancar-os-olhos",
+  "autor": "São John Henry Newman",
+  "autor_id": "john-henry-newman",
+  "datas": "1801–1890",
+  "titulo_autor": "cardeal, Doutor da Igreja",
+  "obra": "Parochial and Plain Sermons IV, 18: «The Gainsaying of Korah»",
+  "passagem": "§ 3 (pp. 275–276)",
+  "edicao": "Parochial Sermons, vol. 4, Londres, Rivingtons, 1839 (The Newman Reader)",
+  "versiculos": [
+   12,
+   13,
+   14
+  ],
+  "trecho": "2",
+  "lingua": "en",
+  "original": "Awful guilt indeed in these self-wise men, if this representation be true! yet it is apparently true, as the words show with which the rebels themselves answer the summons of Moses to come to him. \"Wilt thou,\" say they, \"put out the eyes of these men? we will not come up.\" No; we have eyes; we are not mere dull, brutish, superstitious bigots, to crouch before a priest, and submit to his yoke of bondage; we can reason, we can argue, we are resolved to exercise our free unfettered private judgment, and to determine (candidly indeed and dispassionately), but still to determine for ourselves before we act. We will indeed give a fair hearing to what is told us; we will listen with a becoming deference and with all patience, nay with a sort of consideration and prepossession to what you, O Moses and Aaron, say to us; but still we will not have our eyes put out. No, seeing is believing; we will not go by instinctive feeling, by conscience, by mere probabilities; but everything shall be examined in a rational and enlightened way, everything searched, and sifted, and scrutinized, and rigidly tested, before it is admitted. The burden of proof lies with you; till you have proved to us your claims, we will not go up, we will not obey. To tell the truth, we are suspicious of you. We are \"jealous with a godly jealousy\" (alas! for men do so speak!) of any encroachments on our spiritual liberty, any assumption of superior holiness, superior acceptableness in one of us over another. We are all brethren, we are all equal, all independent. \"Wilt thou make thyself altogether a prince over us?\" \"Moreover,\" they continue, \"thou hast not brought us into a land that floweth with milk and honey, or given us inheritance of fields and vineyards;\" or as men now speak, The present system does not work well; there are many abuses, abundant need of reform, much still undone which should be done, much idleness, much inefficiency, many defects in the Church. We see it quite plainly. Do not seek to defend yourselves. \"Wilt thou put out the eyes of these men? we will not come up.\"",
+  "fonte_url": "https://www.newmanreader.org/works/parochial/volume4/sermon18.html",
+  "traducao_pt": "Culpa terrível, de fato, a desses homens sábios aos próprios olhos, se esta descrição for verdadeira! E parece verdadeira, como mostram as palavras com que os próprios rebeldes respondem ao chamado de Moisés: «Queres arrancar os olhos destes homens? Não iremos!» Não: nós temos olhos; não somos fanáticos estúpidos, brutos e supersticiosos, para nos curvarmos diante de um sacerdote e nos submetermos ao seu jugo de escravidão; sabemos raciocinar, sabemos argumentar, estamos decididos a exercer o nosso juízo particular, livre e sem amarras, e a decidir (com franqueza, sim, e sem paixão), mas decidir por nós mesmos antes de agir. Daremos, sim, uma audiência justa ao que nos disserem; ouviremos com a devida deferência e com toda a paciência, e até com certa consideração e simpatia, o que vós, Moisés e Aarão, nos disserdes; mas não deixaremos que nos arranquem os olhos. Não: ver para crer; não iremos pelo sentimento instintivo, pela consciência, por meras probabilidades; tudo há de ser examinado de modo racional e esclarecido, tudo pesquisado, peneirado, escrutinado e rigorosamente provado antes de ser admitido. O ônus da prova é vosso; enquanto não nos provardes os vossos títulos, não subiremos, não obedeceremos. Para dizer a verdade, desconfiamos de vós. Temos «um ciúme santo» (ai, porque é assim mesmo que se fala!) de qualquer usurpação da nossa liberdade espiritual, de qualquer pretensão de santidade superior, de mais aceitação diante de Deus, de um de nós sobre outro. Somos todos irmãos, todos iguais, todos independentes. «Queres ainda fazer-te nosso chefe?» «Além disso», continuam, «não nos levaste a uma terra que mana leite e mel, nem nos deste em herança campos e vinhas»; ou, como se diz hoje: o sistema atual não funciona bem; há muitos abusos, muita necessidade de reforma, muita coisa por fazer que devia ser feita, muita preguiça, muita ineficiência, muitos defeitos na Igreja. Nós vemos isso com toda a clareza. Não procureis vos defender. «Queres arrancar os olhos destes homens? Não iremos!»",
+  "temas": [
+   "«não iremos!»",
+   "«queres arrancar os olhos destes homens?»",
+   "o juízo particular contra a autoridade",
+   "a recusa de ouvir"
+  ],
+  "resumo": "Newman faz falar Datã e Abiram como o racionalista moderno: temos olhos, julgamos por nós mesmos, o ônus da prova é vosso; e por isso não sobem.",
+  "relevancia": 3,
+  "direitos": "domínio público",
+  "nota": "Sermão inteiro sobre a revolta de Coré, a partir de Jd 11 («pereceram na rebelião de Coré»); período anglicano (o domingo depois da Páscoa, com as primeiras leituras de Nm 16 no lecionário anglicano). Texto completo em textos/newman-pps4-18-16.md."
+ },
+ {
+  "id": "sales-defense-estendart-4-15-abirons",
+  "autor": "São Francisco de Sales",
+  "autor_id": "francisco-de-sales",
+  "datas": "1567–1622",
+  "titulo_autor": "bispo de Genebra, Doutor da Igreja",
+  "obra": "Défense de l'Estendart de la Sainte Croix (1600), livro IV",
+  "passagem": "cap. 15 («Consideration sur le texte allégué de Josué»), p. 368",
+  "edicao": "Œuvres, éd. d'Annecy, t. II (1895), pp. 366–368",
+  "versiculos": [
+   3,
+   12,
+   13,
+   14
+  ],
+  "trecho": "2",
+  "lingua": "fr",
+  "original": "[…] et a leur pretendue reformation n'ont employé que la prophane audace des brebis contre leurs pasteurs, des sujetz contre leurs supérieurs, et le mespris de l'authorité du Grand Prestre evangelique, lieutenant de Jésus Christ; […] contredisans ouvertement a toute la congrégation de l'Eternel, aux Conciles généraux, au perpetuel usage des Chrestiens. […] Nous avons beau protester de la bonté de nos intentions et de la blancheur de nostre but, ces nouveaux venuz, ces Abirons, ces Micholistes mesprisent tout, prophanent tout. Il n'y a excuse qu'ilz n'accusent, il n'y a rayson qui les paye. On ne peut vivre avec eux, sinon les pieds et mains liés pour se laisser traisner a tous les precipices de leurs opinions.",
+  "fonte_url": "https://www.donboscosanto.eu/francesco_di_sales/02-Oeuvres%20de%20S.%20Francois%20de%20Sales-Tome%20II-Defense%20de%20l'estendart%20de%20la%20Sainte%20Croix-web.pdf",
+  "traducao_pt": "[…] e na sua pretensa reforma só usaram a audácia profana das ovelhas contra os seus pastores, dos súditos contra os seus superiores, e o desprezo da autoridade do Sumo Sacerdote do Evangelho, lugar-tenente de Jesus Cristo; […] contradizendo abertamente toda a comunidade do Senhor, os concílios gerais e o costume perpétuo dos cristãos. […] Por mais que protestemos a bondade das nossas intenções e a pureza do nosso propósito, esses recém-chegados, esses Abirams, esses imitadores de Micol desprezam tudo, profanam tudo. Não há desculpa que não acusem, não há razão que os satisfaça. Não se pode viver com eles, a não ser de pés e mãos atados, para se deixar arrastar a todos os precipícios das suas opiniões.",
+  "temas": [
+   "as ovelhas contra os pastores",
+   "a recusa de ouvir",
+   "nenhuma razão os satisfaz"
+  ],
+  "resumo": "Os reformadores que derrubam as cruzes são «Abirams»: audácia das ovelhas contra os pastores, e nenhuma explicação os satisfaz.",
+  "relevancia": 1,
+  "direitos": "domínio público",
+  "nota": "Margem do autor: «Num., XVI» (Abiram) e «II Reg., VI, 16» (Micol, que desprezou Davi dançando diante da arca). É a única entrada de Nm 16 no t. II, segundo o Index scripturaire do t. XXVII («C. XVI: II, 368; VII, 356»). Contexto: comparação entre as tribos que acusaram de cisma o altar das duas tribos e meia (Js 22) e os reformadores que acusam de idolatria a cruz."
+ },
+ {
+  "id": "newman-pps4-18-core-diante-da-tenda",
+  "autor": "São John Henry Newman",
+  "autor_id": "john-henry-newman",
+  "datas": "1801–1890",
+  "titulo_autor": "cardeal, Doutor da Igreja",
+  "obra": "Parochial and Plain Sermons IV, 18: «The Gainsaying of Korah»",
+  "passagem": "§ 2 (p. 271)",
+  "edicao": "Parochial Sermons, vol. 4, Londres, Rivingtons, 1839 (The Newman Reader)",
+  "versiculos": [
+   5,
+   6,
+   7,
+   16,
+   17,
+   18,
+   19
+  ],
+  "trecho": "3",
+  "lingua": "en",
+  "original": "Nor was Korah's confidence less. Moses challenged him and the rest to appear before God, to perform the priest's office, and so to stand the test whether or not He would accept them; and they promptly accepted the proposal. They were to \"take their censers, and put fire therein, and put incense in them before the Lord,\" \"and it shall be, that the man whom the Lord doth choose, he shall be holy.\" Korah and his company accordingly \"stood in the door of the tabernacle of the congregation with Moses and Aaron;\" nay, in that sacred and awful place, where was the glory of the Lord visibly displayed, did Korah endure to \"gather all the congregation \" against Moses and Aaron. Sceptics, were there such standing by, might have made the remark, that both parties were equally sincere, equally confident; and therefore neither was more pleasing to God than the other.",
+  "fonte_url": "https://www.newmanreader.org/works/parochial/volume4/sermon18.html",
+  "traducao_pt": "Nem foi menor a confiança de Coré. Moisés o desafiou, a ele e aos outros, a aparecer diante de Deus, a exercer o ofício de sacerdote e assim enfrentar a prova de saber se Deus os aceitaria ou não; e eles aceitaram a proposta prontamente. Deviam «tomar os seus turíbulos, pôr neles fogo e pôr incenso diante do Senhor», «e aquele que o Senhor escolher, esse será santo». E assim Coré e os seus «se puseram à entrada da tenda do encontro com Moisés e Aarão»; mais ainda, naquele lugar sagrado e terrível, onde a glória do Senhor se mostrava visivelmente, Coré teve a ousadia de «reunir toda a comunidade» contra Moisés e Aarão. Céticos, se houvesse algum ali, poderiam ter observado que os dois partidos eram igualmente sinceros, igualmente confiantes, e que por isso nenhum agradava a Deus mais do que o outro.",
+  "temas": [
+   "a prova dos turíbulos",
+   "a confiança dos rebeldes",
+   "sinceridade não basta"
+  ],
+  "resumo": "Coré aceita sem hesitar a prova do incenso e ainda reúne o povo diante da glória do Senhor: a certeza subjetiva dos dois lados não diz quem Deus escolheu.",
+  "relevancia": 2,
+  "direitos": "domínio público",
+  "nota": "Sermão inteiro sobre a revolta de Coré, a partir de Jd 11 («pereceram na rebelião de Coré»); período anglicano (o domingo depois da Páscoa, com as primeiras leituras de Nm 16 no lecionário anglicano). Texto completo em textos/newman-pps4-18-16.md."
+ },
+ {
+  "id": "newman-pps8-3-saul-e-core",
+  "autor": "São John Henry Newman",
+  "autor_id": "john-henry-newman",
+  "datas": "1801–1890",
+  "titulo_autor": "cardeal, Doutor da Igreja",
+  "obra": "Parochial and Plain Sermons VIII, 3: «The Trial of Saul»",
+  "passagem": "p. 40; texto do sermão: 1Sm 13,9",
+  "edicao": "Parochial and Plain Sermons, vol. 8, Londres, Rivingtons, 1843 (The Newman Reader)",
+  "versiculos": [
+   10,
+   35
+  ],
+  "trecho": "3",
+  "lingua": "en",
+  "original": "he determined to do what he could not do without a great sin; viz. intrude into a sacred office to which he was not called; nay, to do what he really could not do at all; for he might call it a sacrifice, but it would not be really such, unless a priest or prophet offered it. You know how great a crime it is for persons now to become teachers and preachers, or to baptize or administer the Lord's Supper without authority; this was Saul's crime, he determined on sacrificing, without being an appointed minister of God. This is a crime often denounced in Scripture, as in the case of Korah, and Jeroboam, and Uzziah. Korah was swallowed up by the earth on account of it; Jeroboam had his hand withered, and was punished in his family; and Uzziah was smitten with leprosy.",
+  "fonte_url": "https://www.newmanreader.org/works/parochial/volume8/sermon3.html",
+  "traducao_pt": "[…] decidiu fazer o que não podia fazer sem um grande pecado, isto é, intrometer-se num ofício sagrado para o qual não tinha sido chamado; mais ainda, fazer o que na verdade não podia fazer de modo nenhum, porque podia chamar aquilo de sacrifício, mas não seria um sacrifício de verdade se não o oferecesse um sacerdote ou um profeta. Sabeis como é grande crime alguém hoje se fazer mestre e pregador, ou batizar, ou administrar a Ceia do Senhor sem autoridade: esse foi o crime de Saul, que decidiu sacrificar sem ser ministro designado por Deus. É um crime muitas vezes denunciado na Escritura, como no caso de Coré, de Jeroboão e de Ozias. Coré foi engolido pela terra por causa disso; Jeroboão teve a mão ressecada e foi castigado na família; e Ozias foi ferido de lepra.",
+  "temas": [
+   "o incenso oferecido sem chamado",
+   "Coré, Saul e Ozias",
+   "intrometer-se no ofício sagrado"
+  ],
+  "resumo": "Saul em Guilgal repete o pecado de Coré: oferecer sem chamado; Coré, Jeroboão e Ozias mostram como Deus o pune.",
+  "relevancia": 2,
+  "direitos": "domínio público",
+  "nota": "Período anglicano. Paralelo direto com 2Cr 26 (Ozias e o incenso), que o PEDIDO aponta para o trecho 3."
+ },
+ {
+  "id": "pio-ix-qui-nuper-1859-deus-dos-espiritos",
+  "autor": "Beato Pio IX",
+  "autor_id": "pio-ix",
+  "datas": "1792–1878",
+  "titulo_autor": "papa",
+  "obra": "Carta encíclica Qui nuper (18/06/1859), sobre os Estados Pontifícios",
+  "passagem": "n. 2",
+  "edicao": "Pii IX Pontificis Maximi Acta, pars I, vol. III, Roma, 1864, p. 83",
+  "versiculos": [
+   22
+  ],
+  "trecho": "3",
+  "lingua": "la",
+  "original": "Atque hac occasione Vos etiam hortamur, ut pro explorata pietate vestra, pro eximio erga Apostolicam Sedem, ejusque libertatem studio id praestandum curetis, quod olim Aaroni supremo Hebraeorum Pontifici praescripsisse legimus Moysem (Num. cap. XVI): «Tolle thuribulum, et hausto igne de altari mitte incensum desuper, pergens cito ad populum, ut roges pro eis; iam enim egressa est ira a Domino, et plaga desaevit». Itemque Vos hortamur, ut preces fundatis quemadmodum sancti illi fratres, Moyses nimirum atque Aaron, qui «proni in faciem dixerunt: Fortissime Deus spirituum universae carnis, num aliquibus peccantibus contra omnes ira tua desaeviet?» (Num. cap. XVI).",
+  "fonte_url": "https://archive.org/details/piiixpontificis00ixgoog",
+  "traducao_pt": "E nesta ocasião vos exortamos também a que, pela vossa piedade comprovada e pelo vosso zelo extraordinário pela Sé Apostólica e pela sua liberdade, cuideis de fazer aquilo que, como lemos, Moisés prescreveu outrora a Aarão, sumo sacerdote dos hebreus (Nm 16): «Toma o turíbulo, põe nele fogo tirado do altar e coloca incenso por cima; vai depressa ao povo e reza por eles, porque a ira já saiu da presença do Senhor e a praga se alastra.» E vos exortamos também a derramar as vossas preces como aqueles santos irmãos, Moisés e Aarão, que «se prostraram com o rosto em terra e disseram: Ó Deus fortíssimo, Deus dos espíritos de toda carne, por causa do pecado de alguns se enfurecerá a tua ira contra todos?» (Nm 16).",
+  "temas": [
+   "«Deus dos espíritos de toda carne»",
+   "os pastores que intercedem pelo povo",
+   "Moisés e Aarão com o rosto em terra"
+  ],
+  "resumo": "Diante da revolta nos Estados Pontifícios, Pio IX pede aos bispos que façam como Moisés e Aarão: com o rosto em terra, rezem pelo povo, para que a ira não caia sobre todos pelo pecado de alguns.",
+  "relevancia": 2,
+  "direitos": "domínio público",
+  "nota": "A primeira citação (o turíbulo) é da Vulgata 16,46-47, o nosso Nm 17,11-12: fica também na seção «Para Nm 17». A tradução italiana do vatican.va (https://www.vatican.va/content/pius-ix/it/documents/enciclica-qui-nuper-18-giugno-1859.html) dá as referências como «Nm 16,6-7» e «Nm 16,22»; a primeira está errada. OCR do archive.org conferido com o italiano. Única citação de Nm 16 em todos os documentos papais buscados (ver o relatório)."
+ },
+ {
+  "id": "newman-meditacoes-deus-dos-espiritos-defuntos",
+  "autor": "São John Henry Newman",
+  "autor_id": "john-henry-newman",
+  "datas": "1801–1890",
+  "titulo_autor": "cardeal, Doutor da Igreja",
+  "obra": "Meditations and Devotions, parte II: «Prayer for the Faithful Departed»",
+  "passagem": "pp. 205–206 (depois das «Twelve Meditations and Intercessions for Good Friday»)",
+  "edicao": "Meditations and Devotions of the late Cardinal Newman, Londres, Longmans, 1893 (The Newman Reader)",
+  "versiculos": [
+   22
+  ],
+  "trecho": "3",
+  "lingua": "en",
+  "original": "O GOD of the Spirits of all flesh, O Jesu, Lover of souls, we recommend unto Thee the souls of all those Thy servants, who have departed with the sign of faith and sleep the sleep of peace. We beseech Thee, O Lord and Saviour, that, as in Thy mercy to them Thou becamest man, so now Thou wouldest hasten the time, and admit them to Thy presence above. Remember, O Lord, that they are Thy creatures, not made by strange gods, but by Thee, the only Living and True God; for there is no other God but Thou, and none that can equal Thy works.",
+  "fonte_url": "https://www.newmanreader.org/works/meditations/meditations6.html",
+  "traducao_pt": "Ó Deus dos espíritos de toda carne, ó Jesus, amante das almas, nós te recomendamos as almas de todos os teus servos que partiram com o sinal da fé e dormem o sono da paz. Nós te suplicamos, Senhor e Salvador, que, assim como na tua misericórdia te fizeste homem por eles, apresses agora o tempo e os admitas à tua presença no alto. Lembra-te, Senhor, de que são criaturas tuas, não feitas por deuses estranhos, mas por ti, o único Deus vivo e verdadeiro; porque não há outro Deus além de ti, e nenhum que se iguale às tuas obras.",
+  "temas": [
+   "«Deus dos espíritos de toda carne»",
+   "Deus, autor das almas",
+   "a oração pelos mortos"
+  ],
+  "resumo": "Newman abre a sua oração pelos fiéis defuntos com o título de Nm 16,22: o Deus dos espíritos de toda carne é o criador das almas, e por isso a ele se recomendam.",
+  "relevancia": 2,
+  "direitos": "domínio público",
+  "nota": "Período católico (texto póstumo, 1893). A oração segue de perto a «recomendação da alma» do Ritual Romano («Agnosce, Domine, creaturam tuam, non a diis alienis creatam, sed a te solo Deo vivo et vero»); o título inicial vem de Nm 16,22 e 27,16. Não comenta o versículo: usa-o como invocação, que é a leitura dos Padres (Deus autor das almas)."
+ },
+ {
+  "id": "lit-bizantina-deus-dos-espiritos-defuntos",
+  "autor": "Liturgia da Igreja",
+  "autor_id": "liturgia",
+  "datas": "",
+  "titulo_autor": "",
+  "obra": "Eucológio bizantino: oração pelos defuntos («Trisagion» e ofício fúnebre)",
+  "passagem": "oração final do sacerdote, «Ὁ Θεὸς τῶν πνευμάτων καὶ πάσης σαρκός»",
+  "edicao": "Euchologion (rito bizantino, usado também pelas Igrejas católicas orientais); texto da Igreja da Grécia, 2020",
+  "versiculos": [
+   22
+  ],
+  "trecho": "3",
+  "lingua": "grc",
+  "original": "Ὁ Θεὸς τῶν πνευμάτων καὶ πάσης σαρκός, ὁ τὸν θάνατον καταπατήσας, τὸν δὲ διάβολον καταργήσας, καὶ ζωὴν τῷ κόσμῳ σου δωρησάμενος, αὐτός, Κύριε, ἀνάπαυσον τὰς ψυχὰς τῶν κεκοιμημένων δούλων σου […] ἐν τόπῳ φωτεινῷ, ἐν τόπῳ χλοερῷ, ἐν τόπῳ ἀναψύξεως, ἔνθα ἀπέδρα ὀδύνη, λύπη καὶ στεναγμός. Πᾶν ἁμάρτημα τὸ παρ’ αὐτῶν πραχθὲν ἐν λόγῳ ἢ ἔργῳ ἢ διανοίᾳ, ὡς ἀγαθὸς καὶ φιλάνθρωπος Θεός, συγχώρησον.",
+  "fonte_url": "https://ecclesiagreece.gr/greek/holysynod/egyklioi/epimnimosyni_deisis_thymaton_koronoiou.pdf",
+  "traducao_pt": "Ó Deus dos espíritos e de toda carne, que calcaste a morte, destruíste o diabo e deste a vida ao teu mundo: tu mesmo, Senhor, dá repouso às almas dos teus servos que adormeceram […] num lugar de luz, num lugar verdejante, num lugar de refrigério, de onde fugiram a dor, a tristeza e o gemido. Todo pecado que cometeram por palavra, obra ou pensamento, perdoa-o, como Deus bom e amigo dos homens.",
+  "temas": [
+   "«Deus dos espíritos de toda carne»",
+   "a oração pelos mortos",
+   "o Deus dos vivos e dos mortos"
+  ],
+  "resumo": "A grande oração bizantina pelos defuntos começa com as palavras de Moisés e Aarão em Nm 16,22 (LXX): o Deus dos espíritos e de toda carne, que venceu a morte, recebe as almas.",
+  "relevancia": 2,
+  "direitos": "domínio público",
+  "nota": "O título vem da LXX de Nm 16,22 e 27,16 (θεὸς τῶν πνευμάτων καὶ πάσης σαρκός), já usado por Clemente Romano (1Cor 59 e 64: assunto da frente grega). O texto vem de um ofício da Igreja da Grécia (2020, pelas vítimas da pandemia); omitida a menção própria daquele ofício. A forma usual, para um só defunto: «τὴν ψυχὴν τοῦ κεκοιμημένου δούλου σου (ὄνομα)». Não conferido no Eucológio católico de rito bizantino."
+ },
+ {
+  "id": "newman-pps4-18-a-porta-das-tendas",
+  "autor": "São John Henry Newman",
+  "autor_id": "john-henry-newman",
+  "datas": "1801–1890",
+  "titulo_autor": "cardeal, Doutor da Igreja",
+  "obra": "Parochial and Plain Sermons IV, 18: «The Gainsaying of Korah»",
+  "passagem": "§ 2 (pp. 270–271)",
+  "edicao": "Parochial Sermons, vol. 4, Londres, Rivingtons, 1839 (The Newman Reader)",
+  "versiculos": [
+   24,
+   26,
+   27
+  ],
+  "trecho": "4",
+  "lingua": "en",
+  "original": "2. Next, let us observe how confident they were that they were right. They seemed to have entertained no kind of doubt or hesitation. When Moses denounced Dathan and Abiram, and bade all those who wished to escape their curse, to \"depart\" at once \"from the tents of those wicked men,\" \"Dathan and Abiram came out, and stood in the door of their tents, and their wives, and their sons, and their little children.\" You see they had no misgivings, no fears, no perplexity; they saw their way clear; they were sure they were in the right; and they came out, to stand any test, any sentence of wrath which Moses might attempt, as thinking that nothing could come of it.",
+  "fonte_url": "https://www.newmanreader.org/works/parochial/volume4/sermon18.html",
+  "traducao_pt": "2. Em seguida, observemos quanto eles estavam certos de ter razão. Não parecem ter tido nenhuma dúvida ou hesitação. Quando Moisés denunciou Datã e Abiram e mandou que todos os que quisessem escapar à maldição deles se «afastassem» imediatamente «das tendas desses homens ímpios», «Datã e Abiram saíram e ficaram à porta das suas tendas, com as mulheres, os filhos e os pequenos». Vede: não tinham receio, nem medo, nem perplexidade; viam o caminho claro; estavam seguros de estar com a razão; e saíram para enfrentar qualquer prova, qualquer sentença de ira que Moisés pudesse tentar, como quem pensa que daquilo não podia sair nada.",
+  "temas": [
+   "Datã e Abiram à porta das tendas",
+   "a falsa segurança",
+   "«afastai-vos das tendas destes homens ímpios»"
+  ],
+  "resumo": "Datã e Abiram saem à porta das tendas com a família, seguros de si: a confiança dos rebeldes não prova que estejam com Deus.",
+  "relevancia": 2,
+  "direitos": "domínio público",
+  "nota": "Sermão inteiro sobre a revolta de Coré, a partir de Jd 11 («pereceram na rebelião de Coré»); período anglicano (o domingo depois da Páscoa, com as primeiras leituras de Nm 16 no lecionário anglicano). Texto completo em textos/newman-pps4-18-16.md."
+ },
+ {
+  "id": "newman-pps4-18-a-igreja-no-deserto",
+  "autor": "São John Henry Newman",
+  "autor_id": "john-henry-newman",
+  "datas": "1801–1890",
+  "titulo_autor": "cardeal, Doutor da Igreja",
+  "obra": "Parochial and Plain Sermons IV, 18: «The Gainsaying of Korah»",
+  "passagem": "conclusão (p. 280)",
+  "edicao": "Parochial Sermons, vol. 4, Londres, Rivingtons, 1839 (The Newman Reader)",
+  "versiculos": [
+   31,
+   32,
+   33,
+   35
+  ],
+  "trecho": "4",
+  "lingua": "en",
+  "original": "Such is the history of the Church in the wilderness, in which we see as in a type the history of the Gospel. And how did it end? I stated in the commencement. The earth opened, and swallowed up Dathan, and covered the congregation of Abiram, their houses, their families, their possessions, and all that belonged to them. Fire went out from the Lord, and consumed the two hundred and fifty men who offered incense. how great must be the sin of resisting the ministers of Christ, or of intruding into their office! How great the sin of presuming to administer the rites of the Church, to baptize, to celebrate the Holy Communion, or to ordain, or to bless, without a commission!",
+  "fonte_url": "https://www.newmanreader.org/works/parochial/volume4/sermon18.html",
+  "traducao_pt": "Essa é a história da Igreja no deserto, na qual vemos como em figura a história do Evangelho. E como acabou? Eu o disse no começo. A terra se abriu e engoliu Datã e cobriu o grupo de Abiram, as casas, as famílias, os bens e tudo o que lhes pertencia. Saiu fogo do Senhor e consumiu os duzentos e cinquenta homens que ofereciam o incenso. […] Quão grande há de ser o pecado de resistir aos ministros de Cristo, ou de se intrometer no seu ofício! Quão grande o pecado de ousar administrar os ritos da Igreja, batizar, celebrar a santa Comunhão, ordenar ou abençoar sem missão!",
+  "temas": [
+   "a terra engole os rebeldes",
+   "o fogo que consome os 250",
+   "a Igreja no deserto, figura do Evangelho",
+   "ninguém se atribui o sacerdócio"
+  ],
+  "resumo": "O fim da revolta é a lição: a Igreja do deserto é figura da do Evangelho, e resistir aos ministros de Cristo ou tomar o seu ofício sem missão é o pecado de Coré.",
+  "relevancia": 2,
+  "direitos": "domínio público",
+  "nota": "Sermão inteiro sobre a revolta de Coré, a partir de Jd 11 («pereceram na rebelião de Coré»); período anglicano (o domingo depois da Páscoa, com as primeiras leituras de Nm 16 no lecionário anglicano). Texto completo em textos/newman-pps4-18-16.md. No meio (omitido), o princípio: o AT continua regra no que tem de doutrina; se Aarão e a sua linhagem passaram, veio outra ordem de sacerdotes. Logo depois, Newman cita Nm 17,5 (Vulgata 16,40), os turíbulos no altar como memorial: fica para Nm 17."
+ },
+ {
+  "id": "belarmino-explanatio-ps105-16-18",
+  "autor": "São Roberto Belarmino",
+  "autor_id": "belarmino",
+  "datas": "1542–1621",
+  "titulo_autor": "cardeal, Doutor da Igreja",
+  "obra": "Explanatio in Psalmos",
+  "passagem": "Sl 105 (106), 16–18",
+  "edicao": "Opera omnia, ed. Vivès, Paris, 1873, t. XI, pp. 220–221",
+  "versiculos": [
+   1,
+   2,
+   3,
+   31,
+   32,
+   33,
+   35
+  ],
+  "trecho": "4",
+  "lingua": "la",
+  "original": "Attingit hoc loco Propheta historiam Dathan et Abiron, quae habetur cap. XVI libri Numerorum. «Et irritaverunt Moysen in castris», id est, Core, Dathan et Abiron irritaverunt Moysen, objicientes ei quod imperium sibi usurpasset super filios Israel. «Aaron sanctum Domini», id est, non solum Mosem, sed etiam Aaron fratrem ejus irritaverunt, quem Deus sibi sanctificaverat, ut sacerdotio fungeretur. «Aperta est terra, et deglutivit Dathan» cum sociis ejus Core et Abiron, et omni familia et substantia eorum. «Et operuit super congregationem Abiron», id est, terra disrupta, posteaquam deglutivit schismaticos, iterum clausa est, et cooperuit omnem congregationem Abiron et sociorum ejus. […] «Et exarsit ignis in synagoga eorum, flamma combussit peccatores»: nam, ut narratur in eodem cap. XVI Num., cum deglutisset terra Core, Dathan et Abiron, cum tabernaculis ipsorum, divino jussu excitatus est ignis, qui combussit ducentos quinquaginta viros, qui praesumpserant incensum offerre Deo, quod ad eorum officium non pertinebat […]. Pro voce peccatores, in hebraeo est quod impios significat. Itaque non significantur hoc loco quicumque peccatores, sed gravissimi, schismatici videlicet et eorum fautores.",
+  "fonte_url": "https://archive.org/details/operaomnia11bell",
+  "traducao_pt": "Aqui o Profeta toca a história de Datã e Abiram, que está no capítulo 16 do livro dos Números. «Irritaram Moisés no acampamento»: isto é, Coré, Datã e Abiram irritaram Moisés, acusando-o de ter usurpado o mando sobre os filhos de Israel. «E Aarão, o santo do Senhor»: isto é, não só Moisés, mas também Aarão, seu irmão, a quem Deus tinha consagrado para exercer o sacerdócio. «A terra se abriu e engoliu Datã», com os companheiros Coré e Abiram e com toda a família e os bens deles. «E cobriu o bando de Abiram»: isto é, a terra fendida, depois de engolir os cismáticos, fechou-se de novo e cobriu todo o bando de Abiram e dos seus companheiros. […] «E um fogo ardeu no meio do bando deles, a chama queimou os pecadores»: porque, como se conta no mesmo capítulo 16 dos Números, depois que a terra engoliu Coré, Datã e Abiram com as suas tendas, por ordem de Deus se acendeu um fogo que queimou os duzentos e cinquenta homens que tinham ousado oferecer incenso a Deus, o que não era do ofício deles […]. Em lugar de «pecadores», o hebraico tem uma palavra que significa ímpios. Por isso não se trata aqui de pecadores quaisquer, mas dos mais graves, isto é, dos cismáticos e dos que os apoiam.",
+  "temas": [
+   "Sl 106,16-18",
+   "o fogo que consome os 250",
+   "incenso que não era do ofício deles",
+   "os cismáticos, os piores pecadores"
+  ],
+  "resumo": "Comentando o Sl 106,16-18, Belarmino resume Nm 16: a acusação de usurpação, a terra que engole e se fecha, o fogo sobre os que ofereceram incenso sem ofício; os «pecadores» do salmo são os cismáticos.",
+  "relevancia": 2,
+  "direitos": "domínio público",
+  "nota": "OCR do archive.org (operaomnia11bell), com poucas correções (Datban, ct, liebraso, dcglutisset). Omitidos: a nota sobre a palavra «super» (Jerônimo verte «operuit synagogam Abiron») e a praga do dia seguinte (os 14.700, que Belarmino cita como 4.700: é Nm 17,6-15)."
+ },
+ {
+  "id": "belarmino-explanatio-ps54-16-vivos",
+  "autor": "São Roberto Belarmino",
+  "autor_id": "belarmino",
+  "datas": "1542–1621",
+  "titulo_autor": "cardeal, Doutor da Igreja",
+  "obra": "Explanatio in Psalmos",
+  "passagem": "Sl 54 (55), 16",
+  "edicao": "Opera omnia, ed. Vivès, Paris, 1872, t. X, p. 359",
+  "versiculos": [
+   30,
+   33
+  ],
+  "trecho": "4",
+  "lingua": "la",
+  "original": "Vers. 16. Veniat mors super illos, et descendant in infernum viventes. Imprecatur, seu potius praedicit per formam imprecationis, eam poenam quam juste dederunt Dathan et Abiron, Numer. cap. XVI. Qui seditionem et schisma facientes, vivi a terra dehiscente absorpti sunt: qui quidem «viventes perierunt», id est, videntes se absorberi, et vivos sepeliri, perierunt. Hoc impletum est in iis qui Davidem, Absalone duce, persequebantur […]. Impletum quoque est in Judaeis, qui in obsidione Jerosolymae viventes et videntes peribant […]; denique impletur in plurimis impiis, qui vident apertissimam veritatem, et sponte oculos claudunt; vel non ignorant in eo statu, in quo versantur, se salvos esse non posse, et tamen scientes et volentes in eo ad mortem usque perseverant.",
+  "fonte_url": "https://archive.org/details/operaomnia10bell",
+  "traducao_pt": "V. 16: «Venha a morte sobre eles, e desçam vivos ao inferno.» Ele roga, ou antes prediz em forma de imprecação, o castigo que Datã e Abiram sofreram com justiça (Nm 16). Fazendo sedição e cisma, foram engolidos vivos pela terra que se abriu; e «pereceram vivendo», isto é, pereceram vendo-se engolir e sepultar vivos. Isso se cumpriu nos que perseguiam Davi sob o comando de Absalão […]. Cumpriu-se também nos judeus que, no cerco de Jerusalém, pereciam vivos e vendo […]. Por fim, cumpre-se em muitíssimos ímpios que veem a verdade claríssima e fecham os olhos de propósito; ou que não ignoram que, no estado em que vivem, não podem salvar-se, e, no entanto, sabendo e querendo, permanecem nele até a morte.",
+  "temas": [
+   "descer vivo à morada dos mortos",
+   "Sl 55,16",
+   "pecar vendo a verdade"
+  ],
+  "resumo": "«Desçam vivos ao inferno» lembra Datã e Abiram, que pereceram vendo-se engolir; o mesmo acontece aos que veem a verdade e fecham os olhos de propósito.",
+  "relevancia": 2,
+  "direitos": "domínio público",
+  "nota": "OCR do archive.org (operaomnia10bell). É a leitura que o PEDIDO atribui a Agostinho e Gregório (descer «vivo» ao inferno pela consciência do pecado), aqui em Belarmino."
+ },
+ {
+  "id": "belarmino-de-christo-4-10-sheol",
+  "autor": "São Roberto Belarmino",
+  "autor_id": "belarmino",
+  "datas": "1542–1621",
+  "titulo_autor": "cardeal, Doutor da Igreja",
+  "obra": "Controvérsias: De Christo, livro IV (De anima Christi)",
+  "passagem": "livro IV, cap. 10 (o inferno não é o sepulcro)",
+  "edicao": "Opera omnia, ed. Vivès, Paris, 1870, t. I, p. 417",
+  "versiculos": [
+   30,
+   33
+  ],
+  "trecho": "4",
+  "lingua": "la",
+  "original": "Jam vero nomen Hebraeum, quod habetur passim in Testamento veteri, est שאול, quod verbum contendit Beza ubique accipi pro sepulcro, sed falsum est: nam significat voraginem, et ordinarie accipitur pro loco animarum subterraneo, et vel raro, vel nunquam pro sepulcro. […] Item Num. XVI: Descenderunt viventes in infernum operti humo. Quae verba de loco damnatorum intelligit Epiphanius in Ancorato, longe a medio, Hieronymus in cap. IV ad Ephes., et Beda in cap. XVI Num. Et certe Epiphanius et Hieronymus doctissimi erant Hebraice, et eo loco verbum est שאול.",
+  "fonte_url": "https://archive.org/details/operaomnia01bell_0",
+  "traducao_pt": "A palavra hebraica que se encontra em todo o Antigo Testamento é *sheol*, que Beza sustenta significar sempre o sepulcro; mas é falso: significa um abismo, e ordinariamente se toma pelo lugar subterrâneo das almas, e raramente ou nunca pelo sepulcro. […] Assim também Nm 16: «Desceram vivos ao inferno, cobertos de terra.» Epifânio, no *Ancoratus*, bem depois do meio, Jerônimo, no capítulo 4 da carta aos Efésios, e Beda, no capítulo 16 dos Números, entendem essas palavras do lugar dos condenados. E certamente Epifânio e Jerônimo conheciam muito bem o hebraico, e nesse lugar a palavra é *sheol*.",
+  "temas": [
+   "*sheol*: a morada dos mortos",
+   "descer vivos ao inferno",
+   "não é só o sepulcro"
+  ],
+  "resumo": "Contra Beza, que fazia do *sheol* o sepulcro, Belarmino cita Nm 16,33: «desceram vivos ao *sheol*» não pode ser o túmulo, e os Padres o entenderam do lugar dos condenados.",
+  "relevancia": 2,
+  "direitos": "domínio público",
+  "nota": "OCR do archive.org (operaomnia01bell_0); as duas palavras hebraicas vieram estropiadas no OCR («estVlfcttf», «SlNttf») e foram restituídas como שאול. Útil para a nota do v. 30 e 33 (*sheol*). Omitido: o exemplo de Gn 37,35."
+ },
+ {
+  "id": "belarmino-apologia-17-schisma",
+  "autor": "São Roberto Belarmino",
+  "autor_id": "belarmino",
+  "datas": "1542–1621",
+  "titulo_autor": "cardeal, Doutor da Igreja",
+  "obra": "Apologia pro responsione sua ad librum Iacobi Magnae Britanniae regis",
+  "passagem": "cap. 17",
+  "edicao": "Opera omnia, ed. Vivès, Paris, 1874, t. XII, p. 244",
+  "versiculos": [
+   31,
+   32,
+   33
+  ],
+  "trecho": "4",
+  "lingua": "la",
+  "original": "Nam Deuteron. XVII satis aperte legimus: Qui superbierit, nolens obedire sacerdotis imperio, qui eo tempore ministrat Domino Deo tuo, sententia Judicis morietur, et auferes malum de Israel; et Num. XVI videmus horrendum judicium Dei in Core, Dathan, et Abiron, quos una cum familiis ipsorum terra absorbuit, et descenderunt vivi in infernum propter schisma, et defectionem a Moyse et Aaron, qui tunc summi Sacerdotes erant, et Ecclesiam Domini legitime gubernabant. In novo autem Testamento non imperatori vel regi, sed Apostolo Petro, quem Vicarium suum super familiam suam Christus constituit, ab ipso Christo dictum scimus: Quodcumque ligaveris super terram, erit ligatum et in coelis.",
+  "fonte_url": "https://archive.org/details/operaomnia12bell",
+  "traducao_pt": "Pois em Dt 17 lemos com bastante clareza: «O homem que, por soberba, não quiser obedecer à ordem do sacerdote que nesse tempo serve ao Senhor teu Deus, morrerá por sentença do juiz, e tirarás o mal do meio de Israel»; e em Nm 16 vemos o juízo terrível de Deus sobre Coré, Datã e Abiram, que a terra engoliu com as suas famílias, e desceram vivos ao inferno por causa do cisma e da defecção de Moisés e Aarão, que eram então os sumos sacerdotes e governavam legitimamente a Igreja do Senhor. Mas no Novo Testamento sabemos que foi ao apóstolo Pedro, a quem Cristo constituiu seu vigário sobre a sua família, e não a um imperador ou rei, que o próprio Cristo disse: «Tudo o que ligares na terra será ligado nos céus».",
+  "temas": [
+   "o cisma",
+   "a autoridade do sacerdote",
+   "Coré e Pedro"
+  ],
+  "resumo": "Ao rei Jaime I, que pedia na Escritura um exemplo de obediência ao poder civil contra o papa, Belarmino responde com Dt 17 e Nm 16: o castigo de Coré foi pelo cisma contra o sumo sacerdote.",
+  "relevancia": 2,
+  "direitos": "domínio público",
+  "nota": "OCR do archive.org (operaomnia12bell), com poucas correções (super bierit, obedxre, Poutificis). Contexto: a controvérsia do juramento de fidelidade (1609)."
+ },
+ {
+  "id": "afonso-verita-della-fede-2-3-6",
+  "autor": "Santo Afonso Maria de Ligório",
+  "autor_id": "afonso-de-ligorio",
+  "datas": "1696–1787",
+  "titulo_autor": "bispo, Doutor da Igreja",
+  "obra": "Verità della Fede (1767), parte II, «Contro i deisti»",
+  "passagem": "cap. III («Si prova la divinità delle Scritture del vecchio Testamento da' miracoli»), n. 6",
+  "edicao": "Opere dogmatiche; texto da IntraText (Opera omnia italiane), pp. 585–586",
+  "versiculos": [
+   26,
+   28,
+   29,
+   30,
+   31,
+   32,
+   33,
+   34
+  ],
+  "trecho": "4",
+  "lingua": "it",
+  "original": "6. Inoltre si sollevano Core, Datan ed Abiron contro Mosè ed Aronne, non volendo più loro ubbidire, e con essi unisconsi cinquanta anziani e gran parte del popolo. Mosè va alle tende dei tumultuanti, ed ivi esorta gli ebrei ad allontanarsi da quei disgraziati, se non vogliono esser involti nel loro castigo, e predice che fra poco tempo saranno ingoiati dalla terra; ed ecco come subito si apre una gran voragine, ed assorbisce tutti i ribelli insieme co' loro padiglioni; onde tutti gli altri si danno alla fuga per non esser presi nella stessa ruina. Questo solo prodigio basta a far vedere che Mosè autore del Pentateuco fu veramente inviato da Dio, e che quanto scrisse, tutto fu vero.",
+  "fonte_url": "https://www.intratext.com/IXT/ITASA0000/_P3A8.HTM",
+  "traducao_pt": "6. Além disso, Coré, Datã e Abiram se levantam contra Moisés e Aarão, não querendo mais obedecer-lhes, e a eles se unem cinquenta anciãos e grande parte do povo. Moisés vai às tendas dos amotinados e ali exorta os hebreus a se afastarem daqueles desgraçados, se não quiserem ser envolvidos no castigo deles, e prediz que dentro em pouco serão tragados pela terra; e eis que logo se abre um grande abismo e engole todos os rebeldes com as suas tendas, de modo que todos os outros fogem para não serem apanhados na mesma ruína. Este prodígio sozinho basta para mostrar que Moisés, autor do Pentateuco, foi de fato enviado por Deus, e que tudo o que escreveu é verdade.",
+  "temas": [
+   "«nisto sabereis que o Senhor me enviou»",
+   "o prodígio predito",
+   "afastar-se dos rebeldes"
+  ],
+  "resumo": "Contra os deístas, Afonso usa a terra que se abre à palavra de Moisés como prova da sua missão divina, exatamente como Moisés tinha dito (v. 28).",
+  "relevancia": 2,
+  "direitos": "domínio público",
+  "nota": "«Cinquenta anciãos» é lapso de Afonso por 250. Mesmo argumento, mais curto, em *Riflessioni sulla verità della divina rivelazione* (IntraText `_P2X8.HTM`, p. 476): «a predição feita por Moisés da voragem que tragou Datã e Abiram»."
+ },
+ {
+  "id": "lit-pontifical-consagracao-virgens-data-abiram",
+  "autor": "Liturgia da Igreja",
+  "autor_id": "liturgia",
+  "datas": "",
+  "titulo_autor": "",
+  "obra": "Pontificale Romanum (ed. de Clemente VIII, 1595; revista por Bento XIV, 1752)",
+  "passagem": "parte I, «De benedictione et consecratione Virginum»: o anátema contra quem tirar as virgens do serviço de Deus",
+  "edicao": "Pontificale Romanum, Paris, A. Jouby, 1859, p. 156",
+  "versiculos": [
+   31,
+   32,
+   33
+  ],
+  "trecho": "4",
+  "lingua": "la",
+  "original": "Si quis autem hoc attentare praesumpserit, maledictus sit in domo et extra domum; maledictus in civitate et in agro […]. Deleatur nomen ejus de libro viventium, et cum justis non scribatur. Fiat pars et hereditas ejus cum Cain fratricida, cum Dathan et Abiron, cum Anania et Saphira, cum Simone mago et Juda proditore, et cum eis qui dixerunt Deo: Recede a nobis, semitam viarum tuarum nolumus. Pereat in die judicii; devoret eum ignis perpetuus cum diabolo et angelis ejus, nisi restituerit, et ad emendationem venerit. Fiat, fiat.",
+  "fonte_url": "https://archive.org/details/PontificaleRomanum",
+  "traducao_pt": "Se alguém ousar tentar isso, seja maldito em casa e fora de casa, maldito na cidade e no campo […]. Seja apagado o seu nome do livro dos vivos e não seja inscrito com os justos. Tenha a sua parte e a sua herança com Caim, o fratricida, com Datã e Abiram, com Ananias e Safira, com Simão Mago e Judas, o traidor, e com os que disseram a Deus: «Afasta-te de nós, não queremos o caminho das tuas veredas.» Pereça no dia do juízo; devore-o o fogo eterno com o diabo e os seus anjos, a não ser que restitua e se emende. Assim seja, assim seja.",
+  "temas": [
+   "Datã e Abiram como figura da perdição",
+   "a terra que os engoliu",
+   "a liturgia antiga"
+  ],
+  "resumo": "No rito antigo da consagração das virgens, o bispo amaldiçoa quem as arrancar do serviço de Deus: que tenha parte com Caim, Datã e Abiram, Ananias e Safira, Simão Mago e Judas.",
+  "relevancia": 2,
+  "direitos": "domínio público",
+  "nota": "Fórmula de anátema de origem medieval, conservada no Pontifical até o de 1962 (o rito de 1970 a suprimiu). Datã e Abiram aparecem como os que a terra engoliu vivos (Nm 16,31-33), entre os grandes exemplos bíblicos de condenação. OCR do archive.org conferido em duas edições (PontificaleRomanum e pontificaleroma00churgoog)."
+ },
+ {
+  "id": "belarmino-de-conciliis-4-17-primeiros-cismaticos",
+  "autor": "São Roberto Belarmino",
+  "autor_id": "belarmino",
+  "datas": "1542–1621",
+  "titulo_autor": "cardeal, Doutor da Igreja",
+  "obra": "Controvérsias: De conciliis et Ecclesia militante, livro IV (as notas da Igreja)",
+  "passagem": "livro IV, cap. 17 (14ª nota: o fim infeliz dos que combatem a Igreja)",
+  "edicao": "Opera omnia, ed. Vivès, Paris, 1870, t. II, pp. 405–406",
+  "versiculos": [
+   31,
+   32,
+   33,
+   35
+  ],
+  "trecho": "4",
+  "lingua": "la",
+  "original": "Decimaquarta Nota est infoelix exitus, seu finis eorum, qui Ecclesiam oppugnant. Etsi enim Deus punit suos, et flagellat, tamen tandem projicit virgam in ignem. […] De misero fine Pharaonis, primi persecutoris Ecclesiae, legimus Exod. XIV; de Dathan et Abiron primis schismaticis legimus Numer. XVI; de Jezabel, IV Reg. IX; de Antiocho, II Machab. IX.",
+  "fonte_url": "https://archive.org/details/operaomnia02bell_0",
+  "traducao_pt": "A décima quarta nota é o fim infeliz, ou o desfecho, dos que combatem a Igreja. Porque, ainda que Deus castigue e flagele os seus, no fim joga a vara no fogo. […] Do fim miserável do faraó, o primeiro perseguidor da Igreja, lemos em Ex 14; de Datã e Abiram, os primeiros cismáticos, em Nm 16; de Jezabel, em 2Rs 9; de Antíoco, em 2Mc 9.",
+  "temas": [
+   "os primeiros cismáticos",
+   "o fim dos que combatem a Igreja"
+  ],
+  "resumo": "Entre as notas da verdadeira Igreja, o fim infeliz dos seus inimigos: o faraó foi o primeiro perseguidor, Datã e Abiram os primeiros cismáticos.",
+  "relevancia": 1,
+  "direitos": "domínio público",
+  "nota": "OCR do archive.org (operaomnia02bell_0)."
+ },
+ {
+  "id": "afonso-dissertazione-8-1-lugar-do-inferno",
+  "autor": "Santo Afonso Maria de Ligório",
+  "autor_id": "afonso-de-ligorio",
+  "datas": "1696–1787",
+  "titulo_autor": "bispo, Doutor da Igreja",
+  "obra": "Dissertazioni teologiche-morali, Dissertazione VIII («Dello stato de' dannati dopo il giudizio»)",
+  "passagem": "§ 1, «Del luogo dell'inferno», n. 5",
+  "edicao": "Opere dogmatiche; texto da IntraText (Opera omnia italiane), p. 1060",
+  "versiculos": [
+   31,
+   32,
+   33,
+   35
+  ],
+  "trecho": "4",
+  "lingua": "it",
+  "original": "S. Girolamo lo prova specialmente dal cap. 16. de' Numeri, ove si dice che Datan ed Abiron precipitarono all'inferno per una voragine che si aprì sotto i loro piedi: Dirupta est terra sub pedibus eorum et, aperiens os suum, devoravit illos cum tabernaculis suis, descenderuntque vivi in infernum operti humo. Ed indi uscì una gran fiamma ed uccise 150 uomini compagni del loro peccato. Di più nel salmo 54 vers. 16 sta scritto: Veniat mors super illos et descendant in infernum viventes. E questa parola descendere sta replicata molte volte nella scrittura, parlandosi dell'inferno; il che verisimilmente significa che l'inferno sta nelle viscere della terra.",
+  "fonte_url": "https://www.intratext.com/IXT/ITASA0000/_PM3.HTM",
+  "traducao_pt": "São Jerônimo o prova especialmente pelo capítulo 16 dos Números, onde se diz que Datã e Abiram se precipitaram no inferno por um abismo que se abriu debaixo dos seus pés: «A terra se fendeu debaixo dos pés deles, abriu a boca e os devorou com as suas tendas, e desceram vivos ao inferno, cobertos de terra.» E dali saiu uma grande chama e matou cento e cinquenta homens, companheiros do seu pecado. Além disso, no salmo 54, v. 16, está escrito: «Venha a morte sobre eles, e desçam vivos ao inferno.» E esta palavra «descer» se repete muitas vezes na Escritura quando se fala do inferno, o que provavelmente significa que o inferno está nas entranhas da terra.",
+  "temas": [
+   "descer vivos à morada dos mortos",
+   "onde fica o inferno"
+  ],
+  "resumo": "Pela terra que se abre sob Datã e Abiram e pelo verbo «descer», Afonso (com Jerônimo) conclui que o inferno está debaixo da terra.",
+  "relevancia": 1,
+  "direitos": "domínio público",
+  "nota": "«Cento e cinquenta» é lapso por 250. Leitura literal, de interesse sobretudo para a nota do v. 30 e 33 (*sheol*)."
+ },
+ {
+  "id": "sales-notas-sermao-47-fora-da-igreja",
+  "autor": "São Francisco de Sales",
+  "autor_id": "francisco-de-sales",
+  "datas": "1567–1622",
+  "titulo_autor": "bispo de Genebra, Doutor da Igreja",
+  "obra": "Notes pour des sermons sur divers sujets (1598–1601), XLVII, 1 («Sur la correspondance à la grâce»)",
+  "passagem": "notas da margem; Œuvres VII, 356",
+  "edicao": "Œuvres, éd. d'Annecy, t. VII (Sermons, vol. I, 1896), pp. 355–356",
+  "versiculos": [
+   26,
+   31,
+   32,
+   33
+  ],
+  "trecho": "4",
+  "lingua": "la",
+  "original": "Gen. 7, extra arcam; Fulg., l. De Fide, ad Petr. 1 Cor. 12: Multi unum corpus sumus in Christo. […] Nadab et Abiu; Levit. 10. Dathan, Core et Abiron, Nu. 16. Iren., l. 4. Josue, 2, extra domum Raab. Ex. 12: Comedetis in domo una. Cyp., de Simpl. prael.",
+  "fonte_url": "https://www.donboscosanto.eu/francesco_di_sales/07-Oeuvres%20de%20S.%20Francois%20de%20Sales-Tome%20VII-Vol.1-Sermons-web.pdf",
+  "traducao_pt": "Gn 7: fora da arca; Fulgêncio, *Sobre a fé, a Pedro*. 1Cor 12: «Sendo muitos, somos um só corpo em Cristo.» […] Nadab e Abiú, Lv 10. Datã, Coré e Abiram, Nm 16; Ireneu, livro IV. Js 2: fora da casa de Raab. Ex 12: «Comereis numa só casa.» Cipriano, *Sobre a unidade da Igreja*.",
+  "temas": [
+   "fora da Igreja",
+   "a unidade",
+   "Coré entre as figuras do cisma"
+  ],
+  "resumo": "Num esboço de sermão, Coré, Datã e Abiram entram na lista das figuras de «fora da Igreja»: a arca, a casa de Raab, a Páscoa comida numa só casa.",
+  "relevancia": 1,
+  "direitos": "domínio público",
+  "nota": "Simples esboço, em latim, escrito no verso de uma carta de 1599. A referência a Ireneu é *Adv. haer.* IV, 26, 2 (Coré e os cismáticos), a Cipriano é *De unitate* (cap. 18 usa Coré). Interessa só como lista: confirma que Francisco de Sales lia Nm 16 com Ireneu e Cipriano."
+ },
+ {
+  "id": "lit-sl106-oficio-leituras-sabado-ii",
+  "autor": "Liturgia da Igreja",
+  "autor_id": "liturgia",
+  "datas": "",
+  "titulo_autor": "",
+  "obra": "Liturgia das Horas (1971) e Breviário Romano antigo: o Sl 106 (105)",
+  "passagem": "Ofício das Leituras, sábado da 2ª semana do saltério (só no Advento, Natal, Quaresma e Páscoa); no Breviário antigo, Matinas de sábado",
+  "edicao": "Liturgia Horarum; Breviarium Romanum (Divinum Officium, Psalterium/Psalmorum/Psalm105.txt)",
+  "versiculos": [
+   1,
+   2,
+   3,
+   31,
+   32,
+   33,
+   35
+  ],
+  "trecho": "4",
+  "lingua": "la",
+  "original": "Et irritavérunt Móysen in castris: * Aaron, sanctum Dómini. Apérta est terra, et deglutívit Dathan: * et opéruit super congregatiónem Abíron. Et exársit ignis in synagóga eórum * flamma combússit peccatóres.",
+  "fonte_url": "https://catholic-resources.org/LoH/Psalter-Index.html",
+  "traducao_pt": "Irritaram Moisés no acampamento, e Aarão, o santo do Senhor. A terra se abriu e engoliu Datã e cobriu o bando de Abiram. E um fogo ardeu no meio do bando deles, a chama queimou os ímpios.",
+  "temas": [
+   "Sl 106,16-18",
+   "Nm 16 cantado no Ofício"
+  ],
+  "resumo": "A Igreja não lê Nm 16 na Missa, mas canta o seu resumo no Sl 106,16-18: no Ofício das Leituras do sábado da 2ª semana (nos tempos fortes) e, no Breviário antigo, nas Matinas de sábado.",
+  "relevancia": 1,
+  "direitos": "citação curta",
+  "nota": "Texto latino do Breviário antigo (Vulgata), domínio público; o texto brasileiro da Liturgia das Horas (CNBB) não está na internet e não foi conferido. No Breviário de 1911, a antífona desta seção (Sl 105,16-31) é «Oblíti sunt Deum * qui salvávit eos». Nenhuma leitura da Missa usa os vv. 16-18 do salmo como responsorial (ver liturgia-nm-16.md)."
+ },
+ {
+  "id": "lit-breviario-antigo-judas-11-vigilia-pentecostes",
+  "autor": "Liturgia da Igreja",
+  "autor_id": "liturgia",
+  "datas": "",
+  "titulo_autor": "",
+  "obra": "Breviário Romano antigo, Matinas",
+  "passagem": "Sábado, vigília de Pentecostes, 3ª lição: Jd 9-13 (antes das rubricas de 1960)",
+  "edicao": "Breviarium Romanum (Divinum Officium, Tempora/Pasc6-6.txt, «LectioJudae3»)",
+  "versiculos": [
+   1,
+   2,
+   3,
+   31,
+   32,
+   33
+  ],
+  "trecho": "4",
+  "lingua": "la",
+  "original": "Væ illis, quia in via Cain abiérunt, et erróre Bálaam mercéde effúsi sunt, et in contradictióne Core periérunt!",
+  "fonte_url": "https://github.com/DivinumOfficium/divinum-officium/blob/master/web/www/horas/Latin/Tempora/Pasc6-6.txt",
+  "traducao_pt": "Ai deles, porque seguiram o caminho de Caim, por ganho se lançaram no erro de Balaão e pereceram na rebelião de Coré!",
+  "temas": [
+   "Jd 11: «pereceram na rebelião de Coré»",
+   "Coré, figura dos que se opõem à Igreja"
+  ],
+  "resumo": "Jd 11, a releitura de Nm 16 no NT, era lido no Breviário antigo na véspera de Pentecostes; na Liturgia das Horas atual, o Ofício das Leituras do sábado da 34ª semana pula exatamente os vv. 9-11.",
+  "relevancia": 1,
+  "direitos": "domínio público",
+  "nota": "Na Liturgia das Horas de 1971, Judas é lido no sábado da 34ª semana do Tempo Comum como Jd 1-8.12-13.17-25 (índice de Felix Just: https://catholic-resources.org/LoH/OfficeOfReadings-Biblical-Index.html); na Missa, só Jd 17.20b-25 (sábado da 8ª semana, ano II). O v. 11 não é lido em nenhum dos dois."
+ },
+ {
+  "id": "newman-pps3-9-a-terra-sob-data",
+  "autor": "São John Henry Newman",
+  "autor_id": "john-henry-newman",
+  "datas": "1801–1890",
+  "titulo_autor": "cardeal, Doutor da Igreja",
+  "obra": "Parochial and Plain Sermons III, 9: «A Particular Providence as Revealed in the Gospel»",
+  "passagem": "pp. 115–116; texto do sermão: Gn 16,13",
+  "edicao": "Parochial Sermons, vol. 3, Londres, Rivingtons, 1836 (The Newman Reader)",
+  "versiculos": [
+   31,
+   32
+  ],
+  "trecho": "4",
+  "lingua": "en",
+  "original": "We cannot believe He is really present everywhere, that He is wherever we are, though unseen. For instance, we can understand, or think we understand, that He was present on Mount Sinai, or within the Jewish Temple, or that He clave the ground under Dathan and Abiram. But we do not in any sufficient sense believe that He is in like manner \"about our path, and about our bed, and spieth out all our ways.\"",
+  "fonte_url": "https://www.newmanreader.org/works/parochial/volume3/sermon9.html",
+  "traducao_pt": "Não conseguimos crer que ele esteja realmente presente em toda parte, que esteja onde nós estamos, embora invisível. Por exemplo, podemos entender, ou pensamos entender, que ele estava presente no monte Sinai, ou dentro do templo dos judeus, ou que fendeu o chão debaixo de Datã e Abiram. Mas não cremos, em nenhum sentido suficiente, que ele esteja do mesmo modo «junto ao nosso caminho e ao nosso leito, e observe todos os nossos passos».",
+  "temas": [
+   "a terra fendida debaixo de Datã e Abiram",
+   "Deus presente agora como então"
+  ],
+  "resumo": "Cremos que Deus fendeu a terra debaixo de Datã e Abiram, mas não que ele está agora, do mesmo modo, junto de cada um de nós.",
+  "relevancia": 1,
+  "direitos": "domínio público",
+  "nota": "Período anglicano. Só uma menção, mas boa para o leitor: o milagre de Nm 16 parece fácil de crer porque está longe."
+ }
+]

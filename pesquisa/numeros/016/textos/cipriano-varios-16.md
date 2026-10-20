@@ -1,0 +1,39 @@
+# São Cipriano de Cartago (e Firmiliano), passagens sobre Nm 16
+
+- Texto: Patrologia Latina de Migne, pelo Corpus Corporum (Universidade de Zurique), domínio público.
+- Entre colchetes, as colunas da PL; entre parênteses, as referências bíblicas das notas de Migne, postas de volta no texto.
+- *De ecclesiae catholicae unitate* 18–19 (PL 4, 513B–514B); *Ep.* 3 (a Rogaciano; LXV na PL), 1 (PL 4, 395A); *Ep.* 69 (a Magno), 8–9 (PL 3, 1144A–1145B; o fim do § 8, sobre os turíbulos batidos em lâminas, é de Nm 16,36–40 da Vulgata = Nm 17,1–5); *Ep.* 75 (Firmiliano a Cipriano), 16 (PL 3, 1168C–1169A).
+- *Ep.* 67 (ao clero e ao povo da Espanha), 3: o texto do Corpus Corporum (texto 130) traz só o argumento dessa carta; a passagem foi copiada da edição de Hartel, CSEL 3/2 (1871), p. 737–738 (archive.org `corpusscriptor203cypruoft`, OCR corrigido à mão, aparato crítico tirado).
+- *Ep.* 73 (a Jubaiano), 8 (PL 3, 1114B–C) só cita Coré, Datã e Abiram junto com Nadab e Abiú, sem comentário próprio: não copiada.
+
+---
+
+## De unitate 18–19
+
+Link: https://mlat.uzh.ch/browser/cps_2.CypCar.DeUnEc
+
+XVIII. Sic Chore et Dathan et Abiron, qui sibi contra Moysen et Aaron sacerdotem sacrificandi licentiam vindicare conati sunt, poenas pro suis statim conatibus pependerunt (Num. XVI, 27). Terra, compagibus ruptis, in profundum sinum patuit, stantes atque [col. 513C] viventes recedentis soli hiatus absorbuit. Nec tantum eos qui auctores fuerant Dei indignantis ira percussit, sed et caeteros ducentos quinquaginta participes ejusdem furoris et comites, qui coagulati cum iisdem simul [col. 514A] ad audaciam fuerant, exiens a Domino ignis properata ultione consumpsit, admonens scilicet et ostendens contra Deum fieri quidquid improbi fuerint ad destruendam ordinationem Dei humana voluntate conati. Sic et Ozias rex, cum thuribulum ferens (II Paral. XXVI, 19), et contra legem Dei sacrificium sibi violenter assumens, resistente sibi Azaria sacerdote, obtemperare nollet et cedere, divina indignatione confusus et leprae varietate in fronte maculatus est (IV Reg., V), ea parte 201 corporis notatus offenso Domino ubi signantur qui Dominum promerentur. Et filii Aaron, qui imposuerunt altari ignem alienum, quem non praeceperat Dominus, in conspectu statim Domini vindicatis extincti sunt. XIX. Quos imitantur scilicet atque sectantur qui, [col. 514B] Dei traditione contempta, alienas doctrinas appetunt et magisteria humanae institutionis inducunt; quos increpat Dominus et objurgat in Evangelio suo dicens: Rejicitis mandatum Dei, ut traditionem vestram statuatis
+
+## Ep. 3 (LXV), 1
+
+Link: https://mlat.uzh.ch/browser/cps_2.CypCar.Episto5
+
+Et ut sciamus hanc Dei vocem 113 cum vera et summa majestate ejus processisse ad honorandos ac vindicandos sacerdotes suos, cum adversus Aaron sacerdotem tres de ministris, Chore et Dathan et Abiron, ausi sunt superbisse et cervicem suam extollere et sacerdoti praeposito se adaequare, hiatu terrae absorpti ac devorati, poenas statim sacrilegae audaciae persolverunt. Nec soli illi, sed et caeteri ducenti quinquaginta qui eis comites ad audaciam fuerunt, prorumpente a Domino igne consumpti sunt, ut probaretur sacerdotes Dei ab eo qui sacerdotes facit vindicari.
+
+## Ep. 67, 3 (Hartel, CSEL 3/2, p. 737–738)
+
+Link: https://archive.org/details/corpusscriptor203cypruoft/page/737/mode/1up
+
+Nec sibi plebs blandiatur quasi inmunis esse a contagio delicti possit cum sacerdote peccatore communicans et ad iniustum adque inlicitum praepositi sui episcopatum consensum suum commodans, quando per Osee prophetam comminetur et dicat censura diuina: sacrificia eorum tamquam panis luctus, omnes qui manducant ea contaminabuntur (Os. 9, 4), docens scilicet et ostendens omnes omnino ad peccatum constringi quique fuerint profani et iniusti sacerdotis sacrificio contaminati. quod item in Numeris manifestari inuenimus, quando Core et Dathan et Abiron contra Aaron sacerdotem sacrificandi sibi licentiam uindicauerunt. illic quoque per Moysen praecipit Dominus ut ab eis populus separetur, ne facinerosis coniunctus eodem facinore et ipse perstringatur. separamini, inquit, a tabernaculis hominum iniustorum durissimorum et nolite tangere ab omnibus quae sunt eis ne simul pereatis in peccato eorum (Num. 16, 26). propter quod plebs obsequens praeceptis dominicis et Deum metuens a peccatore praeposito separare se debet, nec se ad sacrilegi sacerdotis sacrificia miscere, quando ipsa maxime habeat potestatem uel eligendi dignos sacerdotes uel indignos recusandi.
+
+## Ep. 69 (a Magno), 8–9
+
+Link: https://mlat.uzh.ch/browser/cps_2.CypCar.EpDeBaH
+
+VIII. Quod vero eumdem quem et nos Deum Patrem, eumdem Filium Christum, eumdem Spiritum sanctum nosse dicuntur, nec hoc adjuvare tales potest. Nam et Chore et Dathan et Abiron cum sacerdote Aaron et Moyse eumdem Deum noverant, pari lege et religione viventes, unum et verum Deum, qui colendus atque invocandus fuerat, invocabant. Tamen quia loci sui ministerium transgressi contra Aaron sacerdotem qui sacerdotium legitimum dignatione [col. 1144B] Dei atque ordinatione Domini perceperat, sacrificandi sibi licentiam vindicaverunt, divinitus percussi poenas statim pro illicitis conatibus pependerunt, nec potuerunt rata esse et proficere sacrificia irreligiose et illicite contra jus divinae dispositionis oblata. Thuribula quoque ipsa, in quibus incensum illicite fuerat oblatum, ne in usu de caetero essent sacerdotibus, sed potius indignationis et ultionis divinae memoriam corrigendis posteris exhiberent, jussu Domini conflata atque igne purgata in laminas ductiles producuntur et affiguntur altari, secundum quod loquitur Scriptura divina. Memoriale, inquit, filiis Israel ut non accedat quisquam alienigena qui non est ex semine Aaron imponere incensum ante Dominum, ut non sit sicut Chore. Et tamen illi schisma [col. 1144C] non fecerant, nec foras egressi, contra Dei sacerdotes impudenter atque hostiliter rebellaverant, quod nunc hi Ecclesiam scindentes et contra pacem atque unitatem Christi rebelles cathedram sibi constituere et primatum assumere et baptizandi atque offerendi licentiam vindicare conatur. Quomodo perficere quae [col. 1145A] agunt aut impetrare aliquid illicitis conatibus Deo possunt qui contra Deum, quod eis non licet, moliuntur? Quare qui Novatiano sive caeteris ejusmodi schismaticis patrocinantur frustra contendunt baptizari et sanctificari illic aliquem salutari Baptismo posse ubi constet baptizantem baptizandi licentiam non habere. IX. Atque ut magis intelligi posset contra ejusmodi audaciam quae sit censura divina, invenimus in tali facinore non solum duces et auctores sed et participes poenis destinari, nisi se a communione malorum separaverint, praecipiente per Moysen Domino et dicente: Separamini a tabernaculis hominum istorum durissimorum, et nolite tangere ab omnibus quae sunt eis, ne simul pereatis in peccato eorum (Num. XVI). Et quod [col. 1145B] comminatus per. Moysen Dominus fuerat implevit, ut quisquis se a Chore et Dathan et Abiron non separasset, poenas statim pro impia communione persolveret. Quo exemplo ostenditur et probatur obnoxios omnes et culpae et poenae futuros qui se schismaticis contra praepositos et sacerdotes irreligiosa temeritate miscuerint.
+
+## Ep. 75 (Firmiliano), 16
+
+Link: https://mlat.uzh.ch/browser/cps_2.CypCar.EpDeBaH
+
+Potestas ergo peccatorum remittendorum Apostolis data est et Ecclesiis quas illi a Christo missi constituerunt, et episcopis qui eis ordinatione vicaria successerunt. Hostes autem unius catholicae Ecclesiae, in qua nos sumus, [col. 1169A] et adversarii nostri, qui Apostolis successimus, sacerdotia sibi illicita contra nos vindicantes et altaria profana ponentes, quid aliud sunt quam Chore et Dathan et Abiron, pari scelere sacrilegi, et easdem quas et illi poenas daturi cum his qui sibi consentiunt, secundum quod etiam tunc illorum participes et fautores pari cum eis morte perierunt.
