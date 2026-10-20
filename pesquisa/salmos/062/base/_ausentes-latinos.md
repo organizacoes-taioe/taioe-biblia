@@ -1,0 +1,1 @@
+- São Tomás de Aquino, Postilla super Psalmos: não comentou este salmo (a Postilla vai só até o Sl 54 da Vulgata = Sl 55 hebr.).

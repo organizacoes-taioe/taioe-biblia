@@ -1,0 +1,61 @@
+# pseudo-Jerônimo, Breviarium in Psalmos
+- Autor: pseudo-Jerônimo (autor incerto, séc. VII–VIII?)
+- Obra: Breviarium in Psalmos
+- Passagem: Sl 54 (Vulgata), que corresponde ao Sl 55 hebr.
+- Edição: PL 26, 981A–985A
+- Fonte: https://mlat.uzh.ch/php_modules/download.php?idno=7183&type=file-txt
+- Cobre: o salmo inteiro
+- Oriental: não
+- Língua: la
+- Baixado: 2026-10-20, por pesquisa/ferramentas/base/lat-pseudo-jeronimo.py
+- Leitor: https://mlat.uzh.ch/browser/cps_2.AuInAuH.BrInPs (abre a obra inteira; procurar o título do salmo)
+
+---
+
+PSALMUS LIV.
+
+In finem, in carminibus intellectus David. In finem, in Christo: ut illud: Finis enim legis Christus ad justitiam omni credenti (Rom. X). In finem, semper de Christo intelligitur. Unde et sancti apostoli [col. 981B] dixerunt: Domine, ostende nobis Patrem, et sufficit nobis (Joan. XIV). Non potes legem implere, nisi ab ipso impleatur. Omnis Scriptura sancta de illo est. In carminibus, id est, in laudibus: Sicut carmina saeculi sunt, sic et carmina Ecclesiae: unde laus Dei cantatur: et consolatio sanctorum est: quia dictum est: Tunc justi fulgebunt sicut sol in regno Patris eorum: aequales angelis (Matth. XIX). Psalmus vocem continet Mediatoris, qui cum Deus esset, formam servilem pro nostra libertate suscepit.
+
+Exaudi, Deus, orationem meam, et ne despexeris deprecationem meam: intende mihi, et exaudi me. Triplex haec deprecatio ideo ostenditur: quod primam homo Deus in statu servili manens, a conscientia sanctitatis emittit. Secundam, quia se scit justum, obedientiam non despici postulat. Tertiam, [col. 981C] propter infirmitatem carnis, ut sibi intendatur exorat. Qua ratione intellige, o homo: quia nisi pura conscientia depreceris, a Deo prorsus non exaudieris.
+
+Contristatus sum in exercitatione mea. Quam pro mundi vita suscepi: quia semper exercitatio ad res utiles ac necessarias agitur. Conturbatus sum a voce inimici. Qui me Samaritanum, et daemonium habentem, cum Deus essem antea saecula, increpabant. Vel vox Ecclesiae. Duos inimicos habet Ecclesia. Unum aperte, et unum occulte. Unum debet diligere, et alium odire. Diligere proximum, ut illud: Diligite inimicos vestros: benefacite his qui oderunt vos (Luc. VI): Et alium contemnere et odire: id est, diabolum qui occulte venit per suggestiones [col. 981D] et delectationes. Et a tribulatione peccatoris. Qui mihi semper tribulationum insidias intendebat. Propter hoc tribulat Deus peccatores; aut ut emendentur, aut ut per illos corrigat bonos.
+
+Quoniam declinaverunt in me iniquitates. Populus utique declinat ad iniquitatem, qui mendacium profert super proximum. Vel Judaei super Dominum, sicut dixerunt: In Beelzebub principe daemoniorum ejicit daemonia (Matt. XII): Et in ira molesti erant mihi. Persequentes me in invidia sua. Et in ira molesti erant. Molestus, id est, saevus. In ira, festuca, trabs, odium. Ira conturbat; trabs excaecat: ut illud: Turbatus est prae ira oculus meus (Psal. VI).
+
+Cor meum conturbatum est. Secundum hominem, [col. 982A] sed virtute divina confortatum est. Nam et angelus, inquit Evangelista, accedens confortabat eum (Luc. XXII). Et formido mortis cecidit super me. Timor animae, et tremor corporis. Timor et tremor venit super me. Siquidem ipse dixit: Tristis est anima mea usque ad mortem (Marc. XXVI). Contexerunt me tenebrae. Tenebrae dicuntur mali homines, qui persequuntur Ecclesiam, et qui tegunt ipsam in odio, quia qui odit fratrem suum, in tenebris est. Et contexerunt me tenebrae: sed quia lux eram, non me comprehenderunt.
+
+Et dixi: quis dabit mihi pennas sicut columbae? et volabo, et requiescam. Non ab alio summam evolationem evadendae mortis, nisi a me ipso. Potestatem habeo ponendi animam meam, et potestatem habeo [col. 982B] iterum sumendi eam: ut de tenebris ad coelestia revertar. In columba autem spiritualem naturam designat, sicut in baptismo ostensum est. Columba simplex animal est absque felle, et a malitia fellis alienum: quia osculum charitatis animae significat: quia Ecclesia duas pennas habet, hoc est, duo praecepta charitatis: dilectionem Dei videlicet, et proximi.
+
+Ecce elongavi fugiens. A Judaeis. Longe est enim a peccatoribus salus. Et mansi in solitudine. Cum gentibus incredulis, quas adventu meo florere feci. De quibus alius ait propheta: Laetetur ac floreat desertum (Isai. XXXV). Ecce elongavi fugiens, et mansi in solitudine. Columba fugit a conversatione humana, et sancti fugiunt a consortio hominum, non [col. 982C] corporaliter, sed spiritualiter, hoc est, in conscientia, quia cogitant, quomodo se contra suggestiones diaboli vel haereticorum defendere debeant.
+
+Exspectabam eum qui salvum me fecit a pusillanimitate spiritus et tempestate. Exspectat in corpore positus, non solum salvationem patris, ut a diversis tempestatibus eruatur: sed etiam, ut ultionem de inimicis accipiat. Sequitur: Praecipita, Domine, et divide linguas eorum. In aqua aliquis saepe praecipitatur. Ergo hi ita demergantur sicut in diluvio, et dispergantur divisis linguis, ceu factum est in aedificatione turris. Sed cur ista fiant, adjecit: Quoniam vidi iniquitatem, et contradictionem in civitate. Iniquitatem, cum non crediderunt. Contradictionem, cum exprobrant, contradicentes: [col. 982D] Nonne hic est filius Joseph fabri (Marc. VI)? Et alia multa.
+
+Die ac note. Id est, omni tempore. Die, cum doceret turbas, et illi non crediderunt. Nocte, cum pateretur, et illi blasphemarent. Ergo taliter circumdata repletaque est eorum civitas, id est, Jerosolyma, ut supra muros redundaret iniquitas ejus.
+
+Et non defecit de plateis ejus usura et dolus. Omnia enim quae in lege prohibita sunt, ad augendi peccati cumulum excreverunt. In lege enim usurae accipi prohibentur (Deut. XXIII). Usura est plus accipere quam dare. Unde propheta dicit: Non feneravi, neque feneravit mihi quisquam (Jerem. XV). Et, Si vis quod tibi dimittatur, dimitte (Matth. VI).
+
+[col. 983A] Quoniam si inimicus meus maledixisset mihi, sustinuissem utique, et si is qui oderat me super me magna locutus fuisset: abscondissem me forsitan ab eo. Non hic tantum de passione Dominus queritur, sed et de discipulo proditore. Nam legimus in Evangeliis, quia absconderit se a Judaeis (Joan. VIII). A Juda autem non se abscondit: sed eum etiam convivio sancto ascivit, sicut sequitur: Tu vero homo unanimis. Qui cum aliis conjunctus eras apostolis. Dux meus. Ad praedicandum cum caeteris missus. Et notus meus. Quia me per legis mysterium cognoveras esse venturum. Dux meus et notus meus. Vox Christi de Juda. Unanimis dicit: quia videbatur ab aliis quasi bonus. Dux dicit, propter quod Christum tradidit, dux mortis fuit. Notus, [col. 983B] quando misit eos binos ante faciem suam in praedicationem (Luc. X).
+
+Qui simul mecum dulces capiebas cibos. Cum mandatis vitae et voluntate patris plerumque refectus es. Cibus enim dulcis est, Patris facere voluntatem, ut illud: Qui intingit mecum manum in paropside, levabit contra me calcaneum suum (Matt. XXVI). Vel cibus dulcis, id est, corpus et sanguis Christi: quod ipse accepit indignus. In domo Dei ambulavimus cum consensu. Saepe enim cum ipso Domino in templo Salomonis cum praedicationis consensu abiit.
+
+Veniat mors super illos, et descendant ad infernum viventes. Ut majorem sui cordis dolorem secundum hominem ostenderet: ideo quasi in maledictione quae eis erant ventura praedixit. Veniat mors super [col. 983C] illos, et descendant ad infernum viventes. Factum fuit hoc de Dathan, et Core, et Abiron, et simul venit ignis et mortui fuerunt, et terra absorbuit eos vivos (Num. XVI).
+
+Quoniam nequitia in habitaculis eorum in medio ipsorum. Etenim tam opere quam cogitatione, nequitia pleni sunt.
+
+Ego autem ad Dominum clamavi, et Dominus salvabit me. Vespere, et mane, et meridie. Vespere cum passionem suscepit, mane cum resurrexit: meridie, cum omni claritate virtutis suae adimpleta, coelos ascendit, sedet ad dexteram Patris.
+
+Narrabo et annuntiabo, et exaudiet vocem meam. Redimet in pace animam meam, ab his qui appropinquant mihi. Narrat scilicet: quod eum velociter pater [col. 983D] exaudivit: quod eum de tribulationibus mortis eripuit: quod in pace animam ejus ab inimicis, qui ei ob inferendam mortem propinquaverant, liberavit. Vel, narrabo, quasi minora, et annuntiabo, quasi majora. Liberavit in pace animam meam. In pace, hoc est, in semetipso, ut Paulus dixit: Ipse est pax nostra, qui fecit utraque unum (Ephes. I). Ab his qui appropinquant mihi. Appropinquant corpore, non vita nec merito. Quoniam inter multos erant mecum. Inter multos, sed non in paucis. In multis vero, id est, in baptismo, et in fide non ficta. In paucis non sunt, hoc est, in fide firma, et spe, et charitate. Inter multos, credentes, erant mecum, et non credebant.
+
+[col. 984A] Exaudiet Deus. Me benedicentem, non illos maledicentes. Exaudiet Deus: sanctos suos. Et humiliabit eos. Hoc est, superbos. Qui est ante saecula. Pater utique, quem in me manere non cognoverunt: quia est ante saecula, et manet in aeternum. Ille qui initium sumpsit ex Maria, ante saecula genitus est.
+
+Non est enim illis commutatio. De malo in bonum: non commutantur, non transferuntur secundum Evangelium de morte in vitam. Et non timuerunt Deum. Ideo causa ad ultionem descendit, sicut sequitur: Expandit manum suam in retribuendo. Quia cum eis ad auxilium porrecta fuisset: non eam receperunt. Non timuerunt Deum: propterea non declinaverunt de malo in bonum: quia non cognoverunt. Et extendit manum suam, in retribuendo illis. [col. 984B] Extendit manum suam, ut ait propheta: Tota die expandi manus meas ad populum non credentem et contradicentem mihi (Isai. LXV): ideo quia non credit opera mea et potentiam meam. In retribuendo illis, hoc est, in vindicta in die judicii: praesertim cum Abrahae dixi: In semine tuo benedicentur omnes gentes terrae (Genes. XXV), id est, in Christo, et in alio loco: Et dabo tibi gentes haereditatem tuam, et possessionem tuam terminos terrae (Psal. II). Christus per novum Testamentum acquisivit haereditatem suam.
+
+Contaminaverunt testamentum ejus. Quia non intellexerunt Dominum Jesum sanctorum virorum praeconio repromissum. Et divisi sunt ab ira vultus ejus. Ab spirituali providentia, divisa est contemplatio [col. 984C] eorum: ideo pars eorum cum infidelibus posita est. Post eorum exprobrationem ad Judam sermo refertur dicens: Et appropinquavit cor illius, ut impletum a diabolo traderet Christum. Contaminaverunt testamentum ejus, et divisi sunt ab ira vultus ejus, id est, haeretici, qui voluerunt contaminare testamentum Dei, divisi erunt in die judicii quando accipient sententiam damnationis: Ite, maledicti, in ignem aeternum (Matt. XXV). Et appropinquavit cor illius. Voluntas ejus: quia quod intelligunt de Scripturis, in malum vertunt, quia de fide Trinitatis, non recte credunt. Unde dictum est: Oportet esse haereses, ut qui probati sunt, manifesti fiant in vobis (I Cor. XI).
+
+Molliti sunt sermones ejus super oleum, et ipsi sunt [col. 984D] jacula. Cum ait, molliti sunt: de pluribus dicit, cum prius de uno locutus fuisset. Ergo intellige diabolum nuncupatum, et Judam, qui leniores oleo fecit sermones suos, cum ait: Ave, Rabbi, et osculatus est eum (Matt. XVI). Tale oleum renuentes, ut in tribulationibus positi, Dei petamus auxilium, ipse nos Deus suo exemplo docuit dicens: Jacta in Dominum curam tuam, et ipse te enutriet. Ut ab eo educatus inimicis fortis resistas. Non dabis in aeternum fluctuationem justo. Si enim justus fueris, non te patitur ab iniquis fluctibus fatigari. Qui fluctuat, in mari est. Per mare, mundus iste intelligitur: in quo sancti fluctuant.
+
+Tu vero, Deus, deduces illos in puteum interitus. Ut [col. 985A] qui noluerunt bibere de fonte aquae vivae: in puteum interitus demergantur. In puteum interitus: hoc est, in infernum, justa vindicta super illos.
+
+Viri sanguinum et dolosi. Qui sunt effusores sanguinis Redemptoris nostri. Non dimidiabunt dies suos: Non solum non impleverunt aeternitatis dies, sed nec ad dimidium temporis ejus venire meruerunt. In modico enim spatio in ultione Dominica ab hostibus trucidati sunt.
+
+Ego autem sperabo in te, Domine. Ut pleni inveniantur dies mei. Et nos supplices deprecamur, ut a te, Domine, exauditi: nec peccati oleo delibuti, a te enutriti, a te ab hujus saeculi fluctibus liberati, a te mereamur longitudinem dierum pro bonis actibus adipisci. Amen.

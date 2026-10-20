@@ -1,0 +1,7 @@
+# Pistas: Padres orientais gregos (ascetas, Máximo, bizantinos, hinografia)
+
+- São Macário (Pseudo-Macário), Sermones 64 (coleção B), ed. Berthold, GCS 1973 (edição com direito: só citação curta; não está na PG): 2Cor 5,1–4 explicado num logos paralelo à Homilia espiritual 5 (gravada em base/macario-homilias-espirituais.md). https://khazarzar.skeptik.net/pgm/PG_Migne/Macarius%20of%20Egypt_PG%2034/Sermones%2064.pdf
+- São Máximo, Capita theologica (centúria II): 2Cor 5,16 («se conhecemos Cristo segundo a carne…») num capítulo próprio (conferir: busca «εγνωκαμεν κατα σαρκα»). https://khazarzar.skeptik.net/pgm/PG_Migne/Maximus%20Confessor_PG%2090-91/PG_91AGI.pdf
+- São Máximo, Cartas (PG 91): 2Cor 5,20 («somos embaixadores de Cristo») citado numa carta (só citação). https://khazarzar.skeptik.net/pgm/PG_Migne/Maximus%20Confessor_PG%2090-91/PG_91A_7.pdf
+- São Simeão, o Novo Teólogo, Discursos teológicos e éticos, discurso V: 2Cor 5,17 («nova criatura») contra quem diz ter o Espírito sem senti-lo (texto digital da ed. grega do khazarzar (segue as edições modernas, SC 96–129 etc.: citação curta)). https://khazarzar.skeptik.net/pgm/PG_Migne/Symeonis%20Junioris_PG%20120/Theologica.pdf
+- São Simeão, o Novo Teólogo, Capítulos gnósticos e teológicos: 2Cor 5,14 («o amor de Cristo nos constrange») (texto digital da ed. grega do khazarzar (segue as edições modernas, SC 96–129 etc.: citação curta)). https://khazarzar.skeptik.net/pgm/PG_Migne/Symeonis%20Junioris_PG%20120/Theologica.pdf

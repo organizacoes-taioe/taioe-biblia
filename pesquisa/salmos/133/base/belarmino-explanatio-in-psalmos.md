@@ -1,0 +1,40 @@
+# São Roberto Belarmino, Explanatio in Psalmos
+- Autor: São Roberto Belarmino (1542–1621)
+- Obra: Explanatio in Psalmos (1611)
+- Passagem: Sl 132 (Vulgata), que corresponde ao Sl 133 hebr.
+- Edição: Opera omnia, ed. J. Fèvre, Paris, Vivès, 1870–1874, t. XI
+- Fonte: https://archive.org/download/operaomnia11bell/operaomnia11bell_djvu.txt
+- Cobre: o salmo inteiro
+- Oriental: não
+- Língua: la
+- Baixado: 2026-10-20, por pesquisa/ferramentas/base/lat-belarmino.py
+- Leitor: https://archive.org/details/operaomnia11bell
+- Nota: OCR do archive.org: pode haver erros de leitura e notas de margem do original misturadas ao texto; o «Commentaria» do editor (Fèvre) que precede cada salmo na edição foi omitido.
+
+---
+
+PSALMUS CXXXII. (Belarmino, Explanatio)
+
+TITULUS ET ARGUMENTUM.
+
+Canticum Graduum.
+
+Compositus videtur hic Psalmus, ut a Judaeis cantaretur, quando post reditum a captivitate , et reaedificata civitate, ac templo, coeperunt simul pacifice habitare, et esse unus populus, remota distinctione vel schismate , quod erat ante captivitatem inter regnum Israel et regnum Juda. Sed convenit etiam omni multitudini, ubi vigent concordia et communio, quales sunt multitudines servorum Dei in monasteriis, ubi regularis observantia viget. Sed potissimum locum habet hic Psalmus in coelesti patria, et cantatur ab iis qui finita peregrinatione illuc perveniunt, ubi omnes sunt consummati in unum, ut loquitur Dominus Joan. xvn, et ubi Deus est « omnia in omnibus, » juxta Apostolum I Corinth. xv.
+
+1. Ecce quam bonum et quam jucundum habitare FRATRES IN UNUM !
+
+Vox est eorum , qui jam experiri et gustare coeperunt utilitatem et dulcedinem perfecte charitatis. Vocat enim bonum, id quod est utile; et jucundum, id tpiod est dulce : quamvis enim aliqua sint bona, quee non sunt jucunda, ut labor poenitentiae; et quaedam jucunda, quae non sunt bona, ut voluptas peccati ; tamen in concordia et pace fratrum simul habitantium haec duo conjuncta inveniuntur. Nam virtus unita est major et fortior, et melius ac facilius conservatur, quod pertinet ad utilitatem ; et ubi per charitatem multi sunt cor unum et anima una, unusquisque gaudet de bono aliorum, non minus quam de suo; quod pertinet ad jucunditatem.
+
+2. Sicut unguentum in capite, quod descen- vers. 2. D1T IN BARBAM, BARBAM AaRON:
+
+3. Quod descendit in oram vestimenti ejus; Vers.3. sicut ros Hermon, qui descendit in montem Sion.
+
+Duabus similitudinibus explicat jucunditatem et utilitatem habitantium in unum ; ac primo jucunditatem comparat unguento pretioso, quo ungebatur caput summi pontificis, quod erat 388 COMMENTARIA IN PSALMOS.
+
+odoris suavissimi, ut patet ex cap. xxx Exod.; quod quidem unguentum effusum in caput pontificis, inde defluebat ad barbam, et a barba in oram vestimenti, id est, in illam partem quae circumdat collum, quae immediate subjecta est barbae : non enim per oram intelligilur extremitas vestis, sed summitas, ut notavit S. Augustinus, et ut sonant vox hebraica et grseca, et ut ratio ipsa demonstrat : non enim tantum unguenti effundi solebat in caput, ut usque ad extremas vestes deflueret. Sed illud hoc loco notandum est, unguentum non communicari a capite, nisi partibus unitis : nisi enim barba capiti adhaereret, sed abscissa alicubi maneret, sine dubio defluxum unguenti non participaret, et nisi vestis unita esset corpori, sed plicata maneret in arca, similiter unguento non perfunderetur ; sic igitur, nisi fratres habitarent in unum, et inter se glutino charitatis conjuncti essent, dona coelestia a capite Christo defluentia non descenderent in barbam, id est, in praelatos, neque a barba in vestimenta, id est, in reliquum populum. Ait igitur : «Sicut unguentum in capite, quod descendit in barbam, » id est, jucunditas fratrum habitantium in unum et inter se conjunctorum, ac debita proportione invicem subjectorum, est sicut unguentum pretiosum et fragrantiae suavissimae, quod in capite effusum descendit in barbam. « In barbam Aaron, » id est, non loquor de quocumque unguento, sed de illo quod descendit in barbam Aaronis, tempore consecrationis suae; quod etiam « descendit in oram, » superiorem videlicet partem «vestimenti ejus.» Deinde comparat utilitatem eorumdem fratrum habitantium in unum rori, qui descendit in montem : neque enim montes ex rore jucunditatem ullam percipiunt, sed utilitatem magnam, quoniam pluvia ad montes vel non descendit , vel non haeret, sed ex montibus ad valles continuo descendit : ros autem haeret in montibus , eosque infundit et germinare facit. Nominat autem duos montes, Herrnon et Sion, qui quamvis loco conjuncti non essent, cum mons Ilermon esset trans Jordanem ad orientem, et mons Sion citra Jordanem ad occidentem, tamen conjuncti erant quoad similitudinem qualitatum, cum uterque sit verus mons, et unus major et altior, videlicet Herrnon, alius minor et humilior, id est Sion. Ex quo voluit nos Spiritus Sanctus admonere, conjunctionem fratrum habitantium in unum debere esse cordium magis quam corporum; nam de primis fratribus habitantibus in unum scriptum est: « Erat autem multitudinis credentium cor unum et anima una, » Ad. iv. Dicit igitur : « Sicut ros Herrnon, qui descendit in montem Sion,» id est, bonum utilitatis habitantium in unum, est «sicut ros Herrnon, qui descendit in montem Sion, » sive, ut est in hebraeo, in monte Sion. Quomodo autem ros montis Herrnon, qui Quomodo longe distat a Sion, descendat in montem Sion, variis modis exponunt Interpretes. Mihi videtur moner Prophetam considerasse montem Herrnon esse de3cenaltissimum et amplissimum, atque in eo magnam dal in esse roris abundantiam; montes autem Sion esse multo humiliores et aridiores, et ideo more poetico dixisse, ex monte Hennon descendere rorem in montes Sion, quasi communicet mons Herrnon rorem, quo abundat, cum montibus Sion qui eo carent : non quod idem omnino ros, qui est in monte Herrnon, descendat in montes Sion, sed quod similis ros descendens in montes Sion videatur quodam modo ex monte Herrnon descendere. Et aptissime convenit hase similitudo in conventum fratrum habitantium in unum : sunt enim fratres concordes quasi tot montes, sive colles Sion, in quos descendit ros coelestis a Christo, qui est quasi Herrnon allissimus et rore coelesti plenissimus ; unde dixit Joannes : «Et de plenitudine ejus omnes accepimus,» Joan.i. Non communicat autem Christus nobiscum eam ipsam gratiam et gloriam numero, quam in se habet, sed aliam similem et minorem.
+
+4. Quoniam illic mandavit Do.mincs benedic- vers. i.
+
+T IONEM, ET VITAM USQUE IN S ASCULUM.
+
+Reddit rationem cur tantis bonis abundet conventus fratrum concorditer pacificeque viventium : «Quoniam, inquit, illic mandavit Dominus benedictionem,» id est, illuc misit Dominus benedictionem suam, quee est fons omnium bonorum ; Domino enim «benedicere» benefacere pnmini est : quoniam igitur Deo gratissima est concor- benediiedia et cliarilas fraterna, ideo replet eam copia bonorum omnium, id que non ad breve tempus, ‘est_ sed in aeternum ; nam ideo cum benedictione misit ad eos «vitam usque in saeculum. » Quae omnia hic in terris habentur in spe, sed in patria habentur in re. Recte igitur initio diximus hunc Psalmum ab illis proprie cantari, qui ex peregrinatione perveniunt ad patriam. Ibi enim perfecta est concordia, ibi unguentum perfectae charitatis continuo defluit a capite Christo in omnia membra, et ros luminis gloriae a monte Herrnon in omnes colles Sion; dicitur enim Ilermon lumen elevatum ; et Sion, specula : proinde recte ab altissimo lumine descendit participatio ejus in eos qui digni sunt speculari Deum facie ad faciem; ibi est benedictio Domini, id est, affluentia omnium aliorum bonorum; ibi denique est vera vita « usque in saeculum , » quae nunquam deficiet

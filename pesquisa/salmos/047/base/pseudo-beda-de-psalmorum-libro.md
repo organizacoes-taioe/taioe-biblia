@@ -1,0 +1,38 @@
+# pseudo-Beda, De Psalmorum libro exegesis
+- Autor: pseudo-Beda (autor incerto; compilação medieval)
+- Obra: De Psalmorum libro exegesis
+- Passagem: Sl 46 (Vulgata), que corresponde ao Sl 47 hebr.
+- Edição: PL 93, 727A–729A
+- Fonte: https://mlat.uzh.ch/php_modules/download.php?idno=8477&type=file-txt
+- Cobre: o salmo inteiro
+- Oriental: não
+- Língua: la
+- Baixado: 2026-10-20, por pesquisa/ferramentas/base/lat-pseudo-beda.py
+- Leitor: https://mlat.uzh.ch/browser/cps_2.AuInBe.DeLiPs (abre a obra inteira; procurar o título do salmo)
+- Nota: Coleção de glosas (argumento, explanação, comentário) atribuída a Beda sem fundamento; citar como «pseudo-Beda».
+
+---
+
+IN PSALMUM XLVI. In finem, pro filiis Core Psalmus.
+
+ARGUMENTUM.
+
+[col. 727B] Machabaeorum personae carmen hoc quasi triumphale praecinitur, quoniam, victis gentibus vel Judaeis praevaricatoribus, templum est cum sacris ritibus instauratum. Item legendus ad lectionem Actus apostolorum, postquam ascendit Christus ad Patrem.
+
+EXPLANATIO.
+
+Titulus notus est, Christum et Christianos insinuans, quamvis ex persona filiorum Core totus sit hymnus cantatus, diapsalmatis tamen est interpositione divisus. Primo modo commonentur gentes Domino laudes personare, quia populo acquisitionis cuncta subjecit, et in sua haereditate collocavit. Secundo ascensio Domini et regnum describitur, quoniam sancti ipsius sunt sine fine fruituri.
+
+COMMENTARIUS.
+
+[col. 727C] Omnes gentes, plaudite. Dominus Deus noster fidem, in qua stamus, ex qua vivimus, per quam et salvamur, multipliciter varieque per Scripturas sacras revelavit nobis. Sacramenta quidem verborum varians, fidem tamen eamdem commendans, ut dum ordo dicendi variatur, et res antiqua renovatur, sit homo in corde paratus retinere, et postea non sit piger eadem cogitare, et quod comedit, id est, audivit, semper ruminare, ne inveniamur animalia immunda, sed munda, sicut in hoc psalmo res eadem quae jam saepe in aliis psalmis praedicta est iteratur. Cujus titulus est: In finem pro filiis Core, psalmus ipsi David. Quod sic exponitur: Iste psalmus refertur in finem, cantatus a quibusdam filiis Core, id est, ut alii filii Core imitatores Christi ejus passionis fiant. Psalmus, dico, attributus ipsi David, id est, perfectioribus in corpore Christi. Est enim vox apostolorum sanctorum exhortantium nos ut Deo qui pro nobis descendit et mortem subiit gratias, in quantum [col. 727D] possimus, referamus; scilicet, ut ore et opere ei plaudamus, et in quem Judaei parvulum offenderunt, illum nos cognoscamus excelsum, et quem illi habuerunt irrisibilem, nos timeamus casto tamen timore terribilem. Potest vero, juxta quosdam qui hunc psalmum cum superiori unum faciunt, ita ad praedicta continuari, quasi dicat: Quia Dominus non solum in gentibus, sed et in terra Judaica exaltabitur; ergo omnes gentes, plaudite Deo manibus, id est, in bonis operibus laudate Deum, et jubilate ei in voce non qualicunque, sed exsultationis, id est, in exsultativa laudatione. Sive enim tantum bene operamur, et voce non laudaremus, sive e converso faceremus, pigri essemus, et ideo utrumque praecipitur.
+
+Quoniam Dominus excelsus. Ideo debetis, omnes gentes, Deo manibus plaudere, et voce jubilare, quoniam Dominus, id est, Christus, prius parvulus, modo factus excelsus; prius derisibilis, modo factus terribilis, et modo rex magnus non solum super Judaeam, [col. 728A] sed super omnem terram. Ipse, inquam, subjecit populos Judaicos nobis apostolis et praeconibus, et non solum populos, sed etiam gentes, id est, gentiles, posuit sub pedibus, id est, sub affectionibus nostris, ita ut qui a nostris prius interficiebamur, ab istis honorabamur; et quia ab illis expulsi sumus, ab istis recepti simus. Et hoc modo quia et populos et gentes nobis subjecit, elegit assumendo, quam ante saecula elegerat, disponendo, haereditatem suam, et de Judaeis et de gentibus nobis associando. Exponit quae sit illa haereditas, scilicet, elegit speciem Jacob, id est, viros speciosos significatos per Jacob, quia Jacob dilexit, Esau autem odio habuit. Duo enim fratres fuerunt in utero matris, pugnantes et se invicem collidentes, quorum alterum Deus elegit, alterum reprobavit. Et accipitur alter, id est, Jacob in omnibus bonis, alter vero in omnibus malis.
+
+Ascendit Deus in jubilo. Quasi aliquis diceret: Quomodo elegit Deus hanc haereditatem? Hoc modo, [col. 728B] scilicet, quia in coelos ascendit, et inde Spiritum sanctum misit, qui corda nostra confirmavit, ut populi et gentes subjicerentur nobis. Sic quoque continuatur: Vere Dominus excelsus, quia jam ascendit illuc quo sequi non potuerunt qui eum crucifixerunt. Et hoc in jubilo, id est, in immensa laetitia et stupore apostolorum, et Dominus ascendit, in voce angelicae tubae. Angeli namque consolati sunt apostolos stupidos, et a se quodam modo abalienatos, ascendente Domino, quasi dicant: Corpus quidem tollitur ab oculis vestris, sed Deus non separatur a cordibus vestris. Videte ascendentem, credite in absentem, sperate venientem per occultam misericordiam, semper sentite eum praesentem.
+
+Psallite Deo nostro. Quia Dominus excelsus factus est et terribilis, et Rex magnus super omnem terram, ergo, omnes gentes, psallite et opere et voce. Et cui debeant psallere exponit: Psallite Deo, scilicet, Deo Patri nostro, id est, nobis propitio. Psallite Regi nostro, id est, Filio, psallite et Spiritui sancto. Et [col. 728C] debetis psallere, quoniam Deus est Rex factus per cognitionem non tantum Judaeorum, sed omnis terrae. Semper quippe Deus, velit nolit, Deus rex est universae terrae; sed tamen tunc tantum Rex dicitur, quando regnare cognoscitur. Unde dicit Isaias: Qui eruit te Deus vocabitur universae terrae. Rex, inquam, Deus est, ergo psallite non insipienter, sed sapienter. Insipienter namque psallebant dum idola adorabant; sapienter vero nunc psallunt. quoniam Creatorem colunt.
+
+Regnabit Deus. Ideo sapienter psallendum est, quia Deus regnabit, id est, regnare cognoscitur super omnes gentes, et si non in paleis, saltem in granis. Quod innuit cum dicit quia Deus sedet jam dispositione, sedebit etiam in re super sedem sanctam suam, id est, super animas justorum. Praeparate itaque vos Domino, et ipse sedebit in nobis quia Salomon dicit: Anima justi est sedes sapientiae.
+
+Principes populorum. Vere Dominus regnavit super gentes, quia suscitabit gentes de lapidibus et [col. 728D] faciet filios Abrahae. Quod sic dicit more prophetae, loquens per praesens de futuro: Principes populorum gentilium, qui quandiu lapidea corda habuerunt, disgregati a Deo erant, modo sunt congregati cum Deo Abraham, scilicet, facti filii ipsius Abraham, non carnem ejus gerentes, sed fidem habentes. Et hoc ideo factum est, quoniam dii terrae, id est, apostoli, qui habiti sunt quasi dii in terra, fortes, id est, in tribulatione et praedicatione persistentes, sunt vehementer elevati, id est, honorati et exaltati, Domino, scilicet, cooperante, et sermonem confirmante sequentibus signis. Valde namque elatus Petrus erat, cum etiam tactus umbrae ejus aegros erigebat. Quare principes ejus facile crediderunt, et fidem per eos susceperunt. Vel aliter, quasi dicat: Ideo facta est receptio gentium, quia facta est expulsio Judaeorum. Quod innuit dicens: Quoniam dii, id est, Judaei, qui propter legem et prophetas aliorum comparatione erant quasi dii, fortes terrae, id est, praesumentes de [col. 729A] terrenitate sua, de saeculari scilicet potentia et gloria, sunt elevati vehementer, id est, tantum superbierunt, quod medicum qui ad ipsos venerat necessarium sibi non putaverunt, et ideo eum occiderunt. Et sic illud completum est: Quia ex parte contigit caecitas in Israel, ut plenitudo, etc.

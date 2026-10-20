@@ -109,21 +109,6 @@ Numeração: todos usam a da LXX (o nosso Sl 33 é o «32» deles, λβʹ).
 - **Jo 19,36**: os gregos ligam «osso não se quebrará» ao cordeiro pascal (Ex 12,46), não ao Sl 33,21 (Cirilo, *Com. a João* e *De
   adoratione*; Crisóstomo, *Hom. 15 sobre 1 Cor*).
 
-## Acréscimos de Nm 13 (2026-10-17, `../numeros/013/relatorio-gregos.md`)
-
-| Autor | Obra | Onde | Nota |
-|---|---|---|---|
-| Epístola de Barnabé | 12, 8–9 | khazarzar `Barnabas_PG 02/Barnabae epistula.pdf` | marcadores «[PG 12, 8]» = capítulo e versículo |
-| São Justino | *Diálogo com Trifão* | khazarzar `Iustinus_PG 06/Dialogus cum Tryphone.pdf` | sem colunas nem capítulos; o OCR mistura letras latinas («Aὐσῆς») e põe «·» por «ῥ» |
-| Eusébio | *Demonstratio evangelica*; *Historia ecclesiastica*; *Eclogae propheticae*; *Onomasticon* | khazarzar `Eusebius Caesariensis_PG 19-24/`: as *Eclogae* estão no PDF «Generalis elementaria introductio» (ed. Gaisford 1842; «ΙΑʹ» = I, 11); o *Onomasticon* segue Klostermann (1904), com a referência bíblica de cada verbete | DE e HE: «[PG 4, 17] .3» = livro, capítulo, § (ed. GCS), não coluna |
-| São Cirilo de Alexandria | *De adoratione* V («Sobre a coragem em Cristo») | PG 68, 372–376 | Nm 13–14 lido com Dt 20,8: a pusilanimidade que contagia |
-| São Gregório de Nissa | *Homilias sobre o Cântico* 3 (Ct 1,14) | GNO VI, 98–99 | o «verdadeiro cacho» nas varas de madeira (Nm 13,23) |
-| Santo Anfilóquio de Icônio | *In Zacchaeum* | khazarzar `Amphilochius Iconiensis_PG 39/` (ed. Datema, CCSG 3, 1978: citação curta) | Raab e Zaqueu, Josué e Jesus |
-| Procópio de Gaza | *In Numeros* | OCR da PG 87/1 (`patrologiaecurs267unkngoog`), Nm 13: c. 829–830 | só latim; compila Cirilo e Nissa |
-
-- Busca de «ὡσεὶ ἀκρίδες»: quase todas as ocorrências são de Is 40,22, não de Nm 13,33. O padrão «Ὡσηέ» acha sobretudo
-  o profeta Oseias: para Josué, buscar «Αὐσῆ».
-
 ## Acréscimos do Sl 35 (LXX 34) (2026-10-17, `../salmos/035/relatorio-gregos.md`)
 
 - **Textos já convertidos, para reaproveitar** (no notebook, fora do git; a pasta temporária pode ser limpa pelo sistema: procurar
@@ -158,22 +143,9 @@ Numeração: todos usam a da LXX (o nosso Sl 33 é o «32» deles, λβʹ).
   *Testimonia* atribuídos a Epifânio.
 - **Teodoro de Mopsuéstia** (Sl 1–80, ed. Devreesse 1939) e **Diodoro** não estão no khazarzar; Teodoro foi condenado em 553 e Diodoro
   ficou suspeito pelo mesmo motivo: não entram no site.
-## Acréscimos de Nm 14 (2026-10-18, `../numeros/014/relatorio-gregos.md`)
+## Cartas de São Paulo
 
-| Autor | Obra | Onde | Nota |
-|---|---|---|---|
-| Procópio de Gaza | *In Numeros*, **escólios gregos** | PG 87/1, 829–836 (Nm 14) | Para alguns capítulos a PG imprime, ao lado do latim de Clauser, escólios gregos da cadeia. O OCR `patrologiae_cursus_completus_gr_vol_087_1` (archive.org) lê bem o grego e mal o latim; o `patrologiaecurs267unkngoog`, o contrário: usar os dois juntos. |
-| Santo Efrém (atribuído) | *In Numeros*, ed. romana | *Opera Syriaca et Latina* I (Roma 1737), p. 250 ss.; archive.org `assemani-et-alii-1732-1746-ephraem-syri-opera-omnia-syr-1` | Glosas de cadeia siríaca com tradução latina; o OCR do latim é legível, o do siríaco não. Nm 13–14: p. 258–259. O vol. I cobre também Gn, Ex, Lv, Dt, Js, Jz e Reis. |
-| Teodoreto | *Interpretatio in Psalmos* | khazarzar (PDF com colunas da PG) | Os Sl 77, 94 e 105 (LXX) relembram o deserto: procurar ali os episódios do Êxodo e de Números. |
-| Cirilo de Alexandria | *Commentarii in Joannem* | khazarzar (ed. Pusey: «[PG 2, 140]» = vol. II, p. 140) | Digressões longas sobre o AT: Ex 34,6–7 e Nm 14,17–19 em VI (Jo 9,2); a arca e Dt 1,41–44 em IV (Jo 6). Colunas da PG 73 pelo OCR `bim_early-english-books-1641-1700_patrologiae-cursus-completus-_1859_73`. |
-
-- Não estão no khazarzar: Isidoro de Pelúsio (PG 78; latim no archive.org, OCR fraco), Diádoco (PG 65), João Clímaco (PG 88).
-
-## Cartas de São Paulo (primeiro uso: 2Cor 1, 2026-10-18)
-
-O catálogo das fontes paulinas ficou na pasta do capítulo; ler antes do próximo capítulo de Paulo:
-
-- `../2corintios/001/fontes-gregos.md`: Crisóstomo (PG 61), Teodoreto (PG 82), as cadeias (Staab), Damasceno e os PDFs do khazarzar para todas as cartas.
+Tudo em `paulo.md` (o mapa das cartas: as obras de cada carta, a tabela das homilias de Crisóstomo e a pré-pesquisa de 2Cor 3–13).
 
 ## Acréscimos do Sl 36 (LXX 35) (2026-10-20, `../salmos/036/relatorio-gregos.md`)
 
@@ -196,3 +168,7 @@ O catálogo das fontes paulinas ficou na pasta do capítulo; ler antes do próxi
   *Glaphyra*, *De adoratione*, *Homilias pascais*, Isaías, Doze Profetas): sempre Cristo que rega com o Espírito. A glosa do v. 10 na
   *Expositio* de Mai vem do *Tesouro* 4 (PG 75, 40): as glosas de Mai podem vir de outras obras do próprio Cirilo.
 - **Teodoreto, *História eclesiástica***: no khazarzar segue Parmentier (sem colunas); traz cartas de Alexandre de Alexandria e de Ário.
+
+## Por livro
+
+O que é de um livro só (quem comenta que capítulo, o que se achou em cada um) fica no mapa do livro: `numeros.md`, `salmos.md`, `paulo.md`. Aqui ficam o acesso às fontes e o que vale para a Bíblia inteira (20/10/2026).

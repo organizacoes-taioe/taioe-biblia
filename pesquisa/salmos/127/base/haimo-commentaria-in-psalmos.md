@@ -1,0 +1,27 @@
+# «Haimo de Halberstadt», Commentaria in Psalmos
+- Autor: «Haimo de Halberstadt» (séc. IX; autoria incerta)
+- Obra: Commentaria in Psalmos
+- Passagem: Sl 126 (Vulgata), que corresponde ao Sl 127 hebr.
+- Edição: PL 116, 640C–642B
+- Fonte: https://mlat.uzh.ch/php_modules/download.php?idno=9073&type=file-txt
+- Cobre: o salmo inteiro
+- Oriental: não
+- Língua: la
+- Baixado: 2026-10-20, por pesquisa/ferramentas/base/lat-haimo.py
+- Leitor: https://mlat.uzh.ch/browser/cps_2.HayHal.CoInPs2 (abre a obra inteira; procurar o título do salmo)
+
+---
+
+IN PSALMUM CXXVI. TITULUS: Canticum graduum Salomonis.
+
+« Nisi Dominus aedificaverit. » Sicut septem praedictos gradus specialiter ad homines Veteris Testamenti [col. 640D] direximus, ita octo istos futuros ad homines Novi Testamenti proprie referimus. Et dicuntur hi gradus specialiter Salomonis, id est pacifici, scilicet Christi, qui verus pacificus fuit, quia ipse reconciliavit Deum hominibus, et pacem fecit inter Judaeos et gentes. Unde Apostolus dicit: « Qui fecit utraque unum. » (Ephes. II.)Hujus autem pacifici proprie dicuntur isti gradus, quia per praesentiam corporis manifestum auxilium humano generi contulit, et in seipso exemplum totius justitiae ostendit, et alios per gradus virtutum ad coelestem Hierusalem ascendere docuit. In hoc psalmo loquitur hominibus qui in adventu Christi, quem alio in psalmo dicit cum magna exsultatione exspectari, abundantiam beneficiorum [col. 641A] receperunt, veluti sancti apostoli fuerunt: et intendit ab eis auferre omnem praesumptionem, scilicet, non praesumant tales esse qui possint aedificare per se, vel aedificata custodire: nec putent se securos ante secundum adventum Christi, quia nullus in hac vita potest esse securus, in qua statim quilibet fabitur ad peccatum.
+
+Quasi ita diceret: Vos qui in adventu Christi multa beneficia accepistis, etiam aliorum aedificatores constitistis, nolite de vobis praesumere, quia nihil potestis per vos, nisi Dominus faciat; hoc dicit: « nisi Dominus aedificaverit domum, » hoc est, nisi Dominus interna inspiratione aliquem praeparet suae habitationi, « in vanum laboraverunt qui aedificant eam, » id est qui ad eam aedificandam laborant: [col. 641B] « non enim qui plantat, aut quirigat, est aliquid, sed qui incrementum dat, Deus. » (I Cor. XIII.)
+
+Dico per se non potest aliquis aedificare, nec per se aedificata custodire, hoc est: « nisi Dominus custodierit civitatem, » id est ipsam Ecclesiam, quae dicitur civitas, quia de multis collecta est et bene munita virtutibus; « frustra vigilat qui custodit eam » civitatem. Cum dicit « vigilat, » innuit nobis curam et sollicitudinem quam pastores Ecclesiae qui vigilant ad greges custodiendos habent. Unde in Canticis: « Invenerunt me vigiles qui custodiunt civitatem. » (Cant. III.)
+
+Quandoquidem solus Deus aedificat et custodit, ergo « vanum est vobis surgere, » id est de securitate aeternae beatitudinis praesumere: quia quicunque [col. 641C] est in hac vita, pronus est ad lapsum: unde dicitur: « qui stat, videat ne cadat. » (I Cor. X.)« Vanum est, » dico, « ante lucem surgere, » id est ante secundum Christi adventum, in quo vera lux et manifesta cognitio unicuique erit. Vel, « ante lucem, » id est ante cognitionem quam recipit unaquaeque fidelis anima post dissolutionem tantum. Ante lucem surgere vanum est, scilicet « postquam sederitis, » id est sessionem et dejectionem hujus vitae transieritis, tunc « surgite, » id est securi estote. Vobis dico ut surgatis, « qui manducatis panem doloris, » id est quibus miseriae hujus mundi sunt refectio, sicut panis alicui.
+
+Dico « surgite postquam sederitis; » et quasi diceret aliquis: Quando erit perfecta illa sessio? [col. 641D] « cum » Dominus « dederit dilectis suis somnum, » id est mortem: et cum dederit, « ecce » apparebit « haereditas Domini » scilicet Filii, id est justi Viri: qui filii sunt « merces, » id est remuneratio quam Dominus dedit Christo pro expletione suae obedientiae: merces dico « fructus, » id est ipsius Christi, qui fuit fructus ipsius « ventris » virginalis. Ubi dicit: « Ecce haereditas, » incipit de secunda parte, in qua ostendit magnam dignitatem eorum qui sunt haereditas Domini. In prima parte dissuadet a praesumptione.
+
+Dico, filii erunt merces, et ipsi « filii excussorum, » id est prophetarum, qui dicuntur excussores, quia rem latentem, scilicet reprobationem humani [col. 642A] generis excusserunt et manifestaverunt, erunt ita « sicut sagittae in manu Potentis. » Sicut enim sagittarius dirigit sagittam quo vult, nec ipsa aberrat, sed percutit quem vult, ita Deus potens dicitur sagittarius, quia sagittas suas, id est sanctos apostolos et alios legatos mittit, in quos remotas partes ipse eligit, et per hos corda hominum divino amore transfigit. Et non tantum apostoli sunt beati, et illi alii qui susceperunt adventum Christi, sed etiam omnes illi qui eos imitantur: hoc est, omnis ille « vir » est beatus, « qui implevit desiderium suum ex ipsis, » hoc est, vitam suam instituit ad modum eorum: et vere beatus, quia « non confundetur cum loquetur inimicis suis in porta, » id est in publico. Vel per portam possumus Christum accipere, [col. 642B] qui est porta per quam itur ad vitam, sicut ipse ait: « Per me si quis introierit, salvabitur (Joan. X); » ut sic dicamus: « Cum loquetur inimicis suis, » id est haereticis, « in porta, » id est in Christo, scilicet de ipso Christo agens, non confundetur, quod aliquem errorem de ipso loquatur, vel aliquo modo ab haereticis convincatur.

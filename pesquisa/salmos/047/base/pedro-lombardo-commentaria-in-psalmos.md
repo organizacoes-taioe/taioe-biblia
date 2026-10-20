@@ -1,0 +1,54 @@
+# Pedro Lombardo, Commentaria in Psalmos
+- Autor: Pedro Lombardo (c. 1100–1160)
+- Obra: Commentaria in Psalmos (Magna glosatura)
+- Passagem: Sl 46 (Vulgata), que corresponde ao Sl 47 hebr.
+- Edição: PL 191, 454C–458B
+- Fonte: https://mlat.uzh.ch/php_modules/download.php?idno=11455&type=file-txt
+- Cobre: o salmo inteiro
+- Oriental: não
+- Língua: la
+- Baixado: 2026-10-20, por pesquisa/ferramentas/base/lat-lombardo.py
+- Leitor: https://mlat.uzh.ch/browser/cps_2.PetLom.CoInPs3 (abre a obra inteira; procurar o título do salmo)
+- Nota: No fim do trecho vem a «COLLATIO IN PSALMUM» do editor da PL (variantes hebraicas e gregas): não é de Lombardo.
+
+---
+
+PSALMUS XLVI.
+
+PSALMI TITULUS: « IN FINEM PSALMUS DAVID PRO FILIIS CORE. »
+
+[col. 453D] Omnes gentes. [Aug., Gl. int., Hier., Cassiod., Hier.] Titulus. In finem, psalmus David pro filiis Core. Gentes quas in praecedenti psalmo vocavit ad fidem jam conversas, in hoc psalmo invitat ad laudem. Vel hae sunt filii Core, id est filii passionis. Et est sensus. Psalmus iste, est David prophetae, qui hic loquitur in voce apostolorum, habitus pro filiis Core, id est pro conversis gentibus dirigendis, in finem, id est in Christi laudem. Intentio. Monet ad laudem. Modus. Bipartitus est psalmus. Primo gentes ad [col. 454D] quas gratias transivit, invitat ad laudem Dei. Secundo ascensio et regnum Dei describitur. Unde monet instanter psallere, ibi, ascendit Deus in jubilo. In voce ergo apostolorum gentes ad laudem monens ait: VERS. 1.-- « Omnes gentes, plaudite manibus; jubilate Deo in voce exsultationis. »
+
+Omnes gentes. [Aug.] Quasi dicat: Et si insultent pueri, scilicet Judaei, dicentes: Ascende, calve (IV Reg. II). Vos, omnes gentes, ad quas transivit gratia, non modo Judaei, plaudite manibus, id est gaudete bonis operibus, jubilate Deo in voce exsultationis. [col. 455A] Quasi dicat: Concordet manus, et lingua illa operetur. Haec confiteatur. Unde in Levitico, caput turturis jubetur retorqueri ad ascellas (Levit. V). Nostra editio habet ad pennulas.
+
+VERS. 2.-- « Quoniam Dominus excelsus terribilis; rex magnus super omnem terram. »
+
+Quoniam. [Cassiod., Aug., Alcuin., Aug., Cassiod., Alcuin.] Hae sunt causae jubilandi et plaudendi: quoniam Dominus quem irriserunt pueri, est excelsus, id est potens, quos vult, et terribilis ascendendo coelum, qui prius despicabilis apparuit. Vel, terribilis quia judicaturus in potestate, et rex magnus, quia suos regit, super omnem terram, non tantum super Judaeos. Quod ostensum est in titulo crucis superposito, tribus linguis inscripto.
+
+[col. 455B] VERS. 3.-- « Subjecit populos nobis; et gentes sub pedibus nostris. »
+
+Subjecit populos nobis. [Cassiod., Aug., Cassiod., Rem.] Loquitur in persona Ecclesiae. Quasi dicat: Et ideo etiam plaudite, quia subjecit populos nobis, id est universali Ecclesiae. Hoc enim dicere communiter omnibus fidelibus convenit, quibus omnes extrinseci sunt. Quanti enim modo currunt ad Ecclesiam nondum Christiani rogantes auxilium Ecclesiae? Subveniri sibi temporaliter volunt, et si in aeternum nobiscum regnare adhuc nolunt. Et gentes sub pedibus nostris. Sic enim exaltata est Ecclesia, ut omnes nondum credentes sub pedibus habeat, quia Ecclesiae auxilium quaerunt, atque temporaliter ei serviunt. [col. 455C] Vel in persona apostolorum dicentium sic: Subjecit nobis, apostolis qui de Judaea sumus, populos gentium. Passi enim a suis, honorantur a gentibus. Et gentes sub pedibus nostris, id est sub praedicatione nostra. Per pedes praedicatores accipe, quibus populi subjecti sunt. Vel ita in persona eorumdem apostolorum; Deus subjecit sibi populos, id est Judaeos, nobis, associandos, et gentes, id est gentiles credentes, sub pedibus nostris, id est sub praedicatione nostra, cui obediunt, et VERS. 4.-- « Elegit nobis haereditatem suam; speciem Jacob, quem dilexit. »
+
+Elegit, [Cassiod., Alcuin., Aug.] non merito nostro, sed sua gratia, dicit Ecclesia, scilicet dare nobis; et si ad Judaeos venerit haereditatem suam, id est [col. 455D] vitam aeternam, quam haereditatem speciem, id est pulchritudinem Jacob, id est posterioris populi, quam pulchritudinem. Vel quem Jacob dilexit. Coelestis haereditas pulchritudo 101 est Christiani populi, in qua speciosus erit, fulgens sicut sol, qui nunc est abjectus. Vel in persona apostolorum sic, elegit dare nobis haereditatem suam, multorum populorum, ut colamus eam, gladio praedicationis corda eorum ferientes, et malitiam destruentes. Quam speciem Jacob, id est similes Jacob, vel significatos a Jacob, scilicet qui terrena dant pro coelestibus, ut Jacob fecit, qui dedit edulium lentis pro primogenitis Esau (Gen. XXVII), quod fuit ex gratia, quia eum dilexit, Esau reprobato (Malach. I). Unde hic sequitur, quem dilexit.
+
+[col. 456A] PARS. II. Διάψαλμα. VERS. 5.-- « Ascendit Deus in jubilo; et Dominus in voce tubae. »
+
+Ascendit. [Cassiod., Alcuin., Aug., Cassiod.] Secunda pars, ubi ascensio, et regnum Dei describitur, unde instanter monet psallere, quasi dicat: Nobis subjecit, et potuit, quia ascendit Deus, id est Christus in jubilo, quia gaudium admirantium apostolorum non poterat exponi. Est enim jubilus ineffabile gaudium, quod nec taceri potest, nec exprimi valet, quod Ecclesia praesentat in praecipuis solemnitatibus, circa eamdem vocem varias formando melodias, ut in natali Domini cantatur. Tanquam sponsus, quasi non valens exprimere meritis hilaritatem sentiens de se. Sicut Jeremias qui ait A, a, a, Domine Deus, puer sum, nescio loqui (Jer. I). Et [col. 456B] Moyses postquam coepit loqui cum Domino, dicit se esse factum tardioris et impe itioris linguae (Exod. IV); qui omni Aegyptiorum sapientia eruditus fuerat. Nam cum quis accedit ad intelligendum et loquendum de Verbo, quod erat in principio (Joan. I)apud Patrem, mens deficit, vox silet. Et Dominus in voce tubae. Ibi enim audita est vox tubae, id est vox manifesta angelorum clamantium: Viri Galilaei, quid hic statis aspicientes in coelum, etc. (Act. I). Quod ideo factum est ut mundus firmius crederet. Quod tales praecones, scilicet apostoli et angeli confirmarent. Ergo VERS. 6.-- « Psallite Deo nostro, psallite: psallite regi nostro, psallite. »
+
+Psallite Deo nostro, [Cassiod., Aug., Cassiod.] [col. 456C] id est operibus laudate eum, quem ut hominem irriserunt alieni, sed est et Deus. Psallite assidue regi nostro, id est Christo, psallite. Valde est salutare quod jam tam crebro repetitur. Ideo psallite.
+
+VERS. 7.-- « Quoniam rex omnis terrae Deus; psallite sapienter. »
+
+Quoniam, [Cassiod., Aug., Cassiod., Aug.] ipse est Deus, qui creat, et rex creata gubernans. Rex dico jam omnis terrae, quia ab omni terra agnoscitur. Non est rex tantum partis terrae, ut Jupiter Cretae, et Mars Thraciae; psallite dico, sapienter, Docet hic quomodo sit psallendum, scilicet sapienter, olim sine sensu psallebant, dum collebant lapides. Nemo sapienter facit, quod non intelligit. Et [col. 456D] debetis psallere, quia VERS. 8.-- « Regnabit Deus super gentes; Deus sedet super sedem sanctam suam. »
+
+Regnabit, vel regnavit, Deus, [Cassiod., Aug., Hier.] quasi dicat: Qui humilem contemnunt, saltem potestati ejus succumbant. Regnabit dico, super gentes, omnes qui olim super unam gentem Judaeorum; modo impleta est haec prophetia: Deus sedet super sedem sanctam suam, id est, super coelos ad dexteram Patris regnans per saecula. Vel sedes sancta, sunt throni virtutes et sancti. Et est super sedem sanctam suam, id est super angelos et justas animas. Quomodo regnabit? quia etiam VERS. 9.-- « Principes populorum congregati [col. 457A] sunt cum Deo Abraham; quoniam dii fortes terrae vehementer elevati sunt. »
+
+Principes omnium populorum [Aug., Hier., Alcuin.] non unius proprii tantum, id est primitivi omnium gentium, congregati sunt, id est, convenerunt credendo cum Deo Abraham, id est in Christo, qui est Deus Abrahae, qui habet filios de lapidibus (Matth. III). Quasi dicat: Expulsis Judaeis gentes ab oriente et ab occidente venientes, in filios Abrahae succedunt habentes promissionem (Matth. VIII). Unde sequitur, quoniam dii; quasi dicat ideo congregati sunt: Quoniam dii fortes terrae, id est Judaei praesumentes de se terra, vehementer elevati sunt, id est valde superbierunt. Quasi dicat: Fracti sunt rami, ut humilis oleaster inseratur (Rom. XI). [col. 457B] Vel ita: ideo congregati, quoniam dii terrae, id est apostoli, fortes, quos neque mors neque vita separabit a charitate Christi (Rom. VIII), vehementer elevati sunt doctrina et miraculis.
+
+COLLATIO IN PSALMUM XLVI: « OMNES GENTES, » etc.
+
+VERS. 4.-- Elegit nobis haereditatem suam. NAHALATENU, id est haereditatem nostram, juxta Hebr. quod videmus. Vel NAHALATENNU cum punctulo [col. 458A] dages, id est haereditatem ejus, seu suam secundum LXX. Nec perinde refert ad sententiam. Nam haereditas est Dei efficienter et in causa, et est nostra etiam dono.
+
+VERS. 9.-- Principes populorum congregati sunt cum Deo Abraham. Hier. et plerique alii, principes populorum congregati sunt, supple, ut sint, populus Dei Abraham. Vel ut Munsterus vult, adjunguntur populo Dei Abraham. Ubi perspicue cernitur LXX pro populo legisse praepositionem cum, propterea quod in Hebr. duae litterulae, scilicet aim, et men sine accessione notularum pro legentis arbitrio, possunt facere praepositionem cum, aut nomen populus, hoc modo, , si legas im, id est cum, quomodo posuerunt LXX IM; si legas am, id est populus AM, quemadmodum alii intelligunt.
+
+Quoniam dii fortes terrae vehementer elevati sunt. Hieronymus, quoniam dii scuta terrae vehementer elevati sunt; Sanctes, quoniam Dei sunt scuta terrae, vehementer elevatus est; Pellicanus, Deo sunt protectores [col. 458B] terrae, valde elevatus est; Munsterus, quo dilucidiorem faceret sententiam quam concipiebat, addidit de suo sic, eo quod Dei sit velut scuto protegere terram, qui valde exaltatus est. Quod si ad verbum reddas Hebraeum, dicere poteris, quoniam diis scutis terrae valde elevatis, quod quia subobscurum erat, clariorem merito reddiderunt sensum LXX, quoniam dii fortes terrae vehementer elevati sunt. Accedit satis Nebiensis, dii scuta terrae vehementer elevati sunt. Graeci tamen codices habent τοῦ Θεοῦ οἱκραταιοί hoc est, dii fortes.

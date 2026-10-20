@@ -1,0 +1,42 @@
+# São Bruno de Segni, Expositio in Psalmos
+- Autor: São Bruno de Segni (c. 1045–1123)
+- Obra: Expositio in Psalmos
+- Passagem: Sl 15 (Vulgata), que corresponde ao Sl 16 hebr.
+- Edição: PL 164, 739B–742B
+- Fonte: https://mlat.uzh.ch/php_modules/download.php?idno=10806&type=file-txt
+- Cobre: o salmo inteiro
+- Oriental: não
+- Língua: la
+- Baixado: 2026-10-20, por pesquisa/ferramentas/base/lat-bruno-segni.py
+- Leitor: https://mlat.uzh.ch/browser/cps_2.BruAst.ExInPs3 (abre a obra inteira; procurar o título do salmo)
+- Nota: O Sl 116 (Vulgata) aparece no original com o título «PSALMUS CXV» repetido; o corte o conserta.
+
+---
+
+PSALMUS XV. TITULI INSCRIPTIO IPSI DAVID.
+
+De illa tituli inscriptione loquitur, quae Hebraicis, graecis, et latinis litteris facta est, et super caput Salvatoris nostri, in cruce pendentis posita est. In qua videlicet inscriptione continebatur: « Jesus [col. 739C] Nazarenus Rex Judaeorum. » Quod autem ait, ipsi David, ad ipsum Christum Dominum, revera manu fortem, haec omnia, quae in hoc psalmo dicuntur referenda esse ostendit.
+
+« 324 Conserva me Domine, quoniam in te speravi. » -- « Sicut anima rationalis, et caro unus est homo, ita Deus et homo unus est Christus (Symb. Athan.). » Quoties igitur Salvator noster aliquid petit, quoties se conservari, se adjuvari, et liberari postulat, quoties se in Deo sperare, vel confidere, vel aliquid tale dicit, nihil ad divinitatem, sed omnia ad humanitatem referenda sunt. Divinitas enim Christi, qua Patri per omnia aequalis et similis est, nihilo indiget. Dicat igitur Christus Dominus, non secundum divinitatem, sed secundum humanitatem: [col. 739D] « Conserva me, Domine, quoniam in te speravi. » Prope habebat, cui loquebatur, ibi erat, in quem sperabat, humanitas divinitatem rogat, non timore perterrita, quae tanto adjutorio fulciebatur, sed ut verum hominem se ipsum ostenderet, talia loquebatur: « Dixi Dominus meus es tu. » Unde hoc probas? « Quoniam bonorum meorum non indiges. » Quae sunt igitur bona tua? « Omnia quae habet Pater mea sunt (Joan. XV, 16). » Et Pater, quid habet? Omnia quaecunque sunt sibi bona, sunt et illius et mea sunt. [col. 740A] Nihilo indiget Pater, nihilo indiget Filius, et Spiritus sanctus Deus est, et unus Deus, quia ipse solus est, qui suis bonis contentus est, et de alienis bonis nihil habet.
+
+« Sanctis, qui in terra sunt ejus mirificavi voluntates meas inter illos. » Mirificavit enim Dominus, multumque mirabiles fecit voluntates suas in omnibus sanctis, qui in terra ejus sunt. Quidquid enim in hoc mundo est, in terra illius est, qui cum omnium dives esset, egenus et pauper fieri, et tot et tanta pro nobis sustinere voluit. Caeteri vero praeter sanctos, et eos, qui inter illos sunt, de his Salvatoris nostri voluntatibus non admirantur, quia nihil horum verum esse credunt.
+
+« Multiplicatae sunt infirmitates eorum, postea [col. 740B] acceleraverunt. » Istae autem infirmitates, quas sancti, et caeteri, qui inter illos erant, qui eorum doctrina, et praedicatione ad fidem Christi conversi sunt, prius quidem multiplicatae erant; sed postea cum Christus Dominus praedicaret, et ad fidem eos vocaret, acceleraverunt, cucurrerunt, crediderunt, et sanati sunt. Et multos quidem secundum carnem, plures vero secundum animam sanavit. Unde et has infirmitates, quas multiplicatas fuisse dicit, non corporum, sed animarum intelligere debemus.
+
+« Non congregabo conventicula eorum de sanguinibus » Hoc in loco in bona significatione conventicula accipiuntur. Haec sunt illa conventicula, de quibus Dominus ait: « In domo Patris mei mansiones multae sunt (Joan. XIV, 2). » In haec igitur [col. 740C] conventicula, et in has domos congregabuntur sancti, qui quamvis infirmi, et peccatores prius fuissent (quod in sanguinibus significatur) omnes tamen, qui in illud convenient, puri et sancti ab omni vitiorum sorde mundati erunt. « Nec memor ero nominum illorum per labia mea. » Quales ipsi erant, talia prius nomina habebant. Vocabuntur enim fornicatores, adulteri, homicidae, sacrilegi, et aliis nominibus, quibus mali homines vocari solent. Nunc autem et dii et filii Dei nominantur. « Ego, inquit, dixi: dii estis, et filii Excelsi omnes (Psal. LXXXI, 6). »
+
+« Dominus pars haereditatis meae, et calicis mei. » Isti, inquit, sunt haereditas mea, quam videlicet haereditatem calicem passionis bibendo acquisivi. [col. 740D] De quibus Apostolus ait: « Empti enim estis pretio magno, glorificate, et portate Deum in corde vestro (I Cor. VI, 20). » Fuit autem Dominus pars calicis Christi, quia ejus passioni compassus est. Ostensum est igitur quae sit haereditas Christi, et quae sit haereditas sanctorum. Solum enim Dominus haereditas sanctorum est; quia, spretis omnibus quae in mundo sunt, solum Dominum in partem sibi elegerunt. Bona commutatio, ut et ipsi sint haereditas Domini, et in haereditatem habeant Dominum.
+
+[col. 741A] « Tu es, qui restituisti haereditatem meam mihi. » Humanitas loquitur, et divinitati gratias agit, cum is fortitudinem diaboli vicit, cujus munere haereditatem suscepit.
+
+« Funes ceciderunt mihi in praeclaris. » Funibus, et perticis haereditates suas homines dividunt, quos videlicet funes aliquando in bonam terram, aliquando in sterilem et lapidosam, aliquando etiam in vepres, et spinas cadere necesse est. Sed Dominus commendans haereditatem suam, totam praeclaram, et fecundam esse ostendit, dum sibi funes in praeclaris eccidisse dicit. Et si fortasse, quod saepe contingit, aliis praeclara esse videatur, sibi tamen per omnia praeclara esse videtur. Unde et subditur: « Etenim haereditas mea praeclara est mihi. »
+
+[col. 741B] « Benedicam Dominum, qui tribuit mihi intellectum. Insuper est hoc quoque: benedicam Dominum, quod usque ad noctem increpaverunt me renes mei. » Laetus Dominus 325 et Salvator noster de tam praeclara haereditate suo labore conquisita, de omnibus quae fecit, et quae a Judaeis passus est, Deo Patri benedicit, et gratias agit. Bonus intellectus, bona doctrina, et praedicatio Christi, per quam diabolus victus est, et mundus a morte liberatus. Hic est ille intellectus, et illa doctrina, de qua ipse alibi ait: « Mea doctrina non est mea (Joan. VII, 16). » Erat enim sua secundum divinitatem, sed non erat sua secundum humanitatem, Unde intellectum suum non suum esse, sed sibi a Deo tributum esse dicit. Renes autem ejus Judaei [col. 741C] sunt, de quibus secundum carnem originem duxit. Isti autem eum increpare, blasphemare, maledicere, et crudeliter persequi usque ad mortem, quam per noctem intelligimus, non destiterunt. Ipse tamen eorum persecutiones non curabat, tanto talique ipsius divinitatis, quae in ipso erat, munitus praesidio, et hoc est quod dicit.
+
+« Providebam Domino in conspectu meo semper; quoniam a dextris est mihi ne commovear. » Non est commotus, id est iratus, ut in aliis fieri solet, Salvator noster in illa sua tam dura passione; sed e contrario pietate et misericordia fessus, pro ipsis suis crucifixoribus orabat, dicens: « Pater, ignosce illis, quia nesciunt quid faciunt (Luc. XXIII, 34). » Sic igitur divinitas a dextris ejus erat, quae non ad [col. 741D] iram, et vindictam, sed ad pietatem et misericordiam eum provocabat.
+
+« Propter hoc delectatum est cor meum. » Propter hoc, inquit, delectatum est cor meum, quia divinitas semper mihi a dextris est, quae me in omnibus dirigit, et custodit. « Et exsultavit lingua mea. » Lingua, videlicet interioris hominis, per quam intellectus, de quo modo diximus, significatur. « Insuper [col. 742A] et caro mea requiescet in spe. » In spe utique velocis et cito occurrentis; unde et subditur: « Quoniam non derelinques animam meam in inferno, nec dabis sanctum tuum videre corruptionem. » Divinitas enim simul cum anima in inferno descendit, nec tamen corpus in sepulcro dereliquit. Anima a corpore separari potuit, divinitas autem non potuit, quia Deus ubique est, et omnia continet, Indignum valde esse, ut illa caro sanctissima corruptionem aliquam videret, quae sine omni corruptione de Virgine nata, sine omni peccato in hoc mundo est conversata.
+
+« Notas mihi fecisti vias vitae. » -- « Exivi, inquit, a Patre, et veni in mundum; iterum relinquo mundum, et vado ad Patrem (Joan. XVI, 28). » Omnes [col. 742B] viae mihi notae sunt, et eundi, et redeundi itinera cognovi.
+
+« Adimplebis me laetitia cum vultu tuo. » Deum semper videre, et cum illo semper esse summa aetitia est. « Delectationes, » gaudium et exsultatio erunt mihi sedenti « in dextera tua usque in finem. »

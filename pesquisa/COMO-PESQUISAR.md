@@ -23,6 +23,41 @@ capítulo seguinte se pesquise mais depressa. Esta pasta não vai ao ar (só `pu
   `--lema παράκλησις` (todas as ocorrências; compara sem acentos).
   Estudos de palavra (ex.: `estudos/nefesh/`) guardam aqui os dados; o texto vai para `revisao/estudos/`.
 
+## Pré-pesquisa (`<livro>/<ccc>/base/`)
+
+Pedido do Gere (20/10/2026): baixar as fontes antes e deixá-las organizadas por capítulo, para que,
+quando ele pedir um capítulo, o grosso da pesquisa já esteja feito, e a pesquisa da hora parta dali
+para buscar os comentários menos óbvios.
+
+- `<livro>/<ccc>/base/<autor>-<obra>.md`: o trecho de uma obra que comenta o capítulo, na língua
+  original, domínio público, já cortado (só o que trata deste capítulo, inteiro, sem resumir).
+  Cabeçalho obrigatório, uma linha por campo, logo depois do título:
+
+  ```
+  # Santo Agostinho, Enarrationes in Psalmos
+  - Autor: Santo Agostinho (354–430)
+  - Obra: Enarrationes in Psalmos
+  - Passagem: Sl 36 (Vulgata), sermões 1–3
+  - Edição: PL 36, 355–397
+  - Fonte: https://… (a página exata de onde veio o texto)
+  - Cobre: o salmo inteiro | vv. 1–11 | só citações dos vv. 3 e 9
+  - Oriental: sim | não
+  - Língua: la | grc | syr | hy | cop | en (só tradução antiga para conferir)
+  - Baixado: 2026-10-20, por pesquisa/ferramentas/base/<script>.py
+  ```
+- `base/_ausentes-<grupo>.md`: quem se confirmou que **não** comenta o capítulo («Hilário não
+  comentou o Sl 37»), uma linha por autor. `base/_pistas-<grupo>.md`: citações do capítulo em
+  outras obras, ainda não seguidas (autor, obra, passagem, URL).
+- `<livro>/<ccc>/BASE.md`: o índice, gerado por `python -I -X utf8 ferramentas/base-indice.py
+  <livro> <cap>` (ou `--todos`); não se edita à mão.
+- Os scripts que baixam e cortam cada obra ficam em `ferramentas/base/` (um por obra ou família
+  de obras, com o uso no topo), para refazer ou estender a outros capítulos sem repensar.
+- `<livro>/proximos.md`: o que a pesquisa de um capítulo achou sobre outro capítulo do mesmo
+  livro. Ao abrir um capítulo, ler a seção dele; ao fechar, registrar o que apareceu de passagem.
+- A pré-pesquisa só baixa e corta: não traduz nem escolhe. Os `achados-*.json` continuam sendo
+  da pesquisa do capítulo, que lê `BASE.md`, os textos de `base/` e as pistas, e então procura
+  o resto (citações em outras obras, sermões, santos modernos, Magistério, liturgia).
+
 ## Formato de `achados.json` (uma lista)
 
 ```json

@@ -1,0 +1,43 @@
+# pseudo-Jerônimo, Breviarium in Psalmos
+- Autor: pseudo-Jerônimo (autor incerto, séc. VII–VIII?)
+- Obra: Breviarium in Psalmos
+- Passagem: Sl 31 (Vulgata), que corresponde ao Sl 32 hebr.
+- Edição: PL 26, 911D–914C
+- Fonte: https://mlat.uzh.ch/php_modules/download.php?idno=7183&type=file-txt
+- Cobre: o salmo inteiro
+- Oriental: não
+- Língua: la
+- Baixado: 2026-10-20, por pesquisa/ferramentas/base/lat-pseudo-jeronimo.py
+- Leitor: https://mlat.uzh.ch/browser/cps_2.AuInAuH.BrInPs (abre a obra inteira; procurar o título do salmo)
+
+---
+
+PSALMUS XXXI.
+
+Intellectus David. Intellectus Christi. Duplex intellectus est in isto titulo, maxime de illo Publicano et Pharisaeo qui in templo orabant (Luc. XVIII): quia unus se justificabat; et alius se condemnabat, id est, accusabat. Psalmus vocem continet prophetae, ostendentis hominem non propriis meritis, sed Dei gratia posse salvari, si confiteatur admissa.
+
+[col. 912A] Beati quorum remissae sunt iniquitates et quorum tecta sunt peccata. Beatus immortalis, laudabilis sive gloriosus. Sed tamen nullus potest apud se esse beatus, nisi ab illo accipiat qui justificat impium: hoc est, Deo. Unde et Paulus dicit: Credenti autem in eo qui justificat impium, deputatur fides ejus ad justitiam (Rom. IV). Beati quorum remissae sunt iniquitates: quorum peccata per confessionem a Domino diluuntur. Quibus modis remittuntur peccata? Tribus. Remittuntur per baptismum: teguntur per charitatem, non imputantur per martyrium. Et quorum tecta sunt peccata, per charitatem: secundum illud: Charitas operit multitudinem peccatorum (Jacob. V). Vel, quorum tecta sunt peccata: hoc est, ut hic velentur per poenitentiam, ne in judicio revelentur.
+
+[col. 912B] Beatur vir cui non imputabit Dominus peccatum. Qui se in hoc saeculo diligenter potuerit expurgare, vel per martyrium. Quod tegitur, non videtur: quod non videtur, non imputatur; quod non imputatur, nec punietur. Nec est in ore ejus dolus. Hoc est in illius ore qui se confitetur esse peccatorem, sicut Nathanael. Unde Dominus dixit: Ecce vere Israelita, in quo dolus non est (Joan. I). Et de illo publicano, de quo superius diximus, qui se confitebatur esse peccatorem dicens: Deus, propitius esto mihi peccatori (Luc. XVIII). Nec est in ore ejus dolus, sed in veritate credens Deum, hoc corde retinuit, quod ore confitebatur.
+
+Quoniam tacui, inveteraverunt in me omnia ossa mea. Non protuli confessionem ad salutem: ideo omnis [col. 912C] fortitudo mea in carnis infirmitate consenuit. Quoniam tacui, inveteraverunt in me omnia ossa mea, dum clamarem tota die. Tacui, vox malorum est. Tacui: id est, tacent illorum peccata, et in confessione nolunt dicere. Inveteraverunt ossa, id est, virtutes quas debuerant habere, inveteraverunt per peccatum. Dum clamarem: id est, clamant. Si aliquid boni habent: per vanitatem demonstrant, ut ille Pharisaeus impius faciebat, qui dicebat: Deus, gratias tibi ago, quia non sum sicut caeteri homines, raptores, adulteri. Dum clamarem tota die: in istius vitae momento.
+
+Quoniam die ac nocte gravata est super me manus tua. Potentia tua. Cum essem impius, et blasphemus: gravata est super me manus tua: id est, potestas tua: quia qui hic non emendant, gravatur super [col. 912D] illos manus Dei, id est, potestas vindictae in die judicii. Conversus sum in aerumna. In assidua tribulatione flagellorum tuorum. Dum configitur mihi spina. Stimulus conscientiae peccatricis. Conversus sum in aerumna dum configitur mihi spina: aerumna: id est, miseria. Dum configitur mihi spina: id est, dum pungit me conscientia peccati.
+
+Delictum meum cognitum tibi feci, et injustitias meas non abscondi. Sed confessus sum, et patefeci omnia. Scio enim te cito remittere delicta, cum tibi fuerint integre reserata, et ideo dixi: Confitebor adversus me injustitias meas Domino. Non enim adversus Dominum, sed adversus me has pronuntiavi ut justificarer: Dixi, pronuntiavi adversus [col. 913A] me injustitias meas Domino, et tu remisisti iniquitatem peccati mei. In persona illorum dicit propheta qui convertuntur, sicut ille filius qui peregre profectus est, et dixit: Ibo ad Patrem meum (Luc. XV). Dixit in corde, ubi Deus videtur: Et tu remisisti impietatem peccati mei. Quae prius gesseram, misericorditer indulsisti.
+
+Pro hac impietate orabit ad te omnis sanctus in tempore opportuno. Tempus opportunum ad exorandum pro peccatis, haec vita est: in qua ideo sancti orant: quia nemo est a peccatis immunis. Pro hac iniquitate, vel pro hac remissione, quod superius dixit: Beati quorum remissae sunt iniquitates, et quorum tecta sunt peccata. Omnis sanctus: hoc est, per baptismum; et qui post baptismum peccat, postea dimittitur [col. 913B] illi per poenitentiam, aut per martyrium.
+
+Verumtamen in diluvio aquarum multarum ad eum non approximabunt. Multi fructus diluviorum in judicio impios vallabunt, qui sanctis nocituri non erunt. Verumtamen in diluvio aquarum multarum ad eum non appropinquabunt. Sine angustiis, ait, quae quasi aquis inundantibus comparantur, ad Deum sancti appropinquare non poterunt: quia qui sustinuerit usque in finem, hic salvus erit. Vel, in diluvio aquarum: id est, varietate doctrinarum haereticorum: per hoc ipsi ad Deum non approximabunt.
+
+Tu es mihi refugium a tribulatione quae circumdedit me. Vox Ecclesiae ad Christum. De hujus saeculi pressuris haec dicit. Exsultatio mea. Quia in te gaudeo. Erue me a circumdantibus me. Vel ab inimicis [col. 913C] publicis, vel a peccatis. Dum dixit, exsultatio mea, redime me a circumdantibus me: quomodo dicit, Redime me, cum ille qui redimitur in captivitate est, et illi qui exsultant, redemptione non indigent? Hoc ad sensum pertinet. Vox illorum est, qui cum Deo sunt, et rogant pro illis qui in ista captivitate tribulantur.
+
+Intellectum tibi dabo, et instruam te in via hac qua gradieris. Qualem intellectum dat Deus Ecclesiae suae. Ut intelligat pro qua causa anxiatur sanctus, et facit prosperare peccatores. Intellectum dabo tibi, et instruam te in via hac qua gradieris. In via, scilicet confessionis istius doceam te sapientiam, ut non recedas ab ea. Intelligere te faciam, et docebo te in via hac qua gradieris. Vox Domini loquentis inducitur, [col. 913D] et docentis, quomodo homo suum mereatur auxilium, si Dei videlicet praecepta custodiens recto feratur itinere. Itaque ad perfectum munditiae dicit hominem venire non posse. Et quamquam ad perfectum munditiae venire non valeat: tamen in animalium modum pronus non feratur in vitia. Firmabo super te oculos meos. Vox Christi ad Ecclesiam. Firma super te oculos meos: id est, aspectum divinitatis. Firmabo super te oculos meos, ut in dilectione luminis mei permaneas.
+
+Nolite fieri sicut equus, etc. Qui non Dei voluntate, sed proprio motu se regere volunt, et effrenes in luxuriam decidunt, hos propheta coercet verbis terribilibus dicens:
+
+[col. 914A] In chamo et freno maxillas eorum constringe. Freno et chamo moderationis suae, Deus coarctat impiorum supervacuas blasphemias. Equus, indomitus: mulus, piger. Hoc rogat Ecclesia Deum Patrem, ut per frenum, id est, praedicationem, populum gentilem, quos equos nominavit, de lata via et spatiosa saeculi hujus, faciat ad se appropinquare, et populum Judaicum, quos mulos nominavit, qui piger est ad Deum credendum, per chamum, id est, contritionem cordis faciat ad se venire. Qui non approximant ad te. Sed per superbiam elongantur.
+
+Multa flagella peccatorum. Quia aliqui peccatores sunt, quorum in ista vita initiantur flagella, quae postea in futuro habebunt sine fine: Multa flagella peccatorum: qui poenitentiam agere noluerunt. Sperantes [col. 914B] autem in Domino misericordia circumdabit. Illa misericordia, ut vitam mereantur aeternam. Qui rectam spem et fidem in Deo habent: ipsos misericordia Dei circumdabit, ut illud: Misit angelum Dominus in circuitu timentium eum (Psal. XXXII); et alibi: Custodit Dominus omnes diligentes se (Psal. CXLIV).
+
+Laetamini in Domino, et exsultate, justi. Propheta hortatur Ecclesiam laetari de spe vitae aeternae et regenerationis: tamen laetatur et hic Ecclesia in tribulatione. Et gloriamini omnes recti corde. Ut Paulus: Qui gloriatur, in Domino glorietur (I Cor. I). Recti corde dicuntur, quibus omnia judicia Dei placent, et se accusant de suis peccatis, et Deum, sive in prosperis, sive in adversis, semper laudant: Laetamini [col. 914C] in Domino, et exsultate, justi; et gloriamini, omnes recti corde. Ut gloria vestra ad eum referatur, sicut ait Apostolus: Qui gloriatur, in Domino glorietur. Quem supplices deprecemur, ut obtectis per indulgentiam peccatis, nec reputatis ultra delictis, mereamur sanctorum exsultationis perpetuae esse participes.

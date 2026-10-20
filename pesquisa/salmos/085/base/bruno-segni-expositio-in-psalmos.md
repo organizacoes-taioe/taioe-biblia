@@ -1,0 +1,40 @@
+# São Bruno de Segni, Expositio in Psalmos
+- Autor: São Bruno de Segni (c. 1045–1123)
+- Obra: Expositio in Psalmos
+- Passagem: Sl 84 (Vulgata), que corresponde ao Sl 85 hebr.
+- Edição: PL 164, 1026A–1029A
+- Fonte: https://mlat.uzh.ch/php_modules/download.php?idno=10806&type=file-txt
+- Cobre: o salmo inteiro
+- Oriental: não
+- Língua: la
+- Baixado: 2026-10-20, por pesquisa/ferramentas/base/lat-bruno-segni.py
+- Leitor: https://mlat.uzh.ch/browser/cps_2.BruAst.ExInPs3 (abre a obra inteira; procurar o título do salmo)
+- Nota: O Sl 116 (Vulgata) aparece no original com o título «PSALMUS CXV» repetido; o corte o conserta.
+
+---
+
+PSALMUS LXXXIV. IN FINEM FILIIS CORE, PSALMUS.
+
+Multa bona in hoc psalmo promittuntur et dantur filiis Core, quia ipsi soli sunt quibus Christi incarnatio et passio fructuosa fuit. Ipse David loquitur in hoc psalmo, et sic de futuris, quasi de praeteritis loquitur, et dicit Dominum in adventu Filii sui terram suam benedixisse, et de diaboli potestate liberasse.
+
+[col. 1026B] « Ben dixisti, Domine, terram tuam. » In adventu, inquit, Filii tui benedixisti, Domine, terram tuam, quae adhuc sub maledictione illa jacebat, qua primo homini dictum fuerat: « Maledicta terra in opere tuo (Genes. III, 17). » Tuam, inquit, terram benedixisti, illam videlicet quae in te credit, tibique servit; alia vero adhuc sub antiqua maledictione manet.
+
+« Avertisti captivitatem Jacob. » Illius utique Jacob, qui patris benedictionem accipere meruit, per quem populus Christianus significatur, qui Christi sanguine et aqua baptismatis de diaboli potestate liberatus est.
+
+« Remisisti iniquitatem plebis tuae, operuisti omnia peccata eorum. » De populo Christiano loquitur, cui simul cum originali peccato omnia peccata [col. 1026C] in baptismo remittuntur. Unde et alibi dicitur: « Beati, quorum remissae sunt iniquitates, et quorum tecta sunt peccata (Psal. XXXI, 1). »
+
+« Mitigasti omnem iram tuam. » Tanta erat ira et indignatio Dei, usque ad id temporis, ut ipsi quoque patriarchae et prophetae necessario in infernum descenderent.
+
+« Avertisti ab ira indignationis tuae. » Avertisti, inquit, te ab ira indignationis tuae, et quos prius videre nolebas, nunc quasi filios charissimos amplexaris.
+
+« Converte nos, Deus salutaris noster. » Quoniam quidem, inquit, tu gratuita bonitate tua conversus es ad nos et eos, qui multum te offenderunt, respicere dignaris, converte nos quoque ad te, quia viae nostrae [col. 1026D] pravae sunt, per quas incedere soliti sumus. Tu enim es Deus Salvator noster, et in te solo consistit tota salus nostra. « Et averte iram tuam a nobis, ut non in aeternum irascaris nobis. » Sic, inquit, converte nos ad te, et sic avertas iram tuam a nobis, ut nunquam amplius irascaris nobis. Nunquam enim fit quod in aeternum non fit. Unde et subditur: « Neque extendas iram tuam a progenie in progenies. » Fuisti, quasi dicat, iratus primis, rogamus te ne irascaris novissimis. Satis tibi sit quod praecedens progenies sensit iram tuam, amodo ea [col. 1027A] progenies, quae secutura est, inveniat misericordiam tuam.
+
+483 « Deus, tu conversus vivificabis nos, » qui nequaquam, nisi converteres, vivificares nos. Nemo enim vivificabitur, nisi qui a prima conversatione conversus fuerit. « Et plebs tua laetabitur in te, » tota penitus a via mala conversa ad te. Et quia haec tanta conversio, et immutatio nisi per adventum Filii tui fieri non potest, veniat jam diu desideratus, tantoque tempore exspectatus. Et hoc est quod ait: « Ostende nobis, Domine, misericordiam tuam, et salutare tuum da nobis. » In eo enim ostendit Dominus misericordiam suam, quia dedit nobis salutare suum. Haec misericordia omnes alias superavit, quia « proprio Filio non pepercit, et pro [col. 1027B] nobis omnibus tradidit illum (Rom. VIII, 32). » Ostendit quam misericors esset, dum modum misericordiae superascendit. Cum autem haec Propheta tractaret, subito sensit Dominum in se loquentem, suaeque petitioni respondentem, et ait: « Audiam quid loquatur in me Dominus Deus. » Dominus ergo est qui loquitur in prophetis, et ea quae prophetae dicunt, non sunt prophetarum, sed Dei. Unde et discipulis Dominus ait: « Non enim vos estis qui loquimini, sed spiritus Patris mei, qui loquitur in vobis (Matth. X, 20). »
+
+« Quoniam loquetur pacem in plebem suam, et super sanctos suos, et in eos qui convertuntur ad ipsum. » Quid est autem, « loquetur pacem in plebem suam, » nisi, quia dabit pacem populo suo, et [col. 1027C] sanctis suis? Inde enim in Christi nativitate voces angelorum auditae sunt, dicentium: « Gloria in excelsis Deo, et in terra pax hominibus bonae voluntatis (Luc. II, 14). » Quod enim dicitur « hominibus bonae voluntatis, » hoc est quod dicitur, « et in eos, qui convertuntur ad ipsum. » Aliis enim non datur haec pax, nisi his qui bonam voluntatem habent, et qui ad ipsum convertuntur, per quos videlicet soli Christiani significantur. Quid ergo de Judaeis fiet, qui ad ipsum converti noluerunt? Audi Apostolum dicentem: « Caecitas ex parte contigit in Israel (Rom. XI, 25). » -- « Non enim repulit Deus plebem suam, quam praescivit (ibid. 2,). » Ex parte populus ille inconvertibilis fuit; multi tamen ex eis in Christum crediderunt, quorum gratia et inter eos nasci, et [col. 1027D] prius ad eos venire, et prius eis praedicare Dominus voluit. De quibus subditur: « Verumtamen prope est timentibus eum salutare ipsius. » Quamvis, inquit, maxima pars illius [col. 1028A] populi Dei Filium recipere noluit; « verumtamen prope est timentibus eum salutare ipsius. » Neque enim justum esset, ut propter malos bonos abjecerit, et propter inimicos, amici et timentes eum perirent. Propter igitur istos paucos eum timentes et in eum credentes factum est, « ut inhabitet gloria in terra nostra. » Inde enim beatissima Virgo Maria, inde et apostoli fuerunt, de quorum maxima et principali gloria tota laetatur Ecclesia. Hinc est enim quod per prophetam dicitur. « Nisi Dominus Sabaoth reliquisset nobis semen, velut Sodoma essemus, et velut Gomorrha similes fuissemus (Isa. I, 9). »
+
+« Misericordia et veritas obviaverunt sibi, justitia et pax complexae sunt se. » In Christi namque nativitate, et in ejus gloriosissima humanitate evenerunt, [col. 1028B] seseque vicissim complectentes, quia nihil fuit bonitatis, nihil fuit virtutis et honestatis, quod in ipso non fuerit. Quoniam, sicut Apostolus ait: « In ipso requievit omnis plenitudo divinitatis corporaliter (Coloss. II, 9). » Ipse denique est misericordia, ipse est veritas et justitia, ipse est pax nostra, quae fecit utraque unum (Ephes. II). Et haec quidem: « Veritas de terra orta est, et justitia de coelo prospexit. » Beata Virgo Maria et terra vocatur et coelum: terra per naturam, coelum per gratiam; terra, quia de terra facta est, coelum, quia Dei habitatio est. « Veritas igitur de terra orta est, » quia Salvator noster de Virgine natus est; ipse enim et via est, et veritas, et vita (Joan. XIV). « Et justitia de coelo prospexit, » quia idem Dominus Salvator noster, qui [col. 1028C] de ea natus est, quae et coelum vocatur et terra, mundum istum misericorditer respicere, et impios, et peccatores justificare dignatus est. Bene autem coelum dixit, quam terram vocaverat, ne tantae personae injuriam tali nomine fecisse videretur.
+
+« Etenim Dominus dabit benignitatem, et terra nostra dabit fructum suum. » Certissime, inquit, credite, et nullatenus dubitare velitis, quia revera Dominus dabit benignitatem, et sicut per me ipsum, et per alios prophetas promisit, in tempore praefinito mittet nobis Filium suum, et terra nostra, sicutmodo dixi, dabit fructum suum. Felix terra, quae talem fructum dedit! felicissima Virgo, quae talem Filium genuit!
+
+« Justitia ante eum ambulabit. » Justitia, inquit, [col. 1028D] ante eum ambulabit: quia in omnibus justitiam sequetur, et in nullo a justitia deviabit. « Et ponet in via gressus suos. » In via namque justitiae gressus suos ponunt, qui per viam justitiae incedunt. De [col. 1029A] quibus Dominus ait: « Beati, qui esuriunt et sitiunt justitiam, quoniam ipsi saturabuntur (Matth. V, 6). »

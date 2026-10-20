@@ -181,11 +181,9 @@ Não há índice bíblico livre e completo das obras de Agostinho. O que funcion
   «Martyrem non facit poena, sed causa»: En. in Ps. 34, s. 2, 1 e 13; Sermões 275, 1 e 327, 1
   (estes com o Sl 42,1).
 
-## Cartas de São Paulo (primeiro uso: 2Cor 1, 2026-10-18)
+## Cartas de São Paulo
 
-O catálogo das fontes paulinas ficou na pasta do capítulo; ler antes do próximo capítulo de Paulo:
-
-- `../2corintios/001/fontes-agostinho-latinos.md`: o Ambrosiaster carta por carta no Corpus Corporum, a tabela sermão → arquivo do augustinus.it, Ambrósio, Gregório Magno.
+Tudo em `paulo.md` (o mapa das cartas: as obras de cada carta, a tabela das homilias de Crisóstomo e a pré-pesquisa de 2Cor 3–13).
 
 ## 6. Salmo 35 da Vulgata (= Sl 36; 2026-10-19, `salmos/036/relatorio-agostinho.md`)
 
@@ -222,3 +220,7 @@ O catálogo das fontes paulinas ficou na pasta do capítulo; ler antes do próxi
   - Montes = apóstolos e pregadores, nuvens = pregadores (Sl 35,6–7 e Sl 120,1): En. in Ps. 35, 8–9;
     120, 4; *Confissões* XIII, 15, 18; Ep. 140, 71.
   - Não há citação do Sl 35 na *Cidade de Deus*, nem dos vv. 2–3 fora da *enarratio*.
+
+## Por livro
+
+O que é de um livro só (quem comenta que capítulo, o que se achou em cada um) fica no mapa do livro: `numeros.md`, `salmos.md`, `paulo.md`. Aqui ficam o acesso às fontes e o que vale para a Bíblia inteira (20/10/2026).

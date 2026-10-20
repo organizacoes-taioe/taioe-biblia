@@ -1,0 +1,4 @@
+# Pistas de 2Cor 10 — pacote Paulo, 2026-10-20
+
+- Tomás de Kempis, *Imitação de Cristo* II, 6 («Da alegria da boa consciência») **acaba em 2Cor 10,18** (começa em 1,12 sem citá-lo à letra): `../001/textos/kempis-imitacao-2-6.md`; The Latin Library, `kempis/kempis1.shtml`.
+- Pistas gerais (valem para todos os capítulos de 2Cor) estão em `pesquisa/fontes/paulo.md`, seção 7, «Pistas gerais para qualquer capítulo de Paulo»: Marcião e o *Panarion* 42 de Epifânio; as glosas de Staab (Dídimo, Severiano, Ecumênio, Fócio); o Biblindex; a busca em massa nos caches de grego; os sermões de Agostinho fora dos Maurinos; o *Index scripturaire* de Francisco de Sales; Newman; a concordância de Santo Afonso; os discursos dos Papas e o Clerus. As varreduras dos Papas, do Catecismo e de Tomás fora do comentário foram feitas só para 2Cor 1 e 2: **para 2Cor 3–13 ainda não foram feitas**.

@@ -1,0 +1,29 @@
+# Santo Agostinho, Enarrationes in Psalmos
+- Autor: Santo Agostinho (354–430)
+- Obra: Enarrationes in Psalmos
+- Passagem: Sl 22 (Vulgata), que corresponde ao Sl 23 hebr.; uma enarratio
+- Edição: PL 36, 182 (colunas deduzidas do Corpus Corporum)
+- Fonte: https://www.augustinus.it/latino/esposizioni_salmi/esposizione_salmo_024_testo.htm
+- Cobre: o salmo inteiro (todas as enarrationes e sermões)
+- Oriental: não
+- Língua: la
+- Baixado: 2026-10-20, por pesquisa/ferramentas/base/lat-agostinho.py
+- Nota: Texto dos Maurinos (= PL) pelo augustinus.it; itálico (*...*) = citação bíblica; [v N.] = versículo comentado. Cópia usada: http://web.archive.org/web/2016id_/http://www.augustinus.it/latino/esposizioni_salmi/esposizione_salmo_024_testo.htm
+
+---
+
+## Salmo 22 (Vulgata): enarratio (arquivo 024 do augustinus.it)
+
+Christus animarum pastor.
+
+1. [v 1.] *Psalmus ipsi David.* Ecclesia loquitur Christo: *Dominus pascit me, et nihil mihi deerit,* Dominus Iesus Christus pastor meus est, et nihil mihi deerit.
+
+2. [v 2.] *In loco pascuae ibi me collocavit*: in loco pascuae incipientis ad fidem me perducens, ibi me nutriendum collocavit. *Super aquam refectionis educavit me*: super aquam baptismi, quo reficiuntur qui integritatem viresque amiserant, educavit me.
+
+3. [v 3.] *Animam meam convertit. Deduxit me in semitis iustitiae, propter nomen suum.* Deduxit me in angustis itineribus, quae pauci ambulant, iustitiae suae; non propter meritum meum, sed propter nomen suum.
+
+4. [v 4.] *Nam et si ambulem in medio umbrae mortis*: nam et si ambulem in medio vitae huius, quae umbra mortis est. *Non timebo mala, quoniam tu mecum es*: non timebo mala, quoniam tu habitas in corde meo per fidem; et nunc mecum es, ut post umbram mortis etiam ego sim tecum. *Virga tua et baculus tuus, ipsa me consolata sunt*: disciplina tua tamquam virga ad gregem ovium, et tamquam baculus iam ad grandiores filios et ab animali vita ad spiritalem crescentes, ipsa me non afflixerunt, magis consolata sunt; quia memor es mei.
+
+5. [v 5.] *Parasti in conspectu meo mensam, adversus eos qui tribulant me*: post virgam autem, qua parvulus et animalis in grege pascuis erudiebar, post illam virgam cum esse coepi sub baculo, parasti in conspectu meo mensam, ut non iam lacte alar parvulus , sed maior cibum sumam, firmatus adversus eos qui tribulant me. *Impinguasti in oleo caput meum*: laetificasti laetitia spiritali mentem meam. *Et poculum tuum inebrians quam praeclarum est*! et poculum tuum oblivionem praestans priorum vanarum delectationum, quam praeclarum est!
+
+6. [v 6.] *Et misericordia tua subsequetur me omnibus diebus vitae meae*: id est, quamdiu vivo in hac mortali vita, non tua, sed mea. *Ut inhabitem in domo Domini in longitudinem dierum*: subsequetur autem me non hic tantum, sed etiam ut inhabitem in domo Domini in aeternum.

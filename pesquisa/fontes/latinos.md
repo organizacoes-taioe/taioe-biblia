@@ -245,42 +245,6 @@ santo: citar como «Orígenes», sem título, e dizer que é a tradução de Ruf
   PL; a busca na internet por um versículo não dá nada. Se for preciso, baixar as obras completas
   (Wikisource, archive.org) e varrer pelo texto do versículo em castelhano/italiano/francês.
 
-## 7. Aprendido em Nm 13, 2026-10-18 (`numeros/013/relatorio-latinos.md`)
-
-- **O servidor do Corpus Corporum fica lento** (cada `navigate.php` leva 30–40 s quando há várias
-  chamadas em paralelo); listar todas as obras de 30 autores levou mais de meia hora. Melhor: baixar
-  direto pelo `idno` do texto os já conhecidos (as tabelas acima) e, para o resto, listar as obras
-  do autor (uma chamada por autor), escolher pelo nome e só então pedir os textos dessas obras.
-- Texto (`idno`) de obras novas, úteis para o Pentateuco e para o tema da terra prometida:
-
-| autor | obra | texto | PL |
-|---|---|---|---|
-| São Bruno de Segni (2171) | Expositio in Pentateuchum (21519) | **21403** (*In Numeros* começa na linha «INCIPIT EXPOSITIO IN NUMEROS») | 164 |
-| Tertuliano (867) | Adversus Judaeos **62**; Adversus Marcionem **63** | | 2 |
-| Lactâncio (902) | Divinae institutiones IV **6810**; Epitome **6814** | | 6 |
-| Cipriano (878) | Testimonia **21445** | | 4 |
-| Máximo de Turim (1102) | Homiliae **7652** (a Hom. 79 estava entre os sermões de Ambrósio) | | 57 |
-| Beda (1397) | Homiliae **8509**; In Cantica **8455**; In Samuelem **8459**; «In Pentateuchum» (espúrio) **8461** | | 91–94 |
-| Ricardo de São Vítor (2350) | De exterminatione mali **11536**; Benjamin major **11527** | | 196 |
-| «Hugo de S. Victore?» (2229) | Posteriores excerptiones **11052** (= *Allegoriae in VT* e *in NT*, hoje de Ricardo, *Liber exceptionum*); Miscellanea **11093** | | 175–177 |
-| Hugo de São Vítor (2230) | De sacramentis **11082** | | 176 |
-| Honório de Autun (2211) | Speculum Ecclesiae **11000**; In Cantica **10988** | | 172 |
-| São Pedro Damião (928) | De quadragesima et XLII mansionibus **10104**; De bono status religiosi **10076** | | 145 |
-| São Bernardo (2268) | Sermones de diversis **11257**; In psalmum Qui habitat **11246** (e as outras obras, quase todas com `idno` entre 11189 e 11258) | | 183–184 |
-| Ambrósio (958) | Expositio in Ps. 118 **6966**; De Joseph **21359**; De mysteriis **6971** | | 14–16 |
-| Gregório (1165) | Concordia testimoniorum **8103**; In I Regum **21352** | | 79 |
-| Euquério (1068) | Formulae spiritalis intelligentiae **7549** (dicionário de símbolos: «Botrus, Ecclesia, sive corpus Domini») | | 50 |
-
-- **Cornélio a Lápide, *In Numeros***: t. II da ed. Vivès (archive.org `commentariainscr02lapi_0`):
-  página impressa P = imagem `page/n<P+31>.jpg` (Nm 13 = pp. 255–261). O OCR (`_djvu.txt`) mistura
-  as duas colunas; transcrever da imagem o trecho que entrar nos achados.
-- **Corpus Thomisticum inteiro**: as 464 páginas de `iopera.html` (todos os links `c*`, `s*`, `q*`,
-  `o*`) baixam em ~2 min com 10 conexões; a página é ISO-8859-1, e cada parágrafo tem `TITLE="Super
-  Heb., cap. 3 l. 2"`. As citações vêm como «Num. XIII» ou «Num. 13».
-- Busca que funcionou para um capítulo narrativo: as palavras raras da Vulgata Clementina do próprio
-  capítulo (*in vecte*, *phalanga*, *botryo*, *praecoquae*, *compescens murmur*), não só as notas de
-  Migne, que em muitas obras não marcam a citação.
-
 ## 8. Aprendido no Sl 35 (34), 2026-10-17 (`salmos/035/relatorio-latinos.md`)
 
 - Desta vez o Corpus Corporum respondeu rápido (cada texto em menos de 1 min, 6 downloads em
@@ -321,33 +285,9 @@ santo: citar como «Orígenes», sem título, e dizer que é a tradução de Ruf
 - Nos salmos «da Paixão», os medievais (os dois Brunos, Gerhoh, Ruperto, Haimo) leem as
   imprecações como a ruína de Jerusalém, com dureza contra os judeus. Nas imprecações, os
   melhores trechos são de Cassiodoro, Arnóbio, Cassiano (*Coll.* VII, 21), Tomás e Belarmino.
-## 9. Aprendido em Nm 14, 2026-10-18 (`numeros/014/relatorio-latinos.md`)
+## Cartas de São Paulo
 
-- **Reaproveitar os downloads**: os scratchpads das conversas anteriores guardam 528 textos da PL já
-  baixados (pastas `dl/`, `dl/a<autor>/`, `n12/a<autor>/`) e o Corpus Thomisticum inteiro (`ct/`).
-  Um índice pelo cabeçalho de cada arquivo (`cc_idno: N, cc_id: ...`) dispensa o servidor lento.
-- **As notas de Migne ficam no rodapé**: o `grep` em «Num. XIV» acha a nota, não o texto. Achar o
-  marcador `[N]` correspondente antes da nota e mostrar o texto em volta dele.
-- O texto baixado quebra linhas no meio das frases: normalizar os espaços antes de procurar uma frase.
-- Ids novos úteis: **Ruperto** (2195) *In XII prophetas minores* **10877** (PL 168; *In Osee*, *In
-  Michaeam*, *In Zachariam*... com títulos «IN OSEE PROPHETAM COMMENTARIORUM LIBER...»), *In
-  Cantica* **10876**, *In Job* 10878; **Gregório** *Expositio in VII psalmos poenitentiales*
-  (espúria) **8104**; **Jerônimo** *Dialogus adversus Pelagianos* **7158**, *In Hiezechielem*
-  **21347**; **Bernardo** *De consideratione* **21366**, *Sententiae* **11256**; **Leão Magno**
-  *Sermones* **7631**, *Epistolae* **7630**.
-- Temas transversais e onde estão: os pecados dos pais nos filhos (Êx 20,5; 34,7): Gregório,
-  *Moralia* XV, 51, 57; Tomás, I-II q. 87 a. 8; Jerônimo, Ep. 130, 8 (pensamentos e obras); Bruno de
-  Segni, *In Num.* 14. Moisés intercessor: Gregório, *Moralia* IX, 11 e 24; XX, 5, 14; Ruperto, *In
-  Mich.* I e *In Cant.* VI. Os quarenta anos: Ruperto, *In Osee* V; Pedro Damião, *Collectanea*
-  (sobre Dt 25); Jerônimo, *In Hiez.* IX (Ez 29,11).
-- O comentário de Tomás a **1 Coríntios 7,10–10,33 não existe** (lacuna do texto autêntico).
-
-## Cartas de São Paulo (primeiro uso: 2Cor 1, 2026-10-18)
-
-O catálogo das fontes paulinas ficou na pasta do capítulo; ler antes do próximo capítulo de Paulo:
-
-- `../2corintios/001/fontes-agostinho-latinos.md`: o Ambrosiaster carta por carta no Corpus Corporum, a tabela sermão → arquivo do augustinus.it, Ambrósio, Gregório Magno.
-- `../2corintios/001/fontes-medievais.md`: Tomás (*Super epistolas*), Bruno Cartuxo, Haimo, Atão, Hervé, Sedúlio, Lanfranco, Lombardo no Corpus Corporum, Lápide no archive.org, Belarmino, Boaventura.
+Tudo em `paulo.md` (o mapa das cartas: as obras de cada carta, a tabela das homilias de Crisóstomo e a pré-pesquisa de 2Cor 3–13).
 
 ## 10. Aprendido no Sl 36 (35), 2026-10-20 (`salmos/036/relatorio-latinos.md`)
 
@@ -387,3 +327,7 @@ O catálogo das fontes paulinas ficou na pasta do capítulo; ler antes do próxi
   Ambrósio, Gregório (*Hom. in Ez.* I, 10, 7), Bernardo (*De diligendo Deo* 33), Ricardo de São
   Vítor, Tomás; para «na tua luz veremos a luz», o *lumen gloriae* de Tomás (*Suma* I, q. 12, a. 2 e
   5) e Isaac de Stella, Sermão 26.
+
+## Por livro
+
+O que é de um livro só (quem comenta que capítulo, o que se achou em cada um) fica no mapa do livro: `numeros.md`, `salmos.md`, `paulo.md`. Aqui ficam o acesso às fontes e o que vale para a Bíblia inteira (20/10/2026).
