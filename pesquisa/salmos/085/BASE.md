@@ -39,6 +39,32 @@ que não é óbvio (`CAPITULO.md`, etapa 6).
 
 ## Pistas (citações em outras obras, a seguir na pesquisa do capítulo)
 
+Obras de São Josemaria no escriva.org, original espanhol. O Gere tem autorização do Opus Dei para usar os textos,
+com o link do escriva.org. Gerado por `pesquisa/ferramentas/base/mod-escriva.py pistas` (2026-10-20); índice geral
+em `pesquisa/fontes/escriva-indice.md`. «nota» = nota de rodapé da edição; «site» = índice bíblico do escriva.org;
+«texto» = referência no corpo. Nos pontos longos (homilias, cartas) vão só os parágrafos onde está a citação.
+
+## En diálogo con el Señor, n. 42: Sl 85,2
+- Obra: Em diálogo com o Senhor (En diálogo con el Señor); capítulo «9. El camino nuestro en la tierra (26 de noviembre de 1967)»; ** Palabras pronunciadas en el oratorio de Pentecostés, durante una reunión de Consiliarios del Opus Dei.
+- Ponto: 42; URL: https://escriva.org/es/en-dialogo-con-el-se%C3%B1or/42/
+- Referência: Sal 85[84],2; site: Salmos 84, 2 (nota 11, site)
+
+*(parágrafos do ponto que trazem a citação)*
+
+> «Benedixisti –se lee en la Sagrada Escritura–, Domine, terram tuam; avertisti captivitatem Iacob»[^11]; Señor, has bendecido tu tierra, has destruido la cautividad de Jacob. Repito que ya no nos sentimos esclavos, sino libres: todo nos lleva a Dios. Y, en ese caminar por la senda del Opus Dei, vamos seguros, porque tenemos la dirección que hace imposible que nos equivoquemos: la confesión y la charla confidencial con vuestro hermano, si son sinceras, si no se da cabida al demonio mudo. En nuestro andar espiritual tenemos, en cada momento, algo parecido a esas señales que se ven en las carreteras, para orientar a los viajeros. No es posible –repito–, de ninguna manera, que un socio o una asociada del Opus Dei –si es fiel a nuestro espíritu– se extravíe en las vueltas y revueltas de su vida interior.
+
+[^11]: Ant. ad Intr. (Sal 85[84],2).
+
+## En diálogo con el Señor, n. 18: Sl 85,13
+- Obra: Em diálogo com o Senhor (En diálogo con el Señor); capítulo «4. Un día para recomenzar (3 de diciembre de 1961)»; ** San Josemaría pronunció estas palabras en el oratorio de Pentecostés, en Villa Tevere, para los que vivían en el centro del Consejo General del Opus Dei. Era el primer Domingo de Adviento y el Fundador fue comentando las lecturas y el propio de la Misa de ese día.
+- Ponto: 18; URL: https://escriva.org/es/en-dialogo-con-el-se%C3%B1or/18/
+- Referência: Sal 85[84],13; site: Salmos 84, 13 (nota 14, site)
+
+*(parágrafos do ponto que trazem a citação)*
+
+> Sal, fuego, luz; por las almas, por la tuya y por la mía. Un acto de amor, de contrición. Mea culpa… Yo pude, yo debía haber sido instrumento… Te doy gracias, Dios mío, porque, a pesar de todo, me has dado una gran fe, y la gracia de la vocación, y la gracia de la perseverancia. Por eso en la Santa Misa nos hace decir la Iglesia: «Dominus dabit benignitatem, et terra nostra dabit fructum suum»[^14]. Esa bendición de Dios es el origen de todo buen fruto, de aquel clima necesario para que en nuestra vida podamos hacernos santos y cultivar santos, hijos suyos.
+
+[^14]: Ant. ad Comm. (Sal 85[84],13).
 - Dídimo, o Cego, fragmentos de cadeia sobre os Salmos (ed. Mühlenberg, PTA 15–16): frgs. 850–857 sobre o Sl 84 da LXX (vv. 2–14); edição moderna, não guardada. https://khazarzar.skeptik.net/pgm/PG_Migne/Didymus%20the%20Blind_PG%2039/Fragmenta%20in%20Psalmos.pdf
 - Hesíquio de Jerusalém, Fragmenta in Psalmos (PG 93, 1179–1340), «PSALMUS LXXXIV» (Sl 84 da LXX): OCR do archive.org sem condições de corte (colunas grego/latim misturadas), não guardado. https://archive.org/details/patrologiaecursu93mignuoft
 - Eutímio Zigabeno, Commentarius in Psalterium (PG 128, 41–1326), «PSALMUS LXXXIV» (Sl 84 da LXX): compila sobretudo Teodoreto; latim legível, grego do OCR quebrado (letras latinas), não guardado. https://archive.org/details/patrologiaecurs261unkngoog

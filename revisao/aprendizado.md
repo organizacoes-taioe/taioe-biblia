@@ -78,3 +78,11 @@ de onde veio. Ler antes de preparar um capítulo (`CAPITULO.md`, etapas 2 a 4).
 - Excerto que começa no meio do raciocínio fica brusco: «achei difícil de entender e de conectar com a
   cena, o começo ficou brusco». Começar pela frase que situa o leitor (a fala do texto que o Padre
   comenta). Cirilo sobre Nm 12,2 ganhou a fala de Maria e Aarão, em vez de sair. (Nm 12, 20/10)
+
+## Poucos comentários, e diferentes (20/10/2026)
+
+- «Não encher de textos muito parecidos»; «já tenho muitos comentários pendentes, em poucos
+  capítulos». Cada comentário de um tema diz algo que os outros não dizem; de 2 a 4 por tema; o
+  capítulo em geral entre 30 e 50. Os Salmos 33–36 passaram de 114, 151, 159 e 151 para 48, 49, 51
+  e 32 (o motivo de cada exclusão em `pesquisa/salmos/<ccc>/enxugo-2026-10-20.json`).
+- «Não precisa favorecer [os orientais] sobre os ocidentais, quero que escolha o melhor»: sem cota.

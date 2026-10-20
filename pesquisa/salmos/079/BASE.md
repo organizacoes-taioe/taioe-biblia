@@ -40,6 +40,21 @@ que não é óbvio (`CAPITULO.md`, etapa 6).
 
 ## Pistas (citações em outras obras, a seguir na pesquisa do capítulo)
 
+Obras de São Josemaria no escriva.org, original espanhol. O Gere tem autorização do Opus Dei para usar os textos,
+com o link do escriva.org. Gerado por `pesquisa/ferramentas/base/mod-escriva.py pistas` (2026-10-20); índice geral
+em `pesquisa/fontes/escriva-indice.md`. «nota» = nota de rodapé da edição; «site» = índice bíblico do escriva.org;
+«texto» = referência no corpo. Nos pontos longos (homilias, cartas) vão só os parágrafos onde está a citação.
+
+## Es Cristo que pasa, n. 33: Sl 79,8
+- Obra: É Cristo que passa (Es Cristo que pasa); capítulo «En la Epifania del Señor»; Homilía en la fiesta de la Epifanía del Señor, pronunciada el 6-I-1956.
+- Ponto: 33; URL: https://escriva.org/es/es-cristo-que-pasa/33/
+- Referência: Ps LXXVIII, 8; site: Salmos 78, 8 (nota 14, site)
+
+*(parágrafos do ponto que trazem a citação)*
+
+> La vocación es lo primero; Dios nos ama antes de que sepamos dirigirnos a Él, y pone en nosotros el amor con el que podemos corresponderle. La paternal bondad de Dios nos sale al encuentro[^14]. Nuestro Señor no sólo es justo, es mucho más: misericordioso. No espera que vayamos a Él; se anticipa, con muestras inequívocas de paternal cariño.
+
+[^14]: Ps LXXVIII, 8.
 - Dídimo, o Cego, fragmentos de cadeia sobre os Salmos (ed. Mühlenberg, PTA 15–16): frgs. 816–824 sobre o Sl 78 da LXX (vv. 1–13); edição moderna, não guardada. https://khazarzar.skeptik.net/pgm/PG_Migne/Didymus%20the%20Blind_PG%2039/Fragmenta%20in%20Psalmos.pdf
 - Hesíquio de Jerusalém, Fragmenta in Psalmos (PG 93, 1179–1340), «PSALMUS LXXVIII» (Sl 78 da LXX): OCR do archive.org sem condições de corte (colunas grego/latim misturadas), não guardado. https://archive.org/details/patrologiaecursu93mignuoft
 - Eutímio Zigabeno, Commentarius in Psalterium (PG 128, 41–1326), «PSALMUS LXXVIII» (Sl 78 da LXX): compila sobretudo Teodoreto; latim legível, grego do OCR quebrado (letras latinas), não guardado. https://archive.org/details/patrologiaecurs261unkngoog

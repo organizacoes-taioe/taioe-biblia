@@ -43,6 +43,22 @@ que não é óbvio (`CAPITULO.md`, etapa 6).
 
 ## Pistas (citações em outras obras, a seguir na pesquisa do capítulo)
 
+Obras de São Josemaria no escriva.org, original espanhol. O Gere tem autorização do Opus Dei para usar os textos,
+com o link do escriva.org. Gerado por `pesquisa/ferramentas/base/mod-escriva.py pistas` (2026-10-20); índice geral
+em `pesquisa/fontes/escriva-indice.md`. «nota» = nota de rodapé da edição; «site» = índice bíblico do escriva.org;
+«texto» = referência no corpo. Nos pontos longos (homilias, cartas) vão só os parágrafos onde está a citação.
+
+## En diálogo con el Señor, n. 22: Sl 50,10–12
+- Obra: Em diálogo com o Senhor (En diálogo con el Señor); capítulo «5. Que se vea que eres Tú (1 de abril de 1962)»; ** Meditación en el oratorio de Pentecostés, el 1 de abril de 1962, Domingo IV de Cuaresma (Laetare). Unos meses antes, concretamente el 7 de enero, el Fundador había solicitado al Papa la revisión del estatuto jurídico del Opus Dei, para transformarlo en una prelatura nullius. Ahora sabía que iba a haber en los próximos días una reunión en la Santa Sede para examinar esa petición
+- Ponto: 22; URL: https://escriva.org/es/en-dialogo-con-el-se%C3%B1or/22/
+- Referência: Sal 50(49),10-12; site: Salmos 49, 10–12 (nota 8, site)
+
+*(parágrafos do ponto que trazem a citação)*
+
+> Os he dicho tantas veces, hijos míos –y vosotros lo habéis repetido otras tantas–, que Dios nuestro Señor, en su providencia amorosísima, en el cariño que tiene a los hombres –«deliciæ meæ esse cum filiis hominum»[^7], son sus delicias estar con los hijos de los hombres–, ha querido, de algún modo, hacernos corredentores con Él. Por eso, para ayudarnos a comprender esta maravilla, hace relatar al evangelista con todo detalle este prodigio grande. Él podía sacar el pan de donde quisiera, porque «mías son todas las bestias de los bosques y los miles de animales de los montes. Y en mi mano están todas las aves del cielo y todos los animales del campo…, mío es el mundo y cuanto lo llena»[^8]. Pues, no. Busca la cooperación humana.
+
+[^7]: Pr 8,31.
+[^8]: Sal 50(49),10-12.
 - Dídimo, o Cego, fragmentos de cadeia sobre os Salmos (ed. Mühlenberg, PTA 15–16): frgs. 517–531 sobre o Sl 49 da LXX (vv. 1–23); edição moderna, não guardada. https://khazarzar.skeptik.net/pgm/PG_Migne/Didymus%20the%20Blind_PG%2039/Fragmenta%20in%20Psalmos.pdf
 - Hesíquio de Jerusalém, Fragmenta in Psalmos (PG 93, 1179–1340), «PSALMUS XLIX» (Sl 49 da LXX): OCR do archive.org sem condições de corte (colunas grego/latim misturadas), não guardado. https://archive.org/details/patrologiaecursu93mignuoft
 - Eutímio Zigabeno, Commentarius in Psalterium (PG 128, 41–1326), «PSALMUS XLIX» (Sl 49 da LXX): compila sobretudo Teodoreto; latim legível, grego do OCR quebrado (letras latinas), não guardado. https://archive.org/details/patrologiaecurs261unkngoog

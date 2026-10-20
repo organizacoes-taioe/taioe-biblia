@@ -41,6 +41,19 @@ que não é óbvio (`CAPITULO.md`, etapa 6).
 
 ## Pistas (citações em outras obras, a seguir na pesquisa do capítulo)
 
+Obras de São Josemaria no escriva.org, original espanhol. O Gere tem autorização do Opus Dei para usar os textos,
+com o link do escriva.org. Gerado por `pesquisa/ferramentas/base/mod-escriva.py pistas` (2026-10-20); índice geral
+em `pesquisa/fontes/escriva-indice.md`. «nota» = nota de rodapé da edição; «site» = índice bíblico do escriva.org;
+«texto» = referência no corpo. Nos pontos longos (homilias, cartas) vão só os parágrafos onde está a citação.
+
+## Forja, n. 307: Sl 46,2
+- Obra: Forja (Forja); capítulo «¡Puedes!»
+- Ponto: 307; URL: https://escriva.org/es/forja/307/
+- Referência: site: Salmos 45, 2 (site)
+
+> Reza seguro con el Salmista: "¡Señor, Tú eres mi refugio y mi fortaleza, confío en Ti!"
+>
+> Te garantizo que El te preservará de las insidias del "demonio meridiano" —en las tentaciones y… ¡en las caídas!—, cuando la edad y las virtudes tendrían que ser maduras, cuando deberías saber de memoria que sólo El es la Fortaleza.
 - Dídimo, o Cego, fragmentos de cadeia sobre os Salmos (ed. Mühlenberg, PTA 15–16): frgs. 470–483 sobre o Sl 45 da LXX (vv. 1–11); edição moderna, não guardada. https://khazarzar.skeptik.net/pgm/PG_Migne/Didymus%20the%20Blind_PG%2039/Fragmenta%20in%20Psalmos.pdf
 - Hesíquio de Jerusalém, Fragmenta in Psalmos (PG 93, 1179–1340), «PSALMUS XLV» (Sl 45 da LXX): OCR do archive.org sem condições de corte (colunas grego/latim misturadas), não guardado. https://archive.org/details/patrologiaecursu93mignuoft
 - Eutímio Zigabeno, Commentarius in Psalterium (PG 128, 41–1326), «PSALMUS XLV» (Sl 45 da LXX): compila sobretudo Teodoreto; latim legível, grego do OCR quebrado (letras latinas), não guardado. https://archive.org/details/patrologiaecurs261unkngoog

@@ -41,6 +41,19 @@ que não é óbvio (`CAPITULO.md`, etapa 6).
 
 ## Pistas (citações em outras obras, a seguir na pesquisa do capítulo)
 
+Obras de São Josemaria no escriva.org, original espanhol. O Gere tem autorização do Opus Dei para usar os textos,
+com o link do escriva.org. Gerado por `pesquisa/ferramentas/base/mod-escriva.py pistas` (2026-10-20); índice geral
+em `pesquisa/fontes/escriva-indice.md`. «nota» = nota de rodapé da edição; «site» = índice bíblico do escriva.org;
+«texto» = referência no corpo. Nos pontos longos (homilias, cartas) vão só os parágrafos onde está a citação.
+
+## Camino, n. 482: Sl 28,1, 3
+- Obra: Caminho (Camino); capítulo «Los medios»
+- Ponto: 482; URL: https://escriva.org/es/camino/482/
+- Referência: site: Salmos 27, 3; site: Salmos 27, 1 (site)
+
+> ¿Qué importa que tengas en contra al mundo entero con todos sus poderes? Tú... ¡adelante!
+>
+> —Repite las palabras del salmo: «El Señor es mi luz y mi salud, ¿a quién temeré?... ‘Si consistant adversum me castra, non timebit cor meum’ —Aunque me vea cercado de enemigos, no flaqueará mi corazón».
 - Dídimo, o Cego, Comentário aos Salmos (papiro de Tura; ed. Gronewald, PTA 4–8): cobre o Sl 27 da LXX (com lacunas); edição moderna, não guardada. https://khazarzar.skeptik.net/pgm/PG_Migne/Didymus%20the%20Blind_PG%2039/Commentarii%20in%20Psalmos.pdf
 - Dídimo, o Cego, fragmentos de cadeia sobre os Salmos (ed. Mühlenberg, PTA 15–16): frgs. 244–252 sobre o Sl 27 da LXX (vv. 1–9); edição moderna, não guardada. https://khazarzar.skeptik.net/pgm/PG_Migne/Didymus%20the%20Blind_PG%2039/Fragmenta%20in%20Psalmos.pdf
 - Hesíquio de Jerusalém, Fragmenta in Psalmos (PG 93, 1179–1340), «PSALMUS XXVII» (Sl 27 da LXX): OCR do archive.org sem condições de corte (colunas grego/latim misturadas), não guardado. https://archive.org/details/patrologiaecursu93mignuoft

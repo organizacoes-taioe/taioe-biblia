@@ -1,0 +1,718 @@
+{
+ "salmo": 35,
+ "antes": 159,
+ "depois": 50,
+ "temas": [
+  {
+   "id": "quem-fala",
+   "itens": [
+    "bossuet-argumento-v1-2",
+    "atanasio-exp34-hyp"
+   ]
+  },
+  {
+   "id": "deus-armado",
+   "funde": [
+    "deus-dorme",
+    "a-espada"
+   ],
+   "versiculos": [
+    1,
+    2,
+    3,
+    23
+   ],
+   "resumo": "Deus combate com a alma do justo como com uma espada, levanta-se quando a fé acorda no coração e se armou de vez ao tomar a nossa carne.",
+   "itens": [
+    "agostinho-en34-s1-2b",
+    "agostinho-en34-s1-3",
+    "didimo-tura-34-2"
+   ]
+  },
+  {
+   "id": "dize-a-minha-alma",
+   "funde": [
+    "eu-sou-a-tua-salvacao"
+   ],
+   "titulo": "Dize à minha alma: Eu sou a tua salvação",
+   "resumo": "Não basta que Deus combata por nós: é preciso ouvi-lo por dentro, contra a voz que diz que não há salvação.",
+   "itens": [
+    "belarmino-explps34-3",
+    "agostinho-en34-s1-5",
+    "agostinho-confissoes-1-5-5"
+   ]
+  },
+  {
+   "id": "profecia-nao-maldicao",
+   "funde": [
+    "contra-os-demonios",
+    "voltar-para-tras"
+   ],
+   "versiculos": [
+    1,
+    4,
+    5,
+    6,
+    8,
+    26
+   ],
+   "resumo": "Como o cristão reza estes versos: ameaça e anúncio do que há de vir, combate contra os demônios e desejo de que os inimigos se convertam e voltem para trás, para seguir o Senhor.",
+   "itens": [
+    "bossuet-dissertatio-imprecacoes",
+    "cassiano-coll-7-21",
+    "agostinho-en34-s1-8a",
+    "agostinho-en34-s1-8b"
+   ]
+  },
+  {
+   "id": "o-vento-e-o-anjo",
+   "itens": [
+    "agostinho-en34-s1-9",
+    "cassiodoro-expps34-5-6"
+   ]
+  },
+  {
+   "id": "a-rede",
+   "resumo": "O mal fere primeiro quem o trama; e o laço em que o diabo caiu foi a cruz.",
+   "itens": [
+    "agostinho-en34-s1-11",
+    "origenes-sel34-8"
+   ]
+  },
+  {
+   "id": "exultar-no-senhor",
+   "itens": [
+    "agostinho-en34-s1-12a",
+    "gregorio-hom-ez-2-1-6"
+   ]
+  },
+  {
+   "id": "quem-e-semelhante",
+   "funde": [
+    "todos-os-ossos"
+   ],
+   "titulo": "Todos os meus ossos dirão: quem é semelhante a ti?",
+   "resumo": "Nada se compara a Deus, que livra o pobre do mais forte; e o louvor sobe da alma até os ossos.",
+   "itens": [
+    "agostinho-en34-s1-13",
+    "agostinho-en34-s1-15",
+    "joao-cruz-chama-b-2-22-v10"
+   ]
+  },
+  {
+   "id": "testemunhas-falsas",
+   "funde": [
+    "o-bem-com-o-mal"
+   ],
+   "versiculos": [
+    11,
+    12
+   ],
+   "titulo": "Testemunhas falsas; o bem pago com o mal",
+   "resumo": "O processo de Jesus, o pecado que ele «não sabia» e a esterilidade com que lhe pagaram a vida.",
+   "itens": [
+    "cirilo-ps34-11",
+    "agostinho-en34-s2-2a",
+    "agostinho-en34-s2-2b"
+   ]
+  },
+  {
+   "id": "jejum-e-oracao",
+   "funde": [
+    "o-saco-de-cristo"
+   ],
+   "titulo": "O saco e o jejum",
+   "resumo": "O justo atacado não briga: entra no quarto da alma e reza; e o jejum de Cristo foi a fome da nossa salvação.",
+   "itens": [
+    "agostinho-en34-s2-3a",
+    "agostinho-en34-s2-4"
+   ]
+  },
+  {
+   "id": "a-oracao-volta",
+   "resumo": "Se não serve aos outros, a oração volta a quem rezou; volta cheia dos dons de Deus; e volta ao segredo do coração, onde ele ouve.",
+   "itens": [
+    "gerhoh-comps34-13",
+    "cirilo-hompasc18-2",
+    "agostinho-io-10-1"
+   ]
+  },
+  {
+   "id": "como-uma-mae",
+   "itens": [
+    "belarmino-explps34-14",
+    "tomas-postps34-10"
+   ]
+  },
+  {
+   "id": "quando-tropecei",
+   "funde": [
+    "os-olhos-viram"
+   ],
+   "versiculos": [
+    15,
+    16,
+    21
+   ],
+   "titulo": "A alegria dos que zombam",
+   "resumo": "Os maus se alegram com a queda do justo, como zombaram de Cristo na cruz e dos cristãos perseguidos.",
+   "itens": [
+    "agostinho-en34-s2-8",
+    "agostinho-en34-s2-11b"
+   ]
+  },
+  {
+   "id": "ate-quando",
+   "funde": [
+    "a-unica"
+   ],
+   "titulo": "Até quando, Senhor? A única que eu tenho",
+   "resumo": "Deus demora por amor, até que se complete o número dos seus; e a «única» é a alma de Cristo, que nunca foi escrava do pecado.",
+   "itens": [
+    "agostinho-en34-s2-9",
+    "didimo-tura-34-17"
+   ]
+  },
+  {
+   "id": "a-grande-assembleia",
+   "itens": [
+    "teodoreto-ips34-18",
+    "agostinho-en34-s2-10"
+   ]
+  },
+  {
+   "id": "sem-motivo",
+   "resumo": "O ódio sem motivo que Cristo sofreu (Jo 15,25), o amor sem interesse que lhe responde e o cristão que é odiado sem odiar.",
+   "itens": [
+    "agostinho-io-91-4",
+    "crisostomo-expps7-sl34-19"
+   ]
+  },
+  {
+   "id": "nao-te-cales",
+   "funde": [
+    "a-minha-causa"
+   ],
+   "versiculos": [
+    22,
+    23,
+    24
+   ],
+   "titulo": "Não te cales: julga a minha causa",
+   "resumo": "O justo se cala diante do insulto e entrega a Deus a sua causa, que é o que faz o mártir, e não a pena.",
+   "itens": [
+    "ambrosio-enarr-ps38-9",
+    "atanasio-marcelino-34",
+    "agostinho-en34-s2-13"
+   ]
+  },
+  {
+   "id": "nos-o-devoramos",
+   "itens": [
+    "agostinho-en34-s2-15",
+    "eusebio-cps34-25"
+   ]
+  },
+  {
+   "id": "louvor-todo-o-dia",
+   "resumo": "O povo se reconhece no salmo e o fecha com louvor: louva o dia inteiro quem faz bem tudo o que faz, até o dia sem fim.",
+   "itens": [
+    "agostinho-io-10-7",
+    "agostinho-en34-s2-16",
+    "eusebio-cps34-28"
+   ]
+  },
+  {
+   "id": "na-liturgia",
+   "itens": [
+    "lit-introito-segunda-santa",
+    "lit-gradual-terca-santa-v13",
+    "lit-lh-oficio-leituras"
+   ]
+  }
+ ],
+ "excluidos": [
+  {
+   "id": "agostinho-en34-s1-1",
+   "motivo": "bonito, mas a etimologia de Davi pesa; quem fala já fica dito por Atanásio (atanasio-exp34-hyp) e Bossuet"
+  },
+  {
+   "id": "teodoreto-ips34-1",
+   "motivo": "repete Bossuet (bossuet-argumento-v1-2): o mesmo fundo histórico de Davi perseguido por Saul"
+  },
+  {
+   "id": "afonso-tsc-sl34-arg-1-2",
+   "motivo": "paráfrase; o justo tentado pelos demônios e perseguido já está em Atanásio (atanasio-exp34-hyp)"
+  },
+  {
+   "id": "agostinho-en34-s1-2a",
+   "motivo": "a mesma ideia de agostinho-en34-s1-2b (Deus se arma de nós), que a diz com imagem mais forte"
+  },
+  {
+   "id": "origenes-sel34-1",
+   "motivo": "Deus combate para o bem dos inimigos: a mesma leitura de agostinho-en34-s1-8a"
+  },
+  {
+   "id": "didimo-tura-34-1",
+   "motivo": "o santo não revida e quer a conversão do inimigo: já dito no tema dos pedidos contra os inimigos"
+  },
+  {
+   "id": "teodoreto-ips34-2-3",
+   "motivo": "comentário menor: as armas como imagem; o tema já tem leituras mais fundas"
+  },
+  {
+   "id": "breviarium-ps34-2",
+   "motivo": "Cristo armado pelos seus: o «grande espetáculo» já está em Agostinho; texto menor"
+  },
+  {
+   "id": "aelredo-jesu-puero-24",
+   "motivo": "aplicação pessoal bonita, mas só repete o pedido do salmo; o tema já tem Agostinho no barco (agostinho-en34-s1-3)"
+  },
+  {
+   "id": "sales-parafrase-pai-nosso-v2-3",
+   "motivo": "só cita os vv. 2–3 numa oração, sem comentar"
+  },
+  {
+   "id": "tomas-postps34-2",
+   "motivo": "repete agostinho-en34-s1-3: Deus dorme quando não sentimos o auxílio, o barco de Mt 8"
+  },
+  {
+   "id": "agostinho-en34-s1-7",
+   "motivo": "Jó como espada de Deus: belo exemplo da mesma leitura de agostinho-en34-s1-2b"
+  },
+  {
+   "id": "cassiodoro-expps34-3",
+   "motivo": "repete agostinho-en34-s1-2b: a lança é a alma"
+  },
+  {
+   "id": "origenes-sel34-3",
+   "motivo": "glosa de uma linha, sem acréscimo"
+  },
+  {
+   "id": "agostinho-en34-s1-6b",
+   "motivo": "a salvação é Deus mesmo, e não os seus dons: a mesma ideia de agostinho-en34-s1-12a"
+  },
+  {
+   "id": "agostinho-en85-9",
+   "motivo": "Deus médico que se dá a si mesmo: mesma ideia de agostinho-en34-s1-12a e do médico de Belarmino (belarmino-explps34-3)"
+  },
+  {
+   "id": "eusebio-cps34-2-3",
+   "motivo": "o nome de Jesus = salvação fica com Gregório (gregorio-hom-ez-2-1-6); o médico que corta já está em Belarmino"
+  },
+  {
+   "id": "bernardo-cant-15-8",
+   "motivo": "começa por alusão obscura (o bastão de Eliseu); o nome de Jesus fica com Gregório"
+  },
+  {
+   "id": "nazianzeno-or17-3",
+   "motivo": "bom, mas menor: Deus atende sem preço; o tema já tem três leituras mais centrais"
+  },
+  {
+   "id": "joao-cruz-cantico-b-2-6-v3",
+   "motivo": "usa o verso só de passagem («saúde do entendimento»)"
+  },
+  {
+   "id": "agostinho-en38-20",
+   "motivo": "repete as Confissões (agostinho-confissoes-1-5-5): o desejo de ouvir essa voz por dentro"
+  },
+  {
+   "id": "nazianzeno-or14-37",
+   "motivo": "aplicação à misericórdia com os que sofrem; boa, mas lateral ao verso"
+  },
+  {
+   "id": "bernardo-cant-48-6",
+   "motivo": "usa o verso de passagem, sobre a sombra de Cristo"
+  },
+  {
+   "id": "cassiano-inst-12-17",
+   "motivo": "só cita os vv. 2–3 como oração contra os vícios; a leitura monástica fica com cassiano-coll-7-21"
+  },
+  {
+   "id": "sales-carta-chantal-natal-1610-v3",
+   "motivo": "bela oração de carta, mas só usa o verso"
+  },
+  {
+   "id": "afonso-riflessioni-22-v3",
+   "motivo": "repete agostinho-en34-s1-5: contra a voz «não há salvação», com o mesmo Sl 3"
+  },
+  {
+   "id": "eusebio-cps34-4-6",
+   "motivo": "repete agostinho-en34-s1-8a: profecia, e não maldição"
+  },
+  {
+   "id": "teodoreto-ips34-conclusao-a",
+   "motivo": "profecia, e não maldição: dito por Agostinho e Bossuet; a oposição Lei × Evangelho ficou de fora para não multiplicar respostas"
+  },
+  {
+   "id": "tomas-postps34-1",
+   "motivo": "anúncio do futuro e zelo da justiça: as duas respostas já estão em agostinho-en34-s1-8a e bossuet-dissertatio-imprecacoes"
+  },
+  {
+   "id": "didimo-tura-34-23",
+   "motivo": "que pereçam enquanto inimigos: a mesma leitura de agostinho-en34-s1-8a (o bem desejado é a conversão)"
+  },
+  {
+   "id": "teodoreto-ips34-conclusao-b",
+   "motivo": "Davi poupou Saul e o chorou: dito por Bossuet (bossuet-argumento-v1-2) e Belarmino (belarmino-explps34-14)"
+  },
+  {
+   "id": "arnobio-comps34-1",
+   "motivo": "repete cassiano-coll-7-21: rezar o salmo contra os espíritos, não contra os homens"
+  },
+  {
+   "id": "cassiodoro-expps34-1",
+   "motivo": "repete cassiano-coll-7-21 (os maus são o diabo e os seus) e Agostinho (os homens, que se convertam)"
+  },
+  {
+   "id": "eutimio-ps34-hyp",
+   "motivo": "resume em três linhas o que cassiano-coll-7-21 diz melhor"
+  },
+  {
+   "id": "cassiodoro-expps34-4",
+   "motivo": "repete agostinho-en34-s1-8b: voltar para trás como Pedro"
+  },
+  {
+   "id": "gregorio-moralia-3-62",
+   "motivo": "repete agostinho-en34-s1-9: o pó levantado pelo vento da tentação"
+  },
+  {
+   "id": "gregorio-moralia-19-39",
+   "motivo": "trevas e escorregadio como ignorância e fraqueza: a mesma leitura de agostinho-en34-s1-9"
+  },
+  {
+   "id": "tomas-postps34-4",
+   "motivo": "repete agostinho-en34-s1-9 (ignorância e vícios da carne)"
+  },
+  {
+   "id": "origenes-sel34-6",
+   "motivo": "glosa curta: os anjos como armas de Deus, sem acréscimo"
+  },
+  {
+   "id": "afonso-sermoni-xlii-v6",
+   "motivo": "aplicação moral (más companhias) menor ao lado das leituras do tema"
+  },
+  {
+   "id": "agostinho-en34-s1-10",
+   "motivo": "Cristo que tolera o traidor: bom, mas sai do verso; o tema fica com a tocha e a cruz"
+  },
+  {
+   "id": "tomas-postps34-5",
+   "motivo": "«sem motivo» fica no tema dos vv. 19–20"
+  },
+  {
+   "id": "cassiodoro-expps34-8",
+   "motivo": "o laço da verdade que liberta: mais uma vez a conversão dos inimigos, já dita no tema dos pedidos"
+  },
+  {
+   "id": "agostinho-en34-s1-12b",
+   "motivo": "continuação de agostinho-en34-s1-12a, com a mesma ideia (Deus mesmo, e não os seus dons)"
+  },
+  {
+   "id": "beda-hom-visitacao",
+   "motivo": "a salvação = Jesus, como Gregório (gregorio-hom-ez-2-1-6); o paralelo com o Magnificat é só aproximação"
+  },
+  {
+   "id": "sales-exortacao-1594-v10",
+   "motivo": "amor de complacência: belo, mas usa o verso de passagem"
+  },
+  {
+   "id": "tomas-postps34-7",
+   "motivo": "a força que livra o fraco do poderoso: dito por agostinho-en34-s1-15"
+  },
+  {
+   "id": "afonso-apparecchio-15-v10",
+   "motivo": "aplicação ao pecado mortal, lateral ao verso"
+  },
+  {
+   "id": "afonso-novena-natal-2-v10",
+   "motivo": "usa o verso de passagem, para falar do Natal"
+  },
+  {
+   "id": "agostinho-en34-s1-14",
+   "motivo": "os ossos como os justos firmes: argumento longo e enredado; o tema fica com o louvor do homem inteiro"
+  },
+  {
+   "id": "agostinho-sermo-224-1",
+   "motivo": "bonito, mas só aplica o verso aos batizados; o espanto diante de Deus já está em agostinho-en34-s1-13"
+  },
+  {
+   "id": "agostinho-confissoes-9-1-1",
+   "motivo": "oração que cita o verso, sem comentá-lo"
+  },
+  {
+   "id": "gregorio-moralia-5-56",
+   "motivo": "os ossos como obras fortes que tremem: próximo de agostinho-en34-s1-13 (nada se compara a Deus)"
+  },
+  {
+   "id": "eusebio-cps34-10",
+   "motivo": "os ossos como os apóstolos dispersos: leitura engenhosa, menor"
+  },
+  {
+   "id": "bernardo-martinho-2",
+   "motivo": "usa o verso de passagem"
+  },
+  {
+   "id": "belarmino-explps34-10",
+   "motivo": "o corpo inteiro que louva: dito com mais força por São João da Cruz (joao-cruz-chama-b-2-22-v10)"
+  },
+  {
+   "id": "agostinho-en34-s2-1a",
+   "motivo": "cabeça e corpo numa só voz: dito em agostinho-en34-s2-8 («o que se fez à cabeça se faz também ao corpo»)"
+  },
+  {
+   "id": "cassiodoro-expps34-11",
+   "motivo": "repete agostinho-en34-s2-2a: «não sabia» = não cometia"
+  },
+  {
+   "id": "melitao-pascha-72",
+   "motivo": "só cita o verso"
+  },
+  {
+   "id": "cassiodoro-expps34-12",
+   "motivo": "repete agostinho-en34-s2-2b: vida paga com morte, esterilidade"
+  },
+  {
+   "id": "bernardo-cant-30-7",
+   "motivo": "saborosa, mas é uma digressão pessoal sobre a palavra «esterilidade»"
+  },
+  {
+   "id": "agostinho-en34-s2-3b",
+   "motivo": "o cilício como carne mortal: leitura típica, menor; o tema fica com o jejum"
+  },
+  {
+   "id": "eusebio-cps34-13a",
+   "motivo": "Cristo que sofre pelos que se perdem: dito no tema seguinte (como-uma-mae)"
+  },
+  {
+   "id": "atanasio-exp34-13",
+   "motivo": "resume o que agostinho-en34-s2-4 e gerhoh-comps34-13 dizem melhor"
+  },
+  {
+   "id": "cassiodoro-expps34-13",
+   "motivo": "repete Agostinho no cilício e no jejum; a oração que volta fica com gerhoh-comps34-13"
+  },
+  {
+   "id": "bruno-segni-expps34-13",
+   "motivo": "repete agostinho-en34-s2-4: Cristo quer incorporar a si os que «come»"
+  },
+  {
+   "id": "sales-cinzas-notas-v13",
+   "motivo": "notas que repetem agostinho-en34-s2-3b e agostinho-en34-s2-4"
+  },
+  {
+   "id": "teodoreto-ips34-13",
+   "motivo": "a oração que volta atendida: dito com mais imagem por cirilo-hompasc18-2"
+  },
+  {
+   "id": "tomas-postps34-9",
+   "motivo": "jejum com humildade e oração: correto, mas agostinho-en34-s2-3a diz o essencial"
+  },
+  {
+   "id": "jeronimo-ep130-10",
+   "motivo": "exortação geral ao jejum, que só cita o verso"
+  },
+  {
+   "id": "ambrosio-enarr-ps38-8",
+   "motivo": "paciência e silêncio: fica com o mesmo Ambrósio no v. 22 (ambrosio-enarr-ps38-9)"
+  },
+  {
+   "id": "belarmino-explps34-13",
+   "motivo": "repete agostinho-en34-s2-3a (não brigar, voltar ao coração) e cirilo-hompasc18-2 (a oração volta cheia)"
+  },
+  {
+   "id": "ambrosio-enarr-ps38-11",
+   "motivo": "o seio como segredo da oração: dito por agostinho-io-10-1"
+  },
+  {
+   "id": "afonso-tsc-sl34-13-14",
+   "motivo": "paráfrase; a oração que volta em proveito de quem reza está em gerhoh-comps34-13"
+  },
+  {
+   "id": "jeronimo-in-is-18-sinus",
+   "motivo": "sentidos de «seio» em geral, lateral"
+  },
+  {
+   "id": "bruno-cartuxo-expps34-13",
+   "motivo": "alegoria da mão de Moisés, longe do verso"
+  },
+  {
+   "id": "agostinho-en34-s2-5",
+   "motivo": "o próprio Agostinho a dá como hipótese («não sei que entender de melhor»)"
+  },
+  {
+   "id": "bossuet-notas-v13-14-18",
+   "motivo": "repete belarmino-explps34-14: chorar os inimigos como a uma mãe"
+  },
+  {
+   "id": "cassiodoro-expps34-14",
+   "motivo": "repete belarmino-explps34-14: o bem pago pelo mal"
+  },
+  {
+   "id": "agostinho-en34-s2-6",
+   "motivo": "aproximar-se de Deus pela semelhança: belo, mas lateral ao verso"
+  },
+  {
+   "id": "eutimio-ps34-14",
+   "motivo": "a humildade que acalma a inveja: leitura menor ao lado do luto de mãe"
+  },
+  {
+   "id": "agostinho-en34-s2-7",
+   "motivo": "menor: só contrapõe a alegria deles e a tristeza do justo"
+  },
+  {
+   "id": "crisostomo-injo51-sl34-15",
+   "motivo": "usa a versão grega do verso de passagem"
+  },
+  {
+   "id": "eusebio-cps34-20-21",
+   "motivo": "cumprimento narrativo; o processo de Jesus já está em cirilo-ps34-11"
+  },
+  {
+   "id": "cirilo-ps34-17",
+   "motivo": "deixar a vingança ao Pai: já dito no tema dos vv. 22–24 (atanasio-marcelino-34)"
+  },
+  {
+   "id": "eusebio-cps34-17",
+   "motivo": "leitura de outra versão («quantas coisas verás»), menor"
+  },
+  {
+   "id": "cassiodoro-expps34-17",
+   "motivo": "repete agostinho-en34-s2-9 (a pressa humana; a única = a Igreja)"
+  },
+  {
+   "id": "belarmino-explps34-17",
+   "motivo": "a vida que é única: claro, mas sem o fundo de didimo-tura-34-17"
+  },
+  {
+   "id": "arnobio-comps34-17",
+   "motivo": "os demônios que falam de paz: lateral ao verso"
+  },
+  {
+   "id": "cirilo-jer-cat18-24",
+   "motivo": "a Igreja das nações: o mesmo que teodoreto-ips34-18"
+  },
+  {
+   "id": "cassiodoro-expps34-18",
+   "motivo": "repete agostinho-en34-s2-10: o povo de peso, trigo e não palha"
+  },
+  {
+   "id": "ambrosio-enarr-ps39-23",
+   "motivo": "repete teodoreto-ips34-18 (assembleia de toda a terra) e agostinho-en34-s2-10 (povo de peso)"
+  },
+  {
+   "id": "cirilo-ps34-7",
+   "motivo": "ódio sem pretexto: o mesmo que agostinho-io-91-4, com menos fundo"
+  },
+  {
+   "id": "agostinho-en34-s2-11a",
+   "motivo": "glosa curta ao «piscar os olhos»"
+  },
+  {
+   "id": "afonso-tsc-sl34-19-20",
+   "motivo": "paráfrase que cita agostinho-en34-s2-11a"
+  },
+  {
+   "id": "agostinho-en34-s2-12",
+   "motivo": "Deus se cala quanto ao juízo: bom, mas o tema fundido já tem três leituras"
+  },
+  {
+   "id": "cirilo-ps34-22",
+   "motivo": "ter Deus ao lado: dito por ambrosio-enarr-ps38-9"
+  },
+  {
+   "id": "gerhoh-comps34-22",
+   "motivo": "Deus se retira, mas não se afasta: bom, mas o tema fundido já tem três leituras"
+  },
+  {
+   "id": "cassiodoro-expps34-23",
+   "motivo": "repete agostinho-en34-s2-13: a causa, não a pena"
+  },
+  {
+   "id": "agostinho-en34-s2-1b",
+   "motivo": "repete agostinho-en34-s2-13: a causa, não a pena (os três na cruz)"
+  },
+  {
+   "id": "atanasio-exp34-22-23",
+   "motivo": "menor: o Verbo pede ao Pai que julgue os demônios"
+  },
+  {
+   "id": "cirilo-hompasc10-23",
+   "motivo": "Cristo julga e condena o diabo: bom, mas o tema fundido já tem três leituras"
+  },
+  {
+   "id": "cassiodoro-expps34-25",
+   "motivo": "menor, ao lado de Agostinho e Eusébio"
+  },
+  {
+   "id": "cassiodoro-expps34-27-28",
+   "motivo": "repete agostinho-en34-s2-16: louvar sempre pelas boas obras"
+  },
+  {
+   "id": "sales-todos-os-santos-1620-v28",
+   "motivo": "«sempre» = muitas vezes: o mesmo problema que agostinho-en34-s2-16 resolve melhor"
+  },
+  {
+   "id": "lit-gradual-comunhao-segunda-santa",
+   "motivo": "a mesma missa do introito (lit-introito-segunda-santa)"
+  },
+  {
+   "id": "lit-gradual-pacifice-paixao",
+   "motivo": "outro gradual da Paixão; fica o da terça-feira santa"
+  },
+  {
+   "id": "lit-santo-afonso-tracto-v13",
+   "motivo": "uso menor, em dois próprios de santos"
+  },
+  {
+   "id": "lit-breviario-matinas-segunda",
+   "motivo": "uso antigo; fica o atual, da Liturgia das Horas"
+  }
+ ],
+ "temas_excluidos": [
+  {
+   "id": "deus-dorme",
+   "motivo": "fundido em deus-armado"
+  },
+  {
+   "id": "a-espada",
+   "motivo": "fundido em deus-armado"
+  },
+  {
+   "id": "eu-sou-a-tua-salvacao",
+   "motivo": "fundido em dize-a-minha-alma (o mesmo verso)"
+  },
+  {
+   "id": "contra-os-demonios",
+   "motivo": "fundido em profecia-nao-maldicao: é mais uma resposta a como rezar os pedidos"
+  },
+  {
+   "id": "voltar-para-tras",
+   "motivo": "fundido em profecia-nao-maldicao: continua o mesmo trecho de Agostinho"
+  },
+  {
+   "id": "todos-os-ossos",
+   "motivo": "fundido em quem-e-semelhante (o mesmo verso)"
+  },
+  {
+   "id": "o-bem-com-o-mal",
+   "motivo": "fundido em testemunhas-falsas"
+  },
+  {
+   "id": "o-saco-de-cristo",
+   "motivo": "fundido em jejum-e-oracao (o mesmo verso)"
+  },
+  {
+   "id": "os-olhos-viram",
+   "motivo": "fundido em quando-tropecei: a mesma zombaria"
+  },
+  {
+   "id": "a-unica",
+   "motivo": "fundido em ate-quando (o mesmo verso)"
+  },
+  {
+   "id": "a-minha-causa",
+   "motivo": "fundido em nao-te-cales: o mesmo pedido, vv. 22-24"
+  }
+ ]
+}

@@ -1,0 +1,610 @@
+{
+ "salmo": 34,
+ "antes": 151,
+ "depois": 48,
+ "temas": [
+  {
+   "id": "carregado-nas-maos",
+   "funde": [
+    "loucura-de-davi"
+   ],
+   "titulo": "A loucura de Davi e o Corpo nas próprias mãos",
+   "resumo": "Davi, que se finge de louco diante do rei e, na Bíblia latina, «era carregado nas próprias mãos» (1 Sm 21,14), é figura de Cristo: pareceu loucura dar a sua carne a comer, e na Ceia ele tomou o seu Corpo nas mãos.",
+   "itens": [
+    "agostinho-en33-s1-8",
+    "agostinho-en33-s1-10a"
+   ]
+  },
+  {
+   "id": "em-todo-o-tempo",
+   "funde": [
+    "louvor-sempre"
+   ],
+   "titulo": "Bendizer em todo o tempo, louvar sempre",
+   "resumo": "O louvor que não depende das circunstâncias, nem da perda nem do martírio, e que faz da vida inteira um louvor.",
+   "itens": [
+    "agostinho-en33-s2-3",
+    "gregorio-nissa-teodoro",
+    "basilio-hps33-1c"
+   ]
+  },
+  {
+   "id": "gloria-no-senhor",
+   "funde": [
+    "engrandecei-comigo"
+   ],
+   "titulo": "A glória dos humildes e o louvor em companhia",
+   "resumo": "A alma que se gloria no Senhor, como o jumentinho que carrega Cristo, não quer louvá-lo sozinha: quem ama a Deus chama os outros para amá-lo junto.",
+   "versiculos": [
+    3,
+    4
+   ],
+   "itens": [
+    "agostinho-en33-s2-5",
+    "agostinho-en33-s2-6a",
+    "agostinho-en33-s2-6b"
+   ]
+  },
+  {
+   "id": "buscar-o-senhor",
+   "itens": [
+    "agostinho-en33-s2-9",
+    "agostinho-en33-s2-8a"
+   ]
+  },
+  {
+   "id": "aproximai-vos",
+   "itens": [
+    "agostinho-ep-io-1-4",
+    "gregorio-naz-or40-24"
+   ]
+  },
+  {
+   "id": "este-pobre",
+   "resumo": "Quem é o pobre que Deus ouve: o que não confia nas próprias forças, e o pobre por escolha, segundo o Evangelho.",
+   "itens": [
+    "agostinho-en33-s2-11a",
+    "basilio-hps33-5a"
+   ]
+  },
+  {
+   "id": "o-anjo-de-cada-um",
+   "funde": [
+    "o-acampamento"
+   ],
+   "titulo": "O anjo que acampa ao redor",
+   "resumo": "O versículo em que a Igreja leu o anjo da guarda: um só anjo vale um acampamento inteiro, o pecado o afasta, e na assembleia reunida o anjo de cada um está presente.",
+   "itens": [
+    "belarmino-explps33-8",
+    "basilio-hps33-5c",
+    "origenes-oracao-31-5"
+   ]
+  },
+  {
+   "id": "provai-e-vede",
+   "funde": [
+    "o-gosto-e-a-fome"
+   ],
+   "resumo": "Nas coisas de Deus, o provar vem antes do ver, e o gosto das suas delícias, em vez de saciar, dá mais fome.",
+   "itens": [
+    "tomas-postps33-9",
+    "bernardo-conversione-13",
+    "gregorio-hom-ev-36-1"
+   ]
+  },
+  {
+   "id": "na-comunhao",
+   "itens": [
+    "cirilo-jer-myst-5-20",
+    "cassiodoro-expps33-conclusao"
+   ]
+  },
+  {
+   "id": "temei-o-senhor",
+   "funde": [
+    "nada-falta"
+   ],
+   "titulo": "Temei o Senhor: nada falta aos que o temem",
+   "resumo": "O temor dos santos, que nasce do amor, e o que nunca falta a quem o tem: não sempre o pão, mas o próprio Deus, em quem está tudo.",
+   "versiculos": [
+    10,
+    11
+   ],
+   "itens": [
+    "cassiano-coll-11-13",
+    "agostinho-en33-s2-14",
+    "cassiodoro-expps33-10-11"
+   ]
+  },
+  {
+   "id": "vinde-filhos",
+   "itens": [
+    "cassiodoro-expps33-12",
+    "agostinho-en33-s2-16"
+   ]
+  },
+  {
+   "id": "quem-quer-a-vida",
+   "itens": [
+    "bento-regra-prologo-14-20",
+    "agostinho-sermo-16-2",
+    "agostinho-en33-s2-17a"
+   ]
+  },
+  {
+   "id": "lingua-e-paz",
+   "itens": [
+    "basilio-hps33-9b",
+    "atanasio-exp33-15",
+    "agostinho-en33-s2-19b"
+   ]
+  },
+  {
+   "id": "olhos-e-ouvidos",
+   "itens": [
+    "belarmino-explps33-16",
+    "agostinho-en33-s2-20"
+   ]
+  },
+  {
+   "id": "os-males-do-justo",
+   "itens": [
+    "basilio-hps33-12a",
+    "agostinho-en33-s2-22"
+   ]
+  },
+  {
+   "id": "perto-do-coracao",
+   "itens": [
+    "agostinho-io-15-25",
+    "bernardo-ramos-2-6"
+   ]
+  },
+  {
+   "id": "os-ossos",
+   "resumo": "Os ossos de Cristo, que não foram quebrados na cruz, e os ossos do justo: a fé, que nenhum golpe consegue quebrar.",
+   "itens": [
+    "agostinho-en33-s2-24a",
+    "agostinho-en33-s2-24b"
+   ]
+  },
+  {
+   "id": "a-morte-do-impio",
+   "itens": [
+    "crisostomo-estatuas-5",
+    "bernardo-ep105-mors"
+   ]
+  },
+  {
+   "id": "o-resgate",
+   "itens": [
+    "tomas-postps33-23",
+    "cirilo-alex-eps33-23"
+   ]
+  },
+  {
+   "id": "na-liturgia",
+   "resumo": "Onde a Igreja canta este salmo: nos domingos do Pão da Vida, na festa de São Pedro e São Paulo e nas missas dos mártires.",
+   "itens": [
+    "lit-lecionario-domingos",
+    "lit-pedro-e-paulo",
+    "lit-introito-martires"
+   ]
+  }
+ ],
+ "excluidos": [
+  {
+   "id": "agostinho-en33-s1-6a",
+   "motivo": "repete agostinho-en33-s1-10a: o Corpo dado pela humildade; fica a leitura das «próprias mãos», mais clara"
+  },
+  {
+   "id": "agostinho-en33-s1-6b",
+   "motivo": "bela imagem (a mãe que faz o pão virar leite), mas é sobre a Encarnação em geral e não sobre o versículo; o tema fica com o essencial"
+  },
+  {
+   "id": "bruno-cartuxo-expps33-titulo",
+   "motivo": "repete agostinho-en33-s1-8 (o mandamento de comer a carne pareceu loucura) e agostinho-en33-s1-10a (o Corpo nas mãos)"
+  },
+  {
+   "id": "tomas-postps33-1",
+   "motivo": "«mudou o rosto» = mudou o sacramento: leitura alegórica pouco clara para o leitor de hoje, e o Corpo dado já está em agostinho-en33-s1-8 e 10a"
+  },
+  {
+   "id": "eusebio-cps33-9",
+   "motivo": "os pães da proposição exigem contexto que o salmo não dá; o convite ao pão da vida já está no tema da comunhão"
+  },
+  {
+   "id": "teodoreto-ips33-1",
+   "motivo": "fala de «esse alimento» sem dizer qual (os pães da proposição): solto do contexto, fica obscuro"
+  },
+  {
+   "id": "agostinho-en33-s1-4a",
+   "motivo": "só a etimologia de Abimelec e Aquis, preparação do argumento; o essencial está em agostinho-en33-s1-8"
+  },
+  {
+   "id": "agostinho-en33-s1-4b",
+   "motivo": "a humildade que vence a soberba já fecha agostinho-en33-s1-10a"
+  },
+  {
+   "id": "agostinho-en33-s1-9b",
+   "motivo": "«tamborilava nas portas» vem do texto latino de 1 Sm 21 e não está no salmo: exige explicação demais"
+  },
+  {
+   "id": "agostinho-en33-s1-11",
+   "motivo": "a saliva como palavras que pareceram de criança repete a ideia de agostinho-en33-s1-8 (o que pareceu loucura)"
+  },
+  {
+   "id": "cassiodoro-expps33-titulo",
+   "motivo": "conta o episódio e lê a saliva como as Escrituras: alegoria fraca, o resto repete o tema"
+  },
+  {
+   "id": "basilio-hps33-1a",
+   "motivo": "bendizer nos dias bons e nos maus: agostinho-en33-s2-3 diz o mesmo com mais força («a si mesmo ele não se tira»)"
+  },
+  {
+   "id": "basilio-hps33-1b",
+   "motivo": "as provações como exercício do atleta: mesma lição de agostinho-en33-s2-3, que a diz com mais força"
+  },
+  {
+   "id": "ambrosio-enarr-ps43-23",
+   "motivo": "repete agostinho-en33-s2-3: louvar sem que a dor impeça, com o exemplo de Jó"
+  },
+  {
+   "id": "agostinho-sermo-105-8",
+   "motivo": "repete agostinho-en33-s2-3 (bendizer quando dá e quando tira, com Jó), mais longo e com imagem (o escorpião) que pede contexto"
+  },
+  {
+   "id": "afonso-riflessioni-passione-v2",
+   "motivo": "aplicação breve e pessoal, sem ideia nova sobre o versículo"
+  },
+  {
+   "id": "cassiodoro-expps33-2",
+   "motivo": "repete basilio-hps33-1c: louvar sempre porque toda ação virtuosa conta como louvor"
+  },
+  {
+   "id": "tomas-postps33-2",
+   "motivo": "a distinção entre «bendizer ao» e «bendizer o» e o louvor em voz alta são secundários; o tema já tem o essencial"
+  },
+  {
+   "id": "belarmino-explps33-2",
+   "motivo": "o «sempre» como até o fim da vida e na boca dos outros: bom, mas com basilio-hps33-1c o tema já basta; o fim repete Jó"
+  },
+  {
+   "id": "sales-tratado-5-8-v2-3",
+   "motivo": "a imagem da cigarra é bonita, mas o texto é truncado e diz o mesmo que basilio-hps33-1c (todas as faculdades louvando)"
+  },
+  {
+   "id": "basilio-hps33-2a",
+   "motivo": "a glória de servir a tal Senhor: o jumentinho que carrega Cristo (agostinho-en33-s2-5) diz o mesmo com mais vida"
+  },
+  {
+   "id": "cassiodoro-expps33-3",
+   "motivo": "a glória do servo no seu Senhor e os mansos: agostinho-en33-s2-5 diz o mesmo com a imagem do jumentinho"
+  },
+  {
+   "id": "basilio-hps33-2b",
+   "motivo": "ligado à circunstância da fuga de Davi; a lição da mansidão já está em agostinho-en33-s2-5"
+  },
+  {
+   "id": "basilio-hps33-3a",
+   "motivo": "engrandecer pela contemplação da criação: bom, mas desvia do «comigo», que é o centro do versículo"
+  },
+  {
+   "id": "cassiodoro-expps33-4",
+   "motivo": "o amor carnal quer gozar sozinho, o espiritual não: repete agostinho-en33-s2-6a, que o diz melhor"
+  },
+  {
+   "id": "afonso-consideracoes-religioso-v4",
+   "motivo": "resume e cita agostinho-en33-s2-6b"
+  },
+  {
+   "id": "cirilo-jer-myst-5-6",
+   "motivo": "uso do versículo na anáfora: dado litúrgico, não comentário; o tema da comunhão já mostra o uso do salmo na missa"
+  },
+  {
+   "id": "cassiodoro-expps33-5",
+   "motivo": "buscar Deus no coração: repete agostinho-en33-s2-8a"
+  },
+  {
+   "id": "basilio-hps33-4a",
+   "motivo": "Deus livra dando a paciência: a mesma ideia de basilio-hps33-12a, que fica no tema dos males do justo"
+  },
+  {
+   "id": "afonso-vera-sposa-14-v5-19",
+   "motivo": "repete agostinho-en33-s2-9 (buscar a Deus, não a si mesmo) e mistura o v. 19"
+  },
+  {
+   "id": "basilio-hps33-4b",
+   "motivo": "a luz que só ilumina quem tem olhos: bom, mas agostinho-ep-io-1-4 diz o mesmo com mais fundo (aproximar-se vendo a própria feiura)"
+  },
+  {
+   "id": "agostinho-en33-s2-10a",
+   "motivo": "aproximar-se para comungar: a leitura eucarística já está no tema da comunhão"
+  },
+  {
+   "id": "agostinho-en33-s2-10b",
+   "motivo": "os dois pés do amor: bonito, mas acessório ao tema da luz"
+  },
+  {
+   "id": "agostinho-confissoes-8-10-22",
+   "motivo": "querer ser luz em si mesmo: repete agostinho-ep-io-1-4"
+  },
+  {
+   "id": "bernardo-cant-31-3",
+   "motivo": "aproximar-se sem se precipitar: bom, mas secundário; o tema fica com a luz e o batismo"
+  },
+  {
+   "id": "teodoreto-ips33-6-9",
+   "motivo": "batismo e Eucaristia juntos, com começo que depende do contexto; o batismo fica em gregorio-naz-or40-24"
+  },
+  {
+   "id": "basilio-hps33-5b",
+   "motivo": "Cristo que se fez pobre: verdade geral (2 Cor 8,9), pouco ligada ao versículo"
+  },
+  {
+   "id": "afonso-tsc-sl33-6-7",
+   "motivo": "paráfrase do versículo, sem ideia nova"
+  },
+  {
+   "id": "francisco-pobres-2018-1",
+   "motivo": "constatação breve, sem desenvolvimento"
+  },
+  {
+   "id": "francisco-pobres-2018-2-4",
+   "motivo": "só enumera três verbos, com cortes; não se sustenta sozinho"
+  },
+  {
+   "id": "leao14-dilexi-te-17",
+   "motivo": "remissão genérica ao versículo, sem comentário"
+  },
+  {
+   "id": "cassiano-coll-8-17",
+   "motivo": "só junta citações sobre os anjos; o anjo de cada um já está em basilio-hps33-5c"
+  },
+  {
+   "id": "hilario-tract-ps137-5",
+   "motivo": "repete o auxílio dos anjos a todos os fiéis (basilio-hps33-5c e belarmino-explps33-8)"
+  },
+  {
+   "id": "cic-336",
+   "motivo": "o Catecismo cita São Basílio, que já está no tema com o texto inteiro (basilio-hps33-5c)"
+  },
+  {
+   "id": "crisostomo-ef-hom9",
+   "motivo": "o exército de Eliseu: repete belarmino-explps33-8 (um anjo vale um exército)"
+  },
+  {
+   "id": "jeronimo-tract-ps15-anjo",
+   "motivo": "«o justo não tem lado esquerdo»: bonito, mas repete a proteção por todos os lados de belarmino-explps33-8"
+  },
+  {
+   "id": "tomas-postps33-8",
+   "motivo": "junta citações; a leitura do anjo como pastor é secundária"
+  },
+  {
+   "id": "agostinho-en33-s2-11b",
+   "motivo": "o Anjo como o próprio Cristo: leitura possível, mas o tema fica com o anjo da guarda, que é a leitura da Igreja"
+  },
+  {
+   "id": "cassiodoro-expps33-8",
+   "motivo": "«tornar-se anjo» fazendo a vontade de Deus: aplicação bonita, mas o tema já tem três ângulos"
+  },
+  {
+   "id": "basilio-hps33-6a",
+   "motivo": "o mel que não se explica a quem não provou: bernardo-conversione-13 diz o mesmo, mais curto e mais bonito"
+  },
+  {
+   "id": "agostinho-sermo-159-4",
+   "motivo": "enumera os sentidos interiores com citações; o versículo é só um item da lista"
+  },
+  {
+   "id": "belarmino-explps33-9",
+   "motivo": "paráfrase do convite a experimentar; repete tomas-postps33-9 e bernardo-conversione-13"
+  },
+  {
+   "id": "afonso-selva-v9",
+   "motivo": "o mel e os filósofos: repete bernardo-conversione-13"
+  },
+  {
+   "id": "afonso-sermoni-sessagesima-v9-11",
+   "motivo": "aplicação pastoral (experimentai a vida com Deus) que repete a ideia do tema"
+  },
+  {
+   "id": "basilio-hps33-6b",
+   "motivo": "«provai, e não saciai-vos»: mesma ideia de gregorio-hom-ev-36-1, que a diz com mais clareza"
+  },
+  {
+   "id": "jeronimo-ep133-gustate",
+   "motivo": "quanto mais bebo, mais sede: repete gregorio-hom-ev-36-1"
+  },
+  {
+   "id": "constituicoes-apostolicas-8-13",
+   "motivo": "só registra o uso do salmo na comunhão, que o resumo do tema já diz"
+  },
+  {
+   "id": "ambrosio-de-mysteriis-58",
+   "motivo": "alimento do espírito e não do corpo: repete cirilo-jer-myst-5-20"
+  },
+  {
+   "id": "agostinho-en33-s2-12",
+   "motivo": "volta à loucura de Davi e ao rei Aquis, já no primeiro tema"
+  },
+  {
+   "id": "cassiodoro-expps33-9",
+   "motivo": "o gosto da alma e não do paladar: repete cirilo-jer-myst-5-20"
+  },
+  {
+   "id": "afonso-visite-intro-v9",
+   "motivo": "aplicação à visita ao Santíssimo: devoção boa, mas fora do sentido do versículo"
+  },
+  {
+   "id": "jp2-mane-nobiscum-18",
+   "motivo": "cita o versículo a propósito do sacrário, sem comentá-lo; repete afonso-visite-intro-v9"
+  },
+  {
+   "id": "basilio-hps33-6c",
+   "motivo": "o temor que prega a carne: bom, mas o tema fica com o temor dos santos (cassiano-coll-11-13)"
+  },
+  {
+   "id": "bernardo-todos-santos-5-3",
+   "motivo": "uso na festa de Todos os Santos: observação breve, secundária"
+  },
+  {
+   "id": "basilio-hps33-7a",
+   "motivo": "Paulo, a quem tudo faltou: o bem que não falta é o próprio Deus, e cassiodoro-expps33-10-11 diz isso em menos palavras"
+  },
+  {
+   "id": "tomas-postps33-10",
+   "motivo": "Deus médico que tira o alimento: a mesma imagem fica em olhos-e-ouvidos (belarmino-explps33-16, agostinho-en33-s2-20)"
+  },
+  {
+   "id": "agostinho-en33-s2-15",
+   "motivo": "os bens espirituais que só o coração vê: bom, mas repete a resposta de cassiodoro-expps33-10-11"
+  },
+  {
+   "id": "afonso-tsc-sl33-10-11",
+   "motivo": "paráfrase do versículo, sem ideia nova"
+  },
+  {
+   "id": "basilio-hps33-8a",
+   "motivo": "a voz do mestre que é pai: cassiodoro-expps33-12 diz o mesmo e acrescenta o temor que se ama"
+  },
+  {
+   "id": "bento-regra-prologo-12",
+   "motivo": "quase só citações; a Regra fica com bento-regra-prologo-14-20, que comenta o salmo de fato"
+  },
+  {
+   "id": "bruno-segni-expps33-12",
+   "motivo": "repete bento-regra-prologo-14-20 (a pergunta, a resposta «Eu» e o caminho)"
+  },
+  {
+   "id": "basilio-hps33-9a",
+   "motivo": "a vida verdadeira é Cristo: verdade geral, menos ligada ao versículo que os outros"
+  },
+  {
+   "id": "agostinho-en33-s2-17b",
+   "motivo": "continua agostinho-en33-s2-17a com a mesma lição (os dias bons não estão aqui)"
+  },
+  {
+   "id": "agostinho-en33-s2-19a",
+   "motivo": "não basta fugir do mal: atanasio-exp33-15 diz o mesmo, e mais fundo, numa frase"
+  },
+  {
+   "id": "basilio-hps33-10a",
+   "motivo": "quem busca a paz busca Cristo: repete agostinho-en33-s2-19b"
+  },
+  {
+   "id": "teodoreto-ips33-15",
+   "motivo": "retrato do homem de paz: lista boa, mas sem ideia nova"
+  },
+  {
+   "id": "cassiodoro-expps33-15",
+   "motivo": "a paz que vai à frente e só se alcança no fim: repete agostinho-en33-s2-19b"
+  },
+  {
+   "id": "cirilo-alex-eps33-16",
+   "motivo": "o olhar de pai: belarmino-explps33-16 diz o mesmo e mais"
+  },
+  {
+   "id": "cassiodoro-expps33-17",
+   "motivo": "Deus vê também os maus: correto, mas secundário"
+  },
+  {
+   "id": "basilio-hps33-11a",
+   "motivo": "fala da visão da face de Deus pelos anjos, fora do sentido do versículo"
+  },
+  {
+   "id": "basilio-hps33-12b",
+   "motivo": "o atleta precisa do adversário: completa basilio-hps33-12a com a mesma lição"
+  },
+  {
+   "id": "cassiodoro-expps33-18",
+   "motivo": "os mártires livrados pelo céu: repete agostinho-en33-s2-22"
+  },
+  {
+   "id": "jeronimo-commentarioli-ps33",
+   "motivo": "notas soltas sobre vários versículos; nada que o capítulo já não diga"
+  },
+  {
+   "id": "agostinho-en33-s2-23",
+   "motivo": "subir e descer até Deus: repete agostinho-io-15-25, que o diz melhor; a parte das tribulações repete o tema anterior"
+  },
+  {
+   "id": "cassiodoro-expps33-19",
+   "motivo": "a humildade que alcança o alto: repete agostinho-io-15-25"
+  },
+  {
+   "id": "basilio-hps33-12c",
+   "motivo": "definição da contrição, abstrata e pouco ligada ao «perto»"
+  },
+  {
+   "id": "sales-sermao-pascoa-1620-v19",
+   "motivo": "Deus mais perto na aflição: bernardo-ramos-2-6 diz o mesmo com a imagem da mãe"
+  },
+  {
+   "id": "tomas-postps33-21",
+   "motivo": "os ossos como virtudes: repete agostinho-en33-s2-24a"
+  },
+  {
+   "id": "basilio-hps33-13a",
+   "motivo": "os ossos como os fortes que sustentam os fracos na Igreja: bom, mas o tema fica com a leitura principal"
+  },
+  {
+   "id": "bernardo-sdiv-6-ossos",
+   "motivo": "os ossos como a intenção: mais uma leitura interior, que repete agostinho-en33-s2-24a"
+  },
+  {
+   "id": "belarmino-explps33-21",
+   "motivo": "os ossos guardados para a ressurreição: leitura possível, mas o tema fica com Cristo e com a fé"
+  },
+  {
+   "id": "afonso-tsc-sl33-21",
+   "motivo": "paráfrase que repete a leitura da ressurreição"
+  },
+  {
+   "id": "agostinho-en33-s2-25",
+   "motivo": "a morte que parece boa por fora: repete crisostomo-estatuas-5"
+  },
+  {
+   "id": "agostinho-en33-s2-26",
+   "motivo": "sobre «não pecarão os que nele esperam» (v. 23): repete o tema do resgate"
+  },
+  {
+   "id": "basilio-hps33-14a",
+   "motivo": "a boa morte dos justos: bernardo-ep105-mors diz o mesmo com mais beleza"
+  },
+  {
+   "id": "cassiodoro-expps33-22",
+   "motivo": "o funeral pomposo do rico: mesma ideia de crisostomo-estatuas-5"
+  },
+  {
+   "id": "basilio-hps33-14b",
+   "motivo": "o resgate pelo sangue: tomas-postps33-23 diz o mesmo e acrescenta quem é resgatado"
+  },
+  {
+   "id": "afonso-gran-mezzo-v23",
+   "motivo": "quem espera não cairá em pecado: repete cirilo-alex-eps33-23, com menos nuance"
+  },
+  {
+   "id": "atanasio-marcelino-33",
+   "motivo": "conselho de quando rezar o salmo, não uso litúrgico; o tema fica com os usos mais significativos"
+  },
+  {
+   "id": "lit-comunhao-gustate",
+   "motivo": "o uso na comunhão já tem tema próprio (na-comunhao)"
+  },
+  {
+   "id": "lit-venite-filii",
+   "motivo": "uso nas missas de alguns santos educadores, menos significativo que os outros"
+  },
+  {
+   "id": "lit-completas-quarta-anjo",
+   "motivo": "uso antigo nas Completas, menos significativo"
+  },
+  {
+   "id": "lit-anjos-da-guarda",
+   "motivo": "uso antigo nas Matinas de uma festa; repete a leitura do anjo da guarda"
+  }
+ ],
+ "temas_excluidos": []
+}

@@ -39,6 +39,19 @@ que não é óbvio (`CAPITULO.md`, etapa 6).
 
 ## Pistas (citações em outras obras, a seguir na pesquisa do capítulo)
 
+Obras de São Josemaria no escriva.org, original espanhol. O Gere tem autorização do Opus Dei para usar os textos,
+com o link do escriva.org. Gerado por `pesquisa/ferramentas/base/mod-escriva.py pistas` (2026-10-20); índice geral
+em `pesquisa/fontes/escriva-indice.md`. «nota» = nota de rodapé da edição; «site» = índice bíblico do escriva.org;
+«texto» = referência no corpo. Nos pontos longos (homilias, cartas) vão só os parágrafos onde está a citação.
+
+## Camino, n. 760: Sl 24,1
+- Obra: Caminho (Camino); capítulo «La voluntad de Dios»
+- Ponto: 760; URL: https://escriva.org/es/camino/760/
+- Referência: site: Salmos 23, 1 (site)
+
+> Un razonamiento que lleva a la paz y que el Espíritu Santo da hecho a los que quieren la Voluntad de Dios: «Dominus regit me, et nihil mihi deerit» —el Señor me gobierna, nada me faltará.
+>
+> ¿Qué puede inquietar a un alma que repita de verdad esas palabras?
 - Dídimo, o Cego, Comentário aos Salmos (papiro de Tura; ed. Gronewald, PTA 4–8): cobre o Sl 23 da LXX (com lacunas); edição moderna, não guardada. https://khazarzar.skeptik.net/pgm/PG_Migne/Didymus%20the%20Blind_PG%2039/Commentarii%20in%20Psalmos.pdf
 - Dídimo, o Cego, fragmentos de cadeia sobre os Salmos (ed. Mühlenberg, PTA 15–16): frgs. 210–215 sobre o Sl 23 da LXX (vv. 1–8); edição moderna, não guardada. https://khazarzar.skeptik.net/pgm/PG_Migne/Didymus%20the%20Blind_PG%2039/Fragmenta%20in%20Psalmos.pdf
 - Hesíquio de Jerusalém, Fragmenta in Psalmos (PG 93, 1179–1340), «PSALMUS XXIII» (Sl 23 da LXX): OCR do archive.org sem condições de corte (colunas grego/latim misturadas), não guardado. https://archive.org/details/patrologiaecursu93mignuoft
