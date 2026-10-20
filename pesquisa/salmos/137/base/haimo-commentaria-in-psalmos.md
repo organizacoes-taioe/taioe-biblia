@@ -1,0 +1,41 @@
+# «Haimo de Halberstadt», Commentaria in Psalmos
+- Autor: «Haimo de Halberstadt» (séc. IX; autoria incerta)
+- Obra: Commentaria in Psalmos
+- Passagem: Sl 136 (Vulgata), que corresponde ao Sl 137 hebr.
+- Edição: PL 116, 657B–660A
+- Fonte: https://mlat.uzh.ch/php_modules/download.php?idno=9073&type=file-txt
+- Cobre: o salmo inteiro
+- Oriental: não
+- Língua: la
+- Baixado: 2026-10-20, por pesquisa/ferramentas/base/lat-haimo.py
+- Leitor: https://mlat.uzh.ch/browser/cps_2.HayHal.CoInPs2 (abre a obra inteira; procurar o título do salmo)
+
+---
+
+IN PSALMUM CXXXVI. TITULUS: Psalmus David propter Jeremiam.
+
+« Super flumina Babylonis. » Psalmus iste est David, et est unus de captivitatibus Hierosolymitarum: et haec captivitas facta est a Nabuchodonosor rege Babyloniorum. Aliam vero quam narrat: « Deus, [col. 657C] venerunt gentes (Psal. LXXVIII), » fecit Antiochus rex eorumdem Babyloniorum. Tertia vero: « Ut quid, Deus (Psal. LXXIII), » reges fecerunt Romani, Titus et Vespasianus; scilicet iste est psalmus David Jeremiae de captivitate Babylonis: alii psalmi David tantum. Attendens Esdras prophetam David in hoc psalmo deplorasse captivitatem civium Hierusalem, non tam corporalem quam spiritualem: et quod Jeremias deploravit simul spiritualem cum corporali, quam vidit, et prophetaverat eis futuram, hujuscemodi titulum apposuit, qui sic legitur: Psalmus iste David, in quo David deplorat captivitatem civium Hierusalem, est Jeremiae, habitus de captivitate Babylonis, quam deploravit Jeremias non tantum corporalem, quam praesentem vidit, sed etiam spiritualem, [col. 657D] quam in corporali significavit. Materia sunt in hoc psalmo cives Hierusalem in Babylonia captivi. Sunt enim duae contrariae civitates, una quae dicitur Hierusalem, scilicet civitas fidelium: quia quae dicitur Babylonia, est civitas omnium malorum: est autem civitas fidelium captiva in hoc mundo Babyloniis, id est, a malis hominibus, qui semper fideles impugnant, et a daemonibus, qui tentare fideles non cessant. Habent etiam viri justi et alium hostem, scilicet propriam carnem, quae semper pugnat adversum hominem interiorem; unde Apostolus: « Caro concupiscit adversus spiritum, spiritus autem adversus carnem (Gal. V). » In prima parte ostendit cives Hierusalem positos in captivitatem Babyloniae, nec unquam [col. 658A] tamen oblivisci suae patriae, scilicet Hierusalem supernae. In secunda, quae incipit: « Memor esto, Domine, filiorum Edom, » precatur vindictam de inimicis, et dicit quod ipse de parte vindicabit se, scilicet de Babylonis filia, id est, de propria carne. Intentio est admonere nos ad compassionem, scilicet, ut de malis proximorum doleamus, et maxime de spiritualibus, scilicet de damno animae.
+
+Vox prophetae, non tantum in persona sui, sed etiam aliorum; quasi ita diceret: Fratres, deplorate nobiscum captivitatem nostram et civium nostrorum, quia nos captivati per peccatum primi parentis a diabolo in Babylone, id est, in confusione peccatorum sumus: nec tantum jam sumus in fluminibus Babyloniae, id est, in profunditate vitiorum, quae ita [col. 658B] demergunt hominem, sicut quodlibet rapidissimum flumen, sed « super flumina Babylonis, » id est, juxta magnam profunditatem vitiorum, quia tot habemus inimicos in civibus Babyloniae, qui nos volunt suae voluntati conformare, quod a profunditate nequitiae Babyloniorum demergimur, et tamen supersumus, quoniam illis non consentimus. Et nos habitantes « illic, » id est, inter Babylonios, « sedimus, » id est, aliquantum erecti fuimus: quia etsi miserias in hac vita, id est in Babylone, sustinuimus, etiam per suggestiones carnis ad aliqua manum extendimus illicita, tamen quia a gravioribus abstinuimus, erecti fuisse et sedisse dicimur: ideo tentati unum verbum posuit, sedere: scilicet, quia si diceret, stetimus, praesumptio videretur; si vero, jacuimus, ruinam [col. 658C] pati videremur: dico « sedimus et flevimus » de prolatione nostri incolatus, et miseriarum quas sustinemus: « flevimus » dico, « dum recordaremur tui, » o « Sion, » coelestis, quae es vera terra nostrae promissionis.
+
+Quia flentes sumus, et in medio porcorum habitamus, ideo « suspendimus organa nostra, » id est, cessamus a verbo praedicationis. Nos dico existentes « in salicibus, » id est, inter illos qui sunt infructuosi et steriles, sicuti salices: non enim seminandum est verbum Dei inter porcos; et hoc « in medio ejus, » Babyloniae, id est in plenitudine confusionis, quia undique circumdamur a civibus Babyloniis.
+
+Ideo suspendimus, « quia illic, » id est in hac Babylone, in qua captivati tenemur, « interrogaverunt [col. 658D] nos verba cantionum, » id est, divinae praedicationis, quae erat nobis dulcis, sicut audienti jucunda est canti ena, et ludicra quasi fabulae: illi, dico, interrogaverunt, « qui captivos duxerunt nos, » id est, praecipitaverunt in peccata, aliquando reducentes ad conformitatem sui.
+
+Non tantum illi qui nos in malum praecipitaverunt, verba cantionum quaesierunt, sed « et qui abduxerunt nos, » id est, qui de bono nos removeri fecerunt, praeceperunt nobis dicentes: « Cantate nobis hymnum, » quantum ad vos, qui dicitis hoc esse laudem Dei nostri, « de canticis Sion, » id est, de laudibus illis quas vos cantatis in Sion, id est in Ecclesia.
+
+[col. 659A] Ipsi monuerunt ut cantaremus, sed quia quasi alieni erant, et canes, et porci, nullo modo cantabamus eis; et hoc est: « Quomodo cantabimus canticum Domini, » seminantes verbum divinum, « in terra aliena? » Terram alienam vocat, in qua si verbum Dei seminatur, non fructificat, sed spinis nequitiae suffocatur.
+
+Illis qui sunt alieni non cantabimus, sed, o Hierusalem coelestis, nunquam tui obliti sumus; et hoc est: « Si oblitus fuero tui, Hierusalem, dextera mea, » id est bona operatio mea, « detur oblivioni, » a Deo, id est, nullam de omnibus benefactis meis remunerationem accipiam.
+
+Non tantum dico, « si oblitus fuero, » haec mihi mala eveniant, sed « si non meminero tui, » id est, [col. 659B] si non semper habuero te in praesenti memoria, « adhaereat lingua mea faucibus meis, » id est, mutus fiam.
+
+Et etiam « si non proposuero » te, « Hierusalem, in principio laetitiae meae, » id est, si non eris tu principium et causa totius laetitiae, adhaereat similiter lingua mea faucibus meis.
+
+« Memor esto. » Pars secunda. Quia ego facio Hierusalem principium laetitiae meae, ideo, o Domine, memor esto persequentium nos, ad judicandum in eis; et hoc est: « Memor esto, Domine, filiorum Edom, » id est terrenorum, sive sanguineorum, qui nostrum effundunt sanguinem, et nos ad appetitum terrenitatis ducere volunt. Tunc dico, « memor esto filiorum in die Hierusalem, » id est, quando [col. 659C] apparebit claritas fidelium, scilicet in die judicii.
+
+« Qui, » scilicet filii Edom « dicunt » non verbis, sed factis, « Exinanite, exinanite, » id est, totum evacuate quidquid justitiae in eis est: « exinanite » dico totum illud, « usque ad fundamentum » quod est « in ea, » scilicet illud quod in eis apparet, evacuate. Fundamentum istius Hierusalem Christus est, vel fides, quo remanente, civitas ista destrui non potest: et in hoc stulti apparent, quia remanente fundamento, caetera statim reaedificabuntur.
+
+« Filia. » Precamur ut vindices in filiis Edom et nos ipsi vindicamus in parte; et hoc est: o « filia Babylonis, » id est, caro nostra nata in confusione, [col. 659D] et semper monens confusionem, et ideo « misera, beatus » est ille « qui retribuat tibi retributionem quam retribuisti nobis, » id est, qui pro afflictione in peccatis, ad quae tu semper mones interiorem hominem, reddet tibi afflictionem, jejunando, vigilando, et caeteris modis afflictionis te carnem, Babylonis filiam, macerando.
+
+Et etiam « beatus » est ille « qui parvulos tuos, » id est, suggestiones peccatorum, quos tu in homine generas, quae dicuntur parvuli dum insurgunt, et ad actum non perducuntur, « tenebit, » ne procedant usque ad actum, « et » etiam « allidet, » id est, comprimet et confringet, « ad perram, » id est, ad Christum, scilicet per memoriam et conformitatem ipsius [col. 660A] Christi. Quando enim pravae suggestiones et illi motus illiciti subrepunt, tunc debemus ad memoriam reducere quam viriliter Christus in sua vita egit, et nos ei conformare, ut ex toto valeamus illos exstinguere in nobis.

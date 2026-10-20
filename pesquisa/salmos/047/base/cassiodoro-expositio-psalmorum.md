@@ -1,0 +1,50 @@
+# Cassiodoro, Expositio Psalmorum
+- Autor: Cassiodoro (c. 485–c. 580)
+- Obra: Expositio Psalmorum (Expositio in Psalterium)
+- Passagem: Sl 46 (Vulgata), que corresponde ao Sl 47 hebr.
+- Edição: PL 70, 332D–336A
+- Fonte: https://mlat.uzh.ch/php_modules/download.php?idno=21404&type=file-txt
+- Cobre: o salmo inteiro
+- Oriental: não
+- Língua: la
+- Baixado: 2026-10-20, por pesquisa/ferramentas/base/lat-cassiodoro.py
+- Leitor: https://mlat.uzh.ch/browser/cps_2.CasViv.ExInPs (abre a obra inteira; procurar o título do salmo)
+- Nota: Texto da PL (Migne, reproduz Garet, 1679); os números soltos no texto (ex.: «107») são as páginas da edição de Garet.
+
+---
+
+EXPOSITIO IN PSALMUM XLVI.
+
+In finem pro filiis Core psalmus.
+
+Omnia quidem nomina tituli istius retinentur exposita; sed hoc, lector studiose, semper intende, ut ad causas psalmorum nominum istorum significantias aptatas intelligas. Nam si textum psalmi diligentius intuearis, nullum ex eis verbum vacare posse deprehendes. Quapropter evenit, ut modo diversitas, modo similitudo titulorum Dominum Salvatorem intendere videatur. Sed dum diversum est, fastidium relevat; cum unum 157 intelligentiae nostrae aciem [col. 333A] stabili firmitate consolidat; sic utrumque noscitur esse proficuum, quod edictum constat pro salute cunctorum. Loquuntur autem et in hoc psalmo filii Core, quos vexillo crucis mater signat Ecclesia.
+
+Divisio psalmi.
+
+Quamvis ex persona filiorum Core totus hymnus iste cantetur, sitque gratissima brevitate succinctus; diapsalmatis tamen interpositione divisus est. Primo modo commonentur gentes, ut Domino laudes debeant personare; quia populo acquisitionis cuncta subjecit, et in haereditate sua pius Arbiter collocavit. Secundo ascensio Domini et regnum ejus sub brevitate describitur, quo sancti ipsius sunt nihilominus sine fine potituri.
+
+Expositio psalmi.
+
+[col. 333B] Vers. 1. Omnes gentes plaudite manibus: jabilate Deo in voce exsultationis. Cum sit consuetudo luxuriantium elisis manibus personare, et in aurium jucunditatem per eas melos quoddam sine officio sermonis exprimere, plausum istum spiritualiter debemus accipere, qualem et filii crucis potuerunt dicere, et nos oportet audire. Plaudunt ergo manibus qui eleemosynas faciunt, qui aegrotis pro miseratione serviunt, qui aliquod mandatum probis actionibus operantur, aliudve tale quod ad Domini gratiam possit pertinere. Jubilare vero gaudere est. Qui sermo dictus est a juvando, id est delectando: quando gaudium nostrum non articulatis sermonibus, sed confusa voce proferimus. Et ne in solis talibus gaudiis haereremus, addidit, [col. 333C] in voce exsultationis: significans psalmodiam, quae Deo pro nominis sui majestate persolvitur; perfectissime commonens, ut laudem Dei sic manus peragat, quatenus gloriam ejus humana lingua non taceat. Decet enim ut praecepta Domini sui et lingua canat, et manus operetur.
+
+Vers. 2. Quoniam Deus summus, terribilis: Rex magnus super omnem terram. Reddit causas, quare Domino et plaudi debeat, et jubilari. Quae figura dicitur epexegesis, id est explanatio dicti superioris. Primum quia summus est Deus. Terribilis, quia ipse judicaturus est mundum. Rex magnus, quoniam Rex regum, et Dominus dominantium (Apoc. XIX, 16)est. Ipse est enim de quo scriptum est in titulo passionis: Rex Judaeorum (Matth. XXVII, 37). Verum est [col. 333D] quoniam ipsorum Rex fuit, sed est et cunctarum gentium, quia et Creator et Administrator est omnium; et ideo ne tantum putaretur fuisse Judaeorum, Regem dicit omnium esse terrarum. Advertant Judaei potentiam Domini ab angustiis suis longe latiusque diffusam, et colere non desinant eum, cujus ubique esse audiunt principatum.
+
+Vers. 3. Subjecit populos nobis, et gentes sub pedibus nostris. Hoc ad universos pertinet Christianos, qui divinam gratiam habere meruerunt. Populos et gentes, significat eos qui extra Ecclesiam latitare noscuntur. Omnibus enim justis spiritualiter subjecti sunt, qui eorum merita aequiparare non possunt. Sed hoc magis spiritualiter debemus advertere, ne [col. 334A] qua elatio, quod absit, sanctos viros contingere videatur. Pedes significant sanctissimas praedicationes, quibus populi merito dicebantur esse subjecti, quorum regulis tenebantur astricti, sicut Isaias propheta dicit: Quam speciosi pedes evangelizantium pacem (Isai. LII, 7).
+
+Vers. 4. Elegit nobis haereditatem suam speciem Jacob quam dilexit. Elegit nobis, subaudiendum est dare; ut qui venerat ad Israeliticum populum salvandum, hoc magis gentibus pia largitate concederet. Quam similitudinem necesse est in medium revocare, ut rei veritas evidentius possit agnosci. Esau carnalis cibi suavitate [ ed., vanitate] pellectus, a fratre suo Jacob lenticulam postulavit (Gen. XXV, 30): cui ille respondit sic esse faciendum, si ei a germano [col. 334B] suo primogenitorum gloria cederetur. Ille terrenarum rerum avidus inquisitor cessit honorem suum; eoque facto contigit ut Jacob felici commercio carnalia offerret, quatenus spiritualia conquirere potuisset. Ipsa est enim species Jacob, quam Dominus nimis dilexit; ut et fideles famulos suos eadem facere vellet, quae ille sequenda mystica significatione praemonuit. Sic enim Christiani vere dicimur, si terrena offerentes, coelestia conquiramus.
+
+Vers. 5. Ascendit Deus in jubilatione: Dominus in voce tubae. Veniunt filii Core ad secundum modum, ubi tempus illud pia laude concelebrant, quando corporalibus oculis ascensio Domini gloriosa veritate conspecta est. In jubilatione vero propterea dictum est, quoniam stupentes apostoli tale miraculum [col. 334C] ineffabili cordis laetitia replebantur; quorum felicibus oculis datum est ad coelos euntem videre Dominum Salvatorem. Jubilationem vero diximus nimiam quidem esse laetitiam, sed non quae sermonibus explicatur. Vocem quoque tubae verba significant angelorum, quae magno strepitu percussi aeris fragore tonuerunt. Tunc enim de tali visione apostolis stupentibus dixerunt angeli: Viri Galilaei, quid admiramini? Hic Jesus qui assumptus est a vobis sic veniet, quemadmodum vidistis eum euntem in coelum (Act. I, 11); ut mundus firmius crederet quod talibus praeconibus insonaret.
+
+Vers. 6. Psallite Deo nostro, psallite: psallite Regi nostro, psallite. Non vacat quod toties iste sermo repetitur; agnoscitur enim quam utile, quam salutare [col. 334D] sit opus quod tam crebra voluit iteratione repetere. Quae figura dicitur epembasis, quoties ad decorem geminandum verba repetuntur. Psallere enim est bonis actionibus laudes Deo canere; quod si bene exhibeatur, etiam cum angelis nobis probatur esse commune, qui Dei praeconia jugiter spirituali exsultatione concelebrant. Sequitur: Psallite Regi nostro, psallite. Regi nostro, id est Christo Domino dixit, non alieno quem decet ista laudatio; quoniam solus est qui merito laudes accipiat, quando ipse et universa creat, et creata jugiter administrat.
+
+Vers. 7. Quoniam Rex omnis terrae Deus: psallite sapienter. Hoc propter illos dicitur qui sibi per singula loca diversa numina faciebant, Venerem in [col. 335A] Papho, Martem in Thracia, Jovem in Creta. Debet enim omnipotens Rex universaliter coli, qui solus creator et liberator esse probatur cunctorum. Adjecit, psallite sapienter; ut non solum cantantes, sed intelligentes psallere 158 debeamus. Nemo enim sapienter quidquam facit, quod non intelligit.
+
+Vers. 8. Regnavit Dominus super omnes gentes: Deus sedet super sedem sanctam suam. Venerunt filii Core ad saeculi futuri perpetuam felicitatem, ubi jam dicunt Dominum gentibus regnaturum; nam quamvis et nunc omnibus regnet, tunc tamen proprie regnare dicitur, quando in suis fidelibus manifestius habitare monstratur. Super omnes gentes, Jerusalem coelestem designat, quae ex omnibus nationibus adunatur. Sequitur: Deus sedet super sedem sanctam suam; Dominum [col. 335B] significat Salvatorem, qui sedet ad dexteram Patris, regnans per saecula saeculorum. Et intuere quod ipsam sedem sanctam dicit, ne intelligeres aliqua insensata aut ratione carentia, sed virtutes et thronos quibus ille gloriosus Regnator insidet. Potest hoc et de sanctis intelligi; nam si quis habeat beneficium bonae conversationis, et ipse fit sine dubio sella regalis. Quod si altius intendas totum contra perfidos dicitur; ut audita potestate succumbant, qui humanitatem ejus putant esse temnendam.
+
+Vers. 9. Principes populorum convenerunt cum Deo Abraham. Principes populorum, id est primarii gentium diversarum, de quibus principium psalmi canit: Omnes gentes, plaudite manibus. Convenerunt, ac [col. 335C] si diceret crediderunt. Convenire enim est ad unum multos venire. Cum Deo Abraham, hoc est in Christum qui Deus est Abrahae. Expulsis enim infidelibus Judaeis qui carne tantum, non operibus erant filii Abrahae, plenitudinem gentium intromisit ad illam promissionis beatitudinem possidendam, quam promiserat Abrahae et semini ejus. Filii enim ipsius per sanctam fidem facti sunt, qui carnis semine non fuerunt.
+
+Vers. 10. Quoniam dii fortes terrae nimium [mss. A., B., F., vehementer] elevati sunt. Sensus iste pendet de superiore versiculo. Ideo enim principes populorum convenerunt cum Deo Abraham, quia fortes terrae, qui erant populus Dei, nimium elevati sunt; id est Judaei, quibus data fuerat virtus in gentibus, erecti [col. 335D] contra Deum scelerata mente tumuerunt, et facti sunt per superbiam extremi, qui per humilitatem potuerunt esse praecipui.
+
+Conclusio psalmi.
+
+Intueamur textum psalmi istius verbis non virtutibus brevem. Nam et numerus ipse grandia nobis sacramenta declarat; quadragesimo quippe sexto anno in mystica interpretatione templum Domini Jerosolymis legimus fuisse perfectum. Anni autem isti a veteribus pro diebus sunt positi, qui sexies perfecto numero multiplicati efficiunt dies ducentos septuaginta sex, quantum in utero virginali Dominus noster ad similitudinem humani generis habitasse [col. 336A] monstratur; id est a die octava calendarum Aprilium, usque in diem octavum calendarum Januariarum. Merito ergo totus hic psalmus specialiter de Domino dictus intelligitur, quando et ejus numerus praedicto modo ad sacramentum ipsius conceptionis et nativitatis competenter aptatur.

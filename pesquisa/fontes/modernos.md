@@ -235,33 +235,6 @@ portuguesa) dá a lista completa em segundos. Os arquivos são ISO-8859-1. Para 
   o mesmo com `path:web/www/horas/Latin` (busca por «Num 12» deu só falsos positivos).
 - **Universalis**: bloqueia `curl` e cobra pelo Ofício das Leituras; para ele, usar outro breviário.
 
-## 11. Achados novos de Nm 13 (2026-10-17)
-
-- **Francisco de Sales, índice escriturístico**: o t. XXVII da edição de Annecy (Table analytique),
-  `https://www.donboscosanto.eu/francesco_di_sales/27-Oeuvres%20de%20S.%20Francois%20de%20Sales-Tome%20XXVII-Table%20analytique-web.pdf`,
-  tem um **Index scripturaire** com todas as citações bíblicas das *Œuvres* (tomo e página, versículos
-  na numeração da Vulgata). Baixar, `pdftotext`, e procurar o livro (ex.: «NOMBRES»): dá os lugares em
-  segundos, inclusive nas cartas (t. XI–XXI), que a busca de palavras não cobre. Os tomos com «-web» no
-  nome são os leves.
-- **Clerus (Biblia Clerus)**: o índice de cada livro é navegável sem busca: `http://www.clerus.org/bibliaclerusonline/en/65g.htm`
-  → livro (Números = `wu.htm`) → capítulo (`gpg.htm#rk` para Nm 13) → no fim de cada perícope, o link
-  das citações (ex.: `9abv11m.htm` = Nm 13,1-24). Mostra Padres, Magistério, Lecionário e Antônio de Pádua.
-- **Cantus Index, busca de texto**: `https://cantusindex.org/json-text/<palavra>` devolve, em JSON (com BOM:
-  ler com `utf-8-sig`), o texto inteiro de antífonas, responsórios, hinos e **sequências** (inclusive as do
-  *Analecta Hymnica*, ids `ah<vol><nº>`) que contêm a palavra. Achou três sequências com o cacho de
-  Escol («botrum», «botrus», «vecte», «bajulus»). A página `https://cantusindex.org/id/<id>` abre a peça.
-- **Iconografia tipológica**: Warburg Institute Iconographic Database
-  (`https://iconographic.warburg.sas.ac.uk/`), com as inscrições do altar de Verdun (Klosterneuburg, 1181)
-  e as cenas do *Speculum humanae salvationis*, classificadas por versículo.
-- **Liturgia das Horas, ciclo de um ano**: índice bíblico do Ofício das Leituras por Felix Just,
-  `https://catholic-resources.org/LoH/OfficeOfReadings-Biblical-Index.html` (livro → dia e página do volume
-  americano). Números na Quaresma: Nm 11,4-6.10-30; Nm 12,16–13,3.17-33 (quinta da 4ª semana); Nm 14,1-25
-  (sexta da 4ª semana); Nm 20,1-13; 21,4-9 (dias dos outros a conferir no índice).
-- **Bloqueios**: bible.usccb.org (desafio anti-robô) e escriva.org (403) não abrem por `curl`; para as
-  leituras do dia, usar ewtn.com/daily-readings/AAAA-MM-DD ou ucatholic.com.
-- **Bossuet**: `Œuvres complètes` (Guérin, 1885) no archive.org, `oeuvrescompl01boss`…`oeuvrescomplt10boss`
-  (OCR em `…_djvu.txt`); a lista sai de `https://archive.org/advancedsearch.php?q=creator%3A%28Bossuet%29+AND+title%3A%28oeuvres%29&fl%5B%5D=identifier&rows=300&output=json`.
-
 ## 12. Achados novos do Sl 35 (2026-10-17)
 
 - **Divinum Officium sem a API do GitHub**: a busca de código (`gh api search/code`) estoura o limite de
@@ -293,45 +266,9 @@ portuguesa) dá a lista completa em segundos. Os arquivos são ISO-8859-1. Para 
   (`fitz`, instalado) e ler a imagem. Página do PDF = página do livro + 4 (Sl 34 = pp. 152–155 = PDF 156–159).
 - **Newman**: os endereços do newmanreader são `https://` (o `http://` dá 302 e o `curl -f` grava a página de
   redirecionamento). 259 sermões em ~1 min com `xargs -P 16`.
-## 13. Achados novos de Nm 14 (2026-10-18)
+## Cartas de São Paulo
 
-- **Belarmino, *Opera omnia*** (ed. Vivès, 1870–1874, 12 t.) no archive.org, com OCR: `operaomnia01bell_0`,
-  `02bell_0`, `03bell_0`, `operaomnia04bell`, `05bell`, `06bell_0`, `07bell` … `12bell` (`<id>_djvu.txt`). t. III =
-  *De Ecclesia militante / purgatorio*; t. IV = sacramentos (*De Eucharistia*, *De Poenitentia*); t. VI = *De gratia et
-  libero arbitrio*; t. X–XI = ***Explanatio in Psalmos*** (comentário de todos os salmos, numeração da Vulgata);
-  t. VII traz defesa de Belarmino por outro autor. Busca: `Num. xiv`, `Numer. XIV`, `Num. 14` (o OCR põe as
-  referências em romanos minúsculos). Os cabeçalhos de capítulo vêm como «CAPUT XI.», «LIBER IV.» e o título da
-  obra em maiúsculas espaçadas («DE P (ENITENTIA», «UBER QUARTUS»): achar com `grep -E` e espaços múltiplos.
-- **Varredura completa dos Papas** (Francisco, Bento XVI, João Paulo II, Leão XIV), em italiano: os índices anuais
-  `https://www.vatican.va/content/<papa>/it/<homilies|audiences|angelus|cotidie>/<AAAA>.index.html` listam todos
-  os documentos do ano (links `href="/content/<papa>/it/<tipo>/<AAAA>/documents/….html"`). Baixar com
-  `xargs -P 24` (≈4.000 documentos em ~5 min) e procurar «Nm 14», «Numeri 14», nomes e frases. Francisco:
-  2.584 documentos; Bento XVI + João Paulo II (sem Angelus): 4.169; Leão XIV: 352 (inclui exortações, encíclicas
-  e mensagens). Para outro capítulo, refazer é rápido.
-- **Clerus**, índice de Números: os capítulos estão em arquivos sequenciais, `…/en/gpg.htm` (RSV, cap. 7 a 13),
-  `…/en/gph.htm` (cap. 14 a 20…); os links das citações têm `title="Nb 14,1-12"` etc.
-- **Lecionário da CNBB**: a Canção Nova guarda cada dia litúrgico em
-  `https://liturgia.cancaonova.com/pb/liturgia/<semana>-<dia>[-N]/` (ex.: `18a-semana-tempo-comum-quarta-feira-5`);
-  os sufixos `-1`…`-7` são anos diferentes (ano I/II); provar todos e procurar a referência. A *Palavra do dia* do
-  Vatican News (`https://www.vaticannews.va/pt/palavra-do-dia/AAAA/MM/DD.html`) traz a 1ª leitura e o evangelho
-  (sem o salmo). Texto da CNBB com direito autoral: guardar só referência, nomes e citação curta.
-- **Lecionário, índice por livro** (Felix Just): `https://catholic-resources.org/Lectionary/Index-Pentateuch.htm`
-  (e `Index-Deuteronomistic-History.htm`, `Index-Deuterocanonicals.htm`, `Index-Sundays.htm`, `Index-Weekdays.htm`):
-  todas as perícopes da Missa de cada livro, com o número do OLM.
-- **Santo Afonso**: as páginas `_FA<c>.HTM` da concordância têm os links na forma `<a href=…>palavra</a>` com a
-  frequência antes; para ver o contexto, abrir a página da palavra e seguir o link da linha (o rótulo da obra vem
-  deslocado). Achados de Nm 14: *Apparecchio alla morte* XVIII, 1 (`_P3J.HTM`) e *Sermoni compendiati* XV (`_P31I.HTM`).
-- **Francisco de Sales**: o Index scripturaire (t. XXVII) já citado no § 11 deu todos os lugares de Nm 14; as cartas
-  a Santa Joana de Chantal de 1605 estão no t. XIII.
-- **Missal antigo, textos inteiros**: `web/www/missa/Latin/Tempora/Quad6-5.txt` (Sexta-feira Santa, Improperios) e
-  `web/www/horas/Latin/Psalterium/Invitatorium.txt` (Sl 94 do invitatório) no repositório do Divinum Officium
-  (`https://raw.githubusercontent.com/DivinumOfficium/divinum-officium/master/…`).
-
-## Cartas de São Paulo (primeiro uso: 2Cor 1, 2026-10-18)
-
-O catálogo das fontes paulinas ficou na pasta do capítulo; ler antes do próximo capítulo de Paulo:
-
-- `../2corintios/001/fontes-modernos.md`: Catecismo, catequeses de Bento XVI sobre Paulo, Newman, Francisco de Sales, a liturgia (lecionário, Liturgia das Horas, Missal antigo).
+Tudo em `paulo.md` (o mapa das cartas: as obras de cada carta, a tabela das homilias de Crisóstomo e a pré-pesquisa de 2Cor 3–13).
 
 ## 14. Achados novos do Sl 36 (2026-10-20)
 
@@ -364,3 +301,7 @@ O catálogo das fontes paulinas ficou na pasta do capítulo; ler antes do próxi
 - **Rito bizantino**: a Grande Doxologia do Orthros termina com Sl 35,10-11 (LXX); texto grego atual na Wikipedia
   («Gloria in excelsis Deo», seção «Present-day Greek Orthodox text»). Vale procurar outros salmos citados nela
   (Sl 89,1; 40,5; 142,9-10) e nos ofícios bizantinos das festas.
+
+## Por livro
+
+O que é de um livro só (quem comenta que capítulo, o que se achou em cada um) fica no mapa do livro: `numeros.md`, `salmos.md`, `paulo.md`. Aqui ficam o acesso às fontes e o que vale para a Bíblia inteira (20/10/2026).

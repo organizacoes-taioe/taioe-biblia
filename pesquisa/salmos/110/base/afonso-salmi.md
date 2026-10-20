@@ -1,0 +1,42 @@
+# Santo Afonso Maria de Ligório, Traduzione de' Salmi e de' Cantici
+- Autor: Santo Afonso Maria de Ligório (1696–1787)
+- Obra: Traduzione de' Salmi e de' Cantici che si contengono nell'Officio Divino (1774)
+- Passagem: Sl 110 (hebraico) = Sl 109 (Vulgata, numeração de Afonso); pp. 836–838 da edição-base do IntraText
+- Edição: Napoli/Bassano 1774–1775; texto do IntraText (EuloTech), ortografia modernizada
+- Fonte: https://www.intratext.com/IXT/ITASA0000/_P37A.HTM
+- Cobre: o salmo inteiro (argomento e, versículo a versículo, latim da Vulgata e paráfrase italiana)
+- Oriental: não
+- Língua: it
+- Baixado: 2026-10-20, por pesquisa/ferramentas/base/mod-afonso-salmi.py
+
+## Sl 109 da Vulgata — Salmo 1. (109. del salterio.) (DOMENICA - A VESPRO)
+
+Qui si parla del regno di Gesù Cristo, della sua generazione eterna e temporale, del suo sacerdozio e della sua passione. Questo salmo dee intendersi letteralmente del nostro Salvatore Gesù Cristo, mentr'egli stesso l'ha applicato a sé, come si legge in s. Matteo 22. 44., per convincere i giudei ch'esso era vero figlio di Dio; poiché fece loro questa interrogazione: Come mai Davide chiamò Cristo suo Signore (dixit Dominus Domino meo), giacché Cristo era discendente da Davide? E quindi strinse l'argomento: Si ergo David vocat eum Dominum, quomodo filius eius est? (Ibid. 45.). I giudei non opposero già che il Messia non poteva essere Signore di Davide come vero Dio, ma dicevano ch'egli non era quel Messia ossia Cristo nominato da Davide: ma noi cristiani crediamo tutti che Gesù fu il vero Messia; con che restan convinti gli ariani che negano essere stato Cristo vero figlio di Dio e vero Dio come il Padre: ma come posson negarlo, chiamandolo Davide suo Signore, quando Cristo era figlio di Davide?
+
+Dixit Dominus Domino meo: Sede a dextris meis. Disse il Signore al mio Signore, cioè l'eterno Padre a Gesù Cristo: Siedi alla mia destra. L'ebreo legge: Dixit Iehova Adoni, cioè disse Dio al Signore, poiché Iehova è un nome che compete solo a Dio e significa quegli che è; gli ebrei non nominavano Dio per riverenza; Adoni poi significa al Signore, mentre volle Davide ivi spiegare che il Padre parlava al Figlio non solo come Dio, ma ancora come uomo; e perciò si servì della parola Adoni che competeva al messia tanto come Dio, quanto come uomo. Ma se si fosse servito, parlando a Cristo, della parola Iehova, si sarebbe inteso che gli parlava solo come a Dio, non come ad uomo. Sede a dextris meis. La parola Sede significa l'autorità suprema data a Cristo: a dextris meis, il sedere alla destra significa in luogo eguale al Padre; poiché Cristo ha lo stesso regno del Padre, non solo come Dio, ma ancora come uomo, poiché la sua santissima umanità è stata elevata a tal sede per l'unione ipostatica col Verbo, secondo quel che scrive s. Paolo[n. 1], dove vers. 11 dicesi: Iesus Christus in gloria est Dei Patris. E non si dubita che est in gloria è lo stesso che sede a dextris meis, cioè in maiestate Dei, come abbiamo anche in s. Marco[n. 2], dove, parlandosi di Gesù asceso in cielo, dicesi: Assumptus est in coelum et sedet a dextris Dei. Commenta s. Ambrogio: Audit quasi homo, sedet quasi Filius[n. 3].
+
+Donec ponam inimicos tuos scabellum pedum tuorum. Mentre io porrò i tuoi nemici per iscabello de' tuoi piedi; s'intende: regnerai alla mia destra, anche nel tempo che soggiogherai i tuoi nemici, secondo quel che scrive s. Paolo: Oportet autem illum regnare, donec ponat omnes inimicos sub pedibus eius[n. 4]. La parola donec si spiega dagli espositori mentre; tanto più che, come dice il Mattei, donec non significa sempre cose finite. E ne porta l'esempio in Isaia, che scrive, parlando di Dio: Ego sum, et sum donec senescatis.
+
+Virgam virtutis tuae emittet Dominus ex Sion; dominare in medio inimicorum tuorum. Qui David parla a Cristo e gli dice: Il Signore, cioè il vostro eterno Padre farà uscire dal monte Sion ossia da Gerusalemme lo scettro della vostra potenza e del vostro regno che si spanderà per tutta la terra; siccome predisse Gesù Cristo a' suoi discepoli che doveano cominciare a promulgar la fede da Gerusalemme: Et praedicari in nomine eius... incipientibus ab Hierosolima[n. 1]. Scrive il Mattei che per virgam più s. padri intendono la croce, ch'è lo scettro di Gesù Cristo, la cui fede prima si predicò in Sionne e poi passò ai gentili.
+
+Tecum principium in die virtutis tuae in splendoribus sanctorum; ex utero ante Luciferum genui te. Questo verso è difficile in più parole che vi sono: gli espositori ne danno diverse spiegazioni; ma io per non confondere il lettore ne seguiterò una sola. Tecum principium, alcuni l'intendono pel Verbo, che ben anche è principio, secondo quelle parole di Gesù Cristo: Sicut tu, Pater, in me, et ego in te[n. 2]. Ma comunemente si spiega principium per principatus, come leggono i settanta; e così l'intende Tertulliano[n. 3], scrivendo: Principium pro principatu sumitur. Seguitano le parole in die virtutis tuae, che dal Mattei coll'autorità (come dice) di più santi padri si spiegano dell'eternità, cioè ab aeterno: ma da altri molto probabilmente si spiegano pel giorno del giudizio finale, in cui dimostrerà Gesù Cristo la sua potenza sovra tutte le creature; e così spiegano s. Agostino, Teodoreto, Lallemand e molti altri. In splendoribus sanctorum, allorché l'eterno giudice sarà circondato da' santi che risplenderanno come tanti soli: Tunc iusti fulgebunt sicut sol etc.[n. 4]. Seguita: ex utero ante luciferum genui te; ciò s'intende, come scrive s. Tomaso, della generazione eterna del Verbo: Io ti ho generato prima della stella lucifero, cioè prima di tutte le creature, mettendo la parte per il tutto; ex utero, cioè dalla mia sostanza, come dice s. Girolamo, ex utero, de sua natura, de sua substantia. Sicché la spiegazione di questo verso è questa: Mio figlio, allora comparirà il tuo principato sovra tutto il creato, quando sederai nel trono a giudicare il mondo in mezzo a' santi che splenderanno come soli; poiché io ti ho generato dalla mia sostanza prima delle stelle e di tutte le creature ab aeterno.
+
+Iuravit Dominus et non poenitebit eum: Tu es sacerdos in aeternum secundum ordinem Melchisedech. Giurò il Signore, né di ciò mai si pentirà; viene a dire: stabilmente giurò e disse: Tu sei sacerdote eterno secondo l'ordine di Melchisedecco. Dice in aeternum, a differenza de' sacerdoti di Aronne che si mutavano o morivano; ma Gesù Cristo è sacerdote in eterno, perché anche in cielo egli offerisce i meriti della sua passione per la salute degli uomini finché essi vivranno su questa terra, e dopo la fine del mondo seguirà per sempre ad offerirgli in ringraziamento per parte degli uomini delle grazie loro donate da Dio: a differenza ancora de' sacrifizj dell'antica legge, ne' quali sacrificavansi animali; ma Melchisedecco sacrificò pane e vino; nel che fu figurato il sacrifizio della messa, in cui Gesù Cristo è il principal sacrificante.
+
+Dominus a dextris tuis, confregit in die irae suae reges. Il Signore sarà sempre al vostro lato, e nel giorno della sua giusta vendetta egli abbatterà le potenze de' re vostri nemici. Ben avverte qui il Mattei che invece di a dextris tuis legge l'ebreo super dextera tua; onde non significa qui, come spiegano alcuni, il sedere alla destra, ma dinota che il Signore, cioè l'eterno Padre avrebbe data a Cristo la fortezza per abbattere tutti i suoi nemici.
+
+Iudicabit in nationibus, implebit ruinas; conquassabit capita in terra multorum. Cristo giudicherà le nazioni ribelli e adempierà i castighi loro minacciati; fracasserà nella terra quelle teste superbe che si solleveranno contro di lui.
+
+De torrente in via bibet; propterea exaltabit caput. Il Mattei insieme con Marco Marino spiega così: Egli farà scorrere il sangue de' suoi nemici come un torrente, in cui si disseterà. Ma altri spiegano così: Egli nonperò, questo Dio fatto uomo prima nella sua vita mortale berà nel torrente, cioè nella sua passione, che a guisa di un torrente di pene gli darà la morte; ma per questa morte egli eleverà il capo, poiché sarà innalzato al trono della sua gloria, come scrisse l'apostolo: Videmus Iesum propter passionem mortis gloria et honore coronatum, ut gratia Dei pro omnibus gustaret mortem[n. 1]. Morte che ha recata la vita a tutti gli uomini.
+
+Notas de Afonso (rodapé da edição):
+
+- [n. 1] Phil. 2. 6. et seq.
+- [n. 2] 16. 19.
+- [n. 3] Apol. 2. David. c. 4.
+- [n. 4] 1. Cor. 15. 25.
+- [n. 1] Luc. 24. 47.
+- [n. 2] Io. 17. 21.
+- [n. 3] Adv. Hermonog. c. 19.
+- [n. 4] Matth. 13. 43.
+- [n. 1] Hebr. 11. 9.

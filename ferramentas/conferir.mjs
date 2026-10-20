@@ -3,7 +3,9 @@
 // - nenhuma mesóclise, nenhum pronome contraído, nada de uso europeu (texto, notas, comentários);
 // - versículos em ordem, sem lacuna nem duplicata; nenhum `np` logo depois de subtítulo;
 // - notas com âncora que existe no versículo; ids únicos e no formato da revisão;
-// - comentários com autor, obra, passagem, texto e link https; tema com id, título e itens.
+// - comentários com autor, obra, passagem, texto e link https; tema com id, título e itens;
+// - autor cadastrado em ferramentas/autores.json; nenhum excerto repetido de um capítulo para outro.
+// No fim mostra, por capítulo, quantos comentários são de Padres orientais.
 import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
@@ -28,6 +30,17 @@ function texto(onde, s) {
 
 const ID = /^[a-z0-9][a-z0-9._-]{0,60}$/;
 const livros = JSON.parse(fs.readFileSync(path.join(C, 'livros.json'), 'utf8'));
+const AUTORES = JSON.parse(fs.readFileSync(path.join(RAIZ, 'ferramentas', 'autores.json'), 'utf8'));
+// Excerto repetido: dois comentários de capítulos diferentes que partilham metade das sequências
+// de 8 palavras do menor (o mesmo trecho, ainda que cortado de outro jeito).
+const excertos = [];
+const sequencias = (s) => {
+  const p = s.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/[^a-z0-9 ]+/g, ' ').split(/\s+/).filter(Boolean);
+  const out = new Set();
+  for (let i = 0; i + 8 <= p.length; i++) out.add(p.slice(i, i + 8).join(' '));
+  return out;
+};
+const orientais = [];
 let ncaps = 0;
 for (const l of livros) {
   const dir = path.join(C, l.id);
@@ -62,6 +75,7 @@ for (const l of livros) {
       texto(`${onde} nota ${n.id}`, n.texto);
     }
     // comentários
+    let nCom = 0, nOr = 0;
     for (const [tid, com] of Object.entries(c.comentarios || {})) {
       if (!c.trechos.some((t) => t.id === tid)) erro(onde, `comentários de um trecho que não existe: ${tid}`);
       const temas = new Set(), itens = new Set();
@@ -74,6 +88,10 @@ for (const l of livros) {
         for (const it of t.itens || []) {
           if (!ID.test(it.id) || itens.has(it.id)) erro(onde, `comentário com id ruim ou repetido: ${it.id}`);
           itens.add(it.id);
+          const a = AUTORES[it.autor];
+          if (!a) erro(onde, `comentário ${it.id}: autor fora de ferramentas/autores.json: ${it.autor}`);
+          nCom++; if (a && a.oriental) nOr++;
+          if (it.texto) excertos.push({ onde: `${l.id}/${f} ${it.id}`, cap: onde, seq: sequencias(it.texto) });
           for (const k of ['autor', 'obra', 'passagem', 'texto']) if (!it[k]) erro(onde, `comentário ${it.id} sem ${k}`);
           if (!/^https:\/\//.test(it.link || '')) erro(onde, `comentário ${it.id} sem link https`);
           texto(`${onde} comentário ${it.id}`, it.texto);
@@ -85,6 +103,7 @@ for (const l of livros) {
         }
       }
     }
+    if (nCom) orientais.push(`${onde.replace('.json', '')} ${nOr}/${nCom} (${Math.round((100 * nOr) / nCom)}%)`);
     // revisão
     for (const e of (c.revisao && c.revisao.escolhas) || []) {
       if (!ID.test(e.id)) erro(onde, `escolha com id ruim: ${e.id}`);
@@ -92,5 +111,17 @@ for (const l of livros) {
     }
   }
 }
+for (let i = 0; i < excertos.length; i++) {
+  for (let j = i + 1; j < excertos.length; j++) {
+    const a = excertos[i], b = excertos[j];
+    if (a.cap === b.cap) continue;
+    const [m, M] = a.seq.size <= b.seq.size ? [a.seq, b.seq] : [b.seq, a.seq];
+    if (m.size < 4) continue;
+    let comum = 0;
+    for (const x of m) if (M.has(x)) comum++;
+    if (comum / m.size >= 0.5) erro(a.onde, `o mesmo excerto já está em ${b.onde}`);
+  }
+}
 if (erros.length) { console.error(erros.join('\n')); console.error(`${erros.length} problema(s)`); process.exit(1); }
 console.log(`ok: ${ncaps} capítulo(s) conferido(s)`);
+if (orientais.length) console.log(`Padres orientais: ${orientais.join('; ')}`);

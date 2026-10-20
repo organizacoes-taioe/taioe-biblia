@@ -1,0 +1,24 @@
+# Arnóbio, o Jovem, Commentarii in Psalmos
+- Autor: Arnóbio, o Jovem (séc. V)
+- Obra: Commentarii in Psalmos
+- Passagem: Sl 64 (Vulgata), que corresponde ao Sl 65 hebr.
+- Edição: PL 53, 412C–414A
+- Fonte: https://mlat.uzh.ch/php_modules/download.php?idno=21351&type=file-txt
+- Cobre: o salmo inteiro
+- Oriental: não
+- Língua: la
+- Baixado: 2026-10-20, por pesquisa/ferramentas/base/lat-arnobio.py
+- Leitor: https://mlat.uzh.ch/browser/cps_2.ArnJun.CoInPs (abre a obra inteira; procurar o título do salmo)
+- Nota: Semipelagiano (ver fontes/latinos.md): usar com cuidado.
+
+---
+
+PSALMUS LXIV.
+
+In finem psalmus David canticum Aggaei, Jeremiae et Ezechielis, de verbo peregrinationis, et de populo transmigrationis, cum inciperent proficisci.
+
+Te decet hymnus, Deus, in Sion, et tibi reddetur votum in Jerusalem. Exaudi orationem meam, ad te omnis caro veniat. Verba iniquorum praevaluerunt super nos, et impietatibus nostris tu propitiaberis. Beatus quem elegisti et assumpsisti, inhabitabit in atriis tuis. Replebimur in bonis domus tuae, sanctum est templum tuum, mirabile in aequitate. Exaudi nos, Deus salutaris noster, spes omnium finium terrae et in mari longe. Praeparans montes in virtute tua, accinctus potentia: qui conturbas profundum maris, sonum fluctuum ejus. Turbabuntur gentes et timebunt qui inhabitant terminos a signis tuis, exitus matutini et vespere delectabis. Visitasti terram et inebriasti eam; multiplicasti locupletare [col. 413A] eam. Flumen Dei repletum est aquis, parasti cibum illorum, quoniam ita est praeparatio ejus. Rivos ejus inebrians multiplica genimina ejus, in stillicidiis ejus laetabitur germinans. Benedices coronae anni benignitatis tuae, et campi tui replebuntur ubertate. Pinguescent speciosa deserti, et exsultatione colles accingentur. Induti sunt arietes ovium, et valles abundabunt frumento, clamabunt etenim, hymnum dicent.
+
+COMMENTARIUM.
+
+In Hebraeo non habet nec Jeremiam, nec Aggaeum, nisi solum David. Sed Esdra habens charitatem eorum, voluit eos memorare, asserens istum psalmum David cecinisse eos in prophetationis suae initio: hoc est, extra terra aliena est, et non potest cantare [col. 413B] hymnos in terra aliena. Sit ergo Sion anima nostra, ut deceat hymnum in ea dici. Decebit autem Sion eam esse, si reddiderit votum Jerusalem, si quod votum fecit Deo, se renuntiaturum diabolo et pompis ejus, impleverit, tunc exaudit Deus orationem ejus, cum omnis caro ad eum venerit. Non est enim nec tribus, nec gens, ex qua non genuflectetur Domino Jesu Christo. Praedicantibus enim apostolis, in omnem terram exivit sonus eorum (Philip. II). Et licet verba iniquorum, Pharisaeorum scilicet, praevaluerint super eos, et impie eos afflixerint: Sed impietatibus, inquit, quas patimur tu propitiaberis. Beatus est enim Dominus Jesus Christus, quem elegisti et assumpsisti, hic habitavit in tabernaculis tuis, quando replesti in bonis domus tuae, in qua sanctum templum tuum [col. 413C] regnat non manufactum, sed verbo genitum, et vir ginali utero procreatum, cui dicimus: Exaudi nos, Deus salutaris noster, spem enim omni generi humano tu tribuisti, etiam his qui longe sunt, et his qui prope. Quando parasti montes in virtute tua, quibus dixisti: Praedicate Evangelium omni creaturae (Matth. XVI). Signa autem credentibus haec ostendetis: infirmos curabitis, caecos illuminabitis, mortuos suscitabitis. Ab his signis turbatae sunt gentes, et timent Deum omnes qui habitant fines terrae; ab his enim signis timor Dei super faciem terrae sumpsit exordium. Et in exitu matutini et vesperi delectabitur Deus, id est, in Oriente et Occidente in aedificationibus Ecclesiarum delectaberis, ex quo visitasti terram adventu tuo, et inebriasti eam sanguine tuo, quando flumen [col. 413D] Jordanis repletum est aquis, vocibus scilicet prophetarum. Tunc parasti cibum, non qui periit, quia ita est praeparatio tua Rivos ejus inebriasti, ita ut cum esset hora diei tertia, illi ebrii putarentur. Tempore quo multiplicasti generationes ejus; cujus ejus? id est Jordanis, quod est baptismate. Ibi erant, quando rivos ejus inebriasti, Parthi, et Medi, et Elamitae, Cretes, Syri, Arabes, Romani, Cyrenaei. Et pene omnes gentes, ex quibus multiplicasti generationes ejus, quando quasi stillicidiis coelestibus coepit exoriri. Tunc inchoavit corona anni diem sanctum Paschae, et campi repleti sunt ubertate, omnia fertilitate congaudent, festivitate epulantur, ita ut fines deserti pinguescant, et exsultatione colles accingantur. [col. 414A] Induentur enim arietes mansuetudine ovium, non ventilabunt cornubus, et convalles abundabunt frumento corporis Christi. Quod quando accipient, clamabunt arietes, et oves simul, hymnum dicentes Christo Filio Dei, qui regnat cum Patre et Spiritu sancto, in unitate Deitatis, et in Trinitate unitatis in saecula saeculorum. Amen.

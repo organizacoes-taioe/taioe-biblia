@@ -1,0 +1,5 @@
+# Pistas de 2Cor 13 — pacote Paulo, 2026-10-20
+
+- Newman, *Parochial and Plain Sermons* II, 17, «The Gospel Witnesses» (texto: **2Cor 13,1**), pp. 199–200: achado `newman-pps2-17-gospel-witness` em `../002/achados-modernos.json` (usado em 2Cor 2 por citar 2,16); o sermão inteiro é sobre 13,1.
+- (Não consta dos relatórios, a conferir: 13,13 é a saudação trinitária da Missa, «A graça de nosso Senhor Jesus Cristo, o amor do Pai e a comunhão do Espírito Santo…».)
+- Pistas gerais (valem para todos os capítulos de 2Cor) estão em `pesquisa/fontes/paulo.md`, seção 7, «Pistas gerais para qualquer capítulo de Paulo»: Marcião e o *Panarion* 42 de Epifânio; as glosas de Staab (Dídimo, Severiano, Ecumênio, Fócio); o Biblindex; a busca em massa nos caches de grego; os sermões de Agostinho fora dos Maurinos; o *Index scripturaire* de Francisco de Sales; Newman; a concordância de Santo Afonso; os discursos dos Papas e o Clerus. As varreduras dos Papas, do Catecismo e de Tomás fora do comentário foram feitas só para 2Cor 1 e 2: **para 2Cor 3–13 ainda não foram feitas**.

@@ -1,0 +1,54 @@
+# Santo Hilário de Poitiers, Tractatus super Psalmos
+- Autor: Santo Hilário de Poitiers (c. 315–367)
+- Obra: Tractatus super Psalmos
+- Passagem: Sl 141 (Vulgata), que corresponde ao Sl 142 hebr.
+- Edição: PL 9, 833A–837B
+- Fonte: https://mlat.uzh.ch/php_modules/download.php?idno=21450&type=file-txt
+- Cobre: o salmo inteiro
+- Oriental: não
+- Língua: la
+- Baixado: 2026-10-20, por pesquisa/ferramentas/base/lat-hilario.py
+- Leitor: https://mlat.uzh.ch/browser/cps_2.HilPic.TrSuPs (abre a obra inteira; procurar o título do salmo)
+- Nota: Hilário só comentou parte do Saltério (ver fontes/salmos.md). Os números soltos no texto são páginas da edição antiga.
+
+---
+
+PSALMUS CXLI.
+
+Intellectus David cum esset in spelunca oratio.
+
+Voce mea ad Dominum clamavi, voce mea ad Dominum deprecatus sum. Effundo in conspectu ejus (Infra add. orationem meam et)tribulationem meam: ante ipsum pronuntio, in deficiendo ex me spiritum meum. Et tu 600 cognovisti semitas meas. In via hac, qua ambulabam, absconderunt laqueum mihi. Considerabam [col. 833B] ad dexteram et videbam: quia non erat qui cognosceret me (non est qui cognoscat me). Periit fuga a me: et non est qui requirat animam meam. Clamavi ad te, Domine: dixi: Te es spes mea, portio mea in terra viventium. Intende in (Infra abest in) orationem meam: quia humiliatus sum nimis. Libera me a persequentibus me: quia confortati sunt super me. Educ de carcere animam meam ad confitendum nomini tuo, Domine. Me exspectaverunt (exspectant) justi, donec retribuas mihi.
+
+TRACTATUS PSALMI.
+
+1.
+
+Psalmus hic est de Christo in David adumbrato; Christum gestis suis David prophetavit. --Psalmi hujus ratio titulo continetur, sed potius spiritali quam corporali [col. 833C] intelligentia: et ideo in titulo intellectus oratio est. Nam si simplex, secundum David gesta, sensus esset; oratio tantum psalmi titulo fuisset inscripta. Sed quia ad orationis cognitionem spiritali intelligentia opus esset; idcirco intellectus oratio, quia sit intelligenda, praescribitur. Scimus enim esse et illum David, cujus tabernaculum quod ceciderat excitatum est, justum, orientem, regnantem, id est, Dominum nostrum Dei filium: qui frequenter fugerit, frequenter latuerit, frequenter oraverit, in ipso quoque tempore passionis et fleverit, et ad Deum in tribulatione clamaverit, non ob naturalem quasi passionis metum, sed affectum hominis quem gerebat ostendens: ut per hanc orationem et filius Dei ad quem oraret, et ipse non simulatus homo, sed verus [col. 833D] posset intelligi. Ejus itaque esse haec intelligitur oratio. David quidem in spelunca loquitur; sed prophetat in Christo. David fugit; sed fugam Domini sui non tam per verba quam per fugam prophetat. David spiritu defecit; sed et Domino tristis est anima usque ad mortem. David semitas Deus cognoscit; sed et Filium nemo novit nisi Pater. David in fidei suae viis laquei absconsi sunt; Domino quoque in praedicationis suae cursu ubique parantur insidiae. [col. 834A] Hic in spelunca orat; ille orat in corpore. Servus Dominum prophetat Christum: David iste illum David omnium passionum prophetat exemplo. Atque ideo haec non tam David de se ipso, quam de Domino per David dicta intelligitur oratio.
+
+2.
+
+Orationis perfectae varii gradus. --VERS. 2-4. Voce mea ad Dominum clamavi, voce mea 601 ad Dominum deprecatus sum. Effundo in conspectu ejus orationem meam, et tribulationem meam ante ipsum pronuntio. In deficiendo ex me spiritum meum. Egregie verborum ordo dispositus est. Primum voce clamatur: omnis enim fidelis viri etiam tacita et spiritalis expectatio Deo clamor est. Deinde voce oratur, id est, desiderii et fidei petitio verbis vocis effertur, secundum illud Apostoli: Psallam spiritu, psallam et voce (I Cor., XIV, 15). Tertio in conspectu Dei oratio [col. 834B] effunditur, non verbis scilicet de lingua excidentibus, sed de profundo et interno fidei fonte oratio precantis effunditur; et effunditur in conspectu Dei, non negligenter neque ex securitate, sed tamquam Domino praesente: qui enim oratur ut exaudiat, praesens necesse est esse credatur: qui autem praesens existimatur, non absentis dissimulatione, sed praesentis honore reverendus est. Quarto quoque tribulationem suam pronuntiat. Non impeditur, cum tribulatur, quin semper ad Deum omnium angustiarum suarum et passionum molestias referat. Neque sane leves tribulationes sunt, quas ante Deum effusa oratione pronuntiat: sed in eo ( supple pronuntiat) cum deficit ab eo spiritus suus. At vero nos leves tantum [col. 834C] tentationes ab assiduitate orationis impediunt: et quantulamcumque, in secundis modo rebus, animi nostri constantiam a devotionis officio repentinus exiguae difficultatis motus avertit. At vero hic, ne deficiente quidem spiritu suo, cessat et tribulationem suam pronuntiare, et orationem effundere, et voce orare ipsa, et spiritalis fidei voce clamare.
+
+3.
+
+Psalmi de Christo unde dignoscantur. Quaedam hic nemini convenientia.--Tu cognovisti semitas meas. In via hac, qua ambulabam, absconderunt laqueum mihi. Haec tam illius, quam hujus David, oratio esse poterit existimari: quia, ut diximus, omnia Domini dicta atque gesta et servi fide et prophetae praefiguravit exemplo. Numquam vero psalmorum prophetia, quotiescumque ex persona Domini profertur, non [col. 834D] aliquid peculiare ejus ac proprium, quod alii cum eo commune esse non possit, adjecit: ut quia multa ex persona ejus hominis quem assumpsit commemorata, personis hominum essent naturisque communia, psalmi potius de eo prophetia ea, quae proprie ex persona ejus dicerentur, ostenderet: ut illud nunc, VERS. 5: Considerabam ad dexteram, et videbam quia non est qui cognoscat me. Periit fuga a me: et non est qui requirat animam meam. David enim licet fugeret, [col. 835A] non tamen incognitus erat: neque solum ad dexteram contuebatur, sed etiam ad sinistram ei conspectus patebat. Illud autem quomodo personae ejus aptabitur: Periit fuga a 602 me: dehinc illud, Et non est qui requirat animam meam: postremo etiam illud quo psalmus concluditur: Me exspectant justi, donec retribuas mihi? Contraria sibi ista sunt, ex persona hominis intellecta. Si enim sunt justi expectantes; quomodo nemo cognoscit? quomodo animam nemo requirit. Per id enim nemo animam requirit, et nemo animam cognoscit, quia perspiciente eo a dextris, nemo justus est visus.
+
+4.
+
+Christo conveniunt. --Sed haec omnia in Domino tempore passionis impleta sunt, cum euntem eum ad crucem eorum nemo comitatus est, quos ad possessionem [col. 835B] regni coelestis secundum evangelicam dispositionem separatos a sinistra dexterae praeparabat, ob quos et homo erat natus: cum in tot tantisque crucis ipsius signis Deum nemo cognovit: cum frequenter antea latens, se his qui eum quaerebant et prodidit et ingessit. Et per oblationem spontaneae voluntatis fuga ab eo periit, cum nullus virtutem vitae ejus, quae in anima significatur, inquirit. Corpus enim quod cruci affixerant contuentes, potestatem animae, quae se signis et factis Deum probaverat, nemo quaerebat.
+
+5.
+
+Paradisus quid. --Jam illa quae sequuntur, licet communia videantur esse cum caeteris, tamen etiam per eum tempore passionis omnia dicta gestaque sunt. Clamavi ad te, Domine, dixi: Tu es spes mea, [col. 835C] portio mea in terra viventium. Clamans dixit: Tu es spes mea, cum ait: Pater, commendo in manus tuas spiritum meum (Luc., XXIII, 46). Pars ejus in terra viventium est, cum latroni die eodem incolatum paradisi promittit (ibid., 43), id est, sortem et regnum haereditatis suae: ut licet ad inferos adiret, tamen per spiritalem (divinam) potestatem doceret se a paradiso non abesse.
+
+6.
+
+Resurrectionem suam cur Patri tribuat Christus. --Redit deinde ad adorationis suae modestiam, dicens, VERS. 7: Intende orationem meam: quia humaliatus sum nimis. Humiliatus est enim, formam servi accipiens, et obediens factus usque ad mortem, et mortem [col. 836A] crucis (Phil. II, 8). Libera me a persequentibus me: quia confortati sunt super me. Educ de carcere animam meam ad confitendum nomini tuo, Domine. Quamquam enim potestatem haberet ponendi animam suam, et resumendi; tamen semper, per reverentiam filii, honorem paternae majestati reservavit, cum orat: Pater, clarifica me (Joan. XVII, 5); cum proclamat: Deus meus, quare me dereliquisti (Psal. XXI, 2)? In his enim non est infirmitatis suae confessio, sed paternae virtutis praedicatio. Liberari ergo se nunc similiter a persequentibus orat, quia confortati sunt. Confortati enim sunt, cum crucifigere audent, cum per carnem Deum nesciunt, cum eos 603 habitus humilitatis et forma in eo servilis hortatur.
+
+[col. 836B] 7.
+
+Deinde rogat, ut anima sua educatur e carcere. Si in carcere positis, etiam ante Noe tempora, resurrectionem secundum beatum Petrum Dominus praedicavit (I Pet. III, 19, 20); carcer est inferi, a quo se educi rogat, ut et in altero psalmo erat precatus: Non contineat super me puteus os suum (Ps. LXVIII, 16). Oratio omnis ista ad confessionem, ut diximus, virtutis paternae est. Sed adjecit et causam, cur sese de carcere oret educi: Ad confitendum, inquit, nomini tuo. Resurrectio ejus paternae in se virtutis praedicatio est; quia potestas ei omnis ex Patre est.
+
+8.
+
+Fides Apostolorum ante resurrectionem Christi nutans, post firmata est. --Sed per quos sit Dei nomini confitendum, subjecit dicens: Me exspectant [col. 836C] justi, donec retribuas mihi. Omnium apostolorum fides usque ad resurrectionis tempus fuit trepida: quam in Domino contuentes, exspectationis suae securitate firmati sunt. Et hinc illud est a Domino dictum: Tristis est anima mea usque ad mortem (Matth. XXVI, 38). Non enim ait, propter mortem: quia licet se passioni daret, non tamen Virtus aeterna dolorem passionis exciperet. Sed quia Apostolorum metus per humilitatem passionis exortus (adeo ut et firma superaedificandae in ea Ecclesiae petra trepidaret), post mortem et resurrectionem Domini in eadem trepidatione esse desineret; idcirco usque ad mortem tristis est, postquam trepidantis fidei [col. 837A] essent securitate firmandi. Exspectant ergo justi, donec sibi retribuatur a Deo. Et quid ei a Deo retribuatur, Apostolus docuit, dicens: Propter hoc exaltavit eum Deus, et donavit ei nomen quod est super omne nomen: ut in nomine Jesu omne genu flectatur, coelestium, terrestrium et infernorum, et omnis lingua confiteatur, quia Dominus Jesus in gloria est Dei patris (Philip. II, 9 et 10). Haec ei a Deo retributio est: ut ei corpori, quod assumpsit, paternae gloriae donetur aeternitas. Quae autem sit justorum exspectatio, idem Apostolus docet, dicens: Nostra autem conversatio in coelis est, unde et Salvatorem nostrum exspectamus Jesum Christum, qui transformabit corpus humilitatis nostrae, conformatum corpori gloriae suae (Phil. III, 20 et 21). Exspectant ergo eum justi, [col. 837B] dum retribuatur illi: scilicet ut conformes fiant gloriae corporis ejus, qui est benedictus in saecula saeculorum. Amen.

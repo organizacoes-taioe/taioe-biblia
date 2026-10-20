@@ -96,24 +96,41 @@ Sl 33, de 20 notas ficaram 4.
 
 ## 6. Pesquisar os comentários (para cada trecho)
 
-- Primeiro ler `pesquisa/COMO-PESQUISAR.md` e o catálogo `pesquisa/fontes/*.md`, que diz onde
-  está cada comentário que cobre livros inteiros (Agostinho, Cassiodoro, Tomás, Belarmino…), com o
-  padrão de URL. Depois, buscas pelos versículos marcantes em outras obras.
+- **Partir da pré-pesquisa** (pedido do Gere, 20/10): `pesquisa/<livro>/<ccc>/BASE.md` lista o que
+  já foi baixado e cortado para o capítulo em `base/` (os comentários de livro inteiro, na língua
+  original), quem se confirmou que não comenta, e as pistas; `pesquisa/<livro>/proximos.md` traz o
+  que a pesquisa de outros capítulos achou sobre este. O grosso já está ali: os subagentes leem
+  esses textos, tiram os achados, e gastam o tempo nos comentários **menos óbvios** (citações em
+  sermões, cartas e tratados, santos modernos, Magistério, liturgia), que enriquecem o capítulo.
+  Capítulo sem `base/`: rodar antes os scripts de `pesquisa/ferramentas/base/` para ele.
+- Depois, `pesquisa/fontes/<livro>.md` (o mapa do livro: `numeros.md`, `salmos.md`, `paulo.md`)
+  e, para o acesso às fontes, os catálogos por grupo (`agostinho.md`, `gregos.md`, `latinos.md`,
+  `modernos.md`, `orientais.md`) e `pesquisa/COMO-PESQUISAR.md`.
 - Abrangência: Padres gregos e latinos, Doutores e santos medievais, santos modernos, Papas
   santos, Magistério, liturgia. Entram os santos, beatos e Padres da Igreja (Orígenes, Eusébio,
   Teodoreto e outros «escritores eclesiásticos» quando a tradição os usa, com a indicação do que
   são) e **os textos do Magistério**, de qualquer Papa ou concílio e o Catecismo («podem ficar, com
   certeza», o Gere, 17/10: *Verbum Domini*, *Laudato si'*), quando comentam de fato o versículo.
+- **Mais Padres orientais** (pedido do Gere, 20/10: «quero ver mais comentários de padres
+  orientais»). Nos 8 primeiros capítulos eles foram 32% (quase só gregos; siríacos, 4 de 958). Meta:
+  **pelo menos a metade** dos comentários de cada capítulo, quando as fontes permitirem. Orientais
+  são os gregos e bizantinos, os siríacos (Efrém, Afraates, Jacó de Sarug, Isaac de Nínive), os
+  armênios (Gregório de Narek, Nerses), os coptas e os Padres do deserto, e a liturgia e a
+  hinografia orientais (Romano, o Melodista, André de Creta, os cânones e kontákia). Um subagente
+  só para os orientais que não são os comentadores gregos de sempre (catálogo `orientais.md`).
 - Tudo se guarda em `pesquisa/<livro>/<ccc>/`: os textos inteiros (domínio público) em
   `textos/`, os excertos candidatos em `achados-*.json`, e um relatório do que se procurou e não
-  existe. O que servir para outros capítulos vai para o catálogo `pesquisa/fontes/`.
-- Pode correr em paralelo: um subagente por grupo (Agostinho; gregos; latinos e medievais;
-  modernos, Magistério e liturgia), cada um gravando só os seus arquivos.
+  existe. O que servir para outros capítulos vai para o mapa do livro (`pesquisa/fontes/<livro>.md`);
+  o que se achar sobre outro capítulo, para `pesquisa/<livro>/proximos.md`, na seção dele.
+- Pode correr em paralelo: um subagente por grupo (Agostinho e latinos; gregos; orientais não
+  gregos e liturgia oriental; medievais; modernos, Magistério e liturgia), cada um gravando só os
+  seus arquivos, cada um numa subpasta própria do scratchpad.
 
 ## 7. Escolher e organizar por temas
 
 - Juntar os achados, tirar as repetições (o mesmo pensamento em dois autores: fica o melhor ou o
-  mais antigo, salvo se o segundo acrescenta), e agrupar por **aspecto do trecho**: cada tema
+  mais antigo, salvo se o segundo acrescenta; entre um latino e um oriental que dizem o mesmo, fica
+  o oriental), e agrupar por **aspecto do trecho**: cada tema
   reúne os comentários que falam da mesma coisa (ex.: «O cântico novo», «O Verbo e o Espírito na
   criação»). Os temas seguem a ordem do texto; o da liturgia, se houver, vai por último.
 - A página de comentários de um trecho não tem texto introdutório (o Gere, Nm 12): nada de `intro`.
@@ -124,6 +141,12 @@ Sl 33, de 20 notas ficaram 4.
   Igreja»), `obra` (título em português e, entre parênteses, o original), `passagem` (a exata),
   `link` (o texto original na internet), `original` (o trecho na língua original, só para a
   revisão), `texto` (a tradução).
+- Montar com `python -I -X utf8 ferramentas/montar-temas.py <livro> <cap>`, a partir de
+  `pesquisa/<livro>/<ccc>/temas.json` (a escolha e a ordem: trecho → temas → ids dos achados; formato
+  no topo do script) e de `ferramentas/autores.json` (o nome e o «sobre» de cada autor, iguais em
+  todos os capítulos; autor novo entra lá, com `"oriental"`). `--mostrar` mostra antes de gravar; no
+  fim ele dá a conta dos orientais por trecho. Ele tira as notas do pesquisador entre colchetes,
+  passa os links para https e acusa ids que o `conferir` recusa.
 - Tradução nossa, do original (o inglês antigo só para conferir), em português do Brasil
   contemporâneo, sem mesóclise, sem uso europeu, sem pronomes contraídos. A citação bíblica dentro
   do comentário segue o texto que o Padre leu (é ele que está comentando), entre aspas.

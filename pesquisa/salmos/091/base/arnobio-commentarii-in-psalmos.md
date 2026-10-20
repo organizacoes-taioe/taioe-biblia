@@ -1,0 +1,24 @@
+# Arnóbio, o Jovem, Commentarii in Psalmos
+- Autor: Arnóbio, o Jovem (séc. V)
+- Obra: Commentarii in Psalmos
+- Passagem: Sl 90 (Vulgata), que corresponde ao Sl 91 hebr.
+- Edição: PL 53, 457B–458D
+- Fonte: https://mlat.uzh.ch/php_modules/download.php?idno=21351&type=file-txt
+- Cobre: o salmo inteiro
+- Oriental: não
+- Língua: la
+- Baixado: 2026-10-20, por pesquisa/ferramentas/base/lat-arnobio.py
+- Leitor: https://mlat.uzh.ch/browser/cps_2.ArnJun.CoInPs (abre a obra inteira; procurar o título do salmo)
+- Nota: Semipelagiano (ver fontes/latinos.md): usar com cuidado.
+
+---
+
+PSALMUS XC.
+
+Laus cantici ipsi David.
+
+Qui habitat in adjutorio Altissimi, in protectione Dei coeli commorabitur. Dicet Domino: Susceptor meus es tu, et refugium meum; Deus meus, sperabo in eum. Quoniam ipse liberavit me de laqueo venantium, et a verbo aspero. Scapulis suis obumbrabit tibi, et sub pennis ejus sperabis. Scuto circumdabit te veritas ejus, non timebis a timore nocturno. A sagitta volante [col. 457C] in die, a negotio perambulante in tenebris, ab incursu et daemonio meridiano. Cadent a latere tuo mille, et decem millia a dextris tuis, ad te autem non appropinquabit. Verumtamen oculis considerabis, et retributionem peccatorum videbis. Quoniam tu es, Domine, spes mea, altissimum posuisti refugium tuum. Non accedet ad te malum, et flagellum non appropinquabit tabernaculo tuo. Quoniam angelis suis mandavit de te, ut custodiant te in omnibus viis tuis. In manibus portabunt te, ne forte offendas ad lapidem pedem tuum. Super aspidem et basiliscum ambulabis, et conculcabis leonem et draconem. Quoniam in me speravit liberabo eum, protegam eum quoniam cognovit nomen meum. Clamabit ad me, et ego exaudiam eum, cum ipso sum in tribulatione, eripiam eum et glorificabo [col. 457D] eum. Longitudine dierum replebo eum, et ostendam illi salutare meum.
+
+COMMENTARIUM.
+
+Multi putant libertatem arbitrii eousque sibi posse sufficere, ut sese per ipsam libertatem ab hostibus invisibilibus eruere posse confidant. Libertatem autem arbitrii, et negare periculum est, et nudare peccatum. Si enim negaveris, omnibus frena laxasti; si nudaveris, decepisti. Nam negas si dixeris: Deus si vult, bonus sum; si non vult, bonus non sum; cum constet Deum velle omnes homines salvos fieri, et unusquisque suo sit iniquus arbitrio. Nudas autem, cum tantum ipsi arbitrio dederis, ut eum rebus divini adjutorii denudaris. Nam qui habitat in adjutorium [col. 458A] Altissimi, et qui in protectione Dei coeli commoratur, et dicit Domino: Susceptor meus es tu, et refugium meum, quia dicit: Sperabo in eum, quia ipse liberabit me de laqueo daemonum, et a verbo aspero suggestionum eorum. Si ita dixeris, si ita credideris, tum demum in scapulis suis obumbrabit te, et sub pennis ejus sperabis. Pennae Dei angeli ejus sunt quorum custodiae mancipamur. Scuto circumdabit te veritas ejus. Scuto corporis, sanguinis, chrismatis, quo scuto et defendimur et coronamur. Sic enim psalmus alius asserit quod scuto bonae voluntatis coronet nos. Hoc etiam in isto psalmo, ut non timeamus a timore nocturno. Libidinosae scilicet voluptatis, cujus sagitta volat per diem. Quod enim in aspectu luminis concupiscitur, hujus negotium in tenebris [col. 458B] perpetratur, aut in ruina, aut in daemonio meridiano perficitur. Sed si habitaveris in adjutorio Altissimi, cadent a latere tuo mille, et decem millia a dextris tuis. Sinistrum in eo, qui sub auxilio Dei agit, non nominatur, sed latus tantum exponitur contra quod mille insurgunt, a dextris autem decem millia. Latus hoc sinistrum quod noluit nominare, liberum arbitrium est, contra quod minor pugna laxatur; in dextera autem Dei auxilium est. Et ideo prius nominavit latus, quia in arbitrio est, ut credas prius, ut dum credideris, gratiam consequaris. Invenies tam multiplicem virtutum cuneum auxiliorum in dextera. Ipsa armat trophaeo crucis frontem, ipsa loricam mysteriorum assumit, ipsa suscipit salutis remedia, ipsa loquentis exprimit signa. Nam et quod memorat sapientia [col. 458C] Dei, quod vias quae a dextris sunt novit Dominus, perversae autem sunt a sinistris, hoc ostendere fortasse voluit, quod quando vincimus, partis dexterae virtutibus tradimus: quando autem vincimur, sinistrae partis infirmitatibus applicamus. Auxilium non vincitur Dei, sed nostri libertas arbitrii superatur. Qui si propensiores fuerimus in dextera, angelis suis mandat de nobis ut custodiant nos in omnibus viis nostris: ita ut si super aspidem et basiliscum ambulemus, id est, super diabolum et regnum ejus, conculcare possimus et leonem et draconem. Haec enim dicit Dominus, quoniam in me speravit, liberabo eum; protegam eum, quoniam cognovit nomen meum. Invocavit me, ego exaudiam eum. Cum ipso sum in tribulatione, eripiam eum, et glorificabo eum. Longitudine [col. 458D] dierum adimplebo eum, et ostendam illi salutare meum, ipsi gloria in saecula saeculorum. Amen.

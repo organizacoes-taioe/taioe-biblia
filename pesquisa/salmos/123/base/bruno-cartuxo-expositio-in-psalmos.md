@@ -1,0 +1,17 @@
+# São Bruno, o Cartuxo, Expositio in Psalmos
+- Autor: São Bruno, o Cartuxo (c. 1030–1101)
+- Obra: Expositio in Psalmos
+- Passagem: Sl 122 (Vulgata), que corresponde ao Sl 123 hebr.
+- Edição: PL 152, 1321A–1322A
+- Fonte: https://mlat.uzh.ch/php_modules/download.php?idno=10473&type=file-txt
+- Cobre: o salmo inteiro
+- Oriental: não
+- Língua: la
+- Baixado: 2026-10-20, por pesquisa/ferramentas/base/lat-bruno-cartuxo.py
+- Leitor: https://mlat.uzh.ch/browser/cps_2.BruCar.ExInPs2 (abre a obra inteira; procurar o título do salmo)
+
+---
+
+IN PSALMUM CXXII
+
+Psalmi centesimi vicesimi secundi titulus. Canticum graduum. Tertio gradu pertractato, scilicet [col. 1321B] certitudine spei suae ad instructionem audientium ostensa, ad eorumdem instructionem quartum gradum se ostendit ascendisse, ad hoc, scilicet, ut jam rationis suae oculos levet ad attendendum voluntates Domini, ut eas compleat, quod tandiu facit donec ei misereatur reducendo, in immortalitatem et impassibilitatem, de qua etiam miseratione orat; unde sic dicit: Ad te levavi oculos, etc., ac si dicat: O auditores, postquam laetati fueritis de hoc quod ibimus in domum Domini, levate interiores oculos rationis vestrae ad eum qui habitat 518 in coelis. Et hoc facite exemplo meo. Postquam enim laetatus sum, levavi oculos meos interiores, oculos videlicet rationis, [col. 1321C] ad te, qui habitas in coelis, id est qui dominaris in civibus coelestis Hierusalem. Quod est dicere: Oculos rationis levavi attendendo voluntates tuas, ut eas complerem, qui depressi erant, dum ad voluntates meas complendas attendebam, et dignum erat ut ad te oculos levarem, cum tu sis ille qui in civibus coelestis Hierusalem dominaris; ad quorum consortium non venirem, nisi oculos ad te levarem. Ostendit autem quod attente oculos ad Deum levaverit duplici similitudine, ut auditores magis ad hoc idem attrahat sic. Levavi, inquam, ad te oculos. Et ecce, o auditores, in promptu est quam attente ad Deum oculos levaverim, et adhuc levo, quia, sicut oculi servorum sunt positi in manibus dominorum suorum, attendentes in ipsas manus, ut quacunque [col. 1321D] hora dominus eis nutum fecerit, ipsi statim obediant; et, ut majus quid dicam: Sicut oculi ancillae, quae magis est subdita et ad obediendum parata, sunt positi in manibus dominae suae, attendentes ut ad solum nutum sequatur obedientia, ita oculi nostri interiores attenti sunt ad Dominum Deum nostrum, ut ei in omnibus ejus voluntatibus obediamus, duraturi in hac servitute donec misereatur nostri, in futuro reducens in immortalitatem et impassibilitatem, et de hac servitute eripiens. Orat autem pro hac miseratione sic: Dico donec misereatur nostri, et quia confido te miserturum, oro miserere nostri; in futuro tandem de servitute hac eripiens, et in perfectum statum nos reducens. Miserere nostri, bis ex nimio desiderio ponit. Dico miserere nostri, et necesse [col. 1322A] est hoc orare: quia hic repleti sumus despectione, per emphasim, id est adeo despectibiles sumus ut omni repleti despectione videamur. Et non solum ideo necesse est hoc orare quia in corpore sumus despecti, sed etiam, quod majus est, quia multum repleta est anima nostra despectione, visa opprobrium, id est digna opprobrio, abundantibus in terrenis divitiis, id est divitibus hujus saeculi, et visa superbis, id est eisdem abundantibus, qui de divitiis suis superbiunt, despectio, id est digna despectione, quod est dicere: Anima nostra despicitur et opprobrio digna esse judicatur a superbis divititibus hujus saeculi, dum stulta et insana dicitur, eo quod mundana spernat.

@@ -1,0 +1,35 @@
+# «Haimo de Halberstadt», Commentaria in Psalmos
+- Autor: «Haimo de Halberstadt» (séc. IX; autoria incerta)
+- Obra: Commentaria in Psalmos
+- Passagem: Sl 51 (Vulgata), que corresponde ao Sl 52 hebr.
+- Edição: PL 116, 372D–375A
+- Fonte: https://mlat.uzh.ch/php_modules/download.php?idno=9073&type=file-txt
+- Cobre: o salmo inteiro
+- Oriental: não
+- Língua: la
+- Baixado: 2026-10-20, por pesquisa/ferramentas/base/lat-haimo.py
+- Leitor: https://mlat.uzh.ch/browser/cps_2.HayHal.CoInPs2 (abre a obra inteira; procurar o título do salmo)
+
+---
+
+IN PSALMUM LI. TITULUS: In finem intellectus David, cum venit ad eum Doech Idumaeus, et nuntiavit Sauli: Venit David in domum Abimelech.
+
+« Quid gloriaris. » Cum David persequeretur a Saul, venit in domum Abimelech sacerdotis cum suis, et cum ille non haberet panes, nisi panes propositionum, dedit illos David et suis, et gladium quem David Goliae abstulerat. Erat autem ibi Doech Idumaeus, de familia Saul, custos equorum ejus, qui [col. 373A] haec omnia nuntiavit Sauli. Misit autem Saul, et fecit Abimelech occidi, et alios sacerdotes (II Reg. XXI et XXII). Postea vero David psalmum istum composuit, non de historia illa, sed de intellectu quem habuit, quod Antichristus scilicet venturus erat, qui per auxilium diaboli Ecclesiam, in qua verus habitat David, persequitur. Per Doech enim Antichristus intelligitur. Doech namque motus; Idumaeus vero terrenus interpretatur. Antichristus autem semper ad commovenda terrena commovebitur, et alios etiam ad commotionem, et ad terrenorum petitionem vocabit; Doech proprium nomen illius fuit, Idumaeus a loco dictus est, ab Idumaea terra quam inhabitavit Esau. Et sicut ille Doech venit ad Saul, sic Antichristus venit per signa et miracula ad Saul, [col. 373B] id est ad diabolum, et nuntiabit ei quod David, id est, quod Christus venit in domum Abimelech, id est in domum illam, quae est regnum patris, id est Ecclesiam, quaerens quomodo receptores Christi possit occidere, sicut Saul Abimelech. Titulus sic exponitur: Intellectus, id est psalmus iste, qui nobis exponit intellectum, scilicet arcanum, quod diximus, convenit David prophetae, qui hic loquitur, intellectus dico tractus ab illo negotio, cum venit Doech, et nuntiavit Sauli historialiter. Materia est Christus et per oppositum Antichristus. Modus: In prima parte ostendit multam malitiam ipsius Antichristi, redarguendo eum. In secunda parte ponit perditionem ejus, et sanctorum stuporem, qui ita eum exaltatum in mundo vident, cum eum ita damnatum [col. 373C] aspicient. In tertia parte ponit, quod nunquam amovebuntur a misericordia Dei, qui semper sperant in ea. Intentio, movere omnes fideles, ut quamvis eum in hoc mundo exaltatum esse videant, tamen intelligant eum damnandum et nunquam ei consentiant. Sed statim propheta ipsum Antichristum de sua malitia increpare incipit.
+
+O homo Antichriste omnium nequissime, « quid gloriaris in malitia? » pro qua debes erubescere, quia caeteri si male faciunt, erubeseunt; tu contra: quid gloriaris « qui potens es in iniquitate, » quia cum facias multas iniquitates, in illis habes potentiam quos potes devorare, sive per miracula, sive per poenas, quas potes facere permissione Dei. In hoc etiam, quod potentiam dedit eis Deus, perficiendi [col. 373D] nequitiam aggravatur nequitia ejus.
+
+Per partes exsequitur malitiam, « tota die » , id est omni tempore, « lingua tua cogitavit injustitiam, » ideo linguae tribuit cogitationem, quia stultorum est, in corde et in ore simul habere, et omnia loqui impraemeditate. Unde Salomon: « Cor stultorum est in ore ipsorum (Eccl. XXI). » Lingua cogitavit injustitiam, et tu « fecisti dolum, » tu dico « sicut novacula acuta, » id est comparabilis novaculae acutae, quia dolose et acute decipit: quia sicut novacula acuta renovat corium, et corrodit forinseca, sic ille Antichristus, tribulando justos, et sua auferendo, interiorem hominem pulchriorem reddit. Vel sic: Antichristus promittit novitatem toti mundo, quem [col. 374A] tunc omnino destruit. Vel in hoc comparatur novaculae acutae quia tantum molles et fragiles decipiendo secat, ut novacula quae secat mollia, ut pilos et carnem: non aliqua dura, ut ossa.
+
+« Dilexisti malitiam super benignitatem, » quia si natura tibi aliquam suggerebat bonitatem, per pessimos mores tuos illam comprimebas. Dilexisti etiam « iniquitatem » non solum facere, sed etiam facere « magis quam loqui aequitatem. »
+
+Dilexisti omnia. Quid per singula curram? Dilexisti omnia verba praecipitationis, » id est ea per quae tu et alii praecipitentur aeternaliter: tu dico ens « lingua dolosa, » quia quod non potes per violentiam perficere, per dolum aggrederis perficere, sive per perjurium, sive per falsas expositiones Scripturarum.
+
+[col. 374B] Secunda pars incipit. Et « propterea » quia talis es, « Deus destruet te » non secundum temporalia bona, sed « in finem, » id est in aeternum, ut ulterius non possis resurgere: et « evellet te de tabernaculo tuo, et emigrabit te, » id est, emigrare faciet alio: tabernaculo, id est, de hoc mundo, in quo habitas ad tempus, et cum emigraverit, non radicabis, sed potius evellet « radicem tuam de terra viventium » te propter cupiditatem malitiae tuae. Radix enim tua, id est, nequitia tua, non patitur hujusmodi terram te habitare. Vel « evellet et emigrabit de tabernaculo tuo, » id est de Ecclesia, te cum omnibus membris tuis, quia membra Antichristi commixta Ecclesiae in hac vita, non radicabunt in terra viventium, sed potius evellet radicem tuam, id est [col. 374C] sequaces tuos, de terra viventium.
+
+Dominus te destruet ita, et hoc « videbunt justi » in die judicii, « et timebunt, » id est, verebuntur ipsum judicem, et timor ille non erit tristitiae, sed gaudii, et hoc est: « super eum ridebunt, » id est, gaudebunt, consentientes divinae justitiae, « et dicent: ecce » apparet, quia hic est « homo » licet se Deum diceret, et talis « qui non posuit Deum adjutorem suum. »
+
+« Sed speravit in multitudine divitiarum suarum, » id est auri et argenti, et potentiae et gloriae « et praevaluit in vanitate sua, » quia nullus impiorum tot fideles decepit.
+
+Tertia pars incipit: Ille ita speravit in divitiis, « ego autem » ens « in domo Domini, sicut oliva fructifera, » [col. 374D] id est comparabilis olivae fructiferae, quia sicut oliva omni tempore plena est succo, sic Propheta plenus erat Spiritu sancto. Cum omnis justus se possit comparare olivae fructiferae, specialius tamen propheta iste, de cujus semine Christus nasciturus erat. Ego talis « sperabam in misericordia Dei, » hoc scilicet « in aeternum » ut aeternitatem haberem: et non accipit aeternum usque ad finem, sed « in saeculum saeculi. »
+
+Et ut possim comparare « confitebor tibi, » id est, laudabo te « in saeculum, » quia « fecisti » tu confessionem istam, scilicet per tuam misericordiam, vel me fecisti sicut olivam: « et exspectabo nomen tuum » quantum cunque moretur, donec in judicio me [col. 375A] immortalem et impassibilem facias, scilicet Filium Dei, « quoniam bonum est in conspectu sanctorum, » id est, sanctis placet illud bonum exspectare.

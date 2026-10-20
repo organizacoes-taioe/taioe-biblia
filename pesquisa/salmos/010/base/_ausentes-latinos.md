@@ -1,0 +1,1 @@
+- Santo Ambrósio, Enarrationes in XII psalmos: não comentou este salmo (as Enarrationes tratam só dos Sl 1, 35–40, 43, 45, 47, 48 e 61 da Vulgata).
