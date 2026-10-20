@@ -1,0 +1,207 @@
+{
+ "capitulo": "numeros/013",
+ "antes": 82,
+ "depois": 72,
+ "temas": {
+  "1": [
+   {
+    "id": "explorar",
+    "itens": [
+     "teodoreto-q-num-24",
+     "cirilo-glaph-num-13-2a",
+     "ruperto-innum-1-37-exploradores-da-escritura"
+    ]
+   },
+   {
+    "id": "nome-de-jesus",
+    "itens": [
+     "barnabe-12-8-9",
+     "justino-dial-113",
+     "origenes-hjos-1-1",
+     "eusebio-he-1-3-4",
+     "cirilo-jerusalem-cat-10-11",
+     "jeronimo-ep53-8-josue",
+     "newman-sd12-nome-de-josue"
+    ]
+   },
+   {
+    "id": "o-que-vai-a-frente",
+    "itens": [
+     "origenes-hjos-1-2",
+     "agostinho-cfaust-16-19",
+     "teodoreto-q-num-25",
+     "lapide-num13-17-quando-mudou"
+    ]
+   },
+   {
+    "id": "nao-moises-mas-jesus",
+    "itens": [
+     "lactancio-divinst-4-17-auses",
+     "agostinho-sermo-352-4",
+     "crisostomo-hebr-27-3",
+     "agostinho-cfaust-16-20"
+    ]
+   }
+  ],
+  "2": [
+   {
+    "id": "amostra-da-terra",
+    "itens": [
+     "teresa-moradas-6-5-9",
+     "sales-carta-174-soulfour"
+    ]
+   },
+   {
+    "id": "o-cacho",
+    "itens": [
+     "agostinho-enps-8-2",
+     "nissa-vm-2-267-268",
+     "ambrosio-defide-4-12-167-botrio",
+     "beda-hom2-9-ascensao-botrus",
+     "ruperto-innum-1-37-torrente-do-cacho",
+     "jeronimo-ep108-11-escol",
+     "pedrodamiao-collect-5-phalanga-maria"
+    ]
+   },
+   {
+    "id": "os-dois-carregadores",
+    "itens": [
+     "ruperto-innum-1-37-o-da-frente-nao-ve",
+     "agostinho-atrib-mai-sermo-3",
+     "bernardo-sc44-3-botrus"
+    ]
+   },
+   {
+    "id": "o-vinho-e-os-frutos",
+    "itens": [
+     "bernardo-dediv-18-2-vinho-do-cacho",
+     "isidoro-quaestnum-15-roma-figo",
+     "ruperto-innum-1-37-romas-figos-quarenta-dias",
+     "ambrosio-inps118-5-18-vale-do-cacho"
+    ]
+   },
+   {
+    "id": "cacho-liturgia",
+    "itens": [
+     "lit-sequencia-salve-crux",
+     "lit-sequencia-ecce-dies-celebris",
+     "lit-sequencia-gratulanda-cipriano",
+     "icon-altar-verdun-botrus"
+    ]
+   }
+  ],
+  "3": [
+   {
+    "id": "a-terra-boa",
+    "itens": [
+     "origenes-hnum-7-5a",
+     "agostinho-enps-105-22",
+     "ricardo-deexterm-2-12-voz-do-explorador",
+     "agostinho-enps-110-8"
+    ]
+   },
+   {
+    "id": "o-mas-do-medo",
+    "itens": [
+     "cirilo-ador-5-a",
+     "cirilo-ador-5-b",
+     "lapide-num13-29-muros-pusilanimes",
+     "francisco-santa-marta-2018-03-20",
+     "lapide-num13-32-pecado-dos-exploradores"
+    ]
+   },
+   {
+    "id": "caleb",
+    "itens": [
+     "origenes-hjos-18-2",
+     "ruperto-innum-1-38-caleb",
+     "lapide-num13-31-caleb",
+     "origenes-hjos-18-3",
+     "ambrosio-deoffic-3-8-53-56-honesto",
+     "origenes-hnum-9-1"
+    ]
+   },
+   {
+    "id": "os-dez-e-os-dois",
+    "itens": [
+     "nissa-vm-2-265-266",
+     "crisostomo-hebr-6-2",
+     "ricardo-allegvt-3-2-decalogo-caridade",
+     "newman-sd12-caleb-e-josue",
+     "gregorio-homez-1-1-18-ira-e-misericordia"
+    ]
+   },
+   {
+    "id": "a-terra-que-devora",
+    "itens": [
+     "sales-introduction-1-2",
+     "crisostomo-mt-39-4",
+     "ruperto-innum-1-36-detratores",
+     "sales-sermon-septuagesime-1594",
+     "ruperto-innum-1-38-terra-que-devora",
+     "isidoro-quaestnum-15-escribas",
+     "bruno-innum-14-doze-principes"
+    ]
+   },
+   {
+    "id": "gigantes-e-gafanhotos",
+    "itens": [
+     "origenes-hnum-7-5c",
+     "origenes-hnum-7-6a",
+     "origenes-hnum-7-5b",
+     "newman-pps4-5-filhos-de-enac",
+     "teodoreto-q-dt-7"
+    ]
+   },
+   {
+    "id": "liturgia",
+    "itens": [
+     "lit-lecionario-qua18-ano1",
+     "lit-oficio-leituras-qui4-quaresma"
+    ]
+   }
+  ]
+ },
+ "excluidos": [
+  {
+   "id": "eusebio-de-4-17",
+   "motivo": "diz o mesmo que eusebio-he-1-3-4 (mesmo autor: Moisés dá ao sucessor o nome de Jesus, figura do Salvador que sucede à Lei) e que origenes-hjos-1-1 (ninguém antes teve o nome); o texto ainda tem lacuna"
+  },
+  {
+   "id": "eusebio-ecl-1-11",
+   "motivo": "diz o mesmo que agostinho-cfaust-16-19: o nome é dado quando Oseias é enviado à frente, cumprindo «o meu nome está nele» (Ex 23,21)"
+  },
+  {
+   "id": "tertuliano-adviud-9-auses-jesus",
+   "motivo": "diz o mesmo que agostinho-sermo-352-4, mais claro: o povo entra na terra não por Moisés (a Lei), mas por Jesus (a graça)"
+  },
+  {
+   "id": "agostinho-cfaust-12-42",
+   "motivo": "diz o mesmo que nissa-vm-2-267-268: o cacho pendurado no madeiro é Cristo, e o seu vinho («sangue da uva») é o sangue que salva; o resto comenta Gn 49,11"
+  },
+  {
+   "id": "isidoro-quaestnum-15-duo-bajuli",
+   "motivo": "diz o mesmo que agostinho-atrib-mai-sermo-3: o da frente é o judeu, de costas para o cacho, o de trás é o gentio, que o vê; com a mesma citação do salmo («curva sempre as suas costas»)"
+  },
+  {
+   "id": "maximo-hom79-josue-caleb-phalanga",
+   "motivo": "diz o mesmo que agostinho-atrib-mai-sermo-3: judeu à frente, de costas para o cacho, cristão atrás, que o vê sempre"
+  },
+  {
+   "id": "ricardo-allegvt-3-2-botrus",
+   "motivo": "diz o mesmo que ruperto-innum-1-37-o-da-frente-nao-ve (e beda-hom2-9-ascensao-botrus): os da frente (profetas) não viram o cacho, os de trás (apóstolos) o viram"
+  },
+  {
+   "id": "newman-pps4-18-mau-relato",
+   "motivo": "diz o mesmo que francisco-santa-marta-2018-03-20: crer no mau relato foi esquecer a força de Deus que os tinha libertado; o resto do trecho é sobre Coré (Nm 16)"
+  },
+  {
+   "id": "cirilo-glaph-num-13-2b",
+   "motivo": "diz o mesmo que origenes-hjos-18-2, mais claro: Caleb = «coração», Jefoné = «conversão», filho da conversão; os apóstolos como testemunhas já estão em ruperto-innum-1-38-caleb"
+  },
+  {
+   "id": "origenes-hnum-7-6b",
+   "motivo": "diz o mesmo que origenes-hnum-7-5c (mesma homilia): os demônios ficam gigantes ou pequenos conforme a nossa fé e a nossa vida"
+  }
+ ]
+}

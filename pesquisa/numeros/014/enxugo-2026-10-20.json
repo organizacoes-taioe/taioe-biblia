@@ -1,0 +1,262 @@
+{
+ "capitulo": "numeros/014",
+ "antes": 101,
+ "depois": 87,
+ "temas": {
+  "1": [
+   {
+    "id": "saudade-do-egito",
+    "itens": [
+     "cirilo-glaph-num-14-1",
+     "gregorio-moralia-31-25-45-gafanhotos",
+     "bernardo-qhab-3-5-apostasia-do-coracao",
+     "cassiano-coll-3-7-bem-no-egito",
+     "lapide-num14-4-sofronio",
+     "cirilo-glaph-num-14-2"
+    ]
+   },
+   {
+    "id": "josue-e-caleb",
+    "itens": [
+     "tomas-superheb-3-3-caleb-josue",
+     "efrem-num-13-14"
+    ]
+   },
+   {
+    "id": "nosso-pao",
+    "itens": [
+     "agostinho-qhept-4-23",
+     "lapide-num14-9-sombra"
+    ]
+   }
+  ],
+  "2": [
+   {
+    "id": "nao-creem",
+    "itens": [
+     "newman-pps8-6-milagres-nao-convertem",
+     "newman-pps8-6-porque-nao-amamos",
+     "newman-pps8-6-milagres-interiores"
+    ]
+   },
+   {
+    "id": "moises-intercessor",
+    "itens": [
+     "origenes-hnum-8-1a",
+     "origenes-hnum-8-1b",
+     "crisostomo-jo-13-1",
+     "lapide-num14-11-17-prelados"
+    ]
+   },
+   {
+    "id": "pelo-nome",
+    "itens": [
+     "ruperto-inmich-1-zelo-pelo-nome",
+     "teodoreto-in-ez-20-14",
+     "cirilo-in-jo-6-a",
+     "lapide-num14-17-fortaleza-clemencia",
+     "joao-paulo-ii-dives-in-misericordia-4"
+    ]
+   },
+   {
+    "id": "pais-e-filhos",
+    "itens": [
+     "procopio-num-14-17-19",
+     "cirilo-in-jo-6-b",
+     "agostinho-qhept-5-42",
+     "gregorio-moralia-15-51-57-pais-e-filhos",
+     "tomas-sth-1-2-87-8-pais-e-filhos",
+     "origenes-hnum-9-8"
+    ]
+   }
+  ],
+  "3": [
+   {
+    "id": "eu-perdoo",
+    "itens": [
+     "ruperto-incant-6-luta-humilde",
+     "origenes-hnum-8-1g",
+     "procopio-num-14-20"
+    ]
+   },
+   {
+    "id": "a-pena-que-fica",
+    "itens": [
+     "bruno-innum-14-perdoou-a-culpa",
+     "agostinho-trio-124-5",
+     "procopio-num-14-25"
+    ]
+   },
+   {
+    "id": "a-gloria",
+    "itens": [
+     "jeronimo-inis-3-gloria-em-toda-terra",
+     "cassiodoro-inps56-gloria-igreja",
+     "newman-pps3-18-gloria-em-cristo",
+     "agostinho-enps-94-15"
+    ]
+   },
+   {
+    "id": "dez-vezes",
+    "itens": [
+     "procopio-num-14-22",
+     "ruperto-innum-1-39-dez-tentacoes",
+     "crisostomo-hebr-6-3-a",
+     "tomas-superheb-3-2-tentar-a-deus",
+     "afonso-sermoni-15-dez-vezes",
+     "ambrosio-inps118-21-20-tentados"
+    ]
+   },
+   {
+    "id": "caleb",
+    "itens": [
+     "lapide-num14-24-caleb-outro-espirito",
+     "procopio-num-14-24",
+     "tomas-super1cor-2-2-caleb-espirito-santo",
+     "newman-sd12-caleb-outro-espirito"
+    ]
+   }
+  ],
+  "4": [
+   {
+    "id": "murmuracao",
+    "itens": [
+     "origenes-hex-7-4",
+     "procopio-num-14-28",
+     "bernardo-sententiae-16-murmuracao",
+     "lapide-num14-27-29-murmuracao",
+     "ruperto-inzach-1-filhos-dos-murmuradores"
+    ]
+   },
+   {
+    "id": "no-deserto",
+    "itens": [
+     "crisostomo-1cor-23-3",
+     "agostinho-enps-77-3",
+     "origenes-hnum-27-7",
+     "lapide-num14-29-morte-temporal"
+    ]
+   },
+   {
+    "id": "os-pequenos",
+    "itens": [
+     "ambrosio-deoffic-3-8-55-criancas",
+     "origenes-hnum-8-1c",
+     "origenes-selnum-14-23",
+     "cirilo-glaph-num-14-4",
+     "origenes-hnum-27-4",
+     "pedrodamiao-dequadr-homem-velho",
+     "lapide-num14-33-filhos-pastores"
+    ]
+   },
+   {
+    "id": "quarenta-anos",
+    "itens": [
+     "origenes-hnum-8-1d",
+     "origenes-hnum-8-1e",
+     "origenes-hnum-8-1f",
+     "agostinho-inepio-7-1",
+     "agostinho-enps-94-14",
+     "ruperto-inosee-5-quarenta-dias-anos",
+     "sales-carta-273-chantal"
+    ]
+   },
+   {
+    "id": "so-dois",
+    "itens": [
+     "origenes-adnnum-14-36",
+     "efrem-num-14-28-37",
+     "agostinho-enps-101-s2-15",
+     "cirilo-de-adoratione-4",
+     "belarmino-ps77-38-josue-caleb-eleitos"
+    ]
+   }
+  ],
+  "5": [
+   {
+    "id": "fora-de-hora",
+    "itens": [
+     "procopio-num-14-39-42",
+     "cirilo-in-jo-4",
+     "rabano-ennum-2-11-protervia",
+     "newman-sd24-presuncao-e-paciencia"
+    ]
+   },
+   {
+    "id": "sem-a-arca",
+    "itens": [
+     "gregorio-homez-1-1-18-com-eles-e-nao",
+     "procopio-num-14-44-45",
+     "belarmino-de-eucharistia-4-30-arca"
+    ]
+   },
+   {
+    "id": "liturgia",
+    "itens": [
+     "lit-lecionario-qua18-ano1-cnbb",
+     "lit-oficio-leituras-sex4-quaresma",
+     "lit-invitatorio-sl94-quadraginta",
+     "lit-improperios-quadraginta-annis"
+    ]
+   }
+  ]
+ },
+ "excluidos": [
+  {
+   "id": "crisostomo-hebr-6-1",
+   "motivo": "diz o mesmo que cirilo-glaph-num-14-1: esquecem os sinais do Egito, se apavoram e querem voltar (o juramento e a morte no deserto vêm depois)."
+  },
+  {
+   "id": "agostinho-cfaust-12-30",
+   "motivo": "diz o mesmo que agostinho-inepio-7-1 (o deserto é esta vida dos fiéis, e Deus não os abandona) e bernardo-qhab-3-5 (voltar de coração ao Egito)."
+  },
+  {
+   "id": "teodoreto-in-ps-105-24",
+   "motivo": "diz o mesmo que cirilo-glaph-num-14-1: tinham visto tantos milagres e se deixaram tomar pelo medo; não fala de Josué e Caleb."
+  },
+  {
+   "id": "cirilo-glaph-num-14-3",
+   "motivo": "só narra o que origenes-hnum-8-1a e ruperto-incant-6 já dizem: Moisés suplica e Deus cede."
+  },
+  {
+   "id": "efrem-num-14-13-16",
+   "motivo": "diz o mesmo que crisostomo-jo-13-1: Moisés intercede por amor ao povo, não pela própria dignidade nem pela nação maior."
+  },
+  {
+   "id": "bruno-innum-14-paciente-e-misericordioso",
+   "motivo": "diz o mesmo que procopio-num-14-17-19 (paciência e misericórdia) e tomas-sth-1-2-87-8 (castiga só os filhos que imitam os pais)."
+  },
+  {
+   "id": "teodoreto-in-ps-105-26",
+   "motivo": "diz o mesmo que belarmino-ps77-38: por misericórdia, Deus não os castigou tanto quanto mereciam."
+  },
+  {
+   "id": "belarmino-de-poenitentia-4-2",
+   "motivo": "diz o mesmo que bruno-innum-14-perdoou-a-culpa: Deus perdoou o pecado, mas a pena ficou e todos morreram no deserto."
+  },
+  {
+   "id": "teodoreto-q-num-27-a",
+   "motivo": "diz o mesmo que cassiodoro-inps56-gloria-igreja e jeronimo-inis-3: a glória que enche a terra é a salvação levada a todas as nações."
+  },
+  {
+   "id": "crisostomo-hebr-6-3-b",
+   "motivo": "diz o mesmo que agostinho-enps-77-3 e crisostomo-1cor-23-3: o castigo do deserto é figura da perda do Reino e da pena eterna."
+  },
+  {
+   "id": "belarmino-ps105-24-27",
+   "motivo": "diz o mesmo que agostinho-enps-77-3: se Deus castigou tanto quem desprezou a terra, figura do Reino, quanto mais quem despreza o Reino."
+  },
+  {
+   "id": "teodoreto-q-num-27-b",
+   "motivo": "diz o mesmo que cirilo-glaph-num-14-4 e origenes-hnum-8-1c: as crianças que entram são figura do povo novo, os gentios que creem."
+  },
+  {
+   "id": "lapide-num14-40-estultos",
+   "motivo": "diz o mesmo que procopio-num-14-39-42: da covardia passam ao atrevimento, desobedientes nas duas vezes."
+  },
+  {
+   "id": "ruperto-innum-1-40-horma",
+   "motivo": "diz o mesmo que rabano-ennum-2-11-protervia: amalecitas, cananeus e Horma como os espíritos maus que perseguem até o anátema eterno."
+  }
+ ]
+}
