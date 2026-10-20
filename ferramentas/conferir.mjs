@@ -5,7 +5,7 @@
 // - notas com âncora que existe no versículo; ids únicos e no formato da revisão;
 // - comentários com autor, obra, passagem, texto e link https; tema com id, título e itens;
 // - autor cadastrado em ferramentas/autores.json (e não marcado "site": false, os que ficam só como pista); nenhum excerto repetido de um capítulo para outro.
-// No fim mostra, por capítulo, quantos comentários são de Padres orientais.
+// No fim mostra, por capítulo, quantos comentários há e quantos são de Padres orientais (só informação).
 import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
@@ -125,4 +125,4 @@ for (let i = 0; i < excertos.length; i++) {
 }
 if (erros.length) { console.error(erros.join('\n')); console.error(`${erros.length} problema(s)`); process.exit(1); }
 console.log(`ok: ${ncaps} capítulo(s) conferido(s)`);
-if (orientais.length) console.log(`Padres orientais: ${orientais.join('; ')}`);
+if (orientais.length) console.log(`Comentários por capítulo (orientais/total, só informação, sem meta): ${orientais.join('; ')}`);

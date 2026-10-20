@@ -40,6 +40,17 @@ que não é óbvio (`CAPITULO.md`, etapa 6).
 
 ## Pistas (citações em outras obras, a seguir na pesquisa do capítulo)
 
+Obras de São Josemaria no escriva.org, original espanhol. O Gere tem autorização do Opus Dei para usar os textos,
+com o link do escriva.org. Gerado por `pesquisa/ferramentas/base/mod-escriva.py pistas` (2026-10-20); índice geral
+em `pesquisa/fontes/escriva-indice.md`. «nota» = nota de rodapé da edição; «site» = índice bíblico do escriva.org;
+«texto» = referência no corpo. Nos pontos longos (homilias, cartas) vão só os parágrafos onde está a citação.
+
+## Camino, n. 95: Sl 72,1
+- Obra: Caminho (Camino); capítulo «Oración»
+- Ponto: 95; URL: https://escriva.org/es/camino/95/
+- Referência: site: Salmos 71, 1 (site)
+
+> «In te, Domine, speravi»: en ti, Señor, esperé. —Y puse, con los medios humanos, mi oración y mi cruz. —Y mi esperanza no fue vana, ni jamás lo será: «non confundar in aeternum»!
 - Dídimo, o Cego, fragmentos de cadeia sobre os Salmos (ed. Mühlenberg, PTA 15–16): frgs. 750–762 sobre o Sl 71 da LXX (vv. 3–17); edição moderna, não guardada. https://khazarzar.skeptik.net/pgm/PG_Migne/Didymus%20the%20Blind_PG%2039/Fragmenta%20in%20Psalmos.pdf
 - Hesíquio de Jerusalém, Fragmenta in Psalmos (PG 93, 1179–1340), «PSALMUS LXXI» (Sl 71 da LXX): OCR do archive.org sem condições de corte (colunas grego/latim misturadas), não guardado. https://archive.org/details/patrologiaecursu93mignuoft
 - Eutímio Zigabeno, Commentarius in Psalterium (PG 128, 41–1326), «PSALMUS LXXI» (Sl 71 da LXX): compila sobretudo Teodoreto; latim legível, grego do OCR quebrado (letras latinas), não guardado. https://archive.org/details/patrologiaecurs261unkngoog

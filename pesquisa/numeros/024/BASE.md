@@ -47,6 +47,12 @@ Conferido em 2026-10-20 (obras da lista do pedido; ver `pesquisa/fontes/numeros.
 
 ## Pistas (citações em outras obras, a seguir na pesquisa do capítulo)
 
+Obras de São Josemaria no escriva.org, original espanhol. O Gere tem autorização do Opus Dei para usar os textos,
+com o link do escriva.org. Gerado por `pesquisa/ferramentas/base/mod-escriva.py pistas` (2026-10-20); índice geral
+em `pesquisa/fontes/escriva-indice.md`. «nota» = nota de rodapé da edição; «site» = índice bíblico do escriva.org;
+«texto» = referência no corpo. Nos pontos longos (homilias, cartas) vão só os parágrafos onde está a citação.
+
+- Nenhum ponto cita este capítulo (nem nas notas, nem no índice do site, nem no texto).
 Citações do capítulo em outras obras que os catálogos e os relatórios de Nm 12–15 apontam e que ainda não estão em base/.
 
 - Método para o que não está em base/: ver `pesquisa/fontes/numeros.md` (Corpus Thomisticum «Num. N», Index scripturaire de Francisco de Sales, Clerus, Lecionário e Ofício das Leituras, varredura dos Papas, Santo Antônio de Pádua, Glosa Ordinária).

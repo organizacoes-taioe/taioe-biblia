@@ -45,6 +45,12 @@ que não é óbvio (`CAPITULO.md`, etapa 6).
 
 ## Pistas (citações em outras obras, a seguir na pesquisa do capítulo)
 
+Obras de São Josemaria no escriva.org, original espanhol. O Gere tem autorização do Opus Dei para usar os textos,
+com o link do escriva.org. Gerado por `pesquisa/ferramentas/base/mod-escriva.py pistas` (2026-10-20); índice geral
+em `pesquisa/fontes/escriva-indice.md`. «nota» = nota de rodapé da edição; «site» = índice bíblico do escriva.org;
+«texto» = referência no corpo. Nos pontos longos (homilias, cartas) vão só os parágrafos onde está a citação.
+
+- Nenhum ponto cita este capítulo (nem nas notas, nem no índice do site, nem no texto).
 - Hesíquio de Jerusalém, Fragmenta in Psalmos (PG 93, 1179–1340), «PSALMUS LVII» (Sl 57 da LXX): OCR do archive.org sem condições de corte (colunas grego/latim misturadas), não guardado. https://archive.org/details/patrologiaecursu93mignuoft
 - Eutímio Zigabeno, Commentarius in Psalterium (PG 128, 41–1326), «PSALMUS LVII» (Sl 57 da LXX): compila sobretudo Teodoreto; latim legível, grego do OCR quebrado (letras latinas), não guardado. https://archive.org/details/patrologiaecurs261unkngoog
 Textos com direito autoral (Libreria Editrice Vaticana): não guardados, só o endereço. Todos os endereços abriam em 2026-10-20.

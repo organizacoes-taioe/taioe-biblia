@@ -1,0 +1,643 @@
+{
+ "salmo": 36,
+ "antes": 151,
+ "depois": 32,
+ "temas": [
+  {
+   "id": "o-pecado-fala",
+   "funde": [
+    "quem-fala",
+    "nao-ver-a-culpa"
+   ],
+   "resumo": "Os dois retratos do salmo; o ímpio se esconde dentro de si, onde pensa que ninguém o vê, e procura a própria culpa com medo de achá-la.",
+   "versiculos": [
+    1,
+    2,
+    3
+   ],
+   "itens": [
+    "jp2-aud-20010822-dois-retratos",
+    "agostinho-en35-2",
+    "agostinho-en35-3"
+   ]
+  },
+  {
+   "id": "o-leito",
+   "funde": [
+    "nao-quis-entender"
+   ],
+   "titulo": "O mal escolhido, tramado no leito",
+   "resumo": "O mal não vem da natureza, mas da vontade; o leito, que é o coração, pode ser lugar de oração ou de tramar o mal.",
+   "versiculos": [
+    4,
+    5
+   ],
+   "itens": [
+    "didimo-tura-35-4",
+    "agostinho-en35-5a"
+   ]
+  },
+  {
+   "id": "misericordia-nos-ceus",
+   "funde": [
+    "as-nuvens",
+    "os-montes"
+   ],
+   "titulo": "Misericórdia nos céus, justiça como os montes",
+   "resumo": "Misericórdia, verdade e justiça, altas como o céu, as nuvens e os montes; e os montes que recebem primeiro a luz para dá-la aos vales.",
+   "versiculos": [
+    6,
+    7
+   ],
+   "itens": [
+    "tomas-postps35-2",
+    "bruno-segni-expps35-6",
+    "agostinho-en35-9a"
+   ]
+  },
+  {
+   "id": "o-grande-abismo",
+   "itens": [
+    "crisostomo-stag-1-7",
+    "sales-ato-de-abandono-v7"
+   ]
+  },
+  {
+   "id": "homens-e-animais",
+   "funde": [
+    "o-presepio"
+   ],
+   "resumo": "Deus cuida de todas as criaturas, até da galinha; e no presépio o pão dos anjos se faz feno, para homens e animais.",
+   "itens": [
+    "agostinho-io-34-3",
+    "guerrico-natal-4-2"
+   ]
+  },
+  {
+   "id": "a-sombra-das-asas",
+   "resumo": "Deus abriga os seus como a ave os filhotes; os filhos dos homens esperam, com os anjos, os bens futuros.",
+   "itens": [
+    "belarmino-explps35-8",
+    "agostinho-en35-12a"
+   ]
+  },
+  {
+   "id": "a-fartura-da-casa",
+   "funde": [
+    "embriaguez-sobria",
+    "a-torrente"
+   ],
+   "titulo": "A fartura da casa e a embriaguez sóbria",
+   "resumo": "A casa é a Igreja, com a Palavra e os sacramentos; o vinho de Deus não perturba a mente, mas tira o homem de si e o leva a Deus.",
+   "itens": [
+    "ambrosio-enarr-ps35-19",
+    "cirilo-jer-cat17-19",
+    "gregorio-hom-ez-1-10-7",
+    "agostinho-en35-14b"
+   ]
+  },
+  {
+   "id": "a-fonte-da-vida",
+   "funde": [
+    "fonte-e-luz",
+    "a-sede-de-deus"
+   ],
+   "resumo": "A fonte é Cristo, que pediu água à samaritana; em Deus a fonte é também luz, e o desejo dela já começa a matar a sede.",
+   "itens": [
+    "maximo-turim-hom-97",
+    "agostinho-en35-15b",
+    "agostinho-confissoes-9-10-23"
+   ]
+  },
+  {
+   "id": "luz-da-luz",
+   "itens": [
+    "nazianzeno-or31-3",
+    "isaac-stella-sermo-26"
+   ]
+  },
+  {
+   "id": "face-a-face",
+   "itens": [
+    "sales-tratado-3-14-v10",
+    "catarina-dialogo-167-v10"
+   ]
+  },
+  {
+   "id": "retos-de-coracao",
+   "itens": [
+    "agostinho-en35-16"
+   ]
+  },
+  {
+   "id": "o-pe-da-soberba",
+   "funde": [
+    "a-mao-do-impio",
+    "ali-cairam"
+   ],
+   "titulo": "O pé da soberba e a queda",
+   "resumo": "A soberba é o pé com que o homem se afasta de Deus; quem se apoia em si cai e não acha descanso.",
+   "versiculos": [
+    12,
+    13
+   ],
+   "itens": [
+    "agostinho-en35-18a",
+    "bernardo-ep-393-3",
+    "gerhoh-comps35-13"
+   ]
+  },
+  {
+   "id": "na-liturgia",
+   "versiculos": [
+    8,
+    10,
+    11
+   ],
+   "itens": [
+    "lit-missal-comunhao-semana-i-tc",
+    "lit-missal-comunhao-domingo-24-tc",
+    "lit-grande-doxologia-bizantina"
+   ]
+  }
+ ],
+ "excluidos": [
+  {
+   "id": "teodoreto-ips35-1",
+   "motivo": "a ocasião (Davi poupando Saul) é conjectura que o título não dá; o retrato dos dois caminhos já está em São João Paulo II (jp2-aud-20010822-dois-retratos)"
+  },
+  {
+   "id": "eusebio-cps35-1",
+   "motivo": "a divisão do salmo (repreensão, teologia, fim dos maus) repete os dois retratos de São João Paulo II (jp2-aud-20010822-dois-retratos)"
+  },
+  {
+   "id": "ambrosio-enarr-ps35-5",
+   "motivo": "bonito, mas é sobre o título «servo do Senhor» e não ilumina o salmo; o tema do título saiu"
+  },
+  {
+   "id": "ambrosio-enarr-ps35-11",
+   "motivo": "repete Agostinho (agostinho-en35-2): Deus vê até o recanto escondido do coração"
+  },
+  {
+   "id": "cirilo-ps35-2",
+   "motivo": "repete Agostinho (agostinho-en35-2): sem temor de Deus, só o medo dos homens segura o ímpio"
+  },
+  {
+   "id": "teodoreto-ips35-2-3",
+   "motivo": "repete Agostinho (agostinho-en35-2 e en35-3): pensa que ninguém o vê e não quer ver a culpa"
+  },
+  {
+   "id": "ambrosio-enarr-ps35-6",
+   "motivo": "«peca contra si mesmo» lê a frase latina num sentido que o hebraico não sustenta; longo e periférico"
+  },
+  {
+   "id": "basilio-rb-81-sl35",
+   "motivo": "o desprezo de Deus como raiz do pecado já está em Agostinho (agostinho-en35-2); a citação do Sl 13 desvia do salmo"
+  },
+  {
+   "id": "tomas-postps35-1",
+   "motivo": "o exame de consciência feito com dolo repete Agostinho (agostinho-en35-3), que o diz de modo mais vivo"
+  },
+  {
+   "id": "cirilo-ps35-3",
+   "motivo": "repete Agostinho (agostinho-en35-3): o fingimento que impede achar e odiar a culpa"
+  },
+  {
+   "id": "agostinho-en35-1",
+   "motivo": "«não porque não possam, mas porque não querem» repete Dídimo (didimo-tura-35-4), mais curto"
+  },
+  {
+   "id": "agostinho-en35-4",
+   "motivo": "repete Dídimo (didimo-tura-35-4): o mal atribuído à vontade"
+  },
+  {
+   "id": "eusebio-cps35-4-5",
+   "motivo": "a livre escolha repete Dídimo (didimo-tura-35-4), e o leito, Agostinho (agostinho-en35-5a)"
+  },
+  {
+   "id": "atanasio-marcelino-sl35",
+   "motivo": "repete Dídimo (didimo-tura-35-4): a maldade não vem da natureza"
+  },
+  {
+   "id": "cirilo-ps35-5",
+   "motivo": "o leito da oração e o da maldade repete Agostinho (agostinho-en35-5a)"
+  },
+  {
+   "id": "ambrosio-enarr-ps35-16-17",
+   "motivo": "o leito como lugar de compunção repete Agostinho (agostinho-en35-5a)"
+  },
+  {
+   "id": "agostinho-en35-5b",
+   "motivo": "desenvolve a mesma imagem de agostinho-en35-5a (o quarto do coração como descanso), mais longo"
+  },
+  {
+   "id": "agostinho-en35-6",
+   "motivo": "bom, mas os quatro modos de lutar desviam do versículo; o capítulo precisava ficar curto"
+  },
+  {
+   "id": "eusebio-cps35-6",
+   "motivo": "a paciência de Deus com os ímpios e as nuvens como profetas já estão em Tomás (tomas-postps35-2) e Agostinho (agostinho-en35-9a)"
+  },
+  {
+   "id": "didimo-tura-35-6",
+   "motivo": "a misericórdia que leva ao céu repete Bruno de Segni (bruno-segni-expps35-6), mais claro"
+  },
+  {
+   "id": "pedro-crisologo-sermo-8",
+   "motivo": "a misericórdia como advogada é boa aplicação, mas sai para o capítulo ficar perto de 30; o essencial do versículo fica em Tomás e Bruno"
+  },
+  {
+   "id": "teresinha-ms-a-84r-v6",
+   "motivo": "toca o versículo só de passagem, dentro da oferta ao Amor Misericordioso; a altura da misericórdia já está em Tomás (tomas-postps35-2)"
+  },
+  {
+   "id": "bernardo-natal-1-2",
+   "motivo": "a misericórdia presa ao céu dos anjos é leitura natalina engenhosa, mas secundária diante de Tomás e Bruno"
+  },
+  {
+   "id": "agostinho-en35-8a",
+   "motivo": "nuvens = pregadores; a mesma leitura fica em Agostinho sobre os montes (agostinho-en35-9a), mais rica"
+  },
+  {
+   "id": "agostinho-en35-8b",
+   "motivo": "continua agostinho-en35-8a (nuvens = pregadores); repete agostinho-en35-9a"
+  },
+  {
+   "id": "teodoreto-ips35-6-7",
+   "motivo": "resume a tríade e o abismo, já em Tomás (tomas-postps35-2) e Crisóstomo (crisostomo-stag-1-7)"
+  },
+  {
+   "id": "agostinho-confissoes-13-15-18",
+   "motivo": "belíssimo, mas é sobre o firmamento da Escritura; a leitura das nuvens como pregadores já está em agostinho-en35-9a"
+  },
+  {
+   "id": "basilio-prov-sl35-7",
+   "motivo": "a justiça alta e difícil de ver repete Tomás (tomas-postps35-2)"
+  },
+  {
+   "id": "cirilo-ps35-6",
+   "motivo": "a altura de céu, nuvens e montes repete Tomás (tomas-postps35-2); a polêmica com Aristóteles não interessa ao leitor de hoje"
+  },
+  {
+   "id": "cassiodoro-expps35-7",
+   "motivo": "os montes que recebem primeiro a luz repete Agostinho (agostinho-en35-9a)"
+  },
+  {
+   "id": "agostinho-en35-9b",
+   "motivo": "os hereges como montes (Ário, Donato, Maximiano) é polêmica datada; a lição de não pôr a esperança nos montes já está em agostinho-en35-9a"
+  },
+  {
+   "id": "basilio-hps32-5-sl35",
+   "motivo": "repete Crisóstomo (crisostomo-stag-1-7): os juízos incompreensíveis de Deus"
+  },
+  {
+   "id": "crisostomo-1cor-hom29",
+   "motivo": "repete o próprio Crisóstomo (crisostomo-stag-1-7): diante do que não se entende, dizer «os teus juízos são um grande abismo»"
+  },
+  {
+   "id": "gregorio-moralia-29-57",
+   "motivo": "não perscrutar a eleição repete Crisóstomo (crisostomo-stag-1-7) e Francisco de Sales (sales-ato-de-abandono-v7)"
+  },
+  {
+   "id": "agostinho-en35-10",
+   "motivo": "o abismo como os maus que defendem o pecado repete a leitura de agostinho-en35-3"
+  },
+  {
+   "id": "cirilo-ps35-7",
+   "motivo": "Deus cuida dos animais (Jonas, o sábado) repete Agostinho (agostinho-io-34-3)"
+  },
+  {
+   "id": "agostinho-en145-13",
+   "motivo": "repete agostinho-io-34-3: o pardal, o gafanhoto, a providência sobre os animais"
+  },
+  {
+   "id": "teodoreto-ips35-7-8",
+   "motivo": "repete Agostinho (agostinho-io-34-3) e antecipa as asas, já em Belarmino"
+  },
+  {
+   "id": "belarmino-explps35-7",
+   "motivo": "Deus sustenta até os blasfemos: bom, mas próximo da misericórdia que vai além dos méritos (bruno-segni-expps35-6); sai para enxugar"
+  },
+  {
+   "id": "eusebio-cps35-7-8",
+   "motivo": "a misericórdia misturada com a justiça repete Tomás (tomas-postps35-2); longo"
+  },
+  {
+   "id": "agostinho-en35-11",
+   "motivo": "repete agostinho-io-34-3, que diz o mesmo com mais vida"
+  },
+  {
+   "id": "bernardo-cant-18-4",
+   "motivo": "a concha e o canal falam da caridade que transborda, não do versículo"
+  },
+  {
+   "id": "jeronimo-hom-natal",
+   "motivo": "o pão e a manjedoura repete Guerrico (guerrico-natal-4-2), que dá o sentido mais completo"
+  },
+  {
+   "id": "jeronimo-tract-ps146",
+   "motivo": "o trigo e o feno repete Guerrico (guerrico-natal-4-2)"
+  },
+  {
+   "id": "atanasio-exp35-7",
+   "motivo": "homens e animais como dois povos ou dois graus de razão: leitura alegórica já resumida em Guerrico (guerrico-natal-4-2)"
+  },
+  {
+   "id": "nissa-cant-15-sl35",
+   "motivo": "animais = os menos racionais entre os salvos: já em Guerrico (guerrico-natal-4-2)"
+  },
+  {
+   "id": "bruno-segni-expps35-7",
+   "motivo": "homens = sábios, animais = carnais: mesma leitura de Guerrico (guerrico-natal-4-2)"
+  },
+  {
+   "id": "agostinho-en35-12b",
+   "motivo": "Adão e Cristo, homens e filhos dos homens: repete agostinho-en35-12a"
+  },
+  {
+   "id": "cirilo-ps35-8",
+   "motivo": "a proteção em Cristo repete Belarmino (belarmino-explps35-8)"
+  },
+  {
+   "id": "didimo-tura-35-8",
+   "motivo": "os ovos que tomam a forma de Cristo é imagem curiosa, mas secundária diante de Belarmino"
+  },
+  {
+   "id": "cassiodoro-expps35-8",
+   "motivo": "homens e filhos dos homens, e a ave com os filhotes: repete Agostinho (agostinho-en35-12a) e Belarmino (belarmino-explps35-8)"
+  },
+  {
+   "id": "arnobio-comps35",
+   "motivo": "as asas como braços na cruz é bonito, mas breve e solto; sai para enxugar"
+  },
+  {
+   "id": "agostinho-en35-13",
+   "motivo": "o operário que exige o salário antes: aplicação da esperança que se afasta do versículo"
+  },
+  {
+   "id": "agostinho-sermo-255-5",
+   "motivo": "a esperança que alimenta repete agostinho-en35-12a"
+  },
+  {
+   "id": "eusebio-cps35-8-9",
+   "motivo": "casa = Igreja, fartura = Escrituras: repete Ambrósio (ambrosio-enarr-ps35-19)"
+  },
+  {
+   "id": "jp2-aud-20010822-banquete",
+   "motivo": "o banquete e a fonte, já em Ambrósio (ambrosio-enarr-ps35-19) e no tema da fonte"
+  },
+  {
+   "id": "teodoreto-ips35-9",
+   "motivo": "o alimento místico e a torrente que corre por um tempo: repete Ambrósio (ambrosio-enarr-ps35-19)"
+  },
+  {
+   "id": "cassiodoro-expps35-9",
+   "motivo": "a embriaguez celeste que faz esquecer o mundo repete Cirilo de Jerusalém (cirilo-jer-cat17-19) e Gregório (gregorio-hom-ez-1-10-7)"
+  },
+  {
+   "id": "agostinho-en35-14a",
+   "motivo": "o inefável da promessa: fica a continuação do mesmo sermão (agostinho-en35-14b), mais concreta"
+  },
+  {
+   "id": "newman-pps-7-12-v8-10",
+   "motivo": "os Salmos prevendo o banquete cristão já está em Ambrósio (ambrosio-enarr-ps35-19); o trecho quase só cita os versículos"
+  },
+  {
+   "id": "agostinho-agone-9-10",
+   "motivo": "a embriaguez que arrebata para o alto repete Cirilo de Jerusalém (cirilo-jer-cat17-19)"
+  },
+  {
+   "id": "tomas-postps35-4",
+   "motivo": "as asas e a embriaguez como estar fora de si: repete Belarmino (belarmino-explps35-8) e Gregório (gregorio-hom-ez-1-10-7)"
+  },
+  {
+   "id": "cassiodoro-expps35-conclusao",
+   "motivo": "repete Cirilo de Jerusalém (cirilo-jer-cat17-19): embriaguez que não perturba, mas deixa a mente sã"
+  },
+  {
+   "id": "bernardo-dil-11-33",
+   "motivo": "comer, beber, embriagar-se: belo, mas longo e muito próximo dos outros quatro do tema"
+  },
+  {
+   "id": "belarmino-explps35-9",
+   "motivo": "a embriaguez como saciedade final repete Bernardo e Agostinho; sai para enxugar"
+  },
+  {
+   "id": "agostinho-en35-14c",
+   "motivo": "a torrente que inebria os que têm sede: repete agostinho-en35-14b e o tema da fonte"
+  },
+  {
+   "id": "didimo-frag-350",
+   "motivo": "fonte = Salvador, torrente = Espírito: repete Máximo (maximo-turim-hom-97) e Cirilo de Jerusalém"
+  },
+  {
+   "id": "joao-cruz-cantico-b-26-1-v9-10",
+   "motivo": "a torrente como o Espírito na união mística: forte, mas repete no essencial Cirilo de Jerusalém (cirilo-jer-cat17-19)"
+  },
+  {
+   "id": "ambrosio-enarr-ps35-24",
+   "motivo": "a torrente como perseguição é leitura forçada"
+  },
+  {
+   "id": "ambrosio-enarr-ps35-21",
+   "motivo": "o «beber a torrente» e os rios do paraíso: sutileza da gramática latina, secundária"
+  },
+  {
+   "id": "ricardo-adnot-ps121",
+   "motivo": "provar e beber: bonito, mas próximo da embriaguez já tratada por quatro autores"
+  },
+  {
+   "id": "anselmo-proslogion-25",
+   "motivo": "cita o versículo numa lista dos bens do céu; não o explica"
+  },
+  {
+   "id": "bernardo-feria-iv-9",
+   "motivo": "cita o versículo de passagem, sobre a misericórdia com os que crucificam"
+  },
+  {
+   "id": "agostinho-en35-15a",
+   "motivo": "Cristo como fonte que veio à terra repete Máximo (maximo-turim-hom-97)"
+  },
+  {
+   "id": "ambrosio-enarr-ps35-22",
+   "motivo": "Cristo fonte e luz do Pai repete Máximo (maximo-turim-hom-97) e o tema da Trindade"
+  },
+  {
+   "id": "didimo-tura-35-9-10",
+   "motivo": "«a fonte existe sempre»: sutileza menor diante dos outros"
+  },
+  {
+   "id": "cirilo-cjo-10-sl35",
+   "motivo": "fonte = Filho, torrente = Espírito: repete Máximo (maximo-turim-hom-97)"
+  },
+  {
+   "id": "jeronimo-in-isaiam-16",
+   "motivo": "uma frase só; repete Máximo (maximo-turim-hom-97)"
+  },
+  {
+   "id": "agostinho-io-25-17",
+   "motivo": "beber dentro, junto de Deus: repete agostinho-en35-15b e o tema das asas"
+  },
+  {
+   "id": "agostinho-io-26-4",
+   "motivo": "atraído pelo prazer: belo, mas é sobre Jo 6,44 e só cita o salmo"
+  },
+  {
+   "id": "cassiodoro-expps35-10",
+   "motivo": "a fonte que é luz repete Agostinho (agostinho-en35-15b)"
+  },
+  {
+   "id": "agostinho-io-13-5",
+   "motivo": "repete agostinho-en35-15b: na terra a fonte e a luz se separam, em Deus não"
+  },
+  {
+   "id": "agostinho-sermo-225-4",
+   "motivo": "repete agostinho-en35-15b: a lamparina para chegar à fonte"
+  },
+  {
+   "id": "agostinho-sermo-284-1",
+   "motivo": "aproximar-se, beber e ver: repete agostinho-en35-15b"
+  },
+  {
+   "id": "agostinho-en41-2",
+   "motivo": "fonte e luz, e o cervo: repete agostinho-en35-15b"
+  },
+  {
+   "id": "agostinho-carta-130-27",
+   "motivo": "a sede da fonte na oração repete as Confissões (agostinho-confissoes-9-10-23)"
+  },
+  {
+   "id": "agostinho-sermo-23-10",
+   "motivo": "o orvalho e a fonte repete as Confissões (agostinho-confissoes-9-10-23)"
+  },
+  {
+   "id": "ambrosio-fuga-saeculi-9-52",
+   "motivo": "o cervo e a fonte: repete as Confissões (agostinho-confissoes-9-10-23)"
+  },
+  {
+   "id": "agostinho-io-34-4",
+   "motivo": "a fonte que andava pela terra repete Máximo (maximo-turim-hom-97)"
+  },
+  {
+   "id": "sales-carta-ccxl-1604-v10",
+   "motivo": "conselho pessoal à baronesa de Chantal; toca a fonte de passagem"
+  },
+  {
+   "id": "hesiquio-andre-sl35",
+   "motivo": "uma frase sobre as mulheres na Páscoa; só cita o versículo"
+  },
+  {
+   "id": "basilio-ss-18-47",
+   "motivo": "«no Espírito veremos o Filho» já está em Nazianzeno (nazianzeno-or31-3), mais breve e claro"
+  },
+  {
+   "id": "teodoreto-ips35-10",
+   "motivo": "repete Nazianzeno (nazianzeno-or31-3): a Trindade no versículo"
+  },
+  {
+   "id": "nazianzeno-or34-13",
+   "motivo": "repete o próprio Nazianzeno (nazianzeno-or31-3), numa frase"
+  },
+  {
+   "id": "atanasio-car-1-12-sl35",
+   "motivo": "argumento contra os arianos que só cita o versículo; a luz do Pai já está em Nazianzeno"
+  },
+  {
+   "id": "epifanio-pan-69-54",
+   "motivo": "repete Nazianzeno (nazianzeno-or31-3), de modo mais confuso"
+  },
+  {
+   "id": "agostinho-trindade-7-3-4",
+   "motivo": "Cristo luz da luz e fonte junto do Pai: repete Nazianzeno"
+  },
+  {
+   "id": "tomas-postps35-5",
+   "motivo": "as três luzes (razão, graça, glória) repetem Francisco de Sales (sales-tratado-3-14-v10), mais belo"
+  },
+  {
+   "id": "belarmino-explps35-10",
+   "motivo": "agora no espelho, então face a face: já em Francisco de Sales (sales-tratado-3-14-v10)"
+  },
+  {
+   "id": "tomas-st-1-12-2",
+   "motivo": "a luz da glória, numa frase técnica; já em Francisco de Sales"
+  },
+  {
+   "id": "eusebio-cps35-10",
+   "motivo": "a vida que é luz dos homens repete o tema da fonte"
+  },
+  {
+   "id": "origenes-sel35-10",
+   "motivo": "glosa breve; repete o tema da fonte e o da Trindade"
+  },
+  {
+   "id": "ambrosio-exhortatio-virg-9-57-58",
+   "motivo": "a luz do Pai no Filho repete Nazianzeno; a aplicação às virgens desvia"
+  },
+  {
+   "id": "agostinho-en35-17a",
+   "motivo": "Adão e o Deus humilde que cura: repete agostinho-en35-18a e Bernardo"
+  },
+  {
+   "id": "cassiodoro-expps35-12-13",
+   "motivo": "o pé único da soberba repete Bernardo (bernardo-ep-393-3), que o diz melhor"
+  },
+  {
+   "id": "cassiano-inst-12-6",
+   "motivo": "até o perfeito pede ajuda contra a soberba: repete agostinho-en35-18a e Bernardo"
+  },
+  {
+   "id": "nissa-ecl-8-sl35",
+   "motivo": "os cavalos empinados: imagem breve, que só cita o versículo"
+  },
+  {
+   "id": "agostinho-virgindade-52-53",
+   "motivo": "o pé da humildade repete Bernardo (bernardo-ep-393-3)"
+  },
+  {
+   "id": "agostinho-en120-5",
+   "motivo": "só a soberba move o pé para a queda: repete agostinho-en35-18a"
+  },
+  {
+   "id": "cirilo-ps35-12",
+   "motivo": "lista de mãos do pecador, sem a força dos outros"
+  },
+  {
+   "id": "agostinho-en35-17b",
+   "motivo": "Cristo médico que suporta o delirante: belo, mas trata da humildade, já em agostinho-en35-18a"
+  },
+  {
+   "id": "ambrosio-enarr-ps35-26",
+   "motivo": "a soberba que derruba repete Bernardo (bernardo-ep-393-3)"
+  },
+  {
+   "id": "agostinho-en35-18b",
+   "motivo": "a queda do soberbo e o Batista humilde repete agostinho-en35-18a"
+  },
+  {
+   "id": "bernardo-cant-85-6",
+   "motivo": "o diabo que caiu por não se apoiar no Verbo repete Bernardo (bernardo-ep-393-3) e Gerhoh (gerhoh-comps35-13)"
+  },
+  {
+   "id": "ambrosio-enarr-ps35-29",
+   "motivo": "a cadeia soberba, pecado e queda repete Bernardo (bernardo-ep-393-3)"
+  },
+  {
+   "id": "sales-avisos-chantal-1604-v10",
+   "motivo": "oração pessoal ao levantar, não liturgia"
+  },
+  {
+   "id": "jp2-aud-20010822-luz",
+   "motivo": "o salmo da manhã fica dito pela Grande Doxologia das matinas; a catequese repete o tema da luz"
+  },
+  {
+   "id": "lit-lecionario-quinta-16-tc-ano-ii",
+   "motivo": "uso menor (um dia de semana do ano II), com o mesmo versículo da antífona de comunhão"
+  },
+  {
+   "id": "lit-transfiguracao-responsorio",
+   "motivo": "breviário antigo, fora de uso; os versículos já estão nas outras"
+  }
+ ],
+ "temas_excluidos": []
+}

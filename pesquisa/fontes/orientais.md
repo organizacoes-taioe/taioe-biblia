@@ -262,8 +262,8 @@ só pista.
 
 ## Aprendido no Nm 16 (20/10/2026, conversa do capítulo)
 
-Siríacos, liturgia bizantina e outros orientais (regra do Gere, 20/10: pelo menos a metade dos
-comentários de cada capítulo de Padres orientais). Aprendido no Nm 16 (20/10/2026); os gregos
+Siríacos, liturgia bizantina e outros orientais (a meta de metade, de 20/10, caiu no mesmo dia: o Gere
+quer o melhor, sem cota). Aprendido no Nm 16 (20/10/2026); os gregos
 estão em `gregos.md`.
 
 ### Siríacos

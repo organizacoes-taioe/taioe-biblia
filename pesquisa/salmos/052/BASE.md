@@ -42,6 +42,17 @@ que não é óbvio (`CAPITULO.md`, etapa 6).
 
 ## Pistas (citações em outras obras, a seguir na pesquisa do capítulo)
 
+Obras de São Josemaria no escriva.org, original espanhol. O Gere tem autorização do Opus Dei para usar os textos,
+com o link do escriva.org. Gerado por `pesquisa/ferramentas/base/mod-escriva.py pistas` (2026-10-20); índice geral
+em `pesquisa/fontes/escriva-indice.md`. «nota» = nota de rodapé da edição; «site» = índice bíblico do escriva.org;
+«texto» = referência no corpo. Nos pontos longos (homilias, cartas) vão só os parágrafos onde está a citação.
+
+## Camino, n. 712: Sl 52,19
+- Obra: Caminho (Camino); capítulo «Lucha interior»
+- Ponto: 712; URL: https://escriva.org/es/camino/712/
+- Referência: site: Salmos 51, 19 (site)
+
+> ¡Muy honda es tu caída! —Comienza los cimientos desde ahí abajo. —Sé humilde. —«Cor contritum et humiliatum, Deus, non despicies». —No despreciará Dios un corazón contrito y humillado.
 - Dídimo, o Cego, fragmentos de cadeia sobre os Salmos (ed. Mühlenberg, PTA 15–16): frgs. 553–557 sobre o Sl 51 da LXX (vv. 3–11); edição moderna, não guardada. https://khazarzar.skeptik.net/pgm/PG_Migne/Didymus%20the%20Blind_PG%2039/Fragmenta%20in%20Psalmos.pdf
 - Hesíquio de Jerusalém, Fragmenta in Psalmos (PG 93, 1179–1340), «PSALMUS LI» (Sl 51 da LXX): OCR do archive.org sem condições de corte (colunas grego/latim misturadas), não guardado. https://archive.org/details/patrologiaecursu93mignuoft
 - Eutímio Zigabeno, Commentarius in Psalterium (PG 128, 41–1326), «PSALMUS LI» (Sl 51 da LXX): compila sobretudo Teodoreto; latim legível, grego do OCR quebrado (letras latinas), não guardado. https://archive.org/details/patrologiaecurs261unkngoog

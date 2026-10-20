@@ -111,16 +111,17 @@ Sl 33, de 20 notas ficaram 4.
   Teodoreto e outros «escritores eclesiásticos» quando a tradição os usa, com a indicação do que
   são) e **os textos do Magistério**, de qualquer Papa ou concílio e o Catecismo («podem ficar, com
   certeza», o Gere, 17/10: *Verbum Domini*, *Laudato si'*), quando comentam de fato o versículo.
-- **Mais Padres orientais** (pedido do Gere, 20/10: «quero ver mais comentários de padres
-  orientais»). Nos 8 primeiros capítulos eles foram 32% (quase só gregos; siríacos, 4 de 958). Meta:
-  **pelo menos a metade** dos comentários de cada capítulo, quando as fontes permitirem. Orientais
-  são os gregos e bizantinos, os siríacos (Efrém, Afraates, Jacó de Sarug, Isaac de Nínive), os
-  armênios (Gregório de Narek, Nerses), os coptas e os Padres do deserto, e a liturgia e a
-  hinografia orientais (Romano, o Melodista, André de Creta, os cânones e kontákia). **Os
-  siríacos fora da comunhão com Roma ficam só como pista**, nunca no site (o Gere, 20/10): Dionísio
-  bar Salibi, Filoxeno de Mabug, Narsai, Isho`dad de Merv, Teodoro bar Koni; em `autores.json`
-  levam `"site": false`, e o `conferir` os recusa. Servem para achar o que os Padres disseram. Um subagente
-  só para os orientais que não são os comentadores gregos de sempre (catálogo `orientais.md`).
+- **Escolher o melhor, venha de onde vier** (o Gere, 20/10: «a meta de orientais está exagerada, e
+  não precisa favorecer eles sobre os ocidentais, quero que escolha o melhor»). Não há cota nem
+  preferência por Oriente ou Ocidente. A pesquisa continua procurando também os orientais menos
+  conhecidos (siríacos, armênios, Padres do deserto, hinografia bizantina; catálogo `orientais.md`),
+  para que o melhor deles não fique de fora. **Os siríacos fora da comunhão com Roma ficam só como
+  pista**, nunca no site (o Gere, 20/10): Dionísio bar Salibi, Filoxeno de Mabug, Narsai, Isho`dad
+  de Merv, Teodoro bar Koni; em `autores.json` levam `"site": false`, e o `conferir` os recusa.
+- **São Josemaria Escrivá** entra quando comentar o versículo (o Gere, 20/10: tem autorização do Opus
+  Dei; basta o link do escriva.org). Tradução nossa do original espanhol, com o link do ponto ou do
+  parágrafo no escriva.org; não vale o limite de «citação curta». Índice das citações bíblicas em
+  `pesquisa/fontes/escriva.md`.
 - Tudo se guarda em `pesquisa/<livro>/<ccc>/`: os textos inteiros (domínio público) em
   `textos/`, os excertos candidatos em `achados-*.json`, e um relatório do que se procurou e não
   existe. O que servir para outros capítulos vai para o mapa do livro (`pesquisa/fontes/<livro>.md`);
@@ -132,13 +133,18 @@ Sl 33, de 20 notas ficaram 4.
 ## 7. Escolher e organizar por temas
 
 - Juntar os achados, tirar as repetições (o mesmo pensamento em dois autores: fica o melhor ou o
-  mais antigo, salvo se o segundo acrescenta; entre um latino e um oriental que dizem o mesmo, fica
-  o oriental), e agrupar por **aspecto do trecho**: cada tema
+  mais antigo, salvo se o segundo acrescenta), e agrupar por **aspecto do trecho**: cada tema
   reúne os comentários que falam da mesma coisa (ex.: «O cântico novo», «O Verbo e o Espírito na
   criação»). Os temas seguem a ordem do texto; o da liturgia, se houver, vai por último.
 - A página de comentários de um trecho não tem texto introdutório (o Gere, Nm 12): nada de `intro`.
-- Tema: id curto, título, versículos, resumo de uma frase. Entre 2 e 8 comentários por tema;
-  um tema de um comentário só, só se ele for essencial.
+- **Poucos e diferentes** (o Gere, 20/10: «não encher de textos muito parecidos»; «já tenho muitos
+  comentários pendentes, em poucos capítulos»). Cada comentário de um tema tem de dizer algo que os
+  outros não dizem; dois que dizem o mesmo, fica o melhor (o mais claro, bonito e fundo para o
+  leitor comum). Tema que repete a ideia de outro tema, funde-se ou sai.
+- Tema: id curto, título, versículos, resumo de uma frase. **De 2 a 4 comentários por tema** (5 só
+  se cada um disser coisa claramente diferente); um tema de um comentário só, só se ele for
+  essencial. O capítulo fica, em geral, **entre 30 e 50 comentários**, conforme o tamanho; nos
+  Salmos 33–36 eram de 114 a 159, e foram enxugados em 20/10.
 - Comentário: excerto com sentido completo (2 a 8 frases), na ordem do raciocínio, do mais
   claro ao mais fundo. `autor`, `sobre` (datas e o que foi: «bispo de Hipona, Doutor da
   Igreja»), `obra` (título em português e, entre parênteses, o original), `passagem` (a exata),

@@ -127,8 +127,8 @@ for tr, temas in T.items():
                 itens.append(it)
                 o += oriental
                 vv.update(v for v in (achados[i].get('versiculos') or []) if isinstance(v, int) and a <= v <= b)
-        if not 2 <= len(itens) <= 8:
-            problemas.append(f'tema {t["id"]}: {len(itens)} comentário(s) (o normal é de 2 a 8)')
+        if not 2 <= len(itens) <= 5:
+            problemas.append(f'tema {t["id"]}: {len(itens)} comentário(s) (o normal é de 2 a 4; 5 só se cada um disser coisa diferente)')
         tema = {'id': t['id'], 'titulo': t['titulo'], 'versiculos': t.get('versiculos') or sorted(vv) or list(range(a, b + 1)),
                 'resumo': t['resumo'], 'itens': itens}
         antigo = publicados.get('tema:' + t['id'])

@@ -1,0 +1,436 @@
+{
+ "salmo": 33,
+ "antes": 114,
+ "depois": 48,
+ "temas": [
+  {
+   "id": "alegria-dos-justos",
+   "itens": [
+    "basilio-hps32-1a",
+    "basilio-hps32-1c",
+    "agostinho-en32-s1-3"
+   ]
+  },
+  {
+   "id": "citara-e-harpa",
+   "funde": [
+    "lei-por-amor"
+   ],
+   "resumo": "Os Padres liam «saltério», o nome latino da harpa, e viram nos dois instrumentos a vida inteira posta a louvar: os bens e as perdas da terra, o corpo e os dez mandamentos, cumpridos por amor e não por medo.",
+   "itens": [
+    "agostinho-en32-s1-5b",
+    "basilio-hps32-2a",
+    "agostinho-sermo-33-1"
+   ]
+  },
+  {
+   "id": "cantico-novo",
+   "funde": [
+    "cantar-com-arte"
+   ],
+   "titulo": "O cântico novo e o júbilo",
+   "resumo": "O canto do homem renovado, que celebra a obra nova de Deus, o próprio Cristo; e o júbilo, o canto que já não cabe em palavras.",
+   "itens": [
+    "basilio-hps32-2c",
+    "clemente-protreptico-1",
+    "basilio-hps32-2b",
+    "agostinho-en32-s1-8b"
+   ]
+  },
+  {
+   "id": "palavra-fiel",
+   "resumo": "Deus cumpre o que promete, e a ordem das coisas criadas, até das menores, leva à fé.",
+   "itens": [
+    "agostinho-en32-s1-9",
+    "basilio-hps32-3b"
+   ]
+  },
+  {
+   "id": "terra-cheia-de-misericordia",
+   "itens": [
+    "agostinho-en32-s1-10",
+    "agostinho-en32-s2-4",
+    "basilio-hps32-3d"
+   ]
+  },
+  {
+   "id": "verbo-e-espirito",
+   "funde": [
+    "ceus-apostolos"
+   ],
+   "resumo": "A Igreja leu neste versículo a Trindade que cria: o Pai, pela sua Palavra, que é o Filho, e pelo seu Espírito; e nos «céus» firmados viu também os apóstolos, fortalecidos pelo Espírito no Pentecostes.",
+   "itens": [
+    "basilio-dss-16-38",
+    "ambrosio-hex-1-8-29",
+    "gregorio-hev-30-7"
+   ]
+  },
+  {
+   "id": "odre-e-abismos",
+   "resumo": "Os Padres liam «como num odre»: Deus segura e fecha o mar, sinal do mal; as tribulações que ainda vêm servem para nos educar, e os seus juízos são abismos que não alcançamos.",
+   "itens": [
+    "jp2-aud20010808-2",
+    "agostinho-en32-s2-10b",
+    "basilio-hps32-5a"
+   ]
+  },
+  {
+   "id": "temor-de-deus",
+   "itens": [
+    "agostinho-en32-s2-12",
+    "basilio-hps32-6a",
+    "tomas-postps32-18"
+   ]
+  },
+  {
+   "id": "ele-falou",
+   "itens": [
+    "agostinho-conf-11-5-7",
+    "newman-justificacao-4-v9",
+    "afonso-selva-1-1-v9"
+   ]
+  },
+  {
+   "id": "designio-do-senhor",
+   "itens": [
+    "basilio-hps32-6b",
+    "basilio-hps32-7a"
+   ]
+  },
+  {
+   "id": "povo-feliz",
+   "itens": [
+    "agostinho-en32-s2-15",
+    "agostinho-en32-s2-16",
+    "agostinho-en32-s2-18"
+   ]
+  },
+  {
+   "id": "olhar-de-deus",
+   "itens": [
+    "basilio-hps32-8a",
+    "agostinho-en32-s2-19",
+    "basilio-hps32-10a"
+   ]
+  },
+  {
+   "id": "coracao-de-cada-um",
+   "itens": [
+    "basilio-hps32-8b",
+    "agostinho-en32-s2-22"
+   ]
+  },
+  {
+   "id": "rei-gigante-cavalo",
+   "itens": [
+    "colombiere-soin-du-salut-v16-17",
+    "agostinho-en32-s2-24b"
+   ]
+  },
+  {
+   "id": "alimento-na-fome",
+   "itens": [
+    "tomas-postps32-19",
+    "eusebio-cps32-19",
+    "cassiodoro-expps32-19"
+   ]
+  },
+  {
+   "id": "conforme-esperamos",
+   "itens": [
+    "afonso-preghiera-1-2-v22",
+    "agostinho-en32-s2-28",
+    "tomas-postps32-22"
+   ]
+  },
+  {
+   "id": "na-liturgia",
+   "resumo": "Onde a Igreja canta este salmo: nas Laudes da manhã, na noite de Páscoa e no fim do Te Deum.",
+   "itens": [
+    "lit-lh-laudes-ter1",
+    "lit-vigilia-pascal",
+    "lit-te-deum-v22"
+   ]
+  }
+ ],
+ "excluidos": [
+  {
+   "id": "agostinho-en32-s1-1",
+   "motivo": "repete agostinho-en32-s1-3 e basilio-hps32-1c: quem quer dobrar Deus à própria vontade não louva bem; o «menino tolo» diz o mesmo com mais força"
+  },
+  {
+   "id": "tomas-postps32-1",
+   "motivo": "repete basilio-hps32-1c (a retidão que se ajusta à régua) e agostinho-en32-s1-3 (louvar no bem e no mal)"
+  },
+  {
+   "id": "cassiodoro-expps32-1",
+   "motivo": "repete agostinho-en32-s1-3: alegrar-se também na adversidade"
+  },
+  {
+   "id": "basilio-hps32-1b",
+   "motivo": "bonito, mas a alegria que basta em Deus já está em basilio-hps32-1a; o tema fica com três"
+  },
+  {
+   "id": "agostinho-en32-s1-5a",
+   "motivo": "a mesma leitura de agostinho-en32-s1-5b (a cítara = os bens e as perdas da terra), que a aplica melhor, com Jó"
+  },
+  {
+   "id": "cassiodoro-expps32-2a",
+   "motivo": "repete agostinho-en32-s1-5b (Jó: «o Senhor deu, o Senhor tirou») e, nas obras do corpo, basilio-hps32-2a"
+  },
+  {
+   "id": "agostinho-en32-s1-6a",
+   "motivo": "o saltério como os dez mandamentos já vem em agostinho-sermo-33-1, que vai além (tocado por amor)"
+  },
+  {
+   "id": "cassiodoro-expps32-2b",
+   "motivo": "repete o decálogo que vem do alto (agostinho-sermo-33-1); o «os instrumentos somos nós» já está em basilio-hps32-2a"
+  },
+  {
+   "id": "agostinho-en32-s1-6b",
+   "motivo": "repete agostinho-sermo-33-1: cumprir a Lei por amor e não por medo; o sermão tem a imagem do instrumento carregado e não tocado"
+  },
+  {
+   "id": "agostinho-en32-s1-6c",
+   "motivo": "desvia do versículo (a beleza da justiça no velho curvado); o tema fundido fica com três"
+  },
+  {
+   "id": "agostinho-en32-s1-8a",
+   "motivo": "repete basilio-hps32-2b: só o homem renovado canta o cântico novo"
+  },
+  {
+   "id": "agostinho-sermo-34-6",
+   "motivo": "repete o «cantar com a vida» (agostinho-en32-s1-8a, basilio-hps32-2b); e o verso que comenta é de outro salmo"
+  },
+  {
+   "id": "jp2-aud20010808-1",
+   "motivo": "genérico; o cântico como antecipação da glória fica no júbilo de agostinho-en32-s1-8b"
+  },
+  {
+   "id": "basilio-hps32-3a",
+   "motivo": "a aclamação dos soldados é variação menor do júbilo de agostinho-en32-s1-8b"
+  },
+  {
+   "id": "tomas-postps32-3a",
+   "motivo": "repete agostinho-en32-s1-8b: o júbilo como alegria inefável, quase com as mesmas palavras"
+  },
+  {
+   "id": "bruno-segni-expps32-3",
+   "motivo": "repete basilio-hps32-2c (o cântico novo é o de Cristo) e o «cantar com a vida»"
+  },
+  {
+   "id": "basilio-hps32-3c",
+   "motivo": "repete basilio-hps32-3b: a ordem da criação leva à fé"
+  },
+  {
+   "id": "agostinho-en32-s2-3",
+   "motivo": "a misericórdia oferecida em toda a terra já está em agostinho-en32-s1-10 e s2-4"
+  },
+  {
+   "id": "afonso-tsc-sl32-5",
+   "motivo": "uma linha que só reafirma o versículo; dito melhor em agostinho-en32-s2-4"
+  },
+  {
+   "id": "bernardo-sc-22-8",
+   "motivo": "repete agostinho-en32-s1-10: a misericórdia que chama e perdoa, oferecida em toda parte"
+  },
+  {
+   "id": "irineu-ah-1-22-1",
+   "motivo": "só enuncia a regra de fé; basilio-dss-16-38 diz o mesmo e o desenvolve"
+  },
+  {
+   "id": "basilio-hps32-4b",
+   "motivo": "repete basilio-dss-16-38: a Palavra não é fala, o Espírito não é vapor"
+  },
+  {
+   "id": "atanasio-serapiao-3",
+   "motivo": "repete basilio-dss-16-38: o Pai cria pelo Verbo, no Espírito"
+  },
+  {
+   "id": "gregorio-nissa-orcat-4",
+   "motivo": "repete basilio-dss-16-38: a palavra não é som, nem o espírito hálito"
+  },
+  {
+   "id": "agostinho-en32-s2-5",
+   "motivo": "repete basilio-dss-16-38: Pai, Verbo e Espírito criam juntos, um só Deus"
+  },
+  {
+   "id": "cic-292",
+   "motivo": "resume o que os Padres do tema já dizem"
+  },
+  {
+   "id": "francisco-laudatosi-77",
+   "motivo": "o mundo vem de uma decisão e não do acaso: dito em basilio-hps32-3b e jp2-aud20010808-2"
+  },
+  {
+   "id": "cassiodoro-expps32-6",
+   "motivo": "repete gregorio-hev-30-7 (os céus são os apóstolos) e a leitura trinitária de basilio-dss-16-38"
+  },
+  {
+   "id": "agostinho-en32-s2-7",
+   "motivo": "o perdão pregado em toda a terra repete o tema da terra cheia de misericórdia (agostinho-en32-s1-10)"
+  },
+  {
+   "id": "sales-sermao-pentecostes-1593-v6",
+   "motivo": "repete gregorio-hev-30-7: os apóstolos, céus da Igreja, firmados pelo Espírito"
+  },
+  {
+   "id": "agostinho-en32-s2-9",
+   "motivo": "preso à festa de um mártir local; a força dos apóstolos já está em gregorio-hev-30-7"
+  },
+  {
+   "id": "cirilo-jer-cat-11-16",
+   "motivo": "leitura trinitária já dada no versículo 6 (basilio-dss-16-38)"
+  },
+  {
+   "id": "sales-sermao-1612-laetare-v6-9",
+   "motivo": "a imagem do vidreiro é graciosa, mas comenta o sopro do v. 6, já coberto"
+  },
+  {
+   "id": "sales-sermao-purificacao-1620-v9",
+   "motivo": "aplicação moral menor (ajustar as obras às palavras) ao lado de newman e afonso; o tema fica com três"
+  },
+  {
+   "id": "bento16-verbumdomini-8",
+   "motivo": "só cita os versículos 6 e 9, sem acrescentar"
+  },
+  {
+   "id": "agostinho-en32-s2-10a",
+   "motivo": "alegoria difícil (o amargor dos perseguidores fechado na pele); o mal contido já vem em jp2-aud20010808-2"
+  },
+  {
+   "id": "cassiodoro-expps32-7",
+   "motivo": "repete tomas-postps32-7 (odre = Igreja; abismos = Escrituras)"
+  },
+  {
+   "id": "tomas-postps32-7",
+   "motivo": "alegoria do odre como Igreja; o tema fica com o sentido literal (jp2), a tribulação (agostinho) e os juízos de Deus (basilio)"
+  },
+  {
+   "id": "tomas-postps32-8",
+   "motivo": "observação menor (só o homem precisa ser exortado); o tema fica com três"
+  },
+  {
+   "id": "belarmino-explps32-18",
+   "motivo": "repete tomas-postps32-18: temor sem esperança é servil, esperança sem temor é presunção"
+  },
+  {
+   "id": "basilio-hps32-10b",
+   "motivo": "repete tomas-postps32-18: o temor do castigo equilibrado pela esperança"
+  },
+  {
+   "id": "jp2-aud20010808-3",
+   "motivo": "repete basilio-hps32-6b em termos gerais: os planos humanos contra Deus fracassam"
+  },
+  {
+   "id": "agostinho-en32-s2-14",
+   "motivo": "a predestinação como desígnio eterno é ponto mais técnico; o tema fica com a cruz e a cera de basilio"
+  },
+  {
+   "id": "tomas-postps32-12",
+   "motivo": "repete agostinho-en32-s2-15: a felicidade está acima de nós, só em Deus"
+  },
+  {
+   "id": "belarmino-explps32-12",
+   "motivo": "repete agostinho-en32-s2-16: quem tem Deus tem tudo"
+  },
+  {
+   "id": "cassiodoro-expps32-13",
+   "motivo": "repete agostinho-en32-s2-19: Deus olha o homem para perdoar, não os pecados para castigar"
+  },
+  {
+   "id": "cassiodoro-expps32-18",
+   "motivo": "temor e amor juntos: dito no tema do temor (tomas-postps32-18)"
+  },
+  {
+   "id": "agostinho-en32-s2-21",
+   "motivo": "a variedade dos corações na unidade do corpo desvia do versículo (Deus conhece o coração)"
+  },
+  {
+   "id": "crisostomo-1cor-hom11",
+   "motivo": "repete basilio-hps32-8a: nem trevas nem paredes escondem do olhar de Deus"
+  },
+  {
+   "id": "agostinho-en32-s2-24a",
+   "motivo": "repete agostinho-en32-s2-24b: quanto mais alto se monta, mais dura a queda"
+  },
+  {
+   "id": "basilio-hps32-9a",
+   "motivo": "a história dos cavalos em Israel é erudição; o ponto (a força não salva) está em colombiere e agostinho"
+  },
+  {
+   "id": "bernardo-grad-5-16",
+   "motivo": "repete agostinho-en32-s2-24b: não se espera a salvação da força do homem"
+  },
+  {
+   "id": "jp2-aud20010808-4",
+   "motivo": "genérico; a confiança em Deus e não na força já está no tema"
+  },
+  {
+   "id": "agostinho-en32-s2-25",
+   "motivo": "o «aqui fome, lá fartura» está em cassiodoro-expps32-19, mais ligado ao verso; a digressão do anfiteatro pesa"
+  },
+  {
+   "id": "cirilo-alex-eps32-19",
+   "motivo": "repete tomas-postps32-19 e eusebio-cps32-19: o pão do ensinamento e a consolação do Espírito"
+  },
+  {
+   "id": "belarmino-explps32-19",
+   "motivo": "repete cassiodoro-expps32-19: alimenta sem saciar, a fartura fica para o céu"
+  },
+  {
+   "id": "bernardo-jejunio-1-6",
+   "motivo": "aplicação engenhosa ao jejum, que tira o versículo do sentido"
+  },
+  {
+   "id": "agostinho-en32-s2-27",
+   "motivo": "repete cassiodoro-expps32-19: esperar aqui para alegrar-se lá"
+  },
+  {
+   "id": "basilio-hps32-10c",
+   "motivo": "repete afonso-preghiera-1-2-v22: a misericórdia na medida da esperança; afonso tem a imagem do vaso"
+  },
+  {
+   "id": "teodoreto-ips32-22",
+   "motivo": "repete afonso-preghiera-1-2-v22: medir a misericórdia pela esperança"
+  },
+  {
+   "id": "jp2-aud20010808-5",
+   "motivo": "bonito, mas genérico; o sentido de hésed cabe nas notas"
+  },
+  {
+   "id": "atanasio-marcelino-32",
+   "motivo": "conselho sobre quando rezar o salmo, não uso litúrgico"
+  },
+  {
+   "id": "lit-aleluia-pentecostes",
+   "motivo": "uso do Missal antigo, já sem curso"
+  },
+  {
+   "id": "lit-introito-misericordia",
+   "motivo": "menos significativo que as Laudes, a Vigília Pascal e o Te Deum"
+  },
+  {
+   "id": "lit-introito-sagrado-coracao",
+   "motivo": "menos significativo que as Laudes, a Vigília Pascal e o Te Deum"
+  },
+  {
+   "id": "lit-introitos-santos",
+   "motivo": "menos significativo que as Laudes, a Vigília Pascal e o Te Deum"
+  }
+ ],
+ "temas_excluidos": [
+  {
+   "id": "lei-por-amor",
+   "motivo": "fundido em citara-e-harpa (mesmo versículo; fica agostinho-sermo-33-1)"
+  },
+  {
+   "id": "cantar-com-arte",
+   "motivo": "fundido em cantico-novo (mesmo versículo; fica o júbilo de agostinho-en32-s1-8b)"
+  },
+  {
+   "id": "ceus-apostolos",
+   "motivo": "fundido em verbo-e-espirito (mesmo versículo; fica gregorio-hev-30-7)"
+  }
+ ]
+}
