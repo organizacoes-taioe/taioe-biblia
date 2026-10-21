@@ -1,0 +1,541 @@
+[
+ {
+  "id": "tomas-2cor3-l1-carta-lida",
+  "autor": "São Tomás de Aquino",
+  "autor_id": "tomas",
+  "datas": "1225–1274",
+  "titulo_autor": "presbítero dominicano, Doutor da Igreja",
+  "obra": "Comentário à Segunda Carta aos Coríntios (Super II ad Corinthios)",
+  "passagem": "cap. 3, lição 1",
+  "edicao": "ed. Parma, t. 13; Corpus Thomisticum [87701]",
+  "versiculos": [
+   1,
+   2
+  ],
+  "trecho": "1",
+  "lingua": "la",
+  "original": "Dicit ergo: dico quod non incipimus commendare nosmetipsos, quia non indigemus commendatione. Et hoc est, quod dicit aut numquid egemus nos, veri ministri, sicut quidam, scilicet pseudo, commendatitiis epistolis, id est laudibus missis, ad vos, ab aliis, aut ex vobis, aliis missis? Sed contra Col. IV, 10 dicitur: Marcus consobrinus Barnabae, de quo accepistis mandatum, et cetera. Etiam legati Papae semper portant litteras commendatitias. Non est ergo malum. Respondeo. Dicendum, quod accipere litteras huiusmodi a personis famosis, ut solum per illas commendentur et honorentur, quousque ipsi ex bonis operibus suis veniant in notitiam, hoc non est malum, hoc faciunt legati Papae. Apostolus vero ita iam erat notus et commendatus apud istos per opera sua, quod non indigebat litteris commendatitiis. […] Secundum est, quod ille cui mittitur, legat et sciat eam, alias non curaret de commendatione eius. Et quantum ad hoc dicit quae scitur et legitur ab omnibus hominibus. Scitur, inquam, quia per nos instituti estis et conversi. Legitur autem, quia exemplo nostri etiam alii imitantur vos.",
+  "fonte_url": "https://www.corpusthomisticum.org/c2c.html",
+  "traducao_pt": "Diz, pois: digo que não começamos a recomendar-nos a nós mesmos, porque não precisamos de recomendação. E é isto o que diz: «Ou temos nós necessidade», os verdadeiros ministros, «como alguns», isto é, os falsos apóstolos, «de cartas de recomendação», isto é, de elogios enviados «para vós» por outros, «ou da vossa parte», enviados a outros? Mas, em sentido contrário, diz-se em Colossenses 4,10: «Marcos, primo de Barnabé, a respeito do qual recebestes instruções» etc. E os legados do Papa sempre levam cartas de recomendação. Portanto, isso não é mau. Respondo. Deve-se dizer que receber cartas desse tipo de pessoas conhecidas, só para ser recomendado e honrado por elas até que a pessoa se torne conhecida pelas próprias boas obras, não é mau: é o que fazem os legados do Papa. Mas o Apóstolo já era tão conhecido e recomendado entre eles pelas suas obras, que não precisava de cartas de recomendação. […] A segunda coisa é que aquele a quem a carta é enviada a leia e a conheça; senão não faria caso da recomendação. E quanto a isso diz: «conhecida e lida por todos os homens». Conhecida, digo, porque fostes instruídos e convertidos por nós. E lida, porque, pelo nosso exemplo, também outros vos imitam.",
+  "temas": [
+   "as cartas de recomendação",
+   "a comunidade é a carta do apóstolo",
+   "ser lido pelos outros: o exemplo que se imita"
+  ],
+  "resumo": "Levar cartas de recomendação não é mau (os legados do Papa as levam), mas Paulo não precisa delas: a carta dele são os coríntios, que todos «leem» quando imitam a vida deles.",
+  "relevancia": 2,
+  "direitos": "domínio público"
+ },
+ {
+  "id": "pedro-crisologo-sermao-58-simbolo-no-coracao",
+  "autor": "São Pedro Crisólogo",
+  "autor_id": "pedro-crisologo",
+  "datas": "c. 380–450",
+  "titulo_autor": "bispo de Ravena, Doutor da Igreja",
+  "obra": "Sermões (Sermones)",
+  "passagem": "Sermão 58, sobre o Símbolo dos Apóstolos",
+  "edicao": "PL 52, 361B",
+  "versiculos": [
+   3
+  ],
+  "trecho": "1",
+  "lingua": "la",
+  "original": "Accepturi ergo symbolum, hoc est, pactum vitae, salutis placitum, et inter vos et Deum fidei insolubile vinculum pectora parate, non chartam; sensum acuite, non calamum; et audita non atramento, sed spiritu ministrante describite: quia committi non potest caducis et corruptibilibus instrumentis aeternum et coeleste secretum, sed in ipsa arca animae, in ipsa bibliotheca interni spiritus est locandum;",
+  "fonte_url": "https://mlat.uzh.ch/browser/cps_2.PetChr.Sermon7",
+  "traducao_pt": "Ides, portanto, receber o Símbolo, isto é, o pacto da vida, o acordo da salvação, o laço indissolúvel da fé entre vós e Deus: preparai o coração, não o papel; afiai a inteligência, não a pena; e o que ouvirdes, escrevei-o não com tinta, mas pelo ministério do Espírito. Porque o segredo eterno e celeste não pode ser confiado a instrumentos caducos e corruptíveis: deve ser guardado na própria arca da alma, na própria biblioteca do espírito interior.",
+  "temas": [
+   "escrita não com tinta, mas com o Espírito",
+   "o Credo guardado no coração",
+   "o catecúmeno, carta viva"
+  ],
+  "resumo": "Aos catecúmenos que vão receber o Credo: escrevam-no não com tinta no papel, mas pelo Espírito no coração, a «biblioteca» interior onde o segredo de Deus fica guardado.",
+  "relevancia": 2,
+  "direitos": "domínio público"
+ },
+ {
+  "id": "agostinho-espirito-letra-28-29-dedo-de-deus",
+  "autor": "Santo Agostinho",
+  "autor_id": "agostinho",
+  "datas": "354–430",
+  "titulo_autor": "bispo de Hipona, Doutor da Igreja",
+  "obra": "O espírito e a letra (De spiritu et littera)",
+  "passagem": "16, 28 – 17, 29",
+  "edicao": "PL 44, 218",
+  "versiculos": [
+   3,
+   6,
+   17
+  ],
+  "trecho": "1",
+  "lingua": "la",
+  "original": "Dominus autem Spiritus est; ubi autem Spiritus Domini, ibi libertas. Hic autem Spiritus Dei, cujus dono justificamur, quo fit in nobis ut non peccare delectet, ubi libertas est; sicut praeter hunc Spiritum peccare delectat, ubi servitus, a cujus operibus abstinendum est: hic Spiritus sanctus per quem diffunditur charitas in cordibus nostris, quae plenitudo legis est, etiam digitus Dei in Evangelio dicitur. Unde quia et illae tabulae digito Dei conscriptae sunt, et digitus Dei est Spiritus Dei per quem sanctificamur, ut ex fide viventes per dilectionem bene operemur; quem non moveat ista congruentia ibidemque distantia? Dies enim quinquaginta computantur a celebratione Paschae, quae occisione figuratae ovis per Moysen fieri praecepta est, in significationem utique futurae Dominicae passionis, usque ad diem qua Moyses legem accepit in tabulis digito Dei conscriptis: similiter ab occisione et resurrectione illius qui sicut ovis ad immolandum ductus est, quinquaginta diebus completis, congregatos in unum fideles digitus Dei, hoc est, Spiritus sanctus implevit. […] In hac mirabili congruentia illud certe plurimum distat, quod ibi populus accedere ad locum ubi lex dabatur, horrendo terrore prohibetur: hic autem in eos supervenit Spiritus sanctus, qui eum promissum exspectantes in unum fuerant congregati. Ibi in tabulis lapideis digitus Dei operatus est; hic, in cordibus hominum. Ibi ergo lex extrinsecus posita est, qua injusti terrerentur: hic intrinsecus data est, qua justificarentur.",
+  "fonte_url": "https://mlat.uzh.ch/browser/cps_2.AugHip.DeSpEtL",
+  "traducao_pt": "«O Senhor é o Espírito; e onde está o Espírito do Senhor, aí há liberdade.» Este Espírito de Deus, por cujo dom somos justificados, que faz com que em nós não pecar seja um prazer, e aí está a liberdade (assim como, sem este Espírito, o pecar é que dá prazer, e aí está a escravidão, de cujas obras é preciso abster-se); este Espírito Santo, pelo qual a caridade, que é a plenitude da Lei, é derramada em nossos corações, é chamado no Evangelho também «dedo de Deus». Ora, se aquelas tábuas foram escritas pelo dedo de Deus, e o dedo de Deus é o Espírito de Deus pelo qual somos santificados para que, vivendo da fé, façamos o bem pelo amor, quem não se comove com esta correspondência e, ao mesmo tempo, com esta diferença? Contam-se cinquenta dias desde a celebração da Páscoa, que Moisés mandou fazer com a imolação do cordeiro, figura da futura paixão do Senhor, até o dia em que Moisés recebeu a Lei nas tábuas escritas pelo dedo de Deus; do mesmo modo, desde a morte e a ressurreição daquele que foi levado como cordeiro ao matadouro, completados cinquenta dias, o dedo de Deus, isto é, o Espírito Santo, encheu os fiéis reunidos num só lugar. […] Mas nesta admirável correspondência há uma diferença muito grande: lá o povo foi impedido, com terror espantoso, de se aproximar do lugar onde a Lei era dada; aqui o Espírito Santo desceu sobre os que o esperavam, reunidos, segundo a promessa. Lá o dedo de Deus agiu sobre tábuas de pedra; aqui, nos corações dos homens. Lá, portanto, a Lei foi posta do lado de fora, para aterrorizar os injustos; aqui foi dada por dentro, para justificá-los.",
+  "temas": [
+   "tábuas de pedra e tábuas do coração",
+   "o dedo de Deus é o Espírito Santo",
+   "o Sinai e o Pentecostes, cinquenta dias depois da Páscoa",
+   "a Lei de fora que aterroriza e a de dentro que justifica"
+  ],
+  "resumo": "O mesmo «dedo de Deus» escreveu a Lei nas pedras do Sinai e, cinquenta dias depois da Páscoa de Cristo, a caridade nos corações: lá a Lei de fora aterrorizava; agora o Espírito, por dentro, justifica e faz amar o bem.",
+  "relevancia": 3,
+  "direitos": "domínio público"
+ },
+ {
+  "id": "agostinho-predestinacao-santos-2-5-pensar-e-crer",
+  "autor": "Santo Agostinho",
+  "autor_id": "agostinho",
+  "datas": "354–430",
+  "titulo_autor": "bispo de Hipona, Doutor da Igreja",
+  "obra": "A predestinação dos santos (De praedestinatione sanctorum)",
+  "passagem": "2, 5",
+  "edicao": "PL 44, 962–963",
+  "versiculos": [
+   5
+  ],
+  "trecho": "1",
+  "lingua": "la",
+  "original": "Non quia idonei sumus, inquit, cogitare aliquid quasi ex nobismetipsis, sed sufficientia nostra ex Deo est. Attendant hic, et verba ista perpendant, qui putant ex nobis esse fidei coeptum, et ex Deo esse fidei supplementum. Quis enim non videat, prius esse cogitare quam credere? Nullus quippe credit aliquid, nisi prius cogitaverit esse credendum. Quamvis enim raptim, quamvis celerrime credendi voluntatem quaedam cogitationes antevolent, moxque illa ita sequatur, ut quasi conjunctissima comitetur; necesse est tamen ut omnia quae creduntur, praeveniente cogitatione credantur. Quanquam et ipsum credere, nihil aliud est, quam cum assensione cogitare. Non enim omnis qui cogitat, credit; cum ideo cogitent plerique, ne credant: sed cogitat omnis qui credit, et credendo cogitat, et cogitando credit.",
+  "fonte_url": "https://mlat.uzh.ch/browser/cps_2.AugHip.DePrSa",
+  "traducao_pt": "Por isso, ao recomendar esta graça, que não é dada por méritos, mas produz todos os bons méritos, diz: «Não que sejamos capazes de pensar alguma coisa como vinda de nós mesmos; a nossa capacidade vem de Deus.» Prestem atenção aqui, e pesem estas palavras, os que pensam que o começo da fé vem de nós e o complemento da fé vem de Deus. Quem não vê que pensar vem antes de crer? Ninguém crê em coisa alguma sem antes ter pensado que é coisa para crer. Por mais rápido, por mais depressa que alguns pensamentos voem à frente da vontade de crer, e ela venha logo atrás, como que unida a eles, é necessário, contudo, que tudo o que se crê seja crido com o pensamento à frente. Aliás, o próprio crer não é outra coisa senão pensar com assentimento. Pois nem todo o que pensa crê, já que muitos pensam justamente para não crer; mas todo o que crê pensa: crendo pensa, e pensando crê.",
+  "temas": [
+   "a nossa capacidade vem de Deus",
+   "também o começo da fé é graça",
+   "crer é pensar com assentimento"
+  ],
+  "resumo": "Se nem um bom pensamento vem de nós, nem o começo da fé vem de nós: crer é «pensar com assentimento», e por isso também o primeiro passo da fé é dom de Deus, contra os que davam o início ao homem e só o fim a Deus.",
+  "relevancia": 3,
+  "direitos": "domínio público"
+ },
+ {
+  "id": "concilio-orange-529-canon-7",
+  "autor": "II Concílio de Orange",
+  "autor_id": "concilio-orange-ii",
+  "datas": "529",
+  "titulo_autor": "sínodo da Gália presidido por São Cesário de Arles; os seus cânones sobre a graça foram aprovados pelo papa Bonifácio II (531)",
+  "obra": "Cânones do II Concílio de Orange (Concilium Arausicanum II)",
+  "passagem": "cânon 7",
+  "edicao": "ed. F. Maassen, MGH, Concilia aevi merovingici I (Hannover 1893), p. 48; DS 377",
+  "versiculos": [
+   5
+  ],
+  "trecho": "1",
+  "lingua": "la",
+  "original": "Si quis per naturae vigorem bonum aliquid, quod ad salutem pertinit vitae aeternae, cogitare, ut expedit, aut elegire sive salutari, id est evangelicae, praedicationi consentire posse confirmat absque inluminatione et inspiratione Spiritus sancti, qui dat omnibus suavitatem in consentiendo et credendo veritati, heritico fallitur spiritu, non intellegens vocem Dei in evangelio dicentes: Sine me nihil potestes facire; et illud apostoli: Non quod idonei simus cogitare aliquid a nobis quasi ex nobis, sed sufficientia nostra ex Deo est.",
+  "fonte_url": "https://archive.org/details/conciliaaevimero01maas/page/48/mode/1up",
+  "traducao_pt": "Se alguém afirma que, pela força da natureza, pode pensar como convém, ou escolher, algum bem que diz respeito à salvação da vida eterna, ou consentir na pregação salutar, isto é, evangélica, sem a iluminação e a inspiração do Espírito Santo, que dá a todos a suavidade de consentir na verdade e de crer nela, é enganado por um espírito herético, não entendendo a voz de Deus que diz no Evangelho: «Sem mim nada podeis fazer», e aquela palavra do Apóstolo: «Não que sejamos capazes de pensar alguma coisa como vinda de nós; a nossa capacidade vem de Deus.»",
+  "temas": [
+   "a nossa capacidade vem de Deus",
+   "a graça que ilumina e dá suavidade para crer",
+   "a fé da Igreja contra o semipelagianismo"
+  ],
+  "resumo": "O Concílio de Orange faz de 2Cor 3,5 regra de fé: ninguém pensa nem escolhe o bem da salvação sem a luz do Espírito Santo, que dá a «suavidade» de consentir e crer.",
+  "relevancia": 3,
+  "direitos": "domínio público"
+ },
+ {
+  "id": "bernardo-cantico-32-5-pensamento-ou-palavra",
+  "autor": "São Bernardo de Claraval",
+  "autor_id": "bernardo",
+  "datas": "1090–1153",
+  "titulo_autor": "abade cisterciense, Doutor da Igreja",
+  "obra": "Sermões sobre o Cântico dos Cânticos (Sermones in Cantica canticorum)",
+  "passagem": "Sermão 32, 5",
+  "edicao": "PL 183, 947D–948A",
+  "versiculos": [
+   5
+  ],
+  "trecho": "1",
+  "lingua": "la",
+  "original": "Tu ergo, cum tibi aliqua talia volvi animo sentis, non tuam putes cogitationem, sed illum agnosce loquentem, qui apud prophetam dicit: Ego qui loquor justitiam. Simillima enim sunt nostrae cogitata mentis sermonibus Veritatis in nobis loquentis; nec facile quis discernit, quid intus pariat cor suum, quidve audiat, nisi qui prudenter advertit Dominum in Evangelio loquentem, quia de corde exeunt cogitationes malae; et illud: Quid cogitatis mala in cordibus vestris? Et: Qui loquitur mendacium, de suo loquitur. Apostolus autem: Non quod sufficientes, inquit, simus cogitare aliquid a nobis tanquam ex nobis; sed sufficientia nostra ex Deo est. Cum ergo mala in corde versamus, nostra cogitatio est; si bona, Dei sermo est. Illa cor nostrum dicit, haec audit. Audiam, ait, quid loquatur in me Dominus Deus, quoniam loquetur pacem in plebem suam. Itaque pacem, pietatem, justitiam Deus in nobis loquitur; nec talia nos cogitamus ex nobis, sed in nobis audimus.",
+  "fonte_url": "https://mlat.uzh.ch/browser/cps_2.BerCla.SeInCaC",
+  "traducao_pt": "Tu, portanto, quando sentires que te passa pelo espírito alguma coisa assim, não penses que é pensamento teu, mas reconhece que fala aquele que diz pelo profeta: «Eu, que falo a justiça.» Pois os pensamentos da nossa mente são muito parecidos com as palavras da Verdade que fala em nós, e ninguém distingue com facilidade o que o seu coração produz por dentro e o que escuta, a não ser quem presta atenção, com prudência, ao Senhor que diz no Evangelho que do coração saem os maus pensamentos; e: «Por que pensais o mal em vossos corações?»; e: «Quem fala a mentira fala do que é seu.» E o Apóstolo: «Não que sejamos capazes de pensar alguma coisa como vinda de nós; a nossa capacidade vem de Deus.» Quando, pois, revolvemos o mal no coração, o pensamento é nosso; quando é o bem, é palavra de Deus. Aquele, o nosso coração o diz; este, o coração o escuta. «Ouvirei», diz, «o que fala em mim o Senhor Deus, porque falará de paz ao seu povo.» Assim, Deus fala em nós paz, piedade, justiça; e tais coisas não as pensamos por nós, mas as ouvimos em nós.",
+  "temas": [
+   "a nossa capacidade vem de Deus",
+   "discernir os pensamentos",
+   "o bem que pensamos é Deus que fala em nós"
+  ],
+  "resumo": "O mal que pensamos sai de nós; o bem que nos passa pela mente é Deus falando por dentro: o pensamento bom não se «diz», se «escuta».",
+  "relevancia": 3,
+  "direitos": "domínio público"
+ },
+ {
+  "id": "tomas-suma-1-2-106-2-letra-do-evangelho",
+  "autor": "São Tomás de Aquino",
+  "autor_id": "tomas",
+  "datas": "1225–1274",
+  "titulo_autor": "presbítero dominicano, Doutor da Igreja",
+  "obra": "Suma Teológica (Summa theologiae)",
+  "passagem": "I-II, q. 106, a. 2, resposta",
+  "edicao": "ed. Leonina, t. 7; Corpus Thomisticum [38261]",
+  "versiculos": [
+   6
+  ],
+  "trecho": "1",
+  "lingua": "la",
+  "original": "Respondeo dicendum quod, sicut dictum est, ad legem Evangelii duo pertinent. Unum quidem principaliter, scilicet ipsa gratia spiritus sancti interius data. Et quantum ad hoc, nova lex iustificat. Unde Augustinus dicit, in libro de spiritu et littera, ibi, scilicet in veteri testamento, lex extrinsecus posita est, qua iniusti terrerentur, hic, scilicet in novo testamento, intrinsecus data est, qua iustificarentur. Aliud pertinet ad legem Evangelii secundario, scilicet documenta fidei, et praecepta ordinantia affectum humanum et humanos actus. Et quantum ad hoc, lex nova non iustificat. Unde apostolus dicit, II ad Cor. III, littera occidit, spiritus autem vivificat. Et Augustinus exponit, in libro de spiritu et littera, quod per litteram intelligitur quaelibet Scriptura extra homines existens, etiam moralium praeceptorum qualia continentur in Evangelio. Unde etiam littera Evangelii occideret, nisi adesset interius gratia fidei sanans.",
+  "fonte_url": "https://www.corpusthomisticum.org/sth2106.html",
+  "traducao_pt": "Respondo dizendo que, como já se disse, à lei do Evangelho pertencem duas coisas. Uma, principalmente: a própria graça do Espírito Santo, dada interiormente. E quanto a isso, a lei nova justifica. Por isso diz Agostinho, no livro O espírito e a letra: «Lá», isto é, no Antigo Testamento, «a Lei foi posta do lado de fora, para aterrorizar os injustos; aqui», isto é, no Novo Testamento, «foi dada por dentro, para justificá-los». A outra pertence à lei do Evangelho de modo secundário: os ensinamentos da fé e os preceitos que ordenam os afetos e os atos humanos. E quanto a isso, a lei nova não justifica. Por isso diz o Apóstolo, em 2Cor 3: «A letra mata, e o Espírito dá vida.» E Agostinho explica, no livro O espírito e a letra, que por «letra» se entende qualquer escrito que esteja fora do homem, também o dos preceitos morais, como os que se contêm no Evangelho. Por isso, também a letra do Evangelho mataria, se não estivesse presente, por dentro, a graça da fé que cura.",
+  "temas": [
+   "a letra mata e o Espírito dá vida",
+   "a lei nova é a graça do Espírito Santo",
+   "até a letra do Evangelho mataria sem a graça"
+  ],
+  "resumo": "A lei nova é, antes de tudo, a graça do Espírito dada por dentro; os preceitos escritos, até os do Evangelho, seriam também «letra que mata» sem a graça que cura.",
+  "relevancia": 3,
+  "direitos": "domínio público"
+ },
+ {
+  "id": "agostinho-sermao-249-3-dez-e-sete",
+  "autor": "Santo Agostinho",
+  "autor_id": "agostinho",
+  "datas": "354–430",
+  "titulo_autor": "bispo de Hipona, Doutor da Igreja",
+  "obra": "Sermões (Sermones)",
+  "passagem": "Sermão 249, 3, no tempo pascal, sobre a pesca dos 153 peixes (Jo 21)",
+  "edicao": "PL 38, 1162–1163",
+  "versiculos": [
+   6
+  ],
+  "trecho": "1",
+  "lingua": "la",
+  "original": "Mandata Dei propter magnum perfectionis mysterium Decalogo continentur. Decem praecepta Legis sunt scripta in tabulis lapideis digito Dei, hoc est Spiritu sancto: in una tabula, praecepta quae ad Deum pertinent; in altera, quae ad hominem pertinent. Quare hoc? Quia in dilectione Dei et proximi tota Lex pendet et Prophetae. Sed quid valent ista decem? Data est lex, sed si data esset lex quae posset vivificare, omnino ex lege esset justitia. Nosti legem, et non facis legem; Littera occidit: ut autem facias quod nosti, Spiritus autem vivificat. Accedant ad decem septem. […] Quando ista septem accesserunt, fiunt decem. Quid dixi? Quasi absurdum est: Cum septem ad decem accesserunt, fiunt decem: quasi oblitus sum numerare. Ergo dicere debui. Cum septem ad decem accesserunt, fiunt decem et septem. Hoc omnes norunt: nam cum dicerem, Cum septem ad decem accesserunt, fiunt decem; pueri isti non me ridebant? Et tamen dico, et repeto, non erubesco. Cum intellexeritis, non reprehendetis computantem, sed amabitis disputantem. […] Decem sunt illa praecepta legis: sed enumeravi et septem cooperationes Spiritus sancti. Cum ista septem accesserint, fiunt decem: cum Spiritus sanctus accesserit, impletur lex. Si autem ista septem non accesserint, non fiunt illa decem: in littera erunt, sed littera occidit; scientia praevaricatorem facit. Accedat Spiritus, et impletur lex, adjutorio Dei, non viribus tuis. […] Lex jubet, Spiritus juvat: lex agit tecum, ut scias quid facias; Spiritus, ut facias.",
+  "fonte_url": "https://mlat.uzh.ch/browser/cps_2.AugHip.SeDeTe",
+  "traducao_pt": "Os mandamentos de Deus, por um grande mistério de perfeição, estão contidos no Decálogo. Os dez preceitos da Lei foram escritos em tábuas de pedra pelo dedo de Deus, isto é, pelo Espírito Santo: numa tábua, os preceitos que dizem respeito a Deus; na outra, os que dizem respeito ao homem. Por quê? Porque do amor de Deus e do próximo depende toda a Lei e os Profetas. Mas de que valem esses dez? Foi dada a Lei; mas, se tivesse sido dada uma lei capaz de dar a vida, a justiça viria realmente da Lei. Conheces a Lei e não cumpres a Lei: a letra mata. Mas, para que faças o que conheces, o Espírito dá vida. Juntem-se aos dez os sete. […] Quando estes sete se juntam, dá dez. Que foi que eu disse? Parece absurdo: quando se juntam sete a dez, dá dez; parece que me esqueci de contar. Devia ter dito: quando se juntam sete a dez, dá dezessete. Isso todo mundo sabe; pois, quando eu disse «quando se juntam sete a dez, dá dez», estes meninos não riram de mim? E, no entanto, digo e repito, e não me envergonho. Quando entenderdes, não criticareis quem faz a conta, mas amareis quem a explica. […] Dez são os preceitos da Lei; mas eu contei também as sete ações do Espírito Santo. Quando estas sete se juntam, dá dez: quando o Espírito Santo se junta, a Lei se cumpre. Se estas sete não se juntam, aqueles dez não se fazem: ficarão na letra, mas a letra mata; o saber faz o transgressor. Venha o Espírito, e a Lei se cumpre, com a ajuda de Deus, não com as tuas forças. […] A Lei manda, o Espírito ajuda: a Lei age contigo para que saibas o que fazer; o Espírito, para que o faças.",
+  "temas": [
+   "a letra mata e o Espírito dá vida",
+   "os dez mandamentos e os sete dons",
+   "a Lei manda, o Espírito ajuda"
+  ],
+  "resumo": "Os dez mandamentos sozinhos ficam na letra que mata; com os sete dons do Espírito «dez dá dez», isto é, a Lei se cumpre: a Lei ensina o que fazer, o Espírito faz fazer.",
+  "relevancia": 3,
+  "direitos": "domínio público"
+ },
+ {
+  "id": "agostinho-confissoes-6-4-6-ambrosio-pregando",
+  "autor": "Santo Agostinho",
+  "autor_id": "agostinho",
+  "datas": "354–430",
+  "titulo_autor": "bispo de Hipona, Doutor da Igreja",
+  "obra": "Confissões (Confessiones)",
+  "passagem": "VI, 4, 6",
+  "edicao": "PL 32, 722",
+  "versiculos": [
+   6,
+   14,
+   16
+  ],
+  "trecho": "1",
+  "lingua": "la",
+  "original": "Gaudebam etiam quod vetera scripta Legis et Prophetarum jam non illo oculo mihi legenda proponerentur, quo antea videbantur absurda, cum arguebam tanquam ita sentientes sanctos tuos; verum autem non ita sentiebant: et tanquam regulam diligentissime commendaret, saepe in popularibus sermonibus suis dicentem Ambrosium laetus audiebam, Littera occidit; spiritus autem vivificat: cum ea quae ad litteram perversitatem docere videbantur, remoto mystico velamento spiritualiter aperiret, non dicens quod me offenderet, quamvis ea diceret, quae utrum vera essent adhuc ignorarem.",
+  "fonte_url": "https://mlat.uzh.ch/browser/cps_2.AugHip.Confes2",
+  "traducao_pt": "Alegrava-me também que os antigos escritos da Lei e dos Profetas já não me fossem propostos para ler com aquele olhar com que antes me pareciam absurdos, quando eu acusava os teus santos de pensarem assim; na verdade, não pensavam assim. E com alegria eu ouvia Ambrósio dizer muitas vezes nos sermões ao povo, como quem recomenda com todo o cuidado uma regra: «A letra mata, e o Espírito dá vida», quando, tirado o véu do mistério, abria em sentido espiritual o que, tomado ao pé da letra, parecia ensinar coisas tortas; e não dizia nada que me ofendesse, embora dissesse coisas que eu ainda não sabia se eram verdadeiras.",
+  "temas": [
+   "a letra mata e o Espírito dá vida",
+   "Ambrósio pregando a leitura espiritual",
+   "o Antigo Testamento sem o véu"
+  ],
+  "resumo": "Agostinho, ainda sem fé, ouve Santo Ambrósio repetir «a letra mata, e o Espírito dá vida» e, «tirado o véu», descobre que o Antigo Testamento, que lhe parecia absurdo, tem um sentido espiritual.",
+  "relevancia": 3,
+  "direitos": "domínio público"
+ },
+ {
+  "id": "agostinho-contra-adversario-lei-2-7-24-25",
+  "autor": "Santo Agostinho",
+  "autor_id": "agostinho",
+  "datas": "354–430",
+  "titulo_autor": "bispo de Hipona, Doutor da Igreja",
+  "obra": "Contra o adversário da Lei e dos Profetas (Contra adversarium legis et prophetarum)",
+  "passagem": "II, 7, 24–25",
+  "edicao": "PL 42, 652",
+  "versiculos": [
+   6,
+   7,
+   8,
+   9
+  ],
+  "trecho": "2",
+  "lingua": "la",
+  "original": "Quia ergo dicta est ministratio mortis in litteris formata lapideis, hinc existimat quod morti ministraverit Moyses, id est, mortis auctori, maligno scilicet spiritui, quem mundi hujus iste opinatur auctorem: ignorans ministrationem mortis dictam Legem, secundum illud quod alibi dicit, Littera occidit, spiritus autem vivificat. Lex enim quamvis justa et sancta et bona, praevaricatoribus intulit mortem, quos Dei gratia non adjuvit ad justitiam Legis implendam. Oportebat enim ut Testamento Vetere Lex imponeretur superbis, et de suae voluntatis virtute fidentibus, quae non daret justitiam, sed juberet; ac sic morte praevaricationis impliciti, ad gratiam confugerent, non jubentem tantummodo, sed juvantem, quae Novo Testamento est revelata. […] Multum est et nimis longum colligere, quae in hanc sententiam beatus dicit Apostolus, Legem distinguens a gratia; eo quod sub illa elidantur elati, sub ista erigantur elisi; et quod illa in tantum bona sit ut bona jubeat, haec tantum ut bona conferat. Illa justitiae facit auditorem, ista factorem. Et ideo sub illa peccator, insuper etiam praevaricator amissa excusatione ignorantiae convictus jacet: sub ista vero et parcente et opitulante, nec qui mala est operatus exstinguitur, et ut bona operetur accenditur. Quid ergo est mirum, si illa dicta est ministratio mortis, ubi littera occidit, malum prohibendo quod fit, et bonum imperando quod non fit; ista vero dicta est ministratio spiritus, utique vivificantis, ut a praevaricationis morte surgamus, et justitiam non rei legamus in tabulis, sed liberi in cordibus et in moribus habeamus? Hoc est Testamentum Novum distans a Vetere; quia ibi vetus homo formidinis coarctatur angustiis, hic novus homo spatiatur latitudine charitatis.",
+  "fonte_url": "https://mlat.uzh.ch/browser/cps_2.AugHip.CoAdLeE",
+  "traducao_pt": "Como a Lei foi chamada «ministério da morte, gravado com letras em pedras», ele pensa que Moisés serviu à morte, isto é, ao autor da morte, o espírito maligno, que este homem julga ser o autor do mundo; não sabe que a Lei foi chamada ministério da morte no sentido daquilo que o Apóstolo diz em outro lugar: «A letra mata, e o Espírito dá vida.» Pois a Lei, embora justa, santa e boa, trouxe a morte aos transgressores, que a graça de Deus não ajudou a cumprir a justiça da Lei. Era preciso, de fato, que no Antigo Testamento a Lei fosse imposta aos soberbos, que confiavam na força da própria vontade; uma Lei que não dava a justiça, mas a mandava; e assim, presos na morte da transgressão, recorreriam à graça, que não só manda, mas ajuda, e que foi revelada no Novo Testamento. […] Seria muito longo reunir tudo o que o bem-aventurado Apóstolo diz neste sentido, distinguindo a Lei da graça: sob aquela os soberbos são abatidos, sob esta os abatidos são levantados; aquela é boa a ponto de mandar o bem, esta a ponto de dá-lo. Aquela faz ouvinte da justiça, esta faz praticante. Por isso, sob aquela, o pecador, e além disso transgressor, perdida a desculpa da ignorância, jaz vencido; sob esta, porém, que poupa e socorre, quem fez o mal não é destruído, e é inflamado para fazer o bem. Que admira, então, se aquela foi chamada ministério da morte, onde a letra mata, proibindo o mal que se faz e mandando o bem que não se faz; e esta foi chamada ministério do Espírito, que dá a vida, para que nos levantemos da morte da transgressão e tenhamos a justiça, não lendo-a nas tábuas como réus, mas tendo-a no coração e nos costumes como livres? Esta é a diferença entre o Novo Testamento e o Antigo: lá o homem velho é apertado nas angústias do medo; aqui o homem novo anda à vontade na largueza da caridade.",
+  "temas": [
+   "o ministério da morte e o ministério do Espírito",
+   "a Lei é boa, mas não dá o que manda",
+   "o aperto do medo e a largueza da caridade"
+  ],
+  "resumo": "Contra quem dizia que a Lei de Moisés era obra do maligno: a Lei é santa e boa, mas só manda; a graça dá o que a Lei manda. Lá o homem velho vive apertado pelo medo; aqui o homem novo anda à vontade na largueza da caridade.",
+  "relevancia": 3,
+  "direitos": "domínio público"
+ },
+ {
+  "id": "ambrosiaster-2cor3-9-11-estrelas-e-sol",
+  "autor": "Ambrosiaster",
+  "autor_id": "ambrosiaster",
+  "datas": "séc. IV (c. 366–384)",
+  "titulo_autor": "escritor eclesiástico; comentário às cartas de Paulo que a tradição atribuiu a Santo Ambrósio",
+  "obra": "Comentário à Segunda Carta aos Coríntios (Commentaria in epistolam ad Corinthios secundam)",
+  "passagem": "Sobre 2Cor 3,9–11",
+  "edicao": "PL 17, 286C–287A",
+  "versiculos": [
+   9,
+   10,
+   11
+  ],
+  "trecho": "2",
+  "lingua": "la",
+  "original": "Hoc dicit, quia amplius est donum justitiae Dei per fidem Christi, quam legis veteris; quia magis gloria in salute est, quam in morte: quamvis juste damnet, tamen ad laudem proficit magis, si indulgeat; ut possit reus corrigere se. […] Non negat gloriam fuisse in lege, vel in vultu Moysi, sed non permansit; quia futura erat in Moyse, non veritas. Ideo adveniente Salvatore, cessavit figura; quia apparuit veritas manens semper; ut quantum interest inter imaginem et veritatem, tantum intersit inter gloriam vultus Moysi, et gloriam Christi. Ideo supra dixit: Propter excellentem gloriam. Illa enim tanta erat gloria, quanta debuit credi servo: haec vero tanta, quanta est genitoris ejus; quia Dominus Jesus Christus in gloria est Dei Patris. Sicut enim vespere stellae gloriosae sunt, oriente autem sole evacuatur earum claritas; ita et Moysi gloria evacuatur, apparente gloria Christi.",
+  "fonte_url": "https://mlat.uzh.ch/browser/cps_2.Ambros.CoInEpA3",
+  "traducao_pt": "Diz isto porque o dom da justiça de Deus pela fé em Cristo é maior que o da Lei antiga; porque há mais glória em salvar do que em condenar: embora condene com justiça, mais lhe vale para o louvor se perdoar, para que o culpado possa corrigir-se. […] Não nega que tenha havido glória na Lei e no rosto de Moisés, mas ela não permaneceu, porque em Moisés estava a figura do que havia de vir, não a verdade. Por isso, vindo o Salvador, cessou a figura, porque apareceu a verdade que permanece para sempre; de modo que, quanto vai da imagem à verdade, tanto vai da glória do rosto de Moisés à glória de Cristo. Por isso disse acima: «diante desta glória que a excede». Aquela glória era tão grande quanto convinha atribuir a um servo; esta é tão grande quanto a do Pai que o gerou, porque o Senhor Jesus Cristo está na glória de Deus Pai. Como as estrelas brilham de tarde, mas, quando nasce o sol, o seu brilho se apaga, assim também a glória de Moisés se apaga quando aparece a glória de Cristo.",
+  "temas": [
+   "mais glória em salvar que em condenar",
+   "a figura e a verdade",
+   "as estrelas diante do sol"
+  ],
+  "resumo": "Há mais glória em perdoar do que em condenar; a glória de Moisés era a de um servo e de uma figura, e se apaga diante da de Cristo como as estrelas quando nasce o sol.",
+  "relevancia": 3,
+  "direitos": "domínio público"
+ },
+ {
+  "id": "atao-2cor3-11-lei-que-cresce",
+  "autor": "Atão de Vercelli",
+  "autor_id": "atao-vercelli",
+  "datas": "c. 885–961",
+  "titulo_autor": "bispo de Vercelli",
+  "obra": "Exposição das cartas de São Paulo (Expositio epistolarum S. Pauli)",
+  "passagem": "II Cor., cap. 3, v. 11",
+  "edicao": "PL 134, 433B–433C",
+  "versiculos": [
+   11
+  ],
+  "trecho": "2",
+  "lingua": "la",
+  "original": "Si enim quod evacuatum est, per gloriam est, etc. Nota, quia lex evacuari dicitur, non tamen per abolitionem, sed melioratione, et augmentatione, sicut infantia, et pueritia, a juventute, et ceu lucerna nocte accensa, a claritate solis; et similia. Illud quoque sciendum, quia sunt quaedam in lege, quae non aliter discutienda sunt quam scripta habentur: sicut ipse Decalogus, quem qui allegorice discutit, ostium vitiis pandit, quia omnem profectum moralitatis destruit: quaedam vero sunt, quae tantum historialiter; quaedam autem utroque modo discutienda sunt. Sed sive uno, sive utroque modo accipias, lex tamen evacuatur; quia ejus intellectus permutatur, et non ipsa jubens sed gratia juvans requiritur. Bona etiam, quae lex promittit, quia temporalia, et transitoria sunt, evacuantur; quae vero gratia promittit, coelestia, et spiritalia sunt; propter hoc etiam perpetuo manebunt. Et ideo dicit: Multo magis quod manet, in gloria est.",
+  "fonte_url": "https://mlat.uzh.ch/browser/cps_2.AttVer.ExEpSPa",
+  "traducao_pt": "«Se o que era passageiro teve glória…» Note-se que se diz que a Lei passa, não por abolição, mas por melhoria e crescimento, como a infância e a meninice passam com a juventude, ou como a lâmpada acesa de noite diante do brilho do sol, e coisas semelhantes. É preciso saber também que há na Lei coisas que não se devem explicar senão como estão escritas: como o próprio Decálogo, que, quem o explica só em alegoria, abre a porta aos vícios, porque destrói todo o progresso moral; outras, só em sentido histórico; outras ainda, dos dois modos. Mas, quer as tomes de um modo, quer dos dois, a Lei passa, porque muda a maneira de entendê-la, e já não se procura a própria Lei que manda, mas a graça que ajuda. Também os bens que a Lei promete passam, porque são temporais e transitórios; mas os que a graça promete são celestes e espirituais, e por isso permanecerão para sempre. Por isso diz: «Muito mais glorioso é o que permanece.»",
+  "temas": [
+   "o que passa e o que permanece",
+   "a Lei passa como a infância passa na juventude",
+   "o Decálogo não se dissolve em alegoria"
+  ],
+  "resumo": "A Lei «passa» não porque seja abolida, mas porque cresce, como a infância na juventude; e os mandamentos morais continuam valendo à letra: quem faz do Decálogo só alegoria abre a porta aos vícios.",
+  "relevancia": 3,
+  "direitos": "domínio público"
+ },
+ {
+  "id": "bruno-cartuxo-2cor3-7-8-dignidade-do-ministerio",
+  "autor": "São Bruno, o Cartuxo (atribuído)",
+  "autor_id": "bruno-cartuxo",
+  "datas": "c. 1030–1101",
+  "titulo_autor": "fundador da Cartuxa; a atribuição deste comentário é discutida",
+  "obra": "Exposição das cartas de Paulo (Expositio in epistolas Pauli)",
+  "passagem": "In II Cor., cap. 3, expositio, vv. 7–8",
+  "edicao": "PL 153, 232B–232C",
+  "versiculos": [
+   7,
+   8
+  ],
+  "trecho": "2",
+  "lingua": "la",
+  "original": "Si, inquam, ministratio mortis fuit Moysi in tanta gloria: quomodo ministratio spiritus, id est Evangelii cum quo per manus meas Spiritus sanctus administratur; quomodo hoc non erit mihi magis valens in habenda gloria quam Moysi? Non hoc dicit ut se merito praeferat Moysi, sed sola dignitate ministerii. Per manus enim Moysi praecepta sola dabantur, nulla gratia: sed a Paulo et praecepta: et per impositionem manus ejus, gratia Spiritus sancti adjuvans, ut quae praecipiebantur, posset homo operari.",
+  "fonte_url": "https://mlat.uzh.ch/browser/cps_2.BruCar.ExInEpP",
+  "traducao_pt": "Se, digo, o ministério da morte foi para Moisés de tanta glória, como o ministério do Espírito, isto é, do Evangelho, com o qual o Espírito Santo é dado pelas minhas mãos, como não terá muito mais valor para alcançar a glória do que teve para Moisés? Não diz isso para se pôr acima de Moisés pelo mérito, mas só pela dignidade do ministério. Pois pelas mãos de Moisés eram dados só os preceitos, nenhuma graça; mas por Paulo, os preceitos e, pela imposição das suas mãos, a graça do Espírito Santo, que ajuda o homem a poder fazer o que é mandado.",
+  "temas": [
+   "a dignidade do ministério da nova aliança",
+   "Paulo e Moisés: o ministério, não a pessoa",
+   "a imposição das mãos que dá o Espírito"
+  ],
+  "resumo": "Paulo não se diz maior que Moisés pela santidade, mas pelo ministério: Moisés dava só preceitos; o ministro do Evangelho, com a imposição das mãos, dá também o Espírito que faz cumpri-los.",
+  "relevancia": 2,
+  "direitos": "domínio público"
+ },
+ {
+  "id": "agostinho-tratado-jo-9-3-agua-e-vinho",
+  "autor": "Santo Agostinho",
+  "autor_id": "agostinho",
+  "datas": "354–430",
+  "titulo_autor": "bispo de Hipona, Doutor da Igreja",
+  "obra": "Tratados sobre o Evangelho de São João (In Iohannis evangelium tractatus)",
+  "passagem": "Tratado 9, 3, sobre as bodas de Caná (Jo 2)",
+  "edicao": "PL 35, 1459",
+  "versiculos": [
+   14,
+   15,
+   16
+  ],
+  "trecho": "3",
+  "lingua": "la",
+  "original": "Erat prophetia antiquis temporibus, et a prophetiae dispensatione nulla tempora cessaverunt: sed illa prophetia, quando in illa Christus non intelligebatur, aqua erat. In aqua enim vinum quodammodo latet. Dicit Apostolus quid intelligamus in ista aqua: « Usque ad hodiernum, inquit, diem, quamdiu legitur Moyses, idipsum velamen super cor eorum positum est; quod non revelatur, quia in Christo evacuatur. Et cum transieris, inquit, ad Dominum, auferetur velamen ». Velamen dicit adopertionem prophetiae, ut non intelligeretur. Tollitur velamen, cum transieris ad Dominum: sic tollitur insipientia, cum transieris ad Dominum, et quod aqua erat, vinum tibi fit. Lege libros omnes propheticos, non intellecto Christo, quid tam insipidum et fatuum invenies? Intellige ibi Christum, non solum sapit quod legis, sed etiam inebriat; mutans mentem a corpore, ut praeterita obliviscens, in ea quae ante sunt extendaris.",
+  "fonte_url": "https://mlat.uzh.ch/browser/cps_2.AugHip.InJoEvT",
+  "traducao_pt": "Havia profecia nos tempos antigos, e nenhum tempo ficou sem a dispensação da profecia; mas aquela profecia, quando nela não se entendia Cristo, era água. Pois na água o vinho está, de certo modo, escondido. O Apóstolo diz o que devemos entender nesta água: «Até hoje», diz, «sempre que se lê Moisés, o mesmo véu está posto sobre o coração deles; ele não é levantado, porque em Cristo é removido. E quando passares», diz, «para o Senhor, o véu será tirado.» Chama véu ao encobrimento da profecia, para que não fosse entendida. Tira-se o véu quando passas para o Senhor: assim se tira a falta de sabor quando passas para o Senhor, e o que era água torna-se vinho para ti. Lê todos os livros proféticos sem entender Cristo neles: o que acharás tão insosso e sem gosto? Entende ali Cristo, e o que lês não só tem sabor, mas embriaga, levando a mente para longe do corpo, para que, esquecendo o que ficou para trás, te lances para o que está à frente.",
+  "temas": [
+   "o véu tirado em Cristo",
+   "Caná: a água da profecia vira vinho",
+   "ler o Antigo Testamento com Cristo"
+  ],
+  "resumo": "O Antigo Testamento lido sem Cristo é água, insossa; quando alguém passa para o Senhor, o véu cai e a mesma água vira vinho que embriaga, como em Caná.",
+  "relevancia": 3,
+  "direitos": "domínio público"
+ },
+ {
+  "id": "ambrosio-lucas-7-10-12-transfiguracao",
+  "autor": "Santo Ambrósio",
+  "autor_id": "ambrosio",
+  "datas": "c. 339–397",
+  "titulo_autor": "bispo de Milão, Doutor da Igreja",
+  "obra": "Exposição do Evangelho segundo Lucas (Expositio evangelii secundum Lucam)",
+  "passagem": "VII, 10–12, sobre a Transfiguração (Lc 9,30-31)",
+  "edicao": "PL 15, 1702A–1702B",
+  "versiculos": [
+   13,
+   14,
+   16,
+   18
+  ],
+  "trecho": "3",
+  "lingua": "la",
+  "original": "Inde apparent Moyses et Elias, hoc est, Lex et prophetia cum Verbo; neque enim Lex potest esse sine Verbo: neque propheta, nisi qui de Dei filio prophetarit. Et illi quidem filii tonitrui corporali gloria Moysen quoque et Eliam speculati sunt: sed etiam nos quotidie videmus Moysen cum Dei Filio; videmus enim Legem in Evangelio cum legimus: Diliges Dominum Deum tuum. Videmus Eliam cum Dei Verbo, cum legimus: Ecce virgo in utero accipiet. […] Docent enim te de excessu ejus mysteria. Et hodie Moyses docet, et hodie Elias loquitur, et hodie in majore gloria videre possumus Moysen. Quis enim non potest, quando et populus Judaeorum eum videre potuit, immo vidit? Vidit enim in gloria faciem Moysi: sed velamen accepit, sed in montem non ascendit. Et ideo erravit, quia solum Moysen vidit, Dei Verbum simul videre non potuit. […] Revelemus igitur nos faciem nostram; ut revelata facie gloriam Dei speculantes, in eamdem imaginem reformemur. Ascendamus in montem, deprecemur Dei Verbum; ut in specie et pulchritudine sua nobis appareat, et confortetur, et prospere procedat, et regnet.",
+  "fonte_url": "https://mlat.uzh.ch/browser/cps_2.AmbMed.ExEvSeL",
+  "traducao_pt": "Aparecem então Moisés e Elias, isto é, a Lei e a profecia com o Verbo; pois nem a Lei pode existir sem o Verbo, nem há profeta senão o que profetizou sobre o Filho de Deus. E aqueles filhos do trovão contemplaram Moisés e Elias numa glória corporal; mas também nós vemos todos os dias Moisés com o Filho de Deus: vemos a Lei no Evangelho, quando lemos: «Amarás o Senhor teu Deus»; vemos Elias com o Verbo de Deus, quando lemos: «Eis que a virgem conceberá.» […] Pois os mistérios te ensinam sobre a partida dele. Também hoje Moisés ensina, também hoje Elias fala, também hoje podemos ver Moisés em glória maior. Quem não pode, se até o povo judeu pôde vê-lo, e de fato o viu? Viu o rosto de Moisés na glória, mas recebeu o véu, e não subiu ao monte. E por isso errou: porque viu só Moisés, e não pôde ver ao mesmo tempo o Verbo de Deus. […] Descubramos, pois, o nosso rosto, para que, contemplando com o rosto descoberto a glória de Deus, sejamos refeitos na mesma imagem. Subamos ao monte, roguemos ao Verbo de Deus que nos apareça na sua formosura e beleza, e se fortaleça, e avance com êxito, e reine.",
+  "temas": [
+   "o véu e a Transfiguração",
+   "Moisés e Elias com o Verbo: a Lei e os Profetas no Evangelho",
+   "descobrir o rosto e subir ao monte"
+  ],
+  "resumo": "No Tabor, Moisés e Elias aparecem com Cristo: a Lei e os Profetas só se entendem com o Verbo. Quem viu Moisés sem subir ao monte ficou com o véu; nós descobrimos o rosto e subimos, para sermos refeitos à imagem dele.",
+  "relevancia": 3,
+  "direitos": "domínio público"
+ },
+ {
+  "id": "tomas-2cor3-l3-liberdade",
+  "autor": "São Tomás de Aquino",
+  "autor_id": "tomas",
+  "datas": "1225–1274",
+  "titulo_autor": "presbítero dominicano, Doutor da Igreja",
+  "obra": "Comentário à Segunda Carta aos Coríntios (Super II ad Corinthios)",
+  "passagem": "cap. 3, lição 3",
+  "edicao": "ed. Parma, t. 13; Corpus Thomisticum [87703]",
+  "versiculos": [
+   17
+  ],
+  "trecho": "3",
+  "lingua": "la",
+  "original": "Sciendum autem, quod occasione istorum verborum, scilicet ubi spiritus domini, ibi libertas, et illorum, scilicet iusto lex non est posita, aliqui erronee dixerunt quod viri spirituales non obligantur praeceptis legis divinae. Sed hoc est falsum; nam praecepta Dei sunt regula voluntatis humanae. Nullus autem homo est, nec etiam Angelus, cuius voluntatem non oporteat regulari et dirigi lege divina. Unde impossibile est aliquem hominem praeceptis Dei non subdi. Hoc autem quod dicitur iusto lex non est posita, exponitur, id est, propter iustos, qui interiori habitu moventur ad ea quae lex Dei praecipit, lex non est posita: sed propter iniustos, non quin etiam iusti ad eam teneantur. Et similiter ubi spiritus domini, ibi libertas, intelligitur, quia liber est, qui est causa sui: servus autem est causa domini; quicumque ergo agit ex seipso, libere agit; qui vero ex alio motus, non agit libere. Ille ergo, qui vitat mala, non quia mala, sed propter mandatum domini, non est liber; sed qui vitat mala, quia mala, est liber. Hoc autem facit spiritus sanctus, qui mentem interius perficit per bonum habitum, ut sic ex amore caveat, ac si praeciperet lex divina; et ideo dicitur liber, non quin subdatur legi divinae, sed quia ex bono habitu inclinatur ad hoc faciendum, quod lex divina ordinat.",
+  "fonte_url": "https://www.corpusthomisticum.org/c2c.html",
+  "traducao_pt": "Deve-se saber que, a partir destas palavras, «onde está o Espírito do Senhor, aí há liberdade», e daquelas outras, «a lei não foi feita para o justo», alguns disseram erradamente que os homens espirituais não estão obrigados aos preceitos da lei divina. Mas isso é falso; pois os preceitos de Deus são a regra da vontade humana. E não há homem, nem mesmo anjo, cuja vontade não precise ser regulada e dirigida pela lei divina. Por isso é impossível que algum homem não esteja sujeito aos preceitos de Deus. Aquilo que se diz, «a lei não foi feita para o justo», explica-se assim: não foi por causa dos justos, que um hábito interior move para o que a lei de Deus manda, que a lei foi posta, mas por causa dos injustos; não que também os justos não estejam obrigados a ela. E do mesmo modo se entende «onde está o Espírito do Senhor, aí há liberdade»: livre é quem é causa de si mesmo; o escravo é causa do seu senhor; quem age por si mesmo age livremente; quem age movido por outro não age livremente. Portanto, quem evita o mal, não porque é mal, mas por causa do mandamento do Senhor, não é livre; mas quem evita o mal porque é mal, este é livre. Isto é o que faz o Espírito Santo, que aperfeiçoa a mente por dentro com um bom hábito, para que ela se guarde do mal por amor, como se a lei divina o mandasse; e por isso se diz livre, não porque não esteja sujeito à lei divina, mas porque, por um bom hábito, se inclina a fazer o que a lei divina ordena.",
+  "temas": [
+   "onde está o Espírito do Senhor, aí há liberdade",
+   "a liberdade não dispensa a lei de Deus",
+   "livre é quem evita o mal porque é mal"
+  ],
+  "resumo": "A liberdade do Espírito não dispensa dos mandamentos: livre é quem evita o mal porque é mal, e não só porque é proibido; o Espírito Santo faz amar por dentro o que a lei manda.",
+  "relevancia": 3,
+  "direitos": "domínio público"
+ },
+ {
+  "id": "ambrosio-espirito-santo-3-101-102-o-senhor-e-o-espirito",
+  "autor": "Santo Ambrósio",
+  "autor_id": "ambrosio",
+  "datas": "c. 339–397",
+  "titulo_autor": "bispo de Milão, Doutor da Igreja",
+  "obra": "O Espírito Santo (De Spiritu Sancto)",
+  "passagem": "III, 14, 101–102",
+  "edicao": "PL 16, 800C–801A",
+  "versiculos": [
+   16,
+   17,
+   18
+  ],
+  "trecho": "3",
+  "lingua": "la",
+  "original": "Quod si evidentem conceptionem verborum exigitis, quibus Dominum Spiritum Scriptura memoraverit, nec id latere vos potuit; quia scriptum est: Dominus autem Spiritus est. Quod utique dictum de Spiritu sancto totius series lectionis ostendit. Et ideo Apostolica consideremus eloquia: Quoties legitur Moyses, inquit, velamen positum est super cor eorum: cum vero conversi fuerint ad Dominum, auferetur velamen. Dominus autem Spiritus est: ubi autem Spiritus Domini, ibi libertas. Non solum itaque Spiritum dominum dixit, sed etiam addidit: Ubi autem Spiritus Domini, ibi libertas. Nos itaque omnes revelata facie gloriam Domini speculantes, ad eamdem imaginem reformamur a gloria in gloriam, sicut a Domini Spiritu, hoc est, qui ad Dominum sumus ante conversi, ut spiritali intellectu quasi in quodam speculo Scripturarum Domini gloriam videremus, nunc ab hac gloria quae nos convertit ad Dominum, in illam coelestem gloriam reformamur. Ergo cum Dominus sit ad quem convertimur, Dominus autem Spiritus sit a quo reformamur, qui conversi ad Dominum sumus, Dominus utique Spiritus sanctus est designatus; ipse enim conversos suscipit, qui reformat. Nam quomodo quos non susceperat, reformaret?",
+  "fonte_url": "https://mlat.uzh.ch/browser/cps_2.AmbMed.DeSpSa",
+  "traducao_pt": "Se exigis palavras expressas, em que a Escritura chame Senhor ao Espírito, também isso não vos pôde escapar, porque está escrito: «O Senhor é o Espírito.» E toda a sequência da leitura mostra que isso foi dito do Espírito Santo. Consideremos, pois, as palavras do Apóstolo: «Sempre que se lê Moisés», diz, «um véu está posto sobre o coração deles; mas, quando se converterem ao Senhor, o véu será tirado. O Senhor é o Espírito; e onde está o Espírito do Senhor, aí há liberdade.» Não só chamou Senhor ao Espírito, mas acrescentou: «Onde está o Espírito do Senhor, aí há liberdade. E todos nós, com o rosto descoberto, contemplando a glória do Senhor, somos refeitos na mesma imagem, de glória em glória, como pelo Espírito do Senhor»; isto é: nós, que antes nos convertemos ao Senhor para ver, pela inteligência espiritual, como num espelho das Escrituras, a glória do Senhor, agora somos refeitos, desta glória que nos converteu ao Senhor, para aquela glória celeste. Portanto, se é o Senhor aquele a quem nos convertemos, e o Senhor é o Espírito que nos refaz, a nós que nos convertemos ao Senhor, então o Senhor de que se fala é o Espírito Santo; pois quem refaz os convertidos é quem os acolhe. Como poderia refazer os que não tivesse acolhido?",
+  "temas": [
+   "o Senhor é o Espírito: a divindade do Espírito Santo",
+   "as Escrituras como espelho da glória",
+   "o Espírito que acolhe e refaz os convertidos"
+  ],
+  "resumo": "Contra os arianos: «o Senhor é o Espírito» fala do Espírito Santo; ele é o Senhor a quem nos convertemos e quem nos refaz de glória em glória, porque só refaz quem antes acolheu.",
+  "relevancia": 2,
+  "direitos": "domínio público"
+ },
+ {
+  "id": "agostinho-trindade-15-8-14-espelho",
+  "autor": "Santo Agostinho",
+  "autor_id": "agostinho",
+  "datas": "354–430",
+  "titulo_autor": "bispo de Hipona, Doutor da Igreja",
+  "obra": "A Trindade (De Trinitate)",
+  "passagem": "XV, 8, 14",
+  "edicao": "PL 42, 1067–1068",
+  "versiculos": [
+   18
+  ],
+  "trecho": "3",
+  "lingua": "la",
+  "original": "Hoc significat etiam illud quod ait idem apostolus: Nos autem revelata facie gloriam Domini speculantes, in eamdem imaginem transformamur de gloria in gloriam, tanquam a Domini Spiritu. Speculantes dixit, per speculum videntes, non de specula prospicientes. Quod in graeca lingua non est ambiguum, unde in latinam translatae sunt apostolicae Litterae. Ibi quippe speculum ubi apparent imagines rerum, a specula de cujus altitudine longius aliquid intuemur, etiam sono verbi distat omnino; satisque apparet Apostolum a speculo, non a specula dixisse, gloriam Domini speculantes. Quod vero ait, In eamdem imaginem transformamur: utique imaginem Dei vult intelligi, eamdem dicens, istam ipsam scilicet, id est, quam speculamur; quia eadem imago est et gloria Dei, sicut alibi dicit, Vir quidem non debet velare caput suum, cum sit imago et gloria Dei: de quibus verbis jam in libro duodecimo disseruimus. Transformamur ergo dicit, de forma in formam mutamur, atque transimus de forma obscura in formam lucidam; quia et ipsa obscura, imago Dei est; et si imago, profecto etiam gloria, in qua homines creati sumus, praestantes caeteris animalibus. De ipsa quippe natura humana dictum est, Vir quidem non debet velare caput, cum sit imago et gloria Dei. Quae natura in rebus creatis excellentissima, cum a suo Creatore ab impietate justificatur, a deformi forma formosam transfertur in formam. Est quippe et in ipsa impietate, quanto magis damnabile vitium, tanto certius natura laudabilis. Et propter hoc addidit, de gloria in gloriam: de gloria creationis in gloriam justificationis. Quamvis possit hoc et aliis modis intelligi, quod dictum est, de gloria in gloriam: de gloria fidei in gloriam speciei; de gloria qua filii Dei sumus, in gloriam qua similes ei erimus, quoniam videbimus eum sicuti est. Quod vero adjunxit, tanquam a Domini Spiritu; ostendit gratia Dei nobis conferri tam optabilis transformationis bonum.",
+  "fonte_url": "https://mlat.uzh.ch/browser/cps_2.AugHip.DeTri5",
+  "traducao_pt": "É o que significa também o que diz o mesmo Apóstolo: «E todos nós, com o rosto descoberto, contemplando como num espelho a glória do Senhor, somos transformados na mesma imagem, de glória em glória, como pelo Espírito do Senhor.» Disse «contemplando como num espelho», isto é, vendo por um espelho, e não olhando do alto de uma torre de vigia. Em grego, de onde as Cartas do Apóstolo foram traduzidas para o latim, não há ambiguidade. Lá, de fato, «espelho», onde aparecem as imagens das coisas, difere totalmente, até no som da palavra, de «torre de vigia», de cuja altura olhamos ao longe; e é bem claro que o Apóstolo, ao dizer «contemplando a glória do Senhor», falou de espelho, e não de torre. Quanto ao que diz, «somos transformados na mesma imagem», quer que se entenda a imagem de Deus, chamando-a «a mesma», isto é, esta mesma que contemplamos; porque a mesma imagem é também glória de Deus, como diz em outro lugar: «O homem não deve cobrir a cabeça, pois é imagem e glória de Deus»; dessas palavras já tratamos no livro duodécimo. Diz, pois, «somos transformados»: mudamos de uma forma para outra, e passamos da forma obscura para a forma luminosa; porque também a forma obscura é imagem de Deus, e, se é imagem, é com certeza também glória, aquela em que fomos criados como homens, acima dos outros animais. Pois da própria natureza humana se disse: «O homem não deve cobrir a cabeça, pois é imagem e glória de Deus.» Esta natureza, a mais excelente entre as coisas criadas, quando é justificada da impiedade pelo seu Criador, passa de uma forma deformada para uma forma formosa. Pois, mesmo na impiedade, quanto mais condenável é o vício, tanto mais certamente é louvável a natureza. E por isso acrescentou: «de glória em glória»: da glória da criação para a glória da justificação. Embora isso possa ser entendido de outros modos, «de glória em glória»: da glória da fé para a glória da visão; da glória pela qual somos filhos de Deus para a glória pela qual seremos semelhantes a ele, porque o veremos tal como ele é. E o que acrescentou, «como pelo Espírito do Senhor», mostra que é pela graça de Deus que nos é dado o bem de uma transformação tão desejável.",
+  "temas": [
+   "como num espelho: a imagem de Deus em nós",
+   "de glória em glória: da criação à justificação, da fé à visão",
+   "a transformação é graça do Espírito"
+  ],
+  "resumo": "«Contemplando como num espelho»: o espelho é a imagem de Deus que somos nós; somos transformados da forma obscura para a luminosa, da glória da criação para a da justificação, da fé para a visão, pela graça do Espírito.",
+  "relevancia": 3,
+  "direitos": "domínio público"
+ },
+ {
+  "id": "bernardo-cantico-62-5-imprimir-se-na-gloria",
+  "autor": "São Bernardo de Claraval",
+  "autor_id": "bernardo",
+  "datas": "1090–1153",
+  "titulo_autor": "abade cisterciense, Doutor da Igreja",
+  "obra": "Sermões sobre o Cântico dos Cânticos (Sermones in Cantica canticorum)",
+  "passagem": "Sermão 62, 5",
+  "edicao": "PL 183, 1078B–1078C",
+  "versiculos": [
+   18
+  ],
+  "trecho": "3",
+  "lingua": "la",
+  "original": "Suavis gloria, quae non aliunde, quam de ipsius suavitatis contemplatione procedit, quam de divitiarum bonitatis ac multae miserationis intuitu. Denique vidimus gloriam hanc, gloriam quasi Unigeniti a Patre. Totum nempe benignum et vere paternum, quod apparuit gloriae in hac parte. Non me opprimet gloria ista totis licet viribus intendentem in se: ego potius imprimar illi. Etenim revelata facie speculantes, in eamdem imaginem transformamur de claritate in claritatem, tanquam a Domini Spiritu. Transformamur cum conformamur. Absit autem ut in majestatis gloria, et non magis in voluntatis modestia, Dei ab homine conformitas praesumatur! Gloria mea haec est, si unquam de me audiero: Inveni hominem secundum cor meum. Cor sponsi, cor patris sui. Ipsum quale? Estote, ait, misericordes, sicut et Pater vester misericors est. Haec forma quam videre desiderat, cum Ecclesiae dicit: Ostende mihi faciem tuam: forma pietatis et mansuetudinis.",
+  "fonte_url": "https://mlat.uzh.ch/browser/cps_2.BerCla.SeInCaC",
+  "traducao_pt": "Doce glória, que não nasce de outra coisa senão da contemplação dessa mesma doçura, da visão das riquezas da bondade e da grande misericórdia. Enfim, vimos esta glória, «glória como do Filho único vindo do Pai». Tudo o que da glória apareceu deste lado é benigno e verdadeiramente paterno. Esta glória não me esmagará, por mais que eu me aplique a ela com todas as forças: antes, serei eu impresso nela. Pois, «contemplando com o rosto descoberto, somos transformados na mesma imagem, de claridade em claridade, como pelo Espírito do Senhor». Somos transformados quando somos conformados. Longe de nós, porém, a presunção de que o homem se conforme a Deus na glória da majestade, e não antes na modéstia da vontade! A minha glória será esta, se um dia eu ouvir dizer de mim: «Encontrei um homem segundo o meu coração.» O coração do Esposo é o coração de seu Pai. E como é ele? «Sede misericordiosos», diz, «como vosso Pai é misericordioso.» Esta é a forma que ele deseja ver quando diz à Igreja: «Mostra-me o teu rosto»: a forma da piedade e da mansidão.",
+  "temas": [
+   "de glória em glória: transformados quando conformados",
+   "a glória da misericórdia, que não esmaga",
+   "a forma da piedade e da mansidão"
+  ],
+  "resumo": "A glória de Deus que contemplamos é a da misericórdia: ela não esmaga, imprime-se em nós. Somos transformados quando nos conformamos, não na majestade, mas na vontade: o rosto que Deus quer ver é o da mansidão.",
+  "relevancia": 3,
+  "direitos": "domínio público"
+ },
+ {
+  "id": "jeronimo-carta-38-4-blesila-espelho",
+  "autor": "São Jerônimo",
+  "autor_id": "jeronimo",
+  "datas": "c. 347–420",
+  "titulo_autor": "presbítero, Doutor da Igreja",
+  "obra": "Cartas (Epistulae)",
+  "passagem": "Carta 38, a Marcela, sobre a doença de Blesila, 4",
+  "edicao": "PL 22, 464",
+  "versiculos": [
+   18
+  ],
+  "trecho": "3",
+  "lingua": "la",
+  "original": "Vidua nostra ante morosius ornabatur, et die tota quid sibi deesset, quaerebat ad speculum. Nunc loquitur confidenter: « Nos autem omnes revelata facie gloriam Domini speculantes, in eamdem imaginem transformamur, a gloria in gloriam, quasi a Domini spiritu. » Tunc crines ancillulae disponebant, et mitellis crispantibus vertex arctabatur innoxius: nunc neglectum caput scit sibi tantum sufficere quod velatur. Illo tempore plumarum quoque dura mollities videbatur, et in exstructis thoris jacere vix poterat. Nunc ad orandum festina consurgit, et tinnula voce caeteris alleluia praeripiens, prior incipit laudare Dominum suum.",
+  "fonte_url": "https://mlat.uzh.ch/browser/cps_2.HieStr.Episto32",
+  "traducao_pt": "A nossa viúva, antes, se enfeitava com vagar, e o dia inteiro procurava no espelho o que lhe faltava. Agora diz com confiança: «E todos nós, com o rosto descoberto, contemplando como num espelho a glória do Senhor, somos transformados na mesma imagem, de glória em glória, como pelo Espírito do Senhor.» Naquele tempo as criadas lhe arrumavam os cabelos, e uma touca de cachos apertava a cabeça, que não tinha culpa; agora a cabeça descuidada sabe que lhe basta estar coberta. Naquele tempo até a maciez das penas lhe parecia dura, e mal conseguia deitar-se nos leitos amontoados de almofadas. Agora levanta-se depressa para rezar e, adiantando-se às outras com a voz sonora no aleluia, é a primeira a começar o louvor do seu Senhor.",
+  "temas": [
+   "o espelho da vaidade e o espelho da glória",
+   "a conversão de Blesila",
+   "o rosto descoberto diante de Deus"
+  ],
+  "resumo": "Blesila, jovem viúva romana, passava o dia diante do espelho; convertida, troca esse espelho pelo de 2Cor 3,18 e é a primeira a levantar-se para cantar o aleluia.",
+  "relevancia": 2,
+  "direitos": "domínio público"
+ }
+]

@@ -4,6 +4,8 @@ Levantado em 2026-10-20 a partir de `001/` e `002/` (relatórios, `fontes-*.md`,
 
 ## 2Cor 3
 
+- **Capítulo feito em 2026-10-21** (pesquisa em `003/`): o que segue já foi usado ou conferido.
+
 - João Paulo II, aos bispos do Malawi (05/05/1989): «quem é capaz disto?» (2,16) ligado a **3,5**, «a nossa capacidade vem de Deus» — achado `joao-paulo-ii-bispos-malawi-19890505` em `../002/achados-modernos.json` (vatican.va).
 - Cramer, *Scholia e Cod. 216* (variantes e adições da catena em III. 1, III. 12 e III. 18; Cramer V, pp. 454–457): no OCR `ocr_bub_gb_6enzBCMGxM8C.txt` (cache), linhas 36908–37224; não entram em `cramer-catena-2cor.md`.
 - Liturgia: Lecionário, quarta da 10ª semana do TC (ano I) **3,4-11** (Vatican News 14/06/2023 e 09/06/2021), quinta **3,15–4,1.3-6** (12/06/2025), domingo do ano B **3,1b-6**; Ofício das Leituras, terça da 16ª semana **2,12–3,6** (a de quarta começa em 3,7); Breviário antigo: Matinas da segunda-feira depois do 2º domingo da Epifania começam em **2Cor 3,1** (Divinum Officium). Fonte: `../002/liturgia-2cor-2.md` §§ 1, 2, 6.
@@ -16,6 +18,10 @@ Levantado em 2026-10-20 a partir de `001/` e `002/` (relatórios, `fontes-*.md`,
 - Cramer, *Scholia e Cod. 216* (IV. 1 e IV. 4, pp. 458–459): ver a pista do cap. 3 (linhas 37224 em diante do mesmo OCR).
 - Liturgia: Lecionário, quinta da 10ª semana **3,15–4,1.3-6**; domingos do ano B **4,6-11** e **4,13–5,1** (`../002/liturgia-2cor-2.md` § 1).
 - Cirilo (Pusey III): o comentário a 3,18 corre sem lema novo até 4,4 («Εἰς τὸ μὴ αὐγάσαι αὐτοῖς τὸν φωτισμὸν»); o corte da `base/` começa nesse lema.
+- (da pesquisa de 2Cor 3) Orígenes, *Comentário a João* XXXII, 27–29 (§§ 337–338: 4,3 e 4,6, com 3,18); Crisóstomo, *Sobre a obscuridade das profecias* 1 e 2 (PG 56, 163–192) segue para 4,3-4; Basílio, *De Spiritu Sancto* (OCR de Johnston, linha 6058: 4,6); Lápide, já na base, cap. 4 (Cristo espelho do Pai).
+- (2Cor 3) 4,16: Agostinho, *A Trindade* XIV, 17, 23 (PL 42, 1055) liga 3,18 a 4,16; Jerônimo, Carta 65, 4 (PL 22, 625); Francisco de Sales, *Traité* III, 1 (4,16), carta DLXIII (4,17).
+- (2Cor 3) Magistério: *Dei Verbum* 2 (nota: 3,16; 4,6) e 7 (3,16–4,6); *Lumen fidei* 37 (4,6 e 4,13 com 3,18); João Paulo II, audiências 06/02/1991 e 01/07/1998 (4,5). Liturgia das Horas: Transfiguração 3,7–4,6; quinta da 16ª semana 4,5-18 (2ª leitura Santo Ambrósio, *Sobre o Sl 43*). Escrivá, *Cartas I*, Carta 2, n. 15 (4,15-18) e 4,7 em `../fontes/escriva-indice.md`.
+- (2Cor 3) Efrém, comentário, p. 93 (archive.org `commentariiinepi00ephruoft`, `page/n110`): 4,1-6 («o deus deste século» = Mamona; «das trevas brilhe a luz» = o primeiro dia da criação).
 
 ## 2Cor 5
 
@@ -23,10 +29,12 @@ Levantado em 2026-10-20 a partir de `001/` e `002/` (relatórios, `fontes-*.md`,
 - Ecumênio (glosa em Staab, pp. 444–446, `Oecumenius_PG 118-119/Fragmenta in epistulam ii ad Corinthios.pdf`): «2 kor 5,17» (edição moderna: citação curta).
 - Liturgia/Catecismo: a fórmula da absolvição («Deus, Pai de misericórdia, que reconciliou o mundo consigo…») ecoa **5,18-19** (Catecismo n. 1449; *Ordo Paenitentiae*): `../001/liturgia-2cor-1.md` § 3. Lecionário, domingos do ano B: **4,13–5,1**, **5,6-10**, **5,14-17**.
 - Agostinho, Sermão 23 (augustinus.it, `discorso_029`), 156 (`discorso_201`) e 378 (`discorso_547`) para o penhor; tabela completa do número do sermão em `pesquisa/fontes/paulo.md`.
+- (2Cor 3) 5,17: Crisóstomo, *Hom. «Si qua in Christo nova creatura»* (PG 64, 26; atribuição duvidosa). 5,18-20: João Paulo II, audiência 06/02/1991. 5,3-4: Macário, hom. 5, 10. 5,5 (o penhor do Espírito): Ambrosiaster (PL 17, 288C) e Haimo (PL 117, 622C–D).
 
 ## 2Cor 6
 
 - Nada específico nos relatórios de 2Cor 1–2 para este capítulo. (Não consta dos relatórios, a conferir no Lecionário: 5,20–6,2 é a leitura da Quarta-feira de Cinzas.)
+- (2Cor 3) Francisco de Sales, *Index scripturaire*: v. 1 IV, 122.177; VIII, 349; v. 2 VII, 128; VIII, 44.219.229; IX, 132; XIII, 51; XVI, 133.
 
 ## 2Cor 7
 
@@ -51,11 +59,13 @@ Levantado em 2026-10-20 a partir de `001/` e `002/` (relatórios, `fontes-*.md`,
 ## 2Cor 11
 
 - Nada específico nos relatórios de 2Cor 1–2 para este capítulo.
+- (2Cor 3) 11,25: Efrém, *Sermão sobre Nosso Senhor* 30–32 (Lamy I, 212–218), os olhos de Moisés iluminados e os de Paulo cegados.
 
 ## 2Cor 12
 
 - Bento XVI, ciclo sobre a oração nas cartas de Paulo (maio–junho de 2012): a de 30/05/2012 é sobre 2Cor 1; as audiências vizinhas tratam Rm 8, **2Cor 12**, Fl 2, Ef 1 e Cl (`../001/fontes-modernos.md` § 3).
 - Liturgia: Lecionário, 14º domingo do ano B: **12,7-10** (`../002/liturgia-2cor-2.md` § 1).
+- (2Cor 3) Francisco de Sales, *Index scripturaire*: 12,9 em mais de vinte lugares, e 12,7-10.
 
 ## 2Cor 13
 

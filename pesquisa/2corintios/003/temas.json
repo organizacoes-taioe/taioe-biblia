@@ -1,0 +1,155 @@
+{
+ "1": [
+  {
+   "id": "a-nossa-carta",
+   "titulo": "«Vós sois a nossa carta»",
+   "versiculos": [1, 2, 3],
+   "resumo": "A recomendação do apóstolo é a vida da comunidade, que todos podem ler.",
+   "itens": [
+    "crisostomo-2cor-h6-1-carta-viva",
+    {"id": "francisco-aud-20241113-maria-carta-de-cristo", "obra": "Audiência geral de 13 de novembro de 2024"}
+   ]
+  },
+  {
+   "id": "com-o-espirito",
+   "titulo": "«Com o Espírito do Deus vivo»",
+   "versiculos": [3],
+   "resumo": "O mesmo dedo de Deus que gravou a Lei na pedra escreve agora nos corações.",
+   "itens": [
+    {"id": "agostinho-espirito-letra-28-29-dedo-de-deus", "texto": "O Espírito Santo, pelo qual a caridade, que é a plenitude da Lei, é derramada em nossos corações, é chamado no Evangelho também «dedo de Deus». Ora, se aquelas tábuas foram escritas pelo dedo de Deus, e o dedo de Deus é o Espírito de Deus pelo qual somos santificados para que, vivendo da fé, façamos o bem pelo amor, quem não se comove com esta correspondência e, ao mesmo tempo, com esta diferença? Contam-se cinquenta dias desde a celebração da Páscoa, que Moisés mandou fazer com a imolação do cordeiro, figura da futura paixão do Senhor, até o dia em que Moisés recebeu a Lei nas tábuas escritas pelo dedo de Deus; do mesmo modo, desde a morte e a ressurreição daquele que foi levado como cordeiro ao matadouro, completados cinquenta dias, o dedo de Deus, isto é, o Espírito Santo, encheu os fiéis reunidos num só lugar. […] Mas nesta admirável correspondência há uma diferença muito grande: lá o povo foi impedido, com terror espantoso, de se aproximar do lugar onde a Lei era dada; aqui o Espírito Santo desceu sobre os que o esperavam, reunidos, segundo a promessa. Lá o dedo de Deus agiu sobre tábuas de pedra; aqui, nos corações dos homens. Lá, portanto, a Lei foi posta do lado de fora, para aterrorizar os injustos; aqui foi dada por dentro, para justificá-los."},
+    "basilio-sl44-3-escriba-espirito",
+    "crisostomo-mt-h1-1-coracoes-em-vez-de-livros"
+   ]
+  },
+  {
+   "id": "a-nossa-capacidade",
+   "titulo": "«A nossa capacidade vem de Deus»",
+   "versiculos": [4, 5],
+   "resumo": "Nem o primeiro bom pensamento vem de nós: por isso se pede.",
+   "itens": [
+    "agostinho-predestinacao-santos-2-5-pensar-e-crer",
+    {"id": "bernardo-cantico-32-5-pensamento-ou-palavra", "texto": "Os pensamentos da nossa mente são muito parecidos com as palavras da Verdade que fala em nós, e ninguém distingue com facilidade o que o seu coração produz por dentro e o que escuta, a não ser quem presta atenção, com prudência, ao Senhor que diz no Evangelho que do coração saem os maus pensamentos; e: «Por que pensais o mal em vossos corações?»; e: «Quem fala a mentira fala do que é seu.» E o Apóstolo: «Não que sejamos capazes de pensar alguma coisa como vinda de nós; a nossa capacidade vem de Deus.» Quando, pois, revolvemos o mal no coração, o pensamento é nosso; quando é o bem, é palavra de Deus. Aquele, o nosso coração o diz; este, o coração o escuta. «Ouvirei», diz, «o que fala em mim o Senhor Deus, porque falará de paz ao seu povo.» Assim, Deus fala em nós paz, piedade, justiça; e tais coisas não as pensamos por nós, mas as ouvimos em nós."},
+    {"id": "afonso-riflessioni-pregare-2cor3-5", "obra": "Reflexões devotas (Riflessioni divote, 1773)"}
+   ]
+  },
+  {
+   "id": "a-letra-mata",
+   "titulo": "«A letra mata, mas o Espírito dá vida»",
+   "versiculos": [6],
+   "resumo": "A lei só manda; o Espírito dá por dentro a força de cumprir e o sentido do que se lê.",
+   "itens": [
+    "crisostomo-2cor-h6-3-a-lei-e-a-graca-diante-do-assassino",
+    "agostinho-sermao-249-3-dez-e-sete",
+    {"id": "tomas-suma-1-2-106-2-letra-do-evangelho", "texto": "À lei do Evangelho pertencem duas coisas. Uma, principalmente: a própria graça do Espírito Santo, dada interiormente. E quanto a isso, a lei nova justifica. Por isso diz Agostinho, no livro O espírito e a letra: «Lá», isto é, no Antigo Testamento, «a Lei foi posta do lado de fora, para aterrorizar os injustos; aqui», isto é, no Novo Testamento, «foi dada por dentro, para justificá-los». A outra pertence à lei do Evangelho de modo secundário: os ensinamentos da fé e os preceitos que ordenam os afetos e os atos humanos. E quanto a isso, a lei nova não justifica. Por isso diz o Apóstolo, em 2Cor 3: «A letra mata, e o Espírito dá vida.» E Agostinho explica, no livro O espírito e a letra, que por «letra» se entende qualquer escrito que esteja fora do homem, também o dos preceitos morais, como os que se contêm no Evangelho. Por isso, também a letra do Evangelho mataria, se não estivesse presente, por dentro, a graça da fé que cura."},
+    "agostinho-confissoes-6-4-6-ambrosio-pregando"
+   ]
+  }
+ ],
+ "2": [
+  {
+   "id": "ministerio-da-morte",
+   "titulo": "«O ministério da morte»",
+   "versiculos": [7, 8, 9],
+   "resumo": "A Lei era santa, mas só podia condenar; a glória do ministério novo é a da reconciliação.",
+   "itens": [
+    "crisostomo-2cor-h7-1-ministerio-nao-autor-da-morte",
+    "agostinho-contra-adversario-lei-2-7-24-25",
+    {"id": "joao-paulo-ii-aud-19910206-gloria-do-ministerio", "obra": "Audiência geral de 6 de fevereiro de 1991", "texto": "Paulo, considerando o «ministério da nova aliança» como um «ministério do Espírito» (2Cor 3,6) e comparando-o com o que Moisés exerceu no Sinai como mediador da Lei antiga (cf. Êx 24,12), observa: se aquele «foi cercado de tal glória que os filhos de Israel não podiam fixar os olhos no rosto de Moisés, por causa da glória do seu rosto, que era passageira, quanto mais glorioso não será o ministério do Espírito!». É a glória da reconciliação realizada em Cristo. [...] Repitamos ainda e sempre: é a glória da Cruz!"}
+   ]
+  },
+  {
+   "id": "o-rosto-de-moises",
+   "titulo": "A glória do rosto de Moisés",
+   "versiculos": [7],
+   "resumo": "O rosto radiante de Moisés anunciava a glória que Deus dá aos que o contemplam.",
+   "itens": ["origenes-jo-32-27-rosto-de-moises-mente-divinizada", "macario-hom-5-10-rosto-descoberto-homem-interior"]
+  },
+  {
+   "id": "o-que-permanece",
+   "titulo": "«Muito mais glorioso é o que permanece»",
+   "versiculos": [10, 11],
+   "resumo": "A glória antiga não é desprezada: é superada, como a infância pela juventude.",
+   "itens": ["ambrosiaster-2cor3-9-11-estrelas-e-sol", "crisostomo-2cor-h7-2-comparacao-entre-parentes", "atao-2cor3-11-lei-que-cresce"]
+  }
+ ],
+ "3": [
+  {
+   "id": "o-veu",
+   "titulo": "O véu sobre o rosto",
+   "versiculos": [13, 14],
+   "resumo": "O véu de Moisés foi amor pelos fracos, figura da carne de Cristo e sombra que esconde o verdadeiro rosto da Lei.",
+   "itens": [
+    {"id": "efrem-sermao-nosso-senhor-29-veu-por-amor", "texto": "Foi por amor que Deus impediu Moisés de contemplar a sua glória, luminosa demais para os seus olhos. Do mesmo modo, Moisés, por amor, impediu o seu povo de contemplar o esplendor dele, que brilhava demais para os olhos deles. Ensinado por aquele que estendeu a mão para cobri-lo e lhe escondeu o esplendor da sua glória para não o ferir, ele mesmo estendeu o véu e escondeu dos olhos fracos o esplendor excessivo, para que não lhes fizesse mal."},
+    "crisostomo-obscuridade-profecias-1-7-veu-e-carne",
+    "cirilo-alexandria-2cor-3-13-o-verdadeiro-rosto-da-lei"
+   ]
+  },
+  {
+   "id": "o-veu-e-retirado",
+   "titulo": "«O véu é retirado»",
+   "versiculos": [14, 15, 16],
+   "resumo": "Quem se volta para Cristo entende as Escrituras; quem as ouve distraído continua com o véu.",
+   "itens": [
+    "agostinho-tratado-jo-9-3-agua-e-vinho",
+    "origenes-ex-h12-1-4-o-veu-tambem-sobre-nos",
+    "afraates-dem-21-10-jesus-tira-o-veu-dos-povos",
+    {"id": "catecismo-1094-figuras-desvendadas", "obra": "Parte II, «A celebração do mistério cristão»"}
+   ]
+  },
+  {
+   "id": "o-senhor-e-o-espirito",
+   "titulo": "«O Senhor é o Espírito»",
+   "versiculos": [17],
+   "resumo": "Converter-se ao Senhor é passar da letra ao Espírito, que é Senhor e livre como Deus.",
+   "itens": ["basilio-espirito-santo-21-52-da-letra-ao-espirito", "cirilo-alexandria-2cor-3-17-livre-por-natureza"]
+  },
+  {
+   "id": "liberdade",
+   "titulo": "«Onde está o Espírito do Senhor, aí há liberdade»",
+   "versiculos": [17],
+   "resumo": "A liberdade do Espírito não dispensa da lei: faz amar o que ela manda, e nasce da Cruz.",
+   "itens": [
+    "tomas-2cor3-l3-liberdade",
+    {"id": "francisco-de-sales-carta-221-justa-liberdade", "obra": "Cartas (carta CCXXI, a Santa Joana de Chantal, 14 de junho de 1604)"},
+    {"id": "escriva-ecp-137-cruz-e-liberdade", "obra": "É Cristo que passa (Es Cristo que pasa)", "passagem": "n. 137 (homilia «O Grande Desconhecido», Pentecostes de 1969)"}
+   ]
+  },
+  {
+   "id": "como-num-espelho",
+   "titulo": "«Com o rosto descoberto, como num espelho»",
+   "versiculos": [18],
+   "resumo": "Olhamos a glória do Senhor e a devolvemos, como o espelho e a prata ao sol.",
+   "itens": ["agostinho-trindade-15-8-14-espelho", "crisostomo-2cor-h7-5-a-prata-diante-do-sol", "cirilo-jerusalem-mistagogica-3-4-uncao-na-fronte", "jeronimo-carta-38-4-blesila-espelho"]
+  },
+  {
+   "id": "de-gloria-em-gloria",
+   "titulo": "«De glória em glória»",
+   "versiculos": [18],
+   "resumo": "A transformação começa no batismo e não tem fim: da glória perdida no Paraíso à do Reino.",
+   "itens": [
+    "nissa-cantico-h5-de-gloria-em-gloria-sem-fim",
+    "efrem-2cor-3-18-do-paraiso-ao-reino",
+    "bernardo-cantico-62-5-imprimir-se-na-gloria",
+    {"id": "newman-pps3-18-gift-of-the-spirit", "obra": "Sermões paroquiais (Parochial and Plain Sermons), III, 18, «O dom do Espírito»", "texto": "Pode-se perguntar até que ponto o dom é concedido também a cada membro da Igreja cristã. É concedido a cada membro no seu Batismo [...]. Por esse novo nascimento, a divina Shekiná é estabelecida dentro dele, penetrando a alma e o corpo, separando-o realmente, e não só de nome, dos que não são cristãos, elevando-o na escala dos seres, despertando e alimentando para a vida tudo o que nele resta de uma natureza mais alta, e comunicando-lhe, no tempo e na medida devidos, a sua própria virtude, sobre-eminente e celeste. Assim, enquanto guarda o Dom com cuidado, ele é, nas palavras do texto, «transformado de glória em glória, como pelo Senhor, que é o Espírito». Ao contrário, se o Dom é resistido, retira pouco a pouco a sua presença e, contrariado no seu fim principal, a santificação da nossa natureza, perde-se também quanto aos seus outros benefícios. Essa parece ser a regra pela qual age o Doador todo-poderoso; e, se pudéssemos ver as almas dos homens, sem dúvida as veríamos assim: as crianças recém-batizadas, brilhantes como os querubins, como chamas de fogo que sobem ao céu em sacrifício a Deus; depois, à medida que passam da infância à idade adulta, a luz dentro delas diminuindo ou crescendo, conforme o caso; e, dos adultos, a multidão, ai!, mostraria talvez apenas sinais temíveis de que o Senhor estivera um dia entre eles, restando só aqui e ali algumas testemunhas dispersas de Cristo, e também elas marcadas por toda parte com as cicatrizes do pecado."}
+   ]
+  },
+  {
+   "id": "nos-santos",
+   "titulo": "O rosto de Deus nos santos",
+   "versiculos": [18],
+   "resumo": "Nos que mais foram transformados na imagem de Cristo, Deus mostra o seu rosto.",
+   "itens": [
+    {"id": "vaticano-ii-lg-50-rosto-de-deus-nos-santos", "obra": "Constituição dogmática Lumen gentium"},
+    "apotegmas-pambo-12-rosto-como-relampago",
+    {"id": "elisabete-da-trindade-ultimo-retiro-dia-3", "obra": "Último retiro (Dernière retraite de Laudem gloriae, 1906)"}
+   ]
+  },
+  {
+   "id": "transfiguracao",
+   "titulo": "Moisés no monte da Transfiguração",
+   "versiculos": [13, 18],
+   "resumo": "No Tabor, Moisés aparece ao lado de Cristo: a Lei vista sem véu, na luz do Verbo.",
+   "itens": ["ambrosio-lucas-7-10-12-transfiguracao", "damasceno-transfiguracao-17-nuvem-de-luz"]
+  }
+ ]
+}
