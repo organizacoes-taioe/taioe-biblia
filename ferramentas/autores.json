@@ -119,5 +119,11 @@
  "Teodoro bar Koni": {"sobre": "mestre da Igreja do Oriente (séc. VIII–IX)", "oriental": true, "site": false},
  "Tertuliano": {"sobre": "escritor eclesiástico de Cartago (c. 155–c. 220)", "oriental": false},
  "Tomás de Kempis": {"sobre": "cônego regular de Santo Agostinho (c. 1380–1471)", "oriental": false},
- "Vida de São Pacômio": {"sobre": "a vida do pai dos monges que vivem em comunidade (séc. IV), na coleção monástica do Evergetinos", "oriental": true}
+ "Vida de São Pacômio": {"sobre": "a vida do pai dos monges que vivem em comunidade (séc. IV), na coleção monástica do Evergetinos", "oriental": true},
+ "Concílio Vaticano II": {"sobre": "XXI concílio ecumênico (1962–1965)", "oriental": false},
+ "Pseudo-Macário": {"sobre": "monge anônimo da Síria (séc. IV–V), cujas homilias correm sob o nome de São Macário do Egito", "oriental": true},
+ "Homilias atribuídas a São Macário, o Egípcio (Pseudo-Macário)": {"sobre": "monge anônimo da Síria (séc. IV–V)", "oriental": true, "usar": "Pseudo-Macário"},
+ "Santa Elisabete da Trindade": {"sobre": "carmelita descalça de Dijon (1880–1906)", "oriental": false},
+ "Santo Pambo": {"sobre": "abade de Nítria, Padre do deserto (†c. 373)", "oriental": true},
+ "Santo Pambo (Apotegmas dos Padres do deserto)": {"sobre": "abade de Nítria, Padre do deserto (†c. 373)", "oriental": true, "usar": "Santo Pambo"}
 }
