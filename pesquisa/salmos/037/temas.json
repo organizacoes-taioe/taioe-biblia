@@ -1,0 +1,285 @@
+{
+ "1": [
+  {
+   "id": "nao-te-irrites",
+   "titulo": "Não te irrites por causa dos maus",
+   "versiculos": [
+    1,
+    2
+   ],
+   "resumo": "A felicidade dos maus escandaliza; o salmo manda olhar o fim deles, esperar e rezar por eles.",
+   "itens": [
+    "agostinho-en36-s1-3",
+    "newman-pps-1-18-v1-34",
+    "bernardo-adv3-3"
+   ]
+  },
+  {
+   "id": "confia-e-faze-o-bem",
+   "titulo": "Confia no Senhor e faze o bem",
+   "versiculos": [
+    3
+   ],
+   "resumo": "Fazer hoje o bem, sem angústia pelo amanhã, e habitar a terra que se deve habitar.",
+   "itens": [
+    "kempis-imitacao-1-25-2",
+    {
+     "id": "tomas-ps36-n2",
+     "texto": "«E habita a terra, e serás apascentado nas suas riquezas.» Quando diz «e habita a terra», mostra onde se devem procurar essas riquezas. Isso não se pode entender da terra material, porque também os injustos a habitam; explica-se de quatro terras. Primeiro, da terra dos vivos, que é a da glória: habita-a pelo desejo. Depois, da tua alma: habita-a voltando sempre à tua consciência. A terceira terra é a Igreja militante: habita-a pela confissão da fé, sem te afastares da Igreja. A quarta terra é a tua própria carne: habita-a arrancando os vícios e plantando as virtudes."
+    }
+   ]
+  },
+  {
+   "id": "deleita-te",
+   "titulo": "Deleita-te no Senhor",
+   "versiculos": [
+    4
+   ],
+   "resumo": "A alegria em Deus, que dá o que o coração de fato pede.",
+   "itens": [
+    "bernardo-cant11-2",
+    "belarmino-expps36-4",
+    {
+     "id": "eusebio-cps36-4",
+     "texto": "«E serás apascentado na sua riqueza.» Primeiro, serás apascentado na verdadeira riqueza do bom Pastor; segundo, terás as tuas delícias no Senhor; terceiro, ele te dará os pedidos do teu coração. Ter as suas delícias no Senhor poderá quem purificou os sentidos da alma, a ponto de poder comer o pão vivo e as suas carnes que dão a vida, e beber o seu sangue salvador. Quem se alimenta e se fortalece com isso, gozando da embriaguez divina, ouve: «Põe as tuas delícias no Senhor, e ele te dará os pedidos do teu coração». Já desde agora terás nele as tuas delícias, se quiseres entregar-te a ele. Mas pede-lhe também as coisas futuras, que esperas receber. Pois quem deu com generosidade as presentes há de dar também «o que os olhos não viram, nem os ouvidos ouviram, nem jamais subiu ao coração do homem»."
+    }
+   ]
+  },
+  {
+   "id": "entrega-o-teu-caminho",
+   "titulo": "Entrega o teu caminho ao Senhor",
+   "versiculos": [
+    5,
+    6
+   ],
+   "resumo": "Abrir a Deus a própria vida, sem esconder nada; e a justiça que ele faz brilhar como o meio-dia.",
+   "itens": [
+    "ambrosio-en36-14",
+    "bento-regra-7-44",
+    "atanasio-eps36-6"
+   ]
+  },
+  {
+   "id": "repousa-e-espera",
+   "titulo": "Repousa no Senhor e deixa a ira",
+   "versiculos": [
+    7,
+    8
+   ],
+   "resumo": "O ímpio prospera no seu caminho; o justo cala, espera e não deixa a irritação virar pecado.",
+   "itens": [
+    "agostinho-en36-s1-9a",
+    "belarmino-expps36-7",
+    "ambrosio-en36-18"
+   ]
+  },
+  {
+   "id": "ainda-um-pouco",
+   "titulo": "Ainda um pouco",
+   "versiculos": [
+    10
+   ],
+   "resumo": "A vida é breve, e o mal tem o seu lugar só enquanto serve para provar o justo.",
+   "itens": [
+    "agostinho-en36-s1-10",
+    "agostinho-en36-s1-11"
+   ]
+  },
+  {
+   "id": "os-mansos",
+   "titulo": "Os mansos possuirão a terra",
+   "versiculos": [
+    9,
+    11
+   ],
+   "resumo": "A bem-aventurança de Jesus já estava no salmo; a terra dos mansos não se conquista, recebe-se.",
+   "itens": [
+    {
+     "id": "francisco-aud-20200219-v11",
+     "texto": "Esta bem-aventurança cita o Salmo 37. […] Mas vejamos bem o verbo usado para indicar a posse dos mansos: eles não conquistam a terra; não diz «bem-aventurados os mansos porque conquistarão a terra». Eles a «herdam»."
+    },
+    {
+     "id": "basilio-hps33-mansos",
+     "texto": "«Ouçam os mansos»: é possível erguer um troféu permanecendo em paz, e mostrar-se vencedor sem combater. […] A maior das virtudes é a mansidão; por isso foi incluída entre as bem-aventuranças: «Bem-aventurados os mansos, porque herdarão a terra». Aquela terra, a Jerusalém celeste, não é despojo dos que guerreiam: está reservada como herança aos homens pacientes e de ânimo manso."
+    },
+    {
+     "id": "isaac-stella-sermo2",
+     "texto": "Felizes os mansos, que com tanta felicidade quanto facilidade possuirão na eternidade a terra dos vivos, enquanto nós, ousados e enérgicos por Deus, lutamos no tempo, contra o preceito ou o conselho de Deus, pela terra dos que morrem. «Os mansos», portanto, «herdarão a terra e nela habitarão pelos séculos dos séculos», isto é, a face de Deus, a única que permanece sempre imóvel, por mais que tudo o mais gire, como a terra entre os outros elementos que se movem. «Uma geração vem e outra geração passa, mas a terra permanece.»"
+    }
+   ]
+  },
+  {
+   "id": "abundancia-da-paz",
+   "titulo": "A abundância da paz",
+   "versiculos": [
+    11
+   ],
+   "resumo": "A paz do céu, onde Deus será tudo e cessa toda guerra.",
+   "itens": [
+    "agostinho-en36-s1-12",
+    "tomas-ps36-n8"
+   ]
+  },
+  {
+   "id": "a-espada",
+   "titulo": "A espada que entra no próprio coração",
+   "versiculos": [
+    12,
+    13,
+    14,
+    15
+   ],
+   "resumo": "Deus ri do ímpio porque vê o seu fim; o mal que ele faz fere primeiro a ele mesmo.",
+   "itens": [
+    "agostinho-en36-s2-2",
+    "agostinho-en36-s2-3",
+    "tomas-ps36-n11"
+   ]
+  },
+  {
+   "id": "o-pouco-do-justo",
+   "titulo": "Mais vale o pouco do justo",
+   "versiculos": [
+    16,
+    17
+   ],
+   "resumo": "Os bens servem enquanto servem à virtude; e o pouco do justo é também a fé pequena e viva.",
+   "itens": [
+    "tomas-ps36-n12",
+    "origenes-hps36-3-6"
+   ]
+  },
+  {
+   "id": "fome-e-fumaca",
+   "titulo": "Os dias de fome e a fumaça",
+   "versiculos": [
+    19,
+    20
+   ],
+   "resumo": "Deus alimenta os seus quando falta a palavra; o ímpio sobe como a fumaça, que se desfaz subindo.",
+   "itens": [
+    {
+     "id": "cirilo-eps36-19",
+     "texto": "«E nos dias de fome serão saciados.» […] Se alguém quiser entender de outro modo o sentido do versículo, compreenderá isto: vemos que o Deus do universo, muitas vezes, castiga os amantes da iniquidade também com a fome dos ensinamentos sagrados. Ele diz, de fato, quando os do sangue de Israel se entregaram ao desvario de modo insuportável: «Eis que mandarei fome sobre a terra; não fome de pão, nem sede de água, mas fome de ouvir a palavra do Senhor». Mas essa fome dos ensinamentos sagrados é mandada aos que o ofenderam, não aos que cuidam dos mandamentos divinos: no tempo das perseguições, quando faltarem os mestres, o próprio Senhor alimentará com o seu Espírito os que nele creram."
+    },
+    "gregorio-ep1-5"
+   ]
+  },
+  {
+   "id": "compadece-e-da",
+   "titulo": "O justo se compadece e dá",
+   "versiculos": [
+    21,
+    26
+   ],
+   "resumo": "Sempre há o que dar; e quem dá ao pobre empresta a Deus.",
+   "itens": [
+    "agostinho-en36-s2-13",
+    "nazianzeno-or14-38",
+    "agostinho-en36-s3-6"
+   ]
+  },
+  {
+   "id": "se-cair",
+   "titulo": "Se cair, não ficará prostrado",
+   "versiculos": [
+    23,
+    24
+   ],
+   "resumo": "Também o justo cai; mas Deus lhe dá a mão, e a queda o faz humilde.",
+   "itens": [
+    "sales-carta-valbonne-v24",
+    "origenes-hps36-4-2",
+    {
+     "id": "escriva-cartas1-2-26",
+     "texto": "Somos feitos de barro da terra, de limo terrae, de barro de moringa: frágil, quebradiço, sem consistência. Mas já vistes como se consertam esses vasos de cerâmica que se fizeram em pedaços: com grampos, para que continuem servindo. As peças recompostas assim ficam até mais bonitas: têm uma graça particular. [...] Apesar das nossas pobres misérias pessoais, somos portadores de essências divinas de valor inestimável: somos instrumentos de Deus. E, como queremos ser bons instrumentos, quanto menores e mais miseráveis nos sentirmos com verdadeira humildade, tudo o que nos faltar Nosso Senhor há de pôr: «o Senhor dirige os passos do homem e se compraz nos seus caminhos. Se cair, não ficará prostrado, porque o Senhor lhe estende a mão»."
+    }
+   ]
+  },
+  {
+   "id": "nunca-abandonado",
+   "titulo": "Nunca vi o justo abandonado",
+   "versiculos": [
+    25,
+    28,
+    32,
+    33
+   ],
+   "resumo": "Os justos passam fome e morrem, mas Deus não os entrega: o pão que não lhes falta e a coroa dos mártires.",
+   "itens": [
+    "agostinho-en36-s3-4",
+    "origenes-hps36-4-v25",
+    "agostinho-en36-s3-13"
+   ]
+  },
+  {
+   "id": "aparta-te-do-mal",
+   "titulo": "Aparta-te do mal e faze o bem",
+   "versiculos": [
+    27
+   ],
+   "resumo": "Não basta não fazer o mal.",
+   "itens": [
+    "agostinho-en36-s3-8",
+    "cirilo-eps36-27"
+   ]
+  },
+  {
+   "id": "a-boca-do-justo",
+   "titulo": "A boca do justo medita a sabedoria",
+   "versiculos": [
+    30,
+    31
+   ],
+   "resumo": "A língua mostra o que há no coração; e a sabedoria de que o justo fala é Cristo.",
+   "itens": [
+    "sales-introducao-3-26-v30",
+    "ambrosio-en36-65"
+   ]
+  },
+  {
+   "id": "ele-passou",
+   "titulo": "Passou, e já não existia",
+   "versiculos": [
+    34,
+    35,
+    36
+   ],
+   "resumo": "A grandeza do ímpio some para quem passa adiante com o coração.",
+   "itens": [
+    "agostinho-en36-s3-14",
+    {
+     "id": "origenes-hps36-5-v35",
+     "texto": "«Passei», diz, «e eis que já não existia». Que pensas que é este passar do justo, que faz cessar aquela soberba? […] Quando vemos os ímpios se exaltarem e crescerem em soberba desmedida, passemos também nós, com a mente e a inteligência, para além das coisas que se veem e são temporais, e levemos o nosso pensamento às que não se veem e são eternas. Pensemos que essas coisas que se mostram tão altas são temporais e de poucos dias. […] Toma um exemplo do que dizemos. Se navegas, de dentro do navio vês passarem terras, promontórios e montes; não que eles se movam, mas, porque tu passas com o vento favorável, eles parecem afastar-se e ser levados. Assim também aqui: se navegas em curso feliz e favorável, com o Espírito Santo soprando e inspirando a tua mente, passas com o teu pensamento por todas estas coisas que se veem, porque são temporais, e contemplas as eternas; e sem dúvida dizes que todas estas coisas que se veem já não existem, porque nem sequer hão de permanecer."
+    },
+    "climaco-escada-15"
+   ]
+  },
+  {
+   "id": "o-homem-de-paz",
+   "titulo": "O homem de paz",
+   "versiculos": [
+    37
+   ],
+   "resumo": "Quem não fere ninguém parece perder, mas tem futuro.",
+   "itens": [
+    "francisco-ang-20221101-v37",
+    "agostinho-en36-s3-15"
+   ]
+  },
+  {
+   "id": "a-salvacao-dos-justos",
+   "titulo": "A salvação dos justos vem do Senhor",
+   "versiculos": [
+    39,
+    40
+   ],
+   "resumo": "A tribulação morde, mas não devora; e a única razão da salvação é ter esperado em Deus.",
+   "itens": [
+    "cassiodoro-expps36-41",
+    "origenes-hps36-5-8",
+    "bernardo-quihab9-6"
+   ]
+  }
+ ]
+}
