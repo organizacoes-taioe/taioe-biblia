@@ -59,8 +59,8 @@
   {"v": 41, "t": "Eu sou o Senhor, vosso Deus, que vos tirei da terra do Egito para ser o vosso Deus. Eu sou o Senhor, vosso Deus."}
  ],
  "notas": [
-  {"id": "n01", "v": 4, "apos": "azeite", "texto": "Medidas antigas: o décimo era a décima parte de um efá, a medida dos grãos (uns dois litros de farinha), e o him, medida de líquidos, tinha uns quatro litros.", "origem": "nova: as medidas, que o leitor de hoje não conhece; valem para os vv. 4–10"},
-  {"id": "n02", "v": 30, "apos": "mão levantada", "texto": "Isto é, de propósito e às claras, em desafio ao Senhor: o contrário do pecado por inadvertência.", "origem": "revista do projeto antigo: tirei a explicação de língua («o modo hebraico de dizer»), ficou só o sentido"},
+  {"id": "n01", "v": 4, "apos": "azeite", "texto": "Medidas antigas: o décimo era a décima parte de um efá, a medida dos grãos (uns dois litros de farinha), e o him, medida de líquidos, tinha uns quatro litros.", "origem": "nova: as medidas, que o leitor de hoje não conhece; valem para os vv. 4–10", "revista": true},
+  {"id": "n02", "v": 30, "apos": "mão levantada", "texto": "Isto é, de propósito e às claras, em desafio ao Senhor: o contrário do pecado por inadvertência.", "origem": "revista do projeto antigo: tirei a explicação de língua («o modo hebraico de dizer»), ficou só o sentido", "revista": true},
   {"id": "n03", "v": 38, "apos": "vestes", "texto": "Os judeus usam essas franjas até hoje, nas pontas do manto de oração.", "origem": "revista do projeto antigo: ficou o costume; saíram a palavra hebraica e a ligação com a mulher que toca a franja do manto de Jesus, que os comentários dos Padres retomam"}
  ],
  "comentarios": {
@@ -235,38 +235,6 @@
   }
  },
  "revisao": {
-  "escolhas": [
-   {
-    "id": "sacrificios",
-    "ref": "Nm 15,3.8.10.13.14.25",
-    "titulo": "O vocabulário dos sacrifícios: o do Levítico ou o de Números?",
-    "contexto": "A tradução de partida diz as mesmas três palavras hebraicas de dois jeitos. O Levítico e o Êxodo dizem «oferta queimada» (*ishe*, 28 vezes), «sacrifício de comunhão» (*shelamim*, 24) e «aroma agradável» (*reah nihoah*, 20); Números diz «sacrifício pelo fogo» (15), «sacrifício pacífico» (17) e «odor suave» (18). É preciso escolher um vocabulário para a Bíblia inteira. «Odor», hoje, puxa para o cheiro ruim; «pacífico» não diz ao leitor que é o sacrifício em que se come junto, em comunhão com Deus.",
-    "opcoes": [
-     {"id": "a", "texto": "«oferta queimada», «sacrifício de comunhão», «aroma agradável», como no Levítico e no Êxodo", "nota": "A forma da maioria, mais clara para o leitor de hoje; Números muda ao entrar.", "recomendada": true},
-     {"id": "b", "texto": "«sacrifício pelo fogo», «sacrifício pacífico», «odor suave», como em Números", "nota": "O Levítico e o Êxodo mudariam ao entrar."}
-    ]
-   },
-   {
-    "id": "inadvertencia",
-    "ref": "Nm 15,22-29",
-    "titulo": "O pecado «por inadvertência» ou «por ignorância»?",
-    "contexto": "O hebraico *shegagá* é o erro sem querer: quem peca sem saber ou sem intenção. A tradução de partida diz «por ignorância» em Números (9 vezes), como a Vulgata (*per ignorantiam*), e «por inadvertência» no Levítico 4–5 (6 vezes). Os Padres comentam «os pecados de ignorância», mas nos comentários fica o texto que eles leram.",
-    "opcoes": [
-     {"id": "a", "texto": "«por inadvertência», como no Levítico", "nota": "Diz o erro sem intenção, que é o sentido do hebraico, e não só o não saber.", "recomendada": true},
-     {"id": "b", "texto": "«por ignorância», como estava, e no Levítico também"}
-    ]
-   },
-   {
-    "id": "mao-levantada",
-    "ref": "Nm 15,30",
-    "titulo": "«De mão levantada», com nota, ou «deliberadamente»?",
-    "contexto": "O hebraico diz *beyad ramá*, «de mão levantada»: o gesto de quem age às claras e em desafio. É a mesma expressão de Êx 14,8 e Nm 33,3 (Israel sai do Egito «de mão levantada»), e a tradução de partida a mantém nos três lugares. A Bíblia grega diz «com mão de soberba», e a Vulgata «por soberba», que os Padres comentam.",
-    "opcoes": [
-     {"id": "a", "texto": "«de mão levantada», com a nota curta «Isto é, de propósito e às claras, em desafio ao Senhor»", "nota": "Mantém a imagem do original e o eco com o Êxodo.", "recomendada": true},
-     {"id": "b", "texto": "«deliberadamente», sem nota"}
-    ]
-   }
-  ],
   "divisao": {"titulo": "Cinco trechos", "texto": "O projeto antigo tinha seis subtítulos (1–16, 17–21, 22–29, 30–31, 32–36, 37–41). Juntei o pecado por inadvertência (22–29) com o pecado deliberado (30–31) num trecho só, «O pecado por inadvertência e o pecado deliberado», porque é uma lei só, que se fecha no contraste entre os dois; os comentários dos Padres também os tratam juntos. Os outros ficaram.\n\nParágrafos: o carneiro (6), o novilho (8), a regra geral (11), o estrangeiro (14); a pessoa só (27) e o pecado de mão levantada (30); a sentença do Senhor (35); o sentido das franjas (39). Não há versos: o capítulo inteiro é prosa, e o Versificador não entra."},
   "registro": [
    {"id": "correcoes", "titulo": "O que corrigi direto pelo hebraico", "texto": "v. 2 «na terra onde habitareis, que eu vos dou» e v. 18 «para onde eu vos levo» (o hebraico está no presente; antes «vos hei de dar», «vos hei de levar»); v. 3 «para cumprir um voto» (antes «sacrifício votivo»); v. 19 «separareis uma oferta» (o mesmo verbo dos vv. 20 e 21); v. 24 «sem que a comunidade o percebesse» (o hebraico diz «longe dos olhos da comunidade»; antes «por ignorância da assembleia»); v. 31 «violou o seu mandamento» (antes «quebrou»); v. 34 «ainda não estava definido» (antes «declarado»); v. 35 «Esse homem deve morrer; toda a comunidade o apedrejará»; v. 38 «nas pontas das suas vestes» (são os quatro cantos do manto; antes «bordas»); v. 40 «Isso é para que vos lembreis» (o hebraico é final)."},

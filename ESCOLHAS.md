@@ -80,6 +80,9 @@ Vale para pessoas, povos e lugares, também nos comentários dos Padres.
 | *'ayin be'ayin* | olho no olho | diferente de «face a face» (*panim el panim*, Êx 33,11) e de «boca a boca» (Nm 12,8); Is 52,8 | Nm 14, aprovado |
 | *taf* / *banim* | os pequenos / os filhos | Nm 14,3.31 «os pequenos», 14,33 «os vossos filhos» | Nm 14, aprovado |
 | *'erek appayim verav-hesed* | lento para a ira e rico em misericórdia | como em Êx 34,6; «até a terceira e a quarta geração», sem crase | Nm 14,18, aprovado |
+| *'olá*, *zevah shelamim*, *reah nihoah* | oferta queimada, sacrifício de comunhão, aroma agradável | como no Levítico e no Êxodo; Números («sacrifício pelo fogo», «sacrifício pacífico», «odor suave») muda ao entrar | Nm 15, aprovado |
+| *bishgagá* | por inadvertência | o pecado sem intenção (Nm 15,22–29), como no Levítico; não «por ignorância» | Nm 15, aprovado |
+| *beyad ramá* | de mão levantada | com a nota curta «Isto é, de propósito e às claras, em desafio ao Senhor» (Nm 15,30); o eco com Êx 14,8 | Nm 15, aprovado |
 | *tsinná* | broquel | junto com *maguen* («escudo»), Sl 35,2; Sl 91,4 «escudo e couraça»: conferir ao entrar | Sl 35, aprovado |
 | *'ed hamas* | testemunha falsa | Dt 19,16; Êx 23,1 «dar falso testemunho»; Sl 35,11 | Sl 35, aprovado |
 | *psychḗ* | como *nefesh* (opção C): «alma» quando é o interior da pessoa; nos outros casos, pelo sentido | 2Cor 1,23 «Invoco a Deus por testemunha, pela minha vida» | 2Cor 1, aprovado |
