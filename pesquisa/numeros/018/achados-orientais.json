@@ -1,0 +1,172 @@
+[
+ {
+  "id": "didascalia-8-o-bispo-leva-os-pecados-do-povo",
+  "autor": "Didascália dos Apóstolos",
+  "autor_id": "didascalia",
+  "datas": "séc. III",
+  "titulo_autor": "ordem eclesiástica da Síria, conservada inteira só em siríaco",
+  "obra": "Didascália dos Apóstolos, cap. 8: o bispo não seja ávido dos bens da Igreja, que são o sustento dos pobres",
+  "passagem": "cap. 8 (Gibson, p. 44–45; ed. Funk, II, 25, 8–15)",
+  "edicao": "versão siríaca, ed. M. D. Gibson, The Didascalia Apostolorum in Syriac (Horae Semiticae I, Londres 1903; https://archive.org/details/didascaliaapost00gibsgoog) e P. de Lagarde (1854); aqui a tradução inglesa de M. D. Gibson, The Didascalia Apostolorum in English (Horae Semiticae II, Londres 1903), p. 44–45. As variantes do ms. S (Sangermanensis, o de Lagarde) vão entre parênteses, como Gibson faz no texto; a de «propitiator» («S. imitator») está na nota 2 da p. 44 e foi posta no lugar. A tradução segue o ms. S nos dois pontos, como o latim de F. X. Funk, Didascalia et Constitutiones Apostolorum I (Paderborn 1905), p. 96–98 («nam imitator Christi es… ita et vos peccata populi ferte»). Logo depois o texto cita Nm 18 inteiro (Gibson, p. 45–47).",
+  "versiculos": [
+   1
+  ],
+  "trecho": "1",
+  "lingua": "en",
+  "original": "For it is required of thee, Bishop, that thou care for all men as a faithful steward, for as thou carriest the weight of all those who are under thy hands, thus, and more than all men, thou shalt receive the glory of excellency from God; for thou art the propitiator (S. imitator) of the Christ; and as He has borne the sins of us all, thus it is required of thee that thou carry the sins of all those who are under thy hands. […] Therefore as ye have the example of the Christ, thus also be ye an example to the people that are under your hands, that as He hath taken our sins (S. so do ye also take the sins of the people). Do not imagine that the burden of the Bishopric is a light and easy one. Therefore as ye have received the burden of all men, thus also the fruits which ye draw from all the people, are yours for all things that are necessary to you. […] as it is written in the Book of Numbers, that God spake to Aaron and said, “Thou, and thy sons, and thy father’s house shall bear the sins of the holy things; and thou and thy sons shall bear the sins of the priesthood.”",
+  "fonte_url": "https://archive.org/details/didascaliaaposto00gibsuoft/page/n71/mode/1up",
+  "traducao_pt": "Pois é preciso, bispo, que cuides de todos como administrador fiel; porque, assim como carregas o peso de todos os que estão sob as tuas mãos, assim também receberás de Deus uma glória maior que a de todos. Tu és imitador de Cristo: assim como ele carregou os pecados de todos nós, assim é preciso que tu carregues os pecados de todos os que estão sob as tuas mãos. […] Portanto, como tendes o exemplo de Cristo, sede também vós um exemplo para o povo que está sob as vossas mãos: assim como ele tomou sobre si os nossos pecados, tomai também vós os pecados do povo. Não imagineis que o peso do episcopado seja leve e fácil. Assim como recebestes o peso de todos, assim também os frutos que recebeis de todo o povo são vossos, para tudo o que vos é necessário. […] Como está escrito no livro dos Números, Deus falou a Aarão e disse: «Tu, teus filhos e a casa de teu pai levareis os pecados das coisas santas; tu e teus filhos levareis os pecados do sacerdócio».",
+  "temas": [
+   "o pastor que carrega os pecados do povo",
+   "imitar Cristo, que levou os nossos pecados",
+   "o peso do episcopado"
+  ],
+  "resumo": "O bispo, imitador de Cristo, carrega os pecados de todos os que lhe foram confiados, como Aarão e os seus filhos levavam a culpa do santuário: o episcopado não é peso leve.",
+  "relevancia": 3,
+  "direitos": "domínio público (o original é a versão siríaca; aqui a tradução inglesa de Gibson, 1903)"
+ },
+ {
+  "id": "isaac-de-ninive-22-os-pensamentos-estranhos-fora-da-tenda",
+  "autor": "Santo Isaac de Nínive (Isaac, o Sírio)",
+  "autor_id": "isaac-de-ninive",
+  "datas": "séc. VII",
+  "titulo_autor": "bispo de Nínive, monge, mestre espiritual; escritor eclesiástico da Igreja do Oriente, venerado como santo no Oriente",
+  "obra": "Discursos ascéticos, 1ª parte, discurso 22: Sobre as muitas distinções na oração",
+  "passagem": "discurso 22 (Bedjan, p. 167–168)",
+  "edicao": "P. Bedjan (ed.), Mar Isaacus Ninivita, De perfectione religiosa (Paris 1909), p. 167–168, no texto do Digital Syriac Corpus (syriaccorpus.org/413; texto de base em domínio público, TEI CC BY 4.0). Conferido com a tradução inglesa de A. J. Wensinck, Mystic Treatises by Isaac of Nineveh (Amsterdã 1923), p. 113–114. «Para dentro do véu» (lgaw men appay tarʿā) são as palavras da Peshitta em Nm 18,7; os pensamentos «estranhos» (nukrāyē) e «estrangeiros» (gayyorē) são o estranho que não pode entrar na tenda do testemunho (Nm 18,2.4.7).",
+  "versiculos": [
+   2,
+   4,
+   7
+  ],
+  "trecho": "1",
+  "lingua": "syr",
+  "original": "ܨܠܘܿܬܼܵܐ ܐܝܼܬܹܝܗ̇: ܟܘܼܫܵܦܵܐ ܘܡܲܪܢܝܼܬܼܵܐ ܘܝܲܐܝܼܒܼܘܼܬܼܵܐ ܕܲܠܡܸܕܸܡ: ܐܵܘ ܓܗܵܝܬܼܵܐ ܕܡ̣ܢ ܒܝܼ̈ܫܵܬܼܵܐ ܕܲܬܼܢܵܢ ܐܵܘ ܕܲܓܿܬܼܵܐ ܕܡܘܼ̈ܠܟܵܢܹܐ: ܐܵܘ ܫܸܐܬܼܵܐ ܡܸܕܸܡ ܕܒܼܵܗ̇ ܡܸܬܼܥܲܕܲܪ ܒܲܪܢܵܫܵܐ ܠܘܵܬܼ ܐܲܠܵܗܵܐ. ܒܗܵܠܹܝܢ ܙܵܘ̈ܥܹܐ ܡܸܬܼܚܲܒܼܫܝܼܢ ܟܠܗܘܿܢ ܐܸܤܟܹܡܹ̈ܐ ܕܲܨܠܘܿܬܼܵܐ. ܕܲܟܼܝܼܘܼܬܼܵܗ̇ ܕܹܝܢ ܐܵܘ ܠܵܐ ܕܲܟܼܝܘܼܬܼܵܗ̇: ܐܝܼܬܹܝܗ̇ ܕܐܲܝܟܼ ܗܵܟܲܢܵܐ. ܐܸܡܲܬܼܝ ܗܵܟܹܝܠ ܕܲܒܼܥܸܕܵܢܹ̈ܐ ܗܵܠܹܝܢ ܕܲܡܙܲܡܸܢ ܪܸܥܝܵܢܵܐ ܠܲܡܕܲܒܵܚܘܼ ܚܲܕܼ ܡ̣ܢ ܙܵܘ̈ܥܵܘܗܝ ܗܠܹܝܢ ܕܲܤܕܲܪܢ: ܚܵܠܹ̇ܛ ܒܹܗ ܚܘܼܫܵܒܼܵܐ ܡܸܕܸܡ ܢܘܼܟܼܪܵܝܵܐ ܐܵܘ ܦܸܗܝܵܐ ܕܒܲܨܒܼܘܼ: ܡܸܬܼܩܲܪܝܵܐ ܠܵܐ ܕܟܼܝܼܬܼܵܐ. ܒܗܵܝ̇ ܕܡ̣ܢ ܚܲܝ̈ܘܵܬܼܵܐ ܗܵܢܹܝܢ ܕܠܵܐ ܡܲܦܲܣ ܐܲܤܸܩ̣ ܥܲܠ ܡܲܕܼܒܿܚܹܗ ܕܡܵܪܝܵܐ: ܕܐܝܼܬܼܵܘܗ ܠܸܒܵܐ ܩܵܝܑܸܡܬܼܵܐ ܡܸܬܼܝܲܕܼܥܵܢܝܼܬܼܵܐ. ܡܵܐ ܓܹܝܪ ܕܝܲܐܝܼܒܼܵܐܝܼܬܼ ܥܲܠܝܼܠ ܪܸܥܢܵܝܵܐ ܒܚܲܕܼ ܡ̣ܢ ܗܵܠܹܝܢ ܙܵܘ̈ܥܹܐ ܠܦܘܼܬܼ ܐܵܠܨܘܼܬܼܵܗ̇ ܕܥܸܠܬܼܵܐ ܒܥܸܕܵܢܵܐ ܕܬܲܚܢܲܢܬܼܵܐ: ܘܡܸܛܠ ܤܘܼܘܵܚܵܐ ܤܲܓܝܼܐܵܐ ܢܓܝܸܕܼ ܚܝܵܪܵܐ ܕܙܵܘܥܹܗ ܒܥܲܝܢܵܐ ܕܗܲܝܡܵܢܘܼܬܼܵܐ ܠܓܼܵܘ ܡ̣ܢ ܐܲܦܲܝ̈ ܬܲܪܥܵܐ ܕܠܸܒܵܐ: ܒܝܲܕܼ ܗܵܠܹܝܢ ܤܝܼܓܼܝܼܢ ܡܸܟܹܝܠ ܡܲܥ̈ܠܵܢܹܐ ܕܢܲܦܫܵܐ: ܩܕܼܵܡ ܚܘܼ̈ܫܵܒܹܐ ܢܘܼܟܼܪܵܝܹܐ ܗܵܢܘܿܢ ܕܡܸܬܼܩܪܹܝܢ ܓܝܼܘܿܪܹ݁ܐ: ܕܠܵܐ ܤܲܦܲܣ ܠܗܘܿܢ ܡ̣ܢ ܢܵܡܘܿܤܵܐ ܠܡܸܥܲܠ ܠܓܼܵܘ ܡ̣ܢ ܡܲܫܟܿܢܵܐ ܕܤܵܗܕܘܼܬܼܵܐ. ܘܲܠܗܵܕܹܐ ܡܫܲܡܗܝܼܢ ܕܸܒܼܚܬܼܵܐ ܡܩܲܒܲܠܬܼܵܐ ܕܠܸܒܵܐ: ܘܲܨܠܘܼܬܼܵܐ ܕܟܼܝܼܬܼܵܐ.",
+  "fonte_url": "https://syriaccorpus.org/413",
+  "traducao_pt": "A oração é súplica, cuidado e desejo de alguma coisa: o livramento dos males daqui, o desejo das coisas prometidas ou o pedido de algo que ajude o homem a chegar a Deus. Nestes movimentos estão contidas todas as formas de oração. Que ela seja pura ou não pura depende disto: quando, no momento em que a mente se prepara para oferecer em sacrifício um destes movimentos que enumeramos, se mistura a ele algum pensamento estranho ou alguma distração, a oração se chama não pura, porque ela fez subir ao altar do Senhor, que é o coração reto e espiritual, um destes animais que não são permitidos. Mas quando a mente entra com desejo num destes movimentos, conforme a necessidade do momento, na hora da súplica, e o grande anseio atrai o olhar desse movimento, com o olho da fé, para dentro do véu do coração, então se fecham as entradas da alma diante dos pensamentos estranhos, que são chamados «estrangeiros», aos quais a Lei não permite entrar na tenda do testemunho. É a isto que se chama sacrifício aceito do coração e oração pura.",
+  "temas": [
+   "o estranho que não se aproxima",
+   "o coração como santuário",
+   "a oração pura e as distrações"
+  ],
+  "resumo": "Os pensamentos estranhos são os «estrangeiros» que a Lei não deixa entrar na tenda do testemunho: na oração pura, a fé leva a mente para dentro do véu do coração, e as portas da alma se fecham a eles.",
+  "relevancia": 3,
+  "direitos": "domínio público (texto de Bedjan, 1909; transcrição do Digital Syriac Corpus, CC BY 4.0)"
+ },
+ {
+  "id": "didascalia-9-as-viuvas-e-os-orfaos-figura-do-altar",
+  "autor": "Didascália dos Apóstolos",
+  "autor_id": "didascalia",
+  "datas": "séc. III",
+  "titulo_autor": "ordem eclesiástica da Síria; aqui na antiga versão latina (palimpsesto de Verona)",
+  "obra": "Didascália dos Apóstolos, cap. 9: exortação ao povo a levar as suas ofertas ao bispo e a honrá-lo",
+  "passagem": "cap. 9 (ed. Funk, II, 26, 1–4.8; 27, 1–4; Gibson, p. 47–48)",
+  "edicao": "antiga versão latina (palimpsesto de Verona, séc. V; ed. E. Hauler, 1900), no texto crítico de F. X. Funk, Didascalia et Constitutiones Apostolorum I (Paderborn 1905), p. 102–106; nesses parágrafos Funk corrige o latim pelo siríaco (S) e pelas Constituições Apostólicas (C): ⟨ ⟩ marca o que ele acrescentou, [ ] o que suprimiu; «alienigenam» vem de S e C (o latim tem «eum»). Tradução inglesa do siríaco: Gibson (1903), p. 47–48.",
+  "versiculos": [
+   7,
+   8,
+   11,
+   12,
+   21
+  ],
+  "trecho": "2",
+  "lingua": "la",
+  "original": "Quae primum dicta sunt, tu nunc audi: delibationes et decimae ⟨et⟩ primitiae sunt principi sacerdotum Christo et ministris eius […]. […] quae tunc erant sacrificia, modo sunt orationes et precationes et gratiarum actiones; quae tunc fuerunt primitiae et decimae et delibationes et dona, nunc sunt prosphorae, quae per episcopos offeruntur Domino Deo in remissionem peccatorum. Isti enim primi sacerdotes vestri; qui tunc erant ⟨sacerdotes et⟩ levitae, modo sunt diaconi, presbyteri, viduae et orphani. […] Viduae et orphani in typum altaris putentur autem a vobis. Sicuti ergo non licebat alienigenam, qui non erat levita, offerre aliquid aut accedere ad altare sine sacerdote, ita et vos sine episcopo nolite aliquid facere. […] Prosphoras ergo vestras sacerdoti offerte, sive per vos ipsos sive per diaconos, qui[que] suscipiet et, ut decet, dividet unicuique. Episcopus enim optime novit eos, qui tribulantur, et unicuique dat secundum dispensationem.",
+  "fonte_url": "https://archive.org/details/cu31924029335167/page/n167/mode/1up",
+  "traducao_pt": "O que foi dito antes, ouve-o agora: as ofertas, os dízimos e as primícias são de Cristo, o príncipe dos sacerdotes, e dos seus ministros. […] O que então eram sacrifícios agora são orações, súplicas e ações de graças; o que então eram primícias, dízimos, ofertas e dons agora são as oblações que, pelas mãos dos bispos, se oferecem ao Senhor Deus para a remissão dos pecados. Estes são os vossos sumos sacerdotes; e os que então eram sacerdotes e levitas agora são os diáconos, os presbíteros, as viúvas e os órfãos. […] As viúvas e os órfãos, tende-os por figura do altar. Assim como ao estranho, que não era levita, não era permitido oferecer coisa alguma nem se aproximar do altar sem o sacerdote, assim também vós não façais nada sem o bispo. […] Levai, pois, as vossas oblações ao sacerdote, vós mesmos ou pelos diáconos; ele as receberá e as repartirá a cada um como convém. Porque o bispo conhece muito bem os que estão em aflição e dá a cada um o que lhe cabe.",
+  "temas": [
+   "as primícias e os dízimos na Igreja",
+   "os pobres, altar de Deus",
+   "ninguém se aproxima por conta própria"
+  ],
+  "resumo": "O que eram primícias e dízimos são agora as oblações levadas ao bispo; os que viviam delas, sacerdotes e levitas, são agora o clero, as viúvas e os órfãos, que são o altar; e, como o estranho não se aproximava do altar, nada se faz sem o bispo.",
+  "relevancia": 2,
+  "direitos": "domínio público (versão latina antiga, ed. Funk 1905)"
+ },
+ {
+  "id": "didascalia-8-os-levitas-sem-terra-e-os-bispos",
+  "autor": "Didascália dos Apóstolos",
+  "autor_id": "didascalia",
+  "datas": "séc. III",
+  "titulo_autor": "ordem eclesiástica da Síria, conservada inteira só em siríaco",
+  "obra": "Didascália dos Apóstolos, cap. 8: o bispo não seja ávido dos bens da Igreja, que são o sustento dos pobres",
+  "passagem": "cap. 8 (Gibson, p. 43–44; ed. Funk, II, 25, 4–7)",
+  "edicao": "versão siríaca, ed. M. D. Gibson, The Didascalia Apostolorum in Syriac (Horae Semiticae I, Londres 1903; https://archive.org/details/didascaliaapost00gibsgoog) e P. de Lagarde (1854); aqui a tradução inglesa de M. D. Gibson, The Didascalia Apostolorum in English (Horae Semiticae II, Londres 1903), p. 43–44. A variante do ms. S na nota 1 da p. 44 («S. offerings») foi posta entre parênteses no lugar de «inheritance»; a tradução a segue, como o latim de Funk (1905), p. 94–96: «collationes populi erant sors Levi», que Funk liga a Nm 18,20.",
+  "versiculos": [
+   11,
+   19,
+   20,
+   21,
+   23,
+   24
+  ],
+  "trecho": "3",
+  "lingua": "en",
+  "original": "For it is required of you Bishops that ye be provided for out of the income of the Church, but not that ye swallow it up; for it is written, “Thou shalt not muzzle the ox that grinds.” Thus therefore as the ox that works in the threshing-floor without a muzzle eats food, but does not consume it all, thus also ye who labour in the threshing-floor, which is the Church of God, provide for yourselves from the Church, like the Levites who served in the Tabernacle of witness, which was the type of the Church, as its very name tells, for the Tabernacle of witness set forth the Church beforehand. Therefore the Levites who served in it were provided for without hindrance from the things that were given as the offerings of God by all the people, gifts, and oblations and firstfruits and tithes and sacrifices, and offerings and whole burnt-offerings, they and their wives and their sons and daughters, because their work was the service of the Tabernacle alone. Therefore they received no inheritance of land among the children of Israel, for the inheritance of Levi and of his tribe was the inheritance (S. offerings) of the people. Therefore ye also to-day, O Bishops, are priests to your people, and Levites who serve in the house of God, the Holy Catholic Church, those who remain continually before the Lord God.",
+  "fonte_url": "https://archive.org/details/didascaliaaposto00gibsuoft/page/n70/mode/1up",
+  "traducao_pt": "De vós, bispos, se pede que sejais sustentados pelas rendas da Igreja, mas não que as devoreis, porque está escrito: «Não amordaçarás o boi que debulha». Assim como o boi que trabalha na eira sem mordaça come, mas não consome tudo, assim também vós, que trabalhais na eira, que é a Igreja de Deus, sustentai-vos da Igreja, como os levitas que serviam na tenda do testemunho, que era figura da Igreja, como o próprio nome diz, porque a tenda do testemunho anunciava de antemão a Igreja. Os levitas que nela serviam eram sustentados sem embaraço por aquilo que todo o povo dava como oferta a Deus (dons, oblações, primícias, dízimos, sacrifícios, ofertas e holocaustos), eles, as mulheres, os filhos e as filhas, porque o trabalho deles era só o serviço da tenda. Por isso não receberam herança de terra entre os filhos de Israel, porque a herança de Levi e da sua tribo eram as ofertas do povo. Assim também vós, bispos, sois hoje para o vosso povo os sacerdotes e os levitas que servem na casa de Deus, a santa Igreja católica, e que permanecem continuamente diante do Senhor Deus.",
+  "temas": [
+   "os levitas sem herança de terra",
+   "o sustento dos ministros da Igreja",
+   "viver do altar sem devorá-lo"
+  ],
+  "resumo": "Como os levitas, que não tinham terra e viviam das ofertas do povo porque só serviam a tenda, os bispos vivem da Igreja; mas, como o boi que debulha, comem sem devorar tudo, e repartem com os pobres.",
+  "relevancia": 3,
+  "direitos": "domínio público (o original é a versão siríaca; aqui a tradução inglesa de Gibson, 1903)"
+ },
+ {
+  "id": "efrem-in-num-18-o-dizimo-sobe-ate-deus",
+  "autor": "Santo Efrém, o Sírio (atribuído)",
+  "autor_id": "efrem",
+  "datas": "c. 306–373",
+  "titulo_autor": "diácono de Edessa, Doutor da Igreja; obra de atribuição incerta",
+  "obra": "Explicação do livro dos Números (In Numeros explanatio), de cadeias siríacas",
+  "passagem": "In Num., cap. XVIII (Nm 18,12–30)",
+  "edicao": "J. S. Assemani (ed.), Ephraem Syri Opera omnia syriace et latine, t. I (Roma 1737), p. 261 E–F; tradução latina da edição (o siríaco está ao lado, legível só na imagem; a última frase diz lá: «o povo dava o dízimo aos levitas, os levitas davam o dízimo a Aarão, e Aarão dava o dízimo a Deus»; ver textos/efrem-in-numeros-18.md). Texto conferido na imagem da página.",
+  "versiculos": [
+   12,
+   26,
+   28,
+   30
+  ],
+  "trecho": "4",
+  "lingua": "la",
+  "original": "Omnem pinguedinem frumenti, & vini, quae pro primitiis illi offerent Domino, tradidi tibi […]; quumque secreveritis pinguedinem partis ab illa, reputabitur Levitis sicut proventus areae, & proventus torcularis. His legibus Levitis traditae sunt decimae omnium bonorum & proventuum. Populus itaque Levitis decimas pendebat, Levitae Aaroni, & Aaron Deo.",
+  "fonte_url": "https://archive.org/details/assemani-et-alii-1732-1746-ephraem-syri-opera-omnia-syr-1/page/n281/mode/1up",
+  "traducao_pt": "«Todo o melhor do trigo e do vinho que oferecerem ao Senhor como primícias eu o dei a ti […]; e, quando tiverdes separado dele a melhor parte, ela será contada aos levitas como o produto da eira e o produto do lagar.» Com estas leis foram entregues aos levitas os dízimos de todos os bens e de todas as colheitas. Assim, o povo pagava o dízimo aos levitas, os levitas a Aarão, e Aarão a Deus.",
+  "temas": [
+   "o dízimo do dízimo",
+   "quem recebe também oferece"
+  ],
+  "resumo": "O dízimo sobe por degraus: o povo o dá aos levitas, os levitas a Aarão, e Aarão a Deus; ninguém fica só recebendo.",
+  "relevancia": 2,
+  "direitos": "domínio público (o original é siríaco; aqui a tradução latina da ed. romana, 1737)"
+ },
+ {
+  "id": "lambron-instituicoes-servir-sem-distracao",
+  "autor": "São Nerses de Lambron",
+  "autor_id": "lambron",
+  "datas": "1153–1198",
+  "titulo_autor": "arcebispo de Tarso, na Cilícia armênia",
+  "obra": "Reflexões sobre as instituições da Igreja e a explicação dos mistérios da Missa",
+  "passagem": "o capítulo sobre por que os bispos residem nas cidades e não nos mosteiros",
+  "edicao": "texto armênio da edição do séc. XIX, como publicado na Biblioteca Digital Armênia (digilib.aua.am). O texto digital traz erros de digitação (անվաեյլուչ, եւսմա հարակւոր, խաղարարարք, ըրպէս, իւոյ, por անվայելուչ, եւ սմա հարկաւոր, խաղաղարարք, որպէս, իւրոյ), deixados como estão; a tradução segue a forma correta. A citação «Ո՞ արածիցէ» é 1Cor 9,7; as seguintes, 1Cor 9,14 e Lc 10,7 (Mt 10,10).",
+  "versiculos": [
+   21,
+   24,
+   31
+  ],
+  "trecho": "4",
+  "lingua": "hy",
+  "original": "Արդ պարտ է գիտել՝ թէ անվաեյլուչ է եւ ամենեւին անիրաւութիւն առ օրէնսն եպիսկոպոսաց որք վիճակեցան յաթոռս քաղաքաց, արտաքոյ նոցին լինել, կամ վանորէից զաշխարհն ծառայեցուցանել. այլ նստել ՚ի քաղաքաց եւ յաւանաց եկեղեցիս, եւ հոգալ զհոգւոց նոցա գործն, զոր օրինակ մարմնական իշխանն զմարմնոց. […] այսպէս եւսմա հարակւոր է ամենեցուն պտղաբեր լինել յեկեղեցին. զի հպատակելով պաշտօնէիցն՝ միշտ անզբաղ յաստուածակոյս կողմանն լինիցին սոքին խաղարարարք. ըրպէս եւ տայ վասն այսորիկ մեզ տարացոյց օրէնքն Աստուծոյ ՚ի ձեռն Մովսէսի. զի ղեւտացոցն ոչ ետ Աստուած ժառանգութիւն մարմնական, բայց ՚ի տասանորդաց ժողովրդեանն՝ առ ՚ի ծառայելոյ զնոսա առանց զբաղանաց։ Եւ առաքելական կամքն ՚ի բազում տեղիս. «Ո՞ արածիցէ, ասէ, եւ տէր հրաման ետ որոց զաւետարանն աւետարանեն՝ յաւետարանէ անտի կեալ ». նոյն դարձեալ՝ եւ արժանի դատեցաւ մշակն կերակրոյ իւոյ։",
+  "fonte_url": "https://digilib.aua.am/book/1483/1787/15030/",
+  "traducao_pt": "É preciso saber que é inconveniente e de todo injusto, segundo as leis, que os bispos a quem couberam as sés das cidades vivam fora delas, ou que ponham o mundo a serviço dos mosteiros; devem residir nas igrejas das cidades e das vilas e cuidar das almas, como o príncipe temporal cuida dos corpos. […] Assim também, para o bispo, é necessário que todos deem fruto à Igreja, para que, com o povo sujeito aos seus ministros, estes pacificadores fiquem sempre livres para as coisas de Deus. A lei de Deus dada por Moisés nos oferece o exemplo disso: aos levitas Deus não deu herança material, mas os dízimos do povo, para que servissem sem distração. E a vontade dos apóstolos o diz em muitos lugares: «Quem apascenta o rebanho…», diz o Apóstolo, «e o Senhor mandou que os que anunciam o Evangelho vivam do Evangelho»; e ainda: o operário foi julgado digno do seu alimento.",
+  "temas": [
+   "o salário pelo serviço",
+   "servir a Deus sem distração"
+  ],
+  "resumo": "Os levitas não tiveram herança de terra, mas os dízimos do povo, para servirem sem distração; assim o povo sustenta os seus pastores, e o operário é digno do seu alimento.",
+  "relevancia": 2,
+  "direitos": "domínio público"
+ }
+]
