@@ -33,8 +33,11 @@ node ferramentas/importar.mjs <livro> <capítulo>      # ex.: salmos 34
 - O que tiver solução menos óbvia vira **escolha** em `revisao.escolhas`: título, referência,
   contexto curto (o que diz o original, como está no resto, o que os Padres leem), duas ou três
   opções, **uma** recomendada. O texto do site já leva a recomendada; se o Gere escolher outra, troca-se.
-- A escolha que vale para a Bíblia inteira entra também em `revisao.registro`; aprovada, vai
-  para `ESCOLHAS.md`.
+- **Uma decisão por escolha** (o Gere, 24/10: «me mostre apenas questões pontuais, para eu decidir
+  uma única coisa em cada pendência»): uma pergunta só, que ele responda escolhendo uma opção.
+- O que vale para a Bíblia inteira e tem alternativa de verdade vira escolha; o resto (correções
+  pelo original, termos já fixados, nomes) vai direto para `ESCOLHAS.md` e para a mensagem do
+  commit, sem passar por ele. Não existe mais `revisao.registro` (o `revisao.mjs` recusa).
 
 ## 3. Os versos pelo Versificador
 
@@ -58,8 +61,8 @@ node ferramentas/versos.mjs --verso "..."                       # testar uma nov
   costuma deixar o verso ralo, e tudo bem).
 - Não há metro fixo nem rima: a poesia bíblica é verso livre. O que se busca é a cadência, sem
   vãos longos e sem filas de tônicas. Nunca mesóclise.
-- Registrar em `revisao.divisao` (ou numa escolha, se a mudança for de sentido) o que se mudou por
-  causa do ritmo.
+- O que se mudou por causa do ritmo vai na mensagem do commit (numa escolha, se a mudança for de
+  sentido).
 
 ## 4. Notas para o leitor comum
 
@@ -91,8 +94,10 @@ Sl 33, de 20 notas ficaram 4.
 - Prosa: um subtítulo por trecho temático, como no projeto antigo; os comentários são por trecho.
 - Salmos com menos de uns 40 versículos: sem subtítulo, um trecho só; o botão dos comentários
   fica abaixo do título. Salmos grandes: trechos com subtítulo (como 78, 89, 105–107, 119).
-- Conferir os parágrafos e estrofes (`np`) com a NV e com o sentido; registrar em
-  `revisao.divisao` o que se manteve, o que mudou e por quê.
+- Conferir os parágrafos e estrofes (`np`) com a NV e com o sentido. A divisão é decisão nossa e
+  não vai à revisão do Gere (24/10: «confio nas suas escolhas agora que elas também se baseiam nos
+  comentários»); o que se manteve, o que mudou e por quê vai na mensagem do commit. Não existe mais
+  `revisao.divisao` (o `revisao.mjs` recusa).
 
 ## 6. Pesquisar os comentários (para cada trecho)
 
@@ -165,7 +170,7 @@ Sl 33, de 20 notas ficaram 4.
 ## 8. Gerar, conferir e mandar para a revisão do Gere
 
 O capítulo só termina com as pendências atualizadas (regra do Gere, 18/10): tudo o que segue,
-até `/admin/biblia/` mostrar o capítulo na produção, vai no mesmo trabalho, sem esperar pedido.
+até `/admin/pendencias/` mostrar o capítulo na produção, vai no mesmo trabalho, sem esperar pedido.
 E a página é atualizada limpa (regra do Gere, 18/10): antes do `revisao.mjs`, baixar as respostas
 (`bash ferramentas/respostas.sh exportar`) e aplicar tudo o que ele já respondeu, em qualquer
 capítulo, como na etapa 9, tirando do `revisao` cada item aplicado; só fica na página o que ainda
@@ -182,11 +187,12 @@ node ferramentas/revisao.mjs       # ../infra/dados/paginas/biblia.json e biblia
   workflow **Catálogo** (`taioe-infra`, `dados/paginas/biblia.sql` e `biblia-comentarios.sql`) no
   teste e na produção.
 - Ver no local (http://localhost:8777/biblia/…) e na prévia; publicar (push na `main` do taioe-biblia).
-- O Gere avalia em `/admin/biblia/` as escolhas de tradução, as notas, a divisão e o registro
-  (aprovar, alterar, excluir, com a explicação); cada resposta grava sozinha, no clique ou ao parar
-  de digitar. As páginas não levam texto explicativo nem pergunta geral (19/10).
+- O Gere avalia em `/admin/pendencias/`, tipo «Bíblia: tradução», só as perguntas pontuais: as
+  escolhas de tradução e as notas (aprovar, alterar, excluir, com a explicação); cada resposta grava
+  sozinha, no clique ou ao parar de digitar. Sem texto explicativo nem pergunta geral (19/10). A
+  página põe no fim da fila o que ele já respondeu e o Claude ainda não aplicou (24/10).
 - **Os comentários dos Padres** entram direto no site (17/10), e desde 19/10 ele os revisa à parte,
-  em `/admin/biblia-comentarios/`, para não misturar com o que é prioritário: cada título de tema e
+  no tipo «Bíblia: comentários dos Padres», para não misturar com o que é prioritário: cada título de tema e
   cada texto (`resumo`) de tema (aprovar ou editar), cada comentário (aprovar, cortar ou excluir).
   O que ele aprova ganha `revisto` (no tema, a lista `["titulo", "resumo"]`; no comentário, `true`)
   e sai da página no próximo `revisao.mjs`.
@@ -203,14 +209,14 @@ bash ferramentas/respostas.sh marcar <arquivo> # depois de aplicar: marca como l
 
 - Aplicar cada resposta no `conteudo/`, gerar, conferir, publicar, marcar como lidas.
   Escolha respondida: sai de `revisao.escolhas`. Nota aprovada: `"revista": true` (fica no site e sai
-  da página, que guarda a letra do site); excluída: sai de `notas`. Divisão e registro respondidos: saem do `revisao`.
+  da página, que guarda a letra do site); excluída: sai de `notas`.
 - Toda explicação do Gere que ensine algo para os próximos capítulos vai, resumida, para
   `revisao/aprendizado.md` (o que ele corrigiu, a regra que se tira disso). Escolhas aprovadas
   para a Bíblia inteira vão para `ESCOLHAS.md`.
 - Quando tudo estiver respondido e aplicado: `estado: "revisado"` e apagar o `revisao` do capítulo
   (o histórico fica no git); ele sai da página de revisão no próximo `revisao.mjs`.
 - Pedido de mudança num comentário, feito na conversa: aplicar direto no `conteudo/` e publicar.
-- Respostas dos comentários (`/admin/biblia-comentarios/`):
+- Respostas dos comentários (tipo «Bíblia: comentários dos Padres»):
   ```bash
   bash ferramentas/respostas.sh comentarios exportar                 # caminho do JSON
   node ferramentas/aplicar-comentarios.mjs <respostas.json>           # aplica e lista os cortes
@@ -220,7 +226,7 @@ bash ferramentas/respostas.sh marcar <arquivo> # depois de aplicar: marca como l
   depois) contra o original. Se o corte mudou o sentido ou deixou a frase manca, não corrigir por
   conta própria (pedido dele, 19/10): `node ferramentas/aplicar-comentarios.mjs --avisos <avisos.json>`
   com `[{"item": "<id c: do corte>", "aviso": "o que mudou", "sugestao": "o corte acertado, o mínimo"}]`.
-  O site passa a mostrar a sugestão, e o comentário volta a `/admin/biblia-comentarios/` com o corte
+  O site passa a mostrar a sugestão, e o comentário volta às pendências com o corte
   dele, o aviso e a sugestão, para ele aprovar a sugestão, manter o corte, editar ou excluir
   (`aviso_corte` no comentário; a resposta vem como `<cap>:ca<n>:…` e o mesmo script a aplica).
   Ele responde tudo um por um: a página não tem «aprovar todos» (19/10).

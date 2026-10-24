@@ -1,7 +1,8 @@
 // Monta as duas páginas de revisão do Gere (só o revisor geral):
-// - /admin/biblia/: os capítulos «em revisão» (escolhas de tradução, notas, divisão e o que entra
-//   no registro de escolhas da Bíblia inteira) e os estudos de palavra de revisao/estudos/*.json;
-// - /admin/biblia-comentarios/ (pedido dele, 19/10): os comentários dos Padres, à parte, para não
+// - biblia (em /admin/pendencias/, «Bíblia: tradução»): os capítulos «em revisão», só com perguntas
+//   pontuais (escolhas de tradução e notas; a divisão e o registro não vão mais a ele, pedido de
+//   24/10) e os estudos de palavra de revisao/estudos/*.json;
+// - biblia-comentarios («Bíblia: comentários dos Padres», pedido dele, 19/10): à parte, para não
 //   misturar com o que é prioritário. Cada título de tema, cada resumo de tema e cada comentário
 //   que ele ainda não aprovou (`revisto`); os comentários continuam no site enquanto isso.
 // Sem textos explicativos nas páginas (ele é o único leitor, 19/10).
@@ -17,7 +18,7 @@ import { fileURLToPath } from 'node:url';
 
 const RAIZ = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const C = path.join(RAIZ, 'conteudo');
-const PAGINAS = path.resolve(RAIZ, '..', 'infra', 'dados', 'paginas');
+const PAGINAS = process.env.PAGINAS || path.resolve(RAIZ, '..', 'infra', 'dados', 'paginas');
 const livros = JSON.parse(fs.readFileSync(path.join(C, 'livros.json'), 'utf8'));
 const letra = (i) => (i < 26 ? String.fromCharCode(97 + i) : letra(Math.floor(i / 26) - 1) + letra(i % 26));
 const grego = (n) => (n <= 8 || n >= 148 ? n : n <= 10 ? 9 : n <= 113 ? n - 1 : n <= 115 ? 113 : n === 116 ? '114–115' : n <= 146 ? n - 1 : '146–147');
@@ -51,15 +52,9 @@ for (const l of livros) {
       itens: notas.map((n) => ({ id: `${id}:nota:${n.id}`, tipo: 'nota', ref: `${abrev} ${c.cap},${n.v}`, letra: n.letra, versiculo: verso(n.v), texto: n.texto, origem: n.origem ? `Origem: ${n.origem}.` : '' })),
     });
 
-    if (rv.divisao) secoes.push({
-      id: 'divisao', titulo: 'Divisão do texto',
-      itens: [{ id: `${id}:divisao`, tipo: 'avaliacao', titulo: rv.divisao.titulo || 'Trechos e estrofes', texto: rv.divisao.texto }],
-    });
-
-    if (rv.registro && rv.registro.length) secoes.push({
-      id: 'registro', titulo: 'Para a Bíblia inteira',
-      itens: rv.registro.map((r) => ({ id: `${id}:registro:${r.id}`, tipo: 'avaliacao', titulo: r.titulo, texto: r.texto })),
-    });
+    // O Gere, 24/10: «me mostre apenas questões pontuais, para eu decidir uma única coisa em cada
+    // pendência». A divisão é decisão nossa e o registro vai direto para o ESCOLHAS.md.
+    if (rv.divisao || rv.registro) throw new Error(`${id}: revisao.divisao e revisao.registro não vão mais à revisão (CAPITULO.md, etapas 2 e 5)`);
 
     if (!secoes.length) continue;
     capitulos.push({ id, rotulo, url: `/biblia/${c.livro}/${c.cap}/`, estado: `${c.estado}, atualizado em ${c.atualizado.split('-').reverse().join('/')}`, secoes });
