@@ -1,8 +1,8 @@
 {
  "livro": "salmos",
  "cap": 36,
- "estado": "em revisão",
- "atualizado": "2026-10-20",
+ "estado": "revisado",
+ "atualizado": "2026-10-24",
  "trechos": [
   {"id": "1", "titulo": null, "de": 1}
  ],
@@ -23,7 +23,7 @@
  ],
  "notas": [
   {"id": "n01", "v": 9, "apos": "da tua casa", "texto": "A casa de Deus é o Templo de Jerusalém. Nos sacrifícios de comunhão, quem oferecia comia ali, com os seus, a carne da vítima, num banquete diante de Deus.", "origem": "nova (contexto: o banquete dos sacrifícios no Templo, que João Paulo II lembra na catequese de 22/08/2001)"},
-  {"id": "n02", "v": 10, "apos": "vemos a luz", "texto": "Com este versículo se comunga nas missas da primeira semana do Tempo Comum. O salmo inteiro abre as Laudes da quarta-feira da primeira semana, na Liturgia das Horas.", "origem": "nova (uso litúrgico: Missal Romano, antífona de comunhão; Liturgia das Horas)"}
+  {"id": "n02", "v": 10, "apos": "vemos a luz", "texto": "Com este versículo se comunga nas missas da primeira semana do Tempo Comum.", "origem": "nova (uso litúrgico: Missal Romano, antífona de comunhão; Liturgia das Horas)"}
  ],
  "comentarios": {
   "1": {
@@ -166,24 +166,5 @@
     }
    ]
   }
- },
- "revisao": {
-  "escolhas": [
-   {
-    "id": "v2-coracao",
-    "ref": "Sl 36,2",
-    "titulo": "«No fundo do seu coração» ou «do meu coração»?",
-    "contexto": "O texto hebraico tradicional diz «no fundo do meu coração»; alguns manuscritos hebraicos, a tradução siríaca e a de São Jerônimo a partir do hebraico leem «seu», e assim também a Bíblia grega («em si mesmo») e a Nova Vulgata («in medio cordis eius»). Com «meu», quem fala é o salmista, que guarda no coração uma palavra sobre o pecado do ímpio, e o verso fica obscuro em português. O verso começa com *ne'um*, a palavra dos oráculos dos profetas («oráculo do Senhor»): o pecado fala por dentro ao ímpio como um profeta. A tradução de partida: «A transgressão fala ao ímpio no fundo do seu coração».",
-    "opcoes": [
-     {"id": "a", "texto": "«A transgressão é oráculo para o ímpio / no fundo do seu coração»", "nota": "Lê «seu», com parte dos manuscritos hebraicos e as traduções antigas; o sentido fica claro.", "recomendada": true},
-     {"id": "b", "texto": "«Oráculo da transgressão ao ímpio / no fundo do meu coração»", "nota": "O texto hebraico tradicional, ao pé da letra: é o salmista que o ouve no coração."}
-    ]
-   }
-  ],
-  "divisao": {"titulo": "Um trecho só, três estrofes", "texto": "Salmo curto: um trecho só, sem subtítulo, com o título no v. 1, como na Nova Vulgata. As três estrofes do projeto antigo ficam: o ímpio (vv. 2–5), a misericórdia de Deus (vv. 6–10) e a súplica (vv. 11–13).\n\nNo texto, corrigi direto pelo hebraico, sem nota: v. 2, «é oráculo» (*ne'um*), em vez de «fala»; v. 3, «para não descobrir nem odiar a sua culpa» (o verbo é odiar); v. 5, «planta-se num caminho» (firmar-se de pé), em vez de «põe-se»; v. 6, «a tua misericórdia está nos céus», como diz o hebraico, e «até as nuvens», sem o «até aos/às» do uso europeu; v. 7, «os teus juízos, o grande abismo», sem o «como» que o hebraico não tem, e com a expressão de Gênesis 7,11 («as fontes do grande abismo»), e «Os homens e os animais, tu os salvas», em vez de «Aos homens e aos animais tu salvas»; v. 12, «o pé da soberba» e «a mão dos ímpios», como no hebraico (a tradução de partida tinha «do soberbo» e «do ímpio»), e «nem me expulse» (o verbo é fazer andar errante, expulsar), em vez de «nem me faça vacilar»; v. 13, «Ali caíram», em vez de «Eis que caíram».\n\nSaíram as três notas do projeto antigo: o «oráculo às avessas» do v. 2 (de língua; o texto agora diz «oráculo»), a mudança brusca do v. 6 (análise) e as «delícias» do v. 9, da mesma raiz de Éden (língua e associação).\n\nPelo Versificador: v. 3, «Porque ele se lisonjeia aos próprios olhos»; v. 7, «os montes de Deus» (os Padres comentam os «montes Dei»); v. 8, «Como é preciosa», em vez de «Quão preciosa»; v. 9, «Da fartura da tua casa eles se saciam». O v. 2 passou a três linhas. Ficam marcados, sem forma fiel melhor, os versos com «misericórdia», «fidelidade» e «das tuas delícias» (vv. 6, 8, 9 e 11)."},
-  "registro": [
-   {"id": "neum", "titulo": "*Ne'um* = «oráculo», também fora dos profetas", "texto": "Sl 36,2 «A transgressão é oráculo para o ímpio», como «oráculo do Senhor» nos profetas e no Sl 110,1. A tradução de partida dizia «fala» e explicava numa nota."},
-   {"id": "tehom-rabba", "titulo": "*Tehom rabbá* = «o grande abismo»", "texto": "Como em Gn 7,11, Is 51,10 e Am 7,4, que já estão assim na tradução de partida (Sl 36,7)."}
-  ]
  }
 }

@@ -39,7 +39,8 @@ Vale para pessoas, povos e lugares, também nos comentários dos Padres.
   filhos de Enac, Hori, Tânis, Abimelec (Nm 13 e Sl 34, aprovados); Jefoné, a comunidade (Nm 14);
   Paulo, Timóteo, Silvano, Corinto, Acaia (2Cor 1); Tito, Trôade, Satanás (2Cor 2). Ásia, Macedônia, Judeia, o mar Vermelho e Horma,
   que a liturgia não lê nesses capítulos, ficaram como no projeto antigo (aprovado). Os doze exploradores de Nm 13,4–15,
-  que a liturgia não lê, ficaram como no projeto antigo (aprovado).
+  que a liturgia não lê, ficaram como no projeto antigo (aprovado). Coré, Datã, Abiram, On, Isaar,
+  Caat, Felet e Eliab (Nm 16), que a liturgia não lê, ficaram como no projeto antigo (aprovado).
 
 ## Vocabulário
 
@@ -83,6 +84,15 @@ Vale para pessoas, povos e lugares, também nos comentários dos Padres.
 | *'olá*, *zevah shelamim*, *reah nihoah* | oferta queimada, sacrifício de comunhão, aroma agradável | como no Levítico e no Êxodo; Números («sacrifício pelo fogo», «sacrifício pacífico», «odor suave») muda ao entrar | Nm 15, aprovado |
 | *bishgagá* | por inadvertência | o pecado sem intenção (Nm 15,22–29), como no Levítico; não «por ignorância» | Nm 15, aprovado |
 | *beyad ramá* | de mão levantada | com a nota curta «Isto é, de propósito e às claras, em desafio ao Senhor» (Nm 15,30); o eco com Êx 14,8 | Nm 15, aprovado |
+| *ger* | o estrangeiro que mora (entre vós) | como no Levítico; Números dizia «que peregrina» | Nm 15, aprovado |
+| *tekhelet* | púrpura violeta | como no Êxodo; Números dizia «púrpura violácea» | Nm 15, aprovado |
+| *zaná* (a infidelidade a Deus) | prostituir-se | sem atenuar (Nm 15,39 «atrás dos quais vos prostituís»), como em Lv 17,7 e Êx 34,15 | Nm 15, aprovado |
+| *mishkan* | a Morada (do Senhor) | a tenda santa onde o Senhor habita; nunca «tabernáculo» (23 vezes em Números, 61 no Êxodo, a mudar) nem «santuário», que fica para *miqdash* | Nm 16,9, aprovado |
+| *mahtá* | turíbulo | «incensário» no Levítico (10,1; 16,12) e «incensórios» em 1Rs 7,50 mudam ao entrarem | Nm 16, aprovado |
+| *'edá* de um rebelde | o seu grupo | «Coré e o seu grupo» (Nm 16,5; 17,5) | Nm 16, aprovado |
+| *ne'um* | oráculo | também fora dos profetas: Sl 36,2 «A transgressão é oráculo para o ímpio» | Sl 36, aprovado |
+| *tehom rabbá* | o grande abismo | como em Gn 7,11, Is 51,10 e Am 7,4 | Sl 36, aprovado |
+| *re'e 'emuná* | alimenta-te da fidelidade | Sl 37,3, como a Nova Vulgata (*pascere fide*) | Sl 37, aprovado |
 | *tsinná* | broquel | junto com *maguen* («escudo»), Sl 35,2; Sl 91,4 «escudo e couraça»: conferir ao entrar | Sl 35, aprovado |
 | *'ed hamas* | testemunha falsa | Dt 19,16; Êx 23,1 «dar falso testemunho»; Sl 35,11 | Sl 35, aprovado |
 | *psychḗ* | como *nefesh* (opção C): «alma» quando é o interior da pessoa; nos outros casos, pelo sentido | 2Cor 1,23 «Invoco a Deus por testemunha, pela minha vida» | 2Cor 1, aprovado |
@@ -91,6 +101,9 @@ Vale para pessoas, povos e lugares, também nos comentários dos Padres.
 | *hikanós* | capaz | 2Cor 2,16 «E quem é capaz disto?», que 3,5–6 retoma («capazes… a nossa capacidade»); nunca «idôneo» | 2Cor 2, aprovado |
 | *kapēleúō* | fazer comércio | 2Cor 2,17 «fazem comércio da palavra de Deus»; não «negociar» | 2Cor 2, aprovado |
 | *epitimía* | punição | a imposta pela comunidade (2Cor 2,6); não «repreensão» | 2Cor 2, aprovado |
+| *palaiá diathḗkē* | a antiga aliança | 2Cor 3,14 «na leitura da antiga aliança», em contraste com a «nova aliança» do v. 6; não «Antigo Testamento» | 2Cor 3, aprovado |
+| *katoptrízomai* | contemplar como num espelho | 2Cor 3,18 «contemplando como num espelho a glória do Senhor»; não «refletindo» | 2Cor 3, aprovado |
+| *diakonía*, *diákonos* | ministério, ministro | 2Cor 3,3–9; *parrēsía* = «franqueza» (3,12) | 2Cor 3, aprovado |
 
 ## Inconsistências conhecidas, para corrigir quando o capítulo entrar
 

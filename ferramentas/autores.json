@@ -126,5 +126,9 @@
  "Homilias atribuídas a São Macário, o Egípcio (Pseudo-Macário)": {"sobre": "monge anônimo da Síria (séc. IV–V)", "oriental": true, "usar": "Pseudo-Macário"},
  "Santa Elisabete da Trindade": {"sobre": "carmelita descalça de Dijon (1880–1906)", "oriental": false},
  "Santo Pambo": {"sobre": "abade de Nítria, Padre do deserto (†c. 373)", "oriental": true},
- "Santo Pambo (Apotegmas dos Padres do deserto)": {"sobre": "abade de Nítria, Padre do deserto (†c. 373)", "oriental": true, "usar": "Santo Pambo"}
+ "Santo Pambo (Apotegmas dos Padres do deserto)": {"sobre": "abade de Nítria, Padre do deserto (†c. 373)", "oriental": true, "usar": "Santo Pambo"},
+ "São Lourenço de Bríndisi": {"sobre": "presbítero capuchinho (1559–1619), Doutor da Igreja", "oriental": false},
+ "Sermão antigo atribuído a Santo Agostinho": {"sobre": "sermão do Apêndice dos sermões de Agostinho (séc. V–VI), de autor desconhecido", "oriental": false},
+ "Sermão antigo atribuído a Santo Agostinho (Apêndice)": {"sobre": "", "oriental": false, "usar": "Sermão antigo atribuído a Santo Agostinho"},
+ "São Cosme de Maiúma, o Melodista": {"sobre": "monge e bispo de Maiúma (c. 675–c. 752), hinógrafo da Igreja bizantina", "oriental": true}
 }

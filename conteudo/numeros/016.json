@@ -1,8 +1,8 @@
 {
  "livro": "numeros",
  "cap": 16,
- "estado": "em revisão",
- "atualizado": "2026-10-20",
+ "estado": "revisado",
+ "atualizado": "2026-10-24",
  "trechos": [
   {"id": "1", "titulo": "A revolta de Coré, Datã e Abiram", "de": 1},
   {"id": "2", "titulo": "Datã e Abiram recusam vir", "de": 12},
@@ -272,28 +272,5 @@
     }
    ]
   }
- },
- "revisao": {
-  "escolhas": [
-   {
-    "id": "morada",
-    "ref": "Nm 16,9",
-    "titulo": "*Mishkan*: «a Morada do Senhor», «o santuário» ou «o tabernáculo»?",
-    "contexto": "É a primeira vez que a palavra entra na Taioé, e ela volta mais de cem vezes no Êxodo, no Levítico e em Números. O hebraico *mishkan* vem do verbo «habitar»: é a tenda santa onde o Senhor mora no meio do povo (o mesmo verbo de Jo 1,14, «armou a sua tenda entre nós»). A tradução de partida não é uniforme: «a Morada» em Nm 1–4 (com nota: «Morada traduz *mishkan*, a tenda santa») e «o tabernáculo» no resto (23 vezes em Números, 61 no Êxodo). O lecionário da CNBB diz «o santuário» (Êx 40,16–38), mas «santuário» é também a tradução de *miqdash* e de *qodesh*, outras palavras, e as duas se confundiriam. «Tabernáculo» é a palavra tradicional (do latim *tabernaculum*), mas hoje lembra o sacrário.",
-    "opcoes": [
-     {"id": "a", "texto": "«o serviço da Morada do Senhor»", "nota": "Diz o que a palavra diz (a habitação de Deus) e não se confunde com *miqdash*; já é a forma de Nm 1–4.", "recomendada": true},
-     {"id": "b", "texto": "«o serviço do santuário do Senhor», como o lecionário", "nota": "A forma da liturgia, mas igual à de *miqdash* («santuário»)."},
-     {"id": "c", "texto": "«o serviço do tabernáculo do Senhor», como estava", "nota": "A forma tradicional, que hoje lembra o sacrário."}
-    ]
-   }
-  ],
-  "divisao": {"titulo": "Quatro trechos, como no projeto antigo", "texto": "Ficaram os quatro subtítulos do projeto antigo: «A revolta de Coré, Datã e Abiram» (1–11), «Datã e Abiram recusam vir» (12–15), «A prova dos turíbulos» (16–22) e «A terra engole os rebeldes» (23–35). A Nova Vulgata acaba o capítulo no v. 35, como o hebraico (na Vulgata antiga ia até o v. 50, que hoje é 17,15). Parágrafos: a resposta a Coré (8), a palavra do Senhor (20), o sinal que Moisés anuncia (28) e a terra que se abre (31). Não há versos: o capítulo é prosa, e o Versificador não entra."},
-  "registro": [
-   {"id": "correcoes", "titulo": "O que corrigi direto pelo hebraico", "texto": "v. 3 «Toda a comunidade é santa, todos eles, e o Senhor está no meio deles»; v. 5 «aquele que ele escolher, ele o fará aproximar-se de si» (estava «se aproximará dele»); v. 9 e v. 13 «É pouco…», as duas perguntas iguais do hebraico (estava «parece-vos pouco», «parece-te pouco»); v. 11 «É contra o Senhor que tu e todo o teu grupo vos reunistes!»; v. 21 «e eu os consumirei»; v. 26 «para não perecerdes por todos os pecados deles» (estava «para que não sejais envolvidos nos seus pecados», que é a Vulgata); v. 27 «os seus pequenos» (*taf*, como em Nm 14); v. 30 «se o Senhor criar uma coisa nova» (o hebraico usa o verbo de Gn 1,1, «criar»; estava «fizer»), e «desprezaram o Senhor», o mesmo verbo de Nm 14,11.23 (estava «ultrajaram»); v. 32 «as suas famílias» (estava «as suas casas»); «engolir» em todo o capítulo, como no Sl 106,17 da tradução de partida (estava «tragar»). Expressões iguais às dos capítulos anteriores: «caiu com o rosto em terra» (vv. 4 e 22, como Nm 14,5), «O Senhor falou a Moisés, dizendo» (v. 23)."},
-   {"id": "comunidade-chefes", "titulo": "«Comunidade», «assembleia», «chefes» e «grupo»", "texto": "Como ficou decidido no Nm 13: *'edá* = «comunidade» (vv. 3, 9, 19, 21, 22, 24, 26; estava «assembleia»), *qahal* = «assembleia» (vv. 3 e 33, «a assembleia do Senhor»), *nasi* = «chefe» (v. 2, «chefes da comunidade»; estava «príncipes da assembleia»). Quando a *'edá* é a de Coré (vv. 5, 6, 11, 16), ficou «o seu grupo», como na tradução de partida. «Homens de renome» (v. 2), como em Gn 6,4."},
-   {"id": "turibulo", "titulo": "*Mahtá* = «turíbulo»", "texto": "O objeto em que se queima o incenso: «turíbulo», como estava em Números e no Apocalipse, a palavra que se conhece da Missa. A tradução de partida diz «incensário» no Levítico (10,1; 16,12, Nadab e Abiú) e «incensórios» em 1Rs 7,50 e outros lugares: uniformizar ao entrarem."},
-   {"id": "notas-antigas", "titulo": "As notas do projeto antigo", "texto": "Saíram as quatro: eram interpretação (v. 3, «a verdade usada contra a ordem»; v. 13, «a memória inverteu-se»), eco de palavra (v. 7, o «basta») e associação com outro texto (v. 22, Abraão em Gn 18). Entrou uma só, nova, que lembra quem é Coré e que só os sacerdotes ofereciam o incenso."},
-   {"id": "nomes", "titulo": "Nomes", "texto": "Números 16 não é lido na Missa nem no Ofício das Leituras, e o lecionário não traz Coré, Datã, Abiram, On, Isaar, Caat nem Felet (Jd 11, Eclo 45,18 e Nm 26,9–11 também não são lidos). Ficaram as formas do projeto antigo, que são as das Bíblias católicas em português. Do lecionário: Rúben (Gn 37,21), Levi (Ml 3,3), Eliab (1Sm 16,6, outro Eliab, mas a mesma forma), Moisés e Aarão."}
-  ]
  }
 }

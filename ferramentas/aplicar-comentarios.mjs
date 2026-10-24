@@ -107,7 +107,7 @@ for (const c of caps.values()) {
   fs.writeFileSync(c.arquivo, JSON.stringify(c.dados));
   mudados.push(c.arquivo);
 }
-if (mudados.length) execFileSync('python', [path.join(RAIZ, 'ferramentas', 'formato.py'), ...mudados], { stdio: 'inherit' });
+if (mudados.length) execFileSync(process.platform === 'win32' ? 'python' : 'python3', [path.join(RAIZ, 'ferramentas', 'formato.py'), ...mudados], { stdio: 'inherit' });
 if (!AVISOS) fs.writeFileSync(arquivo.replace(/\.json$/, '') + '.aplicadas.json', JSON.stringify({ lidas: aplicadas }, null, 1));
 
 console.log(AVISOS ? `${aplicadas.length} aviso(s) de corte gravados em ${mudados.length} capítulo(s)` : `${aplicadas.length} de ${respostas.length} respostas aplicadas em ${mudados.length} capítulo(s)`);

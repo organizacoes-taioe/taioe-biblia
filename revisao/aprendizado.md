@@ -37,6 +37,12 @@ de onde veio. Ler antes de preparar um capítulo (`CAPITULO.md`, etapas 2 a 4).
 - Nem a «Nota do tradutor» das imprecações pode explicar o texto: «Essa nota já está fazendo uma
   explicação do texto, não quero isso.» Saiu a nota sobre os pedidos contra os inimigos. (Sl 35,4)
 - Sem nota para o amém na liturgia («Desnecessário»): o leitor já sabe. (2Cor 1,20)
+- Liturgia, sim, mas só a da Missa: «Liturgia das horas já acho específico demais». No Sl 36,10
+  ficou só a antífona de comunhão; saiu a frase das Laudes. (Sl 36)
+- Sem nota que repete o que o texto já diz: «Isso já está claro no texto» (2Cor 3,7, o rosto
+  radiante de Moisés, que o próprio versículo descreve). Nem nota para o que o leitor já sabe:
+  «Achei desnecessário» (2Cor 3,3, as tábuas de pedra). Ficaram o véu (v. 13) e a leitura de
+  Moisés na sinagoga (v. 15), costumes que o leitor não tem. (2Cor 3)
 
 ## Tradução
 
@@ -63,6 +69,9 @@ de onde veio. Ler antes de preparar um capítulo (`CAPITULO.md`, etapas 2 a 4).
   «olho no olho», «ter-me contra vós», «Contende, Senhor»). (18/10)
 - 2Cor 2: aprovou tudo como proposto, inclusive «na presença de Cristo» (2,10) e as notas de
   lugar (Trôade), de pessoa (Tito) e de costume (o triunfo romano). (18/10)
+- Sl 36, Sl 37, Nm 15, Nm 16 e 2Cor 3: todas as escolhas recomendadas aprovadas (*mishkan* =
+  «a Morada», *mahtá* = «turíbulo», «a antiga aliança», «contemplando como num espelho»,
+  «alimenta-te da fidelidade», «no fundo do seu coração»), e as divisões e os registros. (21 e 24/10)
 - Os versos passam pelo Versificador para soarem melhor, sem perder a fidelidade ao original
   (17/10; `CAPITULO.md`, etapa 3).
 
@@ -78,6 +87,12 @@ de onde veio. Ler antes de preparar um capítulo (`CAPITULO.md`, etapas 2 a 4).
 - Excerto que começa no meio do raciocínio fica brusco: «achei difícil de entender e de conectar com a
   cena, o começo ficou brusco». Começar pela frase que situa o leitor (a fala do texto que o Padre
   comenta). Cirilo sobre Nm 12,2 ganhou a fala de Maria e Aarão, em vez de sair. (Nm 12, 20/10)
+
+- O comentário tem de ajudar a entender o trecho, sozinho, fora da obra de onde veio. Excluídos em
+  Nm 12: Jerônimo, *Ep.* 129 («não ajudou na compreensão do trecho… parece fazer sentido apenas
+  dentro do contexto»), Ruperto («um pouco confuso»), Orígenes sobre a visão de Deus («muito
+  hipotético, e não ajuda na compreensão do texto») e Lápide («fraco»). Evitar a especulação e a
+  alegoria solta; preferir o que ilumina a cena. (Nm 12, 21 e 24/10)
 
 ## Poucos comentários, e diferentes (20/10/2026)
 

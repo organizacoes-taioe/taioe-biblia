@@ -1,8 +1,8 @@
 {
  "livro": "numeros",
  "cap": 15,
- "estado": "em revisão",
- "atualizado": "2026-10-20",
+ "estado": "revisado",
+ "atualizado": "2026-10-24",
  "trechos": [
   {"id": "1", "titulo": "As oblações e libações que acompanham os sacrifícios", "de": 1},
   {"id": "2", "titulo": "As primícias da massa", "de": 17},
@@ -59,8 +59,8 @@
   {"v": 41, "t": "Eu sou o Senhor, vosso Deus, que vos tirei da terra do Egito para ser o vosso Deus. Eu sou o Senhor, vosso Deus."}
  ],
  "notas": [
-  {"id": "n01", "v": 4, "apos": "azeite", "texto": "Medidas antigas: o décimo era a décima parte de um efá, a medida dos grãos (uns dois litros de farinha), e o him, medida de líquidos, tinha uns quatro litros.", "origem": "nova: as medidas, que o leitor de hoje não conhece; valem para os vv. 4–10", "revista": true},
-  {"id": "n02", "v": 30, "apos": "mão levantada", "texto": "Isto é, de propósito e às claras, em desafio ao Senhor: o contrário do pecado por inadvertência.", "origem": "revista do projeto antigo: tirei a explicação de língua («o modo hebraico de dizer»), ficou só o sentido", "revista": true},
+  {"id": "n01", "v": 4, "apos": "azeite", "texto": "Medidas antigas: o décimo era a décima parte de um efá, a medida dos grãos (uns dois litros de farinha), e o him, medida de líquidos, tinha uns quatro litros.", "origem": "nova: as medidas, que o leitor de hoje não conhece; valem para os vv. 4–10"},
+  {"id": "n02", "v": 30, "apos": "mão levantada", "texto": "Isto é, de propósito e às claras, em desafio ao Senhor: o contrário do pecado por inadvertência.", "origem": "revista do projeto antigo: tirei a explicação de língua («o modo hebraico de dizer»), ficou só o sentido"},
   {"id": "n03", "v": 38, "apos": "vestes", "texto": "Os judeus usam essas franjas até hoje, nas pontas do manto de oração.", "origem": "revista do projeto antigo: ficou o costume; saíram a palavra hebraica e a ligação com a mulher que toca a franja do manto de Jesus, que os comentários dos Padres retomam"}
  ],
  "comentarios": {
@@ -233,15 +233,5 @@
     }
    ]
   }
- },
- "revisao": {
-  "divisao": {"titulo": "Cinco trechos", "texto": "O projeto antigo tinha seis subtítulos (1–16, 17–21, 22–29, 30–31, 32–36, 37–41). Juntei o pecado por inadvertência (22–29) com o pecado deliberado (30–31) num trecho só, «O pecado por inadvertência e o pecado deliberado», porque é uma lei só, que se fecha no contraste entre os dois; os comentários dos Padres também os tratam juntos. Os outros ficaram.\n\nParágrafos: o carneiro (6), o novilho (8), a regra geral (11), o estrangeiro (14); a pessoa só (27) e o pecado de mão levantada (30); a sentença do Senhor (35); o sentido das franjas (39). Não há versos: o capítulo inteiro é prosa, e o Versificador não entra."},
-  "registro": [
-   {"id": "correcoes", "titulo": "O que corrigi direto pelo hebraico", "texto": "v. 2 «na terra onde habitareis, que eu vos dou» e v. 18 «para onde eu vos levo» (o hebraico está no presente; antes «vos hei de dar», «vos hei de levar»); v. 3 «para cumprir um voto» (antes «sacrifício votivo»); v. 19 «separareis uma oferta» (o mesmo verbo dos vv. 20 e 21); v. 24 «sem que a comunidade o percebesse» (o hebraico diz «longe dos olhos da comunidade»; antes «por ignorância da assembleia»); v. 31 «violou o seu mandamento» (antes «quebrou»); v. 34 «ainda não estava definido» (antes «declarado»); v. 35 «Esse homem deve morrer; toda a comunidade o apedrejará»; v. 38 «nas pontas das suas vestes» (são os quatro cantos do manto; antes «bordas»); v. 40 «Isso é para que vos lembreis» (o hebraico é final)."},
-   {"id": "comunidade", "titulo": "*'Edá* = «comunidade»; *qahal* = «assembleia»", "texto": "Como ficou aprovado no Nm 13 (`ESCOLHAS.md`): nos vv. 24–26 e 33–36, a *'edá* passou a «comunidade» (antes «assembleia»); no v. 15, *haqqahal* ficou «a assembleia»."},
-   {"id": "prostituis", "titulo": "v. 39: «atrás dos quais vos prostituís»", "texto": "O hebraico usa a imagem da prostituição para a infidelidade a Deus, e a tradução de partida a mantém em toda parte (Lv 17,7 «atrás dos quais se prostituem»; Êx 34,15; Dt 31,16), mas aqui a atenuava: «que vos levam à infidelidade». Voltei ao original, sem atenuar."},
-   {"id": "estrangeiro-violeta", "titulo": "«O estrangeiro que mora convosco» e «púrpura violeta»", "texto": "*Ger* = «o estrangeiro que mora» entre vós, como no Levítico (antes, em Números, «que peregrina»: o *ger* não está de passagem, mora no meio do povo). *Tekhelet* = «púrpura violeta», como no Êxodo (33 vezes); Números dizia «púrpura violácea»."},
-   {"id": "nomes", "titulo": "Nomes e liturgia", "texto": "Só aparecem Moisés, Aarão, Israel e o Egito, já fixados. «Arraial» fica, como no Nm 12,14-15 e no Nm 14."}
-  ]
  }
 }

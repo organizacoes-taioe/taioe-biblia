@@ -1,8 +1,8 @@
 {
  "livro": "salmos",
  "cap": 37,
- "estado": "em revisão",
- "atualizado": "2026-10-20",
+ "estado": "revisado",
+ "atualizado": "2026-10-24",
  "trechos": [
   {"id": "1", "titulo": null, "de": 1}
  ],
@@ -257,21 +257,5 @@
     }
    ]
   }
- },
- "revisao": {
-  "escolhas": [
-   {
-    "id": "v3-fidelidade",
-    "ref": "Sl 37,3",
-    "titulo": "«Alimenta-te da fidelidade», «cultiva a fidelidade» ou «vive em segurança»?",
-    "contexto": "O hebraico diz, ao pé da letra, «apascenta fidelidade» (*re'e 'emuná*): o verbo é o do pastor e do rebanho que pasta, e continua a imagem de «habita a terra». Pode ser «pasta (em) fidelidade», isto é, alimenta-te dela, ou «cuida da fidelidade», como o pastor cuida do rebanho. A Nova Vulgata diz «pascere fide» (alimenta-te da fidelidade); a Bíblia grega e a Vulgata antiga leem outra coisa («serás apascentado nas suas riquezas»), que os Padres comentam. A tradução de partida dizia «apascenta-te na fidelidade», que não soa natural. A *'emuná* é «fidelidade» em toda a Bíblia (`ESCOLHAS.md`).",
-    "opcoes": [
-     {"id": "a", "texto": "«habita a terra e alimenta-te da fidelidade»", "nota": "Guarda a imagem do pasto e a palavra «fidelidade»; é também a leitura da Nova Vulgata.", "recomendada": true},
-     {"id": "b", "texto": "«habita a terra e cultiva a fidelidade»", "nota": "Toma o verbo como «cuidar», o pastor que guarda o rebanho; mais claro, mas perde a imagem do pasto."},
-     {"id": "c", "texto": "«habita a terra e vive em segurança»", "nota": "Como várias traduções modernas: toma a *'emuná* como «segurança», o que foge da tradução fixa da palavra."}
-    ]
-   }
-  ],
-  "divisao": {"titulo": "Um trecho só, seis estrofes", "texto": "Salmo alfabético (cada letra hebraica abre dois versos, mais ou menos, ao longo dos 40 versículos), como o 34: um trecho só, sem subtítulo, com «De Davi» dentro do v. 1, como na Nova Vulgata. Ficam as seis estrofes do projeto antigo, pelo sentido: não te irrites e confia (vv. 1–7), o fim dos ímpios e a herança dos mansos (vv. 8–15), o pouco do justo (vv. 16–22), os passos do justo (vv. 23–29), a boca e a lei do justo (vv. 30–33), espera e verás (vv. 34–40). A Nova Vulgata marca as letras hebraicas (ALEPH, BETH…) no texto; como no Salmo 34, não as pus.\n\nNo texto, corrigi direto pelo hebraico, sem nota: v. 1, «dos que fazem a injustiça» (*'avlá*); v. 7, «com o homem que leva a cabo as suas tramas» (*mezimmot*, intrigas), em vez de «executa os seus planos»; v. 10, «olharás para o seu lugar, e ele já não estará» (o verbo é olhar com atenção; não há «achar»); v. 13, «O Senhor ri dele», em vez de «ri-se», e «vê que o seu dia vem chegando»; v. 16, «a abundância de muitos ímpios» («muitos» concorda com «ímpios»), em vez de «a grande riqueza dos ímpios»; v. 20, «se acabam: em fumaça se acabam»; v. 24, «o Senhor lhe sustenta a mão», como no hebraico; v. 25, «mendigando o pão», em vez de «a mendigar» (uso europeu); v. 30, «fala o que é justo» (*mishpat*), em vez de «o que é reto», para não confundir com os «retos» (*yesharim*) dos vv. 14 e 37; v. 33, «não o abandonará» (o mesmo verbo dos vv. 25 e 28) e «não o condenará, quando for julgado», como no hebraico, em vez de «nem permitirá que seja condenado no juízo»; v. 35, «o ímpio violento» (*'aris*), que se estende «como árvore frondosa em seu chão» (*ezrah ra'anan*, a árvore viçosa na sua terra), em vez de «arrogante» e «cedro», que vem da Bíblia grega e da Vulgata («cedros do Líbano»); v. 36, «Ele passou», como no hebraico, em vez de «passei», da Bíblia grega e da Nova Vulgata. Os Padres comentam o «passei» e os «cedros», e as citações nos comentários seguem o texto que eles leram.\n\nSaíram as quatro notas do projeto antigo: o acróstico (análise; o Salmo 34 também ficou sem ela), a terceira bem-aventurança no v. 11 (associação; os comentários do tema «Os mansos possuirão a terra» já o dizem), a dificuldade do hebraico do v. 20 (língua e variantes) e Jó diante do v. 25 (associação e análise). Entra uma nota nova, de liturgia, no v. 30.\n\nPelo Versificador: v. 2, «porque logo secarão como o feno»; v. 6, «Fará surgir como a luz a tua justiça»; v. 7, «não te irrites com quem prospera no seu caminho»; v. 18, «e a herança deles durará para sempre»; v. 23, «e ele se compraz no seu caminho»; v. 40, «porque nele buscaram refúgio». Ficam marcados, sem forma fiel melhor, os versos com «fidelidade», «exterminados», «abundância», «necessitado», «descendência», «posteridade» e «fortaleza» (vv. 3, 9, 11, 14, 20, 25, 26, 28, 38, 39)."}
  }
 }
