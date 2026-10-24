@@ -15,7 +15,7 @@ Ainda não anunciada: sem link no site, `noindex`, e um caminho em `/admin/`.
   - `importar.mjs <livro> <cap>`: traz o capítulo da tradução de partida (projeto `biblia`, fora daqui);
   - `conferir.mjs`: mesóclise, uso europeu, numeração, notas, comentários (o CI roda);
   - `gerar.mjs`: grava `public/biblia/` (o CI confere com `--conferir`);
-  - `revisao.mjs`: monta as páginas de revisão do Gere (`/admin/biblia/` e `/admin/biblia-comentarios/`,
+  - `revisao.mjs`: monta as páginas de revisão do Gere (`biblia` e `biblia-comentarios`, em `/admin/pendencias/`,
     conteúdo no `taioe-infra`);
   - `respostas.sh`: baixa as respostas dele e marca as aplicadas (workflow Respostas do `taioe-infra`);
   - `aplicar-comentarios.mjs`: aplica as respostas da página dos comentários e lista os cortes;

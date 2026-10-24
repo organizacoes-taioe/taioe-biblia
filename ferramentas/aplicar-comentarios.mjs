@@ -1,4 +1,4 @@
-// Aplica no conteudo/ as respostas do Gere na página dos comentários (/admin/biblia-comentarios/).
+// Aplica no conteudo/ as respostas do Gere na página dos comentários (em /admin/pendencias/, «Bíblia: comentários dos Padres»).
 //
 //   bash ferramentas/respostas.sh comentarios exportar      → caminho do JSON
 //   node ferramentas/aplicar-comentarios.mjs <respostas.json>

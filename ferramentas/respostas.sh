@@ -1,12 +1,12 @@
 #!/usr/bin/env bash
-# Respostas do Gere na revisão da Bíblia Taioé (/admin/biblia/), pelo workflow Respostas do
+# Respostas do Gere na revisão da Bíblia Taioé (/admin/pendencias/), pelo workflow Respostas do
 # taioe-infra (a senha do banco fica só no GitHub).
 #   bash ferramentas/respostas.sh exportar             → baixa da produção e imprime o caminho do JSON
 #   bash ferramentas/respostas.sh marcar <arquivo>     → marca como lidas as respostas do arquivo
 #                                                        (o mesmo JSON do exportar, ou só as aplicadas)
 #   bash ferramentas/respostas.sh teste exportar|marcar …  → o mesmo, no projeto de teste
 #   bash ferramentas/respostas.sh comentarios exportar|marcar …  → a página dos comentários
-#                                                        (/admin/biblia-comentarios/; marcar com o
+#                                                        («comentários dos Padres»; marcar com o
 #                                                        .aplicadas.json do aplicar-comentarios.mjs)
 set -euo pipefail
 AMBIENTE=producao
