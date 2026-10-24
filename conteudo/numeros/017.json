@@ -1,0 +1,70 @@
+{
+ "livro": "numeros",
+ "cap": 17,
+ "estado": "em revisão",
+ "atualizado": "2026-10-24",
+ "trechos": [
+  {"id": "1", "titulo": "As lâminas que revestem o altar", "de": 1},
+  {"id": "2", "titulo": "A murmuração e a praga", "de": 6},
+  {"id": "3", "titulo": "A vara de Aarão", "de": 16}
+ ],
+ "texto": [
+  {"s": "As lâminas que revestem o altar"},
+  {"v": 1, "t": "O Senhor falou a Moisés, dizendo:"},
+  {"v": 2, "t": "Dize a Eleazar, filho do sacerdote Aarão, que tire os turíbulos do meio do incêndio e espalhe o fogo para longe, porque eles são santos."},
+  {"v": 3, "t": "Os turíbulos destes homens, que pecaram à custa da própria vida, sejam transformados em lâminas batidas para revestir o altar, pois foram apresentados diante do Senhor e se tornaram santos: serão um sinal para os filhos de Israel."},
+  {"v": 4, "t": "O sacerdote Eleazar tomou os turíbulos de bronze que os que foram queimados tinham apresentado, e os bateram em lâminas para revestir o altar,"},
+  {"v": 5, "t": "como memorial para os filhos de Israel, a fim de que nenhum estranho, que não seja da descendência de Aarão, se aproxime para queimar incenso diante do Senhor, e não venha a ser como Coré e o seu grupo, conforme o Senhor lhe dissera por meio de Moisés."},
+  {"s": "A murmuração e a praga"},
+  {"v": 6, "t": "No dia seguinte, toda a comunidade dos filhos de Israel murmurou contra Moisés e Aarão, dizendo: Vós matastes o povo do Senhor!"},
+  {"v": 7, "t": "Quando a comunidade se reuniu contra Moisés e Aarão, eles se voltaram para a tenda do encontro, e eis que a nuvem a cobriu, e apareceu a glória do Senhor."},
+  {"v": 8, "t": "Moisés e Aarão foram para diante da tenda do encontro."},
+  {"v": 9, "t": "O Senhor falou a Moisés, dizendo:"},
+  {"v": 10, "t": "Retirai-vos do meio desta comunidade, e eu os consumirei num instante. Eles caíram com o rosto em terra."},
+  {"v": 11, "t": "Moisés disse a Aarão: Toma o turíbulo, põe nele fogo de cima do altar, coloca incenso e vai depressa à comunidade para fazer expiação por eles, porque a ira saiu de diante do Senhor: a praga começou.", "np": 1},
+  {"v": 12, "t": "Aarão o tomou, como Moisés dissera, e correu para o meio da assembleia; e eis que a praga já começara no povo. Ele pôs o incenso e fez expiação pelo povo."},
+  {"v": 13, "t": "Ficou de pé entre os mortos e os vivos, e a praga foi detida."},
+  {"v": 14, "t": "Os que morreram da praga foram catorze mil e setecentos, além dos que morreram por causa de Coré."},
+  {"v": 15, "t": "Aarão voltou a Moisés, à entrada da tenda do encontro, e a praga tinha sido detida."},
+  {"s": "A vara de Aarão"},
+  {"v": 16, "t": "O Senhor falou a Moisés, dizendo:"},
+  {"v": 17, "t": "Fala aos filhos de Israel e recebe deles uma vara por casa paterna, de todos os seus chefes, segundo as casas de seus pais: doze varas. Escreverás o nome de cada um na sua vara,"},
+  {"v": 18, "t": "e o nome de Aarão escreverás na vara de Levi, pois haverá uma vara para cada chefe das casas de seus pais."},
+  {"v": 19, "t": "Tu as porás na tenda do encontro, diante do testemunho, onde eu me encontro convosco."},
+  {"v": 20, "t": "A vara do homem que eu escolher florescerá; assim afastarei de mim as murmurações dos filhos de Israel, com que eles murmuram contra vós."},
+  {"v": 21, "t": "Moisés falou aos filhos de Israel, e todos os seus chefes lhe deram uma vara cada um, segundo as casas de seus pais: doze varas; e a vara de Aarão estava no meio das varas deles.", "np": 1},
+  {"v": 22, "t": "Moisés pôs as varas diante do Senhor, na tenda do testemunho."},
+  {"v": 23, "t": "No dia seguinte, Moisés entrou na tenda do testemunho, e eis que a vara de Aarão, da casa de Levi, tinha florescido: lançara brotos, abrira flores e dera amêndoas maduras."},
+  {"v": 24, "t": "Moisés tirou todas as varas de diante do Senhor e as levou a todos os filhos de Israel; eles as viram, e cada um tomou a sua vara."},
+  {"v": 25, "t": "O Senhor disse a Moisés: Torna a pôr a vara de Aarão diante do testemunho, para ser guardada como sinal para os rebeldes; assim afastarás de mim as suas murmurações, e eles não morrerão."},
+  {"v": 26, "t": "Moisés fez tudo como o Senhor lhe ordenara."},
+  {"v": 27, "t": "Os filhos de Israel disseram a Moisés: Estamos morrendo! Estamos perdidos, todos nós estamos perdidos!", "np": 1},
+  {"v": 28, "t": "Qualquer um que chegue perto da Morada do Senhor morre! Será que vamos todos morrer?"}
+ ],
+ "notas": [
+  {"id": "n01", "v": 1, "texto": "Em muitas Bíblias, os versículos 1 a 15 deste capítulo estão no fim do capítulo 16 (16,36-50), e os versículos 16 a 28 formam o capítulo 17 (17,1-13).", "origem": "revista do projeto antigo: ficou só a localização (ajuda o leitor que procura o trecho em outra Bíblia, como a nota de Nm 14,17), sem falar de numeração hebraica"},
+  {"id": "n02", "v": 19, "apos": "testemunho", "texto": "O testemunho são as tábuas da Lei, guardadas na arca da aliança, no lugar mais santo da tenda do encontro.", "origem": "nova: o leitor de hoje não sabe o que é «o testemunho», que volta nos vv. 22, 23 e 25"}
+ ],
+ "comentarios": {},
+ "revisao": {
+  "escolhas": [
+   {
+    "id": "custa-da-vida",
+    "ref": "Nm 17,3",
+    "titulo": "«Que pecaram à custa da própria vida» ou «contra a própria vida»?",
+    "contexto": "O hebraico diz *haḥattaʾim ha'elle benafshotam*, «estes pecadores, com as suas vidas». O *be-* é o do preço: pecaram e pagaram com a vida (a Bíblia grega e a Vulgata dizem «nas suas almas», e assim leem os Padres). *Nefesh* aqui é a vida, não o interior da pessoa (opção C do estudo). A tradução de partida dizia «que pecaram contra a sua própria vida», que também cabe no hebraico (como em Pr 20,2, «peca contra a própria vida»), mas põe o acento no mal que fizeram a si mesmos, e não na morte que sofreram.",
+    "opcoes": [
+     {"id": "a", "texto": "«destes homens, que pecaram à custa da própria vida»", "nota": "O sentido mais provável: o pecado lhes custou a vida (v. 35 do capítulo 16).", "recomendada": true},
+     {"id": "b", "texto": "«daqueles que pecaram contra a sua própria vida», como estava", "nota": "Também possível: o pecado foi contra eles mesmos."}
+    ]
+   }
+  ],
+  "divisao": {"titulo": "Três trechos (eram quatro)", "texto": "Ficaram três subtítulos do projeto antigo: «As lâminas que revestem o altar» (1–5), «A murmuração e a praga» (6–15) e «A vara de Aarão» (16–28). O quarto, «O temor do povo», tinha só os vv. 27–28: virou parágrafo dentro da vara de Aarão, porque é a reação do povo ao sinal (e o capítulo 18 responde à pergunta do v. 28). Parágrafos: Moisés manda Aarão com o turíbulo (11), as varas entregues (21) e o medo do povo (27). A Nova Vulgata segue o hebraico: o capítulo tem 28 versículos. Não há versos: é prosa, e o Versificador não entra."},
+  "registro": [
+   {"id": "correcoes", "titulo": "O que corrigi direto pelo hebraico", "texto": "v. 2 «porque eles são santos» fecha o versículo, como no hebraico, e o v. 3 começa nos turíbulos (antes a frase passava de um versículo ao outro); v. 3 «se tornaram santos» (o mesmo verbo do v. 2); v. 4 «e os bateram em lâminas» (o verbo de bater o metal; antes «deles fizeram lâminas»); v. 5 «conforme o Senhor lhe dissera» (a Eleazar; o «lhe» faltava) e «queimar incenso» (antes «oferecer»); v. 7 «Quando a comunidade se reuniu»; v. 10 «e eu os consumirei», como em Nm 16,21 (antes «a consumirei»); v. 11 «fogo de cima do altar» e «a praga começou»; v. 12 «Ele pôs o incenso», o verbo do hebraico (antes «ofereceu»); vv. 13 e 15 «a praga foi detida», o verbo de deter (antes «cessou»), o mesmo do Sl 106,30 (Fineias); v. 20 e v. 25 «afastarei de mim as murmurações», «afastarás de mim as suas murmurações» (o hebraico diz «de sobre mim» nos dois; antes «farei cessar diante de mim», «cessem diante de mim»); v. 23 «Moisés entrou na tenda» (antes «voltando Moisés») e «tinha florescido: lançara brotos, abrira flores e dera amêndoas maduras» (os quatro verbos do hebraico); v. 25 «como sinal para os rebeldes» (o hebraico diz «para os filhos da rebeldia»; antes «aos filhos rebeldes»); v. 27 «Estamos morrendo!» (antes «Eis que perecemos»); v. 28 «Qualquer um que chegue perto» (o hebraico repete «quem se aproxima, quem se aproxima»: qualquer um, por pouco que seja)."},
+   {"id": "vocabulario", "titulo": "«Comunidade», «assembleia», «chefes», «Morada» e «turíbulo»", "texto": "Como ficou aprovado no Nm 13: *'edá* = «comunidade» (vv. 6, 7, 10, 11; antes «assembleia»), *qahal* = «assembleia» (v. 12), *nasi* = «chefe» (vv. 17 e 21; antes «príncipes»). A *'edá* de Coré ficou «o seu grupo» (v. 5), como em Nm 16. *Mishkan* (v. 28) = «a Morada do Senhor» (antes «o tabernáculo»), segundo a escolha recomendada em Nm 16,9, que ainda espera a sua resposta: se escolher outra, troco nos dois capítulos. *Mahtá* = «turíbulo», como em Nm 16. *Matte* é «vara» e também «tribo» em hebraico (as doze varas são as doze tribos): ficou «vara», sem nota."},
+   {"id": "notas-antigas", "titulo": "As notas do projeto antigo", "texto": "Das quatro, ficou só a da localização (v. 1), sem falar de numeração hebraica. Saíram a do incenso que condena e salva (v. 13, interpretação), a da amendoeira (v. 23, sobre a palavra hebraica e Jeremias) e a da pergunta sem resposta (v. 28, interpretação). Entrou uma nova: o que é o testemunho (v. 19)."},
+   {"id": "nomes", "titulo": "Nomes", "texto": "Números 17 não é lido na Missa nem no Ofício das Leituras. Os nomes são os de Nm 16 (Coré, Aarão, Levi) e Eleazar, a forma do lecionário (Êx 6,23 não é lido, mas Eleazar aparece em 2Mc 6,18, lido na 33ª semana do Tempo Comum, ano I)."}
+  ]
+ }
+}
