@@ -1,0 +1,535 @@
+[
+ {
+  "id": "origenes-hnum10-1-santo-e-quem-procura-o-sacerdote",
+  "autor": "Orígenes",
+  "autor_id": "origenes",
+  "datas": "c. 185–c. 254",
+  "titulo_autor": "presbítero e teólogo de Alexandria (não é santo nem Padre canonizado, mas a tradição o leu sempre; texto latino na tradução de Rufino)",
+  "obra": "Homilias sobre Números (Homiliae in Numeros), trad. de Rufino",
+  "passagem": "X, 1",
+  "edicao": "GCS 30 (Baehrens), 68 e 71; Lommatzsch X, 92–96",
+  "trecho": "1",
+  "versiculos": [
+   1
+  ],
+  "lingua": "la",
+  "original": "Qui meliores sunt, inferiorum semper culpas et peccata suscipiunt. [...] «Et dixit» inquit «Dominus ad Aaron dicens: tu et filii tui et domus patris tui tecum, sumetis peccata sanctorum». [...] Non enim, ut putant quidam, statim ut quis sanctus esse coeperit, peccare iam non potest et continuo sine peccato putandus est. [...] Qui non sunt sancti, in peccatis suis moriuntur; qui sancti sunt, pro peccatis poenitudinem gerunt, vulnera sua sentiunt, intelligunt lapsus, requirunt sacerdotem, sanitatem deposcunt, purificationem per pontificem quaerunt. Idcirco ergo caute et significanter sermo legis designat quia pontifices et sacerdotes non quorumcumque, sed «sanctorum» tantummodo «sumant peccata»; «sanctus» enim est, qui peccatum suum per pontificem curat.",
+  "fonte_url": "https://archive.org/details/origenes-werke.-bd-7-1921/page/68/mode/1up",
+  "traducao_pt": "Os que são melhores sempre tomam sobre si as culpas e os pecados dos que estão abaixo deles. [...] «E o Senhor», diz o texto, «falou a Aarão: Tu, teus filhos e a casa de teu pai contigo levareis os pecados dos santos». [...] Não é verdade, como pensam alguns, que, assim que alguém começa a ser santo, já não pode pecar e deve logo ser tido por alguém sem pecado. [...] Os que não são santos morrem nos seus pecados; os que são santos fazem penitência pelos seus pecados, sentem as suas feridas, reconhecem as suas quedas, procuram o sacerdote, pedem a cura, buscam a purificação por meio do pontífice. Por isso a palavra da Lei diz com cuidado e com intenção que os pontífices e os sacerdotes levam os pecados não de qualquer um, mas só «dos santos»: «santo» é aquele que trata o seu pecado por meio do pontífice.",
+  "temas": [
+   "quem leva os pecados do povo",
+   "santo é quem procura o perdão"
+  ],
+  "resumo": "Os «santos» cujos pecados o sacerdote leva não são os que já não pecam, mas os que sentem as suas feridas, procuram o sacerdote e pedem a cura: «santo é aquele que trata o seu pecado por meio do pontífice».",
+  "relevancia": 3,
+  "direitos": "domínio público"
+ },
+ {
+  "id": "agostinho-qhept4-31-os-pecados-sao-os-sacrificios",
+  "autor": "Santo Agostinho",
+  "autor_id": "agostinho",
+  "datas": "354–430",
+  "titulo_autor": "bispo de Hipona, Doutor da Igreja",
+  "obra": "Questões sobre o Heptateuco (Quaestiones in Heptateuchum)",
+  "passagem": "IV, 31",
+  "edicao": "PL 34, 731–732; CSEL 28/1 (Zycha)",
+  "trecho": "1",
+  "versiculos": [
+   1,
+   9
+  ],
+  "lingua": "la",
+  "original": "Et ait Dominus ad Aaron, dicens: Tu et filii tui, et domus patris tui tecum, accipietis peccata sanctorum; et tu et filii tui accipietis peccata sacerdotii vestri. Haec sunt peccata quae appellantur sacrificia pro peccatis. Proinde peccata sanctorum dictum est, non quae sancti committant; sed ab eo quod sunt sancta, dictum est sanctorum, quia in sanctis offeruntur: et peccata dicuntur sacrificia pro peccatis; ideo appellata sunt peccata sanctorum. Et peccata sacerdotii vestri, id est, eadem ipsa quae offeruntur pro peccatis: sicut etiam in Levitico declarat, et pertinere debere dicit ad sacerdotem.",
+  "fonte_url": "https://mlat.uzh.ch/browser/cps_2.AugHip.QuInHe",
+  "traducao_pt": "«E o Senhor disse a Aarão: Tu, teus filhos e a casa de teu pai contigo recebereis os pecados dos santos; tu e teus filhos recebereis os pecados do vosso sacerdócio.» Estes pecados são as ofertas que se chamam sacrifícios pelo pecado. Por isso se disse «pecados dos santos», não porque os santos os cometam, mas porque são coisas santas, que se oferecem no santuário; e chamam-se «pecados» os sacrifícios pelo pecado: daí o nome «pecados dos santos». E «pecados do vosso sacerdócio» são essas mesmas ofertas que se fazem pelos pecados, como declara também o Levítico, onde se diz que devem pertencer ao sacerdote.",
+  "temas": [
+   "levar a culpa do santuário",
+   "os sacrifícios pelo pecado"
+  ],
+  "resumo": "Na versão que Agostinho lia, «recebereis os pecados dos santos» quer dizer: recebereis os sacrifícios pelo pecado, oferecidos no santuário, que ficam para o sacerdote (v. 9; Lv 6,25–26).",
+  "relevancia": 2,
+  "direitos": "domínio público"
+ },
+ {
+  "id": "bruno-de-segni-innum18-o-peso-dos-pecados-alheios",
+  "autor": "São Bruno de Segni",
+  "autor_id": "bruno-de-segni",
+  "datas": "c. 1045–1123",
+  "titulo_autor": "bispo de Segni, abade de Montecassino",
+  "obra": "Exposição do Pentateuco (Expositio in Pentateuchum), In Numeros",
+  "passagem": "cap. 18",
+  "edicao": "PL 164, 486C–486D",
+  "trecho": "1",
+  "versiculos": [
+   1,
+   2,
+   3
+  ],
+  "lingua": "la",
+  "original": "«Dixitque Dominus ad Aaron: Tu et filii tui, et domus patris tui tecum portabitis iniquitatem sanctuarii, et tu, et filii tui simul sustinebitis peccata sacerdotii vestri. [...]» Haec ad sacerdotes pertinent, et quaecunque intra velum sunt. Non enim episcopi et sacerdotes, verum etiam caeteri ordines clericorum iniquitatem sanctuarii totiusque Ecclesiae peccata sustinent et portant. Magnum utique onus et grave ad ferendum; multumque necessarium esset ut propriis iniquitatibus carerent, qui aliorum portant iniquitates, caeterosque a peccatorum pondere sublevare praecipiuntur. Valde enim nos semper sollicitos esse oportet, qui et proprias et aliorum iniquitates flere jubemur.",
+  "fonte_url": "https://mlat.uzh.ch/browser/cps_2.BruAst.ExInPe",
+  "traducao_pt": "«E o Senhor disse a Aarão: Tu, teus filhos e a casa de teu pai contigo levareis a iniquidade do santuário, e tu e teus filhos juntos carregareis os pecados do vosso sacerdócio. [...]» Isto diz respeito aos sacerdotes e a tudo o que está dentro do véu. Pois não só os bispos e os sacerdotes, mas também as outras ordens do clero sustentam e carregam a iniquidade do santuário e os pecados de toda a Igreja. É um peso grande, difícil de levar; e seria muito necessário que estivessem livres das próprias iniquidades os que carregam as iniquidades dos outros e têm o encargo de aliviar os demais do peso dos pecados. Nós, que recebemos a ordem de chorar as nossas iniquidades e as dos outros, precisamos estar sempre muito vigilantes.",
+  "temas": [
+   "quem leva os pecados do povo",
+   "o peso do ministério"
+  ],
+  "resumo": "Todo o clero carrega os pecados da Igreja: peso tão grande pede que esteja livre dos próprios pecados quem deve aliviar os outros, e que chore os seus pecados e os alheios.",
+  "relevancia": 2,
+  "direitos": "domínio público"
+ },
+ {
+  "id": "ruperto-innum2-5-cristo-leva-a-iniquidade",
+  "autor": "Ruperto de Deutz",
+  "autor_id": "ruperto",
+  "datas": "c. 1075–1129",
+  "titulo_autor": "abade beneditino de Deutz",
+  "obra": "A Trindade e as suas obras (De Trinitate et operibus eius), In Numeros",
+  "passagem": "II, 5",
+  "edicao": "PL 167, 883B–883C",
+  "trecho": "1",
+  "versiculos": [
+   1,
+   2,
+   3
+  ],
+  "lingua": "la",
+  "original": "«Proinde continuo sequitur Dominus dicens ad Aaron: Tu, et filii tui, et domus patris tui tecum, portabitis iniquitatem sanctuarii.» Et rursum: «Tu et filii tui simul sustinebitis peccatum sacerdotii vestri.» Ac deinde tertio. «Tu autem et filii tui ministrabitis in tabernaculo testimonii. Excubabuntque Levitae ad praecepta tua, et ad cuncta opera tabernaculi», etc. Trina repetitio divinae positionis vel ordinationis vehemens confirmatio est. Sic in virga florente fructumque ferente, mysterium incarnationis Christi Filii Dei signatum est, sic in ordine vel officio hujus portantis iniquitatem sanctuarii, sustinentis peccata sacerdotii sui, mystice signatur onus vel opus ejusdem Christi veri sacerdotis, in quo Dominus posuit iniquitates omnium nostrum, sicut propheta praedixit.",
+  "fonte_url": "https://mlat.uzh.ch/browser/cps_2.RupTui.DeTrEtO",
+  "traducao_pt": "«E logo o Senhor continua, dizendo a Aarão: Tu, teus filhos e a casa de teu pai contigo levareis a iniquidade do santuário.» E de novo: «Tu e teus filhos juntos carregareis o pecado do vosso sacerdócio.» E depois, pela terceira vez: «Tu e teus filhos servireis na tenda do testemunho, e os levitas estarão de guarda às tuas ordens e em todos os trabalhos da tenda» etc. Repetir três vezes o que Deus estabelece e ordena é confirmá-lo com força. Assim como na vara que floresce e dá fruto está assinalado o mistério da encarnação de Cristo, Filho de Deus, assim também na ordem e no ofício deste que leva a iniquidade do santuário e carrega os pecados do seu sacerdócio está significado, em mistério, o peso e a obra do mesmo Cristo, verdadeiro sacerdote, sobre quem o Senhor pôs a iniquidade de todos nós, como o profeta anunciou.",
+  "temas": [
+   "Cristo, o sacerdote que leva a iniquidade",
+   "a vara florida e o encargo de Aarão"
+  ],
+  "resumo": "O encargo de Aarão, repetido três vezes por Deus, de levar a iniquidade do santuário é figura de Cristo, o verdadeiro sacerdote, sobre quem o Senhor pôs a iniquidade de todos nós (Is 53,6).",
+  "relevancia": 2,
+  "direitos": "domínio público"
+ },
+ {
+  "id": "rabano-instcler1-7-os-levitas-e-os-diaconos",
+  "autor": "Rábano Mauro",
+  "autor_id": "rabano",
+  "datas": "c. 780–856",
+  "titulo_autor": "abade de Fulda, arcebispo de Mogúncia",
+  "obra": "A formação dos clérigos (De clericorum institutione)",
+  "passagem": "I, 7 (os diáconos; segue de perto Santo Isidoro, De ecclesiasticis officiis II, 8)",
+  "edicao": "PL 107, 302C–303C",
+  "trecho": "1",
+  "versiculos": [
+   2,
+   3,
+   4,
+   6,
+   7
+  ],
+  "lingua": "la",
+  "original": "Levitae ex nomine auctoris vocati, de nomine Levi Levitae exorti sunt, a quibus in templo Dei, mystici sacramenti mysteria explebantur. [...] Hi Graece diacones διάκονες, Latine ministri dicuntur, quod sicut in sacerdote consecratio, ita et in diacono ministerii dispensatio habetur. In Veteri Testamento excubabant in tabernaculo testimonii ad praecepta Aaron, et ad cuncta opera tabernaculi; verumtamen ad vasa sanctuarii et ad altare non accedebant, sicut mandaverat Dominus Aaron dicens: Ecce dedi vobis fratres vestros Levitas de medio filiorum Israel, et tradidi donum Domino, ut serviant in ministeriis tabernaculi ejus; tu autem et filii tui custodite sacerdotium vestrum, et omnia quae ad cultum altaris pertinent, et intra velum sunt, per sacerdotes administrabuntur, etc. [...] In Novo autem Testamento apostoli septem diaconos, propter sacramentum ejusdem numeri ordinaverunt ad ministerium sacrum et officium altaris [...]. Sine his sacerdos nomen habet, officium non habet. Nam sicut in sacerdote consecratio, ita in ministro dispensatio sacramenti est. Ille oblata sanctificat, hic sanctificata dispensat.",
+  "fonte_url": "https://mlat.uzh.ch/browser/cps_2.RabMau.DeClIn",
+  "traducao_pt": "Os levitas tiram o nome do seu antepassado: do nome de Levi vieram os levitas, que no templo de Deus realizavam os ritos do mistério sagrado. [...] Em grego chamam-se diáconos, em latim ministros, porque, assim como no sacerdote está a consagração, no diácono está a distribuição do ministério. No Antigo Testamento, eles montavam guarda na tenda do testemunho às ordens de Aarão e em todos os trabalhos da tenda, mas não se aproximavam dos objetos do santuário nem do altar, como o Senhor tinha mandado a Aarão: «Eis que vos dei os vossos irmãos, os levitas, do meio dos filhos de Israel, e os entreguei como dom ao Senhor, para servirem nos ministérios da sua tenda; tu, porém, e teus filhos guardai o vosso sacerdócio, e tudo o que se refere ao culto do altar e está dentro do véu será administrado pelos sacerdotes» etc. [...] No Novo Testamento, os apóstolos ordenaram sete diáconos, pelo mistério desse número, para o ministério sagrado e o serviço do altar. [...] Sem eles, o sacerdote tem o nome, mas não tem o ofício. Pois, assim como no sacerdote está a consagração, no ministro está a distribuição do sacramento: aquele santifica as oferendas, este distribui o que foi santificado.",
+  "temas": [
+   "os levitas, dados como dom",
+   "os diáconos, ministros do altar"
+  ],
+  "resumo": "Os levitas «dados como dom» a Aarão prefiguram os diáconos: servem junto do altar sem tocar o que é do sacerdote, e sem eles «o sacerdote tem o nome, mas não tem o ofício».",
+  "relevancia": 3,
+  "direitos": "domínio público"
+ },
+ {
+  "id": "origenes-hnum10-3-o-que-esta-dentro-do-veu",
+  "autor": "Orígenes",
+  "autor_id": "origenes",
+  "datas": "c. 185–c. 254",
+  "titulo_autor": "presbítero e teólogo de Alexandria (não é santo nem Padre canonizado, mas a tradição o leu sempre; texto latino na tradução de Rufino)",
+  "obra": "Homilias sobre Números (Homiliae in Numeros), trad. de Rufino",
+  "passagem": "X, 3",
+  "edicao": "GCS 30 (Baehrens), 73–74; Lommatzsch X, 99–100",
+  "trecho": "1",
+  "versiculos": [
+   5,
+   7
+  ],
+  "lingua": "la",
+  "original": "Mandantur autem observari non solum ea, quae foris sunt, sed «ea» inquit «ut curent sacerdotes praecipue, quae intra velamen sunt», velut si diceret: cura sit sacerdotibus et evidentia ac manifesta mandata divinae legis implere et mysteria eius abscondita et velata omni perspicacia contueri. Si vero ad hominem velis referre tabernaculum testimonii, quoniam quidem corpus hominis tabernaculum Paulus appellat [...], interiora velaminis, ubi inaccessibilia conteguntur, principale cordis dicemus, quod solum recipere potest mysteria veritatis et capax esse arcanorum Dei. [...] Cum enim «in corde oravero», ad altare interius ingredior, et hoc puto esse etiam quod Dominus in evangeliis dicit: «tu autem cum oras, intra in cubiculum tuum, et claude ostium tuum, et ora patrem tuum in abscondito». [...] Oportet ergo sacerdotes ea curare praecipue et custodire, quae intra velamen interius conteguntur, ne quid ibi pollutum, ne quid inveniatur immundum; hoc est interiorem hominem et cordis secreta curare, ut ibi immaculata permaneant.",
+  "fonte_url": "https://archive.org/details/origenes-werke.-bd-7-1921/page/73/mode/1up",
+  "traducao_pt": "Manda-se guardar não só o que está fora, mas também, diz o texto, «que os sacerdotes cuidem sobretudo do que está dentro do véu»; como se dissesse: os sacerdotes devem cumprir os mandamentos claros e manifestos da lei divina e contemplar com toda a atenção os seus mistérios escondidos e velados. Mas, se quiseres aplicar ao homem a tenda do testemunho, já que Paulo chama de tenda o corpo do homem [...], diremos que o interior do véu, onde se escondem as coisas inacessíveis, é o íntimo do coração, o único que pode receber os mistérios da verdade e ser capaz dos segredos de Deus. [...] Quando rezo «no coração», entro no altar de dentro; e penso que é isso também o que o Senhor diz no Evangelho: «Tu, porém, quando rezares, entra no teu quarto, fecha a porta e reza ao teu Pai em segredo». [...] Os sacerdotes, portanto, devem cuidar sobretudo e guardar o que fica escondido dentro do véu, para que lá não se encontre nada de manchado nem de impuro; isto é, cuidar do homem interior e dos segredos do coração, para que ali tudo permaneça sem mancha.",
+  "temas": [
+   "o que está dentro do véu",
+   "o altar interior da oração"
+  ],
+  "resumo": "O que está «dentro do véu» é também o íntimo do coração: ali está o altar interior da oração em segredo, e é isso que o sacerdote deve guardar sem mancha.",
+  "relevancia": 2,
+  "direitos": "domínio público"
+ },
+ {
+  "id": "origenes-hnum11-1-2-quem-guarda-as-primicias-esquece-deus",
+  "autor": "Orígenes",
+  "autor_id": "origenes",
+  "datas": "c. 185–c. 254",
+  "titulo_autor": "presbítero e teólogo de Alexandria (não é santo nem Padre canonizado, mas a tradição o leu sempre; texto latino na tradução de Rufino)",
+  "obra": "Homilias sobre Números (Homiliae in Numeros), trad. de Rufino",
+  "passagem": "XI, 1–2",
+  "edicao": "GCS 30 (Baehrens), 74–75 e 78–79; Lommatzsch X, 101–106",
+  "trecho": "2",
+  "versiculos": [
+   8,
+   12,
+   13
+  ],
+  "lingua": "la",
+  "original": "Primitias omnium frugum omniumque pecorum sacerdotibus lex mandat offerri, ita ut omnis, qui possidet agrum vel vineam vel olivetum vel etiam hortum et si quid est, quod exercetur in terris, sed et si quis peculia cuiuscumque pecoris nutriat, offerat ex his Deo omne, quod primum est, id est ad sacerdotes deferat. Deo enim offerri dicit, quod sacerdotibus datur. [...] decet enim et utile est etiam sacerdotibus evangelii offerri primitias: «Ita» enim «et Dominus disposuit, ut, qui evangelium adnuntiant, de evangelio vivant, et qui altari deserviunt, de altari participent». Et sicut hoc dignum et decens est, sic e contrario et indecens et indignum est, immo impium, ut is, qui Deum colit et ingreditur ecclesiam Dei, qui scit sacerdotes et ministros adsistere altari et aut verbo Dei aut ministerio ecclesiae deservire, de fructibus terrae, quos Deus dedit solem suum producendo et pluvias suas ministrando, non offerat primitias sacerdotibus. Non mihi videtur huiusmodi anima habere memoriam Dei nec cogitare nec credere quia Deus dederit fructus, quos cepit; quos ita recondit quasi alienos a Deo; si enim a Deo sibi datos crederet, sciret utique munerando sacerdotes honorare Deum de datis et muneribus suis.",
+  "fonte_url": "https://archive.org/details/origenes-werke.-bd-7-1921/page/74/mode/1up",
+  "traducao_pt": "A Lei manda oferecer aos sacerdotes as primícias de todos os frutos e de todos os rebanhos: quem possui um campo, uma vinha, um olival, ou mesmo uma horta, ou qualquer coisa que se cultive na terra, e também quem cria um rebanho de qualquer espécie, ofereça disso a Deus tudo o que é primeiro, isto é, leve-o aos sacerdotes. Pois a Lei diz que se oferece a Deus o que se dá aos sacerdotes. [...] É conveniente e útil oferecer as primícias também aos sacerdotes do Evangelho: «Assim também o Senhor dispôs que os que anunciam o Evangelho vivam do Evangelho, e que os que servem ao altar tenham parte no altar». E, assim como isso é digno e conveniente, é inconveniente e indigno, e até ímpio, que quem adora a Deus e entra na igreja de Deus, quem sabe que os sacerdotes e os ministros estão junto do altar e servem à palavra de Deus ou ao ministério da Igreja, não ofereça aos sacerdotes as primícias dos frutos da terra que Deus deu, fazendo nascer o seu sol e mandando as suas chuvas. Parece-me que uma alma assim não se lembra de Deus, nem pensa, nem crê que foi Deus quem deu os frutos que ela colheu: guarda-os como se não tivessem nada a ver com Deus. Se cresse que foi Deus quem os deu, saberia honrar a Deus com os seus próprios dons e presentes, dando aos sacerdotes.",
+  "temas": [
+   "as primícias, gratidão a Deus",
+   "o sustento dos ministros"
+  ],
+  "resumo": "O que se dá aos sacerdotes se oferece a Deus; quem guarda para si as primícias, como se os frutos não viessem de Deus, mostra que já não se lembra dele.",
+  "relevancia": 3,
+  "direitos": "domínio público"
+ },
+ {
+  "id": "origenes-hnum11-6-as-primicias-que-se-guardam",
+  "autor": "Orígenes",
+  "autor_id": "origenes",
+  "datas": "c. 185–c. 254",
+  "titulo_autor": "presbítero e teólogo de Alexandria (não é santo nem Padre canonizado, mas a tradição o leu sempre; texto latino na tradução de Rufino)",
+  "obra": "Homilias sobre Números (Homiliae in Numeros), trad. de Rufino",
+  "passagem": "XI, 6",
+  "edicao": "GCS 30 (Baehrens), 87–88; Lommatzsch X, 117–118",
+  "trecho": "2",
+  "versiculos": [
+   8
+  ],
+  "lingua": "la",
+  "original": "«Et locutus est Dominus ad Aaron dicens: ecce, ego dedi vobis ad conservandum primitias». [...] Non enim ut servent, sacerdotes accipiunt primitias, sed ut insumant. Quomodo ergo dicit: «ecce, dedi vobis primitias ad conservandum»? [...] Sed et si Christus est secundum Apostolum primitiae, vere istae primitiae «ad conservandum» datae sunt nobis. Quid enim tam beatum quam ut anima, quae suscepit Christum, semper eum «conservet» et semper habeat in se manentem? [...] Istas autem primitias qui manducaverit et gustaverit «panem, qui de coelo descendit», non morietur, sed permanet in vitam aeternam. Iste est enim panis, qui cum semper comedatur, semper permanet, immo semper augetur. [...] Quanto enim amplius verbum Dei sumpseris, quanto instantius cibum istum comederis, tanto in te affluentius abundabit.",
+  "fonte_url": "https://archive.org/details/origenes-werke.-bd-7-1921/page/87/mode/1up",
+  "traducao_pt": "«E o Senhor falou a Aarão, dizendo: Eis que vos dei as primícias para guardar». [...] Mas os sacerdotes não recebem as primícias para guardá-las, e sim para consumi-las. Como, então, ele diz: «Eis que vos dei as primícias para guardar»? [...] Se, segundo o Apóstolo, Cristo é as primícias, então estas primícias nos foram dadas de verdade «para guardar». Que pode haver de mais feliz do que a alma que recebeu Cristo «guardá-lo» sempre e tê-lo sempre morando em si? [...] Quem comer e saborear estas primícias, «o pão que desceu do céu», não morrerá, mas permanece para a vida eterna. Este é o pão que, comido sempre, permanece sempre, e até cresce sempre. [...] Quanto mais tomares a palavra de Deus, quanto mais assiduamente comeres este alimento, tanto mais ele abundará em ti.",
+  "temas": [
+   "Cristo, primícias que se guardam",
+   "o pão que cresce quando é comido"
+  ],
+  "resumo": "As primícias da Lei eram consumidas; Cristo, as primícias verdadeiras, é dado para ser guardado na alma: é o pão que, quanto mais se come, mais cresce.",
+  "relevancia": 3,
+  "direitos": "domínio público"
+ },
+ {
+  "id": "origenes-hnum11-8-as-primicias-da-caridade",
+  "autor": "Orígenes",
+  "autor_id": "origenes",
+  "datas": "c. 185–c. 254",
+  "titulo_autor": "presbítero e teólogo de Alexandria (não é santo nem Padre canonizado, mas a tradição o leu sempre; texto latino na tradução de Rufino)",
+  "obra": "Homilias sobre Números (Homiliae in Numeros), trad. de Rufino",
+  "passagem": "XI, 8",
+  "edicao": "GCS 30 (Baehrens), 91; Lommatzsch X, 122",
+  "trecho": "2",
+  "versiculos": [
+   9,
+   12
+  ],
+  "lingua": "la",
+  "original": "Ab omnibus ergo fructibus «sanctificatae sanctae» sunt offerendae primitiae, sed spiritali pontifici. Ex quibus ergo fructibus spiritales primitias offeremus? Audi quot fructus enumeret Apostolus: «fructus» inquit «spiritus caritas, gaudium, pax, patientia» et cetera. Quas igitur primitias ex caritatis fructu, qui primus est «fructus spiritus», offeram vero pontifici? Illas ego puto esse primitias caritatis, ut «diligam Dominum Deum meum ex toto corde meo et ex tota anima mea et ex tota mente mea». Istae sunt primitiae. Quid autem est, quod ex isto caritatis fructu secundo loco habere debeam? Ut «diligam proximum meum sicut me ipsum». Illae ergo primitiae caritatis Deo offeruntur per pontificem, haec vero, quae secundo in loco sunt, meis usibus relinquuntur. Puto adhuc esse aliquid ex hoc fructu, quod tertio loco habendum sit: ut «diligam» etiam «inimicos meos».",
+  "fonte_url": "https://archive.org/details/origenes-werke.-bd-7-1921/page/91/mode/1up",
+  "traducao_pt": "De todos os frutos, portanto, é preciso oferecer as primícias «santificadas e santas», mas ao pontífice espiritual. De que frutos ofereceremos as primícias espirituais? Ouve quantos frutos o Apóstolo enumera: «O fruto do Espírito é caridade, alegria, paz, paciência» etc. Que primícias, então, do fruto da caridade, que é o primeiro «fruto do Espírito», oferecerei ao verdadeiro pontífice? Penso que as primícias da caridade são estas: «amar o Senhor meu Deus de todo o meu coração, de toda a minha alma e de todo o meu entendimento». Estas são as primícias. E que devo ter em segundo lugar desse fruto da caridade? «Amar o meu próximo como a mim mesmo». As primícias da caridade são oferecidas a Deus por meio do pontífice; o que vem em segundo lugar fica para o meu uso. E penso que há ainda deste fruto algo que se deve ter em terceiro lugar: amar também «os meus inimigos».",
+  "temas": [
+   "as primícias da caridade",
+   "amar a Deus em primeiro lugar"
+  ],
+  "resumo": "As primícias espirituais vêm do primeiro fruto do Espírito: amar a Deus de todo o coração; o amor ao próximo vem em segundo lugar e, em terceiro, até o amor aos inimigos.",
+  "relevancia": 3,
+  "direitos": "domínio público"
+ },
+ {
+  "id": "ambrosio-caineabel2-7-santas-pela-devocao",
+  "autor": "Santo Ambrósio",
+  "autor_id": "ambrosio",
+  "datas": "c. 340–397",
+  "titulo_autor": "bispo de Milão, Doutor da Igreja",
+  "obra": "Caim e Abel (De Cain et Abel)",
+  "passagem": "II, 2, 7",
+  "edicao": "PL 14, 342C–342D",
+  "trecho": "2",
+  "versiculos": [
+   8,
+   12,
+   13,
+   15
+  ],
+  "lingua": "la",
+  "original": "Nunc consideremus quae sit vis primitiarum, et utrum tempore aestimentur primitiae, an sanctitate, hoc est, utrum omnia primogenita sanctificationem habeant primitiarum. Primitiae etenim fructuum sanctae secundum legem; quia in his optimum festinae fidei sacrificium est: sed fiunt sanctae devotione, non tempore; quia non proventus sanctificat, sed devotio. Denique ubi celer proventus est, si devotio moretur, offensa contrahitur. Non ergo omnia primogenita sancta: sed omnia quae sancta sunt, sunt etiam primogenita. Denique Cain primogenitus, sed non sanctus.",
+  "fonte_url": "https://mlat.uzh.ch/browser/cps_2.AmbMed.DeCaEtA",
+  "traducao_pt": "Consideremos agora qual é a força das primícias: se as primícias se medem pelo tempo ou pela santidade, isto é, se todos os primogênitos têm a santidade das primícias. Segundo a Lei, as primícias dos frutos são santas, porque nelas está o melhor sacrifício, o de uma fé que se apressa; mas elas se tornam santas pela devoção, não pelo tempo, porque o que santifica não é a colheita, e sim a devoção. Por isso, quando a colheita chega cedo, mas a devoção demora, ofende-se a Deus. Nem todos os primogênitos, portanto, são santos; mas tudo o que é santo é também primogênito. Caim, afinal, era primogênito, mas não era santo.",
+  "temas": [
+   "as primícias, santas pela devoção",
+   "dar a Deus o primeiro e o melhor"
+  ],
+  "resumo": "As primícias não se tornam santas por chegarem primeiro, mas pela devoção de quem as oferece: Caim era primogênito, mas não era santo.",
+  "relevancia": 2,
+  "direitos": "domínio público"
+ },
+ {
+  "id": "jeronimo-helvidio-10-tudo-o-que-abre-o-ventre",
+  "autor": "São Jerônimo",
+  "autor_id": "jeronimo",
+  "datas": "c. 347–420",
+  "titulo_autor": "presbítero, Doutor da Igreja",
+  "obra": "A virgindade perpétua de Maria, contra Helvídio (De perpetua virginitate B. Mariae adversus Helvidium)",
+  "passagem": "10",
+  "edicao": "PL 23, 192B–193B",
+  "trecho": "2",
+  "versiculos": [
+   15,
+   16,
+   17
+  ],
+  "lingua": "la",
+  "original": "Nos autem ita definimus: Omnis unigenitus est primogenitus: non omnis primogenitus est unigenitus. Primogenitus est, non tantum post quem et alii: sed ante quem nullus. Omne, inquit Dominus ad Aaron, quod aperit vulvam, ab omni carne quae offertur Domino, ab homine usque ad pecus, tibi erunt: tantummodo pretiis redimant primogenita hominum, et primogenita pecorum immundorum. Definivit sermo Dei, quid sit primogenitum, Omne, inquit, quod aperit vulvam. [...] Certe de Salvatore Scriptura sic loquitur: Cum expleti essent dies purgationis eorum, secundum Legem Moysi, duxerunt eum in Jerusalem, ut offerrent eum Domino: sicut scriptum est in Lege Domini: Quia omne masculinum adaperiens vulvam, sanctum Domino vocabitur [...]. Si haec lex tantum ad primogenitos pertinet, primogenitum autem sequentes faciunt, non debuit lege primogeniti teneri, qui de sequentibus ignorabat. Sed quia tenetur lege primogeniti, etiam ille quem fratres caeteri non sequuntur: colligitur eum primogenitum vocari, qui vulvam aperiat et ante quem nullus sit, non eum quem frater post genitus subsequatur.",
+  "fonte_url": "https://mlat.uzh.ch/browser/cps_2.HieStr.DeViBMa",
+  "traducao_pt": "Nós, porém, definimos assim: todo filho único é primogênito, mas nem todo primogênito é filho único. Primogênito não é só aquele depois do qual vêm outros, mas aquele antes do qual não veio nenhum. «Tudo o que abre o ventre», diz o Senhor a Aarão, «de toda carne que se oferece ao Senhor, desde o homem até o animal, será teu; somente se resgatem por um preço os primogênitos dos homens e os primogênitos dos animais impuros». A palavra de Deus definiu o que é primogênito: «tudo», diz, «o que abre o ventre». [...] Do Salvador, a Escritura diz claramente: «Terminados os dias da purificação deles, segundo a Lei de Moisés, levaram-no a Jerusalém para apresentá-lo ao Senhor, como está escrito na Lei do Senhor: Todo menino que abre o ventre será consagrado ao Senhor». [...] Se esta lei dissesse respeito só aos primogênitos, e se fossem os irmãos nascidos depois que fazem alguém primogênito, não deveria estar sujeito à lei do primogênito quem ainda não sabia se viriam outros. Mas, como está sujeito à lei do primogênito também aquele a quem não se seguem outros irmãos, conclui-se que se chama primogênito quem abre o ventre e antes de quem não houve nenhum, e não aquele a quem se segue um irmão nascido depois.",
+  "temas": [
+   "o primogênito resgatado",
+   "Jesus, o primogênito apresentado no Templo"
+  ],
+  "resumo": "A Lei chama primogênito «tudo o que abre o ventre», ainda que não venham outros filhos; por isso Jesus, apresentado ao Senhor no Templo, é chamado primogênito sem que Maria tenha tido outros filhos.",
+  "relevancia": 3,
+  "direitos": "domínio público"
+ },
+ {
+  "id": "jeronimo-ep64-2-um-so-preco-para-rico-e-pobre",
+  "autor": "São Jerônimo",
+  "autor_id": "jeronimo",
+  "datas": "c. 347–420",
+  "titulo_autor": "presbítero, Doutor da Igreja",
+  "obra": "Cartas (Epistulae)",
+  "passagem": "Carta 64 (a Fabíola, sobre as vestes sacerdotais), 2",
+  "edicao": "PL 22, 610",
+  "trecho": "2",
+  "versiculos": [
+   12,
+   13,
+   15,
+   16,
+   26
+  ],
+  "lingua": "la",
+  "original": "Primitiae ciborum et omnium frugum atque pomorum offeruntur Antistiti: ut habens victum atque vestitum, absque ullo impedimento securus et liber serviat Domino. Primogenita mundorum animalium accipiunt sacerdotes: immundorum pretia. Hominum quoque primi partus redimuntur, et quia conditio una nascendi est, pretium aequaliter offertur, sic moderatum et leve: ut nec dives intumescat, nec tenuis praegravetur. Aeditui et janitores accipiunt decimas: et rursum decimas decimarum offerunt sacerdotibus: tanto illis minores, quanto ipsi majores populo.",
+  "fonte_url": "https://mlat.uzh.ch/browser/cps_2.HieStr.Episto32",
+  "traducao_pt": "As primícias dos alimentos e de todos os frutos da terra e das árvores são oferecidas ao sacerdote, para que, tendo o que comer e o que vestir, sirva ao Senhor seguro e livre, sem nenhum impedimento. Os sacerdotes recebem os primogênitos dos animais puros, e o preço dos impuros. Também os primeiros filhos dos homens são resgatados e, como a condição de nascer é uma só para todos, o preço oferecido é igual, tão moderado e leve que o rico não se envaidece nem o pobre fica sobrecarregado. Os guardas do templo e os porteiros recebem os dízimos e, por sua vez, oferecem aos sacerdotes o dízimo dos dízimos: são tanto menores do que eles quanto são maiores do que o povo.",
+  "temas": [
+   "o sustento que deixa o ministro livre",
+   "um só preço para todos os primogênitos"
+  ],
+  "resumo": "As primícias deixam o sacerdote livre para servir a Deus; o resgate do primogênito custa o mesmo ao rico e ao pobre, porque o nascer é igual para todos; e os levitas, que recebem o dízimo, também o dão.",
+  "relevancia": 2,
+  "direitos": "domínio público"
+ },
+ {
+  "id": "rabano-ennum2-22-a-alianca-de-sal",
+  "autor": "Rábano Mauro",
+  "autor_id": "rabano",
+  "datas": "c. 780–856",
+  "titulo_autor": "abade de Fulda, arcebispo de Mogúncia",
+  "obra": "Comentário ao livro dos Números (Enarrationes in librum Numerorum)",
+  "passagem": "II, 22 (sobre Nm 18,19)",
+  "edicao": "PL 108, 700B–700C",
+  "trecho": "2",
+  "versiculos": [
+   19
+  ],
+  "lingua": "la",
+  "original": "Pactum salis est sempiternum coram Domino, tibi et filiis tuis. Pactum salis nominat oblationum universitatem, quae ad ministerium vel ad jus pertinebat sacerdotum. Unde est illud quod in Levitico scriptum est: Quidquid obtuleris sacrificii, sale condies: nec auferas sal foederis Dei tui, de sacrificio tuo. In omni oblatione offeres sal. Figuraliter autem ostendit sapientiam rite competere sacerdotibus ac praedicatoribus legis divinae. [...] Plane hoc nobis Dominus ostendit, dicens apostolis: Vos estis sal terrae: si autem sal evanuerit, ad nihilum valebit ultra, nisi ut mittatur foras, et conculcetur ab hominibus. [...] Ergo Aaron et filiis ejus, pactum salis est sempiternum, quia non solum primo Ecclesiae gradui, quem tenent episcopi, necessaria est sapientia, sed etiam caeteris minoribus gradibus, presbyteris scilicet, diaconibus, atque omni ordini ecclesiastico.",
+  "fonte_url": "https://mlat.uzh.ch/browser/cps_2.RabMau.EnInLiN",
+  "traducao_pt": "«É uma aliança de sal, perpétua, diante do Senhor, para ti e para teus filhos.» Chama aliança de sal o conjunto das ofertas que pertenciam ao ministério ou ao direito dos sacerdotes. Daí o que está escrito no Levítico: «Temperarás com sal toda oferta do teu sacrifício, e não tirarás do teu sacrifício o sal da aliança do teu Deus; em toda oferta oferecerás sal». Em figura, porém, mostra que a sabedoria é própria dos sacerdotes e dos pregadores da lei divina. [...] O Senhor nos mostra isso claramente quando diz aos apóstolos: «Vós sois o sal da terra; se o sal perder o sabor, não servirá para mais nada, senão para ser jogado fora e pisado pelos homens». [...] Por isso a aliança de sal é perpétua para Aarão e para os seus filhos: a sabedoria é necessária não só ao primeiro grau da Igreja, que os bispos ocupam, mas também aos outros graus, menores, isto é, aos presbíteros, aos diáconos e a toda a ordem eclesiástica.",
+  "temas": [
+   "a aliança de sal",
+   "o sal da sabedoria nos ministros"
+  ],
+  "resumo": "A aliança de sal lembra o sal de todo sacrifício (Lv 2,13) e, em figura, a sabedoria que deve temperar os ministros, do bispo ao último grau: «vós sois o sal da terra».",
+  "relevancia": 2,
+  "direitos": "domínio público"
+ },
+ {
+  "id": "jeronimo-ep52-5-o-nome-de-clerigo",
+  "autor": "São Jerônimo",
+  "autor_id": "jeronimo",
+  "datas": "c. 347–420",
+  "titulo_autor": "presbítero, Doutor da Igreja",
+  "obra": "Cartas (Epistulae)",
+  "passagem": "Carta 52 (a Nepociano), 5",
+  "edicao": "PL 22, 531",
+  "trecho": "3",
+  "versiculos": [
+   20,
+   21
+  ],
+  "lingua": "la",
+  "original": "Igitur Clericus qui Christi servit Ecclesiae, interpretatur primo vocabulum suum, et nominis definitione prolata, nitatur esse quod dicitur. Si enim κλῆρος Graece, sors Latine appellatur: propterea vocantur Clerici, vel quia de sorte sunt Domini, vel quia ipse Dominus sors, id est, pars Clericorum est. Qui autem vel ipse pars Domini est, vel Dominum partem habet, talem se exhibere debet, ut et ipse possideat Dominum, et possideatur a Domino. Qui Dominum possidet, et cum Propheta dicit, Pars mea Dominus, nihil extra Dominum habere potest. Quod si quippiam aliud habuerit praeter Dominum, pars ejus non erit Dominus. [...] Si autem ego pars Domini sum, et funiculus haereditatis ejus: nec accipio partem inter caeteras tribus, sed quasi Levita et Sacerdos vivo de decimis, et altari serviens, altaris oblatione sustentor, habens victum et vestitum, his contentus ero, et nudam crucem nudus sequar.",
+  "fonte_url": "https://mlat.uzh.ch/browser/cps_2.HieStr.Episto32",
+  "traducao_pt": "O clérigo, que serve à Igreja de Cristo, interprete primeiro o seu nome e, uma vez entendido o que ele significa, esforce-se por ser o que o nome diz. Se klêros, em grego, se diz «sorte» em latim, os clérigos são chamados assim ou porque são a parte que coube ao Senhor, ou porque o próprio Senhor é a sorte, isto é, a parte dos clérigos. E quem é a parte do Senhor, ou tem o Senhor por sua parte, deve mostrar-se tal que possua o Senhor e seja possuído pelo Senhor. Quem possui o Senhor e diz com o profeta: «A minha parte é o Senhor», não pode ter nada fora do Senhor. Se tiver qualquer outra coisa além do Senhor, o Senhor não será a sua parte. [...] Mas, se eu sou a parte do Senhor e o lote da sua herança, e não recebo uma parte entre as outras tribos, mas, como o levita e o sacerdote, vivo dos dízimos e, servindo ao altar, sou sustentado pela oferta do altar, tendo o que comer e o que vestir, com isso me contentarei e, nu, seguirei a cruz nua.",
+  "temas": [
+   "o clérigo, parte do Senhor",
+   "a pobreza de quem tem Deus por herança"
+  ],
+  "resumo": "«Clérigo» vem de klêros, «sorte»: o clérigo é a parte do Senhor e tem o Senhor por parte; quem vive, como o levita, dos dízimos e do altar não pode ter nada fora do Senhor, e segue, nu, a cruz nua.",
+  "relevancia": 3,
+  "direitos": "domínio público"
+ },
+ {
+  "id": "ambrosio-inps118-8-4-6-quem-tem-deus-por-porcao",
+  "autor": "Santo Ambrósio",
+  "autor_id": "ambrosio",
+  "datas": "c. 340–397",
+  "titulo_autor": "bispo de Milão, Doutor da Igreja",
+  "obra": "Comentário ao Salmo 118 (Expositio in psalmum CXVIII)",
+  "passagem": "sermão 8 (Heth), 4–6",
+  "edicao": "PL 15, 1295B–1296A",
+  "trecho": "3",
+  "versiculos": [
+   20
+  ],
+  "lingua": "la",
+  "original": "Denique cum Moysi dictum esset ut populo Judaeorum per tribus singulas divideret incolatus, et distribueret singulis tribubus portionem, tribum Leviticam excepit Deus dicens: Filiis Levi non erit portio, neque sors in medio fratrum suorum; quia Dominus Deus pars eorum est. Et alibi: Ego Dominus portio eorum. Negatur his terrena divisio: ut ipsi dum saecularem sibi non vindicant portionem, fiant coelestis possessio: vel hoc solum noverint possidere, hoc est, fidei et devotionis obsequium; multo ditiores quam qui possessionum suarum spatia ampla diffundunt. [...] At vero iste nihil sibi possidens, nulli nisi Deo militat, supra terram ejus est portio, non eum terra deficit, non mari clauditur. Cui portio Deus est, totius possessor est naturae. [...] Unde Petrus ostendens in Deo portionem sibi esse, non in saeculo, ait: Argentum et aurum non habeo, sed quod habeo, hoc tibi do, in nomine Jesu Christi Nazareni surge et ambula: haec est portio mea: haec est sors mea: portio mea Christus est.",
+  "fonte_url": "https://mlat.uzh.ch/browser/cps_2.AmbMed.ExInPsD",
+  "traducao_pt": "Quando foi dito a Moisés que repartisse ao povo dos judeus as terras, tribo por tribo, e desse a cada tribo a sua porção, Deus excetuou a tribo de Levi, dizendo: «Os filhos de Levi não terão porção nem sorte no meio dos seus irmãos, porque o Senhor Deus é a parte deles». E em outro lugar: «Eu, o Senhor, sou a porção deles». Nega-se a eles a divisão da terra para que, não reclamando para si uma porção deste mundo, se tornem posse do céu, ou saibam possuir só isto, a homenagem da fé e da devoção, muito mais ricos do que os que estendem ao longe os seus domínios. [...] Este, que nada possui para si, não milita senão para Deus; a sua porção está acima da terra: para ele a terra não acaba, e o mar não o encerra. Quem tem Deus por porção é dono da natureza inteira. [...] Por isso Pedro, mostrando que a sua porção estava em Deus e não no mundo, diz: «Não tenho prata nem ouro, mas o que tenho, isto te dou: em nome de Jesus Cristo Nazareno, levanta-te e anda». Esta é a minha porção, esta é a minha sorte: a minha porção é Cristo.",
+  "temas": [
+   "o Senhor, porção dos levitas",
+   "quem tem Deus possui tudo"
+  ],
+  "resumo": "Aos levitas se nega a terra para que sejam posse do céu: quem tem Deus por porção é dono da natureza inteira, como Pedro, que não tinha prata nem ouro, mas tinha Cristo.",
+  "relevancia": 3,
+  "direitos": "domínio público"
+ },
+ {
+  "id": "cipriano-ep1-1-livres-para-o-altar",
+  "autor": "São Cipriano de Cartago",
+  "autor_id": "cipriano",
+  "datas": "c. 200–258",
+  "titulo_autor": "bispo de Cartago, mártir",
+  "obra": "Cartas (Epistulae)",
+  "passagem": "Carta 1 (ao clero e ao povo de Furnos), 1 (Carta 66 na numeração da PL)",
+  "edicao": "PL 4, 398A–399A; CSEL 3/2 (Hartel), Ep. 1",
+  "trecho": "3",
+  "versiculos": [
+   20,
+   21,
+   23,
+   24
+  ],
+  "lingua": "la",
+  "original": "Scriptum est enim: Nemo militans Deo obligat se molestiis saecularibus, ut possit placere ei cui se probavit. Quod cum de omnibus dictum sit, quanto magis molestiis et laqueis saecularibus obligari non debent qui divinis rebus et spiritalibus occupati, ab ecclesia recedere et ad terrenos et saeculares actus vacare non possunt? Cujus ordinationis et religionis formam levitae prius in lege tenuerunt, ut, cum terram dividerent et possessiones partirentur undecim tribus, Levitica tribus, quae templo et altari et ministeriis divinis vacabat, nihil de illa divisionis portione perciperet, sed, aliis terram colentibus, illa tantum Deum coleret, et ad victum atque alimentum suum ab undecim tribubus de fructibus qui nascebantur decimas perciperet. Quod totum fiebat de auctoritate et dispositione divina, ut qui operationibus divinis insistebant, in nulla re avocarentur, nec cogitare aut agere saecularia cogerentur. Quae nunc ratio et forma in clero tenetur, ut qui in Ecclesia Domini ordinatione clerica promoventur, in nullo ab administratione divina avocentur, nec molestiis et negotiis saecularibus alligentur, sed in honore sportulantium fratrum, tamquam decimas ex fructibus accipientes, ab altari et sacrificiis non recedant, sed die ac nocte coelestibus rebus et spiritualibus serviant.",
+  "fonte_url": "https://mlat.uzh.ch/browser/cps_2.CypCar.Episto5",
+  "traducao_pt": "Pois está escrito: «Ninguém que milita para Deus se enreda nos negócios do mundo, se quer agradar àquele que o alistou». Se isso foi dito de todos, quanto menos devem prender-se aos negócios e aos laços do mundo os que, ocupados com as coisas divinas e espirituais, não podem afastar-se da Igreja para se dedicar às ocupações terrenas e seculares! Esta forma de ordem e de religião os levitas já a observavam na Lei: quando as onze tribos dividiram a terra e repartiram as propriedades, a tribo de Levi, que se dedicava ao templo, ao altar e aos ministérios divinos, não recebeu nada daquela partilha; enquanto as outras cultivavam a terra, ela prestava culto só a Deus, e para o seu alimento e sustento recebia das onze tribos o dízimo dos frutos que nasciam. Tudo isso se fazia por autoridade e disposição divina, para que os que se dedicavam às obras de Deus não fossem desviados por nada, nem obrigados a pensar em coisas do mundo ou a cuidar delas. É esta a razão e a forma que hoje se mantém no clero: os que na Igreja do Senhor são promovidos à ordem clerical não sejam desviados em nada do serviço divino nem se prendam aos incômodos e negócios do mundo; mas, sustentados pela contribuição dos irmãos, como quem recebe o dízimo dos frutos, não se afastem do altar e dos sacrifícios, e sirvam dia e noite às coisas celestes e espirituais.",
+  "temas": [
+   "o clero livre para o altar",
+   "os levitas sem terra, sustentados pelo dízimo"
+  ],
+  "resumo": "Como a tribo de Levi, que não recebeu terra e vivia do dízimo para servir só a Deus, os clérigos são sustentados pelos irmãos para não se enredarem nos negócios do mundo e servirem dia e noite ao altar.",
+  "relevancia": 3,
+  "direitos": "domínio público"
+ },
+ {
+  "id": "tomas-sth2-2-87-1-por-que-o-dizimo",
+  "autor": "São Tomás de Aquino",
+  "autor_id": "tomas",
+  "datas": "1225–1274",
+  "titulo_autor": "dominicano, Doutor da Igreja",
+  "obra": "Suma Teológica (Summa theologiae)",
+  "passagem": "II-II, q. 87, a. 1, resp. e ad 4",
+  "edicao": "ed. Leonina, t. IX (1897)",
+  "trecho": "3",
+  "versiculos": [
+   21,
+   24
+  ],
+  "lingua": "la",
+  "original": "Respondeo dicendum quod decimae in veteri lege dabantur ad sustentationem ministrorum Dei [...]. Quod enim eis qui divino cultui ministrabant ad salutem populi totius, populus necessaria victus ministraret, ratio naturalis dictat, sicut et his qui communi utilitati invigilant, scilicet principibus et militibus et aliis huiusmodi, stipendia victus debentur a populo. [...] Sed determinatio certae partis exhibendae ministris divini cultus non est de iure naturali, sed est introducta institutione divina secundum conditionem illius populi cui lex dabatur; qui cum in duodecim tribus esset divisus, duodecima tribus, scilicet levitica, quae tota erat divinis ministeriis mancipata, possessiones non habebat, unde convenienter institutum est ut reliquae undecim tribus decimam partem suorum proventuum Levitis darent, ut honorabilius viverent [...]. [...] qui enim decimam dat, quae est perfectionis signum (eo quod denarius est quodammodo numerus perfectus, quasi primus limes numerorum, ultra quem numerum non procedunt, sed reiterantur ab uno), novem sibi partibus reservatis, protestatur quasi in quodam signo ad se pertinere imperfectionem, perfectionem vero, quae erat futura per Christum, esse expectandam a Deo. [...] Ipsae etiam decimae quae ministris Ecclesiae dantur, per eos debent in usus pauperum dispensari.",
+  "fonte_url": "https://www.corpusthomisticum.org/sth3082.html",
+  "traducao_pt": "Respondo dizendo que, na lei antiga, os dízimos eram dados para o sustento dos ministros de Deus. [...] Que o povo forneça o necessário para viver aos que serviam ao culto divino pela salvação de todo o povo, a razão natural o pede, assim como o povo deve o sustento aos que velam pelo bem comum, isto é, aos governantes, aos soldados e a outros semelhantes. [...] Mas a fixação de uma parte certa para os ministros do culto divino não é de direito natural: foi introduzida por instituição divina, segundo a condição daquele povo a quem a Lei era dada. Como ele estava dividido em doze tribos, a décima segunda tribo, isto é, a de Levi, que se consagrava toda aos ministérios divinos, não tinha propriedades; por isso, com razão se estabeleceu que as outras onze tribos dessem aos levitas a décima parte dos seus rendimentos, para que vivessem com mais dignidade. [...] Quem dá o dízimo, que é sinal de perfeição (porque o dez é de certo modo um número perfeito, o primeiro limite dos números, além do qual eles não avançam, mas recomeçam do um), e reserva para si as nove partes, declara como num sinal que a ele pertence a imperfeição e que a perfeição, que viria por Cristo, se deve esperar de Deus. [...] E os próprios dízimos que se dão aos ministros da Igreja devem ser distribuídos por eles também em favor dos pobres.",
+  "temas": [
+   "por que o dízimo",
+   "o dízimo, sinal da perfeição que vem de Cristo"
+  ],
+  "resumo": "Sustentar os que servem ao culto é de razão natural; dar a décima parte foi lei para Israel porque Levi não tinha terra; e quem dá o dízimo e guarda nove partes confessa que a perfeição vem de Deus, por Cristo.",
+  "relevancia": 2,
+  "direitos": "domínio público"
+ },
+ {
+  "id": "boaventura-anunciacao4-o-dizimo-e-pelo-servico",
+  "autor": "São Boaventura",
+  "autor_id": "boaventura",
+  "datas": "1217/21–1274",
+  "titulo_autor": "ministro geral franciscano, bispo, Doutor da Igreja",
+  "obra": "Sermões dos santos (Sermones de sanctis): Anunciação da Virgem Maria, sermão 4",
+  "passagem": "Anunciação, sermão 4 (sobre Josué, que não se afastava da tenda, Ex 33,11)",
+  "edicao": "Opera omnia, Quaracchi, t. IX (1901), p. 673",
+  "trecho": "3",
+  "versiculos": [
+   21,
+   23
+  ],
+  "lingua": "la",
+  "original": "Iosue, filius Nun, puer, non recedebat de tabernaculo; in quo significatur, quod clerici in tabernaculo deberent esse assidui, illi maxime, qui de reditibus ecclesiae sustentantur; unde Numerorum decimo octavo: Filiis Levi dedi omnes decimas Israelis in possessionem pro ministerio, quo serviunt mihi in tabernaculo foederis. — Attendant igitur qui non ministrant in tabernaculo, et videant, si sana possint conscientia (vivere), immo luxuriari de his quae sunt ad cultum et obsequium tabernaculi deputata. Sed ne aliquis habeat principaliter oculum ad decimas, ideo dicit decimas datas pro ministerio, non e converso; quod est contra illos, qui plus frequentant ecclesiam pro lucro pecuniae quam pro lucro vitae aeternae; et tales sunt digni eiici de ista, quia domum orationis fecerunt domum negotiationis.",
+  "fonte_url": "https://archive.org/details/doctorisseraphic09bona/page/n702/mode/1up",
+  "traducao_pt": "«Josué, filho de Num, ainda jovem, não se afastava da tenda.» Isso significa que os clérigos deviam ser assíduos na tenda, sobretudo os que são sustentados pelos rendimentos da Igreja; por isso diz o capítulo 18 dos Números: «Aos filhos de Levi dei todos os dízimos de Israel como propriedade, em troca do serviço que me prestam na tenda da aliança». Prestem atenção, portanto, os que não servem na tenda, e vejam se podem viver de consciência tranquila, e até viver no luxo, com o que foi destinado ao culto e ao serviço da tenda. E, para que ninguém ponha os olhos principalmente nos dízimos, o texto diz que os dízimos são dados pelo serviço, e não o contrário. Isso vai contra os que frequentam a igreja mais pelo lucro do dinheiro do que pelo lucro da vida eterna; esses merecem ser expulsos dela, porque fizeram da casa de oração uma casa de negócio.",
+  "temas": [
+   "o dízimo é dado pelo serviço",
+   "contra o clérigo que busca lucro"
+  ],
+  "resumo": "Os dízimos foram dados aos levitas «em troca do serviço»: o serviço não existe para o dízimo, e sim o dízimo para o serviço; quem vive dos bens da Igreja sem servir, ou serve por lucro, faz da casa de oração uma casa de negócio.",
+  "relevancia": 3,
+  "direitos": "domínio público"
+ },
+ {
+  "id": "lapide-num18-26-27-tambem-os-levitas-oferecem",
+  "autor": "Cornélio a Lápide",
+  "autor_id": "lapide",
+  "datas": "1567–1637",
+  "titulo_autor": "jesuíta, exegeta (escritor eclesiástico, não canonizado)",
+  "obra": "Comentários aos Números (Commentaria in Numeros)",
+  "passagem": "cap. 18, vv. 26–27",
+  "edicao": "Commentaria in Scripturam Sacram, t. II, Paris, Vivès, 1868, p. 289",
+  "trecho": "4",
+  "versiculos": [
+   26,
+   27,
+   28,
+   30
+  ],
+  "lingua": "la",
+  "original": "Præcipe Levitis: Cum acceperitis a filiis Israel decimas, quas dedi vobis, primitias (id est decimas) earum offerte Domino (unde sequitur), id est decimam partem decimæ. — Jubet hic Deus ut Levitæ decimarum suarum decimas offerant Deo, id est Dei sacerdotibus, idque ad hoc, ut in hisce decimis Levitæ pares essent aliis tribubus, quæ ex labore suo offerebant decimas Domino, uti mox planius dicam. [...] q. d. Vos, o Levitæ, ex decimis Israel quas assignavi versu 21, dabitis decimam earum partem pontifici et sacerdotibus, eamque primo illis separabitis, antequam vos inde quidquam vobis sumatis. Ideoque hæ erunt veræ decimæ et primitiæ vestræ tam frugum, quam uvarum et vini, quas offeretis mihi, dando eas sacerdotibus; easque ego ita accipiam a vobis, ac si vos essetis Israelitæ laici, et penderetis mihi primitias et decimas agrorum et vinearum vestrarum.",
+  "fonte_url": "https://archive.org/details/commentariainscr02lapi_0/page/289/mode/1up",
+  "traducao_pt": "«Ordena aos levitas: Quando receberdes dos filhos de Israel os dízimos que eu vos dei, oferecei ao Senhor as primícias» (isto é, o dízimo) «deles» (por isso se segue:) «isto é, o dízimo do dízimo». Deus manda aqui que os levitas ofereçam a Deus, isto é, aos sacerdotes de Deus, o dízimo dos seus dízimos; e isso para que, nestes dízimos, os levitas fossem iguais às outras tribos, que ofereciam ao Senhor o dízimo do seu trabalho, como logo direi com mais clareza. [...] Como se dissesse: Vós, levitas, dos dízimos de Israel que vos atribuí no versículo 21, dareis a décima parte ao pontífice e aos sacerdotes, e a separareis para eles primeiro, antes de tomardes para vós qualquer coisa. Assim estes serão os vossos verdadeiros dízimos e as vossas primícias, tanto do trigo como da uva e do vinho, que me oferecereis ao dá-los aos sacerdotes; e eu os receberei de vós como se fôsseis israelitas leigos e me pagásseis as primícias e os dízimos dos vossos campos e das vossas vinhas.",
+  "temas": [
+   "quem recebe também oferece",
+   "o dízimo do dízimo"
+  ],
+  "resumo": "Os levitas, que vivem do dízimo, também devem separar primeiro a parte de Deus: assim ficam iguais às outras tribos, e Deus aceita a oferta deles como se fosse o fruto do seu próprio campo.",
+  "relevancia": 2,
+  "direitos": "domínio público"
+ },
+ {
+  "id": "peraldo-erudprinc5-5-o-melhor-da-vida",
+  "autor": "Guilherme Peraldo",
+  "autor_id": "peraldo",
+  "datas": "c. 1190–1271",
+  "titulo_autor": "frade dominicano, pregador (escritor medieval, não canonizado; a obra saiu entre os opúsculos atribuídos a Santo Tomás)",
+  "obra": "A formação dos príncipes (De eruditione principum)",
+  "passagem": "V, 5",
+  "edicao": "S. Thomae Aquinatis Opera omnia, Parma, t. XVI (1864), entre os opúsculos atribuídos",
+  "trecho": "4",
+  "versiculos": [
+   29,
+   30,
+   32
+  ],
+  "lingua": "la",
+  "original": "His qui jugum domini ab adolescentia tollunt, multa bona proveniunt, de quibus septem ponere sufficiat. [...] Secundum est, quod servitium Deo in adolescentia exhibitum gratius est illi (unde Joannem Evangelistam specialiter dilexit, quia ad ejus servitium adolescens venit) quam illum qui in senectute hoc facit: adolescens enim offert Deo de meliori vitae suae, de flore, de vigore suo [...]. Ipsi senes offerunt ei spicas corrosas cum Cain venientes ad Dei servitium in senectute; Diabolo et mundo, tamquam dominis, quod pulchrius est et melius de vita sua primo offerunt, reliquias vero, et id de quo mundus non curat, Deo dare volunt, cum tamen electa velit Deus sibi offerri. Num. 18: omnia quae offertis ex decimis, et in donaria domini separabitis, optima et electa cuncta erunt.",
+  "fonte_url": "https://www.corpusthomisticum.org/xre5.html",
+  "traducao_pt": "Aos que levam o jugo do Senhor desde a juventude vêm muitos bens, dos quais basta citar sete. [...] O segundo é que o serviço prestado a Deus na juventude lhe agrada mais (por isso amou de modo especial o evangelista João, que veio servi-lo ainda jovem) do que o de quem o presta só na velhice: o jovem oferece a Deus o melhor da sua vida, a sua flor, o seu vigor. [...] Esses velhos, que vêm ao serviço de Deus só na velhice, oferecem-lhe espigas roídas, como Caim: ao diabo e ao mundo, como a senhores, oferecem primeiro o que a sua vida tem de mais belo e melhor, e a Deus querem dar as sobras e aquilo com que o mundo não se importa, quando Deus quer que lhe ofereçam o que há de escolhido. Nm 18: «Tudo o que oferecerdes dos dízimos e separardes como dom do Senhor será do melhor e do mais escolhido».",
+  "temas": [
+   "dar a Deus o melhor",
+   "a juventude oferecida a Deus"
+  ],
+  "resumo": "Deus quer o escolhido e não as sobras (Nm 18,29): por isso lhe agrada mais o serviço oferecido na juventude, a flor da vida, do que o de quem lhe dá só o resto.",
+  "relevancia": 2,
+  "direitos": "domínio público"
+ }
+]

@@ -90,6 +90,16 @@ Vale para pessoas, povos e lugares, também nos comentários dos Padres.
 | *mishkan* | a Morada (do Senhor) | a tenda santa onde o Senhor habita; nunca «tabernáculo» (23 vezes em Números, 61 no Êxodo, a mudar) nem «santuário», que fica para *miqdash* | Nm 16,9, aprovado |
 | *mahtá* | turíbulo | «incensário» no Levítico (10,1; 16,12) e «incensórios» em 1Rs 7,50 mudam ao entrarem | Nm 16, aprovado |
 | *'edá* de um rebelde | o seu grupo | «Coré e o seu grupo» (Nm 16,5; 17,5) | Nm 16, aprovado |
+| *nasa 'avon*, *nasa ḥet* | carregar a iniquidade, carregar pecado | Nm 18,1.22.23.32, como em Nm 14,34 («carregareis as vossas iniquidades»); o projeto antigo diz às vezes «levar» | Nm 18 |
+| *mishmeret* | encargo; «cumprir o encargo» | Nm 18,3–5.8, como em Nm 3,7 | Nm 18 |
+| *mattaná* (os levitas, o sacerdócio) | dom | Nm 18,6 «são um dom para vós, entregues ao Senhor»; 18,7 «um serviço que eu vos dou como dom» | Nm 18 |
+| *terumá*, *harim* | oferta, separar | Nm 15,19–21 e Nm 18 («a oferta do Senhor», «separareis dele… o dízimo do dízimo»); o Levítico do projeto antigo diz «oferta elevada» (Lv 7,14.32–34): mudar ao entrar | Nm 15, aprovado; Nm 18 |
+| *tenufá* | oferenda movida | como no Levítico do projeto antigo (Lv 7,30–34); «oferta agitada» em Números (6,20; 8,11–21) muda ao entrar | Nm 18 |
+| *ḥoq 'olam* / *ḥuqqat 'olam* | direito perpétuo / lei perpétua | o primeiro é a parte que cabe ao sacerdote (Nm 18,8.11.19, como no Levítico); o segundo, a lei (Nm 15,15; 18,23) | Nm 18 |
+| *reshit* / *bikkurim* | primícias / primeiros frutos | duas palavras diferentes (Nm 18,12–13) | projeto antigo |
+| *mashḥá* (Nm 18,8) | porção | a parte das ofertas que cabe ao sacerdote | Nm 18 |
+| *ḥeleq* (na partilha) | parte | «eu sou a tua parte e a tua herança» (Nm 18,20), como no Deuteronômio («parte nem herança») e no Sl 16,5; Sl 119,57; 142,6 e Lm 3,24 («porção») mudam ao entrarem | Nm 18, a confirmar |
+| *ḥerem* | anátema | «consagrado por anátema» (Nm 18,14), com nota curta; Lv 27 («interdito») e Js 6–7 («votado ao extermínio») mudam ao entrarem | Nm 18, a confirmar |
 | *ne'um* | oráculo | também fora dos profetas: Sl 36,2 «A transgressão é oráculo para o ímpio» | Sl 36, aprovado |
 | *tehom rabbá* | o grande abismo | como em Gn 7,11, Is 51,10 e Am 7,4 | Sl 36, aprovado |
 | *re'e 'emuná* | alimenta-te da fidelidade | Sl 37,3, como a Nova Vulgata (*pascere fide*) | Sl 37, aprovado |

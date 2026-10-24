@@ -1,0 +1,237 @@
+[
+ {
+  "id": "pontifical-diaconos-levi-acrescentado",
+  "autor": "Liturgia da Igreja",
+  "autor_id": "liturgia",
+  "datas": "",
+  "titulo_autor": "",
+  "obra": "Pontifical Romano (1595–1968), Ordenação dos diáconos (De ordinatione Diaconi)",
+  "passagem": "admoestação do bispo aos ordinandos («Provehendi, filii dilectissimi, ad Leviticum ordinem»)",
+  "edicao": "Pontificale Romanum Clementis VIII ac Urbani VIII jussu editum et a Benedicto XIV recognitum, Paris, Jouby, 1859, pp. 38–39",
+  "versiculos": [
+   2,
+   4,
+   6,
+   7,
+   20
+  ],
+  "trecho": "1",
+  "lingua": "la",
+  "original": "Provehendi, filii dilectissimi, ad Leviticum ordinem, cogitate magnopere ad quantum gradum Ecclesiae ascenditis. Diaconum enim oportet ministrare ad altare, baptizare, et praedicare. Sane in veteri lege ex duodecim, una Tribus Levi electa est, quae speciali devotione tabernaculo Dei, ejusque sacrificiis, ritu perpetuo deserviret. Tantaque dignitas ipsi concessa est, quod nullus, nisi ex ejus stirpe, ad divinum illum cultum atque officium ministraturus assurgeret; adeo ut, grandi quodam privilegio haereditatis, et Tribus Domini esse mereretur et dici: quorum hodie, filii dilectissimi, et nomen et officium tenetis; quia in ministerium tabernaculi testimonii, id est, Ecclesiae Dei, eligimini in Levitico officio (…). Quam Ecclesiam Dei, veluti tabernaculum, portare et munire debetis ornatu sancto, praedicatu divino, exemplo perfecto. Levi quippe interpretatur additus, sive assumptus. Et vos, filii dilectissimi, qui ab haereditate paterna nomen accipitis, estote assumpti a carnalibus desideriis, a terrenis concupiscentiis, quae militant adversus animam; estote nitidi, mundi, puri, casti, sicut decet ministros Christi, et dispensatores mysteriorum Dei; ut digne addamini ad numerum ecclesiastici gradus; ut haereditas et Tribus amabilis Domini esse mereamini.",
+  "fonte_url": "https://archive.org/details/pontificaleroma00churgoog/page/n54/mode/2up",
+  "traducao_pt": "Filhos caríssimos, que ides ser promovidos à ordem levítica, pensai bem a que alto grau da Igreja estais subindo. Pois ao diácono compete servir ao altar, batizar e pregar. De fato, na antiga lei, das doze tribos foi escolhida uma, a tribo de Levi, para servir com especial devoção à tenda de Deus e aos seus sacrifícios, num rito perpétuo. E lhe foi dada uma dignidade tão grande que ninguém, a não ser da sua descendência, podia aproximar-se para servir naquele culto e ofício divino; de modo que, por um grande privilégio de herança, ela mereceu ser e ser chamada a tribo do Senhor. Hoje, filhos caríssimos, vós recebeis o nome e o ofício deles, porque sois escolhidos, no ofício levítico, para o serviço da tenda do testemunho, isto é, da Igreja de Deus (…). Essa Igreja de Deus, deveis carregá-la e protegê-la como a tenda, com ornamento santo, com pregação divina, com exemplo perfeito. Pois Levi quer dizer «acrescentado», ou «tomado». E vós, filhos caríssimos, que recebeis o nome da herança paterna, sede tomados para longe dos desejos da carne e das cobiças terrenas, que fazem guerra contra a alma; sede límpidos, limpos, puros e castos, como convém aos ministros de Cristo e dispensadores dos mistérios de Deus, para que sejais dignamente acrescentados ao número do grau eclesiástico e mereçais ser a herança e a tribo do Senhor, que é digno de todo o amor.",
+  "temas": [
+   "os levitas, figura dos diáconos",
+   "Levi, «acrescentado»: os que se juntam a Aarão para servir",
+   "carregar a Igreja como os levitas carregavam a tenda",
+   "ninguém de fora se aproxima: o ministério é dom",
+   "a tribo que é herança do Senhor"
+  ],
+  "resumo": "Na ordenação dos diáconos, o bispo lembrava que a tribo de Levi foi escolhida para servir à tenda e que ninguém de fora se aproximava; os diáconos herdam o nome e o ofício dos levitas, devem carregar a Igreja como a tenda e, sendo Levi «acrescentado», deixar-se tomar longe das cobiças terrenas para ser a herança do Senhor.",
+  "relevancia": 3,
+  "direitos": "domínio público",
+  "nota": "Alusão a Nm 18,2–7 (os levitas «juntados» a Aarão para o serviço da tenda do testemunho; «o estranho que se aproximar morrerá»: «nullus, nisi ex ejus stirpe») e a 18,20 («grandi quodam privilegio haereditatis»). «Levi interpretatur additus» é o jogo de palavras de Nm 18,2.4 (hebraico *yillawu*, «que se juntem», LXX προσκείσθωσάν σοι; cf. Gn 29,34). A admoestação esteve no Pontifical Romano até a reforma de 1968; omitimos no (…) a frase sobre a Igreja que combate (Ef 6,12). Conferida na imagem das pp. 38–39 e com o Ritus ordinationum de 1892, que também lê «additus». «Amabilis Domini»: traduzido «do Senhor, que é digno de todo o amor». O prefácio consecratório do mesmo rito vai como achado à parte. Texto em textos/pontifical-romano-18.md."
+ },
+ {
+  "id": "pontifical-diaconos-prefacio-filhos-de-levi",
+  "autor": "Liturgia da Igreja",
+  "autor_id": "liturgia",
+  "datas": "",
+  "titulo_autor": "",
+  "obra": "Pontifical Romano (1595–1968), Ordenação dos diáconos (De ordinatione Diaconi)",
+  "passagem": "prefácio consecratório («Vere dignum… honorum dator, ordinumque distributor»)",
+  "edicao": "Pontificale Romanum Clementis VIII ac Urbani VIII jussu editum et a Benedicto XIV recognitum, Paris, Jouby, 1859, pp. 40–41",
+  "versiculos": [
+   2,
+   3,
+   4,
+   5,
+   6,
+   20
+  ],
+  "trecho": "1",
+  "lingua": "la",
+  "original": "Vere dignum et justum est, aequum et salutare, nos tibi semper et ubique gratias agere, Domine sancte, Pater omnipotens, aeterne Deus, honorum dator, ordinumque distributor, atque officiorum dispositor (…). Cujus corpus, Ecclesiam videlicet tuam, coelestium gratiarum varietate distinctam, suorumque connexam distinctione membrorum, per legem mirabilem totius compaginis unitam, in augmentum templi tui crescere, dilatarique largiris; sacri muneris servitutem trinis gradibus ministrorum nomini tuo militare constituens; electis ab initio Levi filiis, qui in mysticis operationibus domus tuae fidelibus excubiis permanentes, haereditatem benedictionis aeternae sorte perpetua possiderent. Super hos quoque famulos tuos, quaesumus, Domine, placatus intende, quos tuis sacris altaribus servituros in officium Diaconatus suppliciter dedicamus.",
+  "fonte_url": "https://archive.org/details/pontificaleroma00churgoog/page/n56/mode/2up",
+  "traducao_pt": "É verdadeiramente digno e justo, é nosso dever e salvação dar-vos graças sempre e em toda parte, Senhor santo, Pai todo-poderoso, Deus eterno, que dais as honras, distribuís as ordens e dispondes os ofícios (…). Vós concedeis que o corpo dele, isto é, a vossa Igreja, enriquecida com a variedade das graças do céu, ligada pela distinção dos seus membros e unida pela lei admirável que junta todo o conjunto, cresça e se dilate para aumento do vosso templo; e estabelecestes que o serviço do ministério sagrado combatesse pelo vosso nome em três graus de ministros, depois de terdes escolhido, desde o princípio, os filhos de Levi, para que, permanecendo em vigília fiel nas obras misteriosas da vossa casa, possuíssem como sorte perpétua a herança da bênção eterna. Olhai também com bondade, Senhor, nós vos pedimos, para estes vossos servos, que humildemente consagramos ao ofício do diaconato, para servirem aos vossos santos altares.",
+  "temas": [
+   "os filhos de Levi, escolhidos desde o princípio",
+   "a vigília fiel no serviço da casa de Deus",
+   "a herança da bênção eterna, como sorte perpétua",
+   "os três graus do ministério"
+  ],
+  "resumo": "Na oração com que consagrava os diáconos, a Igreja dava graças a Deus que escolheu desde o princípio os filhos de Levi para que, guardando fielmente o serviço da sua casa, possuíssem como sorte perpétua a herança da bênção eterna.",
+  "relevancia": 2,
+  "direitos": "domínio público",
+  "nota": "Prefácio dos antigos sacramentários romanos, conservado no Pontifical até 1968 e refeito no Pontifical de 1968/1990 («como já na primeira Aliança escolhestes os filhos de Levi para o serviço do templo antigo», citado no Catecismo, § 1543). «Fidelibus excubiis» lembra Nm 18,3–5 na Vulgata («excubabunt… ad praecepta tua», «excubate in custodia sanctuarii»); «haereditatem… sorte perpetua» lembra 18,20–21. «Cujus» se refere a Cristo, nomeado no trecho omitido (…). Pode ir também ao trecho 3. Texto em textos/pontifical-romano-18.md; pp. 40–41 conferidas só pelo OCR."
+ },
+ {
+  "id": "catecismo-romano-ii-7-13-tonsura-clerigo",
+  "autor": "Catecismo Romano (Catecismo do Concílio de Trento)",
+  "autor_id": "catecismo-romano",
+  "datas": "1566",
+  "titulo_autor": "publicado por ordem de São Pio V",
+  "obra": "Catechismus Romanus ex decreto Concilii Tridentini, parte II, cap. 7 (Do sacramento da Ordem)",
+  "passagem": "n. 13, «Quid clericalis tonsura, clericique nomen sibi velint» (o que querem dizer a tonsura e o nome de clérigo)",
+  "edicao": "editio princeps, Roma, Paulo Manúcio, 1566, pp. 360–361 (na margem: «Num. 18»)",
+  "versiculos": [
+   20
+  ],
+  "trecho": "3",
+  "lingua": "la",
+  "original": "Incipiendum est autem a prima tonsura, quam quidem docere oportet quandam praeparationem esse ad ordines accipiendos. Ut enim homines ad baptismum exorcismis, ad matrimonium sponsalibus praeparari solent, ita, cum tonso capillo Deo dedicantur, tamquam aditus ad ordinis sacramentum illis aperitur. Declaratur enim, qualis esse debeat, qui sacris imbui cupit. Nam Clerici nomen, quod ei tunc primum imponitur, ab eo deductum est, quod Dominum sortem et hereditatem suam habere incipiat, veluti qui in Hebraeorum populo divino cultui mancipati erant, quibus vetuit Dominus aliquam agrorum partem in terra promissionis distribui, cum inquit: Ego pars et hereditas tua. Ac quamvis id omnibus fidelibus commune sit, praecipua tamen ratione iis conveniat necesse est, qui se Dei ministerio consecrarunt.",
+  "fonte_url": "https://archive.org/details/bub_gb_lyTbTDLKuJMC/page/n385/mode/2up",
+  "traducao_pt": "É preciso começar pela primeira tonsura, e ensinar que ela é uma preparação para receber as ordens. Assim como os homens se preparam para o batismo com os exorcismos e para o matrimônio com os esponsais, assim também, quando se consagram a Deus com o corte do cabelo, abre-se para eles como que a entrada para o sacramento da Ordem. Com isso se declara como deve ser quem deseja ser iniciado nas coisas sagradas. Pois o nome de clérigo, que então lhe é dado pela primeira vez, vem de que ele começa a ter o Senhor como sua sorte e sua herança, à maneira dos que, no povo hebreu, estavam consagrados ao culto divino, e aos quais o Senhor proibiu que se repartisse parte alguma dos campos na terra prometida, quando disse: Eu sou a tua parte e a tua herança. E, embora isso seja comum a todos os fiéis, é necessário que convenha de modo especial aos que se consagraram ao ministério de Deus.",
+  "temas": [
+   "o clérigo, aquele que tem o Senhor por sorte",
+   "a tonsura, entrada no estado clerical",
+   "Deus, herança de todos os fiéis e, de modo especial, dos ministros"
+  ],
+  "resumo": "O Catecismo de Trento explica que o nome de clérigo, dado na tonsura, vem de que ele passa a ter o Senhor por sorte e herança, como os levitas, que não receberam terra porque o Senhor lhes disse «eu sou a tua parte e a tua herança»; isso vale para todos os fiéis, mas de modo especial para os ministros.",
+  "relevancia": 3,
+  "direitos": "domínio público",
+  "nota": "Klêros = sorte, parte, herança (cf. Jerônimo, Ep. 52, 5, que o Catecismo segue sem nomear). Única citação de Nm 18 no Catecismo Romano (varredura do OCR da ed. de 1905: Números só nos caps. 11, 12, 17, 18, 21, 25 e 35). Grafia normalizada (u/v, ſ, &); conferido na imagem da p. 361 da editio princeps e com a ed. de 1905 (https://archive.org/details/gri_33125007759364, pp. 241–242, nota «Num. 18, 20»). Texto em textos/catecismo-romano-18.md."
+ },
+ {
+  "id": "afonso-selva-ii-10-quem-tem-deus-tem-tudo",
+  "autor": "Santo Afonso Maria de Ligório",
+  "autor_id": "afonso",
+  "datas": "1696–1787",
+  "titulo_autor": "bispo, fundador dos Redentoristas, Doutor da Igreja",
+  "obra": "Selva de matérias para pregação e instrução (Selva di materie predicabili ed istruttive), parte II, instrução X: «Do amor a Deus»",
+  "passagem": "começo da instrução (pp. 167–168)",
+  "edicao": "Opera omnia italiane, IntraText (páginas 167–168 da edição que o IntraText reproduz)",
+  "versiculos": [
+   20
+  ],
+  "trecho": "3",
+  "lingua": "it",
+  "original": "Anche nell'antica legge disse Dio a' sacerdoti ch'esso gli aveva eletti tra gli altri affinché fossero tutti suoi: Separavi vos a caeteris, ut essetis mei. E perciò disse loro che non avessero né beni né parte tra i secolari, perché egli stesso volea essere l'eredità e parte loro: In terra eorum nihil possidebitis, nec habebitis partem inter eos: ego pars et haereditas tua in medio filiorum Israel. Sul che scrisse poi l'Oleastro: Magna dignatio Domini, si eam, sacerdos, cognoscas, quod velit Deus esse pars tua. Quid non habebis, si Deum habeas? Il sacerdote dunque dee dire con s. Agostino: Eligant sibi alii partes quibus fruantur, terrenas et temporales: portio mea Dominus est. (…) Chi ha tutte le cose e non ha Dio, non ha niente; ma chi ha Dio, senza tutte le altre cose, ha tutto.",
+  "fonte_url": "https://www.intratext.com/IXT/ITASA0000/_P2ZS.HTM",
+  "traducao_pt": "Também na antiga lei Deus disse aos sacerdotes que os tinha escolhido entre os outros para que fossem todos seus: Separei-vos dos outros, para que fôsseis meus. E por isso lhes disse que não tivessem bens nem parte entre os do mundo, porque ele mesmo queria ser a herança e a parte deles: Na terra deles nada possuireis, nem tereis parte entre eles: eu sou a tua parte e a tua herança no meio dos filhos de Israel. Sobre isso escreveu depois Oleastro: Grande condescendência do Senhor, sacerdote, se a reconheces: Deus quer ser a tua parte! O que não terás, se tens a Deus? O sacerdote deve, então, dizer com Santo Agostinho: Escolham os outros para si as partes de que gozem, terrenas e passageiras; a minha porção é o Senhor. (…) Quem tem todas as coisas e não tem a Deus não tem nada; mas quem tem a Deus, mesmo sem todas as outras coisas, tem tudo.",
+  "temas": [
+   "o sacerdote escolhido para ser todo de Deus",
+   "«eu sou a tua parte»: a grande condescendência de Deus",
+   "quem tem a Deus tem tudo",
+   "o desprendimento dos bens"
+  ],
+  "resumo": "Afonso lembra aos sacerdotes que Deus não quis dar terra aos levitas porque ele mesmo queria ser a parte deles, e conclui com Oleastro e Agostinho: que grande condescendência, que Deus queira ser a tua parte; quem tem a Deus, mesmo sem nada mais, tem tudo.",
+  "relevancia": 3,
+  "direitos": "domínio público",
+  "nota": "Matéria para os exercícios espirituais do clero (1760). Afonso cita Nm 18,20 pela Vulgata, com o verbo no plural da primeira metade («possidebitis… habebitis»), como Belarmino. «Separavi vos a caeteris (populis), ut essetis mei» é Lv 20,26. «Oleastro» é o dominicano português Jerónimo de Azambuja (Hieronymus ab Oleastro, †1563), comentador do Pentateuco; a frase de Agostinho é das Enarrationes in Ps. 15 (não conferida). Omitimos no (…) a frase de Anselmo e o exemplo de São Clemente diante de Diocleciano. Nas outras passagens sobre o desprendimento do clero (Selva II, 7; Selva I), Afonso usa só o Sl 15,5. Achado pela concordância do IntraText («possidebitis»). Texto em textos/afonso-selva-18.md."
+ },
+ {
+  "id": "belarmino-de-clericis-26-a-heranca-dos-levitas",
+  "autor": "São Roberto Belarmino",
+  "autor_id": "belarmino",
+  "datas": "1542–1621",
+  "titulo_autor": "cardeal, Doutor da Igreja",
+  "obra": "Controvérsias: Dos clérigos (De clericis), livro I, cap. 26 («Dos bens que os clérigos possuem por doação dos leigos»)",
+  "passagem": "resposta ao primeiro argumento de Wyclif, que tirava de Nm 18,20 que os clérigos não podem ter bens",
+  "edicao": "Opera omnia, Paris, Vivès, 1870, t. II, pp. 483–484",
+  "versiculos": [
+   20,
+   21,
+   23,
+   24
+  ],
+  "trecho": "3",
+  "lingua": "la",
+  "original": "Quando enim Scriptura dicit, Sacerdotes non debuisse habere quidquam, sed Dominum esse eorum haereditatem, vult dicere non debuisse eos habere quidquam more aliorum, tanquam filios Jacob, et ex paterna haereditate: sed solum habere debuisse ea, quae debebantur Deo, cujus ipsi ministri erant; et sic factum est. Nam tota terra Palaestinae quasi quaedam haereditas divisa fuit in duodecim partes pro numero tribuum, exclusa omnino tribu Levi, quae erat decimatertia. (…) Deinde terra jam divisa, et Levi exhaeredato, Deus voluit sibi tanquam proprio Regi Judaeorum dari loco tributi decimam partem omnium fructuum, et 48 civitates cum suburbanis suis, et haec omnia donavit ipse Levitis. Quae portio Levitarum, ut supra diximus, major fuit quacumque portione aliarum tribuum; Nam habuerunt decimam partem, cum ipsi vix essent sexagesima pars totius populi, et hoc significant illa verba: Ego Dominus haereditas Levitarum sum. Ubi nota miram Dei providentiam erga Sacerdotes; Jacob exhaeredavit filium Levi, propter peccatum ipsius, ut patet Genes. XLIX: Dividam illos in Jacob, et dispergam eos in Israel. Deus autem ratam habuit sententiam Israelis, sed eam implevit cum summo honore Levitarum, et totius populi utilitate; Nam dedit ipse Levitis suam haereditatem, et totus populus maximum commodum inde consecutus est. Si enim fuissent Levitae collecti in unum locum, ut erant aliae tribus, non potuissent omnes populi facile ab eis doceri: dispersi autem in omnes tribus, facile omnibus adesse, eosque instituere in lege Domini potuerunt.",
+  "fonte_url": "https://archive.org/details/operaomnia02bell_0/page/n490/mode/2up",
+  "traducao_pt": "Quando a Escritura diz que os sacerdotes não deviam ter coisa alguma, mas que o Senhor era a herança deles, quer dizer que não deviam ter nada à maneira dos outros, como filhos de Jacó e por herança paterna, mas só deviam ter o que era devido a Deus, de quem eles eram ministros; e assim se fez. Pois toda a terra da Palestina foi dividida como uma herança em doze partes, segundo o número das tribos, ficando de todo excluída a tribo de Levi, que era a décima terceira. (…) Depois, já dividida a terra e deserdado Levi, Deus quis que lhe dessem, como a próprio Rei dos judeus, em lugar de tributo, a décima parte de todos os frutos e quarenta e oito cidades com os seus arredores; e tudo isso ele mesmo deu aos levitas. Essa porção dos levitas, como dissemos antes, foi maior do que a de qualquer outra tribo, porque recebiam a décima parte, quando mal chegavam a ser a sexagésima parte de todo o povo; e é isso que significam aquelas palavras: Eu, o Senhor, sou a herança dos levitas. Repara aqui na admirável providência de Deus para com os sacerdotes. Jacó deserdou seu filho Levi por causa do pecado dele, como se vê no Gênesis, capítulo 49: Eu os dividirei em Jacó e os dispersarei em Israel. Deus confirmou a sentença de Israel, mas a cumpriu com a maior honra para os levitas e para proveito de todo o povo: deu aos levitas a sua própria herança, e todo o povo tirou disso o maior benefício. Pois, se os levitas estivessem reunidos num só lugar, como as outras tribos, não poderiam ensinar com facilidade a todos; dispersos por todas as tribos, puderam facilmente estar perto de todos e instruí-los na lei do Senhor.",
+  "temas": [
+   "o que quer dizer «eu sou a tua herança»: viver do que se dá a Deus",
+   "o dízimo, tributo dado a Deus como Rei e passado aos levitas",
+   "a maldição de Jacó transformada em honra",
+   "os levitas espalhados para ensinar a todos"
+  ],
+  "resumo": "Contra quem tirava de Nm 18,20 que o clero não pode ter bens, Belarmino explica que os levitas só não recebiam terra por herança, como as outras tribos: viviam do dízimo, tributo dado a Deus como Rei, que era uma porção maior que a das outras tribos; e a dispersão que Jacó lhes impôs como castigo Deus a transformou em honra, para que estivessem perto de todo o povo e o ensinassem.",
+  "relevancia": 3,
+  "direitos": "domínio público",
+  "nota": "As «48 cidades» vêm de Nm 35 e Js 21; «Ego Dominus haereditas Levitarum sum» resume Nm 18,20 e Dt 18,2; Gn 49,7. O cálculo de «um sexagésimo» Belarmino o faz no cap. 25 (Nm 1 e 3: 22 mil levitas para mais de um milhão de israelitas). Omitimos no (…) a explicação de por que eram treze tribos (José valia por duas). No mesmo livro, cap. 27, ele acrescenta, a propósito de Jerônimo («ut sit verus Levita»): «veri Levitae divites erant externis opibus, sed non affectu». Conferido na imagem da p. 484. Texto em textos/belarmino-de-clericis-18.md."
+ },
+ {
+  "id": "belarmino-de-clericis-25-dizimo-lei-moral",
+  "autor": "São Roberto Belarmino",
+  "autor_id": "belarmino",
+  "datas": "1542–1621",
+  "titulo_autor": "cardeal, Doutor da Igreja",
+  "obra": "Controvérsias: Dos clérigos (De clericis), livro I, cap. 25 («Dos dízimos»)",
+  "passagem": "contra Wyclif, que dizia que os dízimos são pura esmola",
+  "edicao": "Opera omnia, Paris, Vivès, 1870, t. II, p. 478",
+  "versiculos": [
+   21,
+   24
+  ],
+  "trecho": "3",
+  "lingua": "la",
+  "original": "Primus error fuit Joan. Wiclefi, qui (…) docebat decimas esse puras eleemosynas, et nullo jure deberi Sacerdotibus. (…) Error est manifestus, facile enim doceri potest, esse de jure naturae et divino, quod aliquid solvant Laici Sacerdotibus, et praeterea de jure Ecclesiastico, ut id quod solvitur sit pars decima. Quod sit de jure naturae, probatur: Nam certe ratio dictat, ut iis, qui pro populo laborant, populus alimenta praebeat: unde enim deducimus deberi Regibus tributa, et militibus stipendia, et judicibus, aliisque ministris publicis salaria, inde etiam deducere possumus, deberi sacerdotibus decimas, vel aliquid earum loco. (…) Quod autem de jure divino sit, probatur ex utroque Testamento, ac primum Levit. ult., Num. XVIII, Malach. III et alibi, Deus jussit decimas Levitis dari, quae quidem praecepta licet non obligent Christianos, ut judicialia erant, obligant tamen quatenus moralia, id est, quod pars aliqua fructuum sit Sacerdotibus danda.",
+  "fonte_url": "https://archive.org/details/operaomnia02bell_0/page/n485/mode/1up",
+  "traducao_pt": "O primeiro erro foi o de João Wyclif, que (…) ensinava que os dízimos são pura esmola e não se devem aos sacerdotes por direito nenhum. (…) O erro é evidente, porque é fácil mostrar que é de direito natural e divino que os leigos paguem alguma coisa aos sacerdotes, e, além disso, de direito eclesiástico que o que se paga seja a décima parte. Que seja de direito natural, prova-se assim: a razão certamente manda que o povo dê o sustento aos que trabalham pelo povo; pois, assim como daí deduzimos que se devem tributos aos reis, soldo aos soldados e salário aos juízes e aos outros servidores públicos, daí também podemos deduzir que se devem aos sacerdotes os dízimos, ou alguma coisa no lugar deles. (…) E que seja de direito divino, prova-se pelos dois Testamentos: primeiro, no último capítulo do Levítico, em Números 18, em Malaquias 3 e em outros lugares, Deus mandou que se dessem os dízimos aos levitas; esses preceitos, embora não obriguem os cristãos enquanto eram leis judiciais, obrigam enquanto são morais, isto é, no que mandam dar aos sacerdotes alguma parte dos frutos.",
+  "temas": [
+   "o dízimo hoje: o que passou e o que permanece",
+   "sustentar os que trabalham pelo povo",
+   "direito natural, divino e eclesiástico"
+  ],
+  "resumo": "Belarmino distingue no preceito do dízimo de Nm 18 o que era lei judicial de Israel, que não obriga os cristãos, e o que é lei moral, que continua: dar aos ministros uma parte dos frutos; a própria razão manda que o povo sustente os que trabalham por ele, como sustenta reis, soldados e juízes, e a medida de um décimo é da Igreja.",
+  "relevancia": 2,
+  "direitos": "domínio público",
+  "nota": "Omitimos no primeiro (…) a fonte (Tomás Waldense) e a «antítese» dos antitrinitários de Alba Iulia (1568); no segundo, Abraão e Melquisedec (Gn 14, com Crisóstomo); depois do trecho, Belarmino cita as Constituições Apostólicas e Jerônimo, In Mal. 3. A mesma distinção (o dízimo é devido por direito natural e divino; a quantidade, por lei eclesiástica, «essendo cessata l'antica, come giudiziale») aparece em Santo Afonso, Istruzione e pratica pei confessori, cap. XX, ponto IV, n. 84 (https://www.intratext.com/IXT/ITASA0000/_PYC.HTM), sem citar Nm 18. Conferido na imagem da p. 478. Texto em textos/belarmino-de-clericis-18.md."
+ },
+ {
+  "id": "vaticano-ii-po-17-senhor-parte-e-heranca",
+  "autor": "Concílio Vaticano II",
+  "autor_id": "vaticano-ii",
+  "datas": "1962–1965",
+  "titulo_autor": "XXI concílio ecumênico",
+  "obra": "Decreto Presbyterorum ordinis, sobre o ministério e a vida dos presbíteros (7 de dezembro de 1965)",
+  "passagem": "n. 17 (cita Nm 18,20)",
+  "edicao": "texto latino oficial (AAS 58, 1966), no site da Santa Sé",
+  "versiculos": [
+   20
+  ],
+  "trecho": "3",
+  "lingua": "la",
+  "original": "Sacerdotes enim, quippe quorum Dominus sit «pars et hereditas» (Num. 18, 20), bonis temporalibus uti debent tantummodo eos in fines, ad quos iuxta Christi Domini doctrinam Ecclesiaeque ordinationem eadem destinari licet. (…) Itaque officium ecclesiasticum ne quaestui habeant neve reditus ab eo provenientes in propriae rei familiaris amplificationem impendant. (…) Immo ad paupertatem voluntariam amplexandam invitantur, qua Christo manifestius conformentur, et ad sacrum ministerium promptiores fiant.",
+  "fonte_url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651207_presbyterorum-ordinis_lt.html",
+  "traducao_pt": "Os sacerdotes, cuja «parte e herança» é o Senhor (Nm 18,20), devem usar os bens temporais somente para os fins a que, segundo a doutrina de Cristo Senhor e a ordem da Igreja, é lícito destiná-los. (…) Não façam, portanto, do ofício eclesiástico fonte de lucro, nem empreguem as rendas que dele vêm para aumentar o patrimônio da própria família. (…) Mais ainda: são convidados a abraçar a pobreza voluntária, que os torne mais claramente conformes a Cristo e mais disponíveis para o sagrado ministério.",
+  "temas": [
+   "o uso dos bens por quem tem o Senhor por herança",
+   "o ministério não é fonte de lucro",
+   "a pobreza voluntária dos sacerdotes"
+  ],
+  "resumo": "O Concílio tira de Nm 18,20 a regra para os sacerdotes de hoje: porque o Senhor é a sua parte e herança, usam os bens só para os fins da Igreja, não fazem do ministério fonte de lucro nem de enriquecimento da família, e são convidados à pobreza voluntária.",
+  "relevancia": 3,
+  "direitos": "citação curta",
+  "nota": "Três frases do n. 17, com (…) nos intervalos; o resto (a destinação dos bens da Igreja ao culto, ao sustento honesto do clero e aos pobres; a casa aberta aos pobres) fica só no link. O site da Santa Sé traz «tentummodo» (erro de digitação); corrigimos para «tantummodo»."
+ },
+ {
+  "id": "bento-xvi-aud-2011-11-09-levitas-vivem-de-deus",
+  "autor": "Bento XVI",
+  "autor_id": "bento-xvi",
+  "datas": "1927–2022",
+  "titulo_autor": "papa",
+  "obra": "Audiência geral de 9 de novembro de 2011 (catequese sobre o Salmo 119, na série «a escola da oração»)",
+  "passagem": "sobre o v. 57 do Salmo, «a minha parte é o Senhor», com a citação de Nm 18,20",
+  "edicao": "original italiano, Libreria Editrice Vaticana",
+  "versiculos": [
+   20,
+   24
+  ],
+  "trecho": "3",
+  "lingua": "it",
+  "original": "Questo termine “parte” evoca l’evento della ripartizione della terra promessa tra le tribù d’Israele, quando ai Leviti non venne assegnata alcuna porzione del territorio, perché la loro “parte” era il Signore stesso. (…) Ebbene i Leviti, mediatori del sacro e della benedizione divina, non possono possedere, come gli altri israeliti, questo segno esteriore della benedizione e questa fonte di sussistenza. Interamente donati al Signore, devono vivere di Lui solo, abbandonati al suo amore provvidente e alla generosità dei fratelli, senza avere eredità perché Dio è la loro parte di eredità, Dio è la loro terra, che li fa vivere in pienezza.",
+  "fonte_url": "https://www.vatican.va/content/benedict-xvi/it/audiences/2011/documents/hf_ben-xvi_aud_20111109.html",
+  "traducao_pt": "Essa palavra «parte» lembra a partilha da terra prometida entre as tribos de Israel, quando não se deu aos levitas nenhuma porção do território, porque a «parte» deles era o próprio Senhor. (…) Pois bem, os levitas, mediadores do sagrado e da bênção divina, não podem possuir, como os outros israelitas, esse sinal exterior da bênção e essa fonte de sustento. Inteiramente entregues ao Senhor, devem viver só dele, abandonados ao seu amor providente e à generosidade dos irmãos, sem herança, porque Deus é a parte da herança deles, Deus é a terra deles, que os faz viver em plenitude.",
+  "temas": [
+   "Deus é a terra dos levitas",
+   "viver do amor providente de Deus e da generosidade dos irmãos",
+   "a terra, sinal de bênção, de que os levitas abrem mão"
+  ],
+  "resumo": "Bento XVI explica a palavra «parte» pela partilha da terra: os levitas, mediadores da bênção, renunciam ao sinal da bênção, que é a terra, e vivem só de Deus, do seu amor providente e da generosidade dos irmãos, porque Deus é a terra deles.",
+  "relevancia": 3,
+  "direitos": "citação curta",
+  "nota": "Entre a primeira e a segunda frase, o Papa cita Nm 18,20 («così dichiara il Libro dei Numeri (18,20)»), Dt 10,9; 18,2; Js 13,33 e Ez 44,28 e lembra que a terra era sinal de bênção (casa, filhos, campos). Depois aplica o versículo aos sacerdotes, «chamados a viver só do Senhor e da sua Palavra, sem outras seguranças» (daí o celibato), e a todos os fiéis, «povo de Deus que pertence só a ele»: isso fica só no link. Tradução oficial em português no mesmo site (/pt/)."
+ }
+]
