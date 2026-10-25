@@ -93,6 +93,15 @@ de onde veio. Ler antes de preparar um capítulo (`CAPITULO.md`, etapas 2 a 4).
   dentro do contexto»), Ruperto («um pouco confuso»), Orígenes sobre a visão de Deus («muito
   hipotético, e não ajuda na compreensão do texto») e Lápide («fraco»). Evitar a especulação e a
   alegoria solta; preferir o que ilumina a cena. (Nm 12, 21 e 24/10)
+- Mais exclusões em Nm 12 (25/10): Ruperto sobre as visões («não vejo base no texto para essas
+  afirmações, e está um pouco difícil de entender a que ele se refere») e os quatro de Orígenes
+  sobre a Lei lida em Cristo (o tema saiu inteiro). Crisóstomo sobre Hb 3 «está confuso. Talvez dê
+  para salvar esse trecho melhorando o corte e a tradução»: voltou mais curto, para ele ver de novo.
+  Comentário com raciocínio em várias etapas fica confuso fora da obra: cortar até a ideia central e
+  dizer quem é quem («Cristo… Moisés», não «um… o outro»).
+- Nas obras de perguntas e respostas (Basílio, Regras; Teodoreto e Agostinho, *Quaestiones*), sem
+  os rótulos «Pergunta 25.» e «Resposta.»: «Desnecessário manter a marcação do número da pergunta
+  e da resposta» (Nm 12, 25/10). A pergunta fica, como frase.
 
 ## Poucos comentários, e diferentes (20/10/2026)
 

@@ -15,7 +15,7 @@
  "Clemente de Alexandria": {"sobre": "mestre cristão de Alexandria (c. 150–c. 215), escritor eclesiástico", "oriental": true},
  "Constituições Apostólicas": {"sobre": "compilação anônima de leis e liturgias da Síria (c. 380), posta sob o nome dos apóstolos", "oriental": true},
  "Cornélio a Lápide": {"sobre": "jesuíta flamengo (1567–1637), comentador de toda a Bíblia; não canonizado", "oriental": false},
- "Didascália dos Apóstolos": {"sobre": "ordem eclesiástica da Síria (séc. III), conservada inteira só em siríaco; traduzida aqui da versão inglesa de Gibson (1903)", "oriental": true},
+ "Didascália dos Apóstolos": {"sobre": "ordem eclesiástica da Síria (séc. III), conservada inteira em siríaco e, em parte, numa versão latina antiga", "oriental": true},
  "Dionísio bar Salibi": {"sobre": "bispo de Amida († 1171), da Igreja siro-ortodoxa, comentador de toda a Escritura", "oriental": true, "site": false},
  "Dídimo, o Cego": {"sobre": "mestre da escola de Alexandria (c. 313–398), escritor eclesiástico", "oriental": true},
  "Epístola de Barnabé": {"sobre": "escrito cristão antigo (c. 130), entre os Padres Apostólicos", "oriental": true},
@@ -132,5 +132,7 @@
  "São Lourenço de Bríndisi": {"sobre": "presbítero capuchinho (1559–1619), Doutor da Igreja", "oriental": false},
  "Sermão antigo atribuído a Santo Agostinho": {"sobre": "sermão do Apêndice dos sermões de Agostinho (séc. V–VI), de autor desconhecido", "oriental": false},
  "Sermão antigo atribuído a Santo Agostinho (Apêndice)": {"sobre": "", "oriental": false, "usar": "Sermão antigo atribuído a Santo Agostinho"},
- "São Cosme de Maiúma, o Melodista": {"sobre": "monge e bispo de Maiúma (c. 675–c. 752), hinógrafo da Igreja bizantina", "oriental": true}
+ "São Cosme de Maiúma, o Melodista": {"sobre": "monge e bispo de Maiúma (c. 675–c. 752), hinógrafo da Igreja bizantina", "oriental": true},
+ "Autor antigo (pseudo-Justino)": {"sobre": "autor das Respostas aos ortodoxos (séc. V), transmitidas entre as obras de São Justino; talvez Teodoreto de Ciro", "oriental": true},
+ "Frei Luís de Granada": {"sobre": "dominicano espanhol (1504–1588), pregador e escritor espiritual; venerável", "oriental": false}
 }
