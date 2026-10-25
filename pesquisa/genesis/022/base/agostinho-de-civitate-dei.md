@@ -1,0 +1,27 @@
+# Santo Agostinho, De civitate Dei
+- Autor: Santo Agostinho (354–430)
+- Obra: De civitate Dei
+- Passagem: livro XVI, 32
+- Edição: PL 41, 510–512 (colunas deduzidas do Corpus Corporum, texto 21364)
+- Fonte: https://www.augustinus.it/latino/cdd/cdd_16_libro.htm
+- Cobre: Gn 22: os capítulos de Agostinho que o comentam (tabela CAPS_XV_XVI; conferir)
+- Oriental: não
+- Língua: la
+- Baixado: 2026-10-25, por pesquisa/ferramentas/base/gen-agostinho-cidade.py
+- Nota: Texto dos Maurinos (= PL) pelo augustinus.it; itálico (*...*) = citação bíblica; as linhas em _itálico_ entre os parágrafos são os resumos da Nuova Biblioteca Agostiniana, não de Agostinho; [col. N] = coluna da PL, ancorada pelo texto do Corpus Corporum (conferir quando importar).
+
+---
+
+## LIBER XVI
+
+_Fide Abraham Isaac immolabat._
+
+**32, 1.** Inter haec, quae omnia commemorare nimis longum est, temptatur Abraham de immolando dilectissimo filio ipso Isaac, ut pia eius oboedientia probaretur, saeculis in notitiam proferenda, non Deo. Neque enim omnis est culpanda temptatio, quia et gratulanda est, qua fit probatio. Et plerumque aliter animus humanus sibi ipsi innotescere non potest, nisi vires suas sibi non verbo, sed experimento temptatione quodammodo interrogante respondeat; ubi si Dei munus agnoverit, tunc pius est, tunc solidatur firmitate gratiae, non inflatur inanitate iactantiae. Numquam sane crederet Abraham, quod victimis Deus delectaretur humanis; quamvis divino intonante praecepto oboediendum sit, non disputandum. Verum tamen Abraham confestim filium, cum fuisset immolatus, resurrecturum credidisse laudandus est. Dixerat namque illi Deus, cum de ancilla et fil io eius foras eiciendis voluntatem coniugis nollet implere: *In Isaac vocabitur tibi semen*. Et certe ibi sequitur ac dicitur: *Et filium autem ancillae huius in magnam gentem faciam illum, quia semen tuum est*. Quomodo ergo dictum est: *In Isaac vocabitur tibi semen*, cum et Ismaelem Deus semen eius vocaverit? Exponens autem Apostolus quid sit: *In Isaac vocabitur [col. 511] tibi semen: Id est*, inquit, *non qui filii carnis, hi filii Dei, sed filii promissionis deputantur in semen*. Ac per hoc filii promissionis, ut sint semen Abrahae, in Isaac vocantur, hoc est in Christo vocante gratia congregantur. Hanc ergo promissionem pater pius fideliter tenens, quia per hunc oportebat impleri, quem Deus iubebat occidi, non haesitavit quod sibi reddi poterat immolatus, qui dari potuit non speratus. Sic intellectum est et in *Epistula ad Hebraeos*, et sic expositum. *Fide*, inquit, *praecessit Abraham Isaac temptatus et unicum obtulit, qui promissiones suscepit, ad quem dictum est: In Isaac vocabitur tibi semen, cogitans quia et ex mortuis suscitare potest Deus*. Proinde addidit: *Pro hoc etiam eum et in similitudinem adduxit*; cuius similitudinem, nisi illius unde dicit Apostolus: *Qui proprio filio non pepercit, sed pro nobis omnibus tradidit eum*? Propterea et Isaac, sicut Dominus crucem suam, ita sibi ligna ad victimae locum, quibus fuerat et imponendus, ipse portavit. Postremo quia Isaac occidi non oportebat, posteaquam est pater ferire prohibitus, quis erat ille aries, quo immolato impletum est significativo sanguine sacrificium? Nempe quando eum vidit Abraham, cornibus in frutice tenebatur. Quis ergo illo figurabatur, nisi Iesus, antequam immolaretur, spinis Iudaicis coronatus?
+
+_Eius fides praemium accepit._
+
+**32, 2.** Sed divina per angelum verba potius audiamus. Ait quippe Scriptura: *Et extendit Abraham manum suam sumere machaeram, ut occideret filium suum. Et vocavit illum angelus Domini de caelo et dixit: Abraham! Ille autem dixit: Ecce ego. Et dixit: Non inicias manum tuam super puerum, neque facias illi quicquam; nunc enim scivi quia times Deum tuum, et non pepercisti filio tuo dilecto propter me*. *Nunc scivi* dictum est, nunc sciri feci; neque enim hoc nondum sciebat Deus. Deinde ariete illo immolato pro Isaac filio suo *vocavit*, ut legitur, *Abraham nomen loci illius: Dominus vidit; ut dicant hodie: In monte Dominus apparuit*. Sicut dictum est: *Nunc scivi*, pro eo quod est: Nunc sciri feci; ita hic: *Dominus vidit*, pro eo quod est: Dominus apparuit, hoc est: Videri se fecit. *Et vocavit angelus Domini Abraham secundo de caelo dicens: Per me ipsum iuravi, dicit Dominus, propter quod fecisti verbum hoc et non pepercisti filio tuo dilecto propter me, nisi benedicens benedicam te, et multiplicans multiplicabo semen tuum tamquam stellas caeli et tamquam harenam, quae iuxta labium maris. Et hereditate possidebit semen tuum civitates adversariorum, et benedicentur in semine tuo omnes gentes terrae, quia obaudisti vocem meam*. Hoc modo est illa de vocatione gentium in semine [col. 512] Abrahae post holocaustum, quo significatus est Christus, etiam iuratione Dei firmata promissio. Saepe enim promiserat, sed numquam iuraverat. Quid est autem Dei veri veracisque iuratio nisi promissi confirmatio et infidelium quaedam increpatio?
+
+_Sara viro praemortua est._
+
+**32, 3.** Post haec Sarra mortua est, centesimo vicesimo septimo anno vitae suae, centesimo autem et tricesimo septimo viri sui. Decem quippe annis eam praecedebat aetate; sicut ipse, quando sibi ex illa promissus est filius, ait: *Si mihi annorum centum nascetur filius, et si Sarra annorum nonaginta pariet?*. Tunc emit agrum Abraham, in quo sepelivit uxorem. Tunc ergo secundum narrationem Stephani in terra illa est collocatus, quoniam coepit ibi esse possessor; post mortem scilicet patris sui, qui colligitur ante biennium fuisse defunctus.

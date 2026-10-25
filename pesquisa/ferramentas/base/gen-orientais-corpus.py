@@ -6,6 +6,8 @@ Uso (da pasta biblia/):
     python3 -I pesquisa/ferramentas/base/gen-orientais-corpus.py --kw 'ܡܪܚܦ' Ephrem  # palavra (regex sem vogais),
                                                                                  # filtro opcional de autor/título
     python3 -I pesquisa/ferramentas/base/gen-orientais-corpus.py --bloco 530 20 22  # imprime blocos de um texto (com vogais)
+    python3 -I pesquisa/ferramentas/base/gen-orientais-corpus.py --pistas 3-50      # para cada capítulo, a tabela das
+                                                       # citações achadas no bloco automático de base/_pistas-orientais.md
 
 O que faz: na primeira vez, clona o corpus (github.com/srophe/syriac-corpus, ~50 MB) em
 pesquisa/cache/genesis/orientais/sc e baixa o Gênesis da Peshitta (ETCBC, plain/0.2) para peshitta/. A busca usa
@@ -51,7 +53,7 @@ def textos():
         yield n, meta, blocos
 
 
-def buscar(cap):
+def buscar(cap, mostrar=True):
     preparar()
     pesh = C.peshitta_at('Genesis')
     pdf = collections.Counter()
@@ -89,9 +91,11 @@ def buscar(cap):
         fh.write('texto\tautor\ttitulo\tversiculos\tpagina\tsecao\tbloco\tngrama\n')
         for l in linhas:
             fh.write('\t'.join(map(str, l)) + '\n')
-    for l in linhas:
-        print('\t'.join(map(str, l)))
-    print(f'\n{len(linhas)} blocos; tabela em {saida}')
+    if mostrar:
+        for l in linhas:
+            print('\t'.join(map(str, l)))
+        print(f'\n{len(linhas)} blocos; tabela em {saida}')
+    return linhas
 
 
 def kw(padrao, filtro=''):
@@ -105,6 +109,52 @@ def kw(padrao, filtro=''):
             for m in pat.finditer(s):
                 print(f"[{n}] {meta['autor'][:22]} | {meta['titulo'][:45]} | p.{pg} §{sec} b{ib}: "
                       f"…{s[max(0, m.start() - 120):m.end() + 120]}…")
+
+
+# Igrejas fora da comunhão com Roma (Igreja do Oriente; siro-ortodoxos depois de Calcedônia): só pista, pela regra do projeto
+FORA = re.compile(r'Narsai|Nestorius|Philoxenos|Dionysius bar Salibi|Jacob of Edessa|Severus|Isaac of Nineveh|Babai|'
+                  r'Timothy|Theodore bar Koni|Isho|Anton of Tagrit|Moshe bar Kepha|Bar Hebraeus|Thomas of Marga|Barhadbeshabba|'
+                  r'Sahdona|Dadisho|John of Dalyatha|Joseph Hazzaya|Simon of Taibuteh|Abraham of Nathpar|Michael the Great|'
+                  r'John of Ephesus|Elias of Nisibis|Mar Aba|Thomas of Edessa|Hebraeus|John Rufus|Bardaisan|Timothy')
+APOCRIFO = re.compile(r'Acts of Judas Thomas|Cause of all Causes|Clement')     # apócrifos e pseudepígrafos
+INI_P, FIM_P = '<!-- automático: gen-orientais-corpus -->', '<!-- fim do automático -->'
+
+
+def pistas(caps_txt):
+    """--pistas 3-50: para cada capítulo, roda a busca (sem imprimir) e grava a tabela das citações achadas no bloco
+    automático de genesis/<ccc>/base/_pistas-orientais.md (o que estiver escrito à mão fora dos marcadores fica)."""
+    caps = []
+    for parte in caps_txt.split(','):
+        if '-' in parte:
+            x, y = parte.split('-', 1)
+            caps.extend(range(int(x), int(y) + 1))
+        else:
+            caps.append(int(parte))
+    for cap in caps:
+        linhas = buscar(cap, mostrar=False)
+        p = os.path.join(RAIZ, 'genesis', f'{cap:03d}', 'base', '_pistas-orientais.md')
+        velho = open(p, encoding='utf-8').read() if os.path.exists(p) else ''
+        resto = re.sub(re.escape(INI_P) + r'.*?' + re.escape(FIM_P) + r'\n?', '', velho, flags=re.S).strip()
+        if not resto.startswith('# '):
+            resto = (f'# Pistas: orientais não gregos (Gn {cap})\n\n' + resto).strip()
+        tab = ['Citações do capítulo achadas no Digital Syriac Corpus por 3-gramas raros da Peshitta (busca automática '
+               f'de 2026-10-25, `gen-orientais-corpus.py --pistas`; tabela completa em `cache/genesis/orientais/gn{cap:03d}-corpus.tsv`). '
+               'Só o primeiro passo: muitas são citação solta ou coincidência; conferir no bloco (`--bloco n a b`) antes de seguir. '
+               '«fora» = autor de Igreja fora da comunhão com Roma; «apócrifo» = apócrifo ou pseudepígrafo: só pista.', '',
+               '| texto | autor | obra | Gn (vv.) | p. | § | bloco | 3-grama | obs. |', '|---|---|---|---|---|---|---|---|---|']
+        for n, autor, tit, vv, pg, sec, ib, g in sorted(linhas, key=lambda l: (l[1], l[0], l[6])):
+            obs = 'fora' if FORA.search(autor) else 'apócrifo' if APOCRIFO.search(autor + ' ' + tit) else ''
+            tit = tit.replace('|', '/')
+            tab.append(f'| [{n}](https://syriaccorpus.org/{n}) | {autor} | {tit} | {vv} | {pg} | {sec} | {ib} | {g} | {obs} |')
+        if not linhas:
+            tab = ['Nenhuma citação achada por 3-gramas raros da Peshitta (busca de 2026-10-25, `gen-orientais-corpus.py --pistas`).']
+        bloco_auto = INI_P + '\n' + '\n'.join(tab) + '\n' + FIM_P
+        tit, _, corpo = resto.partition('\n')
+        txt = tit + '\n\n' + bloco_auto + ('\n\n' + corpo.strip() if corpo.strip() else '')
+        os.makedirs(os.path.dirname(p), exist_ok=True)
+        with open(p, 'w', encoding='utf-8', newline='\n') as f:
+            f.write(txt.strip() + '\n')
+        print(f'  gravado genesis/{cap:03d}/base/_pistas-orientais.md ({len(linhas)} citações)')
 
 
 def bloco(n, a, b):
@@ -122,6 +172,8 @@ if __name__ == '__main__':
         buscar(int(a[0]))
     elif a[:1] == ['--kw'] and len(a) >= 2:
         kw(a[1], a[2] if len(a) > 2 else '')
+    elif a[:1] == ['--pistas'] and len(a) == 2:
+        pistas(a[1])
     elif a[:1] == ['--bloco'] and len(a) == 4:
         bloco(int(a[1]), int(a[2]), int(a[3]))
     else:

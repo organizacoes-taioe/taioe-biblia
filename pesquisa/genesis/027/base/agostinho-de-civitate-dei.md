@@ -1,0 +1,21 @@
+# Santo Agostinho, De civitate Dei
+- Autor: Santo Agostinho (354–430)
+- Obra: De civitate Dei
+- Passagem: livro XVI, 37
+- Edição: PL 41, 515–516 (colunas deduzidas do Corpus Corporum, texto 21364)
+- Fonte: https://www.augustinus.it/latino/cdd/cdd_16_libro.htm
+- Cobre: Gn 27: os capítulos de Agostinho que o comentam (tabela CAPS_XV_XVI; conferir)
+- Oriental: não
+- Língua: la
+- Baixado: 2026-10-25, por pesquisa/ferramentas/base/gen-agostinho-cidade.py
+- Nota: Texto dos Maurinos (= PL) pelo augustinus.it; itálico (*...*) = citação bíblica; as linhas em _itálico_ entre os parágrafos são os resumos da Nuova Biblioteca Agostiniana, não de Agostinho; [col. N] = coluna da PL, ancorada pelo texto do Corpus Corporum (conferir quando importar).
+
+---
+
+## LIBER XVI
+
+_Dei civitas in exordio fuit iuventutis ab Israel ad David (37-43)_
+
+_Quid significet Isaac Iacob pro Esau benedicens._
+
+**37.** Duo igitur Isaac filii Esau et Iacob pariter crescunt. Primatus maioris transfunditur in minorem ex pacto et placito inter illos, eo quod lenticulam, quem cibum minor paraverat, maior immoderatius concupivit, eoque pretio primogenita sua fratri iuratione interposita vendidit. Ubi discimus in vescendo non cibi genere, sed aviditate immodesta quemque culpandum. Senescit Isaac eiusque oculis per senectam visus aufertur. Vult benedicere filium maiorem et pro illo nesciens benedicit minorem, pro fratre maiore, qui erat pilosus, se paternis manibus supponentem, haedinis sibi pelliculis coaptatis velut aliena peccata portantem. Iste dolus Iacob ne putaretur fraudulentus dolus et non in eo magnae rei mysterium quaereretur, superius praedixit Scriptura: *Et erat Esau homo sciens venari, agrestis; Iacob autem homo simplex, habitans domum*. Hoc nostri quidam interpretati sunt *sine dolo*. Sive autem *sine dolo* sive *simplex* sive potius *sine fictione* dicatur, quod est graece [grego] , quis est in ista percipienda benedictione dolus hominis sine dolo? Quis est dolus simplicis, quae fictio non mentientis, nisi profundum mysterium veritatis? Ipsa autem benedictio qualis est? *Ecce*, inquit, *odor filii mei tamquam odor agri pleni, quem benedixit Dominus. Et det tibi Deus de rore caeli et de ubertate terrae et multitudinem frumenti et vini, et serviant tibi gentes et adorent te principes et fiere dominus fratris tui et adorabunt te filii patris tui. Qui maledixerit te, maledictus; et qui benedixerit te, benedictus*. Benedictio igitur Iacob praedicatio est Christi in omnibus gentibus. Hoc fit, hoc agitur. Lex et Prophetia est Isaac; etiam per os Iudaeorum Christus ab illa benedicitur, velut a nesciente, quia ipsa nescitur. Odore nominis Christi, sicut ager, mundus impletur; eius est benedictio de rore caeli, hoc est de verborum pluvia divinorum, et de ubertate terrae, hoc est congregatione populorum; eius est multitudo frumenti et vini, hoc est [col. 516] multitudo quam colligit frumentum et vinum in Sacramento corporis eius et sanguinis. Ei serviunt gentes, ipsum adorant principes. Ipse est dominus fratris sui, quia populus eius dominatur Iudaeis. Ipsum adorant filii patris eius, hoc est filii Abrahae secundum fidem; quia et ipse filius est Abrahae secundum carnem. Ipsum qui maledixerit, maledictus, et qui benedixerit, benedictus est. Christus, inquam, noster etiam ex ore Iudaeorum quamvis errantium, sed tamen Legem Prophetasque cantantium benedicitur, id est veraciter dicitur; et alius benedici putatur, qui ab eis errantibus exspectatur. Ecce benedictionem promissam repetente maiore expavescit Isaac et alium se pro alio benedixisse cognoscit; miratur et quisnam ille sit percontatur; nec tamen se deceptum esse conqueritur; immo confestim revelato sibi intus in corde magno sacramento devitat indignationem, confirmat benedictionem. *Quis ergo*, inquit, *venatus est mihi venationem et intulit mihi? Et manducavi ab omnibus, antequam tu venires; et benedixi eum, et benedictus sit*. Quis non hic maledictionem potius exspectaret irati, si haec non superna inspiratione, sed terreno more gererentur? O res gestas, sed prophetice gestas; in terra, sed caelitus; per homines, sed divinitus! Si excutiantur singula tantis fecunda mysteriis, multa sunt implenda volumina; sed huic operi modus moderate imponendus nos in alia festinare compellit.

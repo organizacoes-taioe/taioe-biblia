@@ -10,7 +10,9 @@ Como é: Procópio compila trechos de Basílio, Nissa, Cirilo, Teodoreto, Oríge
 imprime o grego e o latim de Clauser em duas colunas, e o OCR intercala as linhas dos dois (o latim sai legível; o grego, ruim).
 O comentário ao Gênesis vai do começo do livro até «COMMENTARII IN EXODUM»; o OCR marca os capítulos («CAPUT PRIMUM.»,
 «CAPUT II.», «CAP. VII.»…), mas perde alguns títulos: o trecho de um título vai até o seguinte e vale para todos os capítulos
-entre os dois números (no OCR, depois do cap. II vem o «VI»: o arquivo de Gn 2 cobre também Gn 3–5). Colunas: números dos
+entre os dois números. Para Gn 3–50 vale a lista ORDEM dos títulos lidos à mão (ver main): o «CAP. Il.» (= III) era lido
+como 49, e os arquivos de Gn 3–48 saíam com o trecho de Gn 2; Gn 1 e 2 seguem a regra antiga (o de Gn 2 diz «cobre Gn 2–48»,
+mas o texto é só o de Gn 2). Colunas: números dos
 cabeçalhos de página («21 COMMENTARII IN GENESIM. | 22»), interpolados. Para citar, ler na imagem da página (o grego da PG).
 """
 import os, re, sys
@@ -46,6 +48,16 @@ def main():
             n = romano(m.group(1))
             if n and (not heads or n > heads[-1][1]) and n <= 50:
                 heads.append((i, n))
+    # Gn 3–50 (desde 25/10): o romano() lê «CAP. Il.» como 49 e a regra acima perde todos os títulos depois dele (o Gn 2 ficava
+    # «Gn 2–48» e o Gn 49 levava o resto). Os títulos curtos «CAP…» do OCR vão aqui na ordem, com o capítulo lido no texto que
+    # segue cada um («CAP. Il.» = III, Serpens callidior; «CAPUT VY.» = V, Liber generationis; «CAP.» = XXII; «ΧΧΧΗ» = XXXII;
+    # o 2.º «CAP. XXXI.» = XXXIII, Gn 33,10; «XXXIX - XLYII» = 39 a 47 juntos; «ΧΙ ΤΗ» = XLVIII). Capítulo sem título no
+    # OCR (4, 15, 20, 29–30) fica no trecho do título anterior. Gn 1 e 2 continuam com a regra antiga (arquivos iguais).
+    ordem = [1, 2, 3, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 16, 17, 18, 19, 21, 22, 23, 24, 25, 26, 27, 28, 31, 32, 33, 34, 35,
+             36, 37, 38, 39, 48, 49, 50]
+    cand = [i for i in range(fim) if re.match(r'^\s*CAP(?:UT|\.)?(?:\s.{0,25})?$', L[i]) and len(L[i].strip()) < 30]
+    assert len(cand) == len(ordem), (len(cand), len(ordem))
+    heads3 = list(zip(cand, ordem))
     # colunas: «21 COMMENTARII IN GENESIM. | 22»
     anc = [(0, 21)]
     for i in range(fim):
@@ -59,8 +71,9 @@ def main():
         return ante[-1][1] if ante else 21
     for cap in caps:
         trechos = []
-        for k, (i, n) in enumerate(heads):
-            j, prox = (heads[k + 1] if k + 1 < len(heads) else (fim, 51))
+        hs = heads if cap <= 2 else heads3
+        for k, (i, n) in enumerate(hs):
+            j, prox = (hs[k + 1] if k + 1 < len(hs) else (fim, 51))
             if n <= cap < prox:
                 trechos.append((i, j, n, prox - 1))
         if not trechos:

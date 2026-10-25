@@ -1,0 +1,120 @@
+# Pré-pesquisa: genesis 45
+
+Gerado por `pesquisa/ferramentas/base-indice.py`; não editar à mão. Os textos estão em `base/`,
+na língua original, cortados para este capítulo. A pesquisa do capítulo parte daqui e procura o
+que não é óbvio (`CAPITULO.md`, etapa 6).
+
+15 fontes, 5 orientais.
+
+| autor e obra | passagem | cobre | oriental | arquivo |
+|---|---|---|---|---|
+| Santo Agostinho, Locutiones in Heptateuchum I (Gênesis) | Gn 45; Locutiones in Hept. I, 2 entradas | todas as entradas deste capítulo (só gramática e idiomatismos da Vetus Latina e da LXX) |  | [agostinho-locutiones-in-heptateuchum-1.md](base/agostinho-locutiones-in-heptateuchum-1.md) (1 KB) |
+| Santo Agostinho, Quaestiones in Heptateuchum I (Gênesis) | Gn 45; Quaest. in Hept. I, q. 148 | todas as questões de Agostinho sobre este capítulo (a referência entre colchetes é da Vulgata) |  | [agostinho-quaestiones-in-heptateuchum-1.md](base/agostinho-quaestiones-in-heptateuchum-1.md) (2 KB) |
+| Santo Ambrósio, De Iacob et vita beata | Gn 45: cap. II, 8 | os capítulos da obra que tratam este capítulo do Gênesis (tabela POR_CAPUT; conferir), inteiros, com o argumento de Migne no começo |  | [ambrosio-de-iacob.md](base/ambrosio-de-iacob.md) (3 KB) |
+| Santo Ambrósio, De Ioseph | Gn 45: cap. 12; cap. 13 | os capítulos da obra que tratam este capítulo do Gênesis (tabela POR_CAPUT; conferir), inteiros, com o argumento de Migne no começo |  | [ambrosio-de-ioseph.md](base/ambrosio-de-ioseph.md) (10 KB) |
+| São João Crisóstomo, Homiliae in Genesim (latim da PG) | homilias 64, 65 | hom. 64: Gn 41,46–45,24; hom. 65: Gn 45,25–47,28 (do lema de cada homilia ao da seguinte) | sim | [crisostomo-homiliae-in-genesim.md](base/crisostomo-homiliae-in-genesim.md) (106 KB) |
+| Santo Efrém, Comentário ao Gênesis (Explanatio in Genesim) | Gn 45 (o comentário corrido de Efrém) | desde 44,18 (o discurso de Judá, resumido) até 45,28 (latim); siríaco só na imagem | sim | [efrem-comentario-genesis.md](base/efrem-comentario-genesis.md) (7 KB) |
+| Hugo de São Vítor, Adnotationes elucidatoriae in Pentateuchon | Gn 45 | as notas literais sobre o capítulo |  | [hugo-adnotationes-in-pentateuchon.md](base/hugo-adnotationes-in-pentateuchon.md) (0 KB) |
+| Santo Isidoro, Quaestiones in Vetus Testamentum: In Genesin | Gn 45: cap. XXX de Isidoro | os capítulos de Isidoro sobre este trecho (alegoria) |  | [isidoro-quaestiones-in-genesin.md](base/isidoro-quaestiones-in-genesin.md) (13 KB) |
+| São Jerônimo, Quaestiones hebraicae in Genesim | Gn 45 | só os versículos em que Jerônimo discute o hebraico |  | [jeronimo-quaestiones-hebraicae.md](base/jeronimo-quaestiones-hebraicae.md) (5 KB) |
+| Cornélio a Lápide, Commentaria in Genesim | Gn 45; Lápide, cap. XLV | o capítulo inteiro, versículo a versículo, com o texto da Vulgata e a SYNOPSIS no começo |  | [lapide-commentaria-in-genesim.md](base/lapide-commentaria-in-genesim.md) (16 KB) |
+| Orígenes, Homilias e fragmentos sobre o Gênesis | fragmentos e escólios que citam Gn 45 | ver o texto | sim | [origenes-in-genesim.md](base/origenes-in-genesim.md) (5 KB) |
+| Procópio de Gaza, Commentarii in Genesin | Gn 45 (o trecho do OCR cobre Gn 39–47) | o capítulo inteiro (grego e latim de Clauser misturados pelo OCR) | sim | [procopio-commentarii-in-genesim.md](base/procopio-commentarii-in-genesim.md) (29 KB) |
+| Rábano Mauro, Commentaria in Genesim | Gn 45 (lemas dos vv. 5–25) | o capítulo, versículo a versículo |  | [rabano-in-genesim.md](base/rabano-in-genesim.md) (6 KB) |
+| Ruperto de Deutz, De Trinitate et operibus eius: In Genesim | Gn 45 (lemas dos vv. 2–26) | o capítulo, com os títulos de capítulo de Ruperto |  | [ruperto-in-genesim.md](base/ruperto-in-genesim.md) (10 KB) |
+| Teodoreto de Ciro, Quaestiones in Genesin | perguntas CVIII | as perguntas e respostas sobre este capítulo | sim | [teodoreto-quaestiones-in-genesim.md](base/teodoreto-quaestiones-in-genesim.md) (2 KB) |
+
+## Confirmado que não comentam este capítulo
+
+<!-- automático -->
+- São Cirilo de Alexandria, Glaphyra in Genesim: nenhuma seção sobre Gn 45.
+- São João Crisóstomo, Sermones in Genesim 1–9: nenhum sobre Gn 45.
+- São João Damasceno, Expositio fidei: nada sobre Gn 45 nos capítulos da criação (16–26).
+- São Gregório de Nissa, De opificio hominis: nenhum capítulo sobre Gn 45.
+- São Gregório de Nissa, Apologia in Hexaemeron: só Gn 1.
+- São Teófilo de Antioquia, Ad Autolycum II: não comenta Gn 45 (o comentário vai de Gn 1 a Gn 11).
+<!-- fim do automático -->
+Obras que se conferiu e que não comentam o capítulo.
+
+- Alcuíno, Interrogationes in Genesin: nenhuma pergunta sobre este capítulo.
+- São Beda, In principium Genesis: não comenta este capítulo (nenhum lema dele na obra).
+
+## Pistas (citações em outras obras, a seguir na pesquisa do capítulo)
+
+<!-- automático -->
+- Orígenes, Homiliae in Genesim 15 (latim de Rufino; GCS 29, ed. Baehrens): sobre Gn 45; o OCR não separa os títulos das homilias, cortar à mão. https://archive.org/details/origenes-werke.-bd-6-1920
+<!-- fim do automático -->
+<!-- automático -->
+
+Pistas geradas por script em 2026-10-25 (`pesquisa/ferramentas/base/gen-modernos-pistas.py`): só endereços e números, sem o texto (o Catecismo e as obras de
+Escrivá têm direito autoral). Conferir cada uma antes de usar; a pesquisa do capítulo escreve à mão fora dos marcadores.
+
+## Catecismo
+
+- § 312: Gn 45,8 (texto). https://www.vatican.va/archive/cathechism_po/index_new/p1s2c1_198-421_po.html
+
+(Texto oficial em português europeu; as notas «Cf.» só remetem. Ler o parágrafo inteiro antes de usar.)
+
+## São Josemaria Escrivá
+
+- nada achado no índice `pesquisa/fontes/escriva-indice.md` (índice do escriva.org, notas e referências no texto; citação sem referência não entra).
+
+## Liturgia da Missa
+
+- quinta-feira da 14ª semana do Tempo Comum (ano I, Lecionário 386): Gn 44,18-21.23b-29; 45,1-5
+
+(Tabelas de Felix Just, catholic-resources.org/Lectionary/: Index-Sundays.htm, Index-Weekdays.htm e as de santos e missas rituais; numeração do Ordo Lectionum Missae, 1981. Conferir o lecionário brasileiro.)
+
+<!-- fim do automático -->
+<!-- automático: gen-orientais-corpus -->
+Citações do capítulo achadas no Digital Syriac Corpus por 3-gramas raros da Peshitta (busca automática de 2026-10-25, `gen-orientais-corpus.py --pistas`; tabela completa em `cache/genesis/orientais/gn045-corpus.tsv`). Só o primeiro passo: muitas são citação solta ou coincidência; conferir no bloco (`--bloco n a b`) antes de seguir. «fora» = autor de Igreja fora da comunhão com Roma; «apócrifo» = apócrifo ou pseudepígrafo: só pista.
+
+| texto | autor | obra | Gn (vv.) | p. | § | bloco | 3-grama | obs. |
+|---|---|---|---|---|---|---|---|---|
+| [220](https://syriaccorpus.org/220) | (Ps.-)Clement of Rome | Pseudo-Clementine Recognitions: Recognition 2 | 8 | 57 | 91 | 57 | ܗܫܐ ܠܐ ܗܘܐ | apócrifo |
+| [190](https://syriaccorpus.org/190) | Anonymous | Memra 3: The Physical And the Spiritual Ministry - ܡܺܐܡܪܳܐ ܕ | 19 |  | 6 | 18 | ܠܟܘܢ ܡܢ ܐܪܥܐ |  |
+| [196](https://syriaccorpus.org/196) | Anonymous | Memra 9: On Uprightness and the Love of the Upright and the  | 14 |  | 20 | 65 | ܢܦܠ ܥܠ ܨܘܪܗ |  |
+| [205](https://syriaccorpus.org/205) | Anonymous | Memra 18: On the Tears of Prayer - ܡܺܐܡܪܳܐ ܕܰܬܡܳܢܬܰܥܣܰܪ ܕܥܰܠ | 14 |  | 2 | 7 | ܢܦܠ ܥܠ ܨܘܪܗ |  |
+| [337](https://syriaccorpus.org/337) | Anonymous | History of Thecla, Disciple of Paul the Apostle - ܬܫܥܝܬܐ ܕܬܩ | 5 | 128 |  | 5 | ܗܘ ܫܕܪܢܝ ܐܠܗܐ |  |
+| [475](https://syriaccorpus.org/475) | Anonymous | Doctrine of Addai - ܡܠܦܢܘܬܐ ܕܐܕܝ ܫܠܝܚܐ | 1 |  |  | 1 | ܕܩܝܡܝܢ ܗܘܘ ܩܕܡܘܗܝ |  |
+| [490](https://syriaccorpus.org/490) | Anonymous | Life of Rabbula - ܢܨ̈ܚܢܘܗܝ ܕܡܪܝ ܪܒܘܠܐ ܐܦܣܩܦܐ ܕܐܘܪܗܝ ܡܕܝܢܬܐ ܒ | 1 | 182 |  | 4 | ܕܩܝܡܝܢ ܗܘܘ ܩܕܡܘܗܝ |  |
+| [526](https://syriaccorpus.org/526) | Anonymous | Julian Romance - ܬܫܥܝ̈ܬܐ ܕܡ̈ܠܟܐ ܕܪܘܡܢܝܐ | 9 | 60 | 1 | 15 | ܐܡܪܘ ܠܗ ܗܟܢܐ |  |
+| [526](https://syriaccorpus.org/526) | Anonymous | Julian Romance - ܬܫܥܝ̈ܬܐ ܕܡ̈ܠܟܐ ܕܪܘܡܢܝܐ | 16 | 205 | 1 | 17 | ܫܦܪ ܦܬܓܡܐ ܒܥܝܢܝ |  |
+| [526](https://syriaccorpus.org/526) | Anonymous | Julian Romance - ܬܫܥܝ̈ܬܐ ܕܡ̈ܠܟܐ ܕܪܘܡܢܝܐ | 1 | 242 | 1 | 18 | ܕܩܝܡܝܢ ܗܘܘ ܩܕܡܘܗܝ |  |
+| [12](https://syriaccorpus.org/12) | Aphrahat | Demonstration 12: On Passover - ܬܚܘܝܬܐ ܕܦܨܚܐ | 21 |  | 1 | 2 | ܥܒܕܘ ܗܟܢܐ ܒܢܝ |  |
+| [14](https://syriaccorpus.org/14) | Aphrahat | Demonstration 14: A Petition - ܬܚܘܝܬܐ ܕܦܝܣܐ | 8 |  | 9 | 18 | ܥܠ ܟܠܗ ܒܝܬܗ |  |
+| [15](https://syriaccorpus.org/15) | Aphrahat | Demonstration 15: On the Distinction between Foods - ܬܚܘܝܬܐ  | 8 |  | 7 | 14 | ܠܐ ܗܘܐ ܐܢܬܘܢ |  |
+| [23](https://syriaccorpus.org/23) | Aphrahat | Demonstration 23: On the Grapecluster - ܬܚܘܝܬܐ ܕܛܘܛܝܬܐ | 9 |  | 18 | 36 | ܠܗ ܗܟܢܐ ܐܡܪ |  |
+| [23](https://syriaccorpus.org/23) | Aphrahat | Demonstration 23: On the Grapecluster - ܬܚܘܝܬܐ ܕܛܘܛܝܬܐ | 8 |  | 53 | 106 | ܗܫܐ ܠܐ ܗܘܐ |  |
+| [228](https://syriaccorpus.org/228) | Dionysius bar Salibi | Literal Commentary on Genesis - ܣܦܪܐ ܕܒܪܝܬܐ ܣܘܥܪܢܐܝܬ | 8 | 1 |  | 2 | ܗܘܐ ܐܢܬܘܢ ܫܕܪܬܘܢܢܝ | fora |
+| [243](https://syriaccorpus.org/243) | Dionysius bar Salibi | Literal and Spiritual Commentary on Jeremiah - ܦܘܼܫܩܐ ܕܬܠܬܐ  | 9 | 282 |  | 5 | ܠܗ ܗܟܢܐ ܐܡܪ | fora |
+| [477](https://syriaccorpus.org/477) | Eusebius of Caesarea | Ecclesiastical History, Book 2 - ܣܼܦܪܐ ܕܬܪ̈ܝܢ ܕܬܫ̈ܥܝܬܐ ܕܥܕܬܐ | 9 | 106 | 2.25 | 73 | ܠܗ ܗܟܢܐ ܐܡܪ |  |
+| [479](https://syriaccorpus.org/479) | Eusebius of Caesarea | Ecclesiastical History, Book 4 - ܣܦܼܪܐ ܕܐܪܒܥܐܼ ܕܬܫ̈ܝܥܬܐ ܕܥܕܬ | 9 | 184 | 4.2 | 31 | ܥܠ ܟܠܗ ܡܨܪܝܢ |  |
+| [484](https://syriaccorpus.org/484) | Eusebius of Caesarea | Ecclesiastical History, Book 10 - ܣܦܪܐ ܕܥܣܪܐ ܕܬܫ̈ܥܝܬܐ ܕܥܕܬܐ | 8 | 392 | 10.4 | 14 | ܗܫܐ ܠܐ ܗܘܐ |  |
+| [373](https://syriaccorpus.org/373) | Gregorius bar Hebraeus | Ecclesiastical History - ܟܬܒܐ ܕܐܩܠܣܝܣܛܝܩܝ | 2 | III.295 | 2 | 1389 | ܐܪܝܡ ܩܠܗ ܒܒܟܬܐ | fora |
+| [373](https://syriaccorpus.org/373) | Gregorius bar Hebraeus | Ecclesiastical History - ܟܬܒܐ ܕܐܩܠܣܝܣܛܝܩܝ | 3 | III.355 | 2 | 1453 | ܡܛܠ ܕܕܚܠܘ ܡܢ | fora |
+| [441](https://syriaccorpus.org/441) | Isaac of Nineveh | Discourse 50 | 14 | 357 |  | 333 | ܢܦܠ ܥܠ ܨܘܪܗ | fora |
+| [117](https://syriaccorpus.org/117) | Jacob of Serugh | On Joseph (Memra 9) - ܡܺܐܡܪܳܐ ܕܬܶܫܥܳܐ ܕܥܰܠ ܝܰܘܣܶܦ | 25 |  |  | 320 | ܡܢ ܡܨܪܝܢ ܐܬܘ |  |
+| [117](https://syriaccorpus.org/117) | Jacob of Serugh | On Joseph (Memra 9) - ܡܺܐܡܪܳܐ ܕܬܶܫܥܳܐ ܕܥܰܠ ܝܰܘܣܶܦ | 3,4 |  |  | 705 | ܐܢܐ ܐܢܐ ܝܘܣܦ |  |
+| [117](https://syriaccorpus.org/117) | Jacob of Serugh | On Joseph (Memra 9) - ܡܺܐܡܪܳܐ ܕܬܶܫܥܳܐ ܕܥܰܠ ܝܰܘܣܶܦ | 3,4 |  |  | 709 | ܐܢܐ ܐܢܐ ܝܘܣܦ |  |
+| [117](https://syriaccorpus.org/117) | Jacob of Serugh | On Joseph (Memra 9) - ܡܺܐܡܪܳܐ ܕܬܶܫܥܳܐ ܕܥܰܠ ܝܰܘܣܶܦ | 5 |  |  | 710 | ܠܐ ܬܟܪܐ ܠܟܘܢ |  |
+| [117](https://syriaccorpus.org/117) | Jacob of Serugh | On Joseph (Memra 9) - ܡܺܐܡܪܳܐ ܕܬܶܫܥܳܐ ܕܥܰܠ ܝܰܘܣܶܦ | 14 |  |  | 735 | ܢܦܠ ܥܠ ܨܘܪܗ |  |
+| [117](https://syriaccorpus.org/117) | Jacob of Serugh | On Joseph (Memra 9) - ܡܺܐܡܪܳܐ ܕܬܶܫܥܳܐ ܕܥܰܠ ܝܰܘܣܶܦ | 3,4 |  |  | 903 | ܐܢܐ ܐܢܐ ܝܘܣܦ |  |
+| [118](https://syriaccorpus.org/118) | Jacob of Serugh | On Joseph (Memra 10) - ܡܺܐܡܪܳܐ ܕܥܶܣܪܳܐ ܕܥܰܠ ܝܰܘܣܶܦ | 3,4 |  |  | 39 | ܐܢܐ ܐܢܐ ܝܘܣܦ |  |
+| [118](https://syriaccorpus.org/118) | Jacob of Serugh | On Joseph (Memra 10) - ܡܺܐܡܪܳܐ ܕܥܶܣܪܳܐ ܕܥܰܠ ܝܰܘܣܶܦ | 3,4 |  |  | 63 | ܐܢܐ ܐܢܐ ܝܘܣܦ |  |
+| [118](https://syriaccorpus.org/118) | Jacob of Serugh | On Joseph (Memra 10) - ܡܺܐܡܪܳܐ ܕܥܶܣܪܳܐ ܕܥܰܠ ܝܰܘܣܶܦ | 28 |  |  | 127 | ܐܙܠ ܐܚܙܝܘܗܝ ܥܕܠܐ |  |
+| [118](https://syriaccorpus.org/118) | Jacob of Serugh | On Joseph (Memra 10) - ܡܺܐܡܪܳܐ ܕܥܶܣܪܳܐ ܕܥܰܠ ܝܰܘܣܶܦ | 14 |  |  | 323 | ܢܦܠ ܥܠ ܨܘܪܗ |  |
+| [118](https://syriaccorpus.org/118) | Jacob of Serugh | On Joseph (Memra 10) - ܡܺܐܡܪܳܐ ܕܥܶܣܪܳܐ ܕܥܰܠ ܝܰܘܣܶܦ | 14 |  |  | 324 | ܒܟܐ ܥܠ ܨܘܪܗ |  |
+| [351](https://syriaccorpus.org/351) | Jacob of Serugh | On the Prodigal Son - ܥܲܠ ܗܵܘ̇ ܒܪܵܐ ܕܦܲܪܲܚ̣ ܢܸܟ̣ܣܵܘ̈ܗܝ | 14 | 292 |  | 508 | ܢܦܠ ܥܠ ܨܘܪܗ |  |
+| [97](https://syriaccorpus.org/97) | Narsai | On Joseph - ܥܲܠ ܝܵܘܣܸܦ ܟܲܕܼ ܙܲܒܿܢܘܼܗܝ ܐܲܚܵܘ̈ܗܝ | 25 | 283 |  | 664 | ܡܢ ܡܨܪܝܢ ܐܬܘ | fora |
+| [97](https://syriaccorpus.org/97) | Narsai | On Joseph - ܥܲܠ ܝܵܘܣܸܦ ܟܲܕܼ ܙܲܒܿܢܘܼܗܝ ܐܲܚܵܘ̈ܗܝ | 3,4 | 285 |  | 721 | ܐܢܐ ܐܢܐ ܝܘܣܦ | fora |
+| [97](https://syriaccorpus.org/97) | Narsai | On Joseph - ܥܲܠ ܝܵܘܣܸܦ ܟܲܕܼ ܙܲܒܿܢܘܼܗܝ ܐܲܚܵܘ̈ܗܝ | 11 | 286 |  | 740 | ܕܠܡܐ ܬܐܒܕ ܐܢܬ | fora |
+| [97](https://syriaccorpus.org/97) | Narsai | On Joseph - ܥܲܠ ܝܵܘܣܸܦ ܟܲܕܼ ܙܲܒܿܢܘܼܗܝ ܐܲܚܵܘ̈ܗܝ | 17 | 286 |  | 753 | ܦܪܥܘܢ ܠܝܘܣܦ ܐܡܪ | fora |
+| [391](https://syriaccorpus.org/391) | Nestorius | The Book of Heraclides | 3 | 187 |  | 3569 | ܠܗ ܦܬܓܡܐ ܡܛܠ | fora |
+| [377](https://syriaccorpus.org/377) | Philoxenos of Mabbug | Discourse 4: On Faith and Simplicity - ܡܐܡܪܐ ܕܐܪܒܥܐ ܕܥܠ ܦܫܝܛ | 3 |  |  | 23 | ܡܛܠ ܕܕܚܠܘ ܡܢ | fora |
+| [386](https://syriaccorpus.org/386) | Philoxenos of Mabbug | Discourse 13: On Fornication - ܡܐܡܪܐ ܕܬܠܬܥܣܪ ܕܥܠ ܙܢܝܘܬܐ | 8 |  |  | 89 | ܥܠ ܟܠܗ ܒܝܬܗ | fora |
+| [332](https://syriaccorpus.org/332) | Thomas | Acts of Judas Thomas - ܦܪ̈ܟܣܝܣ ܕܝܗܘܕܐ | 1 | 185 |  | 9 | ܕܩܝܡܝܢ ܗܘܘ ܩܕܡܘܗܝ | apócrifo |
+| [332](https://syriaccorpus.org/332) | Thomas | Acts of Judas Thomas - ܦܪ̈ܟܣܝܣ ܕܝܗܘܕܐ | 9 | 220 |  | 29 | ܠܗ ܗܟܢܐ ܐܡܪ | apócrifo |
+| [332](https://syriaccorpus.org/332) | Thomas | Acts of Judas Thomas - ܦܪ̈ܟܣܝܣ ܕܝܗܘܕܐ | 4 | 232 |  | 34 | ܠܘܬܗ ܐܡܪ ܠܗܘܢ | apócrifo |
+| [388](https://syriaccorpus.org/388) | Titus of Bostra | Against the Manichaeans - ܡܐܡܪܐ ܕܛܛܘܣ ܕܠܘܩܒܠ ܡ̈ܢܝܢܝܐ | 8 | 144 | 32 | 444 | ܗܫܐ ܠܐ ܗܘܐ |  |
+<!-- fim do automático -->

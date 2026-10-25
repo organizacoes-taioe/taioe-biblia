@@ -1,0 +1,23 @@
+# Santo Agostinho, De civitate Dei
+- Autor: Santo Agostinho (354–430)
+- Obra: De civitate Dei
+- Passagem: livro XVI, 34, 35
+- Edição: PL 41, 512–514 (colunas deduzidas do Corpus Corporum, texto 21364)
+- Fonte: https://www.augustinus.it/latino/cdd/cdd_16_libro.htm
+- Cobre: Gn 25: os capítulos de Agostinho que o comentam (tabela CAPS_XV_XVI; conferir)
+- Oriental: não
+- Língua: la
+- Baixado: 2026-10-25, por pesquisa/ferramentas/base/gen-agostinho-cidade.py
+- Nota: Texto dos Maurinos (= PL) pelo augustinus.it; itálico (*...*) = citação bíblica; as linhas em _itálico_ entre os parágrafos são os resumos da Nuova Biblioteca Agostiniana, não de Agostinho; [col. N] = coluna da PL, ancorada pelo texto do Corpus Corporum (conferir quando importar).
+
+---
+
+## LIBER XVI
+
+_Quae Cetura filiique significent._
+
+**34.** Quid autem sibi vult, quod Abraham post mortem Sarrae Cetturam duxit uxorem? Ubi absit ut incontinentiam suspicemur, praesertim in illa iam aetate et in illa fidei sanctitate. An adhuc procreandi filii quaerebantur, cum iam Deo promittente tanta multiplicatio filiorum ex Isaac per stellas caeli et harenam terrae fide probatissima teneretur? Sed profecto si Agar et Ismael, doctore Apostolo, significaverunt carnales Veteris Testamenti, cur non etiam Cettura et filii eius significent carnales, qui se ad Testamentum Novum existimant pertinere? Ambae quippe et uxores Abrahae et concubinae sunt appellatae; Sarra vero numquam dicta est concubina. Nam et quando data est Agar Abrahae, ita scriptum est: *Et apprehendit Sara uxor Abram Agar Aegyptiam ancillam suam post decem annos, quam habitaverat Abram [col. 513] in terra Chanaan, et dedit eam Abram viro suo ipsi uxorem*. De Cettura autem, quam post obitum Sarrae accepit, sic legitur: *Adiciens autem Abraham sumpsit uxorem, cui nomen Cettura*. Ecce ambae dicuntur uxores; ambae porro concubinae fuisse reperiuntur, postea dicente Scriptura: *Dedit autem Abraham omnem censum suum Isaac filio suo, et filiis concubinarum suarum dedit Abraham dationes et dimisit eos ab Isaac filio suo adhuc se vivo ad orientem, in terram orientis*. Habent ergo nonnulla munera filii concubinarum, sed non perveniunt ad regnum promissum, nec haeretici, nec Iudaei carnales, quia praeter Isaac nullus est heres, et *non qui filii carnis, hi filii Dei, sed filii promissionis deputantur in semine*, de quo dictum est: *In Isaac vocabitur tibi semen*. Neque enim video, cur etiam Cettura post uxoris mortem ducta, nisi propter hoc mysterium, dicta sit concubina. Sed quisquis haec non vult in istis significationibus accipere, non calumnietur Abrahae. Quid si enim et hoc provisum est contra haereticos futuros secundarum adversarios nuptiarum, ut in ipso patre multarum gentium post obitum coniugis iterum coniugari demonstraretur non esse peccatum? Et mortuus est Abraham, cum esset annorum centum septuaginta quinque. Annorum ergo septuaginta quinque Isaac filium dereliquit, quem centenarius genuit.
+
+_Isaac gemini binos populos praenuntiant._
+
+**35.** Iam ex hoc, quemadmodum per posteros Abrahae civitatis Dei procurrant tempora, videamus. A primo igitur anno vitae Isaac usque ad sexagesimum, quo ei nati sunt filii, illud memorabile est, quod, cum illi Deum roganti ut pareret uxor eius, quae sterilis erat, concessisset Dominus quod petebat, atque haberet illa conceptum, gestiebant gemini adhuc in utero eius inclusi. Qua molestia cum angeretur, Dominum interrogavit accepitque responsum: *Duae gentes in utero tuo sunt et duo populi de ventre tuo separabuntur et populus populum superabit et maior serviet minori*. Quod Paulus apostolus magnum vult intellegi gratiae documentum, quia nondum illis natis nec aliquid agentibus boni seu mali sine ullis bonis meritis eligitur minor maiore reprobato; quando procul dubio, quantum attinet ad originale peccatum, ambo pares erant; quantum autem ad proprium, ullius eorum nullum erat. Sed nunc de hac re dicere aliquid latius instituti operis ratio non sinit, unde in aliis multa iam diximus. Quod autem dictum est: *Maior serviet minori*, nemo fere nostrorum aliter intellexit, quam maiorem populum Iudaeorum minori Christiano populo serviturum. [col. 514] Et revera quamvis in gente Idumaeorum, quae nata est de maiore, cui duo nomina erant (nam et Esau vocabatur et Edom, unde Idumaei), hoc videri possit impletum, quia postea superanda fuerat a populo, qui ortus est ex minore, id est Israelitico, eique fuerat futura subiecta: tamen in aliquid maius intentam fuisse istam prophetiam, qua dictum est: *Populus populum superabit et maior serviet minori*, convenientius creditur. Et quid est hoc, nisi quod in Iudaeis et Christianis evidenter impletur?

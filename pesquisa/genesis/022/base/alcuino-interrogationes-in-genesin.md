@@ -1,0 +1,29 @@
+# Alcuíno, Interrogationes et responsiones in Genesin
+- Autor: Alcuíno de York (c. 735–804)
+- Obra: Interrogationes et responsiones in Genesin
+- Passagem: Gn 22: perguntas 201, 202, 205, 206, 207, 208, 209, 210
+- Edição: PL 100, 544C–544D; PL 100, 545B–546D
+- Fonte: https://mlat.uzh.ch/php_modules/download.php?idno=21416&type=file-txt
+- Cobre: só as perguntas que citam o capítulo
+- Oriental: não
+- Língua: la
+- Baixado: 2026-10-25, por pesquisa/ferramentas/base/gen-latinos-alcuino.py
+- Leitor: https://mlat.uzh.ch/browser/cps_2.Alcuin.InEtReI (abre a obra inteira)
+
+---
+
+Inter. 201. Quid illud: Tentavit Deus Abraham (Gen. XXII, 1)? Et Jacobus apostolus dicit: Deus neminem tentat (Jac. I, 13). Quomodo utrumque intelligendum est?-- Resp. Duobus [enim] modis tentatio in Scripturis solet intelligi. Una est quae per Deum fit probationis causa, ut justificetur homo et coronetur; de qua et dicitur: Tentat vos Dominus Deus vester, ut sciat si diligatis eum (Deut. XIII, 3), hoc est, ut scire vos faciat. Alia est, de qua Jacobus [col. 544D] dicit: Deus neminem tentat (Jacob. I, 13); qua peccato implicamur. De illa Apostolus dicit: Ne forte tentaverit vos is qui tentat (I Thess. III, 5). Igitur Abraham a Deo tentatus est, ut probaretur, justificaretur, coronaretur, et ut ejus obedientia tali probata examine posteris innotesceret.
+
+Inter. 202. De quo dixit [Deus] Abrahae: Super unum montium, quem monstravero tibi (Gen. XXII, 2)?-- Resp. Aiunt [ergo] Hebraei hunc montem esse, in quo postea templum conditum est, [in area urnae Jebusaei].
+
+Inter. 205. Si Abraham indubitanter et firmo animo cogitabat mactare puerum Domino in holocaustum, quid est quod dixit pueris suis: Vos exspectate hic: ego et puer, cum adoraverimus, revertemur ad vos (Gen. XXII, 5)?-- Resp. [Igitur et dubitanti animo mactare puerum cogitabat, et indubitanti animo in Deum resuscitari credebat eum.] Idcirco utrumque laudis [ Ms., laudabilis] est et in constantia offerendi, et in fide resuscitandi. Sciebat certissime Deum fallere non posse: et licet puer occideretur, promissionem tamen Dei salvam permanere. Unde [col. 545C] et Paulus apostolus per Spiritum sanctum didicerat, quid animi habuisset Abraham intra se, dum fidem ejus laudat [ Ms., laudavit] dicens: Fide Abraham non haesitavit, cum unicum offerret, in quo acceperat promissionem [ Ms., repromissiones], [cogitans] quia a mortuis eum resuscitare potens est Deus (Rom. IV, 20).
+
+Inter. 206. Unde aries iste, qui pro Isaac immolatus est (Gen. XXII, 13), venerit, solet quaeri: an [de] terra ibi subito creatus esset, vel aliunde ab angelo allatus?-- Resp. Aries iste non putativus [ Ms., putatus], sed verus esse credendus est. Ideo magis a doctoribus aestimatur, aliunde eum angelum attulisse, quam ibi de terra, post sex dierum opera, Dominum procreasse.
+
+[col. 545D] Inter. 207. Quare appellavit Abraham nomen loci illius: Dominus vidit (Ibid. v. 14); cum nusquam sit quod Dominus non videat?-- Resp. Vidit pro apparuit dixit: hoc est, videri fecit, sicut ibi: Et nunc cognovi quia times Deum, id est, feci ut cognoscaris [ Ms., cognoscatur; al., cognoscar], eo genere locutionis, dum per efficientem significatur id quod efficitur: sicut pigrum frigus dicimus, eo quod [pigros] faciat. Illud autem quod dixit: Unde usque hodie dicitur Dominus in montem videbit. Exinde apud Hebraeos proverbium venit [ Ms., exiit] ut si quando in angustia constituti sunt, [et] Domini quoque optant auxilio sublevari, dicunt: In monte Dominus videbit, hoc est, sicut Abrahae, miserebitur et nostri. Unde [col. 546A] et in signum dati arietis solent etiam nunc cornu clangere.
+
+Inter. 208. Vocavit [autem] angelus Domini Abraham secundo de coelo dicens: Quia fecisti rem hanc et non pepercisti filio tuo unigenito propter me (Ibid., v. 16). Nunquid Abraham propter angelum non pepercit filio suo, et non propter Deum?-- Resp. [Aut enim] angeli nomine Dominus Christus significatus est, qui sine dubio Deus est, et manifeste a propheta dictus est, magni consilii angelus. Aut [quia] Deus [erat] in angelo; et [ Edit., aut] ex persona Dei angelus loquebatur, sicut in prophetis etiam fieri solet. Nam in consequentibus hoc magis videtur apparere, ubi legitur: [ Et] vocavit angelus Domini Abraham iterum de coelo, dicens: Per memetipsum juravi, dicit [col. 546B] Dominus.
+
+Inter. 209. Quid est quod secundo ad Abraham eaedem et non aliae promissiones factae sunt (Ibid., v. 17)?-- Resp. Significat duplex semen Abrahae futurum esse, unum carnale, aliud spirituale. Ideo dixit ei Dominus: [sic] erit semen tuum, sicut stellae coeli, et sicut arena maris: in stellis coeli, spirituales; in arena maris, carnales [volens intelligi ( Edit., intelliguntur)].
+
+Inter. 210. Cur [enim] nominavit Scriptura filios Nachor fratris Abrahae (Ibid., vers. 20)?-- Resp. Quia de illis, vel de illorum stirpe aliquid celebre postea gestum esse legitur. Itaque Hus [ Ms., Chus] unus erat, de cujus stirpe Job descendit. 326 Sic enim scriptum est in exordio voluminis ejus: Vir [col. 546C] fuit in terra Hus [Ms., Chus] nomine Job. Male igitur aestimabant [ Ms., aestimant] quidam, Job de genere Esau natum, in cujus genere est Balam [ Ms., de gente Esau. Secundus natu est de Melcha Buzi, ex cujus genere est Balam, etc.] ille divinus, ut Hebraei tradunt, qui in libro Job dicitur Heliu: primum vir sanctus [et] propheta Dei, postea per inobedientiam et desiderium munerum excaecatus, dum Israel maledicere coepit, divini vocabulo nuncupatus. [Diciturque in eodem libro: Et iratus Heliu filius Barachiel Buzites. De hujus videlicet Buzi radice descendens Cham vel pater ejus Damasci. Ipsa enim vocatur Aran, quae hic pro Syria scripta est et ipso nomine legitur in Isaia. Caseth quoque quartus est, a quo Casiadei, id est Chaldaei, postea vocati sunt. Bathuel, [col. 546D] de quo Rebecca et Laban pater Liae et Rachel.]

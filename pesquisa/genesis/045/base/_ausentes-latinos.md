@@ -1,0 +1,6 @@
+# Ausentes (latinos)
+
+Obras que se conferiu e que não comentam o capítulo.
+
+- Alcuíno, Interrogationes in Genesin: nenhuma pergunta sobre este capítulo.
+- São Beda, In principium Genesis: não comenta este capítulo (nenhum lema dele na obra).
