@@ -1,0 +1,25 @@
+# São Jerônimo, Quaestiones hebraicae in Genesim
+- Autor: São Jerônimo (c. 347–420)
+- Obra: Liber Hebraicarum quaestionum in Genesim
+- Passagem: Gn 25
+- Edição: PL 23, 975A–978B
+- Fonte: https://mlat.uzh.ch/php_modules/download.php?idno=7160&type=file-txt
+- Cobre: só os versículos em que Jerônimo discute o hebraico
+- Oriental: não
+- Língua: la
+- Baixado: 2026-10-25, por pesquisa/ferramentas/base/gen-latinos-jeronimo.py
+- Leitor: https://mlat.uzh.ch/browser/cps_2.HieStr.QuHeInG (abre a obra inteira)
+
+---
+
+(Cap. XXV.--Vers. 1.)Et adjecit Abraham, et accepit [col. 975B] uxorem, et nomen ejus Cetura: et peperit ei Zamram, et Jecsan, et Madan, et Madian, et Jesboc, et Sue. Et Jecsan genuit Saba et Dadan. Et filii Dadan fuerunt Asurim, et Latusim, et Laomim. Et filii Madian, Jephar, et Apher, et Enoch, et Abida, et Aledea. Omnes hi filii Ceturae. Et dedit Abraham universa quae habuit Isaac. Filiis autem concubinarum, quas habuit, dedit munera, et dimisit eos ab Isaac filio suo, cum adhuc viveret in Oriente, ad terram orientalem. Cetura Hebraeo sermone copulata interpretatur, aut juncta (Al. vincta ). Quam ob causam [col. 976A] suspicantur Hebraei, mutato nomine, eamdem esse Agar, quae, Sara mortua, de concubina transierit in uxorem. Et videtur decrepiti jam Abrahae excusari aetas, ne senex post mortem uxoris suae vetulae, novis arguatur nuptiis lascivisse. Nos quod incertum est relinquentes, hoc dicimus, quod de Cetura nati filii Abraham, 344 juxta historicos Hebraeorum occupaverint Τρωγλοδύτην et Arabiam, quae nunc vocatur Εὐδαίμων, usque ad maris Rubri terminos. Dicitur autem unus ex posteris Abrahae, qui appellabatur Apher, duxisse adversus Libyam exercitum, et ibi, victis hostibus, consedisse: ejusque posteros ex nomine atavi Aphricam nuncupasse. Hujus rei testis est Alexander, qui dicitur Polyhistor, et Cleodemus cognomento Malchus, Graeco sermone [col. 976B] barbaram historiam retexentes. Quod autem ait, Et filii Dadau fuerunt Asurim, et Latusim, et Laomim: Asurim in negotiatores transferri putant: Latusim, aeris ferrique metalla cudentes: Laomim vero φύλαρχοι, id est, principes multarum tribuum atque populorum. Alii ab hoc Asurim vocatos, Syros esse contendunt, et a plerisque filiis Abrahae ex Cetura occupatas Indiae regiones.
+
+(Vers. 8.)Et mortuus est Abraham in senectute bona, senex et plenus, et collectus est ad populum suum. Male in Septuaginta Interpretibus additum est, et [col. 977A] deficiens Abraham mortuus est: quia non convenit Abrahae deficere, et imminui. Illud quoque quod nos posuimus, in senectute bona senex et plenus: in Graecis codicibus ponitur, plenus dierum. Quod cum sensum videatur exponere, eo quod luce et diei operibus plenus occubuerit: tamen magis ad anagogen facit, si simpliciter ponatur plenus.
+
+(Vers. 13.)345 Et haec nomina filiorum Ismael in nominibus suis et in generationibus suis. Primogenitus Ismaelis Nabajoth, et Cedar, et reliqui, usque ad eum locum ubi ait: Et habitaverunt ab Evila usque Sur, quae est contra faciem Aegypti venientibus in Assyrios, in conspectu omnium fratrum suorum cecidit. Duodecim filii nascuntur Ismaeli, e quibus primogenitus fuit Nabajoth, a quo omnis regio ab [col. 977B] Euphrate usque ad mare Rubrum Nabathena usque hodie dicitur, quae pars Arabiae est. Nam et familiae eorum, oppidaque et pagi, ac munita castella, et tribus eorum hac appellatione celebrantur: ab uno ex his, Cedar in deserto, et Duma alia regio, et Theman ad austrum, et Cedema ad orientalem plagam dicitur. Quod autem in extremo hujus capituli, juxta Septuaginta legimus, contra faciem omnium fratrum suorum habitavit (Gen. XIII, 18): verius est illud quod nos posuimus, coram omnibus fratribus suis occubuit, id est, in manibus omnium filiorum suorum mortuus est, superstitibus liberis, et nullo prius morte praerepto. Fratres autem pro filiis appellari, Jacob quoque ad Laban demonstrat, dicens: Quod est peccatum meum, quia persecutus es [col. 977C] post me: et quia scrutatus es omnia vasa mea? Quid invenisti de universis vasis domus tuae? Ponatur coram fratribus meis et fratribus tuis: et dijudicent inter nos (Ibid. 35). Nec enim possumus credere, ut Scriptura commemoret, quod Jacob, exceptis liberis, secum fratres aliquos habuerit.
+
+[col. 978A] (Vers. 21.)Et concepit Rebecca uxor ejus, et movebantur filii ejus in ea. Pro motione, Septuaginta Interpretes posuerunt ἐσκίρτων, id est, ludebant, sive calcitrabant; quod Aquila transtulit, confringebantur filii in utero ejus. Symmachus vero διέπλεον, id est, in similitudinem navis in superficie ferebantur.
+
+(Vers. 25.)Et egressus est primus rubeus totus, sicut 346 pellis pilosus. Ubi nos pilosum posuimus, in Hebraeo habet SEIR ( ). Unde et Esau, sicut et alibi legimus, Seir, id est, pilosus est dictus.
+
+(Vers. 30.)Et dixit Esau Jacob: da mihi gustum de coctione rubea ista, quia deficio: propterea vocatum est nomen ejus Edom. Rubrum, sive fulvum, lingua Hebraea EDOM ( ) dicitur: ab eo igitur, quod rubro cibo vendiderit primitiva sua, fulvi, id est, [col. 978B] Edom sortitus est nomen.

@@ -32,7 +32,7 @@
  "Jacques-Bénigne Bossuet": {"sobre": "bispo de Meaux (1627–1704), pregador e escritor; não canonizado", "oriental": false},
  "João Cassiano": {"sobre": "monge e abade em Marselha (c. 360–c. 435), mestre da vida monástica (venerado como santo no Oriente e em Marselha)", "oriental": false, "usar": "São João Cassiano"},
  "Lactâncio": {"sobre": "escritor eclesiástico (c. 250–c. 325), retórico", "oriental": false},
- "Liturgia bizantina": {"sobre": "oração do sacerdote nas exéquias, rezada também nas Igrejas católicas orientais", "oriental": true},
+ "Liturgia bizantina": {"sobre": "a liturgia das Igrejas de rito bizantino, rezada também nas Igrejas católicas orientais", "oriental": true},
  "Liturgia da Igreja": {"sobre": "", "oriental": false},
  "Liturgia de São Tiago": {"sobre": "a antiga liturgia da Igreja de Jerusalém", "oriental": true},
  "Narsai": {"sobre": "mestre da escola de Nísibis (c. 399–c. 502), da Igreja do Oriente", "oriental": true, "site": false},

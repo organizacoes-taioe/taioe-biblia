@@ -1,0 +1,416 @@
+[
+ {
+  "id": "efrem-coment-gn-2-2-deus-nao-se-cansa",
+  "autor": "Santo Efrém, o Sírio",
+  "autor_id": "efrem",
+  "datas": "c. 306–373",
+  "titulo_autor": "diácono de Nísibis e Edessa, Doutor da Igreja",
+  "obra": "Comentário ao Gênesis",
+  "passagem": "sobre Gn 2,1-3 (Assemani I, p. 20)",
+  "edicao": "J. S. Assemani e P. Benedetti, S. Ephraem Syri Opera omnia syriace et latine I (Roma 1737), p. 20; tradução latina de P. Benedetti, ao lado do siríaco do Vat. sir. 110 (o siríaco, miúdo, não foi transcrito; edição crítica: R.-M. Tonneau, CSCO 152, 1955, com direito autoral)",
+  "versiculos": [
+   1,
+   2,
+   3
+  ],
+  "trecho": "1",
+  "lingua": "la",
+  "original": "Perfecti sunt, inquit, caeli & terra & omnis virtus eorum, & quievit Deus die septimo ab omnibus operibus, quae patrarat. Jam quaeres, quonam a labore quievit Deus? Nam si creaturas primi diei nutu condidit praeter lucem, quae verbo producta fuisse perhibetur; & quaecumque postmodum molitus est, verbo itidem creavit: num inde putes Deum labore delassatum, requiem optasse? quum nec hominem defatigatum dixeris, quod unum verbum per solidum diem protulerit. Sique Moses quum mare virga verboque divideret, & Josue filius Nun imperio sidera cohiberet, fatigati non fuerunt; quis Deum laborasse dicat, quum maria & astra jubendo crearet? Non ergo Deus diei septimo benedixit, & sanctificavit illum, quasi requiem sibi quaereret; non enim lassitudini fatigationique obnoxius est.",
+  "fonte_url": "https://archive.org/details/assemani-et-alii-1732-1746-ephraem-syri-opera-omnia-syr-1/page/n40/mode/1up",
+  "traducao_pt": "«Foram acabados», diz, «o céu e a terra e todo o seu exército, e Deus descansou no sétimo dia de todas as obras que tinha feito.» Perguntarás agora: de que trabalho descansou Deus? As criaturas do primeiro dia, ele as fez com um simples aceno, fora a luz, que foi produzida pela palavra; e tudo o que fez depois, também o criou pela palavra. Vais pensar, então, que Deus, cansado do trabalho, quis descansar? Nem de um homem dirias que ficou cansado por ter dito uma única palavra num dia inteiro. E se Moisés, quando dividiu o mar com a vara e com a palavra, e Josué, filho de Nun, quando deteve os astros com uma ordem, não se cansaram, quem dirá que Deus teve trabalho, se criou os mares e os astros só dando ordens? Deus não abençoou, portanto, o sétimo dia nem o santificou como quem procura descanso para si, porque ele não está sujeito à fadiga nem ao cansaço.",
+  "temas": [
+   "o descanso de Deus",
+   "Deus não se cansa"
+  ],
+  "resumo": "Quem criou tudo com uma palavra não podia cansar-se: nem Moisés e Josué se cansaram ao dar ordens ao mar e aos astros; o sétimo dia não foi abençoado porque Deus precisasse de descanso.",
+  "relevancia": 2,
+  "direitos": "domínio público"
+ },
+ {
+  "id": "efrem-hino-nat-26-10-o-sabado-dos-cansados",
+  "autor": "Santo Efrém, o Sírio",
+  "autor_id": "efrem",
+  "datas": "c. 306–373",
+  "titulo_autor": "diácono de Nísibis e Edessa, Doutor da Igreja",
+  "obra": "Hinos sobre a Natividade (madrashe)",
+  "passagem": "hino 26, estrofe 10 (o sétimo dia)",
+  "edicao": "E. Beck, Des heiligen Ephraem des Syrers Hymnen de Nativitate (CSCO 186, 1959), hino 26, pelo Digital Syriac Corpus (CC BY); o mesmo hino em T. J. Lamy, Sancti Ephraem Syri Hymni et sermones II (Malines 1886), col. 493–500 (NPNF II/13: hino 19)",
+  "versiculos": [
+   2,
+   3
+  ],
+  "trecho": "1",
+  "lingua": "syr",
+  "original": "ܝܰܘܡܳܐ ܫܒܺܝܥܳܝܳܐ ܢܩܰܕܶܫ ܠܩܰܕܺܝܫܳܐ ܕܰܠܫܰܒܬܳܐ ܩܰܕܶܫ ܕܰܢܢܺܝܚ ܠܚ̈ܰܝܘܳܬܳܐ ܛܳܒܳܐ ܕܠܳܐ ܠܐܳܐ ܝܺܨܶܦ ܕܐܢܳܫܽܘܬܳܐ ܘܝܺܨܶܦ ܕܚ̈ܰܝܘܳܬܳܐ ܕܶܢܦܠܰܬ ܠܳܗܿ ܚܺܐܪܽܘܬܳܐ ܬܚܶܝܬ ܢܺܝܪܳܐ ܐܶܬܳܐ ܠܝܰܠܕܳܐ ܘܐܶܫܬܰܥܒܰܕ ܕܰܢܚܰܪܰܪ ܒܠܰܥ ܦܰܟܳܐ [ܕܥܰܒܕܶܗ] ܒܶܝܬ ܕܺܝܢܳܐ ܬܒܰܪ ܢܺܝܪܳܐ ܕܥܰܠ ܚܺܐܪ̈ܶܐ ܐܰܝܟ ܡܳܪܳܐ",
+  "fonte_url": "https://syriaccorpus.org/574",
+  "traducao_pt": "Que o sétimo dia santifique o Santo, que santificou o sábado para dar descanso aos seres vivos. O Bom, que não se cansa, teve cuidado da humanidade e teve cuidado dos animais, cuja liberdade tinha caído debaixo do jugo. Veio nascer e se fez escravo para libertar; suportou no tribunal a bofetada do seu servo; e, como Senhor, quebrou o jugo que pesava sobre os livres.",
+  "temas": [
+   "o sábado, descanso para os cansados",
+   "Cristo, Senhor do sábado"
+  ],
+  "resumo": "Deus, que não se cansa, deu o sábado por cuidado dos homens e dos animais sob o jugo; no Natal o Senhor do sábado veio fazer-se escravo para quebrar o jugo.",
+  "relevancia": 3,
+  "direitos": "domínio público"
+ },
+ {
+  "id": "afraates-dem-13-13-o-sabado-de-deus",
+  "autor": "Afraates, o Sábio Persa",
+  "autor_id": "afraates",
+  "datas": "c. 270–c. 345",
+  "titulo_autor": "bispo, o mais antigo Padre siríaco",
+  "obra": "Demonstrações, 13: Sobre o sábado",
+  "passagem": "Dem. 13, 13",
+  "edicao": "J. Parisot, Patrologia Syriaca I/1 (Paris 1894), col. 569–574; texto do Digital Syriac Corpus",
+  "versiculos": [
+   2,
+   3
+  ],
+  "trecho": "1",
+  "lingua": "syr",
+  "original": "ܒܪܡ ܕܝܢ ܫܡܥ ܥܠ ܫܒܬܐ ܕܨܒܐ ܒܗ ܐܠܗܐ ܐܝܕܐ ܗܝ܂ ܐܡܪ ܠܗܘܢ ܓܝܪ ܐܫܥܝܐ ܕܗܕܐ ܗܝ ܢܝܚܬܝ ܐܢܝܚܘ ܠܡܛܪ̈ܦܐ܂ […] ܠܐ ܓܝܪ ܡܕܡ ܡܗܢܝܐ ܫܒܬܐ ܠܥܘܠܐ̈܂ ܘܐܦܠܐ ܠܩ̈ܛܘܠܐ ܘܠܓܢܒ̈ܐ܂ ܐܠܐ ܠܐܝܠܝܢ ܕܓܒܝܢ ܡܕܡ ܕܨܒܐ ܐܠܗܐ ܘܢܛܪܝܢ ܐܝܕܝܗ̈ܘܢ ܡܢ ܕܒܝܫ܂ ܒܗܘܢ ܫܪܐ ܐܠܗܐ ܘܒܗܘܢ ܥܡܪ […] ܚܢܢ ܕܝܢ ܢܛܪ ܫܒܬܗ ܕܐܠܗܐ܂ ܡܕܡ ܕܡܢܝܚ ܨܒܝܢܗ܂ ܕܢܥܘܠ ܠܫܒܬܗ ܕܢܝܚܐ܂ ܕܒܗ ܡܫܒܬܝܢ ܫܡܝܐ ܘܐܪܥܐ ܘܫܠܝܢ ܘܢܝܚܢ ܟܠܗܝܢ ܒܪ̈ܝܬܐ܂ […] ܘܫܠܝܚܐ ܐܡܪ܂ ܕܥܕܟܝܠ ܩܝܡܐ ܗܝ ܫܒܬܗ ܕܐܠܗܐ܂",
+  "fonte_url": "https://syriaccorpus.org/13",
+  "traducao_pt": "Ouve agora qual é o sábado em que Deus se compraz. Isaías lhes disse: «Este é o meu descanso: dai descanso aos cansados.» […] O sábado não serve de nada aos maus, nem aos assassinos, nem aos ladrões, mas aos que escolhem o que Deus quer e guardam as mãos do mal: neles Deus habita, neles faz a sua morada. […] Nós, porém, guardemos o sábado de Deus, isto é, o que agrada à sua vontade, para entrarmos no sábado do descanso, em que o céu e a terra guardam o sábado e todas as criaturas cessam e descansam. […] E o Apóstolo disse: «Resta ainda o sábado de Deus».",
+  "temas": [
+   "o sábado de Deus",
+   "o descanso que nos espera"
+  ],
+  "resumo": "O sábado que agrada a Deus é fazer a sua vontade e dar descanso aos cansados; assim se entra no sábado em que o céu e a terra descansam (Hb 4,9).",
+  "relevancia": 2,
+  "direitos": "domínio público"
+ },
+ {
+  "id": "liturgia-sabado-santo-o-sabado-abencoado",
+  "autor": "Liturgia bizantina",
+  "autor_id": "liturgia-bizantina",
+  "datas": "",
+  "titulo_autor": "a liturgia das Igrejas de rito bizantino, rezada também nas Igrejas católicas orientais",
+  "obra": "Triódio: Grande e Santo Sábado, Matinas (Louvores)",
+  "passagem": "o «Glória» dos Louvores, tom plagal 2 («Τὴν σήμερον μυστικῶς»)",
+  "edicao": "Τριῴδιον κατανυκτικόν (Veneza 1876), p. 411; o mesmo texto no AGES (Triodion, Grande Sábado, Matinas, LaudsGlory); canta-se também nas Vésperas da véspera",
+  "versiculos": [
+   2,
+   3
+  ],
+  "trecho": "1",
+  "lingua": "grc",
+  "original": "Τὴν σήμερον μυστικῶς, ὁ μέγας Μωϋσῆς προδιετυποῦτο λέγων· Καὶ εὐλόγησεν ὁ Θεός, τὴν ἡμέραν τὴν ἑβδόμην· τοῦτο γάρ ἐστι τὸ εὐλογημένον Σάββατον, αὕτη ἐστὶν ἡ τῆς καταπαύσεως ἡμέρα, ἐν ᾗ κατέπαυσεν ἀπὸ πάντων τῶν ἔργων αὐτοῦ, ὁ Μονογενὴς Υἱὸς τοῦ Θεοῦ, διὰ τῆς κατὰ τὸν θάνατον οἰκονομίας, τῇ σαρκὶ σαββατίσας· καὶ εἰς ὃ ἦν, πάλιν ἐπανελθών, διὰ τῆς Ἀναστάσεως, ἐδωρήσατο ἡμῖν ζωὴν τὴν αἰώνιον, ὡς μόνος ἀγαθὸς καὶ φιλάνθρωπος.",
+  "fonte_url": "https://archive.org/details/triodion-katanyktikon-periechon-hapasan/page/n419/mode/1up",
+  "traducao_pt": "O grande Moisés prefigurava misticamente este dia de hoje, quando dizia: «E Deus abençoou o sétimo dia». Pois este é o sábado abençoado, este é o dia do descanso, em que o Filho unigênito de Deus descansou de todas as suas obras: pelo desígnio de salvação que passava pela morte, guardou o sábado na carne. E, voltando de novo ao que era, pela ressurreição nos deu a vida eterna, ele, o único bom e amigo dos homens.",
+  "temas": [
+   "o sábado de Cristo no sepulcro"
+  ],
+  "resumo": "O hino do Sábado Santo: o sétimo dia abençoado era figura do sábado em que o Filho descansou no sepulcro, antes de nos dar a vida pela ressurreição.",
+  "relevancia": 3,
+  "direitos": "domínio público"
+ },
+ {
+  "id": "efrem-coment-gn-2-7-as-maos-e-o-sopro",
+  "autor": "Santo Efrém, o Sírio",
+  "autor_id": "efrem",
+  "datas": "c. 306–373",
+  "titulo_autor": "diácono de Nísibis e Edessa, Doutor da Igreja",
+  "obra": "Comentário ao Gênesis",
+  "passagem": "sobre Gn 2,7 (Assemani I, p. 22)",
+  "edicao": "J. S. Assemani e P. Benedetti, S. Ephraem Syri Opera omnia syriace et latine I (Roma 1737), p. 22; tradução latina de P. Benedetti, ao lado do siríaco do Vat. sir. 110 (o siríaco, miúdo, não foi transcrito; edição crítica: R.-M. Tonneau, CSCO 152, 1955, com direito autoral)",
+  "versiculos": [
+   7
+  ],
+  "trecho": "2",
+  "lingua": "la",
+  "original": "Formavit itaque Dominus sexto die hominem de limo terrae, & inspiravit in faciem ejus spiraculum vitae; & factus est homo in animam viventem. Et quamvis bestiae, pecora & volucres animam simul & corpus in ipsa sua creatione similiter accepissent; hominem tamen Deus supra illorum conditionem multo altius extulit. Imprimis ipse hominis corpus suis manibus finxit, suoque spiritu animavit, ut hic Scriptura loquitur. Rursus homini potestatem, imperiumque dedit in res omnes, quas intra, vel extra Paradisum condiderat: dignitatem insuper adjecit, & majestatem, rationem & intelligentiam, atque Numinis divini sensum.",
+  "fonte_url": "https://archive.org/details/assemani-et-alii-1732-1746-ephraem-syri-opera-omnia-syr-1/page/n42/mode/1up",
+  "traducao_pt": "O Senhor formou, pois, no sexto dia, o homem do pó do solo, soprou-lhe nas narinas um sopro de vida, e o homem tornou-se alma vivente. Os animais selvagens, os rebanhos e as aves também tinham recebido, ao serem criados, a alma e o corpo ao mesmo tempo; mas Deus elevou o homem muito acima da condição deles. Antes de tudo, ele mesmo modelou com as suas mãos o corpo do homem e o animou com o seu sopro, como a Escritura diz aqui. Depois, deu ao homem poder e domínio sobre todas as coisas que tinha criado dentro e fora do paraíso; e acrescentou ainda a dignidade e a majestade, a razão e a inteligência, e o senso de Deus.",
+  "temas": [
+   "as mãos e o sopro de Deus",
+   "o homem acima dos animais"
+  ],
+  "resumo": "Os animais também têm corpo e alma, mas só o homem foi modelado pelas mãos de Deus e animado pelo seu sopro; por isso recebeu o domínio, a dignidade, a razão e o senso de Deus.",
+  "relevancia": 2,
+  "direitos": "domínio público"
+ },
+ {
+  "id": "afraates-dem-6-14-alma-vivente-e-espirito",
+  "autor": "Afraates, o Sábio Persa",
+  "autor_id": "afraates",
+  "datas": "c. 270–c. 345",
+  "titulo_autor": "bispo, o mais antigo Padre siríaco",
+  "obra": "Demonstrações, 6: Sobre os filhos da aliança",
+  "passagem": "Dem. 6, 14",
+  "edicao": "J. Parisot, Patrologia Syriaca I/1 (Paris 1894), col. 293–294; texto do Digital Syriac Corpus",
+  "versiculos": [
+   7
+  ],
+  "trecho": "2",
+  "lingua": "syr",
+  "original": "ܡܢ ܟܠ ܝ̈ܠܝܕܝ ܦܓܪܐ ܓܝܪ ܪܚܝܩܐ ܗܝ ܪܘܚܐ܂ ܥܕܡܐ ܕܐܬܝܢ ܠܡܘܠܕܐ ܕܡܝܐ܂ ܘܗܝܕܝܢ ܡܩܒܠܝܢ ܪܘܚ ܩܘܕܫܐ܂ ܒܡܘܠܕܐ ܓܝܪ ܩܕܡܝܐ܂ ܡܬܝܠܕܝܢ ܒܪܘܚܐ ܢܦܫܢܝܬܐ܂ ܕܡܬܒܪܝܐ ܒܓܘܗ ܕܒܪ ܐܢܫܐ܂ […] ܐܝܟ ܕܐܡܪ܂ ܕܗܘܐ ܐܕܡ ܠܢܦܫ ܚܝܐ܂ ܘܒܡܘܠܕܐ ܕܬܪ̈ܝܢ ܕܒܡܥܡܘܕܝܬܐ܂ ܡܩܒܠܝܢ ܪܘܚܐ ܕܩܘܕܫܐ܂ ܡܢ ܒܨܪܐ ܕܐܠܗܘܬܐ܂",
+  "fonte_url": "https://syriaccorpus.org/6",
+  "traducao_pt": "O Espírito está longe de todos os que nascem do corpo, até que cheguem ao nascimento da água: então recebem o Espírito Santo. No primeiro nascimento, nascem com o espírito natural, que é criado dentro do homem […], como disse: «Adão tornou-se alma vivente». E no segundo nascimento, o do batismo, recebem o Espírito Santo, que vem da própria divindade.",
+  "temas": [
+   "a alma vivente e o Espírito",
+   "o segundo nascimento"
+  ],
+  "resumo": "Pelo sopro de Gn 2,7 Adão se tornou «alma vivente»: é o primeiro nascimento; no batismo, o segundo, o homem recebe o Espírito Santo, que vem de Deus (cf. 1Cor 15,45).",
+  "relevancia": 2,
+  "direitos": "domínio público"
+ },
+ {
+  "id": "efrem-coment-gn-2-15-guardar-o-mandamento",
+  "autor": "Santo Efrém, o Sírio",
+  "autor_id": "efrem",
+  "datas": "c. 306–373",
+  "titulo_autor": "diácono de Nísibis e Edessa, Doutor da Igreja",
+  "obra": "Comentário ao Gênesis",
+  "passagem": "sobre Gn 2,15 (Assemani I, p. 23)",
+  "edicao": "J. S. Assemani e P. Benedetti, S. Ephraem Syri Opera omnia syriace et latine I (Roma 1737), p. 23; tradução latina de P. Benedetti, ao lado do siríaco do Vat. sir. 110 (o siríaco, miúdo, não foi transcrito; edição crítica: R.-M. Tonneau, CSCO 152, 1955, com direito autoral)",
+  "versiculos": [
+   15
+  ],
+  "trecho": "3",
+  "lingua": "la",
+  "original": "Et adduxit, inquit, Dominus Deus Adam & dimisit in Paradiso Eden, ut operaretur, & custodiret illum. At quomodo agrum Paradisi excoleret homo omni agriculturae instrumento destitutus? [...] Sed nec Paradisus ejus opera indigebat; quum nec inutili gramine, nec vepribus infestaretur. [...] Sed & a quo custodiret, quum nec fures essent nec latrones, quos cavere aut repellere oporteret? Profecto custodia post mandati transgressionem apposita testatur necessarium non fuisse custodem, dum ipsum mandatum custodiretur. Nec ergo alia, quam divini praecepti custodia Adae imperata fuit: nec aliud opus injunctum, quam ut impositam sibi legem observaret. Si quis autem insistat, Adamum cum hoc onere, gemino illo praecepto fuisse gravatum; non abnuo, nec contradico.",
+  "fonte_url": "https://archive.org/details/assemani-et-alii-1732-1746-ephraem-syri-opera-omnia-syr-1/page/n43/mode/1up",
+  "traducao_pt": "«E o Senhor Deus», diz, «levou Adão e o deixou no paraíso do Éden, para o cultivar e o guardar.» Mas como o homem cultivaria o campo do paraíso, sem nenhum instrumento de lavoura? […] Nem o paraíso precisava do trabalho dele, porque não tinha ervas daninhas nem espinhos. […] E de quem o guardaria, se não havia ladrões nem salteadores de quem precisasse se proteger ou que tivesse de expulsar? A guarda que foi posta depois da transgressão do mandamento mostra que não era preciso guarda enquanto se guardava o próprio mandamento. A Adão, portanto, não se mandou guardar outra coisa senão o preceito de Deus, nem se deu outro trabalho senão observar a lei que lhe fora imposta. Mas, se alguém insistir que Adão recebeu as duas tarefas, não o nego nem o contradigo.",
+  "temas": [
+   "cultivar e guardar",
+   "o mandamento, primeira tarefa do homem"
+  ],
+  "resumo": "O paraíso não tinha espinhos nem ladrões: o que Adão devia «cultivar e guardar» era sobretudo o mandamento; o querubim só foi posto de guarda quando o mandamento deixou de ser guardado.",
+  "relevancia": 2,
+  "direitos": "domínio público"
+ },
+ {
+  "id": "efrem-coment-gn-2-17-o-preceito-leve",
+  "autor": "Santo Efrém, o Sírio",
+  "autor_id": "efrem",
+  "datas": "c. 306–373",
+  "titulo_autor": "diácono de Nísibis e Edessa, Doutor da Igreja",
+  "obra": "Comentário ao Gênesis",
+  "passagem": "sobre Gn 2,16-17 (Assemani I, p. 23–24)",
+  "edicao": "J. S. Assemani e P. Benedetti, S. Ephraem Syri Opera omnia syriace et latine I (Roma 1737), p. 23–24; tradução latina de P. Benedetti, ao lado do siríaco do Vat. sir. 110 (o siríaco, miúdo, não foi transcrito; edição crítica: R.-M. Tonneau, CSCO 152, 1955, com direito autoral)",
+  "versiculos": [
+   16,
+   17
+  ],
+  "trecho": "3",
+  "lingua": "la",
+  "original": "Et praecepit, inquit, Deus Adae dicens: ex omnibus lignis Paradisi comedes: ex ligno autem scientiae boni, & mali ne comedas; quacumque enim die ex eo comederis, morte morieris. Hoc sane praeceptum grave non fuit; quandoquidem Deus protoplastis totum Paradisum concesserat, & unam dumtaxat arborem interdixerat. Si enim una sufficiente victum arbore, reliquis abstinere jussi fuissent; profecto qui esurientibus cibum praebebat, eadem peccantibus elevandi criminis rationes suppeditasset. Quum autem pro una arbore, qua data, satis datum fuisset, Deus plurimas obtulerit, praevaricationem non necessitas fecit, sed contemtus. Unam igitur arborem vetuit Deus, poenaeque capitalis sepsit formidine; ut si forte ad parendum mandato mandantis amor minus impelleret, frenaret excubans circa arborem metus, contineretque, ne limitem a lege positum temere transilirent.",
+  "fonte_url": "https://archive.org/details/assemani-et-alii-1732-1746-ephraem-syri-opera-omnia-syr-1/page/n44/mode/1up",
+  "traducao_pt": "«E Deus deu esta ordem a Adão», diz: «De todas as árvores do paraíso comerás; mas da árvore do conhecimento do bem e do mal não comerás, porque no dia em que dela comeres, certamente morrerás.» Esse preceito não era pesado, pois Deus tinha dado aos primeiros pais o paraíso inteiro e só lhes tinha proibido uma árvore. Se lhes tivesse mandado viver de uma só árvore e deixar todas as outras, quem dava comida aos famintos teria dado também aos pecadores uma desculpa para diminuir a culpa. Mas, como Deus ofereceu muitíssimas árvores, quando teria bastado dar uma, não foi a necessidade que fez a transgressão, foi o desprezo. Deus proibiu, portanto, uma única árvore e a cercou com o temor da pena de morte, para que, se o amor de quem mandava os movesse pouco a obedecer, o medo, de sentinela junto da árvore, os refreasse e não deixasse que passassem sem pensar o limite posto pela lei.",
+  "temas": [
+   "o preceito leve",
+   "por que a proibição"
+  ],
+  "resumo": "O preceito era leve: o jardim inteiro dado, uma só árvore proibida; quem pecou não pecou por necessidade, mas por desprezo; e o temor da morte guardava a árvore onde o amor não bastasse.",
+  "relevancia": 3,
+  "direitos": "domínio público"
+ },
+ {
+  "id": "efrem-paraiso-12-os-frutos-antes-do-tempo",
+  "autor": "Santo Efrém, o Sírio",
+  "autor_id": "efrem",
+  "datas": "c. 306–373",
+  "titulo_autor": "diácono de Nísibis e Edessa, Doutor da Igreja",
+  "obra": "Hinos sobre o Paraíso (madrashe)",
+  "passagem": "hino 12 (ed. romana, Sermo XII), Assemani III, p. 597–598",
+  "edicao": "J. S. Assemani, S. Ephraem Syri Opera omnia syriace et latine III (Roma 1743), p. 597–598; tradução latina em prosa, ao lado do siríaco (não transcrito); edição crítica de E. Beck, CSCO 174, 1957, com direito autoral",
+  "versiculos": [
+   9,
+   16,
+   17
+  ],
+  "trecho": "3",
+  "lingua": "la",
+  "original": "Tum ille serpens [...] arcanum didicit, [...] audivitque Deum Adamo caventem, ne arborem scientiae boni & mali contingeret; hujusmodi praeceptum audivit veterator nequissimus, & probe intellexit, indeque incauto agricolae fraudem machinatus est, suasitque, ut immaturos fructus carperet; inde factum, ut poma, quae maturo tempore decerpta vitalia & salutaria fuissent, perverso temporis ordine sibi mortifera evaderent. [...] Beneficium scilicet, si eo praeter legem utaris, maleficium fecisti. [...] Geminas rerum Conditor sevit arbores in Paradiso, arborem vitae, & arborem scientiae, binos videlicet omnium bonorum fontes. Duae nimirum sunt res, quae hominem Deo similem faciunt, vita morte immunis, & ab errore libera sapientia.",
+  "fonte_url": "https://archive.org/details/assemani-et-alii-1732-1746-ephraem-syri-opera-omnia-syr-3/page/n673/mode/1up",
+  "traducao_pt": "A serpente […] aprendeu o segredo: […] ouviu Deus advertir Adão que não tocasse a árvore do conhecimento do bem e do mal. O velho astuto ouviu esse preceito e o entendeu bem; daí armou uma cilada ao lavrador desprevenido e o persuadiu a colher os frutos ainda verdes. Assim, os frutos que, colhidos no tempo maduro, teriam sido de vida e de salvação, colhidos fora do tempo se tornaram mortais para eles. […] Um bem, se o usas contra a lei, tu o transformas em mal. […] O Criador plantou no paraíso duas árvores, a árvore da vida e a árvore do conhecimento, duas fontes de todos os bens. Pois são duas as coisas que tornam o homem semelhante a Deus: a vida livre da morte e a sabedoria livre do erro.",
+  "temas": [
+   "as duas árvores",
+   "por que a proibição"
+  ],
+  "resumo": "A árvore do conhecimento não era má: seus frutos, colhidos no tempo certo, seriam de vida; Adão os colheu verdes. As duas árvores eram as duas fontes que fariam o homem semelhante a Deus: vida sem morte e sabedoria sem erro.",
+  "relevancia": 3,
+  "direitos": "domínio público"
+ },
+ {
+  "id": "efrem-marciao-1-a-morte-adiada",
+  "autor": "Santo Efrém, o Sírio",
+  "autor_id": "efrem",
+  "datas": "c. 306–373",
+  "titulo_autor": "diácono de Nísibis e Edessa, Doutor da Igreja",
+  "obra": "Refutações em prosa: Contra Marcião I",
+  "passagem": "Contra Marcião I (ed. Mitchell II, siríaco p. 60–61)",
+  "edicao": "C. W. Mitchell, A. A. Bevan e F. C. Burkitt, S. Ephraim's Prose Refutations of Mani, Marcion and Bardaisan II (Londres 1921), siríaco p. 60–61, inglês p. xxix–xxx; texto do Digital Syriac Corpus (o palimpsesto tem lacunas)",
+  "versiculos": [
+   17
+  ],
+  "trecho": "3",
+  "lingua": "syr",
+  "original": "ܓܙܳܪ ܗ̱ܘܳܐ ܐܰܠܳܗܳܐ ܒܟܺܐܢܽܘܬܶܗ ܥܰܠ ܐܳܕܳܡ. ܕܰܒܝܰܘܡܳܐ ܠܰܡ ܕܬܶܐܟܽܘܠ ܡܶܢܶܗ ܡܡܳܬ ܬܡܽܘܬ. ܓܙܳܪ ܓܶܝܪ ܐܰܠܳܗܰܢ ܟܺܐܢܳܐܺܝܬ ܘܡܶܛܽܠ ܕܢܶܙܗܰܪ ܗܘܳܐ ܒܚܽܘܒܶܗ ܠܳܐܕܳܡ ܗܰܘ ܕܩܳܐܶܡ ܗܘܳܐ ܛܳܒܳܐܺܝܬ ܕܰܠܡܳܐ ܢܩܽܘܡ ܠܶܗ ܒܺܝܫܳܐܺܝܬ ܟܰܕ ܕܶܝܢ ܠܳܐ ܐܶܙܕܗܰܪ ܐܳܕܳܡ ܘܰܢܦܰܠ ܠܶܗ ܡܶܢ ܛܰܝܒܽܘܬܳܐ ܐܰܕܪܶܟܬܶܗ ܟܺܐܢܽܘܬܳܐ ܐܰܝܟ ܕܓܳܙܪܰܬ ܕܰܒܝܰܘܡܳܐ ܕܬܶܐܟܽܘܠ ܡܶܢܶܗ ܡܡܳܬ ܬܡܽܘܬ ܗܦܰܟ ܕܶܝܢ ܐܰܠܳܗܳܐ ܒـ * * * ܕܛܰܝܒܽܘܬܳܐ ܘܦܰܟܗܶܗ ܠܥܽܘܙܳܐ ܕܟܺܐܢܽܘܬܳܐ ܕܠܳܐ ܢܡܽܘܬ ܐܳܕܳܡ ܒܶܗ ܒܝܰܘܡܳܐ ܐܶܠܳܐ ܕܶܢܚܳܐ ܬܫܰܥܡܳܐܐ ܘܰܬܠܳܬܺܝܢ ܫܢܺܝܢ ܗܳܝܕܶܝܢ ܢܡܽܘܬ܀ […] ܡܶܛܽܠ ܡܪܰܚܡܳܢܽܘܬܶܗ ܗܽܘ ܐܰܚܝܶܗ ܐܳܦ ܗܳܫܳܐ ܒܚ̈ܰܝܶܐ ܕܰܠܥܳܠܰܡ ܡܶܛܽܠ ܛܰܝܒܽܘܬܶܗ",
+  "fonte_url": "https://syriaccorpus.org/533",
+  "traducao_pt": "Deus decretou com justiça a respeito de Adão: «No dia em que dela comeres, certamente morrerás.» Nosso Deus decretou com justiça, e para advertir com amor Adão, que estava bem, a fim de que não viesse a estar mal. Mas, como Adão não fez caso da advertência e caiu da bondade, a justiça o alcançou, como tinha decretado: «No dia em que dela comeres, certamente morrerás». Deus, porém, voltou-se para a bondade e abrandou o rigor da justiça, para que Adão não morresse naquele mesmo dia, mas vivesse novecentos e trinta anos e só então morresse. […] por causa da sua misericórdia; e também agora, por causa da sua bondade, ele o fez viver na vida eterna.",
+  "temas": [
+   "«certamente morrerás»",
+   "a justiça e a misericórdia"
+  ],
+  "resumo": "A ameaça de morte era uma advertência de amor; quando Adão pecou, Deus temperou a justiça com a bondade: não morreu naquele dia, viveu 930 anos, e agora vive na vida eterna.",
+  "relevancia": 2,
+  "direitos": "domínio público"
+ },
+ {
+  "id": "efrem-coment-gn-2-19-os-animais-como-rebanho",
+  "autor": "Santo Efrém, o Sírio",
+  "autor_id": "efrem",
+  "datas": "c. 306–373",
+  "titulo_autor": "diácono de Nísibis e Edessa, Doutor da Igreja",
+  "obra": "Comentário ao Gênesis",
+  "passagem": "sobre Gn 2,19-20 (Assemani I, p. 24–25)",
+  "edicao": "J. S. Assemani e P. Benedetti, S. Ephraem Syri Opera omnia syriace et latine I (Roma 1737), p. 24–25; tradução latina de P. Benedetti, ao lado do siríaco do Vat. sir. 110 (o siríaco, miúdo, não foi transcrito; edição crítica: R.-M. Tonneau, CSCO 152, 1955, com direito autoral)",
+  "versiculos": [
+   19,
+   20
+  ],
+  "trecho": "4",
+  "lingua": "la",
+  "original": "Quae mox subdit: Et adduxit ea ad Adam, indicant tum protoplastae sapientiam, tum pacem, quae ante mandati praevaricationem hominem cum reliquis animantibus mutuo amore sociabat. Convenere itaque ad Adam velut ad pastorem gregem suum complexari paratum, atque singulae in turmas & species proprias ordinatissime distributae plane sine metu, coram illo transibant, quum nec ipsum nec se invicem timerent: praecedebant turmae bestiarum noxiarum, impavidae sequebantur innoxiae. [...] Quod ergo Adam nomina pluribus speciebus serpentum, reptilium, quadrupedum, ferarum, & avium imposuerit, non hoc admodum difficile fuit; sed quod singulas proprio nomine citra omnem errorem distinxerit; hoc Dei est; sique hominis, illud ex Dei munere fuit.",
+  "fonte_url": "https://archive.org/details/assemani-et-alii-1732-1746-ephraem-syri-opera-omnia-syr-1/page/n44/mode/1up",
+  "traducao_pt": "O que diz logo depois — «e os levou a Adão» — mostra tanto a sabedoria do primeiro homem quanto a paz que, antes da transgressão do mandamento, unia o homem aos outros animais num amor mútuo. Vieram, pois, a Adão como um rebanho ao pastor pronto a abraçá-lo; e todos, bem ordenados em bandos e em espécies, passavam diante dele sem nenhum medo, porque não o temiam, nem uns aos outros: à frente iam os bandos de feras perigosas, e atrás, sem temor, os animais mansos. […] Que Adão tenha dado nome a tantas espécies de serpentes, répteis, quadrúpedes, feras e aves, não foi tão difícil; mas que tenha distinguido cada uma com o seu próprio nome, sem erro nenhum, isso é obra de Deus; ou, se é do homem, foi dom de Deus.",
+  "temas": [
+   "Adão dá nome aos animais",
+   "a paz antes do pecado"
+  ],
+  "resumo": "Os animais vieram a Adão como um rebanho ao pastor, feras na frente e mansos atrás, sem medo nenhum; e acertar o nome de cada um foi sabedoria dada por Deus.",
+  "relevancia": 3,
+  "direitos": "domínio público"
+ },
+ {
+  "id": "efrem-coment-gn-2-23-um-e-dois",
+  "autor": "Santo Efrém, o Sírio",
+  "autor_id": "efrem",
+  "datas": "c. 306–373",
+  "titulo_autor": "diácono de Nísibis e Edessa, Doutor da Igreja",
+  "obra": "Comentário ao Gênesis",
+  "passagem": "sobre Gn 2,21-23 (Assemani I, p. 25–26)",
+  "edicao": "J. S. Assemani e P. Benedetti, S. Ephraem Syri Opera omnia syriace et latine I (Roma 1737), p. 25–26; tradução latina de P. Benedetti, ao lado do siríaco do Vat. sir. 110 (o siríaco, miúdo, não foi transcrito; edição crítica: R.-M. Tonneau, CSCO 152, 1955, com direito autoral)",
+  "versiculos": [
+   21,
+   22,
+   23
+  ],
+  "trecho": "4",
+  "lingua": "la",
+  "original": "Quum autem costa momento exerta fuisset, parique celeritate ejus locus carne fuisset suppletus, nudatam eum in modum costam ad pulcherrimam mulieris formam speciemque suis numeris absolutissimam refinxit Deus, Adaeque continuo praesentavit. Adam ergo unus fuit, idemque duo: unus sane, quia unus Adam: idem duo, quia ab ipsa sua conditione fuit ita comparatus, ut vir in feminam geminaretur. Haec Adami dormientis acta: sequuntur ejusdem evigilantis dicta. Dixitque Adam: Hoc nunc os ex ossibus meis & caro de carne mea. Haec vocabitur virago, quia de viro sumta est. Hoc nunc, idest, haec, quae post ceteras animantes ultima nunc paruit, iis utique comparanda non est: ex humo quippe illae decerptae sunt; haec vero non ita, sed os est ex ossibus meis, & caro de carne mea.",
+  "fonte_url": "https://archive.org/details/assemani-et-alii-1732-1746-ephraem-syri-opera-omnia-syr-1/page/n45/mode/1up",
+  "traducao_pt": "Tirada a costela num instante, e com a mesma rapidez preenchido com carne o seu lugar, Deus refez a costela despojada na mais bela forma de mulher, perfeita em todos os traços, e logo a apresentou a Adão. Adão, portanto, era um e era dois: um, sem dúvida, porque havia um só Adão; dois, porque desde a sua criação foi feito de tal modo que o homem se desdobrasse na mulher. Isso é o que se fez enquanto Adão dormia; seguem-se as palavras de Adão acordado: «Esta, agora, é osso dos meus ossos e carne da minha carne; esta se chamará mulher, porque do homem foi tomada». «Esta, agora», isto é: esta, que apareceu agora, por último, depois dos outros animais, não se compara a eles: eles foram tirados do solo, ela não, mas é osso dos meus ossos e carne da minha carne.",
+  "temas": [
+   "a mulher tirada do homem",
+   "um e dois"
+  ],
+  "resumo": "Adão era um e dois: um só homem, feito de modo a desdobrar-se na mulher; por isso ele a reconhece como diferente de todos os animais, tirados do solo: ela é osso dos seus ossos.",
+  "relevancia": 2,
+  "direitos": "domínio público"
+ },
+ {
+  "id": "jaco-sarug-veu-moises-o-lado-do-esposo",
+  "autor": "São Jacó de Sarug",
+  "autor_id": "jaco-sarug",
+  "datas": "c. 451–521",
+  "titulo_autor": "bispo de Batnan, poeta siríaco",
+  "obra": "Memra «Sobre os véus no rosto de Moisés»",
+  "passagem": "memra 79 de Bedjan, p. 299",
+  "edicao": "P. Bedjan, Homiliae selectae Mar-Jacobi Sarugensis III (Paris–Leipzig 1907), memra 79, p. 299 (só siríaco; transcrição feita da imagem, sem vogais)",
+  "versiculos": [
+   21,
+   22
+  ],
+  "trecho": "4",
+  "lingua": "syr",
+  "original": "ܗܐ ܬܪܝܥ ܓܒܗ ܕܚܬܢܐ ܘܢܦܩܬ ܟܠܬܐ ܡܢܗ: ܘܫܠܡܬ ܨܘܪܬܐ ܕܚܘܐ ܘܐܕܡ ܗܝ ܕܪܫܝܡܐ܀ ܡܢ ܠܘܩܕܡ ܓܝܪ ܨܪ ܐܢܘܢ ܘܪܫܡ ܐܢܘܢ: ܠܒܝܬ ܐܕܡ ܒܕܡܘܬ ܨܘܪܬܐ ܕܝܚܝܕܝܗ܀ ܕܡܟ ܒܙܩܝܦܐ ܐܝܟ ܕܕܡܟ ܗܘܐ ܒܫܢܬܐ ܐܕܡ: ܘܬܪܥܘܗܝ ܠܓܒܗ ܘܢܦܩܬ ܡܢܗ ܒܪܬ ܢܘܗܪܐ܀ ܡܝ̈ܐ ܘܕܡܐ ܠܨܘܪܬܐ ܕܥܘ̈ܠܐ ܐܠܗ̈ܝܐ: ܕܢܗܘܘܢ ܝܪ̈ܬܐ ܠܐܒܐ ܕܪܚܡ ܠܝܚܝܕܝܗ܀ ܐܡܐ ܕܟܠ ܕܚܝ ܐܝܬܝܗ ܚܘܐ ܒܕܡܘܬܐ: ܘܡܢ ܗܝ ܐܡܐ ܕܚ̈ܝܐ ܐܠܐ ܡܥܡܘܕܝܬܐ܀ ܐܢܬܬܗ ܕܐܕܡ ܡܝ̈ܘܬܐ ܝܠܕܐ ܦܓܪ̈ܢܝܐ: ܘܗܕܐ ܒܬܘܠܬܐ ܝܠܕܐ ܚ̈ܝܐ ܘܪ̈ܘܚܢܝܐ܀",
+  "fonte_url": "https://archive.org/details/homiliaeselectae03jaco/page/n318/mode/1up",
+  "traducao_pt": "Eis que o lado do Esposo foi aberto, e dele saiu a esposa; e completou-se a figura de Eva e Adão, que tinha sido esboçada. Pois desde o princípio ele os pintou e os esboçou, a casa de Adão, à semelhança da imagem do seu Unigênito. Ele dormiu na cruz como Adão tinha dormido o seu sono; abriram-lhe o lado, e dele saiu a filha da luz: água e sangue, como figura de filhos divinos, para que fossem herdeiros do Pai, que amou o seu Unigênito. Eva é, em figura, a mãe de todos os que vivem; e quem é a mãe da vida, senão o batismo? A mulher de Adão dá à luz filhos mortais, segundo o corpo; e esta virgem dá à luz filhos vivos, segundo o Espírito.",
+  "temas": [
+   "o sono de Adão e o lado de Cristo"
+  ],
+  "resumo": "O sono de Adão e a mulher tirada do seu lado eram esboço de Cristo, que dormiu na cruz e de cujo lado aberto saiu a Igreja; Eva gera mortais, o batismo gera filhos vivos.",
+  "relevancia": 2,
+  "direitos": "domínio público"
+ },
+ {
+  "id": "liturgia-matrimonio-que-o-homem-nao-esteja-so",
+  "autor": "Liturgia bizantina",
+  "autor_id": "liturgia-bizantina",
+  "datas": "",
+  "titulo_autor": "a liturgia das Igrejas de rito bizantino, rezada também nas Igrejas católicas orientais",
+  "obra": "Eucológio: ofício da coroação (o matrimônio no rito bizantino)",
+  "passagem": "3ª oração do sacerdote, antes da coroação («Ὁ Θεὸς ὁ ἅγιος, ὁ πλάσας ἐκ χοὸς τὸν ἄνθρωπον»)",
+  "edicao": "Εὐχολόγιον τὸ μέγα (Veneza 1862), p. 246; o mesmo texto no AGES (Euchologion, Wedding, Key0213)",
+  "versiculos": [
+   7,
+   18,
+   21,
+   22,
+   24
+  ],
+  "trecho": "4",
+  "lingua": "grc",
+  "original": "Ὁ Θεὸς ὁ ἅγιος, ὁ πλάσας ἐκ χοὸς τὸν ἄνθρωπον, καὶ ἐκ τῆς πλευρᾶς αὐτοῦ ἀνοικοδομήσας γυναῖκα, καὶ συζεύξας αὐτῷ βοηθὸν κατ᾽ αὐτόν, διὰ τὸ οὕτως ἀρέσαι τῇ σῇ μεγαλειότητι, μὴ μόνον εἶναι τὸν ἄνθρωπον ἐπὶ τῆς γῆς· αὐτὸς καὶ νῦν, Δέσποτα, ἐξαπόστειλον τὴν χεῖρά σου ἐξ ἁγίου κατοικητηρίου σου, καὶ ἅρμοσον τὸν δοῦλόν σου (τόνδε) καὶ τὴν δούλην σου (τήνδε), ὅτι παρὰ σοῦ ἁρμόζεται ἀνδρὶ γυνή. Σύζευξον αὐτοὺς ἐν ὁμοφροσύνῃ· στεφάνωσον αὐτοὺς εἰς σάρκα μίαν· χάρισαι αὐτοῖς καρπὸν κοιλίας, εὐτεκνίας ἀπόλαυσιν.",
+  "fonte_url": "https://archive.org/details/euchologion-to-mega/page/n262/mode/1up",
+  "traducao_pt": "Ó Deus santo, que formaste o homem do pó e da sua costela edificaste a mulher, e a uniste a ele como uma auxiliar que lhe corresponda, porque assim aprouve à tua majestade, que o homem não estivesse só sobre a terra: tu mesmo, Senhor, estende agora a tua mão da tua santa morada e une este teu servo N. e esta tua serva N., porque é por ti que a mulher se une ao marido. Une-os na concórdia; coroa-os numa só carne; concede-lhes o fruto do ventre, a alegria de bons filhos.",
+  "temas": [
+   "«Não é bom que o homem esteja só»",
+   "uma só carne"
+  ],
+  "resumo": "A oração do matrimônio bizantino reza com Gn 2: Deus, que tirou a mulher da costela do homem para que ele não estivesse só, une hoje os noivos e os «coroa numa só carne».",
+  "relevancia": 3,
+  "direitos": "domínio público"
+ },
+ {
+  "id": "efrem-coment-gn-2-25-a-veste-de-gloria",
+  "autor": "Santo Efrém, o Sírio",
+  "autor_id": "efrem",
+  "datas": "c. 306–373",
+  "titulo_autor": "diácono de Nísibis e Edessa, Doutor da Igreja",
+  "obra": "Comentário ao Gênesis",
+  "passagem": "sobre Gn 2,25 (Assemani I, p. 26)",
+  "edicao": "J. S. Assemani e P. Benedetti, S. Ephraem Syri Opera omnia syriace et latine I (Roma 1737), p. 26; tradução latina de P. Benedetti, ao lado do siríaco do Vat. sir. 110 (o siríaco, miúdo, não foi transcrito; edição crítica: R.-M. Tonneau, CSCO 152, 1955, com direito autoral)",
+  "versiculos": [
+   25
+  ],
+  "trecho": "4",
+  "lingua": "la",
+  "original": "Pergit: erant ambo nudi, & non erubescebant: Pudore utique non suffundebantur, non quod hanc affectionem non caperent, & pueri essent: nam si tales fuissent, sicut externi quidam dixerunt, scriptura non diceret, illos nudos fuisse, & nihilominus non erubuisse: neque rursus illum modum loquendi usurparet, Adam & uxor ejus, nisi pubertatis annos attigissent: sed & nomina, quae Adam animantibus imposuit, satis superque nobis ejus prudentiam sapientiamque persuadent. [...] Causam itaque cur erubescerent, sustulerat stola gloriae, quam induerant; qua quum post inobedientiam exuti fuissent, merito erubuerunt, puduitque esse nudos.",
+  "fonte_url": "https://archive.org/details/assemani-et-alii-1732-1746-ephraem-syri-opera-omnia-syr-1/page/n46/mode/1up",
+  "traducao_pt": "E continua: «Estavam ambos nus e não se envergonhavam». Não se cobriam de vergonha, não porque fossem incapazes desse sentimento ou porque fossem crianças. Se fossem, como disseram alguns de fora, a Escritura não diria que estavam nus e mesmo assim não se envergonhavam, nem falaria de «Adão e sua mulher», se não tivessem chegado à idade adulta; e também os nomes que Adão deu aos animais nos convencem de sobra da sua prudência e sabedoria. […] O que lhes tirava o motivo de vergonha era a veste de glória com que estavam vestidos; quando foram despojados dela, depois da desobediência, com razão se envergonharam e tiveram vergonha de estar nus.",
+  "temas": [
+   "a veste de glória",
+   "a nudez sem vergonha"
+  ],
+  "resumo": "Adão e Eva não eram crianças: não tinham vergonha porque estavam vestidos de glória; perdida essa veste na desobediência, viram-se nus.",
+  "relevancia": 3,
+  "direitos": "domínio público"
+ },
+ {
+  "id": "liber-graduum-15-3-nus-como-criancas",
+  "autor": "Liber Graduum (Livro dos Degraus)",
+  "autor_id": "liber-graduum",
+  "datas": "séc. IV–V",
+  "titulo_autor": "obra ascética siríaca anônima",
+  "obra": "Memra 15: Sobre o desejo do casamento que veio a Adão",
+  "passagem": "Memra 15, 3",
+  "edicao": "M. Kmosko, Liber Graduum (Patrologia Syriaca I/3, Paris 1926), memra 15, 3, col. 339–342; texto do Digital Syriac Corpus",
+  "versiculos": [
+   25
+  ],
+  "trecho": "4",
+  "lingua": "syr",
+  "original": "ܟܬܺܝܒ ܓܶܝܪ ܕܰܗܘܳܐ ܐܳܕܳܡ ܘܚܰܘܳܐ ܥܰܪܛܶܠܳܝܺܝܢ ܘܠܳܐ ܡܶܬܚܰܙܝܳܐ ܗ̱ܘܳܬ ܥܰܪܛܶܠܳܝܽܘܬܗܽܘܢ: ܗܳܢܰܘ ܕܶܝܢ ܐܰܝܟ ܛܠܳܝ̈ܶܐ ܕܚܰܠܒܳܐ ܕܰܫܠܺܝܚܺܝܢ ܘܠܳܐ ܝܳܕܥܺܝܢ ܡܳܢܳܐ ܗ̱ܝ ܥܰܪܛܶܠܳܝܽܘܬܳܐ: ܒܗܳܕܶܐ ܕܠܳܐ ܒܳܗܬܺܝܢ ܒܡܰܚܫܰܒܬܳܐ ܣܢܺܝܬܳܐ: ܐܶܠܽܘ ܝܳܕܥܺܝܢ ܗ̱ܘܰܘ ܓܶܝܪ: ܡܶܬܟܰܣܶܝܢ ܗ̱ܘܰܘ. ܡܰܢܽܘ ܗܳܟܺܝܠ ܓܰܒܪܳܐ ܐܰܘ ܐܰܢ̱ܬܬܳܐ ܕܩܳܝܡܺܝܢ ܩܕܳܡ ܚܕ̈ܳܕܶܐ ܟܰܕ ܫܠܺܝܚܺܝܢ: ܘܠܳܐ ܡܶܬܬܥܺܝܪܳܐ ܪܶܓܰܬܗܽܘܢ ܒܠܶܒܗܽܘܢ: ܘܚܳܙܶܝܢ ܕܥܰܪܛܶܠܳܝܺܝܢ؟ ܐܶܠܳܐ ܐܰܝܠܶܝܢ ܕܰܕܟܶܐ ܠܶܒܗܽܘܢ ܡܶܢ ܪܶܓܬܳܐ ܘܩܰܕܺܝܫܺܝܢ ܒܠܶܒܗܽܘܢ ܘܰܒܦܰܓܪ̈ܰܝܗܽܘܢ: ܐܰܝܟ ܕܺܐܝܬܰܝܗܽܘܢ ܗ̱ܘܰܘ ܕܒܶܝܬ ܐܳܕܳܡ ܥܰܕܠܳܐ ܢܶܚܛܽܘܢ؟ ܡܶܛܽܠ ܗܳܢܳܐ ܐܶܡܰܪ ܡܳܪܰܢ: ܕܶܐܠܳܐ ܬܶܬܗܰܦܟܽܘܢ ܘܬܶܗܘܽܘܢ ܐܰܝܟ ܝܰܠ̈ܽܘܕܶܐ ܗܳܠܶܝܢ: ܠܳܐ ܐܺܝܬܰܝܟܽܘܢ ܐܰܝܟ ܗܳܝ ܒܪܺܝܬܶܗ ܕܳܐܕܳܡ ܩܰܕܡܳܝܬܳܐ: ܕܥܰܕܠܳܐ ܢܶܥܒܰܪ ܥܰܠ ܦܽܘܩܕܳܢܳܐ ܕܓܳܒܽܘܠܶܗ.",
+  "fonte_url": "https://syriaccorpus.org/202",
+  "traducao_pt": "Está escrito que Adão e Eva estavam nus, e a nudez deles não se via: isto é, eram como as crianças de peito, que estão despidas e não sabem o que é nudez, porque não se envergonham com um pensamento feio; se o soubessem, se cobririam. Quem é, então, o homem ou a mulher que podem estar despidos um diante do outro sem que o desejo se acenda no coração, e ver que estão nus? Só aqueles cujo coração é puro do desejo, e que são santos no coração e no corpo, como era a casa de Adão antes de pecarem. Por isso disse nosso Senhor: «Se não vos converterdes e não vos tornardes como estas crianças», não sereis como aquela primeira criação de Adão, antes que ele transgredisse o mandamento do seu Criador.",
+  "temas": [
+   "a nudez sem vergonha",
+   "a pureza de coração"
+  ],
+  "resumo": "Adão e Eva estavam nus sem vergonha como as crianças de peito, porque o coração deles era puro; voltar a ser como crianças (Mt 18,3) é voltar à primeira criação.",
+  "relevancia": 2,
+  "direitos": "domínio público"
+ }
+]

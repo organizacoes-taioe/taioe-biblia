@@ -1,0 +1,23 @@
+# Santo Agostinho, De civitate Dei
+- Autor: Santo Agostinho (354–430)
+- Obra: De civitate Dei
+- Passagem: livro XVI, 29, 31
+- Edição: PL 41, 508–510 (colunas deduzidas do Corpus Corporum, texto 21364)
+- Fonte: https://www.augustinus.it/latino/cdd/cdd_16_libro.htm
+- Cobre: Gn 18: os capítulos de Agostinho que o comentam (tabela CAPS_XV_XVI; conferir)
+- Oriental: não
+- Língua: la
+- Baixado: 2026-10-25, por pesquisa/ferramentas/base/gen-agostinho-cidade.py
+- Nota: Texto dos Maurinos (= PL) pelo augustinus.it; itálico (*...*) = citação bíblica; as linhas em _itálico_ entre os parágrafos são os resumos da Nuova Biblioteca Agostiniana, não de Agostinho; [col. N] = coluna da PL, ancorada pelo texto do Corpus Corporum (conferir quando importar).
+
+---
+
+## LIBER XVI
+
+_Quomodo divinitas Abrahae et Loth appareat._
+
+**29.** Item Deus apparuit Abrahae ad quercum Mambre in tribus viris, quos dubitandum non est angelos fuisse; quamvis quidam existiment unum in eis fuisse Dominum Christum, asserentes eum etiam ante indumentum carnis fuisse visibilem. Est quidem divinae potestatis et invisibilis, incorporalis immutabilisque naturae, sine ulla sui mutatione etiam mortalibus aspectibus apparere, non per id quod est, sed per aliquid quod sibi subditum est; quid autem illi subditum non est? Verum tamen si propterea confirmant horum trium aliquem fuisse Christum, quia, cum tres vidisset, ad Dominum singulariter est locutus; sic enim scriptum est: *Et ecce tres viri stabant super eum, et videns procucurrit in obviam illis ab ostio tabernaculi sui, et adoravit super terram et dixit: Domine, si inveni gratiam ante te*, et cetera: cur non et illud advertunt, duos ex eis venisse, ut Sodomitae delerentur, cum adhuc Abraham ad unum loqueretur, Dominum appellans et intercedens, ne simul iustum cum impio in Sodomis perderet? Illos autem duos sic suscepit Loth, ut etiam ipse in colloquio cum illis suo singulariter Dominum appellet. Nam cum eis pluraliter dixisset: *Ecce, domini, declinate in domum pueri vestri*, et cetera quae ibi dicuntur, postea tamen ita legitur: *Et tenuerunt angeli manum eius et manum uxoris eius et manus duarum filiarum eius, in eo quod parceret Dominus ipsi. Et factum est, mox ut eduxerunt illum foras, et dixerunt: Salvam fac animam tuam, ne respexeris retro, nec steteris in tota regione; in monte salvum te fac, ne quando comprehendaris. Dixit autem Loth ad illos: Oro, [col. 509] Domine, quia invenit puer tuus misericordiam ante te*, et quae sequuntur. Deinde post haec verba singulariter illi respondet et Dominus, cum in duobus angelis esset, dicens: *Ecce miratus sum faciem tuam*, et cetera. Unde multo est credibilius, quod et Abraham in tribus et Loth in duobus viris Dominum agnoscebant, cui per singularem numerum loquebantur, etiam cum eos homines esse arbitrarentur; neque enim aliam ob causam sic eos susceperunt, ut tamquam mortalibus et humana refectione indigentibus ministrarent; sed erat profecto aliquid, quo ita excellebant, licet tamquam homines, ut in eis esse Dominum, sicut assolet in Prophetis, hi, qui hospitalitatem illis exhibebant, dubitare non possent; atque ideo et ipsos aliquando pluraliter et in eis Dominum aliquando singulariter appellabant. Angelos autem fuisse Scriptura testatur, non solum in hoc *Genesis* libro, ubi haec gesta narrantur, verum etiam in *Epistula ad Hebraeos*, ubi, cum hospitalitas laudaretur: *Per hanc*, inquit, *etiam quidam nescientes hospitio receperunt angelos*. Per illos igitur tres viros, cum rursus filius Isaac de Sarra promitteretur Abrahae, divinum datum est etiam tale responsum, ut diceretur: *Abraham erit in magnam gentem et multam, et benedicentur in eo omnes gentes terrae*. Et hic duo illa brevissime plenissimeque promissa sunt, gens Israel secundum carnem et omnes gentes secundum fidem.
+
+_Cum Isaac promissus fuit Sara risit._
+
+**31.** [col. 510] Post haec natus est Abrahae secundum promissionem Dei de Sarra filius, eumque nominavit Isaac, quod interpretatur Risus. Riserat enim et pater, quando ei promissus est, admirans in gaudio; riserat et mater, quando per illos tres viros iterum promissus est, dubitans in gaudio; quamvis exprobrante angelo, quod risus ille, etiamsi gaudii fuit, tamen plenae fidei non fuit, post ab eodem angelo in fide etiam confirmata est. Ex hoc ergo puer nomen accepit. Nam quod risus ille non ad irridendum opprobrium, sed ad celebrandum gaudium pertinebat, nato Isaac et eo nomine vocato Sarra monstravit; ait quippe: *Risum mihi fecit Dominus; quicumque enim audierit, congaudebit mihi*. Sed post aliquantulum tempus ancilla de domo eicitur cum filio suo, et duo illa secundum Apostolum Testamenta significantur, Vetus et Novum, ubi Sarra illa supernae Ierusalem, hoc est civitatis Dei, figuram gerit.

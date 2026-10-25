@@ -224,18 +224,5 @@
    ]
   }
  },
- "revisao": {
-  "escolhas": [
-   {
-    "id": "custa-da-vida",
-    "ref": "Nm 17,3",
-    "titulo": "«Que pecaram à custa da própria vida» ou «contra a própria vida»?",
-    "contexto": "O hebraico diz *haḥattaʾim ha'elle benafshotam*, «estes pecadores, com as suas vidas». O *be-* é o do preço: pecaram e pagaram com a vida (a Bíblia grega e a Vulgata dizem «nas suas almas», e assim leem os Padres). *Nefesh* aqui é a vida, não o interior da pessoa (opção C do estudo). A tradução de partida dizia «que pecaram contra a sua própria vida», que também cabe no hebraico (como em Pr 20,2, «peca contra a própria vida»), mas põe o acento no mal que fizeram a si mesmos, e não na morte que sofreram.",
-    "opcoes": [
-     {"id": "a", "texto": "«destes homens, que pecaram à custa da própria vida»", "nota": "O sentido mais provável: o pecado lhes custou a vida (v. 35 do capítulo 16).", "recomendada": true},
-     {"id": "b", "texto": "«daqueles que pecaram contra a sua própria vida», como estava", "nota": "Também possível: o pecado foi contra eles mesmos."}
-    ]
-   }
-  ]
- }
+ "revisao": {"escolhas": []}
 }

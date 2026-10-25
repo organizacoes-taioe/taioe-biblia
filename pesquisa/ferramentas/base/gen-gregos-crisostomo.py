@@ -12,8 +12,13 @@ Fontes (baixadas UMA vez para pesquisa/cache/genesis/gregos/, fora do git):
     archive.org da PG greco-latina (53 = «patrologiaecurs24migngoog», ilegível para citar); o script guarda o LATIM da PG
     (versão de Montfaucon, domínio público) do OCR legível da edição só latina de 1859 («bim_early-english-books-1641-1700_1859_53»
     e «…_1859_54»), que traz nos cabeçalhos as colunas da PG greco-latina e o capítulo do Gênesis de cada página
-    («IN CAP. I. GENES. HOMIL. III»). Cada homilia vai para os capítulos que aparecem nesses cabeçalhos (e nas
-    referências «(Gen. 1. 9)» do título). Para citar o grego, conferir na imagem da PG 53/54.
+    («IN CAP. I. GENES. HOMIL. III»). Para citar o grego, conferir na imagem da PG 53/54.
+
+Homilias -> capítulos (desde 25/10, para Gn 3–50): a tabela INICIO dá o versículo do lema de cada homilia (lido no OCR e
+corrigido à mão: o OCR troca números, ex. «Gen. 25. 5» por 23,5); cada homilia vai do seu lema até o versículo antes do lema
+da seguinte, e entra em todos os capítulos desse trecho. Gn 1 e 2 seguem a divisão antiga (1–10 e 11–16; a 16 também vai a
+Gn 3, porque comenta 2,25–3,7). Os títulos «HOMILIA XL. V.» se acham com regra frouxa e se numeram em sequência (41 na PG 53,
+26 na PG 54); a edição de 1859 repete uma página (o fim da homilia 43 e o começo da 44): a primeira cópia sai.
 """
 import collections, os, re, sys
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
@@ -29,6 +34,42 @@ LAT_VER = {53: 'https://archive.org/details/bim_early-english-books-1641-1700_18
 GRC_PG53 = 'https://archive.org/details/patrologiaecurs24migngoog'
 SERMOES = {1: [1], 2: [1], 3: [1, 2], 4: [1, 3], 5: [3], 6: [2], 7: [2], 8: [2], 9: [5, 17]}
 ROM = {'I': 1, 'V': 5, 'X': 10, 'L': 50, 'C': 100}
+# versículo do lema de cada homilia (17–67); as 1–16 ficam com a divisão antiga (CAPS_ANTIGOS)
+INICIO = {17: (3, 8), 18: (3, 20), 19: (4, 8), 20: (4, 16), 21: (5, 1), 22: (5, 32), 23: (6, 9), 24: (6, 10),
+          25: (7, 6), 26: (8, 1), 27: (8, 20), 28: (9, 8), 29: (9, 20), 30: (11, 1), 31: (11, 31), 32: (12, 7),
+          33: (13, 2), 34: (13, 14), 35: (14, 1), 36: (15, 1), 37: (15, 7), 38: (16, 1), 39: (17, 1), 40: (17, 15),
+          41: (18, 1), 42: (18, 16), 43: (19, 1), 44: (19, 27), 45: (20, 1), 46: (21, 7), 47: (22, 1), 48: (23, 5),
+          49: (25, 19), 50: (25, 21), 51: (26, 1), 52: (26, 12), 53: (26, 34), 54: (27, 42), 55: (29, 15), 56: (29, 21),
+          57: (30, 25), 58: (32, 1), 59: (33, 18), 60: (35, 7), 61: (37, 2), 62: (38, 2), 63: (39, 23), 64: (41, 46),
+          65: (45, 25), 66: (47, 29), 67: (48, 21)}
+CAPS_ANTIGOS = {h: [1] for h in range(1, 11)} | {h: [2] for h in range(11, 16)} | {16: [2, 3]}
+# último versículo de cada capítulo (Vulgata/LXX: o fim do trecho de uma homilia)
+FIM_CAP = {1: 31, 2: 25, 3: 24, 4: 26, 5: 32, 6: 22, 7: 24, 8: 22, 9: 29, 10: 32, 11: 32, 12: 20, 13: 18, 14: 24, 15: 21,
+           16: 16, 17: 27, 18: 33, 19: 38, 20: 18, 21: 34, 22: 24, 23: 20, 24: 67, 25: 34, 26: 35, 27: 46, 28: 22,
+           29: 35, 30: 43, 31: 55, 32: 32, 33: 20, 34: 31, 35: 29, 36: 43, 37: 36, 38: 30, 39: 23, 40: 23, 41: 57,
+           42: 38, 43: 34, 44: 34, 45: 28, 46: 34, 47: 31, 48: 22, 49: 33, 50: 26}
+
+
+def trecho(h):
+    """(cap, vers) do começo e do fim do trecho da homilia h (h >= 16), pelo lema dela e o da seguinte."""
+    ini = INICIO.get(h, (2, 25))
+    if h == 67:
+        return ini, (50, 26)
+    c, v = INICIO[h + 1]
+    fim = (c, v - 1) if v > 1 else (c - 1, FIM_CAP[c - 1])
+    return ini, fim
+
+
+def caps_da_homilia(h):
+    if h in CAPS_ANTIGOS:
+        return CAPS_ANTIGOS[h]
+    (c0, _), (c1, _) = trecho(h)
+    return list(range(c0, c1 + 1))
+
+
+def trecho_txt(h):
+    (c0, v0), (c1, v1) = trecho(h)
+    return f'Gn {c0},{v0}–{v1}' if c0 == c1 else f'Gn {c0},{v0}–{c1},{v1}'
 
 
 def romano(s):
@@ -92,58 +133,43 @@ def gravar_sermoes(cap, t, sec):
 
 
 # ---------------------------------------------------------------- homilias (latim da PG)
+def _lema(L, i):
+    """Primeiras letras do lema (a linha não vazia depois do título), para achar a página repetida."""
+    for l in L[i + 1:i + 6]:
+        if l.strip():
+            return re.sub(r'[^a-z]', '', l.lower())[:25]
+    return ''
+
+
 def homilias(vol):
     p = G.baixar(LAT[vol], f'ia/pg0{vol}-lat.txt', minimo=100000)
     L = G.ler(p).split('\n')
     primeira = 1 if vol == 53 else 42
     ultima = 41 if vol == 53 else 67
-    inicio = next(i for i, l in enumerate(L) if re.match(r'^\s*HOMILIA (PRIMA|I)\.\s*$', l)) if vol == 53 else \
-        next(i for i, l in enumerate(L) if re.match(r'^\s*HOMILIA XL[I1l]+\.\s*$', l))
-    rx = re.compile(r'^[\s.\-–J]*HOMILIA\s+([IVXLCivxlc1 ]+|PRIMA)\.?\s*(?:\([a-z]\)\.?)?\s*$')
-    cands = []
-    for i in range(inicio, len(L)):
-        m = rx.match(L[i])
-        if m:
-            n = 1 if m.group(1) == 'PRIMA' else romano(m.group(1))
-            cands.append((i, n))
-    # sequência crescente: o número lido vale se é o esperado ou um pouco adiante (homilias cujo título o OCR perdeu);
-    # um número estranho vale como o esperado se o candidato seguinte é o esperado + 1
-    pos, esp = {}, primeira
-    for k, (i, n) in enumerate(cands):
-        if esp > ultima:
-            break
-        prox = cands[k + 1][1] if k + 1 < len(cands) else None
-        if n is not None and esp <= n <= esp + 3:
-            pos[n] = i
-            esp = n + 1
-        elif prox == esp + 1:
-            pos[esp] = i
-            esp += 1
-    # capítulos do Gênesis por homilia: cabeçalhos «IN CAP. I. GENES. HOMIL. III» e referências «(Gen. 1. 9)» do título
-    ordem = sorted(pos.items(), key=lambda kv: kv[1])
+    fim = next((i for i, l in enumerate(L) if 'FINIS HOMILIARUM' in l), len(L))
+    # títulos: regra frouxa («HOMILIA XL. V.», «HNOMILIA XXVI.», «ROMILIA LV.», «| HOMILIA LXVII.»), numerados em sequência
+    rx = re.compile(r'^[\s|.\-–J\dRP]{0,6}[HNR]N?OMILIA\s+(\S.{0,14}?)\s*$')
+    cands = [i for i, l in enumerate(L[:fim]) if rx.match(l) and not re.search(r'DAVID|SAUL', l)]
+    # página repetida no volume (PG 54: o fim da homilia 43 e o começo da 44 aparecem duas vezes): fica a segunda cópia,
+    # e a homilia anterior termina na primeira
+    lixo = []
+    k = 0
+    while k + 1 < len(cands):
+        if _lema(L, cands[k]) and _lema(L, cands[k]) == _lema(L, cands[k + 1]):
+            lixo.append((cands[k], cands[k + 1]))
+            del cands[k]
+        else:
+            k += 1
+    assert len(cands) == ultima - primeira + 1, (vol, len(cands))
+    pos = {primeira + k: i for k, i in enumerate(cands)}
     caps, rng = {}, {}
-    for k, (h, a) in enumerate(ordem):
-        b = ordem[k + 1][1] if k + 1 < len(ordem) else len(L)
+    for h, a in pos.items():
+        b = pos[h + 1] if h + 1 in pos else fim
+        for x, y in lixo:
+            if y == b:
+                b = x
         rng[h] = (a, b)
-        cont = collections.Counter()
-        for l in L[a:b]:
-            m = re.search(r'IN CAP[.,]\s*([IVXLl1Uui]+)\.?\s*GENES', l)
-            if m:
-                c = romano(m.group(1))
-                if c and 1 <= c <= 50:
-                    cont[c] += 1
-        for m in re.finditer(r'\((?:Gen|Cen|Gem)\.\s*(\d{1,2})\.', ' '.join(L[a:a + 12])):
-            cont[int(m.group(1))] += 2
-        caps[h] = cont
-    # capítulo principal de cada homilia, sem recuar (o OCR lê «II» como «1» às vezes); os outros só com 2+ cabeçalhos
-    ult = 1
-    for h in sorted(caps):
-        cont = caps[h]
-        bons = {c: n for c, n in cont.items() if ult - 0 <= c <= ult + 3}
-        princ = max(bons, key=lambda c: (bons[c], -c)) if bons else ult
-        outros = {c for c, n in cont.items() if n >= 2 and abs(c - princ) <= 2 and c >= ult}
-        caps[h] = sorted({princ} | outros)
-        ult = princ
+        caps[h] = caps_da_homilia(h)
     return L, rng, caps, pos
 
 
@@ -178,7 +204,8 @@ def gravar_homilias(cap, dados):
                 ns = colunas_lat(L, a, b)
                 lo, hi = (min(ns), max(ns)) if ns else (None, None)
                 ref = f'PG {vol}, {lo}–{hi}' if ns else f'PG {vol}'
-                partes.append(f'## Homilia {h} ({ref}, colunas pelo OCR)\n\n' + limpar_lat(L[a:b]))
+                tr = f'{trecho_txt(h)}; ' if cap >= 3 and h >= 16 else ''
+                partes.append(f'## Homilia {h} ({tr}{ref}, colunas pelo OCR)\n\n' + limpar_lat(L[a:b]))
                 quais.append(h)
     if not quais:
         G.ausente(cap, f'São João Crisóstomo, Homiliae in Genesim: nenhuma homilia achada para Gn {cap} (conferir a tabela).')
@@ -190,7 +217,8 @@ def gravar_homilias(cap, dados):
         'Passagem': 'homilias ' + ', '.join(str(h) for h in quais),
         'Edição': 'PG 53, 21–385 e PG 54, 385–580 (texto aqui: a versão latina da PG, de Montfaucon)',
         'Fonte': ' ; '.join(LAT_VER[v] for v in vols) + f' (grego: {GRC_PG53}, OCR ilegível)',
-        'Cobre': 'as homilias que o cabeçalho da PG põe neste capítulo',
+        'Cobre': 'as homilias que o cabeçalho da PG põe neste capítulo' if cap <= 2 else
+                 '; '.join(f'hom. {h}: {trecho_txt(h)}' for h in quais) + ' (do lema de cada homilia ao da seguinte)',
         'Oriental': 'sim',
         'Língua': 'la (tradução latina antiga da PG, para conferir; o original grego está na PG 53–54)',
     }

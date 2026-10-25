@@ -1,0 +1,15 @@
+# Ruperto de Deutz, De Trinitate et operibus eius: In Genesim
+- Autor: Ruperto de Deutz (c. 1075–1129)
+- Obra: De Trinitate et operibus eius, In Genesim (livros I–IX)
+- Passagem: Gn 50 (lemas dos vv. 15–15)
+- Edição: PL 167, 565B–566C
+- Fonte: https://mlat.uzh.ch/php_modules/download.php?idno=10873&type=file-txt
+- Cobre: o capítulo, com os títulos de capítulo de Ruperto
+- Oriental: não
+- Língua: la
+- Baixado: 2026-10-25, por pesquisa/ferramentas/base/gen-latinos-ruperto.py
+- Leitor: https://mlat.uzh.ch/browser/cps_2.RupTui.DeTrEtO (abre a obra inteira)
+
+---
+
+Quo mortuo, timentes fratres ejus, et mutuo colloquentes: Ne forte memor sit injuriae quam passus est, et reddat nobis malum omne quod fecimus, mandaverunt ei: Pater tuus praecepit nobis antequam moreretur, ut tibi haec verbis illius diceremus: Obsecro ut [col. 565C] obliviscaris sceleris fratrum tuorum, etc. Ingenitae clementiae laus est, quod auditis verbis fratrum suorum dicentium: Nos quoque oramus ut servis Dei patris tui dimittas iniquitatem hanc, flevit Joseph. Sanctissimum et optimum donationis vel remissionis genus hoc est, ubi illis qui peccaverunt non flentibus, sed tantummodo confitentibus, solus ille flet [col. 566A] qui pecccatis offensus indulget, et adorantibus pro indulgentia pias quoque reddit lacrymas cum venia. Attamen ubi mulcet pietas, illic pariter pungit veritas, ne sic de remissione ejus qui laesus est fratres gaudeant, quatenus a sollicitudine judicii Dei mentis oculos claudant. Nolite, inquit, metuere. Num Dei possumus resistere voluntati? Hoc plane pietatis est. Vos cogitastis de me malum, et Deus vertit illud in bonum, ut exaltaret me sicut in praesentarium cernitis, et salvos faceret multos populos. Hoc asperae veritatis est. Utile omnibus qui praesunt hinc exemplum sumendum est, ut cito quidem in se peccantibus dimittant, et insuper bona pro malis retribuant, sed de Dei judicio peccatores nimium securos esse non sinant. Vixitque centum decem annos, et vidit [col. 566B] Ephraim filios usque ad tertiam generationem. Ad fortitudinem paternarum benedictionum, inter quas et benedictiones edixit uberum et vulvae, et de quibus ait: Benedictiones patris tui confortatae sunt (Gen. XLIX), hoc referri debet, quod vidit Ephraim progeniem usque ad tertiam, et quod filii quoque Machir filii Manasse nati sunt in genibus Joseph, id est quod natos filios Machir nutritio affectu gestavit in genibus suis proavus Joseph. Sic et illud matris ejus Rachelis dictum accipiendum est: Ingredere ad famulam meam, ut pariat super genua mea (Gen. XXX), id est, ut quod pepererit illa ego adoptatum gestem, sicut mater super genua mea. Et hic quoque de transferendis ossibus suis mandavit: Post mortem meam, inquiens Deus visitabit vos, et ascendere faciet [col. 566C] de terra ista: asportate vobiscum ossa mea de loco isto. Quod fecit et Moyses, sicut scriptum est in Exodo (Exod. XIII). Non tamen eodem sepulcro cum patribus suis Abraham, Isaac et Jacob conditus est in Hebron, sed in Sichem, quam, ut supra dictum est, dedit Jacob absque sorte tribui Joseph, et ibi mausoleum ejus usque hodie cernitur.

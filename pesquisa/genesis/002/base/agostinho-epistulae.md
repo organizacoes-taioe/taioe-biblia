@@ -1,0 +1,23 @@
+# Santo Agostinho, Epistulae
+- Autor: Santo Agostinho (354–430)
+- Obra: Epistulae (Carta 55, a Januário)
+- Passagem: Carta 55, 9, 17 – 10, 19
+- Edição: PL 33, 212–213
+- Fonte: https://www.augustinus.it/latino/lettere/lettera_055_testo.htm
+- Cobre: Gn 2,2-3 (o sábado, o sétimo dia sem tarde e o oitavo)
+- Oriental: não
+- Língua: la
+- Baixado: 2026-10-25, por pesquisa/ferramentas/base/gen_agostinho_comum.py (obter_aug, blocos, colunas), chamada por um script avulso da pesquisa de Gn 2
+- Nota: Texto dos Maurinos (= PL) pelo augustinus.it; itálico (*...*) = citação bíblica; [col. N] = coluna da PL, ancorada pelo texto do Corpus Corporum (conferir quando importar). Só os parágrafos que tratam de Gn 2.
+
+---
+
+## Carta 55, 9, 17 – 10, 19
+
+_PL: col. 212–213 (Corpus Corporum, texto 7300)_
+
+**Ep. 55, 9, 17.** Quod enim nunc, ut superius dixi, fide ac spe gerimus, atque ut ad id perveniamus dilectione satagimus, requies est quaedam ab omni labore omnium molestiarum sancta atque perpetua: in eam nobis ex hac vita fit transitus, quem Dominus noster Iesus Christus sua passione praemonstrare ac consecrare dignatus est. Inest autem in illa requie non desidiosa segnitia, sed quaedam ineffabilis tranquillitas actionis otiosae. Sic enim ab huius vitae operibus in fine requiescitur, ut in alterius vitae actione gaudeatur. Sed quia talis actio in Dei laude agitur, sine labore membrorum, sine angore curarum; non ad eam sic transitar per quietem, ut ipsi labor succedat, id est non sic esse actio incipit, ut esse desinat quies: neque enim reditur ad labores et curas; sed permanet in actione quod ad quietem pertinet, nec in opere laborare, nec in cogitatione fluctuare. Quia ergo per requiem ad primam vitam reditur, unde anima lapsa est in peccatum, propterea sabbato requies significatur. Illa autem vita prima, quae de peregrinatione redeuntibus, et primam stolam accipientibus redditur, per unam sabbati, quem diem dominicum dicimus, figuratur. Quaere septem dies, Genesim lege: invenies septimum sine vespera, quia requiem sine fine significat. Prima ergo vita non fuit sempiterna peccanti: requies autem ultima sempiterna est, ac per hoc et octavus sempiternam beatitudinem habebit, quia requies illa, quae sempiterna est, excipitur ab octavo, non exstinguitur; neque enim esset aliter sempiterna. Ita ergo erit octavus qui primus, ut prima vita non tollatur, sed reddatur aeterna.
+
+**Ep. 55, 10, 18.** Sabbatum tamen commendatum est priori populo in otio corporaliter celebrandum, ut figura esset sanctificationis in requie Spiritus Sancti. Nusquam enim legimus in Genesi sanctificationem per omnes priores dies; sed de solo sabbato dictum est: *Et sanctificavit Deus diem septimum.* Amant enim requiem, sive piae animae, sive iniquae; sed qua perveniant ad illud quod amant, plurimum nesciunt: nec aliquid appetunt etiam ipsa corpora ponderibus suis, nisi quod animae amoribus suis. Nam [col. 213] sicut corpus tamdiu nititur pondere, sive deorsum versus, sive sursum versus, donec ad locum quo nititur veniens conquiescat; pondus quippe olei si dimittatur in aere, deorsum; si autem sub aquis, sursum nititur: sic animae ad ea quae amant propterea nituntur, ut perveniendo requiescant. Et multa quidem per corpus delectant, sed non est in eis aeterna requies, nec saltem diuturna; et propterea magis sordidant animam, et aggravant potius, ut sincerum eius pondus, quo in superna fertur, impediant. Cum ergo anima seipsa delectatur, nondum re incommutabili delectatur; et ideo adhuc superba est, quia se pro summo habet, cum superior sit Deus. Nec in tali peccato impunita relinquitur, quia *Deus superbis resistit, humilibus autem dat gratiam*. Cum autem Deo delectatur, ibi veram, certam, aeternam invenit requiem, quam in aliis quaerebat, nec inveniebat. Proinde admonetur in psalmo: *Delectare in Domino, et dabit tibi petitiones cordis tui.*
+
+**Ep. 55, 10, 19.** Quia ergo *caritas Dei diffusa est in cordibus nostris per Spiritum Sanctum qui datus est nobis*, ideo sanctificatio in septimo die commemorata est, ubi requies commendatur. Quia vero nec bene operari possumus, nisi dono eius adiuti, sicut dicit Apostolus: *Deus enim est qui operatur in vobis et velle et operari, pro bona voluntate*, nec requiescere poterimus post omnia bona opera nostra quae in hac vita gerimus, nisi eius dono ad aeternitatem sanctificati atque perfecti; propterea de ipso Deo dicitur quia cum fecisset *omnia opera valde bona, septimo die requievit ab omnibus operibus suis quae fecit*. Futuram enim requiem significabat, quam post bona opera daturus erat nobis hominibus. Sicut enim cum bene operamur, ipse dicitur operari in nobis, cuius munere bene operamur: ita cum requiescimus, ipse requiescere dicitur, quo donante requiescimus.

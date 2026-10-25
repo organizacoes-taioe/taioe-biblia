@@ -49,11 +49,11 @@
   {"v": 31, "t": "E viu Deus tudo o que tinha feito, e eis que era muito bom. E houve tarde, e houve manhã: o sexto dia."}
  ],
  "notas": [
-  {"id": "n01", "v": 1, "apos": "a terra", "texto": "Este relato da criação (1,1–2,2) é a primeira leitura da Vigília Pascal: na noite da Páscoa, a Igreja começa a história da salvação pela criação do mundo.", "origem": "nova: o uso marcante na liturgia da Missa (como o Te Deum no Sl 33,22); no lugar da do projeto antigo sobre «bereshit» (nota de língua)"},
-  {"id": "n02", "v": 5, "apos": "manhã", "texto": "A tarde vem antes da manhã: para Israel, o dia começa ao pôr do sol. Por isso o sábado começa na sexta-feira à tarde, e os domingos e as festas da Igreja começam na véspera.", "origem": "revista do projeto antigo: costume que o leitor de hoje não tem, com o eco na liturgia (a missa da véspera)"},
-  {"id": "n03", "v": 6, "apos": "firmamento", "texto": "Na imagem antiga do mundo, o firmamento é uma abóbada firme, como um teto, que separa as águas de cima, de onde vem a chuva, das águas de baixo.", "origem": "nova: a imagem antiga do mundo, como a nota dos abismos aprovada no Sl 33,7"},
-  {"id": "n04", "v": 16, "apos": "grandes luzeiros", "texto": "O texto não diz «sol» nem «lua», que nos povos vizinhos eram nomes de deuses: aqui são só luzeiros, que Deus fez e pôs no céu para iluminar a terra.", "origem": "revista do projeto antigo: o contexto histórico que passaria despercebido; saiu a frase sobre as estrelas «quase de passagem» (análise)"},
-  {"id": "n05", "v": 29, "apos": "alimento", "texto": "Neste começo, os homens e os animais comem só plantas; a carne só será dada como alimento depois do dilúvio (9,3).", "origem": "revista do projeto antigo: ajuda a se localizar no texto (como Nm 14,17); saiu «e virá com ressalvas»"}
+  {"id": "n01", "v": 1, "apos": "a terra", "texto": "Este relato da criação (1,1–2,2) é a primeira leitura da Vigília Pascal: na noite da Páscoa, a Igreja começa a história da salvação pela criação do mundo.", "origem": "nova: o uso marcante na liturgia da Missa (como o Te Deum no Sl 33,22); no lugar da do projeto antigo sobre «bereshit» (nota de língua)", "revista": true},
+  {"id": "n02", "v": 5, "apos": "manhã", "texto": "A tarde vem antes da manhã: para Israel, o dia começa ao pôr do sol. Por isso o sábado começa na sexta-feira à tarde, e os domingos e as festas da Igreja começam na véspera.", "origem": "revista do projeto antigo: costume que o leitor de hoje não tem, com o eco na liturgia (a missa da véspera)", "revista": true},
+  {"id": "n03", "v": 6, "apos": "firmamento", "texto": "Na imagem antiga do mundo, o firmamento é uma abóbada firme, como um teto, que separa as águas de cima, de onde vem a chuva, das águas de baixo.", "origem": "nova: a imagem antiga do mundo, como a nota dos abismos aprovada no Sl 33,7", "revista": true},
+  {"id": "n04", "v": 16, "apos": "grandes luzeiros", "texto": "O texto não diz «sol» nem «lua», que nos povos vizinhos eram nomes de deuses: aqui são só luzeiros, que Deus fez e pôs no céu para iluminar a terra.", "origem": "revista do projeto antigo: o contexto histórico que passaria despercebido; saiu a frase sobre as estrelas «quase de passagem» (análise)", "revista": true},
+  {"id": "n05", "v": 29, "apos": "alimento", "texto": "Neste começo, os homens e os animais comem só plantas; a carne só será dada como alimento depois do dilúvio (9,3).", "origem": "revista do projeto antigo: ajuda a se localizar no texto (como Nm 14,17); saiu «e virá com ressalvas»", "revista": true}
  ],
  "comentarios": {
   "1": {
@@ -281,38 +281,6 @@
      {"id": "a", "texto": "«e o Espírito de Deus pairava sobre as águas»", "nota": "Como na liturgia e na leitura dos Padres.", "recomendada": true},
      {"id": "b", "texto": "«e o espírito de Deus pairava sobre as águas»", "nota": "Como estava: deixa a leitura em aberto."},
      {"id": "c", "texto": "«e um vento de Deus pairava sobre as águas»", "nota": "A leitura de algumas Bíblias modernas; perde a que os Padres e a liturgia fazem."}
-    ]
-   },
-   {
-    "id": "deserta-e-vazia",
-    "ref": "Gn 1,2",
-    "titulo": "A terra estava «deserta e vazia», «informe e vazia» ou «caos e vazio»?",
-    "contexto": "O hebraico diz *tohu vavohu*. *Tohu* é o ermo, o lugar sem vida: Is 45,18 diz que Deus «não criou [a terra] para ser *tohu*, formou-a para ser habitada», e Dt 32,10 fala do *tohu* do deserto; *bohu* é o vazio. O lecionário diz «deserta e vazia». «Informe» vem da tradição latina (a Vetus Latina de Agostinho, *invisibilis et incomposita*, e a sua «matéria informe»), e a tradução de partida o seguia aqui, mas dizia «caos e vazio» em Jr 4,23, que repete a dupla de palavras, e «caos» em Is 34,11 e 45,18. A escolha vale para esses lugares.",
-    "opcoes": [
-     {"id": "a", "texto": "«A terra estava deserta e vazia»; Jr 4,23 «era deserta e vazia», Is 45,18 «não a criou para ser deserta»", "nota": "O sentido de *tohu*, como na liturgia.", "recomendada": true},
-     {"id": "b", "texto": "«A terra estava informe e vazia»", "nota": "A da tradição latina e da tradução de partida."},
-     {"id": "c", "texto": "«A terra era caos e vazio», como em Jr 4,23", "nota": "«Caos» é palavra grega, que traz a ideia da mitologia grega da origem do mundo."}
-    ]
-   },
-   {
-    "id": "marcar-os-tempos",
-    "ref": "Gn 1,14",
-    "titulo": "Os luzeiros são sinais para marcar «os tempos», «as festas» ou «as estações»?",
-    "contexto": "O hebraico diz *le'otot ulemo'adim uleyamim veshanim*. *Mo'adim* são os tempos marcados, e na Lei é a palavra das festas («as festas do Senhor», Lv 23,2); o Eclesiástico diz da lua: «Da lua vem o sinal das festas» (43,7), e o Sl 104,19, «Fez a lua para marcar os tempos». A Bíblia grega e a Vulgata dizem «tempos» (*kairoús*, *tempora*); o lecionário, «as épocas»; a tradução de partida, «as estações». A escolha vale também para o Sl 104,19.",
-    "opcoes": [
-     {"id": "a", "texto": "«e sejam sinais para marcar os tempos, os dias e os anos», como no Sl 104,19", "nota": "Abrange as estações do ano e as festas, sem escolher entre elas.", "recomendada": true},
-     {"id": "b", "texto": "«e sejam sinais para as festas, para os dias e para os anos»", "nota": "O sentido que a palavra tem na Lei: a lua marca as festas."},
-     {"id": "c", "texto": "«e sejam sinais para as estações, para os dias e para os anos»", "nota": "Como estava."}
-    ]
-   },
-   {
-    "id": "homem-e-mulher",
-    "ref": "Gn 1,27",
-    "titulo": "«Homem e mulher os criou» ou «macho e fêmea os criou»?",
-    "contexto": "O hebraico diz *zakhar uneqeva*, as palavras de macho e fêmea, as mesmas dos animais da arca (Gn 6,19; 7,2-3.9.16); para «homem» e «mulher» como pessoas, o Gênesis usa outras (*ish* e *ishá*, 2,23). O lecionário, o Catecismo e a citação de Jesus (Mt 19,4; Mc 10,6) dizem «homem e mulher». A tradução de partida dizia «macho e fêmea» aqui e em Gn 5,2. A escolha vale para Gn 5,2 e para a citação nos Evangelhos; nos animais da arca fica «macho e fêmea».",
-    "opcoes": [
-     {"id": "a", "texto": "«à imagem de Deus o criou; homem e mulher os criou»", "nota": "Como na liturgia, no Catecismo e na citação de Jesus; o leitor de hoje ouve «macho e fêmea» como palavras de bicho.", "recomendada": true},
-     {"id": "b", "texto": "«à imagem de Deus o criou; macho e fêmea os criou»", "nota": "Literal; guarda a diferença entre as palavras deste capítulo e as do capítulo 2."}
     ]
    }
   ]
