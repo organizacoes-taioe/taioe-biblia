@@ -1,0 +1,202 @@
+{
+ "1": [
+  {
+   "id": "no-principio",
+   "titulo": "No princípio",
+   "versiculos": [1],
+   "resumo": "Deus, que não precisava de nada, deu começo ao mundo e ao próprio tempo, por pura bondade.",
+   "itens": [
+    {"id": "basilio-hex-1-2-o-nome-de-deus-como-selo", "passagem": "Hex. 1, 2 (PG 29)", "edicao": ""},
+    "agostinho-conf-11-12-14",
+    {"id": "newman-pps-6-25-por-que-deus-criou", "passagem": "pp. 364–366 (Londres, Longmans, Green and Co.)", "edicao": "", "obra": "Sermões paroquiais e simples (Parochial and Plain Sermons), vol. VI, sermão 25, «A paz na fé» (Peace in Believing), no domingo da Trindade"}
+   ]
+  },
+  {
+   "id": "o-espirito-sobre-as-aguas",
+   "titulo": "O Espírito de Deus sobre as águas",
+   "versiculos": [2],
+   "resumo": "Os Padres leem no versículo a Trindade e o Espírito que dá vida às águas; e a terra ainda sem forma ensina que a criatura só fica bela quando se volta para Deus.",
+   "itens": [
+    "agostinho-conf-13-5-6",
+    {"id": "basilio-hex-2-6-o-espirito-choca-as-aguas", "passagem": "Hex. 2, 6 (PG 29)", "edicao": ""},
+    "hugo-sacramentos-1-1-3-ser-e-ser-belo"
+   ]
+  },
+  {
+   "id": "faca-se-a-luz",
+   "titulo": "Faça-se a luz",
+   "versiculos": [3, 4, 5],
+   "resumo": "Deus cria só com a palavra, e a luz é boa porque ele a quis boa; o primeiro dia, «dia um», é figura do domingo.",
+   "itens": [
+    "ambrosio-hex-1-9-33-faca-se-a-luz",
+    "agostinho-civ-11-21",
+    {"id": "bento-xvi-hom-20110423-a-razao-criadora", "passagem": "4º parágrafo", "edicao": ""},
+    {"id": "basilio-hex-2-8-dia-um-e-o-domingo", "passagem": "Hex. 2, 8 (PG 29)", "edicao": ""}
+   ]
+  },
+  {
+   "id": "na-noite-da-pascoa",
+   "titulo": "Na noite da Páscoa",
+   "versiculos": [1, 2],
+   "resumo": "A Igreja lê este capítulo na Vigília Pascal e reza a partir dele: a criação do mundo prepara a Páscoa de Cristo e o batismo.",
+   "itens": [
+    {"id": "liturgia-vigilia-pascal-criacao-e-pascoa", "passagem": "oração «Omnipotens sempiterne Deus, qui es in omnium operum tuorum dispensatione mirabilis»", "edicao": ""},
+    {"id": "liturgia-bencao-da-agua-espirito-sobre-as-aguas", "passagem": "começo da oração «Deus, qui invisibili potentia»", "edicao": ""}
+   ]
+  }
+ ],
+ "2": [
+  {
+   "id": "o-firmamento-e-os-mares",
+   "titulo": "O firmamento e os mares",
+   "versiculos": [6, 7, 8, 9, 10],
+   "resumo": "A Escritura fala do céu como ele aparece aos olhos, sem querer ensinar ciência; o mar fica no seu limite pela palavra de Deus, e a sua beleza lembra a da Igreja reunida em oração.",
+   "itens": [
+    {"id": "leao-xiii-providentissimus-a-linguagem-das-aparencias", "passagem": "n. 18 (Acta Sanctae Sedis 26, 269–292)", "edicao": ""},
+    {"id": "afraates-dem-14-36-o-mar-obedece-a-palavra", "passagem": "Dem. 14, 36 (ed. J. Parisot, Patrologia Syriaca I/1, Paris 1894)", "edicao": ""},
+    {"id": "basilio-hex-4-6-7-o-mar-e-a-assembleia", "passagem": "Hex. 4, 6–7 (PG 29)", "edicao": ""}
+   ]
+  },
+  {
+   "id": "a-terra-fez-brotar",
+   "titulo": "A terra fez brotar vegetação",
+   "versiculos": [11, 12],
+   "resumo": "A primeira ordem de Deus continua a fazer a terra produzir; a rosa sem espinhos lembra o mundo antes do pecado; e cada planta dá o seu fruto, como cada cristão na sua vocação.",
+   "itens": [
+    {"id": "basilio-hex-5-10-a-primeira-ordem-ainda-age", "passagem": "Hex. 5, 10 (PG 29)", "edicao": ""},
+    "ambrosio-hex-3-11-47-48-rosa-sem-espinhos",
+    {"id": "francisco-de-sales-introducao-1-3-cada-planta-seu-fruto", "passagem": "I, 3 (Œuvres, ed. de Annecy, t. III, pp. 19–20)", "edicao": ""}
+   ]
+  }
+ ],
+ "3": [
+  {
+   "id": "o-sol-e-a-lua-criaturas",
+   "titulo": "O sol e a lua, criaturas",
+   "versiculos": [14, 15, 16],
+   "resumo": "Os astros são criaturas, feitas para servir o homem e marcar o tempo: não são deuses para adorar, nem senhores do nosso destino.",
+   "itens": [
+    {"id": "teofilo-autolico-2-15-os-luzeiros-no-quarto-dia", "texto": "No quarto dia foram feitos os luzeiros. Deus, que conhece o futuro, sabia das tolices dos filósofos vãos, que iriam dizer que o que nasce da terra vem dos astros, para assim deixar Deus de lado. Para que a verdade aparecesse, as plantas e as sementes foram feitas antes dos astros, pois o que vem depois não pode fazer o que existe antes dele. Isso é também sinal e figura de um grande mistério. O sol é figura de Deus, e a lua, do homem. Como o sol é muito superior à lua em força e glória, assim Deus é muito superior à humanidade. E como o sol permanece sempre cheio, sem diminuir, assim Deus permanece sempre perfeito, cheio de todo poder, inteligência, sabedoria, imortalidade e de todos os bens. A lua, porém, mingua a cada mês e como que morre, figura do homem; depois renasce e cresce, sinal da ressurreição que há de vir.", "original": "Τετάρτῃ ἡμέρᾳ ἐγένοντο οἱ φωστῆρες. Ἐπειδὴ ὁ θεὸς προγνώστης ὢν ἠπίστατο τὰς φλυαρίας τῶν ματαίων φιλοσόφων, ὅτι ἤμελλον λέγειν ἀπὸ τῶν στοιχείων εἶναι τὰ ἐπὶ τῆς γῆς φυόμενα, πρὸς τὸ ἀθετεῖν τὸν θεόν· ἵν᾿ οὖν τὸ ἀληθὲς δειχθῇ, προγενέστερα γέγονεν τὰ φυτὰ καὶ τὰ σπέρματα τῶν στοιχείων· τὰ γὰρ μεταγενέστερα οὐ δύναται ποιεῖν τὰ αὐτῶν προγενέστερα. Ταῦτα δὲ δεῖγμα καὶ τύπον ἐπέχει μεγάλου μυστηρίου. Ὁ γὰρ ἥλιος ἐν τύπῳ θεοῦ ἐστιν, ἡ δὲ σελήνη ἀνθρώπου. Καὶ ὥσπερ ὁ ἥλιος πολὺ διαφέρει τῆς σελήνης δυνάμει καὶ δόξῃ, οὕτως πολὺ διαφέρει ὁ θεὸς τῆς ἀνθρωπότητος· καὶ καθάπερ ὁ ἥλιος πλήρης πάντοτε διαμένει μὴ ἐλάσων γινόμενος, οὕτως πάντοτε ὁ θεὸς τέλειος διαμένει, πλήρης ὤν· πάσης δυνάμεως καὶ συνέσεως καὶ σοφίας καὶ ἀθανασίας καὶ πάντων τῶν ἀγαθῶν. Ἡ δὲ σελήνη κατὰ μῆνα φθίνει καὶ δυνάμει ἀποθνήσκει, ἐν τύπῳ οὖσα ἀνθρώπου, ἔπειτα ἀναγεννᾶται καὶ αὔξει εἰς δεῖγμα τῆς μελλούσης ἔσεσθαι ἀναστάσεως.", "passagem": "II, 15 (PG 6)", "edicao": ""},
+    "leao-sermao-27-4-5-o-sol-criatura",
+    "agostinho-gnlitt-2-14-29",
+    {"id": "efrem-hipacio-4-o-homem-maior-que-o-sol", "passagem": "Discurso IV (ed. C. W. Mitchell, Londres 1912, I, pp. 115–116)", "edicao": ""}
+   ]
+  },
+  {
+   "id": "o-sol-de-justica",
+   "titulo": "O Sol de justiça",
+   "versiculos": [16],
+   "resumo": "A beleza do sol leva a pensar em Cristo, o Sol de justiça; e a lua, que brilha com luz recebida, é figura da Igreja.",
+   "itens": [
+    {"id": "basilio-hex-6-1-o-sol-de-justica", "passagem": "Hex. 6, 1 (PG 29)", "edicao": ""},
+    "ambrosio-hex-4-8-32-a-lua-e-a-igreja"
+   ]
+  }
+ ],
+ "4": [
+  {
+   "id": "os-seres-das-aguas-e-do-ar",
+   "titulo": "Os seres das águas e do ar",
+   "versiculos": [20, 21],
+   "resumo": "A mesma palavra fez a baleia e a rã, e a beleza de tudo o que vive confessa o seu Criador.",
+   "itens": ["ambrosio-hex-5-2-5-a-baleia-e-a-ra", "agostinho-sermo-241-2"]
+  },
+  {
+   "id": "a-primeira-bencao",
+   "titulo": "A primeira bênção",
+   "versiculos": [22],
+   "resumo": "Com os seres vivos aparece a bênção de Deus; e a água, que primeiro deu a vida, a dá de novo no batismo.",
+   "itens": [
+    {"id": "joao-paulo-ii-aud-19790912-criou-e-abencoou", "passagem": "n. 3, nota", "edicao": ""},
+    "tertuliano-batismo-3-1-peixinhos"
+   ]
+  }
+ ],
+ "5": [
+  {
+   "id": "os-animais-da-terra",
+   "titulo": "Os animais da terra",
+   "versiculos": [24, 25],
+   "resumo": "Até os bichos que nos parecem inúteis ou perigosos são belos no seu gênero e saíram bons das mãos de Deus.",
+   "itens": [
+    "agostinho-gnman-1-16-25",
+    {"id": "teofilo-autolico-2-17-tudo-muito-bom", "passagem": "II, 17 (PG 6)", "edicao": ""}
+   ]
+  },
+  {
+   "id": "facamos-o-homem",
+   "titulo": "Façamos o homem",
+   "versiculos": [26],
+   "resumo": "Só para o homem Deus diz «Façamos», como quem delibera: a Trindade o cria por amor, e por último, como o convidado para quem a casa foi preparada.",
+   "itens": [
+    "gregorio-moralia-9-49-75-facamos",
+    "nissa-opificio-2-o-convidado-que-chega-por-ultimo",
+    {"id": "catarina-dialogo-13-o-amor-que-criou-o-homem", "passagem": "cap. 13 (ed. M. Fiorilli, Bari 1912, p. 32)", "edicao": ""}
+   ]
+  },
+  {
+   "id": "a-imagem-e-a-semelhanca",
+   "titulo": "À nossa imagem, conforme a nossa semelhança",
+   "versiculos": [26, 27],
+   "resumo": "A imagem nos é dada na criação; a semelhança cresce com a liberdade e a graça, até o amor; e saber que somos imagem de Deus mostra a dignidade da alma.",
+   "itens": [
+    {"id": "basilio-origem-homem-1-imagem-e-semelhanca", "passagem": "homilia I (PG 44, 273–276)", "edicao": ""},
+    {"id": "diadoco-cap-89-a-graca-pinta-a-semelhanca", "passagem": "cap. 89 (ed. J. E. Weis-Liebersdorf, Leipzig 1912, pp. 124–126)", "edicao": ""},
+    {"id": "teresa-moradas-1-1-a-alma-feita-a-imagem", "passagem": "I Moradas 1, 1–2", "edicao": ""}
+   ]
+  },
+  {
+   "id": "a-imagem-refeita",
+   "titulo": "A imagem refeita em Cristo",
+   "versiculos": [26, 27],
+   "resumo": "O pecado gasta e encobre a imagem de Deus no homem, mas não a apaga; o Verbo feito carne a mostra e a refaz.",
+   "itens": [
+    {"id": "ireneu-adv-haer-5-16-2-a-imagem-revelada-no-verbo", "passagem": "V, 16, 2 (PG 7)", "edicao": ""},
+    "agostinho-sermo-90-10",
+    "bernardo-cantico-82-2-7-semelhanca-coberta"
+   ]
+  },
+  {
+   "id": "homem-e-mulher",
+   "titulo": "Homem e mulher os criou",
+   "versiculos": [27],
+   "resumo": "O homem e a mulher são igualmente imagem de Deus, e a sua união é a primeira comunhão de pessoas.",
+   "itens": [
+    {"id": "basilio-origem-homem-1-homem-e-mulher", "passagem": "homilia I (PG 44, 276–277)", "edicao": ""},
+    {"id": "vaticano-ii-gs-12-homem-e-mulher-os-criou", "passagem": "n. 12", "edicao": ""}
+   ]
+  },
+  {
+   "id": "a-bencao-e-o-trabalho",
+   "titulo": "Enchei a terra e submetei-a",
+   "versiculos": [28],
+   "resumo": "Deus abençoa o homem antes do pecado; e o trabalho que submete a terra é dom e participação na obra da criação, não castigo.",
+   "itens": [
+    {"id": "efrem-coment-gn-1-28-a-bencao-antes-da-queda", "passagem": "sobre Gn 1,28 (J. S. Assemani (ed.), Ephraem Syri Opera omnia syriace et latine, t. I, Roma 1737, pp. 19–20)", "edicao": ""},
+    {"id": "escriva-ecp-47-o-trabalho-participacao-na-criacao", "passagem": "n. 47", "edicao": ""}
+   ]
+  },
+  {
+   "id": "dominai",
+   "titulo": "Dominai",
+   "versiculos": [26, 28],
+   "resumo": "O domínio dado ao homem é sobre os animais, não sobre outros homens; começa pelas feras de dentro, e não é um poder absoluto sobre a criação.",
+   "itens": [
+    "agostinho-civ-19-15",
+    "crisostomo-sermao-gen-3-as-feras-de-dentro",
+    {"id": "laudato-si-67-nao-um-dominio-absoluto", "passagem": "n. 67", "edicao": ""}
+   ]
+  },
+  {
+   "id": "muito-bom",
+   "titulo": "E eis que era muito bom",
+   "versiculos": [31],
+   "resumo": "Cada obra é boa, e o conjunto é muito bom: o mundo saiu bom das mãos de Deus, e é o pecado que o enfeia.",
+   "itens": [
+    "agostinho-conf-13-28-43",
+    {"id": "joao-da-cruz-cb-5-olhar-de-deus-faz-tudo-bom", "passagem": "canção 5, 1 e 4", "edicao": ""},
+    {"id": "escriva-conversaciones-114-o-mundo-nao-e-mau", "passagem": "n. 114", "edicao": ""}
+   ]
+  }
+ ]
+}

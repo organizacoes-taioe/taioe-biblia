@@ -1,0 +1,548 @@
+[
+ {
+  "id": "agostinho-conf-11-12-14",
+  "autor": "Santo Agostinho",
+  "autor_id": "agostinho",
+  "datas": "354–430",
+  "titulo_autor": "bispo de Hipona, Doutor da Igreja",
+  "obra": "Confissões (Confessiones)",
+  "passagem": "XI, 12, 14 – 13, 16",
+  "edicao": "PL 32, 815",
+  "trecho": "1",
+  "versiculos": [
+   1
+  ],
+  "lingua": "la",
+  "original": "Ecce respondeo dicenti: \"Quid faciebat Deus, antequam faceret caelum et terram?\" Respondeo non illud, quod quidam respondisse perhibetur ioculariter eludens quaestionis violentiam: \"Alta, inquit, scrutantibus gehennas parabat\". Aliud est videre, aliud est ridere. Haec non respondeo. Libentius enim responderim: \"Nescio, quod nescio\" quam illud, unde irridetur qui alta interrogavit et laudatur qui falsa respondit. Sed dico te, Deus noster, omnis creaturae creatorem et, si caeli et terrae nomine omnis creatura intellegitur, audenter dico: \"Antequam faceret Deus caelum et terram, non faciebat aliquid\". Si enim faciebat, quid nisi creaturam faciebat? Et utinam sic sciam, quidquid utiliter scire cupio, quemadmodum scio, quod nulla fiebat creatura, antequam fieret ulla creatura. […] At si cuiusquam volatilis sensus vagatur per imagines retro temporum et te, Deum omnipotentem et omnicreantem et omnitenentem, caeli et terrae artificem, ab opere tanto, antequam id faceres, per innumerabilia saecula cessasse miratur, evigilet atque attendat, quia falsa miratur. […] Id ipsum enim tempus tu feceras, nec praeterire potuerunt tempora, antequam faceres tempora. Si autem ante caelum et terram nullum erat tempus, cur quaeritur, quid tunc faciebas? Non enim erat tunc, ubi non erat tempus. […] Omnia tempora tu fecisti et ante omnia tempora tu es, nec aliquo tempore non erat tempus.",
+  "fonte_url": "https://www.augustinus.it/latino/confessioni/conf_11_libro.htm",
+  "fonte_url_alternativa": "https://mlat.uzh.ch/browser/cps_2.AugHip.Confes2",
+  "traducao_pt": "Eis a minha resposta a quem pergunta: «Que fazia Deus antes de fazer o céu e a terra?» Não respondo o que dizem que alguém respondeu, fugindo por brincadeira do peso da pergunta: «Preparava o inferno para quem investiga coisas altas demais». Uma coisa é ver, outra é rir. Isso eu não respondo. Prefiro responder: «Não sei o que não sei» a dar a resposta que faz rir de quem perguntou coisas elevadas e faz elogiar quem respondeu falsidades. Digo, porém, que tu, nosso Deus, és o criador de toda criatura e, se pelo nome de céu e terra se entende toda criatura, digo com ousadia: «Antes de fazer o céu e a terra, Deus não fazia nada». Pois, se fazia, que fazia senão uma criatura? E oxalá eu soubesse tudo o que desejo saber com proveito como sei que nenhuma criatura era feita antes que fosse feita alguma criatura. […] Mas, se o pensamento volúvel de alguém vagueia por imagens de tempos passados e se admira de que tu, Deus onipotente, que tudo crias e tudo sustentas, artífice do céu e da terra, tenhas ficado sem fazer obra tão grande, antes de fazê-la, durante séculos sem conta, que desperte e perceba que se admira de uma coisa falsa. […] Pois foste tu que fizeste esse mesmo tempo, e não podiam passar tempos antes que fizesses os tempos. Se, porém, antes do céu e da terra não havia tempo nenhum, por que se pergunta o que fazias então? Não havia «então» onde não havia tempo. […] Todos os tempos foste tu que os fizeste, e antes de todos os tempos tu és, e não houve tempo algum em que não houvesse tempo.",
+  "temas": [
+   "o princípio do tempo",
+   "o que Deus fazia antes de criar",
+   "a criação junto com o tempo"
+  ],
+  "resumo": "À pergunta «que fazia Deus antes de criar o céu e a terra?», ele recusa a piada («preparava o inferno para os curiosos») e responde: nada, porque o próprio tempo é criatura; não havia «então» onde não havia tempo.",
+  "relevancia": 3,
+  "direitos": "domínio público"
+ },
+ {
+  "id": "agostinho-gnman-1-2-4",
+  "autor": "Santo Agostinho",
+  "autor_id": "agostinho",
+  "datas": "354–430",
+  "titulo_autor": "bispo de Hipona, Doutor da Igreja",
+  "obra": "Sobre o Gênesis, contra os maniqueus (De Genesi contra Manichaeos)",
+  "passagem": "I, 2, 4",
+  "edicao": "PL 34, 175",
+  "trecho": "1",
+  "versiculos": [
+   1
+  ],
+  "lingua": "la",
+  "original": "Qui ergo dicit: Quare fecit Deus coelum et terram? respondendum est ei, Quia voluit. Voluntas enim Dei causa est coeli et terrae, et ideo maior est voluntas Dei quam coelum et terra. Qui autem dicit: Quare voluit facere coelum et terram? maius aliquid quaerit quam est voluntas Dei: nihil autem maius inveniri potest. Compescat ergo se humana temeritas, et id quod non est non quaerat, ne id quod est non inveniat. Et si voluntatem Dei nosse quisquam desiderat, fiat amicus Deo: quia si voluntatem hominis nosse quisquam vellet, cuius amicus non esset, omnes eius impudentiam ac stultitiam deriderent.",
+  "fonte_url": "https://www.augustinus.it/latino/genesi_dcm/genesi_dcm_1_libro.htm",
+  "fonte_url_alternativa": "https://mlat.uzh.ch/browser/cps_2.AugHip.DeGeCoM",
+  "traducao_pt": "A quem pergunta: «Por que Deus fez o céu e a terra?», é preciso responder: «Porque quis». Pois a vontade de Deus é a causa do céu e da terra, e por isso a vontade de Deus é maior que o céu e a terra. Mas quem pergunta: «Por que quis fazer o céu e a terra?» procura algo maior que a vontade de Deus; ora, nada maior se pode encontrar. Que a temeridade humana se contenha, pois, e não procure o que não existe, para não deixar de encontrar o que existe. E, se alguém deseja conhecer a vontade de Deus, faça-se amigo de Deus; pois, se alguém quisesse conhecer a vontade de um homem de quem não fosse amigo, todos ririam da sua impudência e da sua tolice.",
+  "temas": [
+   "por que Deus criou",
+   "a vontade de Deus",
+   "a amizade com Deus"
+  ],
+  "resumo": "Por que Deus fez o céu e a terra? Porque quis; perguntar a causa da vontade de Deus é procurar algo maior que ela. Quem quer conhecer a vontade de Deus, faça-se amigo dele.",
+  "relevancia": 3,
+  "direitos": "domínio público"
+ },
+ {
+  "id": "agostinho-conf-13-5-6",
+  "autor": "Santo Agostinho",
+  "autor_id": "agostinho",
+  "datas": "354–430",
+  "titulo_autor": "bispo de Hipona, Doutor da Igreja",
+  "obra": "Confissões (Confessiones)",
+  "passagem": "XIII, 5, 6",
+  "edicao": "PL 32, 847",
+  "trecho": "1",
+  "versiculos": [
+   1,
+   2
+  ],
+  "lingua": "la",
+  "original": "Ecce apparet mihi in aenigmate Trinitas, quod es, Deus meus, quoniam tu, Pater, in principio sapientiae nostrae, quod est tua Sapientia de te nata, aequalis tibi et coaeterna, id est in Filio tuo, fecisti caelum et terram. […] Et tenebam iam Patrem in Dei nomine, qui fecit haec, et filium in principii nomine, in quo fecit haec, et Trinitatem credens Deum meum, sicut credebam, quaerebam in eloquiis sanctis eius, et ecce spiritus tuus superferebatur super aquas. Ecce Trinitas Deus meus, Pater et Filius et Spiritus Sanctus, Creator universae creaturae.",
+  "fonte_url": "https://www.augustinus.it/latino/confessioni/conf_13_libro.htm",
+  "fonte_url_alternativa": "https://mlat.uzh.ch/browser/cps_2.AugHip.Confes2",
+  "traducao_pt": "Eis que me aparece, como num enigma, a Trindade que tu és, meu Deus: porque tu, Pai, no princípio da nossa sabedoria, que é a tua Sabedoria nascida de ti, igual a ti e coeterna, isto é, no teu Filho, fizeste o céu e a terra. […] Eu já tinha o Pai no nome de Deus, que fez estas coisas, e o Filho no nome de princípio, no qual as fez; e, crendo, como já acreditava, que o meu Deus é Trindade, procurava-a nas suas santas palavras, e eis que o teu Espírito pairava sobre as águas. Eis a Trindade, meu Deus: Pai, Filho e Espírito Santo, Criador de toda a criação.",
+  "temas": [
+   "a Trindade no primeiro versículo",
+   "o princípio é o Filho",
+   "o Espírito sobre as águas"
+  ],
+  "resumo": "Nos dois primeiros versículos ele encontra a Trindade: o Pai no nome de Deus que cria, o Filho no «princípio» em que cria, e o Espírito que paira sobre as águas.",
+  "relevancia": 3,
+  "direitos": "domínio público"
+ },
+ {
+  "id": "agostinho-gnlitt-1-18-36",
+  "autor": "Santo Agostinho",
+  "autor_id": "agostinho",
+  "datas": "354–430",
+  "titulo_autor": "bispo de Hipona, Doutor da Igreja",
+  "obra": "Comentário literal ao Gênesis (De Genesi ad litteram)",
+  "passagem": "I, 18, 36",
+  "edicao": "PL 34, 260",
+  "trecho": "1",
+  "versiculos": [
+   2
+  ],
+  "lingua": "la",
+  "original": "Sed ante omnia meminerimus, unde iam multa diximus, non temporalibus quasi animi sui aut corporis motibus operari Deum, sicut operatur homo vel angelus; sed aeternis atque incommutabilibus et stabilibus rationibus coaeterni sibi Verbi sui, et quodam, ut ita dixerim, fotu pariter coaeterni sancti Spiritus sui. Nam et illud quod per graecam et latinam linguam dictum est de Spiritu Dei, quod superferebatur super aquas, secundum syrae linguae intellectum, quae vicina est hebraeae, (nam hoc a quodam docto christiano syro fertur expositum) non superferebatur, sed fovebat potius intellegi perhibetur. Nec sicut foventur tumores aut vulnera in corpore aquis vel frigidis vel calore congruo temperatis; sed sicut ova foventur ab alitibus, ubi calor ille materni corporis etiam formandis pullis quodammodo adminiculatur, per quemdam in suo genere dilectionis affectum.",
+  "fonte_url": "https://www.augustinus.it/latino/genesi_lettera/genesi_lettera_01_libro.htm",
+  "fonte_url_alternativa": "https://mlat.uzh.ch/browser/cps_2.AugHip.DeGeAdL",
+  "traducao_pt": "Mas antes de tudo lembremos o que já dissemos muitas vezes: Deus não age por movimentos temporais da alma ou do corpo, como age o homem ou o anjo, mas pelas razões eternas, imutáveis e estáveis do seu Verbo, coeterno com ele, e por uma espécie de calor, por assim dizer, do seu Espírito Santo, igualmente coeterno. Pois também aquilo que em grego e em latim se diz do Espírito de Deus, que «pairava sobre as águas», segundo o sentido da língua siríaca, que é vizinha do hebraico (dizem que foi assim que o explicou um cristão sírio muito instruído), se entende antes não como «pairava», mas como «aquecia». E não como se aquecem os inchaços ou as feridas do corpo com água fria ou temperada com o calor conveniente, mas como os ovos são aquecidos pelas aves, quando aquele calor do corpo da mãe de algum modo ajuda a formar os filhotes, por um certo afeto de amor, próprio do seu gênero.",
+  "temas": [
+   "o Espírito que choca as águas",
+   "o amor de Deus pela criação que nasce"
+  ],
+  "resumo": "Um cristão sírio explicou que o verbo de Gn 1,2 quer dizer «aquecia»: o Espírito estava sobre as águas como a ave sobre os ovos, aquecendo com amor o que ia ganhar forma.",
+  "relevancia": 3,
+  "direitos": "domínio público"
+ },
+ {
+  "id": "agostinho-civ-11-21",
+  "autor": "Santo Agostinho",
+  "autor_id": "agostinho",
+  "datas": "354–430",
+  "titulo_autor": "bispo de Hipona, Doutor da Igreja",
+  "obra": "A Cidade de Deus (De civitate Dei)",
+  "passagem": "XI, 21",
+  "edicao": "PL 41, 333–334",
+  "trecho": "1",
+  "versiculos": [
+   3,
+   4
+  ],
+  "lingua": "la",
+  "original": "Quid est enim aliud intellegendum in eo, quod per omnia dicitur: Vidit Deus quia bonum est, nisi operis approbatio secundum artem facti, quae Sapientia Dei est? Deus autem usque adeo non cum factum est, tunc didicit bonum, ut nihil eorum fieret, si ei fuisset incognitum. Dum ergo videt quia bonum est, quod, nisi vidisset antequam fieret, non utique fieret: docet bonum esse, non discit. […] Quia vero tria quaedam maxime scienda de creatura nobis oportuit intimari, quis eam fecerit, per quid fecerit, quare fecerit: Dixit Deus, inquit: Fiat lux, et facta est lux. Et vidit Deus lucem quia bona est. Si ergo quaerimus, quis fecerit: Deus est; si per quid fecerit: Dixit: Fiat, et facta est; si quare fecerit: Quia bona est. Nec auctor est excellentior Deo, nec ars efficacior Dei Verbo, nec causa melior quam ut bonum crearetur a Deo bono.",
+  "fonte_url": "https://www.augustinus.it/latino/cdd/cdd_11_libro.htm",
+  "fonte_url_alternativa": "https://mlat.uzh.ch/browser/cps_2.AugHip.DeCiDe",
+  "traducao_pt": "Que outra coisa se deve entender no que se diz de todas as obras: «Viu Deus que era bom», senão a aprovação da obra feita segundo a arte, que é a Sabedoria de Deus? Deus está tão longe de ter aprendido que era bom só depois que foi feito, que nada daquilo seria feito se ele não o conhecesse. Assim, quando vê que é bom aquilo que de modo algum seria feito se ele não o tivesse visto antes de ser feito, ensina que é bom; não aprende. […] Mas, como três coisas sobre a criação eram as que mais nos importava saber, quem a fez, por meio de que a fez e por que a fez, a Escritura diz: «Disse Deus: Faça-se a luz. E a luz se fez. E viu Deus que a luz era boa». Se, pois, perguntamos quem a fez: foi Deus; por meio de que a fez: «Disse: Faça-se, e se fez»; por que a fez: «porque é boa». Não há autor mais excelente que Deus, nem arte mais eficaz que o Verbo de Deus, nem causa melhor do que esta: que o bem fosse criado pelo Deus bom.",
+  "temas": [
+   "viu Deus que era bom",
+   "Deus cria pela Palavra",
+   "Deus cria por bondade"
+  ],
+  "resumo": "«Viu Deus que era bom» não quer dizer que Deus aprendeu algo: ele ensina. Os vv. 3–4 dizem tudo: quem fez (Deus), por meio de que (a Palavra: «Faça-se») e por quê (porque é bom).",
+  "relevancia": 3,
+  "direitos": "domínio público"
+ },
+ {
+  "id": "agostinho-civ-11-7",
+  "autor": "Santo Agostinho",
+  "autor_id": "agostinho",
+  "datas": "354–430",
+  "titulo_autor": "bispo de Hipona, Doutor da Igreja",
+  "obra": "A Cidade de Deus (De civitate Dei)",
+  "passagem": "XI, 7",
+  "edicao": "PL 41, 322",
+  "trecho": "1",
+  "versiculos": [
+   5
+  ],
+  "lingua": "la",
+  "original": "Videmus quippe istos dies notos non habere vesperam nisi de solis occasu, nec mane nisi de solis exortu; illorum autem priores tres dies sine sole peracti sunt, qui die quarto factus refertur. […] Quoniam scientia creaturae in comparatione scientiae Creatoris quodam modo vesperascit, itemque lucescit et mane fit, cum et ipsa refertur ad laudem dilectionemque Creatoris; nec in noctem vergitur, ubi non Creator creaturae dilectione relinquitur. Denique Scriptura cum illos dies dinumeraret ex ordine, nusquam interposuit vocabulum noctis. Non enim ait alicubi: Facta est nox; sed: Facta est vespera, et factum est mane dies unus. Ita dies secundus, et ceteri. Cognitio quippe creaturae in se ipsa decoloratior est, ut ita dicam, quam cum in Dei sapientia cognoscitur, velut in arte qua facta est. Ideo vespera quam nox congruentius dici potest; quae tamen, ut dixi, cum ad laudandum et amandum refertur Creatorem, recurrit in mane.",
+  "fonte_url": "https://www.augustinus.it/latino/cdd/cdd_11_libro.htm",
+  "fonte_url_alternativa": "https://mlat.uzh.ch/browser/cps_2.AugHip.DeCiDe",
+  "traducao_pt": "Vemos que estes dias que conhecemos não têm tarde senão pelo pôr do sol, nem manhã senão pelo nascer do sol; mas os três primeiros daqueles dias passaram sem sol, que, segundo o relato, foi feito no quarto dia. […] Pois o conhecimento da criatura, comparado com o conhecimento do Criador, de certo modo entardece; e de novo clareia e se faz manhã quando também ele se volta para o louvor e o amor do Criador; e não declina para a noite enquanto o Criador não é abandonado por amor à criatura. Por isso a Escritura, quando enumerava aqueles dias em ordem, nunca usou a palavra noite. Não diz em parte alguma: «Houve noite», mas: «Houve tarde, e houve manhã: um dia». E assim o segundo dia e os outros. É que o conhecimento da criatura em si mesma é, por assim dizer, mais descolorido do que quando ela é conhecida na sabedoria de Deus, como na arte com que foi feita. Por isso se pode chamar, com mais propriedade, tarde do que noite; mas, como eu disse, quando se volta para o louvor e o amor do Criador, torna a ser manhã.",
+  "temas": [
+   "a tarde e a manhã",
+   "dias sem sol",
+   "conhecer as criaturas em Deus"
+  ],
+  "resumo": "Os três primeiros dias não tinham sol; a Escritura nunca diz «houve noite». Conhecer a criatura sem Deus é tarde; voltar com ela ao louvor do Criador é manhã.",
+  "relevancia": 2,
+  "direitos": "domínio público"
+ },
+ {
+  "id": "agostinho-gnlitt-2-9-20",
+  "autor": "Santo Agostinho",
+  "autor_id": "agostinho",
+  "datas": "354–430",
+  "titulo_autor": "bispo de Hipona, Doutor da Igreja",
+  "obra": "Comentário literal ao Gênesis (De Genesi ad litteram)",
+  "passagem": "II, 9, 20",
+  "edicao": "PL 34, 270",
+  "trecho": "2",
+  "versiculos": [
+   6,
+   7,
+   8
+  ],
+  "lingua": "la",
+  "original": "Quaeri etiam solet quae forma et figura coeli esse credenda sit secundum Scripturas nostras. Multi enim multum disputant de iis rebus, quas maiore prudentia nostri auctores omiserunt, ad beatam vitam non profuturas discentibus; et occupantes, quod peius est, multum pretiosa, et rebus salubribus impendenda temporum spatia. Quid enim ad me pertinet, utrum coelum sicut sphaera undique concludat terram in media mundi mole libratam, an eam ex una parte desuper velut discus operiat? Sed quia de fide agitur Scripturarum, propter illam causam, quam non semel commemoravi, ne quisquam eloquia divina non intellegens, cum de his rebus tale aliquid vel invenerit in Libris nostris, vel ex illis audierit, quod perceptis a se rationibus adversari videatur, nullo modo eis caetera utilia monentibus, vel narrantibus, vel pronuntiantibus credat; breviter dicendum est de figura coeli hoc scisse auctores nostros quod veritas habet; sed Spiritum Dei, qui per ipsos loquebatur, noluisse ista docere homines nulli saluti profutura.",
+  "fonte_url": "https://www.augustinus.it/latino/genesi_lettera/genesi_lettera_02_libro.htm",
+  "fonte_url_alternativa": "https://mlat.uzh.ch/browser/cps_2.AugHip.DeGeAdL",
+  "traducao_pt": "Também se costuma perguntar que forma e figura do céu se deve crer, segundo as nossas Escrituras. Muitos discutem muito sobre essas coisas, que os nossos autores, com mais prudência, deixaram de lado, porque não serviriam para a vida feliz de quem as aprende; e, o que é pior, gastam com elas muito tempo precioso, que se deveria empregar em coisas salutares. Que me importa se o céu, como uma esfera, envolve por todos os lados a terra, suspensa no meio da massa do mundo, ou se a cobre por cima, de um lado só, como um disco? Mas, como está em jogo a fé nas Escrituras, pelo motivo que já lembrei mais de uma vez (para que alguém que não entende as palavras divinas, ao achar nos nossos Livros, ou ao ouvir citado deles, algo sobre essas coisas que pareça contrariar as razões que ele mesmo compreendeu, não deixe de modo algum de crer neles quando aconselham, narram ou anunciam as outras coisas úteis), é preciso dizer brevemente que, sobre a figura do céu, os nossos autores souberam o que é verdade; mas o Espírito de Deus, que falava por meio deles, não quis ensinar aos homens essas coisas, que de nada serviriam para a salvação.",
+  "temas": [
+   "a forma do céu",
+   "a Escritura não ensina ciência",
+   "a fé e a razão"
+  ],
+  "resumo": "Que forma tem o céu, esfera ou disco? Os autores sagrados sabiam o que é verdade, mas o Espírito de Deus não quis ensinar o que não serve à salvação; e o crente não deve fazer a Escritura dizer o que ela não diz.",
+  "relevancia": 3,
+  "direitos": "domínio público"
+ },
+ {
+  "id": "agostinho-conf-13-15-16",
+  "autor": "Santo Agostinho",
+  "autor_id": "agostinho",
+  "datas": "354–430",
+  "titulo_autor": "bispo de Hipona, Doutor da Igreja",
+  "obra": "Confissões (Confessiones)",
+  "passagem": "XIII, 15, 16 e 18",
+  "edicao": "PL 32, 851–852",
+  "trecho": "2",
+  "versiculos": [
+   6,
+   7
+  ],
+  "lingua": "la",
+  "original": "Aut quis nisi tu, Deus noster, fecisti nobis firmamentum auctoritatis super nos in Scriptura tua divina? Caelum enim plicabitur ut liber, et nunc sicut pellis extenditur super nos. […] Sunt aliae aquae super hoc firmamentum, credo, immortales et a terrena corruptione secretae. Laudent nomen tuum, laudent te supercaelestes populi angelorum tuorum, qui non opus habent suspicere firmamentum hoc et legendo cognoscere verbum tuum. Vident enim faciem tuam semper, et ibi legunt sine syllabis temporum, quid velit aeterna voluntas tua. Legunt, eligunt et diligunt; semper legunt et numquam praeterit quod legunt. […] Transeunt nubes, caelum autem manet. Transeunt praedicatores verbi tui ex hac vita in aliam vitam, Scriptura vero tua usque in finem saeculi super populos extenditur.",
+  "fonte_url": "https://www.augustinus.it/latino/confessioni/conf_13_libro.htm",
+  "fonte_url_alternativa": "https://mlat.uzh.ch/browser/cps_2.AugHip.Confes2",
+  "traducao_pt": "Quem, senão tu, nosso Deus, fez para nós um firmamento de autoridade sobre nós, na tua divina Escritura? Pois «o céu será enrolado como um livro», e agora se estende sobre nós como uma pele. […] Há outras águas acima deste firmamento, imortais, creio eu, e afastadas da corrupção da terra. Que louvem o teu nome, que te louvem os povos supracelestes dos teus anjos, que não precisam levantar os olhos para este firmamento e conhecer a tua palavra lendo. Pois veem sempre a tua face, e ali leem, sem as sílabas do tempo, o que quer a tua vontade eterna. Leem, escolhem e amam; leem sempre, e nunca passa o que leem. […] Passam as nuvens, mas o céu permanece. Passam desta vida para a outra os pregadores da tua palavra, mas a tua Escritura se estende sobre os povos até o fim do mundo.",
+  "temas": [
+   "o firmamento e a Escritura",
+   "as águas de cima e os anjos"
+  ],
+  "resumo": "O firmamento estendido como uma pele é figura da Escritura, estendida sobre nós; os anjos, as águas de cima, não precisam ler: leem na face de Deus. Os pregadores passam, a Escritura fica.",
+  "relevancia": 3,
+  "direitos": "domínio público"
+ },
+ {
+  "id": "agostinho-conf-13-17-20",
+  "autor": "Santo Agostinho",
+  "autor_id": "agostinho",
+  "datas": "354–430",
+  "titulo_autor": "bispo de Hipona, Doutor da Igreja",
+  "obra": "Confissões (Confessiones)",
+  "passagem": "XIII, 17, 20–21",
+  "edicao": "PL 32, 853",
+  "trecho": "2",
+  "versiculos": [
+   9,
+   10,
+   11,
+   12
+  ],
+  "lingua": "la",
+  "original": "Quis congregavit amaricantes in societatem unam? Idem namque illis finis est temporalis et terrenae felicitatis, propter quam faciunt omnia, quamvis innumerabili varietate curarum fluctuent. Quis, Domine, nisi tu, qui dixisti, ut congregarentur aquae in congregationem unam et appareret arida sitiens tibi? Quoniam tuum est mare, et tu fecisti illud, et aridam terram manus tuae formaverunt? Neque enim amaritudo voluntatum, sed congregatio aquarum vocatur mare. Tu enim coherces etiam malas cupiditates animarum et figis limites, quousque progredi sinantur, atque ut in se comminuantur fluctus earum. Atque ita facis mare ordine imperii tui super omnia. […] At animas sitientes tibi et apparentes tibi alio fine distinctas a societate maris occulto et dulci fonte irrigas, ut et terra det fructum suum; et dat fructum suum et te iubente, Domino Deo suo, germinat anima nostra opera misericordiae secundum genus, diligens proximum in subsidiis necessitatum carnalium, habens in se semen secundum similitudinem, quoniam ex nostra infirmitate compatimur ad subveniendum indigentibus similiter opitulantes, quemadmodum nobis vellemus opem ferri, si eodem modo indigeremus, non tantum in facilibus tamquam in herba seminali, sed etiam in protectione adiutorii forti robore, sicut lignum fructiferum, id est beneficum ad eripiendum eum, qui iniuriam patitur, de manu potentis et praebendo protectionis umbraculum valido robore iusti iudicii.",
+  "fonte_url": "https://www.augustinus.it/latino/confessioni/conf_13_libro.htm",
+  "fonte_url_alternativa": "https://mlat.uzh.ch/browser/cps_2.AugHip.Confes2",
+  "traducao_pt": "Quem reuniu numa só sociedade os amargurados? Pois eles têm um mesmo fim, a felicidade temporal e terrena, pela qual fazem tudo, ainda que flutuem numa variedade incontável de preocupações. Quem, Senhor, senão tu, que disseste que as águas se juntassem num só lugar e aparecesse o solo enxuto, sedento de ti? Porque «teu é o mar, e tu o fizeste, e as tuas mãos formaram o solo enxuto». Pois o que se chama mar não é a amargura das vontades, mas o ajuntamento das águas. Tu reprimes também as más paixões das almas e fixas os limites até onde lhes é permitido avançar, para que as suas ondas se quebrem em si mesmas. E assim fazes o mar, pela ordem do teu domínio sobre todas as coisas. […] Mas as almas sedentas de ti, que aparecem diante de ti, separadas da sociedade do mar por outro fim, tu as regas com uma fonte escondida e doce, para que também a terra dê o seu fruto; e ela dá o seu fruto: por ordem tua, que és o seu Senhor e Deus, a nossa alma faz brotar obras de misericórdia «segundo a sua espécie», amando o próximo no socorro das necessidades do corpo, «tendo em si a semente segundo a sua semelhança», porque, a partir da nossa própria fraqueza, nos compadecemos para socorrer os necessitados, ajudando-os como gostaríamos de ser ajudados, se estivéssemos na mesma necessidade; e não só nas coisas fáceis, como na erva que dá semente, mas também com a proteção de um auxílio forte e robusto, como a árvore frutífera, isto é, fazendo o bem para arrancar quem sofre injustiça da mão do poderoso e oferecendo a sombra da proteção com a força vigorosa do justo julgamento.",
+  "temas": [
+   "o mar e o seu limite",
+   "o solo enxuto sedento de Deus",
+   "as obras de misericórdia"
+  ],
+  "resumo": "Deus põe limite ao mar, como põe às más paixões; a terra seca, sedenta de Deus, regada por uma fonte escondida, dá como fruto as obras de misericórdia: a erva, o socorro fácil; a árvore, a proteção do injustiçado.",
+  "relevancia": 2,
+  "direitos": "domínio público"
+ },
+ {
+  "id": "agostinho-gnlitt-2-14-29",
+  "autor": "Santo Agostinho",
+  "autor_id": "agostinho",
+  "datas": "354–430",
+  "titulo_autor": "bispo de Hipona, Doutor da Igreja",
+  "obra": "Comentário literal ao Gênesis (De Genesi ad litteram)",
+  "passagem": "II, 14, 29 e 17, 35",
+  "edicao": "PL 34, 275 e 277–278",
+  "trecho": "3",
+  "versiculos": [
+   14
+  ],
+  "lingua": "la",
+  "original": "Quis in tantum secretum facile irrumpat, et quae signa dicat, cum dicit de sideribus: Et sint in signa? Neque enim illa dicit quae observare vanitatis est; sed utique utilia, et huius vitae usibus necessaria, quae vel nautae observant in gubernando, vel omnes homines ad praevidendas aeris qualitates per aestatem et hiemem, et autumnalem vernalemque temperiem. […] De fatis autem qualeslibet eorum argutias, et quasi de mathesi documentorum experimenta, quae illi ἀποτελέσματα vocant, omnino a nostrae fidei sanitate respuamus: talibus enim disputationibus etiam orandi causas nobis auferre conantur, et impia perversitate in malis factis, quae rectissime reprehenduntur, ingerunt accusandum potius Deum auctorem siderum, quam hominem scelerum.",
+  "fonte_url": "https://www.augustinus.it/latino/genesi_lettera/genesi_lettera_02_libro.htm",
+  "fonte_url_alternativa": "https://mlat.uzh.ch/browser/cps_2.AugHip.DeGeAdL",
+  "traducao_pt": "Quem penetraria com facilidade num segredo tão grande e diria que sinais são esses, quando a Escritura diz dos astros: «E sirvam de sinais»? Pois não fala daqueles que é vaidade observar, mas sem dúvida dos úteis e necessários às necessidades desta vida, que os marinheiros observam ao navegar, ou que todos os homens observam para prever como será o tempo no verão e no inverno, e a temperatura do outono e da primavera. […] Quanto às sutilezas, sejam quais forem, sobre o destino, e às experiências dos documentos, por assim dizer, da astrologia, que eles chamam de apotelésmata, rejeitemos tudo isso de uma vez, pela saúde da nossa fé: com essas discussões tentam tirar até os motivos que temos para rezar e, com ímpia perversidade, nas más ações, que com toda razão se repreendem, nos levam a acusar antes Deus, autor dos astros, do que o homem, autor dos crimes.",
+  "temas": [
+   "os astros como sinais",
+   "contra a astrologia"
+  ],
+  "resumo": "Os «sinais» dos astros são os úteis, que o marinheiro e o lavrador observam, e não os da astrologia, que tira os motivos de rezar e põe a culpa do crime em Deus, autor dos astros, e não no homem.",
+  "relevancia": 3,
+  "direitos": "domínio público"
+ },
+ {
+  "id": "agostinho-sermo-190-1",
+  "autor": "Santo Agostinho",
+  "autor_id": "agostinho",
+  "datas": "354–430",
+  "titulo_autor": "bispo de Hipona, Doutor da Igreja",
+  "obra": "Sermões (Sermones)",
+  "passagem": "Sermão 190, 1, no Natal do Senhor",
+  "edicao": "PL 38, 1007",
+  "trecho": "3",
+  "versiculos": [
+   14,
+   16
+  ],
+  "lingua": "la",
+  "original": "Dominus noster Iesus qui erat apud Patrem antequam natus esset ex matre, non solum virginem de qua nasceretur, sed et diem quo nasceretur, elegit. […] Nec ita elegit diem, sicut eligunt qui fata hominum inaniter de siderum dispositione suspendunt. Non enim per diem felix factus est qui est natus; sed felicem fecit diem, quo nasci est ipse dignatus. […] Et quoniam ipsa infidelitas quae totum mundum vice noctis obtexerat, minuenda fuerat fide crescente; ideo die Natalis Domini nostri Iesu Christi, et nox incipit perpeti detrimenta, et dies sumere augmenta. Habeamus ergo, fratres, solemnem istum diem; non sicut infideles propter hunc solem, sed propter eum qui fecit hunc solem. Quod enim Verbum erat, caro factum est, ut propter nos posset esse sub sole. Carne quippe sub sole: maiestate autem super universum mundum, in quo condidit solem.",
+  "fonte_url": "https://www.augustinus.it/latino/discorsi/discorso_243_testo.htm",
+  "fonte_url_alternativa": "https://mlat.uzh.ch/browser/cps_2.AugHip.SeDeTe",
+  "traducao_pt": "Nosso Senhor Jesus, que estava junto do Pai antes de nascer da mãe, escolheu não só a virgem de quem nasceria, mas também o dia em que nasceria. […] E não escolheu o dia como o escolhem os que fazem depender, em vão, o destino dos homens da posição dos astros. Pois não foi pelo dia que se tornou feliz aquele que nasceu, mas foi ele que tornou feliz o dia em que se dignou nascer. […] E, como a própria incredulidade, que tinha coberto o mundo inteiro como uma noite, devia diminuir à medida que a fé crescesse, por isso, no dia do Natal de Nosso Senhor Jesus Cristo, a noite começa a sofrer perdas e o dia a ganhar acréscimos. Celebremos, pois, irmãos, este dia solene, não como os incrédulos, por causa deste sol, mas por causa daquele que fez este sol. Pois aquele que era o Verbo se fez carne, para poder estar, por nossa causa, debaixo do sol: na carne, debaixo do sol; mas, na majestade, acima do mundo inteiro, no qual criou o sol.",
+  "temas": [
+   "o sol é criatura",
+   "os astros não fazem o destino",
+   "as festas e os tempos"
+  ],
+  "resumo": "No Natal, quando os dias começam a crescer, não se festeja o sol, como os pagãos, mas aquele que fez o sol e, feito homem, quis estar debaixo dele; e não foi o dia que fez Cristo feliz, mas ele que fez feliz o dia.",
+  "relevancia": 2,
+  "direitos": "domínio público"
+ },
+ {
+  "id": "agostinho-sermo-241-2",
+  "autor": "Santo Agostinho",
+  "autor_id": "agostinho",
+  "datas": "354–430",
+  "titulo_autor": "bispo de Hipona, Doutor da Igreja",
+  "obra": "Sermões (Sermones)",
+  "passagem": "Sermão 241, 2, no tempo pascal",
+  "edicao": "PL 38, 1134",
+  "trecho": "4",
+  "versiculos": [
+   20,
+   21
+  ],
+  "lingua": "la",
+  "original": "Interroga pulchritudinem terrae, interroga pulchritudinem maris, interroga pulchritudinem dilatati et diffusi aeris, interroga pulchritudinem coeli, interroga ordinem siderum, interroga solem fulgore suo diem clarificantem, interroga lunam splendore subsequentis noctis tenebras temperantem, interroga animalia quae moventur in aquis, quae morantur in terris, quae volitant in aere; latentes animas, perspicua corpora; visibilia regenda, invisibiles regentes: interroga ista, Respondent tibi omnia: Ecce vide, pulchra sumus. Pulchritudo eorum, confessio eorum. Ista pulchra mutabilia quis fecit, nisi incommutabilis pulcher?",
+  "fonte_url": "https://www.augustinus.it/latino/discorsi/discorso_337_testo.htm",
+  "fonte_url_alternativa": "https://mlat.uzh.ch/browser/cps_2.AugHip.SeDeTe",
+  "traducao_pt": "Interroga a beleza da terra, interroga a beleza do mar, interroga a beleza do ar que se dilata e se espalha, interroga a beleza do céu, interroga a ordem dos astros, interroga o sol, que com o seu brilho clareia o dia, interroga a lua, que com o seu esplendor suaviza as trevas da noite que vem depois, interroga os animais que se movem nas águas, que vivem na terra, que voam no ar; as almas escondidas e os corpos visíveis; as coisas visíveis, que precisam ser governadas, e as invisíveis, que governam: interroga tudo isso. Todos te respondem: «Olha, somos belos». A beleza deles é a sua confissão. Essas coisas belas e mutáveis, quem as fez, senão o Belo imutável?",
+  "temas": [
+   "a beleza das criaturas",
+   "as criaturas falam de Deus"
+  ],
+  "resumo": "Pergunta à terra, ao mar, aos astros, aos peixes e às aves: todos respondem «somos belos». A beleza deles é a sua confissão do Criador, o Belo que não muda.",
+  "relevancia": 3,
+  "direitos": "domínio público"
+ },
+ {
+  "id": "agostinho-gnlitt-3-13-21",
+  "autor": "Santo Agostinho",
+  "autor_id": "agostinho",
+  "datas": "354–430",
+  "titulo_autor": "bispo de Hipona, Doutor da Igreja",
+  "obra": "Comentário literal ao Gênesis (De Genesi ad litteram)",
+  "passagem": "III, 13, 21",
+  "edicao": "PL 34, 288",
+  "trecho": "4",
+  "versiculos": [
+   22,
+   28
+  ],
+  "lingua": "la",
+  "original": "Item quaeritur quid tantum aquarum animalia de Creatore meruerint, ut sola benedicerentur, sicut homines. Nam et ipsa benedixit Deus, dicens: Crescite et multiplicamini, et implete aquas maris, et volatilia multiplicentur super terram. An in uno creaturae genere dicendum fuit, ut in caeteris consequenter intellegeretur, quae generationibus crescunt? Prius ergo diceretur in eo quod primum tale creatum est, in herba scilicet atque ligno. An forte quae nullum haberent propagandae prolis affectum, ac sine ullo sensu generarent, indigna iudicavit illis benedictionis verbis: Crescite et multiplicamini: ubi autem talis inesset affectus, ibi primum hoc dixit, ut in terrenis animalibus etiam non dictum intellegeretur? Necessarium autem fuit hoc in homine repetere, ne quisquam diceret in officio gignendi filios ullum esse peccatum, sicut est in libidine, sive fornicandi, sive ipso coniugio immoderatius abutendi.",
+  "fonte_url": "https://www.augustinus.it/latino/genesi_lettera/genesi_lettera_03_libro.htm",
+  "fonte_url_alternativa": "https://mlat.uzh.ch/browser/cps_2.AugHip.DeGeAdL",
+  "traducao_pt": "Pergunta-se também o que os animais das águas mereceram tanto do Criador, para que só eles fossem abençoados, como os homens. Pois também a eles Deus abençoou, dizendo: «Crescei e multiplicai-vos, e enchei as águas do mar, e as aves se multipliquem sobre a terra». Será que bastava dizê-lo num só gênero de criaturas, para que se entendesse, por consequência, também nos outros que crescem pela geração? Então deveria ser dito primeiro no que foi criado antes com essa capacidade, isto é, na erva e na árvore. Ou será que ele julgou indignos daquelas palavras de bênção, «Crescei e multiplicai-vos», os seres que não têm nenhum afeto em propagar a prole e geram sem sentir nada, e o disse pela primeira vez onde havia esse afeto, para que se entendesse também nos animais da terra, ainda que não fosse dito? No homem, porém, foi necessário repeti-lo, para que ninguém dissesse que há algum pecado no dever de gerar filhos, como há na luxúria, seja na fornicação, seja no abuso desmedido do próprio matrimônio.",
+  "temas": [
+   "a primeira bênção",
+   "a fecundidade é bênção"
+  ],
+  "resumo": "Por que a bênção «crescei e multiplicai-vos» aparece primeiro nos peixes e nas aves? Talvez porque nelas há afeto pelos filhotes; e foi repetida para o homem, para que ninguém julgasse pecado gerar filhos.",
+  "relevancia": 2,
+  "direitos": "domínio público"
+ },
+ {
+  "id": "agostinho-gnman-1-16-25",
+  "autor": "Santo Agostinho",
+  "autor_id": "agostinho",
+  "datas": "354–430",
+  "titulo_autor": "bispo de Hipona, Doutor da Igreja",
+  "obra": "Sobre o Gênesis, contra os maniqueus (De Genesi contra Manichaeos)",
+  "passagem": "I, 16, 25–26",
+  "edicao": "PL 34, 184–186",
+  "trecho": "5",
+  "versiculos": [
+   24,
+   25
+  ],
+  "lingua": "la",
+  "original": "Et dixit Deus, Eiciat terra animam vivam secundum unumquodque genus quadrupedum et serpentium et bestiarum terrae. […] Solent etiam istam Manichaei movere quaestionem ut dicant: Quid opus erat ut tam multa animalia Deus faceret, sive in aquis, sive in terra, quae hominibus non sunt necessaria? multa etiam perniciosa sunt et timenda. Sed cum ista dicunt, non intellegunt quemadmodum omnia pulchra sunt conditori et artifici suo, qui omnibus utitur ad gubernationem universitatis, cui summa lege dominatur. Si enim in alicuius opificis officinam imperitus intraverit, videt ibi multa instrumenta quorum causas ignorat, et si multum est insipiens, superflua putat. […] Ego vero fateor me nescire mures et ranae quare creatae sint, aut muscae aut vermiculi: video tamen omnia in suo genere pulchra esse, quamvis propter peccata nostra multa nobis videantur adversa. […] Usurpa ergo utilia, cave perniciosa, relinque superflua. In omnibus tamen cum mensuras et numeros et ordinem vides, artificem quaere. […] Sic fortasse uberiorem capies fructum, cum Deum laudas in humilitate formicae, quam cum transis fluvium in alicuius iumenti altitudine.",
+  "fonte_url": "https://www.augustinus.it/latino/genesi_dcm/genesi_dcm_1_libro.htm",
+  "fonte_url_alternativa": "https://mlat.uzh.ch/browser/cps_2.AugHip.DeGeCoM",
+  "traducao_pt": "«E disse Deus: Produza a terra seres vivos segundo cada espécie de quadrúpedes, de serpentes e de feras da terra». […] Também costumam os maniqueus levantar esta questão, dizendo: Que necessidade havia de Deus fazer tantos animais, nas águas ou na terra, que não são necessários aos homens? Muitos até são nocivos e temíveis. Mas, quando dizem isso, não entendem como todas as coisas são belas para o seu Criador e artífice, que se serve de todas para o governo do universo, sobre o qual reina com lei suprema. Se um inexperiente entra na oficina de um artesão, vê ali muitos instrumentos cuja finalidade ignora e, se for muito tolo, julga que são supérfluos. […] Eu, de minha parte, confesso que não sei por que foram criados os ratos e as rãs, ou as moscas e os vermezinhos; mas vejo que todos são belos no seu gênero, embora, por causa dos nossos pecados, muitos nos pareçam adversos. […] Aproveita, pois, o que é útil, evita o que é nocivo, deixa de lado o que é supérfluo. Mas em tudo, quando vês medida, número e ordem, procura o artífice. […] Assim talvez colhas fruto mais abundante quando louvas a Deus na pequenez da formiga do que quando atravessas um rio no alto de algum animal de carga.",
+  "temas": [
+   "os animais e a beleza do conjunto",
+   "os bichos que parecem inúteis",
+   "louvar a Deus nas pequenas criaturas"
+  ],
+  "resumo": "Para que tantos bichos inúteis ou perigosos? Quem entra na oficina de um artesão sem conhecer o ofício acha inúteis muitas ferramentas. Ele confessa não saber para que servem ratos e rãs, mas vê em tudo medida, número e ordem: Deus se louva até na formiga.",
+  "relevancia": 3,
+  "direitos": "domínio público"
+ },
+ {
+  "id": "agostinho-trin-7-6-12",
+  "autor": "Santo Agostinho",
+  "autor_id": "agostinho",
+  "datas": "354–430",
+  "titulo_autor": "bispo de Hipona, Doutor da Igreja",
+  "obra": "A Trindade (De Trinitate)",
+  "passagem": "VII, 6, 12",
+  "edicao": "PL 42, 946",
+  "trecho": "5",
+  "versiculos": [
+   26
+  ],
+  "lingua": "la",
+  "original": "Aliquando latenter omnino sicut in Genesi: Faciamus hominem ad imaginem et similitudinem nostram. Et faciamus et nostram pluraliter dictum est, et nisi ex relativis accipi non oportet. Non enim ut facerent dii aut ad imaginem et similitudinem deorum, sed ut facerent Pater et Filius et Spiritus Sanctus ad imaginem ergo Patris et Filii et Spiritus Sancti ut subsisteret homo imago Dei; Deus autem Trinitas. […] Sed quia non omnimodo aequalis fiebat illa imago Dei, tamquam non ab illo nata, sed ab eo creata, huius rei significandae causa ita imago est ut ad imaginem sit, id est non aequatur parilitate, sed quadam similitudine accedit. Non enim locorum intervallis sed similitudine acceditur ad Deum, et dissimilitudine receditur ab eo. […] Ad hoc enim et dicitur: Reformamini in novitate mentis vestrae, quibus item dicit: Estote itaque imitatores Dei, sicut filii dilectissimi.",
+  "fonte_url": "https://www.augustinus.it/latino/trinita/trinita_07_libro.htm",
+  "fonte_url_alternativa": "https://mlat.uzh.ch/browser/cps_2.AugHip.DeTri5",
+  "traducao_pt": "Às vezes o plural aparece de modo inteiramente velado, como no Gênesis: «Façamos o homem à nossa imagem e semelhança». Tanto «façamos» como «nossa» estão no plural, e só se podem entender das Pessoas em relação umas com as outras. Pois não se quer dizer que deuses o fizessem, ou à imagem e semelhança de deuses, mas que o fizessem o Pai, o Filho e o Espírito Santo; à imagem, portanto, do Pai, do Filho e do Espírito Santo, para que o homem fosse imagem de Deus; e Deus é Trindade. […] Mas, como aquela imagem de Deus não era feita igual a ele em tudo, já que não nascia dele, mas era criada por ele, para significar isso ela é imagem de tal modo que é «à imagem», isto é, não se iguala a ele, mas se aproxima por certa semelhança. Pois não é por distâncias de lugar que alguém se aproxima de Deus, mas pela semelhança; e pela dessemelhança se afasta dele. […] É para isso que se diz: «Reformai-vos pela novidade da vossa mente», e aos mesmos ainda se diz: «Sede, portanto, imitadores de Deus, como filhos muito amados».",
+  "temas": [
+   "o plural de «façamos»: a Trindade",
+   "a imagem e a semelhança",
+   "aproximar-se de Deus pela semelhança"
+  ],
+  "resumo": "«Façamos» e «nossa» falam do Pai, do Filho e do Espírito Santo, um só Deus. O homem é «à imagem»: não igual a Deus, mas capaz de se aproximar dele, não por distância de lugar, mas pela semelhança.",
+  "relevancia": 3,
+  "direitos": "domínio público"
+ },
+ {
+  "id": "agostinho-trin-12-7-10",
+  "autor": "Santo Agostinho",
+  "autor_id": "agostinho",
+  "datas": "354–430",
+  "titulo_autor": "bispo de Hipona, Doutor da Igreja",
+  "obra": "A Trindade (De Trinitate)",
+  "passagem": "XII, 7, 10",
+  "edicao": "PL 42, 1003",
+  "trecho": "5",
+  "versiculos": [
+   27
+  ],
+  "lingua": "la",
+  "original": "Sed videndum est quomodo non sit contrarium quod dicit Apostolus non mulierem, sed virum esse imaginem Dei, huic quod scriptum est in Genesi: Fecit Deus hominem, ad imaginem Dei, fecit eum masculum et feminam; fecit eos et benedixit eos. Ad imaginem quippe Dei naturam ipsam humanam factam dicit, quae sexu utroque completur, nec ab intellegenda imagine Dei separat feminam.",
+  "fonte_url": "https://www.augustinus.it/latino/trinita/trinita_12_libro.htm",
+  "fonte_url_alternativa": "https://mlat.uzh.ch/browser/cps_2.AugHip.DeTri5",
+  "traducao_pt": "Mas é preciso ver como aquilo que diz o Apóstolo, que não a mulher, mas o homem é imagem de Deus, não é contrário ao que está escrito no Gênesis: «Deus fez o homem à imagem de Deus, e o fez homem e mulher; e os fez e os abençoou». Pois diz que foi feita à imagem de Deus a própria natureza humana, que se completa nos dois sexos, e não exclui a mulher da imagem de Deus.",
+  "temas": [
+   "homem e mulher à imagem de Deus",
+   "a dignidade da mulher"
+  ],
+  "resumo": "Diante de 1Cor 11,7, ele lê Gn 1,27: o que é feito à imagem de Deus é a natureza humana inteira, que se completa nos dois sexos; a mulher não fica fora da imagem.",
+  "relevancia": 3,
+  "direitos": "domínio público"
+ },
+ {
+  "id": "agostinho-trin-14-8-11",
+  "autor": "Santo Agostinho",
+  "autor_id": "agostinho",
+  "datas": "354–430",
+  "titulo_autor": "bispo de Hipona, Doutor da Igreja",
+  "obra": "A Trindade (De Trinitate)",
+  "passagem": "XIV, 8, 11 e 12, 15",
+  "edicao": "PL 42, 1044 e 1048",
+  "trecho": "5",
+  "versiculos": [
+   26,
+   27
+  ],
+  "lingua": "la",
+  "original": "Nunc vero ad eam iam pervenimus disputationem, ubi principale mentis humanae, quo novit Deum vel potest nosse, considerandum suscepimus, ut in eo reperiamus imaginem Dei. […] Diximus enim eam etsi amissa Dei participatione obsoletam atque deformem, Dei tamen imaginem permanere. Eo quippe ipso imago eius est, quo eius capax est, eiusque particeps esse potest; quod tam magnum bonum, nisi per hoc quod imago eius est, non potest. Ecce ergo mens meminit sui, intellegit se, diligit se: hoc si cernimus, cernimus trinitatem; nondum quidem Deum, sed iam imaginem Dei. […] Haec igitur trinitas mentis non propterea Dei est imago, quia sui meminit mens, et intellegit ac diligit se: sed quia potest etiam meminisse, et intellegere, et amare a quo facta est. Quod cum facit, sapiens ipsa fit. Si autem non facit, etiam cum sui meminit, seque intellegit ac diligit, stulta est. Meminerit itaque Dei sui, ad cuius imaginem facta est, eumque intellegat atque diligat.",
+  "fonte_url": "https://www.augustinus.it/latino/trinita/trinita_14_libro.htm",
+  "fonte_url_alternativa": "https://mlat.uzh.ch/browser/cps_2.AugHip.DeTri5",
+  "traducao_pt": "Agora chegamos à parte da discussão em que nos propusemos considerar o que há de mais alto na mente humana, aquilo pelo qual ela conhece ou pode conhecer a Deus, para encontrar ali a imagem de Deus. […] Pois dissemos que ela, ainda que, tendo perdido a participação em Deus, esteja gasta e deformada, continua a ser imagem de Deus. É imagem dele justamente por ser capaz dele e poder participar dele; e um bem tão grande ela só o tem por ser imagem dele. Eis, pois: a mente se lembra de si, entende a si mesma, ama a si mesma; se vemos isso, vemos uma trindade; ainda não Deus, mas já a imagem de Deus. […] Esta trindade da mente, portanto, não é imagem de Deus porque a mente se lembra de si, se entende e se ama, mas porque pode também lembrar-se, entender e amar aquele por quem foi feita. Quando faz isso, torna-se sábia. Se não o faz, mesmo quando se lembra de si, se entende e se ama, é insensata. Lembre-se, pois, do seu Deus, à imagem do qual foi feita, e o entenda e o ame.",
+  "temas": [
+   "a imagem de Deus na alma",
+   "a imagem que o pecado não apaga",
+   "lembrar, entender e amar a Deus"
+  ],
+  "resumo": "A imagem de Deus está na mente que se lembra, entende e ama; mesmo gasta e deformada pelo pecado, continua imagem, porque é capaz de Deus. E é imagem de verdade quando se lembra de Deus, o entende e o ama.",
+  "relevancia": 3,
+  "direitos": "domínio público"
+ },
+ {
+  "id": "agostinho-sermo-90-10",
+  "autor": "Santo Agostinho",
+  "autor_id": "agostinho",
+  "datas": "354–430",
+  "titulo_autor": "bispo de Hipona, Doutor da Igreja",
+  "obra": "Sermões (Sermones)",
+  "passagem": "Sermão 90, 10, sobre as bodas do filho do rei (Mt 22,1-14)",
+  "edicao": "PL 38, 566",
+  "trecho": "5",
+  "versiculos": [
+   26,
+   27
+  ],
+  "lingua": "la",
+  "original": "Sic proficiatur, sic caritas nutriatur, ut nutrita perficiatur: sic vestis nuptialis induatur: sic imago Dei, ad quam creati sumus, proficiendo resculpatur. Peccando enim obsolefacta erat, attrita erat. Unde attrita? unde obsolefacta? Cum fricatur ad terram. Quid est, ad terram fricatur? Terrenis cupiditatibus teritur. Quamquam enim in imagine ambulet homo, tamen vane conturbatur. Veritas quaeritur in Dei imagine, non vanitas. […] Amando enim veritatem imago illa, ad quam creati sumus, resculpatur, et proprius nummus Caesari nostro reddatur. […] Caesar iste et imaginem suam quaerit. Caesar non vult sibi perire quod iussit, et Deus non vult perire quod fecit. […] Moneta Christi homo est. Ibi imago Christi, ibi nomen Christi, munus Christi, et officia Christi.",
+  "fonte_url": "https://www.augustinus.it/latino/discorsi/discorso_117_testo.htm",
+  "fonte_url_alternativa": "https://mlat.uzh.ch/browser/cps_2.AugHip.SeDeSc",
+  "traducao_pt": "Assim se progrida, assim se alimente a caridade, para que, alimentada, chegue à perfeição; assim se vista a veste nupcial; assim a imagem de Deus, segundo a qual fomos criados, seja esculpida de novo, à medida que progredimos. Pelo pecado ela tinha ficado gasta, apagada. Apagada como? Gasta como? Quando é esfregada na terra. Que quer dizer ser esfregada na terra? É gasta pelos desejos terrenos. Pois «embora o homem caminhe na imagem, inquieta-se em vão». Na imagem de Deus se procura a verdade, não a vaidade. […] Amando a verdade, aquela imagem segundo a qual fomos criados é esculpida de novo, e devolve-se ao nosso César a sua própria moeda. […] O César da moeda também procura a sua imagem. César não quer perder o que mandou fazer, e Deus não quer perder o que fez. […] A moeda de Cristo é o homem. Nele está a imagem de Cristo, nele o nome de Cristo, o dom de Cristo e os deveres de Cristo.",
+  "temas": [
+   "a imagem gasta e restaurada",
+   "o homem, moeda de Deus"
+  ],
+  "resumo": "A imagem de Deus em nós se gasta como moeda esfregada na terra, pelos desejos terrenos, e é esculpida de novo pelo amor da verdade. Como César procura a sua efígie na moeda, Deus procura a sua no homem.",
+  "relevancia": 3,
+  "direitos": "domínio público"
+ },
+ {
+  "id": "agostinho-civ-19-15",
+  "autor": "Santo Agostinho",
+  "autor_id": "agostinho",
+  "datas": "354–430",
+  "titulo_autor": "bispo de Hipona, Doutor da Igreja",
+  "obra": "A Cidade de Deus (De civitate Dei)",
+  "passagem": "XIX, 15",
+  "edicao": "PL 41, 643–644",
+  "trecho": "5",
+  "versiculos": [
+   26,
+   28
+  ],
+  "lingua": "la",
+  "original": "Hoc naturalis ordo praescribit, ita Deus hominem condidit. Nam: Dominetur, inquit, piscium maris et volatilium caeli et omnium repentium, quae repunt super terram. Rationalem factum ad imaginem suam noluit nisi irrationabilibus dominari; non hominem homini, sed hominem pecori. Inde primi iusti pastores pecorum magis quam reges hominum constituti sunt, ut etiam sic insinuaret Deus, quid postulet ordo creaturarum, quid exigat meritum peccatorum. Condicio quippe servitutis iure intellegitur imposita peccatori. Proinde nusquam Scripturarum legimus \"servum\", antequam hoc vocabulo Noe iustus peccatum filii vindicaret. Nomen itaque istud culpa meruit, non natura. […] Nullus autem natura, in qua prius Deus hominem condidit, servus est hominis aut peccati.",
+  "fonte_url": "https://www.augustinus.it/latino/cdd/cdd_19_libro.htm",
+  "fonte_url_alternativa": "https://mlat.uzh.ch/browser/cps_2.AugHip.DeCiDe",
+  "traducao_pt": "É isto que a ordem natural prescreve; foi assim que Deus criou o homem. Pois diz: «Domine sobre os peixes do mar, as aves do céu e todos os répteis que rastejam sobre a terra». Ele não quis que o ser racional, feito à sua imagem, dominasse senão sobre os irracionais: não o homem sobre o homem, mas o homem sobre o gado. Por isso os primeiros justos foram feitos pastores de rebanhos, mais do que reis de homens, para que também assim Deus mostrasse o que pede a ordem das criaturas e o que exige o merecimento dos pecados. Pois se entende, com razão, que a condição de escravo foi imposta ao pecador. Por isso, em parte alguma das Escrituras lemos a palavra «escravo» antes que o justo Noé castigasse com esse nome o pecado do filho. Foi a culpa que mereceu esse nome, não a natureza. […] Ninguém, porém, pela natureza em que Deus primeiro criou o homem, é escravo do homem ou do pecado.",
+  "temas": [
+   "o domínio sobre os animais, não sobre os homens",
+   "nenhum homem nasce escravo"
+  ],
+  "resumo": "Deus deu ao homem domínio sobre os animais, não sobre outros homens: os primeiros justos foram pastores, não reis. A escravidão veio da culpa, não da natureza.",
+  "relevancia": 3,
+  "direitos": "domínio público"
+ },
+ {
+  "id": "agostinho-conf-13-28-43",
+  "autor": "Santo Agostinho",
+  "autor_id": "agostinho",
+  "datas": "354–430",
+  "titulo_autor": "bispo de Hipona, Doutor da Igreja",
+  "obra": "Confissões (Confessiones)",
+  "passagem": "XIII, 28, 43",
+  "edicao": "PL 32, 864",
+  "trecho": "5",
+  "versiculos": [
+   31
+  ],
+  "lingua": "la",
+  "original": "Et vidisti, Deus, omnia quae fecisti, et ecce bona valde, quia et nos videmus ea, et ecce omnia bona valde. In singulis generibus operum tuorum, cum dixisses, ut fierent, et facta essent, illud atque illud vidisti quia bonum est. Septiens numeravi scriptum esse te vidisse, quia bonum est quod fecisti; et hoc octavum est, quia vidisti omnia quae fecisti, et ecce non solum bona sed etiam valde bona tamquam simul omnia. Nam singula tantum bona erant, simul autem omnia et bona et valde. Hoc dicunt etiam quaeque pulchra corpora, quia longe multo pulchrius est corpus, quod ex membris pulchris omnibus constat, quam ipsa membra singula, quorum ordinatissimo conventu completur universum, quamvis et illa etiam singillatim pulchra sint.",
+  "fonte_url": "https://www.augustinus.it/latino/confessioni/conf_13_libro.htm",
+  "fonte_url_alternativa": "https://mlat.uzh.ch/browser/cps_2.AugHip.Confes2",
+  "traducao_pt": "E viste, ó Deus, tudo o que fizeste, e eis que era muito bom; e também nós o vemos, e eis que tudo é muito bom. Em cada gênero das tuas obras, depois de teres dito que fossem feitas, e de terem sido feitas, viste que esta e aquela eram boas. Contei sete vezes que está escrito que viste que era bom o que fizeste; e esta é a oitava: viste tudo o que fizeste, e eis que não era só bom, mas muito bom, porque era tudo junto. Pois cada coisa era só boa, mas tudo junto era bom e muito bom. É o que dizem também os corpos belos: um corpo feito de membros todos belos é muito mais belo do que os membros tomados um a um, cujo conjunto, perfeitamente ordenado, forma o todo, embora também eles, cada um por si, sejam belos.",
+  "temas": [
+   "muito bom",
+   "a beleza do conjunto"
+  ],
+  "resumo": "Sete vezes Deus viu que cada obra era boa; na oitava, viu tudo junto, e era muito bom: como o corpo inteiro é mais belo que cada membro, ainda que cada um seja belo.",
+  "relevancia": 3,
+  "direitos": "domínio público"
+ }
+]

@@ -131,6 +131,22 @@ Vale para pessoas, povos e lugares, também nos comentários dos Padres.
 | *nékrōsis* | o morrer (de Jesus) | 2Cor 4,10, ao lado de «a vida de Jesus»; *thánatos* (vv. 11–12) é «a morte»; a Vulgata diz *mortificationem* | 2Cor 4, a confirmar |
 | *diaphtheírō* (o homem exterior) | desgastar-se | 2Cor 4,16 «se vá desgastando»; não «corromper», que hoje soa como corrupção moral | 2Cor 4 |
 | *hyperbolḗ* | grandeza extraordinária; «acima de toda medida» | 2Cor 4,7 «a grandeza extraordinária do poder»; 4,17 *kath' hyperbolḗn eis hyperbolḗn* | 2Cor 4 |
+| *yehi* (Gn 1) | faça-se | «Faça-se a luz. E a luz se fez» (Gn 1,3, como o lecionário; o *yehi… vayhi* fica no eco «faça-se… se fez»); «Faça-se um firmamento» (1,6), «Façam-se luzeiros» (1,14); a tradução de partida dizia «a luz foi feita» e «Haja luzeiros» | Gn 1 |
+| *peru urevu* | Sede fecundos e multiplicai-vos | Gn 1,22.28, como 8,17; 9,1.7 e o lecionário; «Crescei e multiplicai-vos» (da Vulgata, *crescite*) só aparecia em 1,22.28 da tradução de partida | Gn 1 |
+| *tohu vavohu* | deserta e vazia | Gn 1,2, como o lecionário; Jr 4,23 («caos e vazio») e Is 34,11; 45,18 («caos») mudam ao entrarem | Gn 1, a confirmar |
+| *ruah elohim* (Gn 1,2) | o Espírito de Deus | com maiúscula, como o lecionário e a leitura dos Padres | Gn 1, a confirmar |
+| *mo'adim* (os astros) | os tempos | Gn 1,14 «sinais para marcar os tempos, os dias e os anos», como o Sl 104,19 | Gn 1, a confirmar |
+| *zakhar uneqeva* (o ser humano) | homem e mulher | Gn 1,27, como o lecionário, o Catecismo e Mt 19,4; Gn 5,2 muda ao entrar; nos animais (Gn 6–7) fica «macho e fêmea» | Gn 1, a confirmar |
+| *raqia'* | firmamento | | projeto antigo |
+| *yabbasha* | o solo enxuto | Gn 1,9-10, como o lecionário; não «o seco» | Gn 1 |
+| *me'orot* | luzeiros; «o luzeiro maior», «o luzeiro menor» | Gn 1,14-16; Sl 136,7 | projeto antigo |
+| *tanninim* | monstros marinhos | Gn 1,21; Sl 148,7 | projeto antigo |
+| *nefesh hayya* (os animais) | seres vivos | Gn 1,20.21.24; 1,30 «tudo o que… tem vida» (*nefesh*, opção C) | Gn 1 |
+| *deshe* / *esev* / *yereq esev* | vegetação / erva / a erva verde | Gn 1,11-12.29-30, como 9,3 | Gn 1 |
+| *behemá* / *remes* / *hayyat ha'arets* | animais domésticos / répteis / feras da terra | Gn 1,24-26 | projeto antigo |
+| *tselem* / *demut* | imagem / semelhança | «à nossa imagem, conforme a nossa semelhança» (Gn 1,26) | projeto antigo |
+| *kavash* / *radá* | submeter / dominar | «enchei a terra e submetei-a; dominai» (Gn 1,28, como o lecionário; a tradução de partida dizia «sujeitai-a») | Gn 1 |
+| *vayhi-erev vayhi-voqer yom ehad* | E houve tarde, e houve manhã: primeiro dia | o ordinal, sem artigo («segundo dia»… «quinto dia»), e «o sexto dia» com artigo, como o hebraico; a tradução de partida dizia «E houve tarde e manhã: dia primeiro» | Gn 1 |
 
 ## Inconsistências conhecidas, para corrigir quando o capítulo entrar
 
@@ -140,4 +156,6 @@ Vale para pessoas, povos e lugares, também nos comentários dos Padres.
 - «Míriam» no Êxodo, em 1 Crônicas e em Miqueias → «Maria».
 - *Synergós*: «colaborador» em Rm 16 e Fl 2,25; 4,3 → «cooperador», como em 1Cor 3,9 e 2Cor 1,24; 6,1; 8,23 (2Cor 1, aprovado).
 - «Nun» → «Num» (o pai de Josué) em Êxodo, Deuteronômio, Josué e onde mais aparecer.
+- Gênesis 1 (25/10): conforme as escolhas, Jr 4,23 e Is 34,11; 45,18 (*tohu*), Gn 5,2 («macho e fêmea»),
+  Sl 104,19 (*mo'adim*) e os lugares do Espírito de Deus no Antigo Testamento.
 - *Aiṓn* = «século» em 1Cor 1,20; 2,6–8 («os príncipes deste século»), mas «mundo» em 2Cor 4,4, Gl 1,4 e Ef 2,2: decidir com o Gere ao entrar 1 Coríntios («século» hoje se entende como cem anos).
