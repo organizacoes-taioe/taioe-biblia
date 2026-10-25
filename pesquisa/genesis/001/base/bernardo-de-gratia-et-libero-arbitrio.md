@@ -1,0 +1,33 @@
+# São Bernardo, De gratia et libero arbitrio 9
+- Autor: São Bernardo de Claraval (1090–1153)
+- Obra: De gratia et libero arbitrio, cap. 9 (28–31)
+- Passagem: Gn 1,26: a imagem (o livre-arbítrio) e a semelhança
+- Edição: PL 182, 1016A–1018B
+- Fonte: https://mlat.uzh.ch/php_modules/download.php?idno=11198&type=file-txt
+- Cobre: o capítulo 9
+- Oriental: não
+- Língua: la
+- Baixado: 2026-10-25, por pesquisa/ferramentas/base/gen-latinos-avulsos.py
+- Leitor: https://mlat.uzh.ch/browser/cps_2.BerCla.DeGrEtL4 (abre a obra inteira)
+
+---
+
+CAPUT IX. Imaginem et similitudinem Dei, ad quam conditi sumus, in triplici libertate consistere.
+
+### 28.
+
+### Puto autem in his tribus libertatibus ipsam,
+
+[col. 1016B] ad quam conditi sumus, Conditoris imaginem atque similitudinem contineri: et imaginem quidem in libertate arbitrii, in reliquis autem duabus bipartitam quamdam consignari similitudinem. Hinc est fortassis, quod solum liberum arbitrium sui omnino defectum seu diminutionem non patitur, quod in ipso potissimum aeternae et incommutabilis divinitatis substantiva quaedam imago impressa videatur. Nam, etsi habuerit initium, nescit tamen occasum, nec de justitia vel gloria capit augmentum: nec de peccato sive miseria detrimentum. Quid aeternitati similius, quod non sit aeternitas? Porro in aliis duabus libertatibus, quoniam non solum ex parte minui, [col. 1016C] sed et ex toto amitti possunt; accidentalis quaedam magis similitudo sapientiae atque potentiae divinae, imagini superducta cognoscitur. Denique et amisimus illas per culpam, et per gratiam recuperavimus; et quotidie quidem alii plus, alii minus, aut in ipsis proficimus, aut ab ipsis deficimus. Possunt etiam sic amitti, ut jam non valeant recuperari: possunt et ita possideri, ut nec amitti queant aliquando [ al. aliquo modo], nec minui.
+
+### 29.
+
+Hujus bipartitae similitudinis sapientiae et potentiae Dei, non quidem in gradu summo, sed qui ipsi tamen esset proximior, homo conditus est in paradiso. Quid enim vicinius ad non posse peccare, vel turbari (in quo utique jam sanctos Angelos stare, [col. 1016D] et Deum semper esse dubium non est), quam posse et non peccare, et non turbari, in quo homo profecto creatus est? A quo illo per peccatum, imo nobis in illo et cum illo corruentibus, rursus per gratiam, non quidem ipsum, sed pro ipso quemdam inferiorem gradum recepimus. Neque enim hic possumus penitus esse sine peccato, seu miseria: possumus tamen, gratia juvante, nec peccato superari, nec miseria. Quanquam tamen Scriptura loquatur: Omne quod natum est ex Deo non peccat (I Joan. III, 9). Sed hoc dictum est de praedestinatis ad vitam: non quod omnino non peccent, sed quod peccatum ipsis non imputetur, quod vel punitur condigna [col. 1017A] poenitentia, vel in charitate absconditur. Charitas quippe cooperit multitudinem peccatorum (I Petr. IV, 8); et: Beati quorum remissae sunt iniquitates, et quorum tecta sunt peccata; et: Beatus vir cui non imputavit Dominus peccatum (Psal. XXXI 1, 2). Divinae ergo similitudinis summum gradum summi angeli tenent, nos infimum: Adam tenuit medium, porro daemones nullum. Supernis nempe spiritibus datum est sine peccato et miseria perdurare: Adae autem absque his quidem esse, sed non etiam permanere: nobis vero ne esse quidem absque his, sed ipsis tantum non cedere. Caeterum diabolus et membra ejus, sicut nunquam volunt reluctari peccato, sic nunquam possunt poenam declinare peccati.
+
+### [col. 1017B] 30.
+
+Cum ergo istae duae libertates, consilii scilicet atque complaciti, per quas rationali creaturae vera sapientia et potentia ministratur, ita Deo, prout vult, dispensante, quibusque pro causis, locis, temporibus, varientur, quatenus in terris modice, in coelestibus plenarie, mediocriter in paradiso, apud inferos 615 nullatenus habeantur; libertas vero arbitrii de ipso, quo condita est, statu aliquatenus non mutetur, sed aequaliter semper (quantum in se est) a coelis, terris, inferis possideatur: merito illae similitudini, haec imagini deputantur. Et quidem apud inferos, quod utraque libertas perierit, illae scilicet quae ad similitudinem pertinere dicuntur, Scripturarum testatur auctoritas. Nam verum illic Sapere, quod utique de consilii libertate concipitur, [col. 1017C] omnino non esse, locus ille manifestat, ubi legitur: Quodcumque potest manus tua facere; instanter [al. constanter] operare: quia nec opus, nec ratio, nec sapientia est apud inferos, quo tu properas (Eccle. IX, 10). Porro de potentia, quae per libertatem complaciti datur, Evangelium sic loquitur: Ligatis manibus ac pedibus, projicite eum in tenebras exteriores (Matth. XXII, 13). Quid enim [ al. nempe] est manuum pedumque ligatio, nisi omnimoda potestatis ablatio?
+
+### 31.
+
+Sed dicit aliquis: Quomodo non est ibi aliquod Sapere, ubi mala quae tolerantur, cogunt poenitere malorum quae facta sunt? Nunquid aut in tormentis quispiam non poenitere; aut poenitere [col. 1017D] mali, non esse sapere potest? Hoc autem recte opponeretur, si opus tantum peccati, et non etiam voluntas mala puniretur. Nulli quippe dubium est, quod nemo in tormentis positus actum iterare peccati delectetur. Verumtamen si voluntas etiam in tormentis mala perdurat, quid ponderis habet operis abnegatio, ut ideo sapere quis putetur, quod jam in mediis flammis luxuriari non libeat? Denique: In malevolam animam non introibit sapientia (Sap. I, 4). [col. 1018A] Unde autem probabimus quod mala et in poenis voluntas perseveret? Certe, ut caetera omittam, nollent omnino puniri. Justum est autem puniri, qui punienda gesserunt. Nolunt igitur quod justum est. Sed qui non vult quod justum est, justa ejus voluntas non est. Eo ergo injusta, ac per hoc et mala est voluntas, quo justitiae non concordat. Duo sunt quae injustam comprobant voluntatem, vel cum peccare, vel cum impune peccasse libet. Quibus ergo peccare libuit quamdiu licuit; et cum jam non possunt, inultum manere volunt quod peccaverunt: quid in hoc sapientiae verae, quid bonae voluntatis apparet? Sed esto, poenitet eos peccasse: nunquid non tamen, si optio detur, malint adhuc peccare, quam poenam sustinere peccati? Et tamen illud iniquum est, hoc [col. 1018B] justum. Quando vero voluntas bona magis quod iniquum, quam quod justum est eligeret? Caeterum non vere poenitent, qui non tam dolent se sibi vixisse, quam hoc ipsum jam non posse. Denique foris ostenditur quid intus agatur. Nam quamdiu corpus vivi: in flamma, tamdiu constat in malitia persistere voluntatem. Itaque de similitudine, quae in consilii, et item complaciti libertate continetur, apud inferos penitus nihil est, nec esse potest, imagine tamen etiam illic per liberum arbitrium immobili permanente.

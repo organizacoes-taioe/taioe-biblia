@@ -1,0 +1,4 @@
+- Santo Agostinho, Quaestiones in Heptateuchum I (Gênesis): começa em Gn 4,17; no prólogo ele exclui de propósito Gn 1–3, «de quibus alias disseruimus» nos livros sobre o Gênesis (PL 34, 547–548).
+- Santo Agostinho, Locutiones in Heptateuchum I: sobre Gn 1 só notas de gramática da Vetus Latina (vv. 14, 20, 26, 28; PL 34, 485–486), nada de comentário.
+- Santo Agostinho, De Genesi ad litteram XII: não comenta o Gênesis (o paraíso de 2Cor 12,2-4 e as visões).
+- Santo Agostinho, Enarrationes in Psalmos: nenhuma comenta Gn 1 por si; só citações de passagem (Sl 103, 135 e 148 sobre a criação; ver as pistas).
