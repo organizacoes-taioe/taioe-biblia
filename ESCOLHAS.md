@@ -20,6 +20,10 @@ Deus», não «simplicidade» (2Cor 1, aprovado).
 - Salmos: numeração hebraica no título, com a grega e latina entre parênteses: «Salmo 33 (32)».
 - Expressão citada dentro do versículo, entre aspas angulares: «haja em mim o «sim, sim» e o «não, não»»
   (2Cor 1,17, pedido do Gere, 18/10).
+- Citação no meio da frase, que continua depois dela, também entre aspas angulares, como na Nova
+  Vulgata: 2Cor 4,6 (Deus, que disse: «Das trevas brilhe a luz», foi quem brilhou…) e 4,13 (… está
+  escrito: «Eu cri, por isso falei», também nós cremos…). A fala que fecha a frase continua sem
+  aspas, depois dos dois-pontos (2Cor 4).
 
 ## Nomes próprios: os da liturgia do Brasil
 
@@ -114,6 +118,11 @@ Vale para pessoas, povos e lugares, também nos comentários dos Padres.
 | *palaiá diathḗkē* | a antiga aliança | 2Cor 3,14 «na leitura da antiga aliança», em contraste com a «nova aliança» do v. 6; não «Antigo Testamento» | 2Cor 3, aprovado |
 | *katoptrízomai* | contemplar como num espelho | 2Cor 3,18 «contemplando como num espelho a glória do Senhor»; não «refletindo» | 2Cor 3, aprovado |
 | *diakonía*, *diákonos* | ministério, ministro | 2Cor 3,3–9; *parrēsía* = «franqueza» (3,12) | 2Cor 3, aprovado |
+| *ho theòs toû aiōnos toútou* | o deus deste mundo | 2Cor 4,4, como no lecionário e em Gl 1,4 e Ef 2,2; em 1Cor 1–2 a tradução de partida diz «século» (ver as inconsistências) | 2Cor 4 |
+| *ekkakéō* | desanimar | 2Cor 4,1.16 «não desanimamos; pelo contrário…» (o mesmo *allá* nos dois), como Ef 3,13 | 2Cor 4 |
+| *nékrōsis* | o morrer (de Jesus) | 2Cor 4,10, ao lado de «a vida de Jesus»; *thánatos* (vv. 11–12) é «a morte»; a Vulgata diz *mortificationem* | 2Cor 4, a confirmar |
+| *diaphtheírō* (o homem exterior) | desgastar-se | 2Cor 4,16 «se vá desgastando»; não «corromper», que hoje soa como corrupção moral | 2Cor 4 |
+| *hyperbolḗ* | grandeza extraordinária; «acima de toda medida» | 2Cor 4,7 «a grandeza extraordinária do poder»; 4,17 *kath' hyperbolḗn eis hyperbolḗn* | 2Cor 4 |
 
 ## Inconsistências conhecidas, para corrigir quando o capítulo entrar
 
@@ -123,3 +132,4 @@ Vale para pessoas, povos e lugares, também nos comentários dos Padres.
 - «Míriam» no Êxodo, em 1 Crônicas e em Miqueias → «Maria».
 - *Synergós*: «colaborador» em Rm 16 e Fl 2,25; 4,3 → «cooperador», como em 1Cor 3,9 e 2Cor 1,24; 6,1; 8,23 (2Cor 1, aprovado).
 - «Nun» → «Num» (o pai de Josué) em Êxodo, Deuteronômio, Josué e onde mais aparecer.
+- *Aiṓn* = «século» em 1Cor 1,20; 2,6–8 («os príncipes deste século»), mas «mundo» em 2Cor 4,4, Gl 1,4 e Ef 2,2: decidir com o Gere ao entrar 1 Coríntios («século» hoje se entende como cem anos).

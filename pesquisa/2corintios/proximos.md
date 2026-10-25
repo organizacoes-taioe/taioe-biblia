@@ -30,11 +30,13 @@ Levantado em 2026-10-20 a partir de `001/` e `002/` (relatórios, `fontes-*.md`,
 - Liturgia/Catecismo: a fórmula da absolvição («Deus, Pai de misericórdia, que reconciliou o mundo consigo…») ecoa **5,18-19** (Catecismo n. 1449; *Ordo Paenitentiae*): `../001/liturgia-2cor-1.md` § 3. Lecionário, domingos do ano B: **4,13–5,1**, **5,6-10**, **5,14-17**.
 - Agostinho, Sermão 23 (augustinus.it, `discorso_029`), 156 (`discorso_201`) e 378 (`discorso_547`) para o penhor; tabela completa do número do sermão em `pesquisa/fontes/paulo.md`.
 - (2Cor 3) 5,17: Crisóstomo, *Hom. «Si qua in Christo nova creatura»* (PG 64, 26; atribuição duvidosa). 5,18-20: João Paulo II, audiência 06/02/1991. 5,3-4: Macário, hom. 5, 10. 5,5 (o penhor do Espírito): Ambrosiaster (PL 17, 288C) e Haimo (PL 117, 622C–D).
+- (2Cor 4) 5,1-4: Tertuliano, *Contra Marcião* V, 12, 1–3 e *A ressurreição da carne* 41–43; Ambrósio, *O bem da morte* 3, 9 (termina com 5,1); Agostinho, *A Cidade de Deus* XIV, 3 (4,16 → 5,1); Crisóstomo, *Sobre a ressurreição dos mortos* (PG 50, 423–426) e *Habentes eundem spiritum* hom. 1, 1–2 (partem de 5,1); Irineu V, 13, 3 (5,4-5, contra os que negam a ressurreição da carne); Basílio, *Que não se deve prender às coisas do mundo*; Efrém, comentário, p. 95 (5,1: a casa terrestre é o corpo); Pseudo-Macário, *Hom.* 5, 9; *Lumen fidei* 57 (4,16–5,5). Missas pelos defuntos: **5,1.6-10** (não 4,14–5,1). 5,14-15: Teodoreto, *História religiosa* 31. Francisco de Sales, *Index scripturaire* (t. XXVII, p. 290): 5,1–21 em muitos lugares (relatório de modernos de `../004/`).
 
 ## 2Cor 6
 
 - Nada específico nos relatórios de 2Cor 1–2 para este capítulo. (Não consta dos relatórios, a conferir no Lecionário: 5,20–6,2 é a leitura da Quarta-feira de Cinzas.)
 - (2Cor 3) Francisco de Sales, *Index scripturaire*: v. 1 IV, 122.177; VIII, 349; v. 2 VII, 128; VIII, 44.219.229; IX, 132; XIII, 51; XVI, 133.
+- (2Cor 4) 6,9-10: Gregório, *Morais* X, 18, 35 (PL 75, 941A–B); Fulgêncio, *Ao rei Trasamundo* (PL 65, 292A); Tomás, l. 3. Liturgia das Horas, sábado da 16ª semana, **6,1–7,1** (Crisóstomo, hom. 13); Comum dos mártires, **6,4-10**.
 
 ## 2Cor 7
 
@@ -66,6 +68,7 @@ Levantado em 2026-10-20 a partir de `001/` e `002/` (relatórios, `fontes-*.md`,
 - Bento XVI, ciclo sobre a oração nas cartas de Paulo (maio–junho de 2012): a de 30/05/2012 é sobre 2Cor 1; as audiências vizinhas tratam Rm 8, **2Cor 12**, Fl 2, Ef 1 e Cl (`../001/fontes-modernos.md` § 3).
 - Liturgia: Lecionário, 14º domingo do ano B: **12,7-10** (`../002/liturgia-2cor-2.md` § 1).
 - (2Cor 3) Francisco de Sales, *Index scripturaire*: 12,9 em mais de vinte lugares, e 12,7-10.
+- (2Cor 4) 12,9-10: Jerônimo, Carta 108, 18 (Santa Paula: 12,10 com 4,7 e 1,5-7); Teodoreto, *História religiosa* 31, 9; Crisóstomo, hom. 9, 1 (PG 61, 460); Pseudo-Macário, *Sermones 64*, logos 40, 3 (citação curta). Missa pelos enfermos: **12,7b-10**.
 
 ## 2Cor 13
 
