@@ -44,6 +44,7 @@ Vale para pessoas, povos e lugares, também nos comentários dos Padres.
   Paulo, Timóteo, Silvano, Corinto, Acaia (2Cor 1); Tito, Trôade, Satanás (2Cor 2). Ásia, Macedônia, Judeia, o mar Vermelho e Horma,
   que a liturgia não lê nesses capítulos, ficaram como no projeto antigo (aprovado). Os doze exploradores de Nm 13,4–15,
   que a liturgia não lê, ficaram como no projeto antigo (aprovado). Coré, Datã, Abiram, On, Isaar,
+- Gn 2: Éden (como o lecionário); Píson, Havilá, Geon, Tigre, Assíria e Eufrates, que a liturgia não lê, como no projeto antigo; *Kush* = Etiópia (2,13), como em Nm 12.
   Caat, Felet e Eliab (Nm 16), que a liturgia não lê, ficaram como no projeto antigo (aprovado).
 
 ## Vocabulário
@@ -133,10 +134,10 @@ Vale para pessoas, povos e lugares, também nos comentários dos Padres.
 | *hyperbolḗ* | grandeza extraordinária; «acima de toda medida» | 2Cor 4,7 «a grandeza extraordinária do poder»; 4,17 *kath' hyperbolḗn eis hyperbolḗn* | 2Cor 4 |
 | *yehi* (Gn 1) | faça-se | «Faça-se a luz. E a luz se fez» (Gn 1,3, como o lecionário; o *yehi… vayhi* fica no eco «faça-se… se fez»); «Faça-se um firmamento» (1,6), «Façam-se luzeiros» (1,14); a tradução de partida dizia «a luz foi feita» e «Haja luzeiros» | Gn 1 |
 | *peru urevu* | Sede fecundos e multiplicai-vos | Gn 1,22.28, como 8,17; 9,1.7 e o lecionário; «Crescei e multiplicai-vos» (da Vulgata, *crescite*) só aparecia em 1,22.28 da tradução de partida | Gn 1 |
-| *tohu vavohu* | deserta e vazia | Gn 1,2, como o lecionário; Jr 4,23 («caos e vazio») e Is 34,11; 45,18 («caos») mudam ao entrarem | Gn 1, a confirmar |
+| *tohu vavohu* | deserta e vazia | Gn 1,2, como o lecionário; Jr 4,23 («caos e vazio») e Is 34,11; 45,18 («caos») mudam ao entrarem | Gn 1, aprovado |
 | *ruah elohim* (Gn 1,2) | o Espírito de Deus | com maiúscula, como o lecionário e a leitura dos Padres | Gn 1, a confirmar |
-| *mo'adim* (os astros) | os tempos | Gn 1,14 «sinais para marcar os tempos, os dias e os anos», como o Sl 104,19 | Gn 1, a confirmar |
-| *zakhar uneqeva* (o ser humano) | homem e mulher | Gn 1,27, como o lecionário, o Catecismo e Mt 19,4; Gn 5,2 muda ao entrar; nos animais (Gn 6–7) fica «macho e fêmea» | Gn 1, a confirmar |
+| *mo'adim* (os astros) | os tempos | Gn 1,14 «sinais para marcar os tempos, os dias e os anos», como o Sl 104,19 | Gn 1, aprovado |
+| *zakhar uneqeva* (o ser humano) | homem e mulher | Gn 1,27, como o lecionário, o Catecismo e Mt 19,4; Gn 5,2 muda ao entrar; nos animais (Gn 6–7) fica «macho e fêmea» | Gn 1, aprovado |
 | *raqia'* | firmamento | | projeto antigo |
 | *yabbasha* | o solo enxuto | Gn 1,9-10, como o lecionário; não «o seco» | Gn 1 |
 | *me'orot* | luzeiros; «o luzeiro maior», «o luzeiro menor» | Gn 1,14-16; Sl 136,7 | projeto antigo |
@@ -147,6 +148,20 @@ Vale para pessoas, povos e lugares, também nos comentários dos Padres.
 | *tselem* / *demut* | imagem / semelhança | «à nossa imagem, conforme a nossa semelhança» (Gn 1,26) | projeto antigo |
 | *kavash* / *radá* | submeter / dominar | «enchei a terra e submetei-a; dominai» (Gn 1,28, como o lecionário; a tradução de partida dizia «sujeitai-a») | Gn 1 |
 | *vayhi-erev vayhi-voqer yom ehad* | E houve tarde, e houve manhã: primeiro dia | o ordinal, sem artigo («segundo dia»… «quinto dia»), e «o sexto dia» com artigo, como o hebraico; a tradução de partida dizia «E houve tarde e manhã: dia primeiro» | Gn 1 |
+| *kalah* (Gn 2,1-2) | concluir | «Assim foram concluídos o céu e a terra… No sétimo dia concluiu Deus a obra», o eco do hebraico, como o lecionário; a tradução de partida dizia «acabados… completou» | Gn 2 |
+| *toledot* | a história | Gn 2,4 «Esta é a história do céu e da terra», como o lecionário; vale para 5,1; 6,9; 10,1; 11,10.27; 25,12.19; 36,1.9; 37,2 (a tradução de partida dizia «a origem», «as gerações», «a descendência») | Gn 2, a confirmar |
+| *YHWH elohim* | o Senhor Deus | Gn 2–3, como o lecionário | projeto antigo |
+| *'ed* (Gn 2,6) | uma fonte | como a Bíblia grega, a Vulgata e o lecionário; a tradução de partida dizia «um manancial» | Gn 2 |
+| *nefesh hayyá* (o homem, Gn 2,7) | alma vivente | «e o homem tornou-se alma vivente», como 1Cor 15,45; nos animais, «ser vivo» (Gn 1,20-24; 2,19) | estudo de *nefesh*, aprovado |
+| *gan be'eden* | um jardim em Éden; o jardim de Éden | Gn 2,8.15, como o lecionário | projeto antigo |
+| *ets hadda'at tov vara'* | a árvore do conhecimento do bem e do mal | Gn 2,9.17, como o lecionário | projeto antigo |
+| *hayyat hassade* | as feras do campo | Gn 2,19-20, como «as feras da terra» (1,24-25); a tradução de partida dizia «os animais do campo» no v. 19 | Gn 2 |
+| *'ezer kenegdo* | uma auxiliar que lhe corresponda | Gn 2,18.20; o lecionário diz «semelhante a ele» | Gn 2, a confirmar |
+| *ha'adam* (Gn 2–3) | o homem | com artigo, até 4,1; «Adão» desde 4,25 (o lecionário diz «Adão» desde 2,19) | Gn 2, a confirmar |
+| *ishshá* / *ish* (Gn 2,23) | mulher / homem | «Esta se chamará mulher, porque do homem foi tomada», com nota sobre o som do hebraico; a tradução de partida dizia «varoa… do varão» | Gn 2, a confirmar |
+| *zot happa'am* (Gn 2,23) | Esta, desta vez | «Esta, desta vez, é osso dos meus ossos»: a primeira, depois dos animais; a tradução de partida dizia «Esta, sim» | Gn 2 |
+| *banah* (Gn 2,22) | edificar | «o Senhor Deus edificou uma mulher», diferente de *yatsar*, «formar» (vv. 7.19); o lecionário diz «formou» | Gn 2, a confirmar |
+| *tardemá* / *tsela'* | sono profundo / costela | Gn 2,21-22; «fechou com carne o lugar dela» | projeto antigo |
 
 ## Inconsistências conhecidas, para corrigir quando o capítulo entrar
 

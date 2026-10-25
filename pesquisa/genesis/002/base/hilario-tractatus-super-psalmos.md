@@ -1,0 +1,46 @@
+# Santo Hilário, Tractatus super Psalmos
+- Autor: Santo Hilário de Poitiers (c. 315–367), bispo, Doutor da Igreja
+- Obra: Tractatus super Psalmos
+- Passagem: Sl 91, 1–3 (Gn 2,2: o sábado); Sl 118, letra Iod, 6–8 (Gn 2,7); Sl 129, 5 (Gn 2,7)
+- Edição: PL 9, 493D–495D; 565C–567A; 720C–721A
+- Fonte: https://mlat.uzh.ch/php_modules/download.php?idno=21450&type=file-txt
+- Cobre: só os parágrafos que citam Gn 2
+- Oriental: não
+- Língua: la
+- Baixado: 2026-10-25, Corpus Corporum; cortado na pesquisa de Gn 2 (grupo latinos), com scratchpad/g-latinos/gerar_base.py
+- Leitor: https://mlat.uzh.ch/browser/cps_2.HilPic.TrSuPs (abre a obra inteira)
+- Nota: O tratado do Sl 91 tem lacunas no manuscrito (os pontos no texto).
+
+---
+
+## In Psalmum XCI
+
+### 1.
+
+[col. 493D] Lex fide potius quam effectu profuit. --Bonum [col. 494A] est confiteri Domino, et psallere nomini tuo, Altissime, et reliqua. Post Legis tempora et cognitionem veritatis, convenit corpus ipsum potius, quam umbram corporis contueri. Lex enim eorum, quae in Domino nostro Jesu Christo implenda erant, speciem complectitur. Non ipsa veritas, sed in ea meditatio veritatis, utilis fide potius quam effectu, imitatione quam genere. Ea enim, quae observari praecepta 265 sunt, non virtute efficientiae ipsius utilia erant, sed observantium fide salutaria, ut sacrificiorum diversitates, et holocaustomatum religiones, et circumcisionis cura, et sabbati otium. Haec enim omnia et praetermissa culpam habebant, et gesta sub futurorum fide proderant, sicut ait beatus Apostolus: Prius autem quam veniret fides, sub lege conclusi [col. 494B] custodiebamur in ea fide quae incipiebat revelari. Itaque lex paedagoga nostra facta est in Christo, uti ex fide justificemur. At ubi venit fides, jam non sumus sub paedagogo; omnes enim filii estis fidei. (Gal. III, 23 et sqq.)Ergo quotienscumque aliquid ex lege relegitur, in opere praesentium mandatorum, speculum futurorum est contuendum. Et erat quidem congruum de singulis superius comprehensis afferre rationem; ut secundum Apostoli doctrinam universa intelligerentur fide futurorum potius quam virtute ipsius efficientiae profuisse: tamen in unum congesta omnia audientibus ne non tam cognitionem potius quam onus afferant, unam ex superioribus partem retractemus, et eam scilicet quae tempori necessaria est, id est, sabbati diei; quia ita psalmus inscribitur, Psalmus [col. 494C] cantici in die sabbati: ut cum per Scripturarum coelestium auctoritatem, quae ratio in sabbati requie contineatur, cognoverimus; parem caeterarum quoque rerum, quae in lege sunt, efficientiam sentiamus.
+
+### 2.
+
+Sabbatum Judaicum. Aliud in psalmis canitur. --Et de otio quidem diei hujus multa praecepta sunt. Nam et in ea Dominus perfecta mundi hujus soliditate requievit: scriptum est enim, Et requievit Deus in die septima ab omnibus operibus suis quae inchoavit facere (Gen. II, 2). Et rursum haec eadem sanctificatur in lege, adeo ut omne opus agi vetitum sit, sicut scribitur in Exodo: In mente habeto diem sabbatorum sanctificare eum: sex diebus operaberis, et facies omnia opera tua; septimoautem die sabbatum Domini Dei tui: [col. 494D] non facies in illa die ullum opus. (Exodi. XX, 8 et seq.) [col. 495A] Ergo sabbato et quies Dei est, et hominum otium. Sed quid hoc proficiet ad psalmum, in quo factura Dei gaudium est, et profundae cogitationes ejus et exoriendus peccator ut foenum, et justus ut palma florescens et multiplicandus ut cedrus? Nulla hic diei septimi requies, nullum humanorum operum otium decantatur. Ergo quia nihil in psalmo de requie hujus sabbati continetur; proprietas requietionis et sabbati, 266 quod in lege praescribitur, requirenda est in psalmis. Legimus itaque de impiis dictum, Sicut juravi in ira mea, si intrabunt in requiem meam. (Ps. XCIV, 11.)Deus in sacramenti religione confirmat, non adituros requiem suam: non ut opinor hujus sabbati requiem significat, in qua post mundi aedificationem scribitur quievisse. Nam solemnitatem ac laetitiam [col. 495B] diei hujus omnes Judaei in eam gloriantes introeunt, ex quibus necesse est plures in peccatis agere ac vivere: hanc enim diem ad quoddam testimonium dignationis in se Dei honorant. Si haec ergo Dei est requietionis dies, quod cum venia dictum sit, jam Deus mendax est, cum in se contumaces, in Filium parricidae, requiem diei hujus obtineant.
+
+### 3.
+
+Operari non cessat Deus. --Dehinc cum omnibus omnino, sine exceptione aliqua, nihil operis agere, sed in otio quiescere jussum sit; quomodo rursum Dominus sabbatum solvit, dicens, Nescitis quia sacerdotes in templo sabbatum violant, et sine crimine sunt? Ergo non haec quies est sabbati, nec hoc ejus otium est; cum quando non quiescentes in sabbato maledicti sint (Exod. XXXI, 14). . . [col. 495C] . . . . . . . . . . . . . . . . . sub legem firmitatis accipiens. Si sol signaque caetera cursus suos obeunt, et habent ab eo permanendi in his in quibus sunt substantiam, a quo in hos cursus atque in haec officia composita sunt: si terra fructus suos profert, materiem fecunditatis in dies sumens, per quam ei secundum temporum vicem quaedam fertilitatis natura subjecta est: si quotidie animarum origines et corporum figurationes occulta et incognita nobis divinae virtutis molitione procedunt: et magnum est muneris tanti dona sentire, cum tamen eorum institutio nesciatur. Sed haec etsi opus Dei sunt, verum in his labor est nullus. Et quamquam habeant ex auctore suo ac donante quod talia sunt, non tamen eum a quo orta, et per quem quotidie [col. 495D] talia sunt, defatigant.
+
+## In Psalmum CXVIII, littera X (Iod)
+
+### 6.
+
+Uno Dei jussu perfecta omnia, non homo. --Caeterorum omnium elementorum creatio eo ipso tempore [col. 566A] et instituta et effecta est, quo subsistere jubebatur: neque inchoationem eorum et perfectionem tempus aliquod 337 discernit; nam consummationem inchoatio in eo quod est coepta percepit. Homo vero, cum internam et externam in se naturam dissonantem aliam ab alia contineat, et ex duobus generibus in unum sit animal rationis particeps constitutus, duplici est institutus exordio. Primum enim dictum est: Faciamus hominem ad imaginem et similitudinem nostram (Gen. I, 26); dehinc secundo, Et accepit Deus pulverem de terra, et finxit hominem (Gen. II, 7).
+
+### 7.
+
+Facta illius ad imaginem Dei anima. Corpus deinde de terra formatum. --Primum opus non habet in se assumptae aliunde alterius naturae originem. Incorporale [col. 566B] est, quidquid illud tum de consilii sententia inchoatur: fit enim ad imaginem Dei. Non Dei imago; quia imago Dei est primogenitus omnis creaturae: sed ad imaginem Dei, id est, secundum imaginis et similitudinis speciem. Divinum in eo et incorporale condendum, quod secundum imaginem Dei et similitudinem tum fiebat: exemplum scilicet quoddam in nobis imaginis Dei est, et similitudinis institutum. Est ergo in hac rationali et incorporali animae nostrae substantia primum, quod ad imaginem Dei factum sit. Secundi vero operis efficientia quanto differt ab institutione prima ( f. primi)? Deus terrae pulverem accipit. Nam sumitur pulvis, et terrena materies formatur in hominem, vel praeparatur: et ex alio in aliud opere ac studio artificis expolitur. Primum [col. 566C] ergo non accepit, sed fecit: secundum non ut primum fecit, sed accepit; et tunc formavit vel praeparavit.
+
+### 8.
+
+Praeparatum etiam recte dici potest. Cur manibus Dei, non manu. --Utrumque autem intelligi recte potest, quia utrumque scriptum deprehendimus: ut formaverit in id quod est, corporis scilicet speciem; vel praeparaverit in id quod dicitur: Et inspiravit in eum spiritum vitae, et factus est homo in animam viventem (Gen. II, 7). Inspirationi ergo huic praeparatus sive formatus est: per quam natura animae et corporis in vitae perfectionem quodam inspirati spiritus foedere contineretur. Scit in se duplicem beatus Paulus esse naturam, cum secundum interiorem hominem delectatur in lege, et cum aliam in memsuis [col. 567A] videt legem quae se captivum ducat in lege peccati (Rom. VII, 22 et 23). Quod ergo fit secundum imaginem Dei, ad animi 338 pertinet dignitatem. Quod autem formatur ex terra, speciei corporis naturaeque primordium est. Et quia vel locutus ad alterum Deus intelligitur cum dicit, Faciamus hominem; vel triplex cognoscitur hominis facti praeformatique perfectio: cum et fit ad imaginem Dei, et formatur e terra, et inspiratione spiritus in viventem animam commovetur: idcirco manibus se factum et formatum, non manu tantum Propheta testatur, quia in constitutione sua non solitarii tantum, et eadem triplex fuisse docetur operatio.
+
+## In Psalmum CXXIX
+
+Hominem condendo tria egit. --Deus autem semper et in omnibus manens ubicumque idem, et ipse nusquam non totus, cum pulcherrimum opus perfecto jam mundo inchoaret, hominem scilicet ad imaginem sui faciens, eum ex humili natura coelestique composuit, anima videlicet et corpore. Et [col. 721A] prius quidem animam divino illo et incomprehensibili nobis virtutis suae opere constituit. Non enim cum ad imaginem Dei hominem fecit, tunc et corpus effecit. Genesis docet longe postea, quam ad imaginem Dei homo erat factus (Gen. II, 7), pulverem sumptum, formatumque corpus (Ibidem); dehinc rursum in animam viventem per inspirationem Dei factum, naturam hanc scilicet terrenam atque coelestem quodam inspirationis foedere copulatam.
