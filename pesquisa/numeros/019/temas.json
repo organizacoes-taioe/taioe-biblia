@@ -1,0 +1,189 @@
+{
+ "1": [
+  {
+   "id": "a-novilha-e-a-cruz",
+   "titulo": "A novilha e a cruz",
+   "versiculos": [
+    2,
+    3,
+    6,
+    9
+   ],
+   "resumo": "A leitura cristã mais antiga do rito: a novilha imolada e queimada é Jesus, e cada gesto anuncia a cruz e o perdão que vem dela.",
+   "itens": [
+    {
+     "id": "barnabe-8-a-novilha-e-jesus",
+     "texto": "Que figura pensais que há nisto: foi mandado a Israel que os homens em quem há pecados consumados oferecessem uma novilha, a imolassem e a queimassem; que depois meninos recolhessem a cinza e a pusessem em vasos, e prendessem num madeiro a lã escarlate (vede de novo a figura da cruz e a lã escarlate) e o hissopo; e que assim os meninos aspergissem o povo, um por um, para que ficassem purificados dos pecados? Entendei como ele vos fala com simplicidade. O novilho é Jesus; os homens pecadores que o oferecem são os que o levaram à imolação. [...] Os meninos que aspergem são os que nos anunciaram o perdão dos pecados e a purificação do coração; a eles o Senhor deu a autoridade do Evangelho, para pregarem, e eram doze, em testemunho das tribos, porque doze são as tribos de Israel. [...] A lã sobre o madeiro quer dizer que o reino de Jesus está sobre o madeiro, e que os que esperam nele viverão para sempre.",
+     "original": "Τίνα δὲ δοκεῖτε τύπον εἶναι, ὅτι ἐντέταλται τῷ Ἰσραὴλ προσφέρειν δάμαλιν τοὺς ἄνδρας, ἐν οἷς εἰσὶν ἁμαρτίαι τέλειαι, καὶ σφάξαντας κατακαίειν, καὶ αἴρειν τότε τὴν σποδὸν παιδία καὶ βάλλειν εἰς ἄγγη καὶ περιτιθέναι τὸ ἔριον τὸ κόκκινον ἐπὶ ξύλου–ἴδε πάλιν ὁ τύπος τοῦ σταυροῦ καὶ τὸ ἔριον τὸ κόκκινον–καὶ τὸ ὕσσωπον, καὶ οὕτως ῥαντίζειν τὰ παιδία καθ' ἕνα τὸν λαόν, ἵνα ἁγνίζωνται ἀπὸ τῶν ἁμαρτιῶν; Νοεῖτε, πῶς ἐν ἁπλότητι λέγει ὑμῖν. Ὁ μόσχος Ἰησοῦς ἐστίν, οἱ προσφέροντες ἄνδρες ἁμαρτωλοὶ οἱ προσενέγκαντες αὐτὸν ἐπὶ τὴν σφαγήν. [...] Οἱ ῥαντίζοντες παῖδες οἱ εὐαγγελισάμενοι ἡμῖν τὴν ἄφεσιν τῶν ἁμαρτιῶν καὶ τὸν ἁγνισμὸν τῆς καρδίας, οἷς ἔδωκεν τοῦ εὐαγγελίου τὴν ἐξουσίαν, οὖσιν δεκαδύο εἰς μαρτύριον τῶν φυλῶν (ὅτι δεκαδύο φυλαὶ τοῦ Ἰσραήλ), εἰς τὸ κηρύσσειν. [...] Ὅτι δὲ τὸ ἔριον ἐπὶ τὸ ξύλον, ὅτι ἡ βασιλεία Ἰησοῦ ἐπὶ ξύλου, καὶ ὅτι οἱ ἐλπίζοντες ἐπ' αὐτὸν ζήσονται εἰς τὸν αἰῶνα."
+    },
+    "teodoreto-quaest-num-35-a-novilha-vermelha-figura-da-paixao"
+   ]
+  },
+  {
+   "id": "vermelha-sem-defeito-sem-jugo",
+   "titulo": "Vermelha, sem defeito e sem jugo",
+   "versiculos": [
+    2
+   ],
+   "resumo": "Cada traço da novilha fala de Cristo: a carne frágil e sem pecado, a caridade que dá à luz a salvação, a cor do sangue; e houve quem visse nela a Virgem Maria.",
+   "itens": [
+    "agostinho-quaest4-33-a-novilha-e-a-carne-de-cristo",
+    "ruperto-innum2-5-a-caridade-materna-de-cristo",
+    "jaco-sarug-novilha-vermelha-a-cor-da-crucifixao",
+    "epifanio-panarion-30-a-novilha-figura-da-virgem"
+   ]
+  },
+  {
+   "id": "fora-do-arraial",
+   "titulo": "Fora do arraial, diante do sacerdote",
+   "versiculos": [
+    3,
+    4
+   ],
+   "resumo": "Cristo padeceu fora da porta, pelo mundo inteiro; o cristão o tem diante dos olhos e oferece ao Pai o seu sangue.",
+   "itens": [
+    "gregorio-paterio4-13-fora-do-arraial-diante-do-pai",
+    "lourenco-parasceve-fora-do-arraial-calvario",
+    "cirilo-glaphyra-num-ter-o-cristo-morto-diante-dos-olhos",
+    "granada-simbolo-fora-do-arraial-sete-aspersoes-calice"
+   ]
+  },
+  {
+   "id": "queimada-inteira",
+   "titulo": "Queimada inteira, com cedro, hissopo e carmesim",
+   "versiculos": [
+    5,
+    6
+   ],
+   "resumo": "A novilha queimada inteira é a entrega sem reservas de Cristo; o cedro, o hissopo e o carmesim têm a sua razão na Lei e o seu sentido na vida cristã.",
+   "itens": [
+    "granada-simbolo-vaca-queimada-inteira",
+    "agostinho-quaest4-33-cedro-hissopo-e-carmesim",
+    "tomas-sth1-2-q102-a5-ad5-por-que-uma-vaca-vermelha"
+   ]
+  },
+  {
+   "id": "impuros-ate-a-tarde",
+   "titulo": "Os que preparam a cinza ficam impuros",
+   "versiculos": [
+    7,
+    8,
+    10
+   ],
+   "resumo": "Quem toca o sacrifício que purifica fica impuro: ninguém é digno dos mistérios, e todos precisam do perdão até a tarde desta vida.",
+   "itens": [
+    "agostinho-quaest4-33-impuro-ate-a-tarde",
+    "cirilo-glaphyra-num-ninguem-e-digno-de-tocar-os-misterios",
+    "jaco-sarug-novilha-o-sacrificio-puro-torna-impuro"
+   ]
+  },
+  {
+   "id": "a-cinza-guardada",
+   "titulo": "A cinza guardada num lugar puro",
+   "versiculos": [
+    9
+   ],
+   "resumo": "O que fica do sacrifício se guarda na Igreja, para purificar: os méritos da Paixão nos sacramentos, o pão do Senhor.",
+   "itens": [
+    "granada-simbolo-cinza-guardada-sacramentos",
+    "jaco-sarug-novilha-a-cinza-no-lugar-puro-e-a-igreja"
+   ]
+  }
+ ],
+ "2": [
+  {
+   "id": "o-morto-e-o-pecado",
+   "titulo": "Tocar um morto: as obras mortas",
+   "versiculos": [
+    11,
+    13,
+    16
+   ],
+   "resumo": "O morto que contamina é o pecado: as obras mortas que mancham a consciência, os restos e a lembrança do mal já vencido.",
+   "itens": [
+    "crisostomo-hebr-15-obras-mortas-mancham-a-consciencia",
+    "ambrosio-inps118-3-11-13-todos-tocamos-um-morto",
+    "cirilo-glaphyra-num-o-osso-e-o-sepulcro"
+   ]
+  },
+  {
+   "id": "a-morte-ja-nao-contamina",
+   "titulo": "Desde Cristo, a morte já não contamina",
+   "versiculos": [
+    11,
+    16
+   ],
+   "resumo": "Jesus tocou os mortos e os ressuscitou; os cristãos honram os corpos dos que morreram na fé e festejam a morte dos santos.",
+   "itens": [
+    {
+     "id": "pseudo-justino-qro-28-cristo-tocou-o-caixao",
+     "texto": "Se o Senhor, repreendendo a piedade fingida dos fariseus, dizia que eles são sepulcros caiados, cheios de ossos de mortos e de toda impureza, e se na Lei quem tocava um morto era tido por impuro, [...] como é que Cristo não agiu contra uma e outra, quando, ao ressuscitar o filho da viúva, tocou o caixão, e tomou pela mão a filha de Jairo? [...] O Senhor não fez nada contrário nem à antiga nem à nova. Pois não estava sob a Lei quando ressuscitou os mortos de que fala a pergunta: desde o batismo o Senhor começou o modo de vida do Evangelho, que fica fora da observância da Lei; por isso não se contaminou ao tocar o morto. E, segundo a nova, só contaminam o homem os males que saem do coração; tocar um morto não contamina o homem."
+    },
+    "agostinho-bonoconj-20-23-sepultar-um-morto-e-boa-obra",
+    "didascalia-6-22-eliseu-o-corpo-santo-dos-que-adormeceram",
+    "damasceno-imagens-1-21-festejamos-a-morte-dos-santos"
+   ]
+  },
+  {
+   "id": "a-agua-e-o-batismo",
+   "titulo": "A água da purificação e o batismo",
+   "versiculos": [
+    12,
+    19
+   ],
+   "resumo": "A água que purificava por um tempo anunciava o batismo, que purifica de uma vez: a aspersão da Igreja chegou ao publicano, à pecadora e ao ladrão.",
+   "itens": [
+    "nazianzeno-or-40-11-mais-santas-que-a-cinza-da-novilha",
+    "cipriano-ep69-12-a-aspersao-e-o-batismo-dos-doentes",
+    "bruno-de-segni-innum19-quem-nasce-de-adao-tocou-um-morto",
+    "jaco-sarug-novilha-a-aspersao-da-igreja"
+   ]
+  },
+  {
+   "id": "o-vaso-sem-tampa",
+   "titulo": "O vaso sem tampa",
+   "versiculos": [
+    15
+   ],
+   "resumo": "O vaso destampado é a mente sem guarda, a boca que não sabe calar e quem vive para se mostrar.",
+   "itens": [
+    {
+     "id": "cirilo-glaphyra-num-o-vaso-sem-tampa",
+     "texto": "«Se uma casa ficar contaminada», diz a lei, «porque alguém morreu nela, ficam impuros os que entram nela.» Também é imundo todo objeto e todo vaso sem tampa; mas também estes se purificam do mesmo modo com a água da purificação, no terceiro e no sétimo dia. [...] Pois o homem é um vaso sobre a terra. Que a mente não está segura, mas muito pronta para as contaminações e para acolher qualquer coisa das que costumam fazer mal, a lei o insinua pelos vasos sem tampa, nos quais cai com facilidade o que quiser, sejam lagartixas ou outro bicho da casa. Mas não é assim a mente dos que foram justificados pela fé: ela é segura e tampada, e o que costuma fazer mal não consegue apanhá-la."
+    },
+    "ruperto-innum2-6-o-vaso-sem-tampa-e-o-segredo",
+    "gregorio-moralia23-10-17-o-vaso-sem-tampa-e-a-vaidade"
+   ]
+  },
+  {
+   "id": "a-cinza-a-agua-e-o-hissopo",
+   "titulo": "A cinza, a água e o hissopo",
+   "versiculos": [
+    17,
+    18
+   ],
+   "resumo": "A água tem força pela cinza, isto é, pela paixão de Cristo; a ela se unem as lágrimas de quem se arrepende e a fé.",
+   "itens": [
+    "boaventura-purificacao2-a-agua-e-a-cinza-da-paixao",
+    {
+     "id": "belarmino-salmo-50-cinza-agua-hissopo",
+     "texto": "«Tu me aspergirás com o hissopo, e serei purificado.» [...] O salmista alude à cerimônia descrita em Números, capítulo 19, onde se diz que para a expiação eram necessárias três coisas: a cinza da vaca ruiva imolada em holocausto, a água misturada com a cinza e o hissopo com que se aspergia a água. A cinza da vaca ruiva significa a morte de Cristo; a água, o batismo; o hissopo, a fé, pois o hissopo é uma erva humilde, que tem as raízes na pedra. Assim como naquela expiação figurada a água purificava, mas com a força que recebia da cinza da vaca imolada, e aspergida com o hissopo, assim também no batismo a água purifica, mas com a força que recebe da morte e do mérito de Cristo, e aplicada pela fé. [...] Para mostrar que o autor principal dessa expiação é Deus, Davi diz: «Tu me aspergirás com o hissopo», e não diz: «O sacerdote me aspergirá com o hissopo».",
+     "original": "Asperges me hyssopo, et mundabor [...]. Alludit autem ad caeremoniam, quae describitur Num. cap. XIX, ubi ad expiationem tria necessaria esse dicuntur, cinis vaccae rufae immolatae in holocaustum, aqua cineribus mixta: et hyssopus, quo aqua aspergebatur: per cinerem vaccae rufae significatur Christi mors; per aquam, baptismus; per hyssopum, fides: hyssopus enim herba est humilis, radices habens in petra. Sicut enim in illa expiatione typica, aqua mundabat, sed vim habens ex cineribus vaccae occisae, et per hyssopum aspersa: sic etiam in baptismo aqua mundat, sed vim habens ex morte et merito Christi, et per fidem applicata. [...] Et ut ostendat illius expiationis primarium auctorem esse Deum, dicit: «Asperges me hyssopo,» et non dicit: Asperget me sacerdos hyssopo."
+    }
+   ]
+  },
+  {
+   "id": "quem-asperge",
+   "titulo": "Quem asperge também fica impuro",
+   "versiculos": [
+    19,
+    21
+   ],
+   "resumo": "Quem purifica os outros também precisa de purificação: o confessor que carrega o peso do penitente, a Lei que espera a aurora de Cristo.",
+   "itens": [
+    "ruperto-innum2-6-quem-asperge-fica-impuro",
+    "teodoreto-quaest-num-36-impuros-ate-a-aurora-de-cristo"
+   ]
+  }
+ ]
+}

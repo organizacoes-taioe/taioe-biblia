@@ -15,6 +15,7 @@ principal do Gere, só leitura). Não entra aqui o que já está em `numeros/<cc
 - **Nm 6**: Nm 6,22-27 é a 1ª leitura da Missa de 1º de janeiro (Lecionário; relatórios de Nm 14–15, liturgia). Santo Antônio de Pádua, nos sermões latinos da Documenta Catholica Omnia (81 PDFs; as referências vêm como «(Num 6, …)»), cita Nm 6 (relatório de Nm 15, modernos).
 - **Nm 7**: o Catecismo cita Nm 7 (relatório de Nm 13, modernos).
 - **Nm 8**: Santo Antônio de Pádua cita Nm 8 (relatório de Nm 15, modernos).
+- **Nm 8,5–7**: Cipriano, *Carta* 69, 12, cita Nm 8 junto de Nm 19 (batismo por aspersão); Ruperto, *In Num.* cap. 20 (PL 167, 857D–858D) e Gerhoh, *Continuatio in Ps.* (PL 194, 31A–32A).
 - **Nm 9**: «Νόμος εἷς ἔσται» (Nm 9,14, a Páscoa e o prosélito): Cirilo, *De adoratione* XVII (PG 68, 1081); Pseudo-Crisóstomo, *In sanctum pascha sermo* 6 (espúrio, não usar) (relatório de Nm 15, gregos).
 - **Nm 10**: Santo Antônio de Pádua cita Nm 10 (relatório de Nm 15, modernos).
 
@@ -42,9 +43,13 @@ principal do Gere, só leitura). Não entra aqui o que já está em `numeros/<cc
 
 - Nm 18: além do que está em `base/` (Cirilo, *Fragmenta duo*; Teodoreto q. XXXIV; Orígenes H10–H11), a *Didascália* siríaca, caps. 8–9 (Gibson 1903, pp. 46–48, https://archive.org/details/didascaliaaposto00gibsuoft), cita Nm 18 por extenso e passa as primícias e os dízimos ao bispo, aos presbíteros e aos pobres (relatório de Nm 15, orientais).
 - Nm 18: feito em 24/10 (pesquisa própria em `018/`).
+- Nm 19: feito em 25/10 (pesquisa própria em `019/`; Jacó de Sarug tem um memra inteiro sobre a novilha, o 71 de Bedjan III).
 - **Nm 19** (pistas dos relatórios de Nm 18, seções «Para outros capítulos», com as colunas): Ruperto, *In Num.* II, 5 (a vaca vermelha, «a caridade materna de Cristo»; muito bom; em `018/base/`); Ivo, Sermões (PL 162, 511 e 544–549: a água da aspersão = o batismo); Pedro Damião, *Collectanea* (PL 145, 1038B–C: «rufa vitula caro est Salvatoris»); Herveu, *In Hebr.* 9; Epifânio, *Panarion* 30 (a novilha, figura da Virgem Maria; conferir); Eusébio, *Dem. ev.* I, 3; Efrém atribuído (Assemani I, 261 F–262); a *Didascália* VI, 18–23 no latim de Funk (o cristão não fica impuro por tocar um morto nem as relíquias). Hb 9,13 na Missa: 2ª leitura de Corpus Christi, ano B. O Ofício das Leituras (ciclo anual) salta os caps. 15–19.
 
 ## Nm 20–21
+
+- **Nm 20** (relatórios de Nm 19): Procópio, já em `019/base/` (só latim: quem purifica os outros participa da impureza deles, «como Moisés, irritado pela incredulidade do povo, foi levado a falar sem fé», Nm 20,10–12); Efrém atribuído, Assemani I, p. 262 C–D (Moisés bate na rocha outra vez quando a água já corria; https://archive.org/details/assemani-et-alii-1732-1746-ephraem-syri-opera-omnia-syr-1/page/n282/mode/1up); Jacó de Sarug, Bedjan III, p. 295 e 307 (a rocha que dá água; OCR, não conferido); pseudo-Jerônimo, *Breviarium in Psalmos* (PL 26, 1060C e 1143C: a «água da contradição» = o batismo recebido com hipocrisia); Santo Antônio de Pádua, sermões da Páscoa (`Sermo_013`, Nm 20,6–8) e dos Apóstolos Filipe e Tiago (`Sermo_072`, Nm 20,17.19).
+- **Nm 21** (relatórios de Nm 19): **Luís de Granada**, *Introducción del Símbolo de la Fe* III, II, 1, § XII, «Figura de la serpiente de metal» (ed. Cuervo, t. VII, pp. 208–210; https://archive.org/details/obrascue07luisuoft/page/n211/mode/2up), uma seção inteira, provável achado; Efrém atribuído, Assemani I, p. 262 D–F (Moisés reza pelos feridos e não por si); Santo Antônio, sermão da Invenção da Cruz (`Sermo_073`, Nm 21,6.8); Breviário antigo, Matinas da Exaltação da Cruz; Catecismo § 2130.
 
 - Jacó de Sarug: o OCR siríaco dos cinco volumes de Bedjan (`homiliaeselectae01jaco` a `05jaco`) dá para buscar sem as vogais (relatório de Nm 15, orientais): procurar ali antes de cada capítulo de Nm 20–25.
 
@@ -67,6 +72,8 @@ principal do Gere, só leitura). Não entra aqui o que já está em `numeros/<cc
 - **Nm 28–29**: Cirilo, *De adoratione* XVII (PG 68, 1081 ss.): as medidas «τέταρτον τοῦ ἵν» e «οἶνον εἰς σπονδήν» são de Nm 28–29 (relatório de Nm 15, gregos); o Catecismo cita Nm 28 (relatório de Nm 13); Pseudo-Atanásio, *De sabbatis et circumcisione* (PG 28, 136) cita Nm 28 (não Nm 15).
 
 ## Nm 30–36
+
+- **Nm 31,19–24** (relatórios de Nm 19): Cirilo, *De adoratione* (PG 68, 328–329: o terceiro dia é a purificação por Cristo, o sétimo, o fim do mundo); São Teodoro Estudita, *Carta* 51 (a penitência de quem matou na guerra vem de Nm 31,19); São Boaventura, Purificação, sermão 2 (Nm 31,23: nos perfeitos o fogo da caridade consome os pecados veniais «como uma gota de água numa fornalha»; `019/textos/boaventura-purificacao2-19.md`).
 
 - **Nm 30–31**: nada anotado.
 - **Nm 32**: Orígenes, hom. 26 sobre Números (Nm 32: «os dez que foram enviados com Jesus e Caleb»), já em `base/` (relatório de Nm 13, Orígenes e Agostinho).
