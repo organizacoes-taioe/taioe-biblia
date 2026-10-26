@@ -68,6 +68,9 @@ Sl 1, `cps02` Sl 2–10, `cps11` Sl 11–20, `cps21` 21–30, `cps31` 31–40, `
 Sl 51, `cps52` Sl 52–54. A página é ISO-8859-1; cada parágrafo é
 `<P TITLE="Super Psalmo 32 n. 1">` com número de referência `[87088]`.
 
+A *Suma* vem em blocos de questões, e o arquivo tem o nome da primeira questão do bloco: a II-II, q. 155–169,
+está em `sth3155.html` (`sth3163.html` não existe; Gn 3, 26/10).
+
 ## 1. Comentários de livro inteiro (Salmos)
 
 ### Cassiodoro, *Expositio Psalmorum* (c. 540–570)
