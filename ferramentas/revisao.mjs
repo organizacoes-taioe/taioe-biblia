@@ -4,7 +4,8 @@
 //   24/10) e os estudos de palavra de revisao/estudos/*.json;
 // - biblia-comentarios («Bíblia: comentários dos Padres», pedido dele, 19/10): à parte, para não
 //   misturar com o que é prioritário. Cada título de tema, cada resumo de tema e cada comentário
-//   que ele ainda não aprovou (`revisto`); os comentários continuam no site enquanto isso.
+//   que ele ainda não aprovou (`revisto`). Desde 26/10 só o aprovado vai ao site (gerar.mjs,
+//   `publicavel`): o capítulo sem escolha pendente, a nota aprovada e o comentário aprovado.
 // Sem textos explicativos nas páginas (ele é o único leitor, 19/10).
 //
 //   node ferramentas/revisao.mjs     grava ../infra/dados/paginas/biblia.json e biblia-comentarios.json
@@ -44,7 +45,8 @@ for (const l of livros) {
     });
 
     const ordem = new Map(c.texto.filter((v) => v.v !== undefined).map((v, i) => [String(v.v), i]));
-    // As notas que ele já aprovou (`revista: true`) ficam no site e saem da página; a letra é a do site.
+    // As notas que ele já aprovou (`revista: true`) vão ao site e saem da página; a letra é a da
+    // ordem de todas as notas do capítulo (no site, só as aprovadas têm letra).
     const notas = (c.notas || []).slice().sort((a, b) => ordem.get(String(a.v)) - ordem.get(String(b.v)))
       .map((n, i) => ({ ...n, letra: letra(i) })).filter((n) => !n.revista);
     if (notas.length) secoes.push({
@@ -99,7 +101,7 @@ function paraComentarios(c, l) {
       if (!rev.includes('titulo')) itens.push({ id: `${id}:tt:${t.id}:${x.id}`, tipo: 'tema-titulo', texto: x.titulo });
       if (x.resumo && !rev.includes('resumo')) itens.push({ id: `${id}:tr:${t.id}:${x.id}`, tipo: 'tema-resumo', texto: x.resumo });
       for (const it of x.itens) {
-        // Corte dele que muda o sentido: volta com o aviso e a sugestão (o site mostra a sugestão).
+        // Corte dele que muda o sentido: volta com o aviso e a sugestão (fora do site até a resposta).
         // O número da rodada entra no id, para não herdar a resposta anterior.
         const a = it.aviso_corte;
         if (a) itens.push({ id: `${id}:ca${a.n}:${t.id}:${x.id}:${it.id}`, tipo: 'comentario-aviso', autor: it.autor, obra: it.obra, passagem: it.passagem, link: it.link, corte: a.corte, aviso: a.aviso, sugestao: it.texto });
