@@ -134,6 +134,30 @@ function lerCapitulos() {
   return caps;
 }
 
+// O que o leitor vê (o Gere, 26/10: «as notas da bíblia e dos outros livros comentados só
+// apareçam para os usuários na medida em que eu os for confirmando»):
+// - o capítulo, só sem escolha de tradução esperando a resposta dele (`revisao.escolhas`);
+// - a nota, só aprovada: `revista`, ou o capítulo inteiro `revisado`;
+// - o comentário, só aprovado (`revisto`), e nunca o que voltou com aviso de corte;
+// - o tema, só com o título aprovado e algum comentário aprovado; o resumo, só aprovado.
+function publicavel(c) {
+  if (c.revisao && c.revisao.escolhas && c.revisao.escolhas.length) return null;
+  const comentarios = {};
+  for (const [tid, com] of Object.entries(c.comentarios || {})) {
+    const temas = [];
+    for (const x of com.temas || []) {
+      const rev = x.revisto || [];
+      const itens = x.itens.filter((it) => it.revisto && !it.aviso_corte);
+      if (!rev.includes('titulo') || !itens.length) continue;
+      const t = { ...x, itens };
+      if (!rev.includes('resumo')) delete t.resumo;
+      temas.push(t);
+    }
+    comentarios[tid] = { ...com, temas };
+  }
+  return { ...c, notas: c.notas.filter((n) => c.estado === 'revisado' || n.revista), comentarios };
+}
+
 // Letras das notas: a, b, …, z, aa, ab…
 const letra = (i) => (i < 26 ? String.fromCharCode(97 + i) : letra(Math.floor(i / 26) - 1) + letra(i % 26));
 
@@ -371,7 +395,7 @@ ${voltar(BASE, 'Bíblia Taioé')}
 const geradas = new Map();   // caminho relativo a public/biblia → conteúdo
 const gravar = (url, html) => geradas.set(path.join(...url.slice(BASE.length).split('/').filter(Boolean), 'index.html'), html);
 
-const caps = lerCapitulos();
+const caps = lerCapitulos().map(publicavel).filter(Boolean);
 gravar(BASE, paginaInicio(caps));
 gravar(`${BASE}leituras/`, paginaLeituras());
 geradas.set('404.html', pagina({ titulo: 'Página não encontrada · Bíblia Taioé', descricao: 'Página não encontrada.', corpo: `<article class="folha">
