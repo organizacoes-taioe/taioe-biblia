@@ -1,0 +1,260 @@
+{
+ "1": [
+  {
+   "id": "a-astucia-da-serpente",
+   "titulo": "A astúcia da serpente",
+   "versiculos": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "resumo": "Por trás da serpente está o inimigo invejoso, que não ataca com força, mas com uma pergunta, e deforma o mandamento até que ele pareça odioso.",
+   "itens": [
+    "ambrosio-paraiso-12-54-a-inveja-do-diabo",
+    "bernardo-diversos-22-3-deus-afirma-satanas-nega",
+    "francisco-de-sales-sermao-1622-exagera-a-proibicao"
+   ]
+  },
+  {
+   "id": "sereis-como-deus",
+   "titulo": "«Sereis como Deus»",
+   "versiculos": [
+    5
+   ],
+   "resumo": "A raiz da queda é a soberba: querer ser como Deus sem Deus, e tomar à força o que ele mesmo queria dar.",
+   "itens": [
+    "agostinho-civ-14-13",
+    "efrem-coment-gn-3-5-7-prometendo-a-divindade",
+    "leao-sermao-24-2-ocupar-em-vez-de-merecer"
+   ]
+  },
+  {
+   "id": "o-fruto-e-as-tentacoes",
+   "titulo": "O fruto e as tentações de Cristo",
+   "versiculos": [
+    6
+   ],
+   "resumo": "O primeiro mandamento foi um jejum; as tentações do jardim são as mesmas que Cristo venceu no deserto, e o fruto envenenado tem o seu remédio.",
+   "itens": [
+    {
+     "id": "basilio-jejum-1-3-o-primeiro-mandamento-foi-um-jejum",
+     "texto": "O jejum tem a idade da humanidade: foi dado como lei no paraíso. O primeiro mandamento que Adão recebeu foi este: «Da árvore do conhecimento do bem e do mal não comereis». Esse «não comereis» é uma lei de jejum e de domínio de si. Se Eva tivesse jejuado daquela árvore, não precisaríamos agora deste jejum. «Não são os que têm saúde que precisam de médico, mas os doentes.» Adoecemos pelo pecado; curemo-nos pela penitência; e penitência sem jejum não dá fruto. «Maldita é a terra; ela te produzirá espinhos e cardos.» Recebeste a ordem de viver em tristeza, e não em delícias: pelo jejum, apresenta a tua defesa diante de Deus. Porque não jejuamos, caímos do paraíso; jejuemos, então, para voltar a ele. Não vês como Lázaro entrou no paraíso pelo jejum? Não imites a desobediência de Eva; não aceites de novo como conselheira a serpente, que te sugere comer por pena da carne."
+    },
+    "gregorio-hom-ev-16-2-3-as-tres-tentacoes",
+    "efrem-hino-nat-26-9-o-veneno-e-o-remedio"
+   ]
+  },
+  {
+   "id": "os-olhos-se-abriram",
+   "titulo": "«Os olhos dos dois se abriram»",
+   "versiculos": [
+    7
+   ],
+   "resumo": "Os olhos se abrem para o mal que antes não conheciam: a graça que os vestia se foi, e as folhas de figueira são o começo da penitência.",
+   "itens": [
+    "agostinho-civ-14-17-2",
+    "newman-pps-5-8-a-graca-como-veste",
+    "ireneu-adv-haer-3-23-5-a-tanga-de-figueira"
+   ]
+  }
+ ],
+ "2": [
+  {
+   "id": "esconder-se-de-deus",
+   "titulo": "Esconder-se de Deus",
+   "versiculos": [
+    8
+   ],
+   "resumo": "Ninguém foge de Deus; e Deus, que se faz ouvir antes de chamar, dá ao culpado tempo para voltar.",
+   "itens": [
+    "efrem-coment-gn-3-8-9-os-passos-e-a-voz",
+    {
+     "id": "agostinho-conf-5-2",
+     "texto": "Para onde fugiram, quando fugiam da tua face? Ou onde não os encontras? Fugiram para não ver a ti, que os vês, e, cegos, tropeçar em ti (porque não abandonas nada do que fizeste): tropeçar em ti, eles, os injustos, e com justiça ser castigados, subtraindo-se à tua brandura, chocando-se com a tua retidão e caindo na tua severidade. Não sabem, é claro, que estás em toda parte, tu que nenhum lugar circunscreve, e que só tu estás presente também aos que se afastam de ti. Que se convertam, pois, e te procurem, porque tu não abandonaste a tua criatura como eles abandonaram o seu Criador. Que se convertam, e eis que estás ali, no coração deles, no coração dos que te confessam, se lançam em ti e choram no teu colo depois dos seus caminhos difíceis; e tu, com brandura, enxugas as suas lágrimas, e eles choram ainda mais e se alegram no pranto, porque tu, Senhor, não és um homem qualquer, de carne e sangue, mas tu, Senhor, que os fizeste, os refazes e consolas."
+    },
+    "maximo-turim-hom-53-adao-se-esconde-pedro-chora"
+   ]
+  },
+  {
+   "id": "onde-estas",
+   "titulo": "«Onde estás?»",
+   "versiculos": [
+    9,
+    10,
+    11
+   ],
+   "resumo": "Deus não pergunta por não saber: chama o homem para que veja onde caiu, e com essa pergunta começa a história da oração.",
+   "itens": [
+    "crisostomo-hom-gen-17-3-onde-estas",
+    "agostinho-civ-13-15-2",
+    "catecismo-2568-onde-estas-e-eis-que-venho"
+   ]
+  },
+  {
+   "id": "as-desculpas",
+   "titulo": "As desculpas",
+   "versiculos": [
+    12,
+    13
+   ],
+   "resumo": "O homem culpa a mulher, a mulher culpa a serpente, e os dois, no fundo, culpam Deus; nenhum diz «pequei».",
+   "itens": [
+    "agostinho-gnlitt-11-35-47",
+    {
+     "id": "gregorio-moralia-22-15-30-esconder-o-senhor",
+     "texto": "O primeiro homem, depois de tocar a árvore proibida, escondeu-se da face do Senhor entre as árvores do paraíso. […] Quando o Senhor o arguiu por ter tocado a árvore proibida, respondeu logo: «A mulher que me deste por companheira, ela me deu da árvore, e eu comi». E a mulher, interrogada, também respondeu: «A serpente me enganou, e eu comi». Tinham sido interrogados justamente para apagar, confessando, o pecado que tinham cometido transgredindo. […] O homem foi interrogado sobre onde estava para que olhasse a culpa cometida e, confessando, reconhecesse quão longe estava da face do seu Criador. Mas os dois preferiram arranjar para si os consolos da defesa a fazer a confissão, e aumentaram a culpa que tentaram defender: Adão atingiu de viés o próprio Senhor, como se ele fosse o autor do pecado, porque fizera a mulher; e Eva lançou a culpa sobre o Senhor, que pusera a serpente no paraíso. Tinham ouvido da boca do diabo enganador: «Sereis como deuses»; e, não podendo ser semelhantes a Deus na divindade, tentaram, para cúmulo do seu erro, fazer Deus semelhante a eles na culpa. Assim, enquanto se esforçam por defender o seu delito, fizeram com que a culpa, examinada, ficasse mais atroz do que tinha sido ao ser cometida. […] Por isso, ainda hoje os ramos do gênero humano tiram dessa raiz a amargura: quando alguém é repreendido pelo seu vício, esconde-se debaixo de palavras de defesa como debaixo de folhas de árvore e, como para os recantos sombrios da sua desculpa, foge da face do Criador, porque não quer que se saiba o que fez. Nesse esconderijo, não é ele que se esconde do Senhor, mas é o Senhor que ele esconde de si."
+    },
+    "bernardo-missus-est-2-3-a-arvore-da-vida"
+   ]
+  }
+ ],
+ "3": [
+  {
+   "id": "a-serpente-julgada",
+   "titulo": "A serpente julgada",
+   "versiculos": [
+    14
+   ],
+   "resumo": "À serpente Deus não faz perguntas, porque para ela não há penitência; e a terra que ela come é o homem que só tem gosto pelas coisas da terra.",
+   "itens": [
+    "efrem-coment-gn-3-13-15-a-serpente-sem-pergunta",
+    "agostinho-en103-4-11"
+   ]
+  },
+  {
+   "id": "porei-inimizade",
+   "titulo": "«Porei inimizade»",
+   "versiculos": [
+    15
+   ],
+   "resumo": "Deus volta contra a serpente a inimizade que ela quis pôr entre ele e o homem, e anuncia logo o remédio: o Redentor, nascido da mulher.",
+   "itens": [
+    "ireneu-adv-haer-4-40-3-a-inimizade-devolvida",
+    "leao-sermao-22-1-o-remedio-anunciado"
+   ]
+  },
+  {
+   "id": "eva-e-maria",
+   "titulo": "Eva e Maria",
+   "versiculos": [
+    15
+   ],
+   "resumo": "Os Padres viram na mulher da promessa a Virgem Maria: o que Eva perdeu pela desobediência, Maria recuperou pela fé e pela humildade.",
+   "itens": [
+    "justino-dialogo-100-eva-e-maria",
+    "montfort-tratado-52-53-uma-so-inimizade",
+    "romano-natividade-2-4-eva-ouve-maria"
+   ]
+  },
+  {
+   "id": "ele-te-dominara",
+   "titulo": "«Ele te dominará»",
+   "versiculos": [
+    16
+   ],
+   "resumo": "O domínio do marido não estava no princípio: veio do pecado e rompe a unidade dos dois, e o amor o desfaz.",
+   "itens": [
+    "crisostomo-sermao-gen-4-o-domino-temperado-de-amor",
+    "joao-paulo-ii-mulieris-dignitatem-10-ele-te-dominara"
+   ]
+  },
+  {
+   "id": "o-suor-do-rosto",
+   "titulo": "O suor do teu rosto",
+   "versiculos": [
+    17,
+    18,
+    19
+   ],
+   "resumo": "Cada pena responde à culpa; o trabalho continua um bem, agora com fadiga, e Cristo, vindo, enxuga o suor e arranca os espinhos.",
+   "itens": [
+    "efrem-coment-gn-3-17-19-o-suor-e-o-po",
+    "joao-paulo-ii-laborem-exercens-9-o-suor-do-rosto",
+    "afraates-dem-6-6-pela-vinda-do-filho-de-maria"
+   ]
+  },
+  {
+   "id": "es-po",
+   "titulo": "«És pó, e ao pó voltarás»",
+   "versiculos": [
+    19
+   ],
+   "resumo": "A morte é castigo e também misericórdia, que corta o pecado para que o mal não seja imortal; e quem se sabe pó descobre a grandeza de Deus que o sustenta.",
+   "itens": [
+    "nazianzeno-or-38-12-para-que-o-mal-nao-fosse-imortal",
+    "escriva-ad-110-memento-homo"
+   ]
+  }
+ ],
+ "4": [
+  {
+   "id": "mae-dos-viventes",
+   "titulo": "A mãe de todos os viventes",
+   "versiculos": [
+    20
+   ],
+   "resumo": "O nome de vida, dado logo depois da sentença de morte, era figura de Maria, de quem nasceu a própria Vida.",
+   "itens": [
+    "epifanio-panarion-78-18-maria-mae-dos-viventes",
+    "pedro-crisologo-sermao-74-mae-dos-viventes"
+   ]
+  },
+  {
+   "id": "as-tunicas-de-pele",
+   "titulo": "As túnicas de pele",
+   "versiculos": [
+    21
+   ],
+   "resumo": "Deus veste os que vai mandar embora: as túnicas são a mortalidade, posta por fora e por um tempo, e a ternura de um Pai.",
+   "itens": [
+    "francisco-aud-20150422-as-tunicas-de-pele",
+    "nissa-catequese-8-as-tunicas-e-o-vaso-refeito",
+    "beda-hexaemeron-1-gn3-21-tunicas-e-a-primeira-veste"
+   ]
+  },
+  {
+   "id": "a-arvore-da-vida-negada",
+   "titulo": "«Como um de nós» e a árvore da vida",
+   "versiculos": [
+    22,
+    23
+   ],
+   "resumo": "A promessa da serpente se volta contra o soberbo; e a árvore da vida lhe é negada por misericórdia, para que a miséria não fosse eterna.",
+   "itens": [
+    "agostinho-gnlitt-11-39-53",
+    "efrem-coment-gn-3-22-a-arvore-da-vida-negada"
+   ]
+  },
+  {
+   "id": "a-espada-e-o-ladrao",
+   "titulo": "A espada de fogo e o bom ladrão",
+   "versiculos": [
+    24
+   ],
+   "resumo": "Adão chora diante do paraíso fechado; na cruz, Cristo dá ao ladrão a chave, e a espada de fogo se inclina diante do seu Senhor.",
+   "itens": [
+    "liturgia-triodio-domingo-do-perdao-adao-expulso",
+    "cirilo-jer-cat-13-31-a-espada-reverencia-o-senhor",
+    "jaco-sarug-querubim-e-ladrao-o-ferrolho-de-adao"
+   ]
+  },
+  {
+   "id": "o-feliz-culpa",
+   "titulo": "«Ó feliz culpa»",
+   "versiculos": [
+    22,
+    24
+   ],
+   "resumo": "A Igreja lê a queda à luz da Páscoa: a árvore da morte deu lugar à árvore da cruz, e a culpa de Adão trouxe um tão grande Redentor.",
+   "itens": [
+    "agostinho-sermo-174-2",
+    "joao-da-cruz-cantico-b-23-a-arvore-da-cruz",
+    {
+     "id": "liturgia-exsultet-feliz-culpa",
+     "texto": "Ele pagou por nós ao Pai eterno a dívida de Adão e, com o seu sangue compassivo, apagou o título da antiga culpa. […] De nada nos teria servido nascer, se não nos tivesse servido ser resgatados. Ó admirável condescendência da tua bondade para conosco! Ó inestimável predileção do amor: para resgatar o escravo, entregaste o Filho! Ó pecado de Adão, verdadeiramente necessário, que a morte de Cristo apagou! Ó feliz culpa, que mereceu tal e tão grande Redentor!"
+    }
+   ]
+  }
+ ]
+}

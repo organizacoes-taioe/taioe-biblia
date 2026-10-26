@@ -138,5 +138,7 @@
  "São Teófilo de Antioquia": {"sobre": "bispo de Antioquia (séc. II), autor do primeiro comentário cristão aos seis dias da criação", "oriental": true},
  "Hugo de São Vítor": {"sobre": "cônego regular de São Vítor (Paris) (c. 1096–1141), teólogo", "oriental": false},
  "Leão XIII": {"sobre": "papa (1810–1903)", "oriental": false},
- "São Diádoco de Fótice": {"sobre": "bispo de Fótice, no Epiro (séc. V), escritor espiritual", "oriental": true}
+ "São Diádoco de Fótice": {"sobre": "bispo de Fótice, no Epiro (séc. V), escritor espiritual", "oriental": true},
+ "São Luís Maria Grignion de Montfort": {"sobre": "presbítero (1673–1716), missionário na França, fundador da Companhia de Maria", "oriental": false},
+ "São Romano, o Melodista": {"sobre": "diácono em Constantinopla (c. 490–c. 556), o maior poeta da hinografia bizantina", "oriental": true}
 }
