@@ -44,6 +44,7 @@ Vale para pessoas, povos e lugares, também nos comentários dos Padres.
   Paulo, Timóteo, Silvano, Corinto, Acaia (2Cor 1); Tito, Trôade, Satanás (2Cor 2). Ásia, Macedônia, Judeia, o mar Vermelho e Horma,
   que a liturgia não lê nesses capítulos, ficaram como no projeto antigo (aprovado). Os doze exploradores de Nm 13,4–15,
   que a liturgia não lê, ficaram como no projeto antigo (aprovado). Coré, Datã, Abiram, On, Isaar,
+- Gn 3: Eva e Éden, como o lecionário.
 - Gn 2: Éden (como o lecionário); Píson, Havilá, Geon, Tigre, Assíria e Eufrates, que a liturgia não lê, como no projeto antigo; *Kush* = Etiópia (2,13), como em Nm 12.
   Caat, Felet e Eliab (Nm 16), que a liturgia não lê, ficaram como no projeto antigo (aprovado).
 
@@ -162,6 +163,23 @@ Vale para pessoas, povos e lugares, também nos comentários dos Padres.
 | *zot happa'am* (Gn 2,23) | Esta, desta vez | «Esta, desta vez, é osso dos meus ossos»: a primeira, depois dos animais; a tradução de partida dizia «Esta, sim» | Gn 2 |
 | *banah* (Gn 2,22) | edificar | «o Senhor Deus edificou uma mulher», diferente de *yatsar*, «formar» (vv. 7.19); o lecionário diz «formou» | Gn 2, a confirmar |
 | *tardemá* / *tsela'* | sono profundo / costela | Gn 2,21-22; «fechou com carne o lugar dela» | projeto antigo |
+| *hayyat hassade* (Gn 3) | as feras do campo | Gn 3,1.14, como 2,19-20: «a mais astuta de todas as feras do campo»; a tradução de partida dizia «os animais do campo» no v. 1 | Gn 3 |
+| *behemá* (Gn 3,14) | animais domésticos | «maldita és entre todos os animais domésticos e entre todas as feras do campo», como 1,24-26 e o lecionário | Gn 3 |
+| *lo-mot temutun* | Certamente não morrereis | Gn 3,4, o eco de 2,17 («certamente morrerás»); a tradução de partida dizia «De modo nenhum morrereis» | Gn 3 |
+| *kelohim* (Gn 3,5) | como Deus | «e sereis como Deus, conhecedores do bem e do mal», como o lecionário e o Catecismo 398; a mesma palavra de «Deus sabe»; a Bíblia grega e a Vulgata dizem «como deuses» | Gn 3 |
+| *hagorot* (Gn 3,7) | tangas | como o lecionário; a tradução de partida dizia «cintas» | Gn 3 |
+| *qol YHWH* (Gn 3,8.10) | a voz do Senhor Deus | «Ouvi a tua voz no jardim»; o eco com 3,17 («ouviste a voz da tua mulher»); a tradução de partida dizia «o rumor» | Gn 3, a confirmar |
+| *leruah hayyom* | à brisa da tarde | Gn 3,8, como o lecionário (a Bíblia grega diz «à tarde»); a tradução de partida dizia «à brisa do dia» | Gn 3 |
+| *ma-zot asit* | Que é isto que fizeste? | Gn 3,13, como o hebraico; o lecionário diz «Por que fizeste isso?» | Gn 3 |
+| *shuf* (Gn 3,15) | ferir, nas duas metades | «esta te ferirá a cabeça, e tu lhe ferirás o calcanhar», como o lecionário; «esta» é a descendência (*hu*, com *zera'*); a tradução de partida dizia «esmagará» | Gn 3, a confirmar |
+| *'itsavon* (Gn 3,16-17) | sofrimento | «Multiplicarei os sofrimentos da tua gravidez»; «Com sofrimento dele comerás», a mesma palavra para a mulher e para o homem; *'etsev* = «dor» («com dor darás à luz»); a tradução de partida dizia «com fadiga» no v. 17 | Gn 3 |
+| *teshuqá* (Gn 3,16) | desejo | «O teu desejo será para o teu marido, e ele te dominará», como o hebraico; o lecionário diz «teus desejos te arrastarão para o teu marido» | Gn 3 |
+| *hitsmiah* (Gn 3,18) | fazer brotar | «Espinhos e cardos fará brotar para ti», o eco de 2,9 («fez brotar do solo toda árvore») | Gn 3 |
+| *ki-afar atta ve'el-afar tashuv* | pois és pó, e ao pó voltarás | Gn 3,19, como a fórmula das cinzas | projeto antigo |
+| *Havvá* | Eva | Gn 3,20, como o lecionário, com nota sobre o som de *hay* («vivente») | projeto antigo |
+| *shillah* / *garash* (Gn 3,23-24) | mandar para fora / expulsar | «o mandou para fora do jardim de Éden… Expulsou o homem»; a tradução de partida dizia «o lançou fora» | Gn 3 |
+| *lahat haherev hammithappekhet* | a chama da espada que se revolvia | Gn 3,24; a tradução de partida dizia «a chama da espada fulgurante»; *lishmor* = «guardar», como 2,15 | Gn 3 |
+| *keruvim* | querubins | Gn 3,24, com nota (anjos que guardam o lugar onde Deus está) | projeto antigo |
 
 ## Inconsistências conhecidas, para corrigir quando o capítulo entrar
 
