@@ -168,7 +168,7 @@ function montarTexto(c, notasPorV, botaoTrecho) {
   const ctx = `${c.livro} ${c.cap}`;
   let h = '', buf = [], modo = null, trecho = 0;
   const fechar = () => {
-    if (buf.length) h += modo === 'poesia' ? `<p class="poesia">${buf.join('')}</p>` : `<p class="par">${buf.join(' ')}</p>`;
+    if (buf.length) h += modo === 'poesia' ? `<p class="poesia">${buf.join(' ')}</p>` : `<p class="par">${buf.join(' ')}</p>`;
     buf = []; modo = null;
   };
   for (const v of c.texto) {
@@ -183,7 +183,7 @@ function montarTexto(c, notasPorV, botaoTrecho) {
     modo = tipo;
     const num = `<span class="num" id="v${esc(String(v.v).replace(/[^0-9a-z]/gi, ''))}">${esc(v.v)}</span>`;
     const partes = marcarNotas(v, notasPorV[v.v] || [], ctx);
-    if (v.l) buf.push(partes.map((ln, i) => `<span class="linha"><span class="calha">${i ? '' : num}</span><span class="txt">${ln}</span></span>`).join(''));
+    if (v.l) buf.push(partes.map((ln, i) => `<span class="linha"><span class="calha">${i ? '' : num}</span><span class="txt">${ln}</span></span>`).join(' '));
     else buf.push(num + partes[0]);
   }
   fechar();
@@ -243,7 +243,7 @@ function versosDoTema(c, vs) {
   const linhas = c.texto.filter((v) => v.v !== undefined && set.has(String(v.v)));
   if (!linhas.length) return '';
   return `<blockquote class="versos-tema">${linhas.map((v) => (v.l
-    ? `<p class="poesia">${v.l.map((ln, i) => `<span class="linha"><span class="calha">${i ? '' : `<span class="num">${esc(v.v)}</span>`}</span><span class="txt">${esc(ln)}</span></span>`).join('')}</p>`
+    ? `<p class="poesia">${v.l.map((ln, i) => `<span class="linha"><span class="calha">${i ? '' : `<span class="num">${esc(v.v)}</span>`}</span><span class="txt">${esc(ln)}</span></span>`).join(' ')}</p>`
     : `<p class="par"><span class="num">${esc(v.v)}</span>${esc(v.t)}</p>`)).join('')}</blockquote>`;
 }
 
