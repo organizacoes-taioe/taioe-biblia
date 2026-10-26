@@ -32,7 +32,8 @@ node ferramentas/importar.mjs <livro> <capítulo>      # ex.: salmos 34
 - O que for claro e seguro, corrigir direto (erro, palavra antiquada, eco perdido).
 - O que tiver solução menos óbvia vira **escolha** em `revisao.escolhas`: título, referência,
   contexto curto (o que diz o original, como está no resto, o que os Padres leem), duas ou três
-  opções, **uma** recomendada. O texto do site já leva a recomendada; se o Gere escolher outra, troca-se.
+  opções, **uma** recomendada. O texto leva a recomendada; se o Gere escolher outra, troca-se. O
+  capítulo com escolha pendente fica fora do site até ele responder todas (26/10; `gerar.mjs`, `publicavel`).
 - **Uma decisão por escolha** (o Gere, 24/10: «me mostre apenas questões pontuais, para eu decidir
   uma única coisa em cada pendência»): uma pergunta só, que ele responda escolhendo uma opção.
 - O que vale para a Bíblia inteira e tem alternativa de verdade vira escolha; o resto (correções
@@ -191,7 +192,11 @@ node ferramentas/revisao.mjs       # ../infra/dados/paginas/biblia.json e biblia
   escolhas de tradução e as notas (aprovar, alterar, excluir, com a explicação); cada resposta grava
   sozinha, no clique ou ao parar de digitar. Sem texto explicativo nem pergunta geral (19/10). A
   página põe no fim da fila o que ele já respondeu e o Claude ainda não aplicou (24/10).
-- **Os comentários dos Padres** entram direto no site (17/10), e desde 19/10 ele os revisa à parte,
+- **Só o aprovado vai ao site** (o Gere, 26/10): o capítulo, sem escolha pendente; a nota, com
+  `revista` (ou no capítulo revisado); o comentário, com `revisto` e sem `aviso_corte`; o tema, com o
+  título aprovado e algum comentário aprovado, e o resumo só aprovado. O merge vai normalmente: o
+  `gerar.mjs` esconde o resto. Nota nova num capítulo revisado: o capítulo volta a «em revisão».
+- **Os comentários dos Padres** ele revisa à parte (desde 19/10),
   no tipo «Bíblia: comentários dos Padres», para não misturar com o que é prioritário: cada título de tema e
   cada texto (`resumo`) de tema (aprovar ou editar), cada comentário (aprovar, cortar ou excluir).
   O que ele aprova ganha `revisto` (no tema, a lista `["titulo", "resumo"]`; no comentário, `true`)
@@ -208,8 +213,8 @@ bash ferramentas/respostas.sh marcar <arquivo> # depois de aplicar: marca como l
 ```
 
 - Aplicar cada resposta no `conteudo/`, gerar, conferir, publicar, marcar como lidas.
-  Escolha respondida: sai de `revisao.escolhas`. Nota aprovada: `"revista": true` (fica no site e sai
-  da página, que guarda a letra do site); excluída: sai de `notas`.
+  Escolha respondida: sai de `revisao.escolhas`. Nota aprovada: `"revista": true` (vai ao site e sai
+  da página); excluída: sai de `notas`.
 - Toda explicação do Gere que ensine algo para os próximos capítulos vai, resumida, para
   `revisao/aprendizado.md` (o que ele corrigiu, a regra que se tira disso). Escolhas aprovadas
   para a Bíblia inteira vão para `ESCOLHAS.md`.
@@ -226,7 +231,7 @@ bash ferramentas/respostas.sh marcar <arquivo> # depois de aplicar: marca como l
   depois) contra o original. Se o corte mudou o sentido ou deixou a frase manca, não corrigir por
   conta própria (pedido dele, 19/10): `node ferramentas/aplicar-comentarios.mjs --avisos <avisos.json>`
   com `[{"item": "<id c: do corte>", "aviso": "o que mudou", "sugestao": "o corte acertado, o mínimo"}]`.
-  O site passa a mostrar a sugestão, e o comentário volta às pendências com o corte
+  O comentário sai do site e volta às pendências com o corte
   dele, o aviso e a sugestão, para ele aprovar a sugestão, manter o corte, editar ou excluir
   (`aviso_corte` no comentário; a resposta vem como `<cap>:ca<n>:…` e o mesmo script a aplica).
   Ele responde tudo um por um: a página não tem «aprovar todos» (19/10).
