@@ -2,6 +2,7 @@
    - a barra de cima: letra menor e maior, modo claro ou escuro, e as leituras;
    - as leituras: pontos de leitura com nome que acompanham o leitor (a posição muda conforme ele
      lê, e a leitura reabre no último ponto). Ficam só neste navegador, com o prefixo «biblia:»;
+   - os versos que não cabem na linha: a continuação vai junto à margem direita;
    - as notas: abrem coladas à linha da marca e somem com qualquer toque ou rolagem. Sem
      JavaScript, a marca da nota é um link para a lista de notas no fim do capítulo. */
 (function () {
@@ -191,6 +192,30 @@
       abrirLeitura(x);
     });
     montarLeituras();
+  }
+
+  // ------------------------------------------------------------ versos que quebram
+
+  // O verso que não cabe na linha ganha a classe «quebrado», e a continuação vai junto à margem
+  // direita. Na tela estreita a poesia vira prosa (o CSS põe o verso em linha) e não há o que medir.
+  var versos = document.querySelectorAll('.poesia .linha > .txt');
+  function medirVersos() {
+    for (var i = 0; i < versos.length; i++) {
+      var t = versos[i], cs = getComputedStyle(t);
+      var lh = parseFloat(cs.lineHeight) || parseFloat(cs.fontSize) * 1.45;
+      t.classList.toggle('quebrado', cs.display !== 'inline' && t.offsetHeight > lh * 1.5);
+    }
+  }
+  if (versos.length) {
+    medirVersos();
+    if (window.ResizeObserver) {
+      var poemas = document.querySelectorAll('.poesia');
+      var obs = new ResizeObserver(medirVersos);
+      for (var j = 0; j < poemas.length; j++) obs.observe(poemas[j]);
+    } else {
+      window.addEventListener('resize', medirVersos);
+    }
+    if (document.fonts && document.fonts.ready) document.fonts.ready.then(medirVersos);
   }
 
   // ------------------------------------------------------------ notas

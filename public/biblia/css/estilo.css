@@ -178,17 +178,24 @@ a.cap:hover { background: var(--realce); color: var(--papel); }
 
 .texto .num { font-family: var(--sans); font-size: .55em; color: var(--realce); vertical-align: super; margin-right: .3em; }
 .par { margin: 0 0 .85em; text-align: justify; hyphens: auto; -webkit-hyphens: auto; }
-/* Poesia: todas as linhas começam na mesma margem; o número fica numa calha à esquerda, e o
-   recuo maior é só para a linha que transborda numa tela estreita (regra do projeto antigo). */
+/* Poesia: todas as linhas começam na mesma margem; o número fica numa calha à esquerda. O verso
+   que não cabe na linha continua junto à margem direita (a classe «quebrado» vem do biblia.js). */
 .poesia { margin: 0 0 .85em; hyphens: none; }
 .poesia .linha { display: flex; align-items: flex-start; }
 .poesia .linha > .calha { flex: 0 0 1.9em; text-align: right; padding-right: .45em; }
 .poesia .linha > .calha .num { margin-right: 0; vertical-align: baseline; font-size: .55em; }
 .poesia .linha > .txt { flex: 1 1 auto; min-width: 0; padding-left: 1.1em; text-indent: -1.1em; }
+.poesia .linha > .txt.quebrado { text-align-last: right; }
 @media (max-width: 700px) {
   main { padding: 0 .7em 4em; }
   .poesia .linha > .calha { flex-basis: 1.15em; padding-right: .25em; }
   .poesia .linha > .txt { padding-left: .8em; text-indent: -.8em; }
+}
+/* No celular em pé, a poesia vira prosa: um verso depois do outro, e cada estrofe um parágrafo. */
+@media (max-width: 600px) {
+  .poesia { text-align: justify; hyphens: auto; -webkit-hyphens: auto; }
+  .poesia .linha, .poesia .linha > .calha, .poesia .linha > .txt { display: inline; padding: 0; text-indent: 0; }
+  .poesia .linha > .calha .num { vertical-align: super; margin-right: .3em; }
 }
 
 .nota-ref {
