@@ -45,7 +45,13 @@ As pistas abaixo ficam como registro.
     Bento XVI, 06/02/2013, 6º–7º §§; Catecismo 396–400 (o 396, sobre a árvore, ficou de fora de Gn 2); o 1º domingo da
     Quaresma, ano A (Gn 2,7-9; 3,1-7).
 
-## Gn 4 (da pesquisa de Gn 3, relatórios `genesis/003/relatorio-*.md`)
+## Gn 4
+
+Feito em 2026-10-26 (`genesis/004/`): 49 comentários de 78 achados; os 29 de fora estão nos `achados-*.json` de lá (entre
+eles Ireneu IV, 18, 3, Afraates, Dem. 4, 2, o fogo do céu sobre a oferta de Abel, Efrém, *Nisibenos* 61 e 71, em que fala a
+Morte, e o *Liber Graduum* 9, 11, que precisa entrar em `ferramentas/autores.json`). As pistas abaixo ficam como registro.
+
+### Pistas que a pesquisa de Gn 3 deixou
 
 - Agostinho, *Civ.* XIV, 14 (Adão e Eva não negam o que fizeram, «como Caim», mas jogam a culpa em outro, 4,9).
 - Gregos: Crisóstomo, *Hom.* 18, 6 («Por que estás triste?»: Deus estende a mão a Caim como a Adão no «Onde estás?»);
@@ -86,3 +92,30 @@ As pistas abaixo ficam como registro.
 ## Gn 27
 
 - Ambrósio, *De paradiso* 14, 72: a «servidão» de Esaú ao irmão como bênção.
+
+## Gn 5 (da pesquisa de Gn 4, relatórios `genesis/004/relatorio-*.md`)
+
+- Agostinho, *Civ.* XV, 19 (Henoc arrebatado, 5,24) e XV, 21 (a recapitulação das duas cidades, 5,1-3); *En. in Ps.* 128,
+  2 («houve um tempo em que a Igreja estava só em Henoc»).
+- Teodoreto q. 45 (Henoc transladado, sinal da ressurreição) e q. 46 (por que Abel morreu antes de Adão), já em
+  `004/base/`; Crisóstomo, *Hom. in Hebr.* 22, 2 (a fé de Henoc); Cirilo, *Glaphyra* 4 (os anos de Set contados, os de
+  Caim não).
+- Ruperto IV, 10 e Beda (PL 91, 73B): Henoc, o sétimo depois de Adão, contra Henoc, filho de Caim; Jerônimo, *Ep.* 36, 7.
+- João Paulo II, audiência de 12/03/1980, n. 6 (Set gerado «à sua imagem»); *Evangelium vitae* 43 (5,1-3).
+- Efrém, *Comentário*, Assemani I, p. 47 ss.; Jacó de Sarug, memra IV sobre Caim e Abel, p. 60 (Bedjan V; mapa em
+  `004/base/jaco-de-sarug-caim-e-abel.md`).
+
+## Gn 6–11 (da pesquisa de Gn 4)
+
+- Gn 6,1-4: Agostinho, *Civ.* XV, 22–23; Afraates, Dem. 13, 5–7; Efrém, *Nisibenos* 1, 4 e *Comentário*, p. 45–48 (as filhas de
+  Caim e os filhos de Set). Gn 6,6: Agostinho, *Locutiones* I («repensou»).
+- Gn 6–9: Beda (PL 91, 74D–75A, o dilúvio e as artes, Mt 24,38); Pedro Crisólogo, Sermão 147; Crisóstomo, *A Estagírio* II;
+  Nissa, *Grande catequese* 29; *Laudato si'* 70; Francisco, audiência de 27/05/2020 (Noé).
+- Gn 11: Newman, PPS VII, 18 (a torre de Babel e o saber do mundo).
+
+## Gn 22, 27 e 37 (da pesquisa de Gn 4)
+
+- Gn 22: Ambrósio, *De Cain et Abel* I, 8, 29–31 (Abraão «levantou-se de manhã», contra o «depois de muitos dias» de Caim).
+- Gn 27 e 37: Clemente Romano, *1 Clem* 4, 8-9 (o ciúme fez Jacó fugir e José ser vendido), em `004/base/`; Escrivá,
+  Carta 8, 60 (os irmãos de José).
+- Gn 3 (para o enxugo, se for preciso): Tertuliano, *De patientia* 5, e Zenão, *Tract.* I, 6, 3 (a queda pela impaciência).
