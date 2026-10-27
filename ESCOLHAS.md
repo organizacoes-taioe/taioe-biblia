@@ -45,6 +45,7 @@ Vale para pessoas, povos e lugares, também nos comentários dos Padres.
   que a liturgia não lê nesses capítulos, ficaram como no projeto antigo (aprovado). Os doze exploradores de Nm 13,4–15,
   que a liturgia não lê, ficaram como no projeto antigo (aprovado). Coré, Datã, Abiram, On, Isaar,
 - Gn 3: Eva e Éden, como o lecionário.
+- Gn 4: Adão, Eva, Caim, Abel e Set, como o lecionário; Nod, Henoc, Irad, Maviael, Matusael, Lamec, Ada, Sela, Jabel, Jubal, Tubalcaim e Noema, que a liturgia não lê, como no projeto antigo; *Enosh* = Enós (o projeto antigo dizia «Enos»; Gn 5 muda ao entrar).
 - Gn 2: Éden (como o lecionário); Píson, Havilá, Geon, Tigre, Assíria e Eufrates, que a liturgia não lê, como no projeto antigo; *Kush* = Etiópia (2,13), como em Nm 12.
   Caat, Felet e Eliab (Nm 16), que a liturgia não lê, ficaram como no projeto antigo (aprovado).
 
@@ -180,6 +181,25 @@ Vale para pessoas, povos e lugares, também nos comentários dos Padres.
 | *shillah* / *garash* (Gn 3,23-24) | mandar para fora / expulsar | «o mandou para fora do jardim de Éden… Expulsou o homem»; a tradução de partida dizia «o lançou fora» | Gn 3 |
 | *lahat haherev hammithappekhet* | a chama da espada que se revolvia | Gn 3,24; a tradução de partida dizia «a chama da espada fulgurante»; *lishmor* = «guardar», como 2,15 | Gn 3 |
 | *keruvim* | querubins | Gn 3,24, com nota (anjos que guardam o lugar onde Deus está) | projeto antigo |
+| *qaniti ish et-YHWH* | Adquiri um homem com a ajuda do Senhor | Gn 4,1, como o lecionário («com a ajuda»), a Bíblia grega e a Vulgata; «adquiri» guarda o som de «Caim» (nota); a tradução de partida dizia «um varão com o auxílio» | Gn 4 |
+| *oved adama* | cultivar o solo | Gn 4,2.12, como 2,5.15 e 3,23 («Caim cultivava o solo»); a tradução de partida dizia «lavrador do solo» | Gn 4 |
+| *minhá* (Gn 4) | oferta | Gn 4,3-5, como Nm 16,15 («Não olhes para a oferta deles»); a tradução de partida dizia «oblação» no v. 3; nos rituais do Levítico e de Nm 18,9 fica «oblação» | Gn 4 |
+| *sha'a el* | olhar para | Gn 4,4-5 «O Senhor olhou para Abel e para a sua oferta», como o lecionário; a tradução de partida dizia «olhou com agrado» | Gn 4 |
+| *naflu fanav* | o rosto se abateu | Gn 4,5-6; *se'et* (4,7) = «levantar o rosto», o contraste | Gn 4 |
+| *hattat rovets* | o pecado está à porta, à espreita | Gn 4,7, sem o «tua» que a tradução de partida acrescentava («à tua espreita»); «o seu desejo será para ti», o eco de 3,16 | Gn 4 |
+| *timshal-bo* (Gn 4,7) | tu deves dominá-lo | «e tu o dominarás» é a Vulgata; o lecionário diz «poderás dominá-lo» | Gn 4, a confirmar |
+| *vayyomer qayin el-hevel* (Gn 4,8) | Caim falou com Abel, o seu irmão | o hebraico não diz o que ele disse; a Bíblia grega, a Vulgata, a Nova Vulgata e o lecionário acrescentam «Vamos ao campo»; *vayyaqam el* = «se levantou contra» | Gn 4, a confirmar |
+| *shomer* (Gn 4,9) | guarda | «Acaso sou eu o guarda do meu irmão?», como o lecionário; o verbo de 2,15 («para o cultivar e o guardar») | projeto antigo |
+| *arur atta min-ha'adama* | maldito és tu, longe do solo | Gn 4,11, como «maldita és» (3,14); o lecionário diz «serás amaldiçoado pela terra» | Gn 4 |
+| *na' vanad* | errante e fugitivo | Gn 4,12.14; *ba'arets* = «na terra» (*adama* é o solo) | projeto antigo |
+| *gadol avoni minneso* (Gn 4,13) | A minha iniquidade é grande demais para ser carregada | como *nasa 'avon* = «carregar a iniquidade» (Nm 14,34; 18,1); o lecionário diz «Meu castigo é grande demais», a Bíblia grega e a Vulgata «para ser perdoada» | Gn 4, a confirmar |
+| *gerashta* (Gn 4,14) | expulsar | «Eis que hoje me expulsas da face do solo», como 3,24 («Expulsou o homem») e o lecionário; a tradução de partida dizia «me lanças» | Gn 4 |
+| *lakhen… shiv'atayim yuqqam* (Gn 4,15) | Por isso, quem matar Caim sofrerá sete vezes a vingança | como o hebraico (*lakhen*); a Bíblia grega, a Vulgata e o lecionário dizem «Não!» (*lo ken*); «será vingado», do assassino, diria o contrário; *ot* = «sinal» | Gn 4 |
+| *bone ir* (Gn 4,17) | estava edificando uma cidade | *banah* = «edificar», como 2,22 (a confirmar ali) | Gn 4 |
+| *shiv'im veshiv'a* (Gn 4,24) | setenta e sete | como o hebraico; a tradução de partida dizia «setenta vezes sete» (Mt 18,22, onde o grego é ambíguo: decidir ao entrar Mateus) | Gn 4 |
+| *lehabburati* (Gn 4,23) | por um golpe | «matei um homem por me ferir, / e um jovem por um golpe» (pelo Versificador); a tradução de partida dizia «por me pisar» | Gn 4 |
+| *zera' aher* (Gn 4,25) | outra descendência | a mesma palavra de 3,15 («a descendência dela») | projeto antigo |
+| *az huhal liqro beshem YHWH* | Foi então que se começou a invocar o nome do Senhor | Gn 4,26 | projeto antigo |
 
 ## Inconsistências conhecidas, para corrigir quando o capítulo entrar
 
@@ -191,4 +211,5 @@ Vale para pessoas, povos e lugares, também nos comentários dos Padres.
 - «Nun» → «Num» (o pai de Josué) em Êxodo, Deuteronômio, Josué e onde mais aparecer.
 - Gênesis 1 (25/10): conforme as escolhas, Jr 4,23 e Is 34,11; 45,18 (*tohu*), Gn 5,2 («macho e fêmea»),
   Sl 104,19 (*mo'adim*) e os lugares do Espírito de Deus no Antigo Testamento.
+- Gênesis 4 (26/10): «Enos» → «Enós» em Gn 5 e onde mais aparecer; Mt 18,22 («setenta vezes sete» ou «setenta e sete») ao entrar Mateus.
 - *Aiṓn* = «século» em 1Cor 1,20; 2,6–8 («os príncipes deste século»), mas «mundo» em 2Cor 4,4, Gl 1,4 e Ef 2,2: decidir com o Gere ao entrar 1 Coríntios («século» hoje se entende como cem anos).
