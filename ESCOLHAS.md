@@ -137,7 +137,7 @@ Vale para pessoas, povos e lugares, também nos comentários dos Padres.
 | *yehi* (Gn 1) | faça-se | «Faça-se a luz. E a luz se fez» (Gn 1,3, como o lecionário; o *yehi… vayhi* fica no eco «faça-se… se fez»); «Faça-se um firmamento» (1,6), «Façam-se luzeiros» (1,14); a tradução de partida dizia «a luz foi feita» e «Haja luzeiros» | Gn 1 |
 | *peru urevu* | Sede fecundos e multiplicai-vos | Gn 1,22.28, como 8,17; 9,1.7 e o lecionário; «Crescei e multiplicai-vos» (da Vulgata, *crescite*) só aparecia em 1,22.28 da tradução de partida | Gn 1 |
 | *tohu vavohu* | deserta e vazia | Gn 1,2, como o lecionário; Jr 4,23 («caos e vazio») e Is 34,11; 45,18 («caos») mudam ao entrarem | Gn 1, aprovado |
-| *ruah elohim* (Gn 1,2) | o Espírito de Deus | com maiúscula, como o lecionário e a leitura dos Padres | Gn 1, a confirmar |
+| *ruah elohim* (Gn 1,2) | o Espírito de Deus | com maiúscula, como o lecionário e a leitura dos Padres | Gn 1, aprovada pelo Gere em 31/10 |
 | *mo'adim* (os astros) | os tempos | Gn 1,14 «sinais para marcar os tempos, os dias e os anos», como o Sl 104,19 | Gn 1, aprovado |
 | *zakhar uneqeva* (o ser humano) | homem e mulher | Gn 1,27, como o lecionário, o Catecismo e Mt 19,4; Gn 5,2 muda ao entrar; nos animais (Gn 6–7) fica «macho e fêmea» | Gn 1, aprovado |
 | *raqia'* | firmamento | | projeto antigo |
@@ -151,28 +151,28 @@ Vale para pessoas, povos e lugares, também nos comentários dos Padres.
 | *kavash* / *radá* | submeter / dominar | «enchei a terra e submetei-a; dominai» (Gn 1,28, como o lecionário; a tradução de partida dizia «sujeitai-a») | Gn 1 |
 | *vayhi-erev vayhi-voqer yom ehad* | E houve tarde, e houve manhã: primeiro dia | o ordinal, sem artigo («segundo dia»… «quinto dia»), e «o sexto dia» com artigo, como o hebraico; a tradução de partida dizia «E houve tarde e manhã: dia primeiro» | Gn 1 |
 | *kalah* (Gn 2,1-2) | concluir | «Assim foram concluídos o céu e a terra… No sétimo dia concluiu Deus a obra», o eco do hebraico, como o lecionário; a tradução de partida dizia «acabados… completou» | Gn 2 |
-| *toledot* | a história | Gn 2,4 «Esta é a história do céu e da terra», como o lecionário; vale para 5,1; 6,9; 10,1; 11,10.27; 25,12.19; 36,1.9; 37,2 (a tradução de partida dizia «a origem», «as gerações», «a descendência») | Gn 2, a confirmar |
+| *toledot* | a história | Gn 2,4 «Esta é a história do céu e da terra», como o lecionário; vale para 5,1; 6,9; 10,1; 11,10.27; 25,12.19; 36,1.9; 37,2 (a tradução de partida dizia «a origem», «as gerações», «a descendência») | Gn 2, aprovada pelo Gere em 31/10 |
 | *YHWH elohim* | o Senhor Deus | Gn 2–3, como o lecionário | projeto antigo |
 | *'ed* (Gn 2,6) | uma fonte | como a Bíblia grega, a Vulgata e o lecionário; a tradução de partida dizia «um manancial» | Gn 2 |
 | *nefesh hayyá* (o homem, Gn 2,7) | alma vivente | «e o homem tornou-se alma vivente», como 1Cor 15,45; nos animais, «ser vivo» (Gn 1,20-24; 2,19) | estudo de *nefesh*, aprovado |
 | *gan be'eden* | um jardim em Éden; o jardim de Éden | Gn 2,8.15, como o lecionário | projeto antigo |
 | *ets hadda'at tov vara'* | a árvore do conhecimento do bem e do mal | Gn 2,9.17, como o lecionário | projeto antigo |
 | *hayyat hassade* | as feras do campo | Gn 2,19-20, como «as feras da terra» (1,24-25); a tradução de partida dizia «os animais do campo» no v. 19 | Gn 2 |
-| *'ezer kenegdo* | uma auxiliar que lhe corresponda | Gn 2,18.20; o lecionário diz «semelhante a ele» | Gn 2, a confirmar |
-| *ha'adam* (Gn 2–3) | o homem | com artigo, até 4,1; «Adão» desde 4,25 (o lecionário diz «Adão» desde 2,19) | Gn 2, a confirmar |
-| *ishshá* / *ish* (Gn 2,23) | mulher / homem | «Esta se chamará mulher, porque do homem foi tomada», com nota sobre o som do hebraico; a tradução de partida dizia «varoa… do varão» | Gn 2, a confirmar |
+| *'ezer kenegdo* | uma auxiliar que lhe corresponda | Gn 2,18.20; o lecionário diz «semelhante a ele» | Gn 2, aprovada pelo Gere em 31/10 |
+| *ha'adam* (Gn 2–3) | o homem | com artigo, até 4,1; «Adão» desde 4,25 (o lecionário diz «Adão» desde 2,19) | Gn 2, aprovada pelo Gere em 31/10 |
+| *ishshá* / *ish* (Gn 2,23) | mulher / homem | «Esta se chamará mulher, porque do homem foi tomada», com nota sobre o som do hebraico; a tradução de partida dizia «varoa… do varão» | Gn 2, aprovada pelo Gere em 31/10 |
 | *zot happa'am* (Gn 2,23) | Esta, desta vez | «Esta, desta vez, é osso dos meus ossos»: a primeira, depois dos animais; a tradução de partida dizia «Esta, sim» | Gn 2 |
-| *banah* (Gn 2,22) | edificar | «o Senhor Deus edificou uma mulher», diferente de *yatsar*, «formar» (vv. 7.19); o lecionário diz «formou» | Gn 2, a confirmar |
+| *banah* (Gn 2,22) | edificar | «o Senhor Deus edificou uma mulher», diferente de *yatsar*, «formar» (vv. 7.19); o lecionário diz «formou» | Gn 2, aprovada pelo Gere em 31/10 |
 | *tardemá* / *tsela'* | sono profundo / costela | Gn 2,21-22; «fechou com carne o lugar dela» | projeto antigo |
 | *hayyat hassade* (Gn 3) | as feras do campo | Gn 3,1.14, como 2,19-20: «a mais astuta de todas as feras do campo»; a tradução de partida dizia «os animais do campo» no v. 1 | Gn 3 |
 | *behemá* (Gn 3,14) | animais domésticos | «maldita és entre todos os animais domésticos e entre todas as feras do campo», como 1,24-26 e o lecionário | Gn 3 |
 | *lo-mot temutun* | Certamente não morrereis | Gn 3,4, o eco de 2,17 («certamente morrerás»); a tradução de partida dizia «De modo nenhum morrereis» | Gn 3 |
 | *kelohim* (Gn 3,5) | como Deus | «e sereis como Deus, conhecedores do bem e do mal», como o lecionário e o Catecismo 398; a mesma palavra de «Deus sabe»; a Bíblia grega e a Vulgata dizem «como deuses» | Gn 3 |
 | *hagorot* (Gn 3,7) | tangas | como o lecionário; a tradução de partida dizia «cintas» | Gn 3 |
-| *qol YHWH* (Gn 3,8.10) | a voz do Senhor Deus | «Ouvi a tua voz no jardim»; o eco com 3,17 («ouviste a voz da tua mulher»); a tradução de partida dizia «o rumor» | Gn 3, a confirmar |
+| *qol YHWH* (Gn 3,8.10) | a voz do Senhor Deus | «Ouvi a tua voz no jardim»; o eco com 3,17 («ouviste a voz da tua mulher»); a tradução de partida dizia «o rumor» | Gn 3, aprovada pelo Gere em 31/10 |
 | *leruah hayyom* | à brisa da tarde | Gn 3,8, como o lecionário (a Bíblia grega diz «à tarde»); a tradução de partida dizia «à brisa do dia» | Gn 3 |
 | *ma-zot asit* | Que é isto que fizeste? | Gn 3,13, como o hebraico; o lecionário diz «Por que fizeste isso?» | Gn 3 |
-| *shuf* (Gn 3,15) | ferir, nas duas metades | «esta te ferirá a cabeça, e tu lhe ferirás o calcanhar», como o lecionário; «esta» é a descendência (*hu*, com *zera'*); a tradução de partida dizia «esmagará» | Gn 3, a confirmar |
+| *shuf* (Gn 3,15) | ferir, nas duas metades | «esta te ferirá a cabeça, e tu lhe ferirás o calcanhar», como o lecionário; «esta» é a descendência (*hu*, com *zera'*); a tradução de partida dizia «esmagará» | Gn 3, aprovada pelo Gere em 31/10 |
 | *'itsavon* (Gn 3,16-17) | sofrimento | «Multiplicarei os sofrimentos da tua gravidez»; «Com sofrimento dele comerás», a mesma palavra para a mulher e para o homem; *'etsev* = «dor» («com dor darás à luz»); a tradução de partida dizia «com fadiga» no v. 17 | Gn 3 |
 | *teshuqá* (Gn 3,16) | desejo | «O teu desejo será para o teu marido, e ele te dominará», como o hebraico; o lecionário diz «teus desejos te arrastarão para o teu marido» | Gn 3 |
 | *hitsmiah* (Gn 3,18) | fazer brotar | «Espinhos e cardos fará brotar para ti», o eco de 2,9 («fez brotar do solo toda árvore») | Gn 3 |
@@ -187,15 +187,15 @@ Vale para pessoas, povos e lugares, também nos comentários dos Padres.
 | *sha'a el* | olhar para | Gn 4,4-5 «O Senhor olhou para Abel e para a sua oferta», como o lecionário; a tradução de partida dizia «olhou com agrado» | Gn 4 |
 | *naflu fanav* | o rosto se abateu | Gn 4,5-6; *se'et* (4,7) = «levantar o rosto», o contraste | Gn 4 |
 | *hattat rovets* | o pecado está à porta, à espreita | Gn 4,7, sem o «tua» que a tradução de partida acrescentava («à tua espreita»); «o seu desejo será para ti», o eco de 3,16 | Gn 4 |
-| *timshal-bo* (Gn 4,7) | tu deves dominá-lo | «e tu o dominarás» é a Vulgata; o lecionário diz «poderás dominá-lo» | Gn 4, a confirmar |
-| *vayyomer qayin el-hevel* (Gn 4,8) | Caim falou com Abel, o seu irmão | o hebraico não diz o que ele disse; a Bíblia grega, a Vulgata, a Nova Vulgata e o lecionário acrescentam «Vamos ao campo»; *vayyaqam el* = «se levantou contra» | Gn 4, a confirmar |
+| *timshal-bo* (Gn 4,7) | tu deves dominá-lo | «e tu o dominarás» é a Vulgata; o lecionário diz «poderás dominá-lo» | Gn 4, aprovada pelo Gere em 31/10 |
+| *vayyomer qayin el-hevel* (Gn 4,8) | Caim falou com Abel, o seu irmão | o hebraico não diz o que ele disse; a Bíblia grega, a Vulgata, a Nova Vulgata e o lecionário acrescentam «Vamos ao campo»; *vayyaqam el* = «se levantou contra» | Gn 4, aprovada pelo Gere em 31/10 |
 | *shomer* (Gn 4,9) | guarda | «Acaso sou eu o guarda do meu irmão?», como o lecionário; o verbo de 2,15 («para o cultivar e o guardar») | projeto antigo |
 | *arur atta min-ha'adama* | maldito és tu, longe do solo | Gn 4,11, como «maldita és» (3,14); o lecionário diz «serás amaldiçoado pela terra» | Gn 4 |
 | *na' vanad* | errante e fugitivo | Gn 4,12.14; *ba'arets* = «na terra» (*adama* é o solo) | projeto antigo |
 | *gadol avoni minneso* (Gn 4,13) | A minha iniquidade é grande demais para ser carregada | como *nasa 'avon* = «carregar a iniquidade» (Nm 14,34; 18,1); o lecionário diz «Meu castigo é grande demais», a Bíblia grega e a Vulgata «para ser perdoada» | Gn 4, a confirmar |
 | *gerashta* (Gn 4,14) | expulsar | «Eis que hoje me expulsas da face do solo», como 3,24 («Expulsou o homem») e o lecionário; a tradução de partida dizia «me lanças» | Gn 4 |
 | *lakhen… shiv'atayim yuqqam* (Gn 4,15) | Por isso, quem matar Caim sofrerá sete vezes a vingança | como o hebraico (*lakhen*); a Bíblia grega, a Vulgata e o lecionário dizem «Não!» (*lo ken*); «será vingado», do assassino, diria o contrário; *ot* = «sinal» | Gn 4 |
-| *bone ir* (Gn 4,17) | estava edificando uma cidade | *banah* = «edificar», como 2,22 (a confirmar ali) | Gn 4 |
+| *bone ir* (Gn 4,17) | estava edificando uma cidade | *banah* = «edificar», como 2,22 | Gn 4 |
 | *shiv'im veshiv'a* (Gn 4,24) | setenta e sete | como o hebraico; a tradução de partida dizia «setenta vezes sete» (Mt 18,22, onde o grego é ambíguo: decidir ao entrar Mateus) | Gn 4 |
 | *lehabburati* (Gn 4,23) | por um golpe | «matei um homem por me ferir, / e um jovem por um golpe» (pelo Versificador); a tradução de partida dizia «por me pisar» | Gn 4 |
 | *zera' aher* (Gn 4,25) | outra descendência | a mesma palavra de 3,15 («a descendência dela») | projeto antigo |

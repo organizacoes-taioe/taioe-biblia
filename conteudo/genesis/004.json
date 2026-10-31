@@ -2,7 +2,7 @@
  "livro": "genesis",
  "cap": 4,
  "estado": "em revisão",
- "atualizado": "2026-10-26",
+ "atualizado": "2026-10-31",
  "trechos": [
   {"id": "1", "titulo": "Caim e Abel", "de": 1},
   {"id": "2", "titulo": "Onde está o teu irmão?", "de": 9},
@@ -241,27 +241,6 @@
  },
  "revisao": {
   "escolhas": [
-   {
-    "id": "dominar-o-pecado",
-    "ref": "Gn 4,7",
-    "titulo": "«Mas tu deves dominá-lo», «e tu o dominarás» ou «tu, porém, poderás dominá-lo»?",
-    "contexto": "O hebraico diz *ve'elekha teshuqato ve'atta timshal-bo*, com as mesmas palavras de 3,16, ditas à mulher («O teu desejo será para o teu marido, e ele te dominará»): «para ti o seu desejo, e tu o dominarás». O verbo pode ser futuro («dominarás») ou dever («deves dominar»). A Vulgata diz *et tu dominaberis illius* («e tu o dominarás»); o lecionário, «Tu, porém, poderás dominá-lo». A tradução de partida dizia «mas tu deves dominá-lo». O resto do versículo fica: «o seu desejo será para ti».",
-    "opcoes": [
-     {"id": "a", "texto": "«o seu desejo será para ti, mas tu deves dominá-lo»", "nota": "Diz com clareza o que Deus pede a Caim antes do crime; guarda o eco de 3,16 na primeira metade.", "recomendada": true},
-     {"id": "b", "texto": "«o seu desejo será para ti, e tu o dominarás»", "nota": "O eco inteiro de 3,16, como a Vulgata; em português soa como previsão, e Caim não o domina."},
-     {"id": "c", "texto": "«o seu desejo será para ti; tu, porém, poderás dominá-lo»", "nota": "Como a liturgia; acentua a liberdade, mas o hebraico não diz «poder»."}
-    ]
-   },
-   {
-    "id": "vamos-ao-campo",
-    "ref": "Gn 4,8",
-    "titulo": "«Caim falou com Abel, o seu irmão» ou «Caim disse a Abel, o seu irmão: Vamos ao campo»?",
-    "contexto": "O hebraico diz só *vayyomer qayin el-hevel ahiv*, «Caim disse a Abel, o seu irmão», sem dizer o quê, e passa ao campo. A Bíblia grega, a siríaca, a Vulgata, a Nova Vulgata e o lecionário acrescentam a fala: «Vamos ao campo» (*Egrediamur foras*). A regra da Taioé é seguir o original, sem nota de variante; em português, «falou com» resolve a frase sem fala.",
-    "opcoes": [
-     {"id": "a", "texto": "«Caim falou com Abel, o seu irmão. E, quando estavam no campo…»", "nota": "Como o hebraico, sem acrescentar a fala.", "recomendada": true},
-     {"id": "b", "texto": "«Caim disse a Abel, o seu irmão: Vamos ao campo. E, quando estavam no campo…»", "nota": "Como a liturgia, a Nova Vulgata e a Bíblia grega; é o texto que os Padres comentam."}
-    ]
-   },
    {
     "id": "iniquidade-grande-demais",
     "ref": "Gn 4,13",

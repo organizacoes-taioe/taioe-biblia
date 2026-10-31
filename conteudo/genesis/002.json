@@ -1,8 +1,8 @@
 {
  "livro": "genesis",
  "cap": 2,
- "estado": "em revisão",
- "atualizado": "2026-10-25",
+ "estado": "revisado",
+ "atualizado": "2026-10-31",
  "trechos": [
   {"id": "1", "titulo": "O sétimo dia", "de": 1},
   {"id": "2", "titulo": "O homem formado do pó", "de": 4},
@@ -229,60 +229,5 @@
     }
    ]
   }
- },
- "revisao": {
-  "escolhas": [
-   {
-    "id": "toledot",
-    "ref": "Gn 2,4",
-    "titulo": "«Esta é a história do céu e da terra», «a origem» ou «as gerações»?",
-    "contexto": "O hebraico diz *elle toldot hashamayim veha'arets*. *Toledot* (do verbo «gerar») é a fórmula que reparte o Gênesis: «as *toledot* do céu e da terra» (2,4), de Adão (5,1), de Noé (6,9), dos filhos de Noé (10,1), de Sem (11,10), de Taré (11,27), de Ismael (25,12), de Isaac (25,19), de Esaú (36,1.9) e de Jacó (37,2); cada vez abre o que veio depois, a descendência ou a história da família. O lecionário diz aqui «Esta é a história do céu e da terra». A Bíblia grega e a Vulgata dizem «gerações». A tradução de partida dizia «a origem» aqui, «as gerações» de 5,1 a 25,19, «a descendência» em 36,1.9 e «a história da descendência» em 37,2. A escolha vale para os onze lugares.",
-    "opcoes": [
-     {"id": "a", "texto": "«Esta é a história do céu e da terra, quando foram criados»; 6,9 «Esta é a história de Noé»; 37,2 «Esta é a história de Jacó»", "nota": "Como na liturgia; serve aos onze lugares, nas genealogias e nas histórias de família.", "recomendada": true},
-     {"id": "b", "texto": "«Estas são as gerações do céu e da terra»; 6,9 «Estas são as gerações de Noé»", "nota": "Literal, como a Bíblia grega e a Vulgata; para o céu e a terra soa estranho."},
-     {"id": "c", "texto": "«Esta é a origem do céu e da terra», e nos outros lugares «as gerações» ou «a descendência»", "nota": "Como estava: muda de palavra conforme o lugar."}
-    ]
-   },
-   {
-    "id": "auxiliar",
-    "ref": "Gn 2,18",
-    "titulo": "«Uma auxiliar que lhe corresponda» ou «uma auxiliar semelhante a ele»?",
-    "contexto": "O hebraico diz *'ezer kenegdo*. *'Ezer* é ajuda, a mesma palavra que os Salmos dizem de Deus («ele é o nosso auxílio e o nosso escudo», Sl 33,20); *kenegdo* é «como diante dele»: alguém à sua altura, que esteja frente a frente com ele. A Bíblia grega diz «conforme a ele», a Vulgata «semelhante a ele», e o lecionário «uma auxiliar semelhante a ele». A tradução de partida dizia «que lhe corresponda». Vale para 2,18 e 2,20.",
-    "opcoes": [
-     {"id": "a", "texto": "«vou fazer-lhe uma auxiliar que lhe corresponda»; 2,20 «não se achou uma auxiliar que lhe correspondesse»", "nota": "O sentido de *kenegdo*: igual a ele e diferente dele, frente a frente.", "recomendada": true},
-     {"id": "b", "texto": "«vou fazer-lhe uma auxiliar semelhante a ele»; 2,20 «não se achou uma auxiliar semelhante a ele»", "nota": "Como na liturgia e na Vulgata; perde o «diante dele»."}
-    ]
-   },
-   {
-    "id": "o-homem-adao",
-    "ref": "Gn 2,19",
-    "titulo": "No jardim, «o homem» ou «Adão»?",
-    "contexto": "O hebraico diz *ha'adam*, «o homem», com artigo, em todo o capítulo 2 e no 3: é o ser humano, ainda sem nome próprio. «Adão», nome de pessoa, só aparece com certeza em 4,25 e 5,1-5. A Vulgata passa a dizer «Adão» desde 2,19, e o lecionário a segue («e trouxe-os a Adão», «Adão deu nome», «E Adão exclamou»). A tradução de partida dizia «o homem» até 4,1 e «Adão» desde 4,25. A escolha vale para Gn 2,19 a 4,1.",
-    "opcoes": [
-     {"id": "a", "texto": "«o homem» até 4,1, e «Adão» desde 4,25", "nota": "Como o hebraico e como estava: o leitor vê que é o homem, o de todos nós.", "recomendada": true},
-     {"id": "b", "texto": "«Adão» desde 2,19, como a Vulgata e o lecionário", "nota": "O nome que o leitor conhece; os vv. 7–18 continuam com «o homem»."}
-    ]
-   },
-   {
-    "id": "edificou",
-    "ref": "Gn 2,22",
-    "titulo": "«O Senhor Deus edificou uma mulher» ou «formou uma mulher»?",
-    "contexto": "O hebraico diz *vayyiven*, «construiu», «edificou», o verbo de quem levanta uma casa; não é o «formou» do oleiro (*yatsar*), que o capítulo usa para o homem e para os animais, feitos do solo (vv. 7 e 19). A Bíblia grega e a Vulgata guardam «edificou», e os Padres o comentam (a oração bizantina do matrimônio: «da sua costela edificastes a mulher»). O lecionário e a tradução de partida dizem «formou».",
-    "opcoes": [
-     {"id": "a", "texto": "«E da costela que tomara do homem o Senhor Deus edificou uma mulher»", "nota": "O verbo do hebraico: a mulher não é «formada» do solo, como o homem e os animais.", "recomendada": true},
-     {"id": "b", "texto": "«E da costela que tomara do homem o Senhor Deus formou uma mulher»", "nota": "Como na liturgia; soa mais natural."}
-    ]
-   },
-   {
-    "id": "mulher-varoa",
-    "ref": "Gn 2,23",
-    "titulo": "«Esta se chamará mulher, porque do homem foi tomada» ou «varoa… do varão»?",
-    "contexto": "Em hebraico, «mulher» é *ishshá* e «homem» é *ish*: o nome da mulher sai do nome do homem, e o verso se apoia nesse som. A Vulgata imitou o jogo de palavras com *virago* e *vir*. A tradução de partida dizia «Esta se chamará varoa, porque do varão foi tomada», com palavras hoje fora de uso; o lecionário diz «Ela será chamada 'mulher' porque foi tirada do homem». Com «mulher», a nota do v. 23 explica o som do hebraico; com «varoa», ela sai.",
-    "opcoes": [
-     {"id": "a", "texto": "«Esta se chamará mulher, / porque do homem foi tomada», com a nota sobre o hebraico", "nota": "O português de hoje, como na liturgia.", "recomendada": true},
-     {"id": "b", "texto": "«Esta se chamará varoa, / porque do varão foi tomada», sem nota", "nota": "Guarda o jogo de palavras, com palavras antigas."}
-    ]
-   }
-  ]
  }
 }
