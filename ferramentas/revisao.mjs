@@ -3,8 +3,9 @@
 //   pontuais (escolhas de tradução e notas; a divisão e o registro não vão mais a ele, pedido de
 //   24/10) e os estudos de palavra de revisao/estudos/*.json;
 // - biblia-comentarios («Bíblia: comentários dos Padres», pedido dele, 19/10): à parte, para não
-//   misturar com o que é prioritário. Cada título de tema, cada resumo de tema e cada comentário
-//   que ele ainda não aprovou (`revisto`). Desde 26/10 só o aprovado vai ao site (gerar.mjs,
+//   misturar com o que é prioritário. Cada comentário que ele ainda não aprovou (`revisto`) e, no
+//   fim do tema, o nome dele, para decidir depois de ler os comentários (31/10; o tema não tem
+//   mais resumo). Desde 26/10 só o aprovado vai ao site (gerar.mjs,
 //   `publicavel`): o capítulo sem escolha pendente, a nota aprovada e o comentário aprovado.
 // Sem textos explicativos nas páginas (ele é o único leitor, 19/10).
 //
@@ -51,7 +52,7 @@ for (const l of livros) {
       .map((n, i) => ({ ...n, letra: letra(i) })).filter((n) => !n.revista);
     if (notas.length) secoes.push({
       id: 'notas', titulo: 'Notas',
-      itens: notas.map((n) => ({ id: `${id}:nota:${n.id}`, tipo: 'nota', ref: `${abrev} ${c.cap},${n.v}`, letra: n.letra, versiculo: verso(n.v), texto: n.texto, origem: n.origem ? `Origem: ${n.origem}.` : '' })),
+      itens: notas.map((n) => ({ id: `${id}:nota:${n.id}`, tipo: 'nota', ref: `${abrev} ${c.cap},${n.v}`, letra: n.letra, versiculo: verso(n.v), texto: n.texto })),
     });
 
     // O Gere, 24/10: «me mostre apenas questões pontuais, para eu decidir uma única coisa em cada
@@ -85,8 +86,9 @@ if (fs.existsSync(ESTUDOS)) {
   }
 }
 
-// Os comentários: um bloco por tema, com o título, o resumo e os comentários ainda não aprovados.
-// Ids: <livro>-<cap>:tt|tr:<trecho>:<tema> (título, resumo), <livro>-<cap>:c:<trecho>:<tema>:<item>
+// Os comentários: um bloco por tema, com os comentários ainda não aprovados e, no fim, o nome do
+// tema, se ainda não foi aprovado (pedido do Gere, 31/10: decidir o nome depois de ler).
+// Ids: <livro>-<cap>:tt:<trecho>:<tema> (o nome), <livro>-<cap>:c:<trecho>:<tema>:<item>
 // (comentário) e <livro>-<cap>:ca<n>:<trecho>:<tema>:<item> (aviso de corte, rodada n).
 function paraComentarios(c, l) {
   const id = `${c.livro}-${c.cap}`;
@@ -98,8 +100,6 @@ function paraComentarios(c, l) {
     for (const x of (com && com.temas) || []) {
       const rev = x.revisto || [];
       const itens = [];
-      if (!rev.includes('titulo')) itens.push({ id: `${id}:tt:${t.id}:${x.id}`, tipo: 'tema-titulo', texto: x.titulo });
-      if (x.resumo && !rev.includes('resumo')) itens.push({ id: `${id}:tr:${t.id}:${x.id}`, tipo: 'tema-resumo', texto: x.resumo });
       for (const it of x.itens) {
         // Corte dele que muda o sentido: volta com o aviso e a sugestão (fora do site até a resposta).
         // O número da rodada entra no id, para não herdar a resposta anterior.
@@ -107,10 +107,13 @@ function paraComentarios(c, l) {
         if (a) itens.push({ id: `${id}:ca${a.n}:${t.id}:${x.id}:${it.id}`, tipo: 'comentario-aviso', autor: it.autor, obra: it.obra, passagem: it.passagem, link: it.link, corte: a.corte, aviso: a.aviso, sugestao: it.texto });
         else if (!it.revisto) itens.push({ id: `${id}:c:${t.id}:${x.id}:${it.id}`, tipo: 'comentario', autor: it.autor, sobre: it.sobre, obra: it.obra, passagem: it.passagem, link: it.link, texto: it.texto });
       }
+      if (!rev.includes('titulo')) itens.push({ id: `${id}:tt:${t.id}:${x.id}`, tipo: 'tema-titulo', texto: x.titulo });
       if (!itens.length) continue;
+      // O alto do bloco não traz o nome: ele vem no fim, depois dos comentários.
+      const vv = (x.versiculos || []).length ? `${x.versiculos.length > 1 ? 'Versículos' : 'Versículo'} ${x.versiculos.join(', ')}` : 'Tema';
       secoes.push({
-        id: `${t.id}-${x.id}`, titulo: x.titulo,
-        sub: [umSo ? '' : t.titulo, (x.versiculos || []).length ? `v. ${x.versiculos.join(', ')}` : ''].filter(Boolean).join(' · '),
+        id: `${t.id}-${x.id}`, titulo: vv,
+        sub: umSo ? '' : t.titulo,
         url: `/biblia/${c.livro}/${c.cap}/comentarios/${umSo ? '' : t.id + '/'}${x.id}/`,
         itens,
       });

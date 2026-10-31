@@ -114,6 +114,13 @@ main:focus { outline: none; }
   background: transparent; color: var(--realce); font: inherit; cursor: pointer; text-decoration: none;
 }
 .menu-item:hover { background: var(--papel-2); }
+/* a pergunta ao sair do capítulo com uma leitura aberta (js/biblia.js) */
+.pergunta-leitura {
+  padding: 0; width: min(20em, calc(100vw - 2em)); font-size: calc(var(--corpo) * .78); color: var(--tinta);
+  background: var(--papel); border: 1px solid var(--linha); border-radius: var(--raio); box-shadow: var(--sombra);
+}
+.pergunta-leitura::backdrop { background: rgba(20, 15, 10, .35); }
+.pergunta-caixa { padding: .9em 0 .4em; }
 .marca { font-weight: 600; letter-spacing: .1em; text-transform: uppercase; color: var(--tinta); text-decoration: none; flex: none; }
 .trilha { flex: 1; min-width: 0; color: var(--tinta-tenue); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 .trilha a { color: var(--tinta-tenue); text-decoration: none; }
@@ -151,7 +158,7 @@ h1 { font-weight: 400; line-height: 1.15; }
 }
 .caminho:hover, .tema:hover { border-color: var(--realce); color: var(--tinta); box-shadow: var(--sombra); }
 .caminho-nome, .tema-titulo { display: block; font-size: 1.05em; }
-.caminho-texto, .tema-resumo { display: block; color: var(--tinta-suave); font-size: .8em; margin-top: .15em; }
+.caminho-texto { display: block; color: var(--tinta-suave); font-size: .8em; margin-top: .15em; }
 .tema-ref, .tema-n { font-family: var(--sans); font-size: .58em; letter-spacing: .06em; color: var(--tinta-tenue); }
 .tema-ref { display: block; text-transform: uppercase; margin-top: .25em; }
 .tema-n { display: block; margin-top: .5em; color: var(--realce); }
@@ -232,7 +239,6 @@ a.cap:hover { background: var(--realce); color: var(--papel); }
 .cab-coment { margin: .6em 0 1.2em; }
 .sobretitulo { font-family: var(--sans); font-size: .6em; letter-spacing: .14em; text-transform: uppercase; color: var(--tinta-tenue); margin: 1em 0 0; }
 .cab-coment h1 { font-size: 1.6em; margin: .2em 0 .5em; }
-.resumo { color: var(--tinta-suave); margin: 0; }
 .temas { display: flex; flex-direction: column; gap: .6em; }
 .aviso-trad { margin-top: 2em; }
 

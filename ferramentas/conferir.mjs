@@ -84,7 +84,8 @@ for (const l of livros) {
         if (!ID.test(t.id) || temas.has(t.id)) erro(onde, `tema com id ruim ou repetido: ${t.id}`);
         temas.add(t.id);
         if (!t.titulo || !t.itens || !t.itens.length) erro(onde, `tema ${t.id} sem título ou sem comentários`);
-        texto(`${onde} tema ${t.id}`, t.titulo); texto(`${onde} tema ${t.id}`, t.resumo);
+        texto(`${onde} tema ${t.id}`, t.titulo);
+        if (t.resumo !== undefined) erro(onde, `tema ${t.id} com resumo: desde 31/10 o tema tem só o nome`);
         for (const it of t.itens || []) {
           if (!ID.test(it.id) || itens.has(it.id)) erro(onde, `comentário com id ruim ou repetido: ${it.id}`);
           itens.add(it.id);
