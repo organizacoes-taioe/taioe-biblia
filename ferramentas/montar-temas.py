@@ -6,10 +6,11 @@
 
 Entradas, em pesquisa/<livro>/<ccc>/:
 - achados-*.json (formato em pesquisa/COMO-PESQUISAR.md);
-- temas.json, a escolha e a ordem: {"<trecho>": [{"id", "titulo", "versiculos": [..], "resumo",
+- temas.json, a escolha e a ordem: {"<trecho>": [{"id", "titulo", "versiculos": [..],
   "itens": ["<id do achado>", {"id": "<id do achado>", "texto": "…", "passagem": "…"}, …]}]}.
   Um item pode ser só o id ou um objeto que troca campos do achado (texto, obra, passagem, autor).
-  Sem "versiculos", vale a união dos versículos dos achados, dentro do trecho.
+  Sem "versiculos", vale a união dos versículos dos achados, dentro do trecho. O tema não tem
+  resumo (desde 31/10, pedido do Gere): o título é um nome bem descritivo, que vale sozinho.
 
 O autor e o «sobre» vêm de ferramentas/autores.json (o mesmo nome e a mesma descrição em todos os
 capítulos); autor novo entra lá antes, com "oriental": true ou false. Item já publicado (mesmo id)
@@ -130,10 +131,10 @@ for tr, temas in T.items():
         if not 2 <= len(itens) <= 5:
             problemas.append(f'tema {t["id"]}: {len(itens)} comentário(s) (o normal é de 2 a 4; 5 só se cada um disser coisa diferente)')
         tema = {'id': t['id'], 'titulo': t['titulo'], 'versiculos': t.get('versiculos') or sorted(vv) or list(range(a, b + 1)),
-                'resumo': t['resumo'], 'itens': itens}
+                'itens': itens}
         antigo = publicados.get('tema:' + t['id'])
         if antigo and not REFAZER:
-            for k in ('titulo', 'resumo', 'revisto'):
+            for k in ('titulo', 'revisto'):
                 if k in antigo:
                     tema[k] = antigo[k]
         lista.append(tema)
@@ -147,7 +148,7 @@ for tr, temas in T.items():
 if MOSTRAR:
     for tr, c in comentarios.items():
         for t in c['temas']:
-            print(f'\n######## trecho {tr} | {t["id"]} | {t["titulo"]} | vv. {t["versiculos"]}\n{t["resumo"]}')
+            print(f'\n######## trecho {tr} | {t["id"]} | {t["titulo"]} | vv. {t["versiculos"]}')
             for i in t['itens']:
                 print(f'\n== {i["id"]} | {i["autor"]} | {i["obra"]} | {i["passagem"]}\n{i["texto"]}')
 else:

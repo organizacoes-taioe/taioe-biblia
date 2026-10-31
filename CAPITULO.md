@@ -82,7 +82,8 @@ Sl 33, de 20 notas ficaram 4.
   Sl 33,7 ficou só «Os abismos são as águas profundas que, na imagem antiga do mundo, ficavam
   debaixo da terra.»
 - Cada nota tem `v` e `apos` (a palavra depois da qual entra a letra da nota); sem `apos`, a
-  letra fica no fim do versículo. `origem` diz se é nova ou revista do projeto antigo, e por quê.
+  letra fica no fim do versículo. `origem` diz se é nova ou revista do projeto antigo, e por quê; é só para o nosso registro e
+  não vai à página de revisão (o Gere, 31/10).
 - Notas do projeto antigo: conferir uma por uma pelo mesmo critério (a maioria sai).
 - As notas não repetem os comentários dos Padres.
 - Passagem dura (imprecação, «os judeus» em João): traduzir sem atenuar, com nota que começa
@@ -147,7 +148,10 @@ Sl 33, de 20 notas ficaram 4.
   comentários pendentes, em poucos capítulos»). Cada comentário de um tema tem de dizer algo que os
   outros não dizem; dois que dizem o mesmo, fica o melhor (o mais claro, bonito e fundo para o
   leitor comum). Tema que repete a ideia de outro tema, funde-se ou sai.
-- Tema: id curto, título, versículos, resumo de uma frase. **De 2 a 4 comentários por tema** (5 só
+- Tema: id curto, nome e versículos, **sem resumo** (o Gere, 31/10). O nome é bem descritivo e vale
+  sozinho: diz do que tratam os comentários, de 4 a 10 palavras, até uns 75 caracteres; pode
+  abrir com uma citação curta do versículo («Sereis como Deus»: a soberba de querer ser Deus sem
+  Deus). Nada de nome só alusivo («No princípio»). **De 2 a 4 comentários por tema** (5 só
   se cada um disser coisa claramente diferente); um tema de um comentário só, só se ele for
   essencial. O capítulo fica, em geral, **entre 30 e 50 comentários**, conforme o tamanho; nos
   Salmos 33–36 eram de 114 a 159, e foram enxugados em 20/10.
@@ -194,12 +198,13 @@ node ferramentas/revisao.mjs       # ../infra/dados/paginas/biblia.json e biblia
   página põe no fim da fila o que ele já respondeu e o Claude ainda não aplicou (24/10).
 - **Só o aprovado vai ao site** (o Gere, 26/10): o capítulo, sem escolha pendente; a nota, com
   `revista` (ou no capítulo revisado); o comentário, com `revisto` e sem `aviso_corte`; o tema, com o
-  título aprovado e algum comentário aprovado, e o resumo só aprovado. O merge vai normalmente: o
+  nome aprovado e algum comentário aprovado. O merge vai normalmente: o
   `gerar.mjs` esconde o resto. Nota nova num capítulo revisado: o capítulo volta a «em revisão».
 - **Os comentários dos Padres** ele revisa à parte (desde 19/10),
-  no tipo «Bíblia: comentários dos Padres», para não misturar com o que é prioritário: cada título de tema e
-  cada texto (`resumo`) de tema (aprovar ou editar), cada comentário (aprovar, cortar ou excluir).
-  O que ele aprova ganha `revisto` (no tema, a lista `["titulo", "resumo"]`; no comentário, `true`)
+  no tipo «Bíblia: comentários dos Padres», para não misturar com o que é prioritário: cada comentário
+  (aprovar, cortar ou excluir) e, **no fim do tema**, o nome dele (aprovar ou editar), para decidir
+  depois de ler os comentários (31/10). O que ele aprova ganha `revisto` (no tema, `["titulo"]`; no
+  comentário, `true`)
   e sai da página no próximo `revisao.mjs`.
 - Estudo de uma palavra que vale para a Bíblia inteira (ex.: *nefesh*): `revisao/estudos/<id>.md`
   (o estudo) e `<id>.json` (resumo, casos e a decisão), que o `revisao.mjs` põe na mesma página

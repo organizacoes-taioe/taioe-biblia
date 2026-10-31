@@ -3,8 +3,9 @@
    - as leituras: pontos de leitura com nome que acompanham o leitor (a posição muda conforme ele
      lê, e a leitura reabre no último ponto). Ficam só neste navegador, com o prefixo «biblia:»;
    - os versos que não cabem na linha: a continuação vai junto à margem direita;
-   - as notas: abrem coladas à linha da marca e somem com qualquer toque ou rolagem. Sem
-     JavaScript, a marca da nota é um link para a lista de notas no fim do capítulo. */
+   - com uma leitura aberta, sair do capítulo para o livro ou para o início pergunta se a leitura
+     continua ou se fecha (pedido do Gere, 31/10/2026).
+   As notas ficam em js/notas.js, o mesmo arquivo da Biblioteca. */
 (function () {
   'use strict';
   var d = document.documentElement;
@@ -138,6 +139,51 @@
     setTimeout(registrar, 600);
   }
 
+  // Com uma leitura aberta, sair do capítulo para o livro ou para o início da Bíblia pergunta se a
+  // leitura continua (ela segue o leitor no próximo capítulo que ele abrir) ou se fecha. Tocar fora
+  // da pergunta, ou Esc, fica no capítulo. Passar a outro capítulo não pergunta nada.
+  if (cap) {
+    var pergunta = null, destinoPergunta = null;
+    var paraForaDoCapitulo = function (a) {
+      if (a.target || a.hasAttribute('download')) return false;
+      var u = new URL(a.getAttribute('href'), location.href);
+      if (u.origin !== location.origin || u.pathname === BASE + 'leituras/') return false;
+      return u.pathname === BASE || /^\/biblia\/[a-z0-9-]+\/$/.test(u.pathname);
+    };
+    var montarPergunta = function () {
+      pergunta = el('dialog', 'pergunta-leitura');
+      pergunta.setAttribute('aria-labelledby', 'pergunta-nome');
+      var caixa = el('div', 'pergunta-caixa');
+      caixa.appendChild(el('p', 'menu-titulo', 'Leitura aberta'));
+      var nome = el('p', 'menu-nome');
+      nome.id = 'pergunta-nome';
+      caixa.appendChild(nome);
+      caixa.appendChild(el('p', 'menu-pos', 'Ela continua com você, ou fecha?'));
+      var seguir = el('button', 'menu-item', 'Continuar na leitura');
+      var fechar = el('button', 'menu-item', 'Fechar a leitura');
+      seguir.type = fechar.type = 'button';
+      seguir.addEventListener('click', function () { pergunta.close(); location.href = destinoPergunta; });
+      fechar.addEventListener('click', function () { pergunta.close(); fecharLeitura(); location.href = destinoPergunta; });
+      caixa.appendChild(seguir);
+      caixa.appendChild(fechar);
+      pergunta.appendChild(caixa);
+      // o toque no fundo escuro cai no próprio dialog (a caixa de dentro o cobre por inteiro)
+      pergunta.addEventListener('click', function (e) { if (e.target === pergunta) pergunta.close(); });
+      document.body.appendChild(pergunta);
+    };
+    document.addEventListener('click', function (e) {
+      var a = e.target.closest && e.target.closest('a[href]');
+      if (!a || e.defaultPrevented || e.button !== 0 || e.ctrlKey || e.metaKey || e.shiftKey || e.altKey) return;
+      var x = aberta();
+      if (!x || !paraForaDoCapitulo(a) || !window.HTMLDialogElement) return;
+      e.preventDefault();
+      if (!pergunta) montarPergunta();
+      destinoPergunta = a.href;
+      $('pergunta-nome').textContent = x.nome;
+      pergunta.showModal();
+    });
+  }
+
   // A página das leituras.
   function montarLeituras() {
     var w = $('leituras');
@@ -217,71 +263,4 @@
     }
     if (document.fonts && document.fonts.ready) document.fonts.ready.then(medirVersos);
   }
-
-  // ------------------------------------------------------------ notas
-
-  var painel = $('nota-painel');
-  if (!painel) return;
-  var ref = $('nota-painel-ref'), texto = $('nota-painel-texto');
-  var ativa = null, y0 = 0, largura0 = 0;
-
-  function fechar(focar) {
-    if (painel.hidden) return;
-    painel.hidden = true;
-    if (ativa) {
-      ativa.classList.remove('ativa');
-      if (focar) ativa.focus({ preventScroll: true });
-      ativa = null;
-    }
-  }
-  // O pé da linha em que está a marca: o retângulo do texto que cobre a altura da marca.
-  function peDaLinha(marca) {
-    var m = marca.getBoundingClientRect(), meio = (m.top + m.bottom) / 2, pe = 0;
-    var bloco = marca.closest('.txt, .par') || marca.parentNode;
-    var r = document.createRange();
-    r.selectNodeContents(bloco);
-    var rs = r.getClientRects();
-    for (var i = 0; i < rs.length; i++) if (rs[i].top <= meio && rs[i].bottom >= meio && rs[i].bottom > pe) pe = rs[i].bottom;
-    return pe || m.bottom + 6;
-  }
-  function posicionar(marca) {
-    var folha = (marca.closest('.folha') || document.body).getBoundingClientRect();
-    var margem = 8, alto = window.innerHeight;
-    var barra = document.querySelector('.topo');
-    var cima = barra ? Math.max(0, barra.getBoundingClientRect().bottom) : 0;
-    var esq = Math.max(margem, folha.left - 12);
-    var larg = Math.min(folha.width + 24, window.innerWidth - 2 * margem);
-    painel.style.left = esq + 'px';
-    painel.style.width = larg + 'px';
-    painel.style.maxHeight = (alto - cima - 2 * margem) + 'px';
-    var h = painel.offsetHeight;
-    var y = peDaLinha(marca) + 4;
-    if (y + h > alto - margem) y = alto - margem - h;   // não cabe: o pé da nota no pé da tela
-    painel.style.top = Math.max(cima + margem, y) + 'px';
-  }
-  function abrir(marca) {
-    var li = $('nota-' + marca.getAttribute('data-nota'));
-    if (!li) return false;
-    if (ativa === marca) { fechar(); return true; }
-    if (ativa) ativa.classList.remove('ativa');
-    ativa = marca;
-    marca.classList.add('ativa');
-    ref.textContent = 'Nota ' + marca.getAttribute('data-nota') + ' · ' + li.querySelector('.nota-v').textContent;
-    texto.innerHTML = '';
-    texto.appendChild(li.querySelector('.nota-texto').cloneNode(true));
-    painel.hidden = false;
-    posicionar(marca);
-    y0 = window.scrollY; largura0 = window.innerWidth;
-    return true;
-  }
-
-  // Qualquer toque fecha a nota (dentro dela também); tocar noutra marca abre a outra.
-  document.addEventListener('click', function (e) {
-    var marca = e.target.closest && e.target.closest('.nota-ref');
-    if (marca) { if (abrir(marca)) e.preventDefault(); return; }
-    fechar();
-  });
-  window.addEventListener('scroll', function () { if (!painel.hidden && Math.abs(window.scrollY - y0) > 3) fechar(); }, { passive: true });
-  window.addEventListener('resize', function () { if (!painel.hidden && window.innerWidth !== largura0) fechar(); });
-  document.addEventListener('keydown', function (e) { if (e.key === 'Escape') fechar(true); });
 })();

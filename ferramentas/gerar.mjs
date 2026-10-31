@@ -28,6 +28,8 @@ const paragrafos = (s) => String(s).split(/\n\s*\n/).map((p) => `<p>${inline(p.t
 const hash = (f) => crypto.createHash('sha256').update(fs.readFileSync(path.join(SAIDA, f))).digest('hex').slice(0, 8);
 const CSS = `${BASE}css/estilo.css?v=${hash('css/estilo.css')}`;
 const JS = `${BASE}js/biblia.js?v=${hash('js/biblia.js')}`;
+// As notas: o mesmo arquivo da Biblioteca (o workflow Cópias confere o sha256).
+const NOTAS = `${BASE}js/notas.js?v=${hash('js/notas.js')}`;
 // Lido antes de desenhar a página (sem defer): tema e tamanho da letra escolhidos, sem piscar.
 const PREF = `${BASE}js/preferencias.js?v=${hash('js/preferencias.js')}`;
 
@@ -84,6 +86,7 @@ function pagina({ titulo, descricao, inicio = false, trilha = [], corpo, classe 
 <script src="${PREF}"></script>
 <link rel="stylesheet" href="${CSS}">
 <script defer src="${JS}"></script>
+<script defer src="${NOTAS}"></script>
 </head>
 <body${classe ? ` class="${classe}"` : ''}${cap ? ` data-cap="${esc(cap)}"` : ''}>
 <a class="pular" href="#app">Ir para o conteúdo</a>
@@ -139,7 +142,8 @@ function lerCapitulos() {
 // - o capítulo, só sem escolha de tradução esperando a resposta dele (`revisao.escolhas`);
 // - a nota, só aprovada: `revista`, ou o capítulo inteiro `revisado`;
 // - o comentário, só aprovado (`revisto`), e nunca o que voltou com aviso de corte;
-// - o tema, só com o título aprovado e algum comentário aprovado; o resumo, só aprovado.
+// - o tema, só com o título aprovado e algum comentário aprovado. Desde 31/10 o tema não tem
+//   resumo: só um nome bem descritivo (pedido do Gere).
 function publicavel(c) {
   if (c.revisao && c.revisao.escolhas && c.revisao.escolhas.length) return null;
   const comentarios = {};
@@ -149,9 +153,7 @@ function publicavel(c) {
       const rev = x.revisto || [];
       const itens = x.itens.filter((it) => it.revisto && !it.aviso_corte);
       if (!rev.includes('titulo') || !itens.length) continue;
-      const t = { ...x, itens };
-      if (!rev.includes('resumo')) delete t.resumo;
-      temas.push(t);
+      temas.push({ ...x, itens });
     }
     comentarios[tid] = { ...com, temas };
   }
@@ -290,7 +292,7 @@ ${voltar(urlCap, r.curto)}
   <p class="apagado pequeno">${com.temas.length} temas · ${total} comentários. Escolha um tema.</p>
 </header>
 <nav class="temas" aria-label="Temas dos comentários">
-${com.temas.map((x) => `<a class="tema" href="${urlT}${x.id}/"><span class="tema-titulo">${esc(x.titulo)}</span>${x.versiculos && x.versiculos.length ? `<span class="tema-ref">${esc(refVers(c.livro, c.cap, x.versiculos))}</span>` : ''}${x.resumo ? `<span class="tema-resumo">${inline(x.resumo)}</span>` : ''}<span class="tema-n">${x.itens.length === 1 ? '1 comentário' : x.itens.length + ' comentários'}</span></a>`).join('\n')}
+${com.temas.map((x) => `<a class="tema" href="${urlT}${x.id}/"><span class="tema-titulo">${esc(x.titulo)}</span>${x.versiculos && x.versiculos.length ? `<span class="tema-ref">${esc(refVers(c.livro, c.cap, x.versiculos))}</span>` : ''}<span class="tema-n">${x.itens.length === 1 ? '1 comentário' : x.itens.length + ' comentários'}</span></a>`).join('\n')}
 </nav>
 <p class="pequeno apagado aviso-trad">As traduções dos comentários são da Bíblia Taioé, feitas dos originais; cada comentário traz a referência e o link para o texto na língua em que foi escrito.</p>
 </article>`;
@@ -308,7 +310,6 @@ ${com.temas.map((x) => `<a class="tema" href="${urlT}${x.id}/"><span class="tema
 <header class="cab-coment">
   <p class="sobretitulo">Comentários · ${esc(nomeTrecho)}</p>
   <h1>${esc(x.titulo)}</h1>
-  ${x.resumo ? `<p class="resumo">${inline(x.resumo)}</p>` : ''}
 </header>
 ${versosDoTema(c, x.versiculos)}
 <div class="comentarios">
@@ -322,7 +323,7 @@ ${passos(viz, (t) => t.titulo, (t) => `${urlT}${t.id}/`, 'Navegação entre tema
 </article>`;
       gravar(`${urlT}${x.id}/`, pagina({
         titulo: `${x.titulo} · Comentários ao ${r.curto} · Bíblia Taioé`,
-        descricao: x.resumo || `Comentários sobre ${nomeTrecho}.`,
+        descricao: `${x.titulo}: comentários sobre ${nomeTrecho}.`,
         trilha: [[livro.nome, `${BASE}${c.livro}/`], [r.curto, urlCap], ['Comentários', urlT], [x.titulo, null]],
         corpo, classe: 'pag-tema',
       }));

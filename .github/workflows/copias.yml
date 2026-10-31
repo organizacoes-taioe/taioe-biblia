@@ -1,0 +1,22 @@
+# Confere que o arquivo das notas é exatamente o do README do taioe-hub, o mesmo da Biblioteca
+# (pedido do Gere, 31/10/2026: as notas da Bíblia e as da Biblioteca têm sempre a mesma dinâmica).
+# Ao mudar o notas.js, mude o valor aqui, no taioe-biblioteca e no README do hub, no mesmo dia.
+name: Cópias
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  conferir:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - name: sha256 das cópias
+        run: |
+          echo "e1def09bd0ffd6d5c09624c375e5bfa39ff008ff845816fe2906fe98b41afef7  public/biblia/js/notas.js" > esperado.txt
+          sha256sum -c esperado.txt
