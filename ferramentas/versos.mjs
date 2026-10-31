@@ -1,5 +1,5 @@
 // Passa os versos de um capítulo (as linhas `l` do texto) pelo medidor de verso livre do
-// Versificador (Solar/Editora/Versificador/ferramentas/verso-livre.mjs), para que soem bem em
+// Versificador (Solar/producao/versificador/ferramentas/verso-livre.mjs), para que soem bem em
 // português (pedido do Gere, 17/10). A fidelidade ao original vem antes: um verso marcado só se
 // reescreve se a nova forma disser o mesmo que o hebraico (ou o grego).
 //
@@ -10,13 +10,16 @@
 // Marcas: ralo (mais de 3,5 sílabas por acento), vazio (5 átonas seguidas ou mais), choques (3
 // pares de tônicas vizinhas ou mais). No fim, o perfil do capítulo contra as metas do estudo do
 // ritmo (sílabas por acento 2,4–2,8; intervalos dos mestres ~15/30/29/16/5 %).
-// O Versificador não é repositório: o caminho é o do OneDrive, relativo a esta pasta.
+// O Versificador não é repositório: o caminho é relativo a esta pasta (até 2026-10-31,
+// Solar/Editora/Versificador, que ainda serve se o novo não existir).
 import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath, pathToFileURL } from 'node:url';
 
 const RAIZ = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
-const VERSIFICADOR = path.resolve(RAIZ, '..', '..', '..', 'Solar', 'Editora', 'Versificador');
+const VERSIFICADOR = [['Solar', 'producao', 'versificador'], ['Solar', 'Editora', 'Versificador']]
+  .map((p) => path.resolve(RAIZ, '..', '..', '..', ...p))
+  .find((p) => fs.existsSync(p)) ?? path.resolve(RAIZ, '..', '..', '..', 'Solar', 'producao', 'versificador');
 const medidor = path.join(VERSIFICADOR, 'ferramentas', 'verso-livre.mjs');
 if (!fs.existsSync(medidor)) { console.error(`não achei o Versificador em ${VERSIFICADOR}`); process.exit(1); }
 const { medirVerso, perfil } = await import(pathToFileURL(medidor).href);
