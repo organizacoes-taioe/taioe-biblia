@@ -1,8 +1,8 @@
 {
  "livro": "genesis",
  "cap": 1,
- "estado": "em revisão",
- "atualizado": "2026-10-25",
+ "estado": "revisado",
+ "atualizado": "2026-10-31",
  "trechos": [
   {"id": "1", "titulo": "No princípio", "de": 1},
   {"id": "2", "titulo": "O firmamento e a terra seca", "de": 6},
@@ -49,11 +49,11 @@
   {"v": 31, "t": "E viu Deus tudo o que tinha feito, e eis que era muito bom. E houve tarde, e houve manhã: o sexto dia."}
  ],
  "notas": [
-  {"id": "n01", "v": 1, "apos": "a terra", "texto": "Este relato da criação (1,1–2,2) é a primeira leitura da Vigília Pascal: na noite da Páscoa, a Igreja começa a história da salvação pela criação do mundo.", "origem": "nova: o uso marcante na liturgia da Missa (como o Te Deum no Sl 33,22); no lugar da do projeto antigo sobre «bereshit» (nota de língua)", "revista": true},
-  {"id": "n02", "v": 5, "apos": "manhã", "texto": "A tarde vem antes da manhã: para Israel, o dia começa ao pôr do sol. Por isso o sábado começa na sexta-feira à tarde, e os domingos e as festas da Igreja começam na véspera.", "origem": "revista do projeto antigo: costume que o leitor de hoje não tem, com o eco na liturgia (a missa da véspera)", "revista": true},
-  {"id": "n03", "v": 6, "apos": "firmamento", "texto": "Na imagem antiga do mundo, o firmamento é uma abóbada firme, como um teto, que separa as águas de cima, de onde vem a chuva, das águas de baixo.", "origem": "nova: a imagem antiga do mundo, como a nota dos abismos aprovada no Sl 33,7", "revista": true},
-  {"id": "n04", "v": 16, "apos": "grandes luzeiros", "texto": "O texto não diz «sol» nem «lua», que nos povos vizinhos eram nomes de deuses: aqui são só luzeiros, que Deus fez e pôs no céu para iluminar a terra.", "origem": "revista do projeto antigo: o contexto histórico que passaria despercebido; saiu a frase sobre as estrelas «quase de passagem» (análise)", "revista": true},
-  {"id": "n05", "v": 29, "apos": "alimento", "texto": "Neste começo, os homens e os animais comem só plantas; a carne só será dada como alimento depois do dilúvio (9,3).", "origem": "revista do projeto antigo: ajuda a se localizar no texto (como Nm 14,17); saiu «e virá com ressalvas»", "revista": true}
+  {"id": "n01", "v": 1, "apos": "a terra", "texto": "Este relato da criação (1,1–2,2) é a primeira leitura da Vigília Pascal: na noite da Páscoa, a Igreja começa a história da salvação pela criação do mundo.", "origem": "nova: o uso marcante na liturgia da Missa (como o Te Deum no Sl 33,22); no lugar da do projeto antigo sobre «bereshit» (nota de língua)"},
+  {"id": "n02", "v": 5, "apos": "manhã", "texto": "A tarde vem antes da manhã: para Israel, o dia começa ao pôr do sol. Por isso o sábado começa na sexta-feira à tarde, e os domingos e as festas da Igreja começam na véspera.", "origem": "revista do projeto antigo: costume que o leitor de hoje não tem, com o eco na liturgia (a missa da véspera)"},
+  {"id": "n03", "v": 6, "apos": "firmamento", "texto": "Na imagem antiga do mundo, o firmamento é uma abóbada firme, como um teto, que separa as águas de cima, de onde vem a chuva, das águas de baixo.", "origem": "nova: a imagem antiga do mundo, como a nota dos abismos aprovada no Sl 33,7"},
+  {"id": "n04", "v": 16, "apos": "grandes luzeiros", "texto": "O texto não diz «sol» nem «lua», que nos povos vizinhos eram nomes de deuses: aqui são só luzeiros, que Deus fez e pôs no céu para iluminar a terra.", "origem": "revista do projeto antigo: o contexto histórico que passaria despercebido; saiu a frase sobre as estrelas «quase de passagem» (análise)"},
+  {"id": "n05", "v": 29, "apos": "alimento", "texto": "Neste começo, os homens e os animais comem só plantas; a carne só será dada como alimento depois do dilúvio (9,3).", "origem": "revista do projeto antigo: ajuda a se localizar no texto (como Nm 14,17); saiu «e virá com ressalvas»"}
  ],
  "comentarios": {
   "1": {
@@ -251,20 +251,5 @@
     }
    ]
   }
- },
- "revisao": {
-  "escolhas": [
-   {
-    "id": "espirito-de-deus",
-    "ref": "Gn 1,2",
-    "titulo": "«O Espírito de Deus», «o espírito de Deus» ou «um vento de Deus» pairava sobre as águas?",
-    "contexto": "O hebraico diz *ruah elohim*: *ruah* é espírito, sopro e vento (no Sl 33,6 ficou «o sopro da sua boca», com a nota da leitura dos Padres). Aqui os Padres leem o Espírito Santo, que paira sobre as águas como a ave sobre o ninho (Basílio, Ambrósio, Jerônimo, Agostinho), e o lecionário diz «o Espírito de Deus», com maiúscula. Algumas Bíblias modernas leem um vento forte («um vento de Deus», a Bíblia de Jerusalém). A tradução de partida dizia «o espírito de Deus», com minúscula. A escolha vale para os outros lugares em que o texto fala do Espírito de Deus no Antigo Testamento.",
-    "opcoes": [
-     {"id": "a", "texto": "«e o Espírito de Deus pairava sobre as águas»", "nota": "Como na liturgia e na leitura dos Padres.", "recomendada": true},
-     {"id": "b", "texto": "«e o espírito de Deus pairava sobre as águas»", "nota": "Como estava: deixa a leitura em aberto."},
-     {"id": "c", "texto": "«e um vento de Deus pairava sobre as águas»", "nota": "A leitura de algumas Bíblias modernas; perde a que os Padres e a liturgia fazem."}
-    ]
-   }
-  ]
  }
 }

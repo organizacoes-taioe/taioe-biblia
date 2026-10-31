@@ -110,3 +110,7 @@ de onde veio. Ler antes de preparar um capítulo (`CAPITULO.md`, etapas 2 a 4).
   capítulo em geral entre 30 e 50. Os Salmos 33–36 passaram de 114, 151, 159 e 151 para 48, 49, 51
   e 32 (o motivo de cada exclusão em `pesquisa/salmos/<ccc>/enxugo-2026-10-20.json`).
 - «Não precisa favorecer [os orientais] sobre os ocidentais, quero que escolha o melhor»: sem cota.
+
+- 2026-10-31, Gn 3,24 (a nota dos querubins, excluída): «Vago, e acrescenta pouco». Nota que só diz o
+  que o leitor já adivinha, ou o diz de modo genérico, não entra; se o termo é novo, a nota tem de
+  dizer algo que ele não tiraria do próprio texto.

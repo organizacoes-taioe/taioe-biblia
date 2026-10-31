@@ -1,8 +1,8 @@
 {
  "livro": "genesis",
  "cap": 3,
- "estado": "em revisão",
- "atualizado": "2026-10-26",
+ "estado": "revisado",
+ "atualizado": "2026-10-31",
  "trechos": [
   {"id": "1", "titulo": "A serpente", "de": 1},
   {"id": "2", "titulo": "Onde estás?", "de": 8},
@@ -42,8 +42,7 @@
  "notas": [
   {"id": "n01", "v": 15, "apos": "calcanhar", "texto": "Os Padres viram neste versículo o primeiro anúncio da vitória do Redentor sobre o mal, e por isso o chamam de «protoevangelho», o primeiro evangelho: na descendência da mulher leram Cristo, e na mulher, Maria. Os vv. 9-15 e 20 são a primeira leitura da Missa da Imaculada Conceição (8 de dezembro).", "origem": "revista do projeto antigo: o ponto importante que passaria despercebido (como o *ruah* do Sl 33,6) e o uso na liturgia da Missa; saiu a nota de língua sobre o mesmo verbo nas duas metades (ver a escolha do v. 15)"},
   {"id": "n02", "v": 19, "apos": "voltarás", "texto": "O fim deste versículo é uma das fórmulas com que o sacerdote impõe as cinzas na Quarta-feira de Cinzas, no começo da Quaresma.", "origem": "revista do projeto antigo: o uso na liturgia da Missa; saiu «o homem não é amaldiçoado, o solo sim» (interpretação)"},
-  {"id": "n03", "v": 20, "apos": "Eva", "texto": "Em hebraico, «Eva» (*Havá*) soa como «vivente» (*hay*): o nome diz o que ela é.", "origem": "revista do projeto antigo: sem ela não se entende o «porque» do versículo (como a de *ishshá* e *ish*, Gn 2,23); saiu «acabada de ouvir a sentença de morte…» (interpretação)"},
-  {"id": "n04", "v": 24, "apos": "querubins", "texto": "Os querubins são anjos que, na Bíblia, guardam o lugar onde Deus está.", "origem": "nova: a primeira vez que aparecem na Bíblia, e o leitor pode não saber quem são (como Maria em Nm 12,1)"}
+  {"id": "n03", "v": 20, "apos": "Eva", "texto": "Em hebraico, «Eva» (*Havá*) soa como «vivente» (*hay*): o nome diz o que ela é.", "origem": "revista do projeto antigo: sem ela não se entende o «porque» do versículo (como a de *ishshá* e *ish*, Gn 2,23); saiu «acabada de ouvir a sentença de morte…» (interpretação)"}
  ],
  "comentarios": {
   "1": {
@@ -236,30 +235,5 @@
     }
    ]
   }
- },
- "revisao": {
-  "escolhas": [
-   {
-    "id": "voz-do-senhor",
-    "ref": "Gn 3,8",
-    "titulo": "«Ouviram a voz do Senhor Deus» ou «o som dos passos do Senhor Deus»?",
-    "contexto": "O hebraico diz *qol YHWH elohim mithallekh baggan*: *qol* é «voz» e também «som», e o que vem depois é «que passeava no jardim». A Bíblia grega, a Vulgata e o lecionário dizem «a voz»; muitas traduções modernas, «o som (dos passos)». A tradução de partida dizia «o rumor do Senhor Deus» (e no v. 10, «Ouvi o teu rumor»). A mesma palavra volta no v. 10 («Ouvi a tua voz no jardim») e no v. 17 («Porque ouviste a voz da tua mulher»). Vale para os vv. 8 e 10.",
-    "opcoes": [
-     {"id": "a", "texto": "«Ouviram a voz do Senhor Deus, que passeava no jardim à brisa da tarde»; v. 10 «Ouvi a tua voz no jardim»", "nota": "Como na liturgia, na Bíblia grega e na Vulgata; guarda o eco com o v. 17, a voz da mulher ouvida no lugar da de Deus.", "recomendada": true},
-     {"id": "b", "texto": "«Ouviram o som dos passos do Senhor Deus, que passeava no jardim à brisa da tarde»; v. 10 «Ouvi o som dos teus passos no jardim»", "nota": "Explica o «passeava», mas acrescenta «passos», que o hebraico não diz."},
-     {"id": "c", "texto": "«Ouviram o rumor do Senhor Deus, que passeava no jardim»; v. 10 «Ouvi o teu rumor no jardim»", "nota": "Como estava."}
-    ]
-   },
-   {
-    "id": "ferira-a-cabeca",
-    "ref": "Gn 3,15",
-    "titulo": "«Esta te ferirá a cabeça» ou «esta te esmagará a cabeça»?",
-    "contexto": "O hebraico diz *hu yeshufkha rosh ve'atta teshufennu aqev*, com o mesmo verbo (*shuf*) nas duas metades: «ela te ferirá a cabeça, e tu lhe ferirás o calcanhar»; o golpe na cabeça é mortal, o do calcanhar não. O lecionário diz «Esta te ferirá a cabeça e tu lhe ferirás o calcanhar». A Vulgata usa dois verbos, *conteret* («esmagará») e *insidiaberis* («armarás ciladas»), e é dela que vem a imagem de Maria esmagando a serpente. A tradução de partida dizia «esta te esmagará a cabeça, e tu lhe ferirás o calcanhar». Em qualquer opção, «esta» é a descendência da mulher, como no hebraico (*hu*, que concorda com *zera'*) e no lecionário.",
-    "opcoes": [
-     {"id": "a", "texto": "«esta te ferirá a cabeça, e tu lhe ferirás o calcanhar»", "nota": "O mesmo verbo nas duas metades, como o hebraico e a liturgia.", "recomendada": true},
-     {"id": "b", "texto": "«esta te esmagará a cabeça, e tu lhe ferirás o calcanhar»", "nota": "Como estava; mostra a vitória desigual, mas com dois verbos onde o hebraico tem um."}
-    ]
-   }
-  ]
  }
 }
