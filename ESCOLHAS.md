@@ -46,6 +46,7 @@ Vale para pessoas, povos e lugares, também nos comentários dos Padres.
   que a liturgia não lê, ficaram como no projeto antigo (aprovado). Coré, Datã, Abiram, On, Isaar,
 - Nm 20: Sin, Cades, Maria e Meriba (sem acento, como o lecionário e o Sl 95 da liturgia; Êx 17, Nm 27, Dt 32 e os Salmos, que o projeto antigo escreve «Meribá», mudam ao entrarem); Edom, monte Hor e Eleazar, que a liturgia não lê no capítulo, como no projeto antigo.
 - Nm 21: o monte Hor, o mar Vermelho e Edom, como o lecionário (Nm 21,4-9, Exaltação da Santa Cruz e Quaresma); Arad, Negueb, Atarim, Horma, Obot, Ijé-Abarim, Zared, Arnon, Vaeb, Sufa, Ar, Beer, Matana, Naaliel, Bamot, o Fasga, Seon, Jasa, Jaboc, Amon, Jazer, Hesbon, Camos, Dibon, Nofa, Medaba, Og, Basã e Edrai, que a liturgia não lê, como no projeto antigo.
+- Nm 22: Balaão, filho de Beor, como o lecionário (Nm 24,2-7.15-17a, Advento); Balac, filho de Sefor, Petor, Madiã, o Arnon, Cariat-Husot e as alturas de Baal, que a liturgia não lê, como no projeto antigo (Js 24,9; Jz 11,25; Mq 6,5; Ap 2,14 dizem «Balac»).
 - Nm 23: Balaão e Beor, como o lecionário (Nm 24,3.15); Balac, Sefor, Arã, Moab, o Fasga e o Fogor, que a liturgia não lê, como no projeto antigo (o Fasga também em Nm 21).
 - Gn 3: Eva e Éden, como o lecionário.
 - Gn 4: Adão, Eva, Caim, Abel e Set, como o lecionário; Nod, Henoc, Irad, Maviael, Matusael, Lamec, Ada, Sela, Jabel, Jubal, Tubalcaim e Noema, que a liturgia não lê, como no projeto antigo; *Enosh* = Enós (o projeto antigo dizia «Enos»; Gn 5 muda ao entrar).
@@ -122,6 +123,10 @@ Vale para pessoas, povos e lugares, também nos comentários dos Padres.
 | *riv* | contender | Nm 20,3.13, o eco com Meriba, «contenda» (nota) | Nm 20 |
 | *vehay* (Nm 21,8-9) | viverá / ficava vivo | a mesma palavra nos dois versículos; o lecionário diz «ficava curado» no v. 9 | Nm 21 |
 | *sarim* (Nm 21,18) | os chefes | «poço que os chefes cavaram, / que os nobres do povo abriram», como *sar* em Nm 22; a tradução de partida dizia «príncipes» | Nm 21 |
+| *sar* (os enviados de um rei) | chefe | Nm 22,8.13-15.21.35.40 «os chefes de Moab», «os chefes de Balac», como *nasi*; nunca «príncipe»; também Nm 21,18 («poço que os chefes cavaram») e Nm 23,6.17 («os chefes de Moab»); os outros usos de *sar* («chefe do exército», «chefe de mil») se decidem ao entrarem | Nm 22 |
+| *qahal* na boca de estrangeiros | multidão | Nm 22,4 «esta multidão vai lamber tudo», o bando que se aproxima; «assembleia» fica para Israel reunido | Nm 22, a confirmar |
+| *ḥavash* (o animal) | selar | Nm 22,21 «selou a sua jumenta»; a tradução de partida dizia «albardou», como em Gn 22,3, que muda ao entrar | Nm 22 |
+| *qesamim* | o preço da adivinhação | Nm 22,7 | Nm 22 |
 | *derekh hammelekh* | a estrada real | Nm 20,17 e 21,22, com nota curta (a rota das caravanas) | projeto antigo |
 | *ne'um* | oráculo | também fora dos profetas: Sl 36,2 «A transgressão é oráculo para o ímpio» | Sl 36, aprovado |
 | *tehom rabbá* | o grande abismo | como em Gn 7,11, Is 51,10 e Am 7,4 | Sl 36, aprovado |

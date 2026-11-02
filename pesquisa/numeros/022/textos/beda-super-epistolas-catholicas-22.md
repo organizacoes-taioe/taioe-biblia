@@ -1,0 +1,15 @@
+# São Beda, Comentário a 2Pd 2,15–16 e a Jd 11
+- Autor: São Beda, o Venerável (c. 673–735)
+- Obra: Super epistolas catholicas (In II Petri; In Iudae)
+- Edição: PL 93, 78D–79B; 126D–127A
+- Fonte: https://mlat.uzh.ch/browser/cps_2.Beda.SuEpCa
+- Baixado: 2026-11-02 (Corpus Corporum, texto da PL); conferido pelo script `~/.cache/taioe-nm22/latinos/ext.py`
+
+
+## In II Petri 2,15–16
+
+Secuti viam Balaam ex Bosor, etc. Plerumque haeretici tam stulta dogmata, tam exsecranda proferunt sacramenta, ut etiam hebetum sensus, et paganorum, et qui ratione divinae cognitionis omnimodis carent, illorum detestentur insaniam, illorum distorta et Deo contraria itinera sanius sapiendo redarguat. Et quod pejus, quia frequentius est, nonnunquam multi catholici in tantum mercedem amant iniquitatis, ut etiam docti ab indoctis, a laicis clerici merito lacerentur: qui jure comparantur prophetae, qui verbis asinae contra naturam loquentis corripitur, nec tamen a proposito pravi itineris retardatur. Quibus etiam aptissime nomen congruit civitatis de qua Balaam venisse perhibetur; Bosor namque carneus, sive in tribulatione dicitur. Neque alia magis causa luxuriosis existit verbum veritatis amore pecuniae vel desideriorum temporalium adulterare, quam quod carnis se concupiscentiae mancipaverunt, indigni nimirum apostolica laude, qua veros fideles glorificans ait: Vos autem, fratres, non estis in carne, sed in spiritu. Unde et in tribulatione sunt positi, non quidem ea qua pro Domino ipsi patiuntur, sed in illa potius qua animos infirmorum perversis operum suorum exemplis, ne ad salutem exsurgere vel resipiscere possint, opprimunt. Sed et nomen ipsius Balaam, qui vanus populus sive praecipitans eos interpretatur, talibus convenit. Qui enim agnitam veritatis viam sponte ipsi deserunt, quid nisi vanus sunt populus? quid nisi in praecipitium suos mittunt auditores, quibus non salutaria quae corrigant, sed quae illos delectent, erronea praedicant
+
+## In Iudae 11 (reserva)
+
+Vae illis qui in via Cain abierunt, etc. Via Cain abeunt, qui propter invidiam meliorum nomen sibi doctorum quo honorificentur assumunt. Et errore Balaam effusi sunt, qui pro amore terrestrium commodorum, veritatem quam ipsi norunt impugnant. Contradictione Core, qui vivus ad inferna descendit, intereunt, quicunque appetitu indebiti primatus sese ab unitate sanctae Ecclesiae secernunt, scientesque et praevidentes quantum mali gerant, ad scelerum tamen tartara descendunt. Et quidem Cain de fratricidio cogitantem Dominus corripuit, sed eum invidia salvari non sinit. Balaam autem adversus Dei populum iter agentem Dominus vetuit, sed amor pecuniae, ne obtemperaret, obstitit. Core superbientem Moyses Domino in se loquente lenire curavit; sed eum elatio, qua fervebat, insanabilem reddidit. Sic profecto, sic faciunt haeretici, qui ad increpationem sanctae Ecclesiae emendari despiciunt; quin potius fratres gladio malae doctrinae, sicut Cain, interficere, malo consilio decipere sicut Balaam, contra doctores catholicos erigere sicut Core, ad suam ipsorum perditionem, contendunt.

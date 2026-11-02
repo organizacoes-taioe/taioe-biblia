@@ -1,0 +1,9 @@
+# Ruperto de Deutz, De glorificatione Trinitatis II, 11
+- Autor: Ruperto de Deutz (c. 1075–1129)
+- Obra: De glorificatione Trinitatis et processione Spiritus sancti, II, 11
+- Edição: PL 169, 41C–42A
+- Fonte: https://mlat.uzh.ch/browser/cps_2.RupTui.DeGlTr
+- Baixado: 2026-11-02 (Corpus Corporum, texto da PL); conferido pelo script `~/.cache/taioe-nm22/latinos/ext.py`
+- Nota: o mesmo pensamento (a palavra na boca, não no coração) está em Orígenes, Hom. in Num. 14 (Rufino), copiado por Rábano (base/rabano-enarrationes-numeros.md, col. 729B–C).
+
+Illud quod primum dixi, quia dum vul, spirat deforis, adeo multorum est, ut etiam malis interdum accidere potuerit. Exempli gratia: « Misit Saul lictores ut raperent David. Qui cum vidissent cuneum prophetarum vaticinantium, et Samuelem stantem super eos, factus est etiam in illis Spiritus Domini, et prophetare coeperunt etiam ipsi. » Prophetaverunt et alii nuntii, prophetaverunt et tertii. Abiit et ipse, et factus est etiam super eum Spiritus Domini et prophetavit. Effectus enim quidam est, valens aperire interiores oculos, etiam ejus qui non meretur ingressum ad se ejusdem Spiritus Domini, ut videat quod ante ignoravit, et intelligat voluntatem Domini; nimirum ad judicium sibi. Quemadmodum et ille Balaam, qui de semetipso ait: « Dixit Baalam filius Beor: Dixit homo cujus obturatus est oculus; dixit auditor sermonum Dei, qui visionem Omnipotentis intuitus est, qui cadit, et sic aperiuntur oculi ejus. » De quo videlicet Balaam in praesenti ratione perpendendum est, quia cum semel et iterum dictum vel scriptum sit, quia occurrens ei Dominus, posuit verbum in ore ejus, nusquam dictum est, posuit in corde ejus, sicut dicitur digno et fideli viro, Prope est verbum in corde tuo et in ore tuo. Non enim in corde per dilectionem sapiebat ea quae Dei sunt, quamvis ore per scientiam proferat ea quae Dei sunt.
