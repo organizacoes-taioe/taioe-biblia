@@ -25,6 +25,8 @@ Levantado em 2026-10-20 a partir de `001/` e `002/` (relatórios, `fontes-*.md`,
 
 ## 2Cor 5
 
+- **Capítulo feito em 2026-11-02** (pesquisa em `005/`), junto com os caps. 6 e 7: o que segue já foi usado ou conferido.
+
 - **Penhor/arra (5,5)**, já apontado nas pesquisas de 2Cor 1: Agostinho, Sermões 23, 8–9 (PL 38, 158–159), 156, 16 (PL 38, 858) e 378 (PL 39, 1673–1674; está entre os *dubii* no Corpus, texto 21440: conferir a autenticidade) — o Sermão 23 diz que os códices com *arrham* são melhores que os com *pignus*; Basílio, *Sobre o Espírito Santo* 15, 36 (PG 32, 132: «se tal é o penhor, qual não será o todo?»; Catecismo n. 736); Cirilo de Jerusalém, *Catequese* 17, 32 (mistura 1,22 com 5,5); Fulgêncio, *Contra Fabianum*, fragm. 28 (PL 65, 786: o penhor é Deus, porque a herança é Deus); Gregório Magno, *Moralia* XVI, 5, 6 (*pignus*; PL 75, 1123); Máximo de Turim, Hom. 114 (PL 57, 520: o «donativo» do soldado; autenticidade discutida); pseudo-Crisóstomo, *De capto Eutropio* (PG 52, 406–408: o anel do noivo; duvidoso). Leão XIII, *Divinum illud munus* (1897, sobre o Espírito Santo: unção e penhor) ficou como pista.
 - Ecumênio (glosa em Staab, pp. 444–446, `Oecumenius_PG 118-119/Fragmenta in epistulam ii ad Corinthios.pdf`): «2 kor 5,17» (edição moderna: citação curta).
 - Liturgia/Catecismo: a fórmula da absolvição («Deus, Pai de misericórdia, que reconciliou o mundo consigo…») ecoa **5,18-19** (Catecismo n. 1449; *Ordo Paenitentiae*): `../001/liturgia-2cor-1.md` § 3. Lecionário, domingos do ano B: **4,13–5,1**, **5,6-10**, **5,14-17**.
@@ -34,11 +36,15 @@ Levantado em 2026-10-20 a partir de `001/` e `002/` (relatórios, `fontes-*.md`,
 
 ## 2Cor 6
 
+- **Capítulo feito em 2026-11-02** (pesquisa em `006/`).
+
 - Nada específico nos relatórios de 2Cor 1–2 para este capítulo. (Não consta dos relatórios, a conferir no Lecionário: 5,20–6,2 é a leitura da Quarta-feira de Cinzas.)
 - (2Cor 3) Francisco de Sales, *Index scripturaire*: v. 1 IV, 122.177; VIII, 349; v. 2 VII, 128; VIII, 44.219.229; IX, 132; XIII, 51; XVI, 133.
 - (2Cor 4) 6,9-10: Gregório, *Morais* X, 18, 35 (PL 75, 941A–B); Fulgêncio, *Ao rei Trasamundo* (PL 65, 292A); Tomás, l. 3. Liturgia das Horas, sábado da 16ª semana, **6,1–7,1** (Crisóstomo, hom. 13); Comum dos mártires, **6,4-10**.
 
 ## 2Cor 7
+
+- **Capítulo feito em 2026-11-02** (pesquisa em `007/`). Não é lido na Missa (o ano I vai de 6,1-10 a 8,1-9); Ofício das Leituras, 17º domingo do TC, 7,2-16.
 
 - Bento XVI, catequese sobre Timóteo e Tito (13/12/2006): conta a missão de Tito em Corinto e cita **7,6-7.13** (e 8,23) — relatório de 2Cor 2 (`../002/relatorio-modernos.md` § 2).
 - Newman, *Sermons on Various Occasions* 8, «St. Paul's Gift of Sympathy» (sobre o consolo de Tito; o texto do sermão é 1,3-4, mas toca 7,6): `../001/textos/newman-sermoes-2cor-1.md`.
@@ -48,20 +54,25 @@ Levantado em 2026-10-20 a partir de `001/` e `002/` (relatórios, `fontes-*.md`,
 
 - Bento XVI, catequese sobre Timóteo e Tito (13/12/2006): cita **8,23** (`../002/relatorio-modernos.md` § 2).
 - Liturgia: Lecionário, domingos do ano B: **8,7.9.13-15** (`../002/liturgia-2cor-2.md` § 1).
+- (2Cor 5–7) Liturgia: terça da 11ª semana do TC, ano I, **8,1-9** (Vatican News 17/06/2025); Ofício das Leituras, segunda da 17ª semana, **8,1-24** (2ª leitura São Basílio, *Homilia* 6). Francisco, mensagem de Quaresma 2014 e audiência de Cinzas de 05/03/2014, sobre **8,9**. Bento XVI, 13/12/2006: 8,6.17-23 (Tito, as coletas).
+- (2Cor 5–7) 8,1-2: Teodoreto, PG 82, 421–424 (conferido na imagem n231); 8,9: Teodoreto, *História religiosa* 31, 8; 8,9 e 8,13-15: Teodoreto sobre 6,10 (as coletas). Efrém, comentário, p. 102 (`page/n119`).
 
 ## 2Cor 9
 
 - Nada específico nos relatórios de 2Cor 1–2 para este capítulo.
+- (2Cor 6–7) **9,7** («Deus ama quem dá com alegria»): Agostinho, Sermão 165 (PL 38, 904); Tomás, *Suma* I-II, q. 39, a. 2, obj. 2 e ad 2 (em `../007/textos/tomas-suma-tristeza-2cor-7.md`); Bernardo, *Sermões diversos* 123, 2 (PL 183, 746B).
 
 ## 2Cor 10
 
 - Tomás de Kempis, *Imitação de Cristo* II, 6 («Da alegria da boa consciência») **acaba em 2Cor 10,18** (começa em 1,12 sem citá-lo à letra): `../001/textos/kempis-imitacao-2-6.md`; The Latin Library, `kempis/kempis1.shtml`.
 - De Cirilo a `base/` só tem os fragmentos de Pusey III, pp. 357–358, que cobrem 10,1-6.
+- (2Cor 7) 10,8 e 13,10 (o poder para edificar): Crisóstomo, hom. 15, 3-5 (PG 61, 506–512), a autoridade na Igreja, «arte das artes».
 
 ## 2Cor 11
 
 - Nada específico nos relatórios de 2Cor 1–2 para este capítulo.
 - (2Cor 3) 11,25: Efrém, *Sermão sobre Nosso Senhor* 30–32 (Lamy I, 212–218), os olhos de Moisés iluminados e os de Paulo cegados.
+- (2Cor 6–7) **11,28-29**: Crisóstomo, hom. 12, 5 (PG 61, 487–488) e *Sobre S. Inácio* 2 (PG 50, 590); Agostinho, *Sobre o Sl 55*, 6 (usado em 2Cor 7,5); Ambrosiaster sobre 6,6.
 
 ## 2Cor 12
 
@@ -69,14 +80,18 @@ Levantado em 2026-10-20 a partir de `001/` e `002/` (relatórios, `fontes-*.md`,
 - Liturgia: Lecionário, 14º domingo do ano B: **12,7-10** (`../002/liturgia-2cor-2.md` § 1).
 - (2Cor 3) Francisco de Sales, *Index scripturaire*: 12,9 em mais de vinte lugares, e 12,7-10.
 - (2Cor 4) 12,9-10: Jerônimo, Carta 108, 18 (Santa Paula: 12,10 com 4,7 e 1,5-7); Teodoreto, *História religiosa* 31, 9; Crisóstomo, hom. 9, 1 (PG 61, 460); Pseudo-Macário, *Sermones 64*, logos 40, 3 (citação curta). Missa pelos enfermos: **12,7b-10**.
+- (2Cor 5–7) 12,2-4: Nissa, *Cântico* 10 (a sóbria embriaguez, usado em 5,13) e Teofilato, PG 124, 853. 12,9-10: Gregório, *Morais* XXIX, 17, 31. 12,15: Tomás, cap. 7, l. 1 (usado em 7,3).
 
 ## 2Cor 13
 
 - Newman, *Parochial and Plain Sermons* II, 17, «The Gospel Witnesses» (texto: **2Cor 13,1**), pp. 199–200: achado `newman-pps2-17-gospel-witness` em `../002/achados-modernos.json` (usado em 2Cor 2 por citar 2,16); o sermão inteiro é sobre 13,1.
 - (Não consta dos relatórios, a conferir: 13,13 é a saudação trinitária da Missa, «A graça de nosso Senhor Jesus Cristo, o amor do Pai e a comunhão do Espírito Santo…».)
 - Cirilo (Pusey III, p. 359 ss.): fragmentos sobre 13,3-4 (Cristo «foi crucificado por fraqueza, mas vive pelo poder de Deus»).
+- (2Cor 7) 13,10: Crisóstomo, hom. 14, 3 e 15, 1; Basílio, *Regras longas* 52 e *Regras breves* 40 (corrigir para edificar).
 
 ## Geral (vale para qualquer capítulo)
+
+- (2Cor 5–7, 02/11) Caches reaproveitáveis: 815 textos da PL do Corpus Corporum em `pesquisa/cache/*-latinos/` (índice e scripts de busca por frases da Vulgata em `~/.cache/taioe-2cor-comum/latinos5/` e `latinos67/`, fora do git: basta trocar `pats.json`); 1.417 documentos papais e o Clerus em `pesquisa/cache/2corintios/modernos67/`. Santo Afonso (IntraText) ficou sem varrer: o certificado do site é inválido. Clímaco e Doroteu não estão no khazarzar (o grego da PG 88 no archive.org é ilegível).
 
 - Tudo foi feito só para 2Cor 1 e 2; **a varredura dos Papas (cache de Nm 14 + documentos maiores), do Catecismo (34 arquivos em português), da Suma e das outras obras de Tomás, do *Index scripturaire* de Francisco de Sales e da concordância de Santo Afonso precisa ser refeita para cada capítulo novo** (a referência vem partida por etiquetas no vatican.va: filtrar o HTML bruto por uma palavra solta e só então limpar; ver `pesquisa/fontes/paulo.md`, «Papas»).
 - Os **discursos** dos Papas (*speeches*) não estão no cache de Nm 14: baixar os índices anuais `…/<papa>/<língua>/speeches/<AAAA>.index.html`; o Clerus (`bnh.htm`, perícopes de 2Cor) deu os que a varredura não dá.
