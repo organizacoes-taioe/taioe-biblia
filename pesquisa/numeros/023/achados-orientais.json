@@ -1,0 +1,80 @@
+[
+ {
+  "id": "efrem-in-num-23-11-por-que-deus-nao-deixou-amaldicoar",
+  "autor": "Santo Efrém, o Sírio (atribuído)",
+  "autor_id": "efrem",
+  "datas": "c. 306–373",
+  "titulo_autor": "diácono de Edessa, Doutor da Igreja; obra de atribuição incerta",
+  "obra": "Explicação do livro dos Números (In Numeros explanatio), de cadeias siríacas",
+  "passagem": "In Num. 23,10–11 (cap. XXIII)",
+  "edicao": "J. S. Assemani (ed.), Ephraem Syri Opera omnia syriace et latine, t. I (Roma 1737), p. 264 D–F; tradução latina da edição, conferida na imagem (o siríaco ao lado foi lido só em parte, na imagem: «ܘܠܐ ܫܒܩܗ ܐܠܗܐ ܠܡܠܛ ܠܥܡܐ. ܡܛܠ ܕܗܘ ܠܥܡܐ ܡܬܛܝܒ ܗܘܐ ܠܡܙܢܝܘ ܥܡ ܒܢܬ ܡܘܐܒ», «e Deus não o deixou amaldiçoar o povo, porque o povo se preparava para fornicar com as filhas de Moab», confirma o latim). Corta-se no [...] uma frase que leva a Nm 24,9 («os que te amaldiçoam serão tidos por malditos») e o anúncio da ruína do rei Balac, junto dos altares que tinha erguido.",
+  "versiculos": [
+   7,
+   8,
+   11
+  ],
+  "trecho": "1",
+  "lingua": "la",
+  "original": "Et dixit Balac: Ad maledicendum inimicis meis vocavi te &c. Noluit utique Deus, qui populum ad stuprum cum filiabus Moab se comparasse noverat, praesciebatque sequuturam in poenam ejus flagitii mortalitatem, permittere Balaamo, Israëlitas execrari dirisve devovere, ne videlicet eam calamitatem, quam suis sibi sceleribus accersiverant, ex Arioli maledictione accidisse putarent, atque inde erroris occasionem arriperent, rati Ariolos divina vi praeditos esse, qui nullam haberent. Praeterea ne Balaam ipse se suis execrationibus eam luem Hebraeis immisisse jactaret, virtute divina adactus est eisdem optare bona, & mala simul eorum hostibus imprecari [...]. Sed enim vero tanti ne fuit, ut Balaam Hebraeis malediceret? An non post acceptam ab illo benedictionem, nec verbis, sed factis pessime accepti sunt, immissa divinitus pestilentia?",
+  "fonte_url": "https://archive.org/details/assemani-et-alii-1732-1746-ephraem-syri-opera-omnia-syr-1/page/n284/mode/1up",
+  "traducao_pt": "«E Balac disse: Chamei-te para amaldiçoar os meus inimigos.» Deus não quis, de modo nenhum, permitir que Balaão execrasse os israelitas ou os entregasse à desgraça com as suas pragas. Ele sabia que o povo se preparava para se prostituir com as filhas de Moab e previa a mortandade que viria como castigo dessa infâmia; e não quis que eles pensassem que a desgraça que tinham atraído sobre si com os próprios crimes tinha vindo da maldição do adivinho, e que daí tirassem ocasião de erro, julgando que os adivinhos têm um poder divino que não têm. Além disso, para que o próprio Balaão não se gabasse de ter lançado aquela peste sobre os hebreus com as suas execrações, foi obrigado pelo poder de Deus a desejar-lhes o bem e, ao mesmo tempo, a desejar o mal aos inimigos deles. [...] Mas era mesmo preciso que Balaão amaldiçoasse os hebreus? Depois de receberem dele a bênção, não foram eles duramente castigados, não com palavras, mas com fatos, quando Deus lhes mandou a peste?",
+  "temas": [
+   "quem Deus abençoa ninguém amaldiçoa",
+   "o adivinho não tem poder"
+  ],
+  "resumo": "Deus não deixou Balaão amaldiçoar Israel para que ninguém atribuísse ao adivinho a desgraça que o povo ia atrair com o próprio pecado, nem julgasse que os adivinhos têm poder divino: o que fere o povo não é a maldição dos outros, é o seu pecado.",
+  "relevancia": 3,
+  "direitos": "domínio público (o original é siríaco; aqui a tradução latina da ed. romana, 1737)"
+ },
+ {
+  "id": "efrem-in-num-23-10-seja-o-meu-fim-como-o-deles",
+  "autor": "Santo Efrém, o Sírio (atribuído)",
+  "autor_id": "efrem",
+  "datas": "c. 306–373",
+  "titulo_autor": "diácono de Edessa, Doutor da Igreja; obra de atribuição incerta",
+  "obra": "Explicação do livro dos Números (In Numeros explanatio), de cadeias siríacas",
+  "passagem": "In Num. 23,10 (cap. XXIII)",
+  "edicao": "J. S. Assemani (ed.), Ephraem Syri Opera omnia syriace et latine, t. I (Roma 1737), p. 264 F – 265 A–B; tradução latina da edição, conferida na imagem (o siríaco ao lado, na p. 265 A–B, não foi transcrito). A glosa lê o v. 10b pela forma latina «fiant novissima mea horum similia» e o liga à peste de Baal-Fegor (Nm 25,9) e à morte de Balaão na guerra contra Madiã (Nm 31,8).",
+  "versiculos": [
+   10
+  ],
+  "trecho": "1",
+  "lingua": "la",
+  "original": "Interea vero, dum Balaamo praecipitur Israëlitis benedicere, sibi etiam illorum sortem optare permittitur. Fiant, inquit, novissima mea horum similia. Fiant enimvero, & Balaam eodem, quo illi periere, letho occumbat. Adeo benedictio in maledictionem cessit utrisque. Hebraei namque peste sublati sunt, Balaam in eo praelio cecidit, quo caesi fuere Madianitae, qui alias ab ipso fuerant maledicti. Nimirum & Hebraeos, quibus benedixerat, & Madianitas, quibus maledixerat, similis fere ruina non diu post oppressit.",
+  "fonte_url": "https://archive.org/details/assemani-et-alii-1732-1746-ephraem-syri-opera-omnia-syr-1/page/n285/mode/1up",
+  "traducao_pt": "Entretanto, enquanto Balaão recebe a ordem de abençoar os israelitas, também lhe é permitido desejar para si a sorte deles: «Seja o meu fim semelhante ao deles», diz. Pois que seja: que Balaão caia da mesma morte com que eles pereceram. A tal ponto a bênção se mudou em maldição para uns e para o outro: os hebreus foram levados pela peste, e Balaão caiu na mesma batalha em que foram mortos os madianitas, que antes ele mesmo tinha amaldiçoado. Pouco depois, uma ruína quase igual abateu tanto os hebreus, que ele tinha abençoado, como os madianitas, que tinha amaldiçoado.",
+  "temas": [
+   "«Morra eu a morte dos justos»",
+   "a bênção que se perde"
+  ],
+  "resumo": "O desejo de Balaão se cumpre ao avesso: os hebreus que pecaram com Moab morreram na peste e ele caiu à espada com os madianitas; desejar o fim do povo de Deus não basta, e a bênção se perde para quem a abandona.",
+  "relevancia": 2,
+  "direitos": "domínio público (o original é siríaco; aqui a tradução latina da ed. romana, 1737)"
+ },
+ {
+  "id": "efrem-in-mich-6-5-deus-nao-muda-o-que-prometeu",
+  "autor": "Santo Efrém, o Sírio (atribuído)",
+  "autor_id": "efrem",
+  "datas": "c. 306–373",
+  "titulo_autor": "diácono de Edessa, Doutor da Igreja; obra de atribuição incerta",
+  "obra": "Explicação do profeta Miqueias (Explanatio in Michaeam), de cadeias siríacas",
+  "passagem": "In Mich. 6,5, sobre Nm 23,8.19",
+  "edicao": "J. S. Assemani e P. Benedetti (ed.), Ephraem Syri Opera omnia syriace et latine, t. II (Roma 1740), p. 281 B–C; siríaco transcrito da imagem, sem vogais (o OCR do archive.org é ilegível), conferido com a tradução latina da edição («Respondit autem: quomodo maledicam, cui non maledixit Deus? Non est Deus quasi homo, ut mentiatur, nec filius hominis, ut consilium capiat, ipse dicit & facit, & verbum ejus manet in aeternum. Haec respondit: Quia cognovit justitiam Domini, i.e. fidelitatem, & constantiam, adeo ut nec mutaret quod semel statuerat, nec quod promiserat, negaret: promiserat autem Chananitidem filiis Israel se daturum»). O lema é Mq 6,5 na Peshitta («o que lhe respondeu Balaão, filho de Beor… porque conhecia a justiça do Senhor»); a citação de Nm 23,19 segue a Peshitta («ele diz e faz, e a sua palavra permanece para sempre»). No [...] fica uma palavra ilegível na imagem, entre o lema e a citação de Nm 23,8 (no latim, «Respondit autem»). O comentário segue: Deus tinha prometido dar Canaã aos filhos de Israel. Como o comentário a Números, o comentário aos Profetas da ed. romana vem em boa parte de cadeias siríacas: tratar como «atribuído».",
+  "versiculos": [
+   8,
+   19
+  ],
+  "trecho": "2",
+  "lingua": "syr",
+  "original": "[...] ܒܠܥܡ ܒܪ ܒܥܘܪ ܡܛܠ ܕܝܕܥ ܙܕܝܩܘܬܗ ܕܡܪܝܐ. [...] ܡܢܐ ܐܠܘܛܝܘܗܝ ܕܠܐ ܠܛܗ ܐܠܗܐ. ܠܐ ܗܘܐ ܓܒܪܐ ܐܠܗܐ ܕܢܕܓܠ ܐܦܠܐ ܒܪܢܫܐ ܕܢܬܡܠܟ. ܗܘ ܐܡܪ ܘܥܒܕ ܘܡܠܬܗ ܩܝܡܐ ܠܥܠܡܝܢ. ܗܠܝܢ ܦܢܐ ܕܝܕܥ ܙܕܝܩܘܬܗ ܕܡܪܝܐ. ܗ̄ ܫܪܪܗ ܘܩܘܫܬܗ ܐܝܟ ܕܠܐ ܢܫܚܠܦ ܡܕܡ ܕܓܙܪ ܐܦܠܐ ܢܟܕܒ ܡܕܡ ܕܐܫܬܘܕܝ.",
+  "fonte_url": "https://archive.org/details/assemani-et-alii-1732-1746-ephraem-syri-opera-omnia-syr-2/page/n305/mode/1up",
+  "traducao_pt": "«[O que lhe respondeu] Balaão, filho de Beor, porque conhecia a justiça do Senhor.» [...] «Como amaldiçoarei aquele que Deus não amaldiçoou? Deus não é homem, para mentir, nem filho de homem, para mudar de parecer: ele diz e faz, e a sua palavra permanece para sempre.» Isso ele respondeu porque conhecia a justiça do Senhor, isto é, a sua fidelidade e a sua verdade: Deus não muda o que decretou, nem desmente o que prometeu.",
+  "temas": [
+   "Deus não mente nem se arrepende",
+   "a bênção que não se revoga"
+  ],
+  "resumo": "Lendo Mq 6,5, Efrém diz que Balaão não pôde amaldiçoar porque conhecia a «justiça do Senhor», a sua fidelidade: Deus não volta atrás no que decidiu nem desmente o que prometeu a Israel.",
+  "relevancia": 3,
+  "direitos": "domínio público (ed. romana, 1740)"
+ }
+]

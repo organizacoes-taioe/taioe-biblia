@@ -45,6 +45,7 @@ Vale para pessoas, povos e lugares, também nos comentários dos Padres.
   que a liturgia não lê nesses capítulos, ficaram como no projeto antigo (aprovado). Os doze exploradores de Nm 13,4–15,
   que a liturgia não lê, ficaram como no projeto antigo (aprovado). Coré, Datã, Abiram, On, Isaar,
 - Nm 20: Sin, Cades, Maria e Meriba (sem acento, como o lecionário e o Sl 95 da liturgia; Êx 17, Nm 27, Dt 32 e os Salmos, que o projeto antigo escreve «Meribá», mudam ao entrarem); Edom, monte Hor e Eleazar, que a liturgia não lê no capítulo, como no projeto antigo.
+- Nm 23: Balaão e Beor, como o lecionário (Nm 24,3.15); Balac, Sefor, Arã, Moab, o Fasga e o Fogor, que a liturgia não lê, como no projeto antigo (o Fasga também em Nm 21).
 - Gn 3: Eva e Éden, como o lecionário.
 - Gn 4: Adão, Eva, Caim, Abel e Set, como o lecionário; Nod, Henoc, Irad, Maviael, Matusael, Lamec, Ada, Sela, Jabel, Jubal, Tubalcaim e Noema, que a liturgia não lê, como no projeto antigo; *Enosh* = Enós (o projeto antigo dizia «Enos»; Gn 5 muda ao entrar).
 - Gn 2: Éden (como o lecionário); Píson, Havilá, Geon, Tigre, Assíria e Eufrates, que a liturgia não lê, como no projeto antigo; *Kush* = Etiópia (2,13), como em Nm 12.
@@ -204,6 +205,10 @@ Vale para pessoas, povos e lugares, também nos comentários dos Padres.
 | *lehabburati* (Gn 4,23) | por um golpe | «matei um homem por me ferir, / e um jovem por um golpe» (pelo Versificador); a tradução de partida dizia «por me pisar» | Gn 4 |
 | *zera' aher* (Gn 4,25) | outra descendência | a mesma palavra de 3,15 («a descendência dela») | projeto antigo |
 | *az huhal liqro beshem YHWH* | Foi então que se começou a invocar o nome do Senhor | Gn 4,26 | projeto antigo |
+| *mashal* (Balaão) | poema | «Balaão pronunciou o seu poema» (Nm 23,7.18; 24,3.15.20.21.23), como o lecionário em Nm 24; *ne'um* continua «oráculo» («Oráculo de Balaão», 24,3) | Nm 23 |
+| *qavav* / *'arar* / *za'am* | amaldiçoar / amaldiçoar / maldizer | Nm 23,7–8: «amaldiçoa-me Jacó… maldiz Israel»; «Como amaldiçoarei o que Deus não amaldiçoou?» | projeto antigo |
+| *hen-am* (Nm 23,9.24) | eis um povo | os dois oráculos abrem com a mesma palavra; a tradução de partida dizia «é um povo» no v. 9 | Nm 23 |
+| *lo ish el vikhazzev* (Nm 23,19) | Deus não é homem, que minta, / nem filho de homem, que se arrependa | pelo Versificador; a tradução de partida dizia «para mentir… para se arrepender» | Nm 23 |
 
 ## Inconsistências conhecidas, para corrigir quando o capítulo entrar
 
