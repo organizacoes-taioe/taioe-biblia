@@ -44,6 +44,7 @@ Vale para pessoas, povos e lugares, também nos comentários dos Padres.
   Paulo, Timóteo, Silvano, Corinto, Acaia (2Cor 1); Tito, Trôade, Satanás (2Cor 2). Ásia, Macedônia, Judeia, o mar Vermelho e Horma,
   que a liturgia não lê nesses capítulos, ficaram como no projeto antigo (aprovado). Os doze exploradores de Nm 13,4–15,
   que a liturgia não lê, ficaram como no projeto antigo (aprovado). Coré, Datã, Abiram, On, Isaar,
+- Nm 20: Sin, Cades, Maria e Meriba (sem acento, como o lecionário e o Sl 95 da liturgia; Êx 17, Nm 27, Dt 32 e os Salmos, que o projeto antigo escreve «Meribá», mudam ao entrarem); Edom, monte Hor e Eleazar, que a liturgia não lê no capítulo, como no projeto antigo.
 - Gn 3: Eva e Éden, como o lecionário.
 - Gn 4: Adão, Eva, Caim, Abel e Set, como o lecionário; Nod, Henoc, Irad, Maviael, Matusael, Lamec, Ada, Sela, Jabel, Jubal, Tubalcaim e Noema, que a liturgia não lê, como no projeto antigo; *Enosh* = Enós (o projeto antigo dizia «Enos»; Gn 5 muda ao entrar).
 - Gn 2: Éden (como o lecionário); Píson, Havilá, Geon, Tigre, Assíria e Eufrates, que a liturgia não lê, como no projeto antigo; *Kush* = Etiópia (2,13), como em Nm 12.
@@ -115,6 +116,9 @@ Vale para pessoas, povos e lugares, também nos comentários dos Padres.
 | *timme* (o santuário, a Morada) | contaminar | Nm 19,13.20, como em Lv 15,31 e 20,3; «profanar» fica para *ḥillel* | Nm 19 |
 | *nikhretá hannefesh hahi* | essa pessoa será eliminada | Nm 15,30–31; 19,13.20 | Nm 15 |
 | *'ad-ha'erev* | até a tarde | sem crase, como no Levítico (11,24–31); Números dizia «até à tarde» | Nm 19 |
+| *vayyiqqadesh* (Deus, sujeito) | manifestar a sua santidade | Nm 20,13 «e ele manifestou neles a sua santidade», como o lecionário e Ezequiel no projeto antigo; Lv 10,3 e 22,32 («serei santificado») mudam ao entrarem; *hiqdish* com Deus por objeto fica «santificar» («para me santificardes», Nm 20,12; Dt 32,51) | Nm 20, a confirmar |
+| *riv* | contender | Nm 20,3.13, o eco com Meriba, «contenda» (nota) | Nm 20 |
+| *derekh hammelekh* | a estrada real | Nm 20,17 e 21,22, com nota curta (a rota das caravanas) | projeto antigo |
 | *ne'um* | oráculo | também fora dos profetas: Sl 36,2 «A transgressão é oráculo para o ímpio» | Sl 36, aprovado |
 | *tehom rabbá* | o grande abismo | como em Gn 7,11, Is 51,10 e Am 7,4 | Sl 36, aprovado |
 | *re'e 'emuná* | alimenta-te da fidelidade | Sl 37,3, como a Nova Vulgata (*pascere fide*) | Sl 37, aprovado |

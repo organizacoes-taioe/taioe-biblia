@@ -1,0 +1,18 @@
+# São Gregório Magno, trechos sobre Nm 20
+- Autor: São Gregório Magno (c. 540–604)
+- Obras: Registrum epistolarum XI, 28 (XI, 36 nas edições críticas), a Agostinho, bispo dos ingleses (PL 77; https://mlat.uzh.ch/browser/cps_2.GreI.Episto93); Homiliae in Hiezechihelem I, 7, 12 (PL 76; https://mlat.uzh.ch/browser/cps_2.GreI.HoInEz); Moralia IX, 23?, 35 (PL 75, 872D–873A; https://mlat.uzh.ch/browser/cps_2.GreI.Moral, texto 21427), reserva
+- Baixado: 2026-11-01, do Corpus Corporum (texto puro da PL, download.php?idno=N), por `~/.cache/taioe-nm20/latinos/seg.py` (texto corrido, sem as notas de Migne nem as marcas de coluna; os números soltos são a paginação antiga da PL)
+- Oriental: não
+- Língua: la
+
+**[Ep. XI, 28]** (PL 77, 1140A–D)
+
+Occurrit autem menti ista cogitanti quid de uno Dei famulo actum sit, etiam egregie electo. Certe Moyses dum Dei populum ex Aegypto educeret, mira, sicut tua fraternitas novit, signa in Aegypto operatus est. In Sina monte quadraginta diebus et noctibus jejunans, legis tabulas accepit, inter coruscos et tonitruos, pertimescente omni populo, omnipotentis Dei servitio solus familiari etiam collocutione conjunctus est; Rubrum mare aperuit; in itinere ducem habuit nubis columnam; esurienti populo manna de coelo deposuit; carnes desiderantibus usque ad satietatem nimiam in eremo per miraculum ministravit. Sed cum jam sitis tempore ad petram ventum fuisset, diffisus est, seque de eadem aquam educere posse dubitavit, quam jubente Domino largis utique fluentis aperuit. Quanta autem post haec per triginta et octo annos in deserto miracula fecerit, quis enumerare, quis investigare valeat? Quoties res dubia animum pulsasset, recurrens ad tabernaculum, secreto Dominum requirebat, atque de ea protinus, Deo loquente, docebatur. Iratum populo Dominum placabat suae precis interventione; surgentes in superbia atque in discordia dissidentes dehiscentis terrae hiatibus absorbebat, victoriis premebat hostes, signa monstrabat civibus. Sed cum jam ad repromissionis terram ventum fuisset, vocatus in montem est; et quam culpam ante annos triginta et octo, ut dixi, fecerat, audivit quia de educenda aqua dubitavit. Et propter hoc quia terram repromissionis intrare non posset, agnovit. Qua in re considerandum nobis est quam timendum sit omnipotentis Dei judicium, qui per illum famulum suum tot signa faciebat cujus culpam tam longo tempore adhuc servabat in cogitatione. Igitur, frater charissime, si et illum agnoscimus post signa pro culpa mortuum, quem ab omnipotente Deo novimus praecipue electum, quanto nos debemus metu contremiscere, qui necdum adhuc novimus si electi sumus?
+
+**[Hom. in Hiez. I, 7, 12]** (PL 76, 846C)
+
+Si vitae spiritus legentis animum ad servandam patientiam tangit, statim sequuntur et rotae, quia in sacris eloquiis invenit quod Moyses et Aaron, cum loquentes recta persecutionem populi passi sunt, ad tabernaculum cucurrerunt, pro ipso populo exorantes quem fugiebant. Sancta autem eorum mens et tumorem superbientium pertulit, et tamen contra eos ad odium non erupit. Patientia enim vera est, quae et ipsum amat quem portat. Nam tolerare, sed odisse, non est virtus mansuetudinis, sed velamentum furoris.
+
+**[Moralia IX (Migne põe a nota Num. XX, 12)]** (PL 75, 872D–873A)
+
+Hinc est enim quod Moyses, qui reatum totius plebis apud Deum suis precibus tersit, dumque se obicem obtulit, divinae iracundiae vim placavit, ad petram Horeb veniens, et pro aquae exhibitione diffidens, repromissionis terram ingredi, Domino irascente, non potuit. Et saepe hac de re affligitur, saepe desiderio se excitante turbatur, et dispositae ultionis iracundiam repellere a semetipso non valuit, qui hanc, volente Domino, et a populo amovit.
