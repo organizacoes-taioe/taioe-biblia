@@ -147,6 +147,21 @@ Vale para pessoas, povos e lugares, também nos comentários dos Padres.
 | *nékrōsis* | o morrer (de Jesus) | 2Cor 4,10, ao lado de «a vida de Jesus»; *thánatos* (vv. 11–12) é «a morte»; a Vulgata diz *mortificationem* | 2Cor 4, a confirmar |
 | *diaphtheírō* (o homem exterior) | desgastar-se | 2Cor 4,16 «se vá desgastando»; não «corromper», que hoje soa como corrupção moral | 2Cor 4 |
 | *hyperbolḗ* | grandeza extraordinária; «acima de toda medida» | 2Cor 4,7 «a grandeza extraordinária do poder»; 4,17 *kath' hyperbolḗn eis hyperbolḗn* | 2Cor 4 |
+| *oikía toû skḗnous* (2Cor 5,1) | a casa terrestre, esta tenda | «uma casa não feita por mãos humanas» (*acheiropoíētos*): o eco de *oikía*; *oikētḗrion* (5,2) = «habitação» | 2Cor 5 |
+| *endēméō* / *ekdēméō* | morar (no corpo) / ser peregrino longe (do Senhor) | 2Cor 5,6-9 «enquanto moramos no corpo, somos peregrinos longe do Senhor… deixar a morada do corpo e ir morar junto do Senhor», como o lecionário | 2Cor 5 |
+| *phaneróō* (2Cor 5,10-11) | às claras | «comparecer às claras diante do tribunal de Cristo… diante de Deus, estamos às claras», como o lecionário | 2Cor 5 |
+| *synéchō* (2Cor 5,14) | pressionar | «o amor de Cristo nos pressiona», como o lecionário e o Catecismo 616; «constranger» hoje é embaraçar | 2Cor 5, a confirmar |
+| *endysámenoi* (2Cor 5,3) | vestidos | «se é que seremos achados vestidos, e não nus», com a SBL, os manuscritos, a Vulgata e os Padres; a Nestle-Aland 28 lê *ekdysámenoi*, «despidos» | 2Cor 5, a confirmar |
+| *kainḗ ktísis* (2Cor 5,17) | nova criatura | «eis que surgiram coisas novas»: o texto crítico não tem *tà pánta* («tudo»), que a Vulgata e o lecionário trazem | 2Cor 5 |
+| *katallágēte* (2Cor 5,20) | deixai-vos reconciliar | o imperativo passivo, como o lecionário; *katallássō* = «reconciliar», *katallagḗ* = «reconciliação» | 2Cor 5 |
+| *proskopḗ* (2Cor 6,3) | motivo de tropeço | «escândalo» fica para *skándalon* | 2Cor 6 |
+| *gnôsis* | conhecimento | 2Cor 6,6, como 2,14 e 4,6; a tradução de partida dizia «ciência» | 2Cor 6 |
+| *agápē anypókritos* (2Cor 6,6) | amor sincero | *agápē* = «amor», como 2,4.8 e 5,14 | 2Cor 6 |
+| *splánchna* | afeto | 2Cor 6,12 «é no vosso afeto que estais apertados»; 7,15 «o seu afeto por vós»; a tradução de partida dizia «entranhas» | 2Cor 6 |
+| *ápistos* | incrédulo | 2Cor 6,14-15, como 4,4; «infiel» hoje é quem trai; *pistós* = «o fiel» | 2Cor 6 |
+| *Beliár* (2Cor 6,15) | Belial | a forma da Vulgata e das Bíblias em português, com nota (um nome do diabo) | 2Cor 6 |
+| *hagiōsýnē* (2Cor 7,1) | santidade | «levando a santidade à perfeição», como 1Ts 3,13 | 2Cor 7 |
+| *metánoia* / *metamélomai* | conversão / arrepender-se | 2Cor 7,9-10 «produz conversão para a salvação, da qual ninguém se arrepende»; vale para *metánoia* no resto do NT | 2Cor 7, a confirmar |
 | *yehi* (Gn 1) | faça-se | «Faça-se a luz. E a luz se fez» (Gn 1,3, como o lecionário; o *yehi… vayhi* fica no eco «faça-se… se fez»); «Faça-se um firmamento» (1,6), «Façam-se luzeiros» (1,14); a tradução de partida dizia «a luz foi feita» e «Haja luzeiros» | Gn 1 |
 | *peru urevu* | Sede fecundos e multiplicai-vos | Gn 1,22.28, como 8,17; 9,1.7 e o lecionário; «Crescei e multiplicai-vos» (da Vulgata, *crescite*) só aparecia em 1,22.28 da tradução de partida | Gn 1 |
 | *tohu vavohu* | deserta e vazia | Gn 1,2, como o lecionário; Jr 4,23 («caos e vazio») e Is 34,11; 45,18 («caos») mudam ao entrarem | Gn 1, aprovado |
@@ -230,3 +245,4 @@ Vale para pessoas, povos e lugares, também nos comentários dos Padres.
   Sl 104,19 (*mo'adim*) e os lugares do Espírito de Deus no Antigo Testamento.
 - Gênesis 4 (26/10): «Enos» → «Enós» em Gn 5 e onde mais aparecer; Mt 18,22 («setenta vezes sete» ou «setenta e sete») ao entrar Mateus.
 - *Aiṓn* = «século» em 1Cor 1,20; 2,6–8 («os príncipes deste século»), mas «mundo» em 2Cor 4,4, Gl 1,4 e Ef 2,2: decidir com o Gere ao entrar 1 Coríntios («século» hoje se entende como cem anos).
+- 2Cor 5–7 (02/11): *splánchna* («entranhas» → «afeto»), *gnôsis* («ciência» → «conhecimento») e *ápistos* («infiel» → «incrédulo») no resto do NT ao entrarem; *metánoia* conforme a escolha de 2Cor 7,10.
