@@ -1,0 +1,468 @@
+[
+ {
+  "id": "prefacio-defuntos-1-vida-transformada",
+  "trecho": "1",
+  "autor": "Liturgia romana",
+  "autor_id": "liturgia",
+  "datas": "Missal Romano (1919; mantido no Missal de 1970/2002)",
+  "titulo_autor": "liturgia da Missa",
+  "obra": "Missal Romano, Prefácio dos fiéis defuntos I",
+  "passagem": "Prefácio dos fiéis defuntos I",
+  "edicao": "Missale Romanum (ed. 1962), Praefatio Defunctorum; Missale Romanum (2002), Praefatio I de defunctis",
+  "versiculos": [
+   1
+  ],
+  "lingua": "la",
+  "original": "In quo nobis spes beátæ resurrectiónis effúlsit, ut, quos contrístat certa moriéndi condício, eósdem consolétur futúræ immortalitátis promíssio. Tuis enim fidélibus, Dómine, vita mutátur, non tóllitur: et, dissolúta terréstris hujus incolátus domo, ætérna in cælis habitátio comparátur.",
+  "fonte_url": "https://github.com/DivinumOfficium/divinum-officium/blob/master/web/www/missa/Latin/Ordo/Prefationes.txt",
+  "traducao_pt": "Nele brilhou para nós a esperança da feliz ressurreição, para que a certeza da morte, que nos entristece, seja consolada pela promessa da imortalidade futura. Porque, para os vossos fiéis, Senhor, a vida não é tirada, mas transformada; e, desfeita a casa desta morada terrena, é preparada nos céus uma habitação eterna.",
+  "temas": [
+   "a casa não feita por mãos",
+   "a morte do cristão"
+  ],
+  "resumo": "O prefácio das Missas pelos defuntos reza 5,1: para os fiéis a vida não é tirada, mas transformada; desfeita a casa terrena, há uma habitação eterna nos céus.",
+  "relevancia": 3,
+  "direitos": "domínio público"
+ },
+ {
+  "id": "lumen-fidei-57-morada-inaugurada-em-cristo",
+  "trecho": "1",
+  "autor": "Papa Francisco",
+  "autor_id": "francisco-papa",
+  "datas": "1936–2025",
+  "titulo_autor": "papa",
+  "obra": "Carta encíclica Lumen fidei",
+  "passagem": "n. 57",
+  "edicao": "AAS 105 (2013) 555–596",
+  "versiculos": [
+   1,
+   5
+  ],
+  "lingua": "it",
+  "original": "La sofferenza ci ricorda che il servizio della fede al bene comune è sempre servizio di speranza, che guarda in avanti, sapendo che solo da Dio, dal futuro che viene da Gesù risorto, può trovare fondamenta solide e durature la nostra società. In questo senso, la fede è congiunta alla speranza perché, anche se la nostra dimora quaggiù si va distruggendo, c’è una dimora eterna che Dio ha ormai inaugurato in Cristo, nel suo corpo (cfr 2 Cor 4,16–5,5).",
+  "fonte_url": "https://www.vatican.va/content/francesco/it/encyclicals/documents/papa-francesco_20130629_enciclica-lumen-fidei.html",
+  "traducao_pt": "O sofrimento nos lembra que o serviço da fé ao bem comum é sempre serviço de esperança, que olha para a frente, sabendo que só de Deus, do futuro que vem de Jesus ressuscitado, a nossa sociedade pode receber alicerces sólidos e duradouros. Neste sentido, a fé está unida à esperança, porque, mesmo que a nossa morada aqui embaixo vá se desfazendo, há uma morada eterna que Deus já inaugurou em Cristo, no seu corpo.",
+  "temas": [
+   "a casa não feita por mãos",
+   "a esperança"
+  ],
+  "resumo": "A casa eterna de 5,1 já começou: Deus a inaugurou no corpo de Cristo ressuscitado; por isso a fé, diante do sofrimento, vive de esperança.",
+  "relevancia": 2,
+  "direitos": "citação curta"
+ },
+ {
+  "id": "catecismo-164-caminhamos-pela-fe",
+  "trecho": "1",
+  "autor": "Catecismo da Igreja Católica",
+  "autor_id": "catecismo",
+  "datas": "1992 (ed. típica 1997)",
+  "titulo_autor": "Magistério",
+  "obra": "Catecismo da Igreja Católica",
+  "passagem": "n. 164",
+  "edicao": "Catecismo da Igreja Católica, n. 164 (tradução portuguesa oficial)",
+  "versiculos": [
+   7
+  ],
+  "lingua": "pt",
+  "original": "Por enquanto porém, «caminhamos pela fé e não vemos claramente» (2 Cor 5, 7), e conhecemos Deus «como num espelho, de maneira confusa, [...] imperfeita» (1 Cor 13, 12). Luminosa por parte d’Aquele em quem ela crê, a fé é muitas vezes vivida na obscuridade, e pode ser posta à prova. O mundo em que vivemos parece muitas vezes bem afastado daquilo que a fé nos diz: as experiências do mal e do sofrimento, das injustiças e da morte parecem contradizer a Boa-Nova, podem abalar a fé e tornar-se, em relação a ela, uma tentação.",
+  "fonte_url": "https://www.vatican.va/archive/cathechism_po/index_new/p1s1c3_142-184_po.html",
+  "traducao_pt": "Por enquanto, porém, «caminhamos pela fé e não vemos claramente» e conhecemos Deus «como num espelho, de maneira confusa, imperfeita». Luminosa da parte daquele em quem crê, a fé é muitas vezes vivida na escuridão e pode ser posta à prova. O mundo em que vivemos parece muitas vezes bem longe daquilo que a fé nos diz: as experiências do mal e do sofrimento, das injustiças e da morte parecem contradizer a Boa-Nova, podem abalar a fé e tornar-se uma tentação contra ela.",
+  "temas": [
+   "a fé e a visão"
+  ],
+  "resumo": "Caminhar pela fé e não pela visão (5,7) é viver uma fé luminosa por quem ela crê, mas muitas vezes vivida no escuro e posta à prova pelo mal e pela morte.",
+  "relevancia": 3,
+  "direitos": "citação curta"
+ },
+ {
+  "id": "lumen-gentium-48-exilados-longe-do-senhor",
+  "trecho": "1",
+  "autor": "Concílio Vaticano II",
+  "autor_id": "vaticano-ii",
+  "datas": "1962–1965",
+  "titulo_autor": "concílio ecumênico",
+  "obra": "Constituição dogmática Lumen gentium",
+  "passagem": "n. 48",
+  "edicao": "AAS 57 (1965) 53–54",
+  "versiculos": [
+   6,
+   8,
+   9
+  ],
+  "lingua": "la",
+  "original": "Itaque «dum sumus in corpore, peregrinamur a Domino» (2Cor 5,6) et primitias Spiritus habentes intra nos gemimus (cf. Rom 8,23) et cupimus esse cum Christo (cf. Phil 1,23). Eadem autem caritate urgemur ut magis vivamus Ei, qui pro nobis mortuus est et resurrexit (cf. 2Cor 5,15). Contendimus ergo in omnibus placere Domino (cf. 2Cor 5,9) et induimus armaturam Dei, ut possimus stare adversus insidias diaboli et resistere in die malo (cf. Eph 6,11-13).",
+  "fonte_url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_lt.html",
+  "traducao_pt": "Por isso, «enquanto estamos no corpo, vivemos como peregrinos longe do Senhor»; tendo as primícias do Espírito, gememos interiormente e desejamos estar com Cristo. Mas a mesma caridade nos impele a viver mais para aquele que por nós morreu e ressuscitou. Esforçamo-nos, portanto, por agradar em tudo ao Senhor e vestimos a armadura de Deus, para podermos ficar de pé contra as ciladas do diabo e resistir no dia mau.",
+  "temas": [
+   "longe do Senhor",
+   "o desejo de estar com Cristo"
+  ],
+  "resumo": "O Concílio lê 5,6-9 como a vida da Igreja peregrina: o exílio faz desejar estar com Cristo, e o mesmo amor faz viver para ele e procurar agradar-lhe agora.",
+  "relevancia": 2,
+  "direitos": "citação curta"
+ },
+ {
+  "id": "spe-salvi-47-juizo-justica-e-graca",
+  "trecho": "1",
+  "autor": "Bento XVI",
+  "autor_id": "bento-xvi",
+  "datas": "1927–2022",
+  "titulo_autor": "papa",
+  "obra": "Carta encíclica Spe salvi",
+  "passagem": "n. 47",
+  "edicao": "AAS 99 (2007) 985–1027",
+  "versiculos": [
+   10
+  ],
+  "lingua": "it",
+  "original": "Il Giudizio di Dio è speranza sia perché è giustizia, sia perché è grazia. […] Se fosse pura giustizia, potrebbe essere alla fine per tutti noi solo motivo di paura. […] Ciononostante la grazia consente a noi tutti di sperare e di andare pieni di fiducia incontro al Giudice che conosciamo come nostro « avvocato », parakletos (cfr 1 Gv 2,1).",
+  "fonte_url": "https://www.vatican.va/content/benedict-xvi/it/encyclicals/documents/hf_ben-xvi_enc_20071130_spe-salvi.html",
+  "traducao_pt": "O Juízo de Deus é esperança, tanto porque é justiça como porque é graça. […] Se fosse pura justiça, no fim poderia ser para todos nós apenas motivo de medo. […] Mesmo assim, a graça permite a todos nós esperar e ir cheios de confiança ao encontro do Juiz, que conhecemos como nosso «advogado», o Paráclito.",
+  "temas": [
+   "o tribunal de Cristo"
+  ],
+  "resumo": "Comparecer diante do tribunal de Cristo (5,10) não é só motivo de medo: o Juízo é esperança, porque é justiça e graça, e o Juiz é o nosso advogado.",
+  "relevancia": 3,
+  "direitos": "citação curta"
+ },
+ {
+  "id": "francisco-de-sales-tratado-7-8-o-lagar-do-amor",
+  "trecho": "2",
+  "autor": "São Francisco de Sales",
+  "autor_id": "francisco-de-sales",
+  "datas": "1567–1622",
+  "titulo_autor": "bispo de Genebra, Doutor da Igreja",
+  "obra": "Tratado do amor de Deus (Traitté de l’Amour de Dieu)",
+  "passagem": "livro VII, cap. 8",
+  "edicao": "Œuvres, éd. d’Annecy, t. V (1894), pp. 32–34",
+  "versiculos": [
+   14,
+   15
+  ],
+  "lingua": "fr",
+  "original": "La charité, dit-il, de Jesus Christ nous presse. Ouy, Theotime, rien ne presse tant le cœur de l’homme que l’amour. Si un homme sçait d’estre aymé de qui que ce soit, il est pressé d’aymer réciproquement ; mais si c’est un homme vulgaire qui est aymé d’un grand seigneur, certes il est bien plus pressé ; mais si c’est d’un grand monarque, combien est-ce qu’il est pressé davantage ? Et maintenant, je vous prie, sachans que Jésus Christ, vray Dieu éternel, tout puissant, nous a aymés jusques a vouloir souffrir pour nous la mort, et la mort de la croix, o mon cher Theotime, n’est ce pas cela avoir nos cœurs sous le pressoir et les sentir presser de force, et en exprimer de l’amour par une violence et contrainte qui est d’autant plus violente qu’elle est toute aymable et amiable ? […] Jésus Christ est mort pour nous, il nous a donné la vie par sa mort, nous ne vivons que parce qu’il est mort, il est mort pour nous, a nous et en nous : nostre vie n’est donq plus nostre, mais a Celuy qui nous l’a acquise par sa mort ; nous ne devons donq plus vivre a nous, mais a luy ; non en nous, mais en luy ; non pour nous, mais pour luy.",
+  "fonte_url": "https://archive.org/details/oeuvresdesaintfr05fran",
+  "traducao_pt": "«O amor de Jesus Cristo», diz Paulo, «nos constrange.» Sim, Teótimo, nada constrange tanto o coração do homem como o amor. Se um homem sabe que é amado por alguém, sente-se constrangido a amar de volta; se é um homem comum amado por um grande senhor, sente-se muito mais constrangido; e se for amado por um grande rei, quanto mais! Pois bem: sabendo que Jesus Cristo, verdadeiro Deus eterno, todo-poderoso, nos amou a ponto de querer sofrer por nós a morte, e morte de cruz, meu caro Teótimo, não é isso ter o coração debaixo do lagar e senti-lo espremido com força, para que dele saia amor, com uma violência e um constrangimento tanto mais fortes quanto são todos amáveis e amigos? […] Jesus Cristo morreu por nós, nos deu a vida pela sua morte; só vivemos porque ele morreu; morreu por nós, para nós e em nós. A nossa vida, então, já não é nossa, mas daquele que a conquistou para nós com a sua morte. Já não devemos viver para nós, mas para ele; não em nós, mas nele; não por nós, mas por ele.",
+  "temas": [
+   "o amor de Cristo nos constrange"
+  ],
+  "resumo": "O «constranger» de 5,14 é o de um lagar: saber-se amado até a cruz pelo próprio Deus espreme do coração um amor que já não vive para si, mas para ele.",
+  "relevancia": 3,
+  "direitos": "domínio público"
+ },
+ {
+  "id": "catecismo-616-um-so-por-todos",
+  "trecho": "2",
+  "autor": "Catecismo da Igreja Católica",
+  "autor_id": "catecismo",
+  "datas": "1992 (ed. típica 1997)",
+  "titulo_autor": "Magistério",
+  "obra": "Catecismo da Igreja Católica",
+  "passagem": "n. 616",
+  "edicao": "Catecismo da Igreja Católica, n. 616 (tradução portuguesa oficial)",
+  "versiculos": [
+   14
+  ],
+  "lingua": "pt",
+  "original": "«O amor de Cristo nos pressiona, ao pensarmos que um só morreu por todos e que todos, portanto, morreram» (2 Cor 5, 14). Nenhum homem, ainda que fosse o mais santo, estava em condições de tomar sobre si os pecados de todos os homens e de se oferecer em sacrifício por todos. A existência, em Cristo, da pessoa divina do Filho, que ultrapassa e ao mesmo tempo abrange todas as pessoas humanas e O constitui cabeça de toda a humanidade, é que torna possível o seu sacrifício redentor por todos.",
+  "fonte_url": "https://www.vatican.va/archive/cathechism_po/index_new/p1s2cap2_422-682_po.html",
+  "traducao_pt": "«O amor de Cristo nos pressiona, ao pensarmos que um só morreu por todos e que, portanto, todos morreram.» Nenhum homem, mesmo o mais santo, estava em condições de tomar sobre si os pecados de todos os homens e de se oferecer em sacrifício por todos. É a existência, em Cristo, da pessoa divina do Filho, que ultrapassa e ao mesmo tempo abraça todas as pessoas humanas e o faz cabeça de toda a humanidade, que torna possível o seu sacrifício redentor por todos.",
+  "temas": [
+   "um só morreu por todos"
+  ],
+  "resumo": "Por que «um só» pode morrer «por todos» (5,14): nenhum santo poderia; só a pessoa divina do Filho, que abraça todos os homens e é cabeça da humanidade.",
+  "relevancia": 3,
+  "direitos": "citação curta"
+ },
+ {
+  "id": "escriva-ad-43-por-que-me-esforcar",
+  "trecho": "2",
+  "autor": "São Josemaria Escrivá",
+  "autor_id": "escriva",
+  "datas": "1902–1975",
+  "titulo_autor": "sacerdote, fundador do Opus Dei",
+  "obra": "Amigos de Deus (Amigos de Dios), homilia «O tesouro do tempo»",
+  "passagem": "n. 43",
+  "edicao": "Amigos de Dios (1977), n. 43",
+  "versiculos": [
+   14
+  ],
+  "lingua": "es",
+  "original": "Me dirás, quizá: ¿y por qué habría de esforzarme? No te contesto yo, sino San Pablo: el amor de Cristo nos urge. Todo el espacio de una existencia es poco, para ensanchar las fronteras de tu caridad. Desde los primerísimos comienzos del Opus Dei he manifestado mi gran empeño en repetir sin descanso, para las almas generosas que se decidan a traducirlo en obras, aquel grito de Cristo: en esto conocerán todos que sois mis discípulos, si os amáis los unos a los otros. Nos conocerán precisamente en eso, porque la caridad es el punto de arranque de cualquier actividad de un cristiano.",
+  "fonte_url": "https://escriva.org/es/amigos-de-dios/43/",
+  "traducao_pt": "Talvez você me diga: e por que eu teria de me esforçar? Não sou eu que respondo, mas São Paulo: o amor de Cristo nos impele. Todo o espaço de uma vida é pouco para alargar as fronteiras da sua caridade. Desde os primeiríssimos começos do Opus Dei, fiz grande empenho em repetir sem descanso, para as almas generosas que se decidam a traduzi-lo em obras, aquele grito de Cristo: nisto todos conhecerão que sois meus discípulos, se vos amardes uns aos outros. Vão nos reconhecer justamente por isso, porque a caridade é o ponto de partida de qualquer atividade de um cristão.",
+  "temas": [
+   "o amor de Cristo nos constrange"
+  ],
+  "resumo": "À pergunta «por que me esforçar?», Escrivá responde com 5,14: o amor de Cristo impele, e a vida inteira é pouca para alargar a caridade, ponto de partida de tudo.",
+  "relevancia": 3,
+  "direitos": "autorizado pelo Opus Dei"
+ },
+ {
+  "id": "deus-caritas-est-35-o-que-nos-e-possivel",
+  "trecho": "2",
+  "autor": "Bento XVI",
+  "autor_id": "bento-xvi",
+  "datas": "1927–2022",
+  "titulo_autor": "papa",
+  "obra": "Carta encíclica Deus caritas est",
+  "passagem": "n. 35",
+  "edicao": "AAS 98 (2006) 217–252",
+  "versiculos": [
+   14
+  ],
+  "lingua": "it",
+  "original": "È Dio che governa il mondo, non noi. Noi gli prestiamo il nostro servizio solo per quello che possiamo e finché Egli ce ne dà la forza. Fare, però, quanto ci è possibile con la forza di cui disponiamo, questo è il compito che mantiene il buon servo di Gesù Cristo sempre in movimento: « L’amore del Cristo ci spinge » (2 Cor 5, 14).",
+  "fonte_url": "https://www.vatican.va/content/benedict-xvi/it/encyclicals/documents/hf_ben-xvi_enc_20051225_deus-caritas-est.html",
+  "traducao_pt": "É Deus quem governa o mundo, não nós. Nós lhe prestamos o nosso serviço só na medida do que podemos e enquanto ele nos dá a força. Fazer, porém, tudo o que nos é possível com a força de que dispomos: esta é a tarefa que mantém o bom servo de Jesus Cristo sempre em movimento. «O amor de Cristo nos impele.»",
+  "temas": [
+   "o amor de Cristo nos constrange"
+  ],
+  "resumo": "O amor que impele (5,14) não é ansiedade de salvar o mundo sozinho: Deus governa; a nós cabe fazer, com humildade, tudo o que nos é possível.",
+  "relevancia": 2,
+  "direitos": "citação curta"
+ },
+ {
+  "id": "spe-salvi-28-viver-para-ele",
+  "trecho": "2",
+  "autor": "Bento XVI",
+  "autor_id": "bento-xvi",
+  "datas": "1927–2022",
+  "titulo_autor": "papa",
+  "obra": "Carta encíclica Spe salvi",
+  "passagem": "n. 28",
+  "edicao": "AAS 99 (2007) 985–1027",
+  "versiculos": [
+   15
+  ],
+  "lingua": "it",
+  "original": "Mentre partecipava alla Messa domenicale nella città portuale di Ippona, fu dal Vescovo chiamato fuori dalla folla e costretto a lasciarsi ordinare per l’esercizio del ministero sacerdotale in quella città. Guardando retrospettivamente a quell’ora egli scrive nelle sue Confessioni: « Atterrito dai miei peccati e dalla mole della mia miseria, avevo ventilato in cuor mio e meditato la fuga nella solitudine. Ma tu me l’hai impedito e mi hai confortato con la tua parola: « Cristo è morto per tutti, perché quelli che vivono non vivano più per se stessi, ma per colui che è morto per tutti » (cfr 2 Cor 5,15) ». Cristo è morto per tutti. Vivere per Lui significa lasciarsi coinvolgere nel suo « essere per ».",
+  "fonte_url": "https://www.vatican.va/content/benedict-xvi/it/encyclicals/documents/hf_ben-xvi_enc_20071130_spe-salvi.html",
+  "traducao_pt": "Enquanto participava da Missa de domingo na cidade portuária de Hipona, Agostinho foi chamado pelo bispo do meio da multidão e obrigado a deixar-se ordenar para exercer o ministério sacerdotal naquela cidade. Olhando para trás, para aquela hora, ele escreve nas Confissões: «Aterrado pelos meus pecados e pelo peso da minha miséria, eu tinha pensado em meu coração e planejado fugir para a solidão. Mas tu me impediste e me fortaleceste com a tua palavra: Cristo morreu por todos, para que os que vivem já não vivam para si mesmos, mas para aquele que morreu por todos.» Cristo morreu por todos. Viver para ele significa deixar-se envolver no seu «ser para os outros».",
+  "temas": [
+   "já não viver para si"
+  ],
+  "resumo": "Agostinho queria fugir para a solidão, e 5,15 o deteve; Bento XVI tira a regra: viver para Cristo é deixar-se envolver no seu «ser para» os outros.",
+  "relevancia": 3,
+  "direitos": "citação curta"
+ },
+ {
+  "id": "bento-xvi-aud-20080924-cristo-segundo-a-carne",
+  "trecho": "2",
+  "autor": "Bento XVI",
+  "autor_id": "bento-xvi",
+  "datas": "1927–2022",
+  "titulo_autor": "papa",
+  "obra": "Audiência geral (ciclo sobre São Paulo: «Paulo, os Doze e a Igreja pré-paulina»)",
+  "passagem": "24/09/2008",
+  "edicao": "Insegnamenti di Benedetto XVI IV/2 (2008)",
+  "versiculos": [
+   16
+  ],
+  "lingua": "it",
+  "original": "Si comprende allora che l’espressione “anche se abbiamo conosciuto Cristo secondo la carne” (2 Cor 5,16) non significa che la sua esistenza terrena abbia uno scarso rilievo per la nostra maturazione nella fede, bensì che dal momento della sua Risurrezione, cambia il nostro modo di rapportarci con Lui. […] La nostra fede non nasce da un mito, né da un’idea, bensì dall’incontro con il Risorto, nella vita della Chiesa.",
+  "fonte_url": "https://www.vatican.va/content/benedict-xvi/it/audiences/2008/documents/hf_ben-xvi_aud_20080924.html",
+  "traducao_pt": "Compreende-se, assim, que a expressão «mesmo que tenhamos conhecido Cristo segundo a carne» não significa que a sua existência terrena tenha pouca importância para o nosso amadurecimento na fé, mas que, a partir da sua Ressurreição, muda o nosso modo de nos relacionarmos com ele. […] A nossa fé não nasce de um mito nem de uma ideia, mas do encontro com o Ressuscitado, na vida da Igreja.",
+  "temas": [
+   "já não conhecer segundo a carne"
+  ],
+  "resumo": "«Já não conhecemos Cristo segundo a carne» (5,16) não despreza o Jesus terreno: diz que, depois da Ressurreição, mudou o modo de nos relacionarmos com ele.",
+  "relevancia": 3,
+  "direitos": "citação curta"
+ },
+ {
+  "id": "newman-pps5-12-nova-criatura",
+  "trecho": "2",
+  "autor": "São John Henry Newman",
+  "autor_id": "newman",
+  "datas": "1801–1890",
+  "titulo_autor": "cardeal (sermão do período anglicano)",
+  "obra": "Parochial and Plain Sermons V, 12: «The New Works of the Gospel»",
+  "passagem": "vol. V, sermão 12 (Epifania)",
+  "edicao": "Parochial and Plain Sermons, vol. V (1840; ed. Longmans), pp. 164 e 177",
+  "versiculos": [
+   17
+  ],
+  "lingua": "en",
+  "original": "NOTHING is more clearly stated, or more strongly insisted on, by St. Paul, than the new creation, or second beginning, or regeneration, of the world, which has been vouchsafed in Christ. […] We see how grace wrought in St. Paul: it made him labour, suffer, and work righteousness almost above man’s nature. […] It was its triumph in him, that it made him quite another man from what he was before. May God’s grace be efficacious in us also. Let us aim at doing nothing in a dead way; let us beware of dead works, dead forms, dead professions. Let us pray to be filled with the spirit of love. Let us come to Church joyfully; let us partake the Holy Communion adoringly; let us pray sincerely; let us work cheerfully; let us suffer thankfully; let us throw our heart into all we think, say, and do; and may it be a spiritual heart! This is to be a new creature in Christ; this is to walk by faith.",
+  "fonte_url": "https://www.newmanreader.org/works/parochial/volume5/sermon12.html",
+  "traducao_pt": "Nada é afirmado com mais clareza nem com mais insistência por São Paulo do que a nova criação, ou segundo começo, ou regeneração do mundo, que nos foi concedida em Cristo. […] Vemos como a graça agiu em São Paulo: fez que ele trabalhasse, sofresse e praticasse a justiça quase acima da natureza humana. […] O triunfo dela nele foi fazer dele um homem completamente diferente do que era antes. Que a graça de Deus seja eficaz também em nós. Procuremos não fazer nada de modo morto; cuidado com as obras mortas, as formas mortas, as profissões de fé mortas. Peçamos para ser cheios do espírito de amor. Venhamos à igreja com alegria; recebamos a santa Comunhão com adoração; rezemos com sinceridade; trabalhemos de bom ânimo; soframos com gratidão; ponhamos o coração em tudo o que pensamos, dizemos e fazemos; e que seja um coração espiritual! Isto é ser nova criatura em Cristo; isto é caminhar pela fé.",
+  "temas": [
+   "a nova criatura"
+  ],
+  "resumo": "A nova criação de 5,17 não muda só as ideias: faz da pessoa outro homem, que já não faz nada de modo morto e põe o coração em tudo o que faz.",
+  "relevancia": 2,
+  "direitos": "domínio público"
+ },
+ {
+  "id": "escriva-em-dialogo-45-vida-nova-de-verdade",
+  "trecho": "2",
+  "autor": "São Josemaria Escrivá",
+  "autor_id": "escriva",
+  "datas": "1902–1975",
+  "titulo_autor": "sacerdote, fundador do Opus Dei",
+  "obra": "Em diálogo com o Senhor (En diálogo con el Señor), meditação «Rezar sem interrupção» (24/12/1967)",
+  "passagem": "n. 45",
+  "edicao": "En diálogo con el Señor (ed. crítica), n. 45",
+  "versiculos": [
+   17,
+   18
+  ],
+  "lingua": "es",
+  "original": "Esto dice San Pablo a los de Corinto: «Si qua ergo in Christo nova creatura, vetera transierunt: ecce facta sunt omnia nova. Omnia autem ex Deo, qui nos reconciliavit sibi per Christum». Si alguna criatura está en Cristo, ya han salido fuera todas las cosas sucias, todas las cosas viejas, todo lo que mancha, todo lo que hace sufrir. Desde ahora, vida nueva de verdad. Se lo hemos dicho tantas veces y parece que nos hemos quedado tan sólo con los deseos. Pero siempre hemos avanzado un poquito más.",
+  "fonte_url": "https://escriva.org/es/en-dialogo-con-el-se%C3%B1or/45/",
+  "traducao_pt": "Isto diz São Paulo aos coríntios: «Se alguém está em Cristo, é nova criatura; as coisas antigas passaram: eis que tudo se fez novo. E tudo vem de Deus, que nos reconciliou consigo por Cristo.» Se alguma criatura está em Cristo, já saíram para fora todas as coisas sujas, todas as coisas velhas, tudo o que mancha, tudo o que faz sofrer. Desde agora, vida nova de verdade. Já dissemos isso ao Senhor tantas vezes, e parece que ficamos só nos desejos. Mas sempre avançamos um pouquinho mais.",
+  "temas": [
+   "a nova criatura"
+  ],
+  "resumo": "Na noite de Natal, Escrivá lê 5,17-18: em Cristo sai tudo o que é velho e mancha; tantas vezes ficamos nos desejos, mas sempre se avança um pouco mais.",
+  "relevancia": 2,
+  "direitos": "autorizado pelo Opus Dei"
+ },
+ {
+  "id": "reconciliatio-et-paenitentia-8-ministerio-e-palavra",
+  "trecho": "3",
+  "autor": "São João Paulo II",
+  "autor_id": "joao-paulo-ii",
+  "datas": "1920–2005",
+  "titulo_autor": "papa",
+  "obra": "Exortação apostólica Reconciliatio et paenitentia",
+  "passagem": "n. 8",
+  "edicao": "AAS 77 (1985) 185–275",
+  "versiculos": [
+   18,
+   19
+  ],
+  "lingua": "it",
+  "original": "«Dio - egli dice - ci ha affidato il ministero della riconciliazione... e la parola della riconciliazione» (2Cor 5,18s). Nelle mani e sulla bocca degli apostoli, suoi messaggeri, il Padre ha posto misericordiosamente un ministero di riconciliazione, che essi adempiono in maniera singolare, in virtù del potere di agire «in persona Christi». Ma anche a tutta la comunità dei credenti, all’intera compagine della Chiesa è affidata la parola di riconciliazione, il compito cioè di fare quanto è possibile per testimoniare la riconciliazione e per attuarla nel mondo.",
+  "fonte_url": "https://www.vatican.va/content/john-paul-ii/it/apost_exhortations/documents/hf_jp-ii_exh_02121984_reconciliatio-et-paenitentia.html",
+  "traducao_pt": "«Deus», diz Paulo, «nos confiou o ministério da reconciliação… e a palavra da reconciliação.» Nas mãos e na boca dos apóstolos, seus mensageiros, o Pai pôs com misericórdia um ministério de reconciliação, que eles exercem de modo singular, em virtude do poder de agir na pessoa de Cristo. Mas também a toda a comunidade dos fiéis, à Igreja inteira, foi confiada a palavra da reconciliação, isto é, a tarefa de fazer todo o possível para testemunhar a reconciliação e torná-la realidade no mundo.",
+  "temas": [
+   "o ministério da reconciliação"
+  ],
+  "resumo": "O «ministério da reconciliação» (5,18-19) está nas mãos e na boca dos apóstolos e dos padres, que agem na pessoa de Cristo; a «palavra da reconciliação», na Igreja inteira.",
+  "relevancia": 3,
+  "direitos": "citação curta"
+ },
+ {
+  "id": "catecismo-1449-formula-da-absolvicao",
+  "trecho": "3",
+  "autor": "Catecismo da Igreja Católica",
+  "autor_id": "catecismo",
+  "datas": "1992 (ed. típica 1997)",
+  "titulo_autor": "Magistério (citando o Ritual da Penitência, 1973)",
+  "obra": "Catecismo da Igreja Católica",
+  "passagem": "n. 1449",
+  "edicao": "Catechismus Catholicae Ecclesiae, n. 1449; Ordo Paenitentiae (1974), n. 46",
+  "versiculos": [
+   18,
+   19
+  ],
+  "lingua": "la",
+  "original": "Absolutionis formula, qua Ecclesia latina utitur, elementa huius sacramenti exprimit essentialia: Pater misericordiarum fons est omnis remissionis. Ipse reconciliationem efficit peccatorum per Filii Sui Pascha et per donum Spiritus, per orationem et ministerium Ecclesiae: « Deus, Pater misericordiarum, qui per mortem et resurrectionem Filii Sui mundum Sibi reconciliavit et Spiritum Sanctum effudit in remissionem peccatorum, per ministerium Ecclesiae indulgentiam tibi tribuat et pacem. Et ego te absolvo a peccatis tuis in nomine Patris, et Filii, et Spiritus Sancti ».",
+  "fonte_url": "https://www.vatican.va/archive/catechism_lt/p2s2c2a4_lt.htm",
+  "traducao_pt": "A fórmula da absolvição usada na Igreja latina exprime os elementos essenciais deste sacramento: o Pai das misericórdias é a fonte de todo perdão. Ele realiza a reconciliação dos pecadores pela Páscoa do seu Filho e pelo dom do Espírito, por meio da oração e do ministério da Igreja: «Deus, Pai de misericórdia, que, pela morte e ressurreição de seu Filho, reconciliou o mundo consigo e enviou o Espírito Santo para a remissão dos pecados, te conceda, pelo ministério da Igreja, o perdão e a paz. E eu te absolvo dos teus pecados, em nome do Pai e do Filho e do Espírito Santo.»",
+  "temas": [
+   "o ministério da reconciliação"
+  ],
+  "resumo": "A fórmula da absolvição repete 5,18-19: o Pai reconciliou o mundo consigo pela Páscoa do Filho e dá o perdão «pelo ministério da Igreja».",
+  "relevancia": 3,
+  "direitos": "citação curta"
+ },
+ {
+  "id": "bento-xv-humani-generis-9-embaixadores",
+  "trecho": "3",
+  "autor": "Papa Bento XV",
+  "autor_id": "bento-xv",
+  "datas": "1854–1922",
+  "titulo_autor": "papa",
+  "obra": "Carta encíclica Humani generis redemptionem, sobre a pregação",
+  "passagem": "n. 9 (numeração da versão inglesa)",
+  "edicao": "AAS 9 (1917)",
+  "versiculos": [
+   20
+  ],
+  "lingua": "la",
+  "original": "Quid praedicatoribus debeat in suscepto munere exsequendo esse propositum, licet intelligere ex eo quod ii possunt ac debent de se idem, quod Paulus, affirmare: Pro Christo legatione fungimur. Si autem legati sunt Christi, illud ipsum velle debent in legatione peragenda quod Christus voluit in danda; immo quod ipse, dum vixit in terris, sibi proposuit. […] Quare, sicut perperam appelletur medicus, qui medicinam non faciat, vel alicuius artis doctor qui eam non doceat artem, sic qui praedicando non curat ad pleniorem Dei cognitionem et ad aeternae salutis viam homines adducere, eum declamatorem vaniloquum appellari licet, praedicatorem evangelicum non licet.",
+  "fonte_url": "https://www.vatican.va/content/benedict-xv/la/encyclicals/documents/hf_ben-xv_enc_15061917_humani-generis-redemptionem.html",
+  "traducao_pt": "O que os pregadores devem ter em vista ao cumprir a tarefa recebida se entende pelo fato de que eles podem e devem dizer de si o mesmo que Paulo: «Somos embaixadores de Cristo». Ora, se são embaixadores de Cristo, ao desempenhar a embaixada devem querer exatamente o que Cristo quis ao confiá-la; mais ainda, o que ele mesmo se propôs enquanto viveu na terra. […] Por isso, assim como não se chamaria com razão médico quem não cura, nem mestre de uma arte quem não a ensina, também quem, ao pregar, não procura levar os homens a um conhecimento mais pleno de Deus e ao caminho da salvação eterna pode ser chamado de declamador vazio, mas não de pregador do Evangelho.",
+  "temas": [
+   "embaixadores de Cristo"
+  ],
+  "resumo": "Se o pregador é embaixador de Cristo (5,20), quer o que Cristo quis: levar os homens a Deus; quem prega para brilhar é declamador, não pregador do Evangelho.",
+  "relevancia": 2,
+  "direitos": "domínio público"
+ },
+ {
+  "id": "francisco-hom-20200226-deixai-vos-reconciliar",
+  "trecho": "3",
+  "autor": "Papa Francisco",
+  "autor_id": "francisco-papa",
+  "datas": "1936–2025",
+  "titulo_autor": "papa",
+  "obra": "Homilia da Quarta-feira de Cinzas",
+  "passagem": "26/02/2020, basílica de Santa Sabina",
+  "edicao": "vatican.va",
+  "versiculos": [
+   20
+  ],
+  "lingua": "it",
+  "original": "Paolo non lo chiede, lo supplica: «Vi supplichiamo in nome di Cristo: lasciatevi riconciliare con Dio». (2 Cor 5,20). Noi avremmo detto: “Riconciliatevi con Dio!”. Invece no, utilizza il passivo: lasciatevi riconciliare. Perché la santità non è attività nostra, è grazia!",
+  "fonte_url": "https://www.vatican.va/content/francesco/it/homilies/2020/documents/papa-francesco_20200226_omelia-ceneri.html",
+  "traducao_pt": "Paulo não pede: suplica. «Em nome de Cristo, nós vos suplicamos: deixai-vos reconciliar com Deus.» Nós teríamos dito: «Reconciliai-vos com Deus!». Mas não: ele usa a voz passiva, deixai-vos reconciliar. Porque a santidade não é atividade nossa, é graça!",
+  "temas": [
+   "deixai-vos reconciliar com Deus"
+  ],
+  "resumo": "Paulo não diz «reconciliai-vos», mas «deixai-vos reconciliar» (5,20): a conversão não é obra nossa, é deixar Deus agir; e Paulo não pede, suplica.",
+  "relevancia": 3,
+  "direitos": "citação curta"
+ },
+ {
+  "id": "catecismo-602-603-deus-o-fez-pecado",
+  "trecho": "3",
+  "autor": "Catecismo da Igreja Católica",
+  "autor_id": "catecismo",
+  "datas": "1992 (ed. típica 1997)",
+  "titulo_autor": "Magistério",
+  "obra": "Catecismo da Igreja Católica",
+  "passagem": "nn. 602–603",
+  "edicao": "Catecismo da Igreja Católica, nn. 602–603 (tradução portuguesa oficial)",
+  "versiculos": [
+   21
+  ],
+  "lingua": "pt",
+  "original": "Enviando o seu próprio Filho na condição de escravo, que era a de uma humanidade decaída e votada à morte por causa do pecado, «a Cristo, que não conhecera o pecado, Deus fê-lo pecado por amor de nós, para que, em Cristo, nos tornássemos justos aos olhos de Deus» (2 Cor 5, 21). Jesus não conheceu a reprovação como se tivesse pecado pessoalmente. Mas, no amor redentor que constantemente O unia ao Pai, assumiu-nos no afastamento do nosso pecado em relação a Deus a ponto de, na cruz, poder dizer em nosso nome: «Meu Deus, meu Deus, por que Me abandonaste?» (Mc 15, 34).",
+  "fonte_url": "https://www.vatican.va/archive/cathechism_po/index_new/p1s2cap2_422-682_po.html",
+  "traducao_pt": "Enviando o seu próprio Filho na condição de escravo, que era a de uma humanidade decaída e destinada à morte por causa do pecado, «aquele que não conhecera o pecado, Deus o fez pecado por nós, para que nele nos tornássemos justiça de Deus». Jesus não conheceu a reprovação como se ele mesmo tivesse pecado. Mas, no amor redentor que sempre o unia ao Pai, assumiu-nos no afastamento de Deus causado pelo nosso pecado, a ponto de poder dizer na cruz, em nosso nome: «Meu Deus, meu Deus, por que me abandonaste?»",
+  "temas": [
+   "Deus o fez pecado por nós"
+  ],
+  "resumo": "«Feito pecado» (5,21) não quer dizer que Cristo pecou: unido sempre ao Pai, ele tomou sobre si o nosso afastamento de Deus, até o grito da cruz.",
+  "relevancia": 3,
+  "direitos": "citação curta"
+ },
+ {
+  "id": "francisco-hom-20210217-desceu-ao-nosso-pecado",
+  "trecho": "3",
+  "autor": "Papa Francisco",
+  "autor_id": "francisco-papa",
+  "datas": "1936–2025",
+  "titulo_autor": "papa",
+  "obra": "Homilia da Quarta-feira de Cinzas",
+  "passagem": "17/02/2021, basílica de São Pedro",
+  "edicao": "vatican.va",
+  "versiculos": [
+   21
+  ],
+  "lingua": "it",
+  "original": "Fratelli e sorelle, questo nostro viaggio di ritorno a Dio è possibile solo perché c’è stato il suo viaggio di andata verso di noi. […] Per noi è sceso più in basso di quanto potevamo immaginare: si è fatto peccato, si è fatto morte. […] Per non lasciarci soli e accompagnarci nel cammino è sceso dentro al nostro peccato e alla nostra morte, ha toccato il peccato, ha toccato la nostra morte.",
+  "fonte_url": "https://www.vatican.va/content/francesco/it/homilies/2021/documents/papa-francesco_20210217_omelia-ceneri.html",
+  "traducao_pt": "Irmãos e irmãs, esta nossa viagem de volta para Deus só é possível porque houve antes a viagem de ida dele até nós. […] Por nós, ele desceu mais baixo do que podíamos imaginar: fez-se pecado, fez-se morte. […] Para não nos deixar sozinhos e nos acompanhar no caminho, desceu dentro do nosso pecado e da nossa morte, tocou o pecado, tocou a nossa morte.",
+  "temas": [
+   "Deus o fez pecado por nós"
+  ],
+  "resumo": "Antes da nossa volta a Deus houve a descida dele: «feito pecado» (5,21), Cristo entrou no nosso pecado e na nossa morte para caminhar conosco.",
+  "relevancia": 2,
+  "direitos": "citação curta"
+ }
+]
