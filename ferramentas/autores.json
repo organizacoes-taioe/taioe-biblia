@@ -35,6 +35,7 @@
  "Liturgia bizantina": {"sobre": "a liturgia das Igrejas de rito bizantino, rezada também nas Igrejas católicas orientais", "oriental": true},
  "Liturgia da Igreja": {"sobre": "", "oriental": false},
  "Liturgia de São Tiago": {"sobre": "a antiga liturgia da Igreja de Jerusalém", "oriental": true},
+ "Livro dos Degraus (Liber Graduum)": {"sobre": "obra siríaca anônima (séc. IV–V) sobre os degraus da vida espiritual", "oriental": true},
  "Narsai": {"sobre": "mestre da escola de Nísibis (c. 399–c. 502), da Igreja do Oriente", "oriental": true, "site": false},
  "Nicolau de Verdun": {"sobre": "ourives (ativo 1181–1205), autor do altar de Klosterneuburg", "oriental": false},
  "Orígenes": {"sobre": "mestre de Alexandria (c. 185–c. 254), escritor eclesiástico, não canonizado; texto da tradução latina de Rufino", "oriental": true},
