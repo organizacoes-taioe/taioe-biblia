@@ -1,0 +1,12 @@
+# São Nerses de Lambron, Reflexões sobre as instituições da Igreja: o luto de trinta dias por Aarão e os quarenta dias de oração pelos mortos (Nm 20,29)
+- Autor: São Nerses de Lambron (1153–1198), arcebispo de Tarso
+- Obra: Խորհրդածութիւնք ի կարգս եկեղեցւոյ եւ Մեկնութիւն խորհրդոյ պատարագին (Reflexões sobre as instituições da Igreja e explicação do mistério da Missa); diálogo entre Grigor e Nerses
+- Capítulo: Քննութիւն օրինակաց, հաստատութիւն հարցն աւանդութեանց որք սահմանեցին յամենայն տեղիս քրիստոնէից նստել եպիսկոպոս ի քաղաքս, եւ ոչ եթէ ի վանս. ընդ որս եւ պատարագի ընդդիմութեանց պատասխանի (o mesmo capítulo do achado de Nm 18; a parte final responde às objeções sobre a Missa e a oração pelos mortos)
+- Fonte: https://digilib.aua.am/book/1483/1787/15030/ (Biblioteca Digital Armênia; edição do séc. XIX)
+- Cobre: a pergunta de Grigor sobre os quarenta dias de memória e a resposta de Nerses, que cita Nm 20,29 (Dt 34,8 diz o mesmo de Moisés)
+- Língua: hy
+- Baixado: 2026-11-01 (a página inteira; buscado por երեսուն e Ահարոն). Erro de digitação do texto digital, deixado como está: առնեքմ (առնեմք).
+
+ԳՐԻԳՈՐ . Ուսայ խորհուրս գովելի եւ հաւանական . բայց կամիմ եւ զայն ուսանել՝ զքառասնի աւուրցն թիւ հիշատակի։ ՆԵՐՍԷՍ . Ագահութեան ախտի ծառայելով մոլորեցան ՚ի ճշմարտութենէն բազումք . քանզի զքառասունսն թուել իրաւացի էր , ոչ ըստ համարոյ պատարագացն , այլ ըստ աւուրցն՝ յօրէ յորմէ վախճանեցաւ մինչեւ ՚ի քառասուներորդն յիշատակել զնա յաղօթս , եւ ոչ այլ առաւելուլ երիցս եւ չորիցս եւ բազմապատիկս . եւ այսմ կարծեացս սկիզբն թուի ինձ ՚ի հնոցն ունել . քանզի «Ելաց , ասէ , ամենայն Իսրայէլ զԱհարոն աւուրս երեսուն »։ Արդ փոխանակ նոցա լալոյն՝ մեք զաղօթելն առնեքմ , պայծառացեալ յուսով յարութեան ՚ի վերայ եղբարցն՝ սկսեալ ՚ի վախճանէն զայն աւուրս օժանդակեմք նմին յառաջիկայ ճանապարհն։ ԳՐԻԳՈՐ . Ապա որպէս կարծեմ , անպատշաճ դնես զառանձինն առանձինն եկեղեցիս , եւ ՚ի սակաւ աւուրս զթիւ քառասնիցն լցուցանել։ ՆԵՐՍԷՍ . Ամենեւին իսկ , նաեւ զբազմապատիկ քառասունսն , զոր գնեն տուրեւառիկքն . […] ՆԵՐՍԷՍ . Ըստ որում վերագոյնն ասացի , որ զՔրիստոս վասն մեր իւրով աստուածեղէն կամօքն միշտ յայսըմ յաւիտենիս , յորժամ մերանի ոք ՚ի մէնջ՝ խնդրել ՚ի պատարագն Քրիստոսի աղօթիւք զհանգիստ զաւուրս քառասուն ամենայն եղբարցն , եւ ոչ զթիւս . զի բազմացն աղօթքն մի է ՚ի նոյն օրն […]
+
+Antes, no mesmo capítulo (contexto): rezamos pelos mortos não para o perdão dos pecados, mas pelo seu repouso e para que sejam livres dos maus espíritos no caminho depois da morte; «primeiro, em vida, devemos lutar até a morte na penitência; depois da morte, pedir com fé, diante da Missa de Cristo, a oração dos irmãos em nosso auxílio».

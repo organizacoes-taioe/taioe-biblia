@@ -2,7 +2,7 @@
  "livro": "numeros",
  "cap": 19,
  "estado": "em revisão",
- "atualizado": "2026-10-25",
+ "atualizado": "2026-11-01",
  "trechos": [
   {"id": "1", "titulo": "A novilha vermelha", "de": 1},
   {"id": "2", "titulo": "A purificação de quem toca um morto", "de": 11}
@@ -168,19 +168,5 @@
    ]
   }
  },
- "revisao": {
-  "escolhas": [
-   {
-    "id": "agua-da-purificacao",
-    "ref": "Nm 19,9.13.20.21",
-    "titulo": "*Mê niddá*: «a água da purificação», «a água lustral» ou «a água da aspersão»?",
-    "contexto": "O hebraico diz *mê niddá*, ao pé da letra «água da impureza», isto é, a água que tira a impureza; a expressão volta só em Nm 31,23. A tradução de partida dizia «água de purificação» (também em 31,23); a Bíblia de Jerusalém diz «água lustral»; a Vulgata, *aqua aspersionis*, e a Bíblia grega, *hýdōr rhantismoû*, «água da aspersão», que é o que os Padres leram. A escolha vale para os dois capítulos.",
-    "opcoes": [
-     {"id": "a", "texto": "«a água da purificação» (Nm 19 e 31,23)", "nota": "Clara para o leitor de hoje, e diz para que a água servia.", "recomendada": true},
-     {"id": "b", "texto": "«a água lustral»", "nota": "A das Bíblias de estudo, mas rara e técnica."},
-     {"id": "c", "texto": "«a água da aspersão», como a Vulgata e a Bíblia grega", "nota": "Diz como a água se usava, não para que servia, e não é o que o hebraico diz."}
-    ]
-   }
-  ]
- }
+ "revisao": {}
 }

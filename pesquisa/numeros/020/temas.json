@@ -1,0 +1,109 @@
+{
+ "1": [
+  {
+   "id": "maria-e-a-agua",
+   "titulo": "Em Cades, depois de trinta e oito anos, morre Maria e falta a água",
+   "versiculos": [1, 2],
+   "itens": ["beda-ep14-a-volta-a-cades", "afraates-dem-23-4-morta-maria-faltou-a-agua"]
+  },
+  {
+   "id": "a-sede-e-a-oracao",
+   "titulo": "A sede que prova o povo, e Moisés e Aarão que rezam por quem os persegue",
+   "versiculos": [2, 3, 4, 5, 6],
+   "itens": [
+    "belarmino-in-ps-80-8-a-falta-de-agua-prova-da-fe",
+    {"id": "gregorio-hez1-7-12-rezam-pelo-povo-que-os-persegue", "texto": "Moisés e Aarão, quando sofreram a perseguição do povo por dizerem o que era reto, correram para a tenda e ali rezaram pelo mesmo povo de que fugiam. A alma santa deles suportou o orgulho inchado dos rebeldes e, ainda assim, não explodiu em ódio contra eles. Pois a verdadeira paciência é a que ama até aquele que suporta. Suportar, mas odiar, não é virtude da mansidão, mas disfarce da raiva.", "original": "Moyses et Aaron, cum loquentes recta persecutionem populi passi sunt, ad tabernaculum cucurrerunt, pro ipso populo exorantes quem fugiebant. Sancta autem eorum mens et tumorem superbientium pertulit, et tamen contra eos ad odium non erupit. Patientia enim vera est, quae et ipsum amat quem portat. Nam tolerare, sed odisse, non est virtus mansuetudinis, sed velamentum furoris."}
+   ]
+  },
+  {
+   "id": "falai-a-rocha",
+   "titulo": "«Falai à rocha»: bastava uma palavra, e Deus faria o resto",
+   "versiculos": [8],
+   "itens": ["cirilo-glaphyra-ex-3-fala-a-rocha-moises-fraquejou", "antonio-s13-pascha-falai-a-rocha-pregacao-e-vida", "lourenco-q2-correcao-feriu-quando-bastava-a-palavra", "sales-tratado-amor-6-12-falar-a-rocha-derrete-a-alma"]
+  },
+  {
+   "id": "a-rocha-ferida",
+   "titulo": "A rocha ferida, figura de Cristo crucificado que dá a água",
+   "versiculos": [8, 11],
+   "itens": ["agostinho-quaest4-35-a-rocha-ferida-e-a-cruz", "lourenco-q3-paixao-rocha-mal-ferida-abre-as-entranhas", "nissa-vida-de-moises-ii-269-270-o-misterio-da-penitencia"]
+  },
+  {
+   "id": "nao-crestes",
+   "titulo": "«Não crestes em mim»: a dúvida de Moisés diante da rocha seca",
+   "versiculos": [10, 12],
+   "itens": ["agostinho-quaest4-19-deus-julga-o-coracao", "lourenco-q3-paixao-creram-de-longe-duvidaram-ao-ver", "ruperto-innum2-7-nunca-falara-assim"]
+  },
+  {
+   "id": "diante-do-povo",
+   "titulo": "«Aos olhos dos filhos de Israel»: a falta cometida diante do povo",
+   "versiculos": [10, 12],
+   "itens": ["crisostomo-contra-subintroductas-8-o-escandalo-diante-do-povo", "teodoreto-in-ps-105-32-33-o-luto-a-ira-e-a-duvida"]
+  },
+  {
+   "id": "tao-grande-castigo",
+   "titulo": "Por que um castigo tão grande para uma falta tão pequena",
+   "versiculos": [12],
+   "itens": ["gregorio-ep11-28-o-que-fazia-milagres-duvidou", "afraates-dem-23-7-os-justos-corrigidos-antes-do-juizo", "agostinho-en98-12-figura-e-nao-castigo"]
+  },
+  {
+   "id": "so-cristo",
+   "titulo": "Nem Moisés nem Aarão: só Cristo, sem falta, leva à terra prometida",
+   "versiculos": [12],
+   "itens": ["teodoreto-quaest-in-deut-43-os-perfeitos-e-josue", "origenes-hom-in-lev-12-3-so-cristo-tem-as-maos-perfeitas", "newman-pps-7-9-moises-falta-leve-e-o-cordeiro-sem-mancha"]
+  }
+ ],
+ "2": [
+  {
+   "id": "teu-irmao",
+   "titulo": "«Teu irmão Israel»: a mansidão diante do irmão que fecha o caminho",
+   "versiculos": [14, 17, 18, 19, 20, 21],
+   "itens": ["cirilo-de-adoratione-8-edom-e-a-mansidao-de-israel", "afraates-dem-11-9-esau-nao-deixou-o-irmao-passar"]
+  },
+  {
+   "id": "a-estrada-real",
+   "titulo": "A estrada real, sem se desviar nem para a direita nem para a esquerda",
+   "versiculos": [17, 19],
+   "itens": ["nissa-vida-de-moises-ii-287-288-a-estrada-real-e-o-meio", "antonio-s72-filipe-tiago-estrada-publica-cristo-caminho", "cirilo-jerusalem-cat-11-17-a-estrada-real-da-fe"]
+  }
+ ],
+ "3": [
+  {
+   "id": "a-hora-de-aarao",
+   "titulo": "No monte Hor, à vista de todos, Moisés anuncia ao irmão a hora de morrer",
+   "versiculos": [23, 24, 25, 27],
+   "itens": ["jaco-sarug-aarao-um-irmao-nao-resgata-o-irmao", "cirilo-de-adoratione-13-aarao-morre-no-alto-do-monte"]
+  },
+  {
+   "id": "as-vestes",
+   "titulo": "As vestes de Aarão passam a Eleazar: o sacerdote revestido de virtudes",
+   "versiculos": [26, 28],
+   "itens": ["jaco-sarug-aarao-despido-das-vestes-como-adao", "ambrosio-ep63-59-vestir-o-sacerdote-de-virtudes"]
+  },
+  {
+   "id": "sacerdote-eterno",
+   "titulo": "Aarão morre e tem sucessor; Cristo, sacerdote eterno, não tem",
+   "versiculos": [26, 28],
+   "itens": ["tomas-super-hebr7-l4-um-so-sol-um-so-sacerdote", "belarmino-eucharistia-5-25-aarao-morre-cristo-sem-sucessor"]
+  },
+  {
+   "id": "reunido-ao-seu-povo",
+   "titulo": "«Reunido ao seu povo»: a morte serena dos amigos de Deus",
+   "versiculos": [24, 26, 28],
+   "itens": [
+    "procopio-num-20-24-reunido-ao-seu-povo-a-alma-imortal",
+    {"id": "agostinho-quaest4-53-reunidos-ao-seu-povo", "texto": "O Senhor dá para a morte de Moisés a mesma causa que para a de seu irmão. Aos dois já tinha predito que não entrariam com o povo de Deus na terra prometida porque não o santificaram diante do povo junto à água da contradição, isto é, porque duvidaram do dom dele, de que pudesse correr água da rocha. [...] E quando se diz aos dois irmãos, Aarão e Moisés, que sejam reunidos ao seu povo, fica claro que sobre eles não está a ira de Deus que separa da paz da santa sociedade eterna. Por isso se mostra que não só os seus ofícios, mas também as suas mortes foram sinais das coisas futuras, e não castigos da indignação de Deus.", "original": "Eam causam mortis Moysi dicit Dominus, quam etiam fratris ejus. Ambobus enim etiam hoc ante praedixerat, quod ideo non intrarent cum populo Dei in terram promissionis, quia non eum sanctificaverunt coram populo ad aquam contradictionis; id est quia dubitaverunt de dono ejus, quod posset aqua de petra profluere, sicut exposuimus in eo ipso Scripturae loco. [...] Cum vero ambobus fratribus, id est Aaron et Moysi, dicitur ut apponantur ad populum suum, manifestum est non esse in illos iram Dei, quae separat a pace sanctae societatis aeternae. Unde manifestatur, non solum officia, sed etiam mortes eorum signa fuisse futurorum, non supplicia indignationis Dei."},
+    "jaco-sarug-aarao-deus-tem-outro-mundo",
+    {"id": "lapide-num20-29-a-morte-de-aarao-e-o-trintidio", "texto": "Daqui se vê que Aarão teve na morte estes três privilégios. O primeiro: morreu sem ferida, sem doença e sem cansaço da vida que o precedessem, mas em plena saúde (pois subiu ao monte Hor são e forte), e foi levado desta vida como quem adormece. O segundo: viu o filho Eleazar suceder-lhe, ser revestido das vestes pontificais e assim ser consagrado pontífice. O terceiro: expirou na presença e quase no colo do seu irmão querido, Moisés, e do seu filho Eleazar, e foram eles que lhe fecharam os olhos.", "original": "Hinc patet Aaronem in morte habuisse hæc tria privilegia: primum, quod mortuus sit nullo præveniente vulnere, morbo, aut tædio vitæ, sed in plena sanitate (sanus enim et validus conscendit montem Hor), quasi dormiens de vita hac assumptus sit. Secundum, quod viderit filium suum Eleazarum sibi succedere, vestibusque pontificalibus indui, itaque pontificem consecrari. Tertium, quod in præsentia et quasi in gremio charissimi fratris sui Mosis, et filii Eleazari expirarit, illique ipsi oculos clauserint"}
+   ]
+  },
+  {
+   "id": "trinta-dias",
+   "titulo": "Trinta dias de luto por Aarão: do pranto à oração pelos mortos",
+   "versiculos": [29],
+   "itens": [
+    {"id": "jeronimo-ep78-34-aarao-e-chorado-jesus-nao", "texto": "Aarão morre no ano em que o povo novo ia entrar na terra prometida, nos últimos confins da terra dos idumeus. E, embora deixe no monte o sacerdócio a Eleazar, seu filho, e embora a Lei leve ao alto os que a cumprem, essa altura não fica do outro lado do Jordão, mas nos últimos confins das obras terrenas; e o povo o chora trinta dias. Aarão é chorado, Jesus não é chorado. Na Lei, a descida à mansão dos mortos; no Evangelho, a passagem para o paraíso.", "original": "Moritur autem eo anno, quo novus populus repromissionis terram intraturus erat, in extremis finibus terrae Idumaeorum. Et quanquam in monte sacerdotium Eleazaro filio dereliquerit, Lexque eos, qui eam impleverint, perducat ad summum: tamen ipsa sublimitas non est trans fluenta Jordanis, sed in extremis terrenorum operum finibus: et plangit eum populus triginta diebus. Aaron plangitur, Jesus non plangitur. In Lege descensus ad inferos; in Evangelio ad paradisum transmigratio."},
+    "lambron-instituicoes-em-vez-do-pranto-a-oracao"
+   ]
+  }
+ ]
+}

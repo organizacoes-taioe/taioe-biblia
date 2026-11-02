@@ -1,8 +1,8 @@
 {
  "livro": "numeros",
  "cap": 18,
- "estado": "em revisão",
- "atualizado": "2026-10-24",
+ "estado": "revisado",
+ "atualizado": "2026-11-01",
  "trechos": [
   {"id": "1", "titulo": "O encargo dos sacerdotes e dos levitas", "de": 1},
   {"id": "2", "titulo": "A porção dos sacerdotes", "de": 8},
@@ -50,8 +50,7 @@
  "notas": [
   {"id": "n01", "v": 1, "apos": "santuário", "texto": "Carregar a iniquidade do santuário é responder pelas faltas contra as coisas santas. É a resposta ao medo do povo no fim do capítulo anterior (17,27-28): daqui em diante, os sacerdotes e os levitas ficam entre o povo e o santuário.", "origem": "nova: a fórmula é obscura para o leitor de hoje, e a ligação com o fim do capítulo 17 ajuda a se localizar (como a nota de Nm 14,17)"},
   {"id": "n02", "v": 14, "apos": "anátema", "texto": "O anátema era o que se entregava ao Senhor para sempre, sem que se pudesse resgatar nem usar como coisa comum.", "origem": "nova: o leitor de hoje entende «anátema» como maldição ou excomunhão"},
-  {"id": "n03", "v": 19, "apos": "sal", "texto": "O sal, que conserva os alimentos, era sinal de um pacto que não se desfaz.", "origem": "revista do projeto antigo: ficou só o sinal do sal; saiu a frase sobre comer o sal de alguém"},
-  {"id": "n04", "v": 20, "apos": "herança", "texto": "A herança é a parte da terra prometida que cada tribo havia de receber. A tribo de Levi não recebeu território: só cidades para morar no meio das outras.", "origem": "nova, no lugar da do projeto antigo («o que parece despojo é privilégio, e o Salmo 16 fará dele oração de todo fiel»: interpretação e associação com outro texto)"}
+  {"id": "n03", "v": 19, "apos": "sal", "texto": "O sal, que conserva os alimentos, era sinal de um pacto que não se desfaz.", "origem": "revista do projeto antigo: ficou só o sinal do sal; saiu a frase sobre comer o sal de alguém"}
  ],
  "comentarios": {
   "1": {
@@ -196,30 +195,5 @@
     }
    ]
   }
- },
- "revisao": {
-  "escolhas": [
-   {
-    "id": "parte-e-heranca",
-    "ref": "Nm 18,20",
-    "titulo": "«Eu sou a tua parte e a tua herança» ou «a tua porção e a tua herança»?",
-    "contexto": "O hebraico diz *ani ḥelqekha venaḥalatkha*. *Ḥeleq* é a parte que cabe a cada um numa partilha (da terra, do despojo); *naḥalá*, a herança. A tradução de partida dizia «a tua porção e a tua herança» aqui, mas «parte nem herança» no Deuteronômio (10,9; 12,12; 14,27.29; 18,1), para a mesma dupla de palavras, e «O Senhor é a parte da minha herança» no Sl 16,5; nos Salmos 119,57 e 142,6 e em Lm 3,24, onde o fiel diz o mesmo de si («a minha porção é o Senhor»), ficou «porção». Os Padres leem aqui o clérigo (*klêros*, a parte, a sorte): o que tem o Senhor por herança. A escolha vale para a Bíblia inteira.",
-    "opcoes": [
-     {"id": "a", "texto": "«eu sou a tua parte e a tua herança»; *ḥeleq* = «parte» em toda a Bíblia quando é a partilha (Dt, Sl 16,5; 73,26; 119,57; 142,6; Lm 3,24)", "nota": "A mesma palavra nos mesmos lugares, como no Deuteronômio; «porção» fica para a parte de comida que cabe ao sacerdote (v. 8; Lv 6,10).", "recomendada": true},
-     {"id": "b", "texto": "«eu sou a tua porção e a tua herança», como estava", "nota": "Nesse caso, «porção» também no Deuteronômio e no Sl 16,5."}
-    ]
-   },
-   {
-    "id": "anatema",
-    "ref": "Nm 18,14",
-    "titulo": "*Ḥerem*: «anátema», «interdito» ou «votado ao extermínio»?",
-    "contexto": "O *ḥerem* é o que se entrega ao Senhor para sempre, sem resgate e sem uso comum (Lv 27,28–29); na guerra, a cidade vencida que não se saqueia e se destrói (Js 6–7). A tradução de partida usa três palavras: «anátema» em Números (18,14; 21,2–3) e no Deuteronômio, «interdito» no Levítico 27 (com nota) e «votado ao extermínio» em Josué 6–7 (e «anátema» no mesmo Js 6,18). O texto leva «anátema», com uma nota curta, porque o leitor de hoje entende a palavra como maldição. A escolha vale para a Bíblia inteira.",
-    "opcoes": [
-     {"id": "a", "texto": "«anátema» em toda a Bíblia («consagrado por anátema», «votar ao anátema»), com nota onde o sentido não ficar claro", "nota": "Uma palavra só para o mesmo conceito, a das Bíblias católicas em português; serve para o culto (Nm 18,14) e para a guerra (Js 6).", "recomendada": true},
-     {"id": "b", "texto": "«interdito» em toda a Bíblia", "nota": "Mais claro como «coisa proibida ao uso comum», mas raro e técnico."},
-     {"id": "c", "texto": "pelo contexto: «anátema» no culto (Lv 27, Nm 18) e «votado ao extermínio» na guerra (Nm 21, Dt, Js)", "nota": "Diz o que acontecia, mas esconde que é a mesma palavra e a mesma ideia."}
-    ]
-   }
-  ]
  }
 }

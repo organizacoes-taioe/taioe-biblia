@@ -1,8 +1,8 @@
 {
  "livro": "numeros",
  "cap": 17,
- "estado": "em revisão",
- "atualizado": "2026-10-24",
+ "estado": "revisado",
+ "atualizado": "2026-11-01",
  "trechos": [
   {"id": "1", "titulo": "As lâminas que revestem o altar", "de": 1},
   {"id": "2", "titulo": "A murmuração e a praga", "de": 6},
@@ -208,6 +208,5 @@
     }
    ]
   }
- },
- "revisao": {"escolhas": []}
+ }
 }
