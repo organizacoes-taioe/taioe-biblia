@@ -1,0 +1,405 @@
+[
+ {
+  "id": "teodoreto-quaest-num-42-a-boca-impura-e-o-espirito",
+  "autor": "Teodoreto de Ciro",
+  "autor_id": "teodoreto",
+  "datas": "c. 393–c. 460",
+  "titulo_autor": "bispo de Ciro, exegeta da escola de Antioquia",
+  "obra": "Questões sobre o Octateuco (Quaestiones in Octateuchum), Números, pergunta 42",
+  "passagem": "Quaest. in Num. 42",
+  "edicao": "PG 80, 349–400 (Quaest. in Num.); texto da ed. Fernández Marcos–Sáenz-Badillos (1979)",
+  "trecho": "1",
+  "versiculos": [
+   1,
+   3,
+   5,
+   8
+  ],
+  "lingua": "grc",
+  "original": "Καὶ ποίαν ἰσχὺν εἶχεν ἡ τοῦ μάντεως ἀρὰ μὴ βουλομένου Θεοῦ; Ἰσχὺν μὲν εἶχεν οὐδεμίαν· ψευδὴς γὰρ ἦν ἡ περὶ αὐτοῦ κατέχουσα δόξα. ἐπειδὴ δὲ συνεχῶς παρανομῶν ὁ λαὸς ὑπέμενεν θεηλάτους πληγάς, πρὸς τὴν ἐκείνων ἀσθένειαν τὰ κατὰ τὸν Βαλαὰμ ᾠκονόμησεν ὁ δεσπότης Θεός. ἵνα γὰρ μὴ νομίσωσι παρὰ τοῦ Θεοῦ παιδευόμενοι, διὰ τὰς τοῦ μάντεως ἀρὰς συμφοραῖς περιπίπτειν, οὐκ εἴασε τὸν μάντιν χρήσασθαι ταῖς ἀραῖς, τὰς τῶν ἀνοήτων ἀφορμὰς περικόπτων. [...] ὁ μέντοι Βαλαὰμ καὶ τοῦ Θεοῦ τὴν κηδεμονίαν μεμαθηκώς, ταῖς θυσίαις μεταπεῖσαι πειρᾶται· ἕνα τῶν ψευδωνύμων εἶναι τοπάζων, οὓς καὶ τρεπτοὺς ὀνομάζουσιν οἱ τούτων θεραπευταί. τὸ δέ, «ἐπορεύθη ἐπ' εὐθεῖαν», δηλοῖ ὅτι τὸ πρακτέον ἀληθῶς ἠβουλήθη μαθεῖν. τούτου χάριν τὸ ἀκάθαρτον στόμα τοῦ παναγίου πνεύματος ἐδέξατο τὴν ἐνέργειαν, καὶ φθέγγεται ἃ μὴ βούλεται· καὶ βοᾷ «τί ἀράσομαι ὃν μὴ ἀρᾶται Κύριος; καὶ τί καταράσομαι ὃν μὴ καταρᾶται Θεός»;",
+  "fonte_url": "https://khazarzar.skeptik.net/pgm/PG_Migne/Theodoretus%20of%20Cyrrhus_PG%2080-84/Quaestiones%20in%20Octateuchum.pdf",
+  "traducao_pt": "E que força tinha a maldição do adivinho, se Deus não a queria? Força nenhuma: era falsa a fama que corria a respeito dele. Mas, como o povo, que pecava sem parar, sofria castigos enviados por Deus, o Senhor Deus dispôs o caso de Balaão por causa da fraqueza deles: para que, ao serem corrigidos por Deus, não pensassem que caíam nas desgraças por causa das maldições do adivinho, não deixou o adivinho usar as suas maldições, e assim tirou o pretexto dos insensatos. [...] Balaão, porém, embora já tivesse aprendido o cuidado de Deus por aquele povo, tenta fazê-lo mudar de ideia com sacrifícios, imaginando que ele fosse um daqueles falsos deuses que os seus próprios devotos chamam mutáveis. A frase «seguiu pelo caminho reto» mostra que ele quis de verdade saber o que devia fazer. Por isso a boca impura recebeu a ação do Espírito Santíssimo e diz o que não quer; e clama: «Como amaldiçoarei a quem o Senhor não amaldiçoa? Como lançarei imprecações contra quem Deus não as lança?»",
+  "temas": [
+   "Deus fala por um homem mau",
+   "os sete altares"
+  ],
+  "resumo": "A maldição do adivinho não tinha força nenhuma; Deus o impediu para que o povo, castigado pelos próprios pecados, não culpasse as maldições; Balaão quis comprar Deus com sacrifícios, como se fosse um deus mutável, e a sua boca impura recebeu o Espírito e disse o que não queria.",
+  "relevancia": 3,
+  "direitos": "domínio público (texto equivalente ao da PG 80)"
+ },
+ {
+  "id": "origenes-selecta-num-23-1-os-altares-de-balaao",
+  "autor": "Orígenes",
+  "autor_id": "origenes",
+  "datas": "c. 185–254",
+  "titulo_autor": "presbítero e teólogo de Alexandria (não é santo nem Padre canonizado, mas a tradição o leu sempre)",
+  "obra": "Escólios sobre Números (Selecta in Numeros), de cadeia",
+  "passagem": "Selecta in Num., sobre Nm 23,1",
+  "edicao": "PG 12, 580 (escólios de cadeia atribuídos a Orígenes)",
+  "trecho": "1",
+  "versiculos": [
+   1,
+   2
+  ],
+  "lingua": "grc",
+  "original": "Οἰκοδόμησόν μοι ἑπτὰ βωμούς. Ἔστι δὲ καὶ διὰ σώματος ἑτέρου ἔργα γινόμενα, καὶ ἐν τοῖς κρείττοσι καὶ ἐν τοῖς χείροσιν. Οἷον ὡς τὰ γινόμενα ἐν Αἰγύπτῳ ὑπὸ Μωϋσῆ καὶ Ἀαρὼν καὶ τῶν ἐπαοιδῶν. Ἀλλὰ συγκρινομένη ἡ θεία δύναμις πρὸς τὴν ἀντικειμένην κατὰ πρόσωπον τῶν ἀμφιβαλλόντων, αὕτη ἡ θεία δύναμις νικᾷ ὡς ἡ ῥάβδος Μωϋσῆ τὰς τῶν ἐπαοιδῶν ῥάβδους κατέπιεν. Τοῦ αὐτοῦ. Εἰώθει ὁ Βαλαὰμ ταῖς αὐταῖς θυσίαις θεραπεύων προσκαλεῖσθαι τοὺς δαίμονας. Τοιαῦται γὰρ αἱ θυσίαι ἐτελοῦντο ἐν κόσμῳ τοῖς δαίμοσι. Διὰ τοῦτο οὖν ὁ Θεὸς θυσίαις ἀπαιτεῖ τὸν πρῶτον λαὸν, ἵνα διὰ τὸ προσφέρεσθαι τῷ Θεῷ, καταργηθῇ τὸ προσφέρεσθαι τοῖς δαίμοσιν εἰ καὶ τὰ μάλιστα σύμβολα ἦσαν.",
+  "fonte_url": "https://khazarzar.skeptik.net/pgm/PG_Migne/Origenes_PG%2011-17/Selecta%20in%20Numeros.pdf",
+  "traducao_pt": "«Constrói-me aqui sete altares.» Há obras que se fazem por meio de outro corpo, tanto do lado do bem como do lado do mal, como as que se fizeram no Egito por Moisés e Aarão e pelos encantadores. Mas, quando o poder divino se mede com o poder contrário diante dos que duvidam, é o poder divino que vence, como a vara de Moisés engoliu as varas dos encantadores. Do mesmo autor. Balaão costumava chamar os demônios honrando-os com esses mesmos sacrifícios: era esse o tipo de sacrifício que se oferecia no mundo aos demônios. Por isso Deus pede sacrifícios ao primeiro povo: para que, oferecendo-os a Deus, acabasse o costume de oferecê-los aos demônios, embora fossem sobretudo figuras.",
+  "temas": [
+   "os sete altares"
+  ],
+  "resumo": "Os sete altares eram o rito com que Balaão costumava chamar os demônios; diante do poder de Deus ele nada pode, como a vara de Moisés engoliu as dos magos; e Deus pediu sacrifícios a Israel justamente para desviá-los dos demônios.",
+  "relevancia": 2,
+  "direitos": "domínio público"
+ },
+ {
+  "id": "nissa-vida-de-moises-ii-295-296-como-amaldicoar-o-virtuoso",
+  "autor": "São Gregório de Nissa",
+  "autor_id": "nissa",
+  "datas": "c. 335–c. 395",
+  "titulo_autor": "bispo de Nissa, Padre capadócio",
+  "obra": "Vida de Moisés (De vita Moysis), livro II",
+  "passagem": "II, 295–296",
+  "edicao": "GNO VII/1 (Musurillo 1964), II, 295–296; PG 44 (colunas a conferir)",
+  "trecho": "1",
+  "versiculos": [
+   7,
+   8
+  ],
+  "lingua": "grc",
+  "original": "Ἡμεῖς δέ φαμεν, τοῖς προεξητασμένοις τὴν ἱστορίαν ἁρμόζοντες, κατὰ τῶν ἐν ἀρετῇ ζώντων τὸν καταρᾶσθαι βουλόμενον μηδεμίαν δύνασθαι προΐεσθαι φωνὴν λυπηράν τε καὶ ἀπεμφαίνουσαν, ἀλλὰ τρέπειν τὴν κατάραν εἰς εὐλογίαν. Ὃ δὲ νοοῦμεν τοιοῦτόν ἐστιν ὅτι τῶν κατ' ἀρετὴν ζώντων ὁ τῆς λοιδορίας μῶμος οὐχ ἅπτεται. Πῶς γὰρ ἐπὶ πλεονεξίᾳ ὁ ἀκτήμων λοιδορηθήσεται; πῶς δέ τις ἐπιθρυλλήσει τὴν ἀσωτίαν τῷ ἀνακεχωρημένῳ καὶ ἰδιάζοντι, ἢ τὸν θυμὸν τῷ πράῳ, ἢ τὸν τῦφον τῷ μετριόφρονι, ἢ ἄλλο τι τῶν ἐπιμώμων τοῖς ἐκ τῶν ἐναντίων γινωσκομένοις, οἷς ὁ σκοπός ἐστιν ἄληπτον παρέχειν τῷ μώμῳ τὸν βίον, ἵνα, καθώς φησιν ὁ Ἀπόστολος, ὁ ἐξ ἐναντίας ἐντραπῇ μηδὲν ἔχων λέγειν; Διὰ τοῦτό φησιν ἡ φωνὴ τοῦ εἰς κατάραν παρειλημμένου· πῶς ἀράσομαι ὃν μὴ ἀρᾶται Κύριος; τουτέστι· πῶς λοιδορήσομαι τῷ μὴ δεδωκότι τῆς λοιδορίας τὴν ὕλην, ᾧ διὰ τὸ πρὸς τὸν Θεὸν βλέπειν ἄτρωτός ἐστιν εἰς κακίαν ὁ βίος;",
+  "fonte_url": "https://khazarzar.skeptik.net/pgm/PG_Migne/Gregory%20of%20Nyssa_PG%2044-46/De%20vita%20Mosis.pdf",
+  "traducao_pt": "Nós, aplicando a história ao que já examinamos, dizemos que quem quer amaldiçoar os que vivem na virtude não consegue soltar contra eles nenhuma palavra que os fira ou os desonre, mas muda a maldição em bênção. E entendemos isto assim: a censura da maledicência não alcança os que vivem segundo a virtude. Como se vai acusar de ganância quem nada possui? Como alguém vai espalhar que é devasso o que vive retirado e sozinho, ou que é colérico o manso, ou que é soberbo o humilde, ou qualquer outro defeito daqueles que são conhecidos pela virtude contrária, que têm como meta levar uma vida onde a censura não encontre onde pegar, para que, como diz o Apóstolo, o adversário fique envergonhado, sem nada que dizer? Por isso diz a voz daquele que foi chamado para amaldiçoar: «Como amaldiçoarei a quem o Senhor não amaldiçoa?», isto é: como vou falar mal de quem não me deu matéria para isso, cuja vida, por olhar para Deus, é invulnerável ao mal?",
+  "temas": [
+   "quem Deus abençoa ninguém amaldiçoa"
+  ],
+  "resumo": "«Como amaldiçoarei a quem o Senhor não amaldiçoa?»: contra quem vive na virtude a maledicência não encontra onde pegar; o que nada possui não pode ser chamado ganancioso, nem o manso colérico; a vida que olha para Deus é invulnerável.",
+  "relevancia": 3,
+  "direitos": "domínio público (texto equivalente ao da PG 44; o PDF da khazarzar segue a GNO VII/1)"
+ },
+ {
+  "id": "cirilo-de-adoratione-14-a-guerra-dos-pagaos-vira-bencao",
+  "autor": "São Cirilo de Alexandria",
+  "autor_id": "cirilo",
+  "datas": "c. 376–444",
+  "titulo_autor": "patriarca de Alexandria, Doutor da Igreja",
+  "obra": "Sobre a adoração em espírito e verdade (De adoratione et cultu in spiritu et veritate), livro XIV",
+  "passagem": "De adoratione XIV",
+  "edicao": "PG 68, 897",
+  "trecho": "1",
+  "versiculos": [
+   7,
+   8,
+   11
+  ],
+  "lingua": "grc",
+  "original": "Ἄθρει δὲ καὶ Μωαβίτας, εἰ δοκεῖ, πολεμιωτάτους ὄντας ἀναφανδὸν τοῖς ἐθέλουσι λατρεύειν Θεῷ τῷ μόνῳ τε φύσει καὶ ἀληθῶς. Ἦσαν μὲν γὰρ εἰδώλων προσκυνηταὶ, μαντείαις τε καὶ γοητείαις ἐξαιρέτως ἐπιθαρσήσαντες, καὶ περὶ πτήσεις τῶν οἰωνῶν οὐ μετρίως ἐπτοημένοι, ἐπιτρίζοντες δὲ τοὺς ὀδόντας ταῖς τοῦ Ἰσραὴλ εὐπραγίαις, κατεμισθοῦντο τὸν Βαλαὰμ, καὶ ἐπαρᾶσθαι παρεσκεύαζον, δυνάμει δὲ τῇ ἀφράστῳ Θεοῦ, τὸ τοῦ μάντεως στόμα πρὸς ἀνεθελήτους αὐτοῖς εὐλογίας μετεσκευάζετο. Τοιοῦτος ἂν εἴη καθ' ἡμῶν ὁ Ἑλλήνων πόλεμος, τῇ τοῦ Σωτῆρος ἡμῶν διαφθονουμένων δόξῃ, καὶ πᾶσαν τοῦ διαβόλου καθ' ἡμῶν κατεξανιστάντων ἰσχὺν, ἣν ἡ θεία καὶ ἄνωθεν κατασείει χάρις, τῆς τῶν δαιμόνων ἀγέλης τὸ ἄναλκι καταχέουσα, καὶ τὸν τῆς ἐπιβουλῆς ἀναθεῖσα τρόπον πρὸς τὸ εὐφραίνειν εἶδος.",
+  "fonte_url": "https://khazarzar.skeptik.net/pgm/PG_Migne/Cyril%20of%20Alexandria_PG%2068-77/De%20adoratione%20et%20cultu%20in%20spiritu%20et%20veritate.pdf",
+  "traducao_pt": "Olha também, se quiseres, os moabitas, inimigos declarados dos que querem servir ao Deus que é o único Deus por natureza e de verdade. Eram adoradores de ídolos, confiavam sobretudo nas adivinhações e nas feitiçarias e viviam muito preocupados com o voo das aves; rangiam os dentes diante da prosperidade de Israel, contrataram Balaão e o prepararam para amaldiçoar; mas, pelo poder inefável de Deus, a boca do adivinho foi transformada para bênçãos que eles não queriam. Assim seria a guerra dos pagãos contra nós: têm inveja da glória do nosso Salvador e levantam contra nós toda a força do diabo; mas a graça divina, que vem do alto, abala essa força, derrama a fraqueza sobre a manada dos demônios e faz da trama deles uma ocasião de alegria.",
+  "temas": [
+   "quem Deus abençoa ninguém amaldiçoa"
+  ],
+  "resumo": "Os moabitas, confiados em adivinhos e no voo das aves, contrataram Balaão, e Deus mudou a boca dele para bênçãos que eles não queriam; assim é a guerra dos pagãos e do diabo contra a Igreja: a graça a desfaz e a transforma em alegria.",
+  "relevancia": 2,
+  "direitos": "domínio público"
+ },
+ {
+  "id": "procopio-num-23-9-o-povo-a-parte-e-o-cristao",
+  "autor": "Procópio de Gaza",
+  "autor_id": "procopio",
+  "datas": "c. 465–c. 528",
+  "titulo_autor": "retor cristão de Gaza, compilador de cadeias exegéticas",
+  "obra": "Comentário a Números (Commentarii in Numeros), no latim de Clauser",
+  "passagem": "In Num. 23,9",
+  "edicao": "PG 87/1, 865–866 (só o latim de C. Clauser, 1555; o grego deste trecho não foi impresso)",
+  "trecho": "1",
+  "versiculos": [
+   9
+  ],
+  "lingua": "la",
+  "original": "Ecce populus seorsim habitabit. Et legibus enim et loco disjuncti erant. Nobis vero spiritus, id est, quod ipsis locus erat, parum enim momenti locus ad mentis divisionem affert, quae etiam consuetudinem innoxiam reddit. Non enim studia gentium aemulamur, licet cum illis versemur.",
+  "fonte_url": "https://archive.org/details/patrologiaecurs267unkngoog/page/n439/mode/1up",
+  "traducao_pt": "«Eis um povo que habitará à parte.» Eles estavam separados pelas leis e pelo lugar. Para nós, o espírito é o que para eles era o lugar: o lugar pouco importa para a separação da mente, e é ela que torna inofensivo até o convívio. Não imitamos os costumes dos pagãos, embora vivamos no meio deles.",
+  "temas": [
+   "o povo que habita à parte"
+  ],
+  "resumo": "Israel vivia à parte pelas leis e pelo lugar; o cristão vive à parte pelo espírito, que vale mais que o lugar: vive no meio dos pagãos sem imitar os seus costumes.",
+  "relevancia": 3,
+  "direitos": "domínio público"
+ },
+ {
+  "id": "procopio-num-23-10-quem-veio-tramar-pede-a-sorte-deles",
+  "autor": "Procópio de Gaza",
+  "autor_id": "procopio",
+  "datas": "c. 465–c. 528",
+  "titulo_autor": "retor cristão de Gaza, compilador de cadeias exegéticas",
+  "obra": "Comentário a Números (Commentarii in Numeros), no latim de Clauser",
+  "passagem": "In Num. 23,10",
+  "edicao": "PG 87/1, 865–866 (só o latim de C. Clauser, 1555)",
+  "trecho": "1",
+  "versiculos": [
+   10
+  ],
+  "lingua": "la",
+  "original": "Moriatur animus meus morte justorum, et fiant extrema mea ei similia. Qui insidiarum causa venerat societatem horum hominum consequi precatur. Adeo Deum diligentibus omnia bono cedunt. Ille enim id quod contra populum machinatus erat ad Dei gloriam cognoscendam iter praebuit, daemonum infirmitate ne hiare quidem contra Dei consilium valente.",
+  "fonte_url": "https://archive.org/details/patrologiaecurs267unkngoog/page/n439/mode/1up",
+  "traducao_pt": "«Morra a minha alma da morte dos justos, e seja o meu fim semelhante ao deles.» Quem tinha vindo para armar uma cilada pede para ter parte com esses homens. A tal ponto tudo concorre para o bem dos que amam a Deus! Aquilo que ele tinha tramado contra o povo abriu caminho para se conhecer a glória de Deus, pois os demônios são tão fracos que nem conseguem abrir a boca contra o desígnio de Deus.",
+  "temas": [
+   "«Morra eu a morte dos justos»"
+  ],
+  "resumo": "O que veio para amaldiçoar acaba pedindo a sorte dos justos: tudo concorre para o bem dos que amam a Deus (Rm 8,28), e a trama contra o povo vira caminho para conhecer a glória de Deus.",
+  "relevancia": 2,
+  "direitos": "domínio público"
+ },
+ {
+  "id": "crisostomo-in-jo-hom-86-4-a-lingua-impura-de-balaao",
+  "autor": "São João Crisóstomo",
+  "autor_id": "crisostomo",
+  "datas": "c. 349–407",
+  "titulo_autor": "bispo de Constantinopla, Doutor da Igreja",
+  "obra": "Homilias sobre o Evangelho de João (In Joannem homiliae), homilia 86",
+  "passagem": "In Jo. hom. 86, 4 (sobre Jo 20,23)",
+  "edicao": "PG 59, 472",
+  "trecho": "1",
+  "versiculos": [
+   5,
+   7,
+   8
+  ],
+  "lingua": "grc",
+  "original": "Κἂν γὰρ ὁ βίος αὐτῶν σφόδρα διαβεβλημένος ᾖ, σὺ δὲ, ἂν σαυτῷ προσέχῃς, οὐδὲν παραβλαβήσῃ εἰς τὰ ἐγκεχειρισμένα αὐτῷ παρὰ τοῦ Θεοῦ. Εἰ γὰρ δι' ὄνου φωνὴν ἀφεθῆναι ἐποίησε, καὶ διὰ μάντεως εὐλογίας πνευματικὰς ἐχαρίσατο, καὶ ἐν ἀλόγῳ στόματι καὶ ἐν ἀκαθάρτῳ γλώττῃ τοῦ Βαλαὰμ ἐνεργήσας διὰ τοὺς προσκεκρουκότας Ἰουδαίους· πολλῷ μᾶλλον δι' ὑμᾶς τοὺς εὐγνώμονας, εἰ καὶ σφόδρα φαῦλοί εἰσιν οἱ ἱερεῖς, τὰ αὐτοῦ πάντα ἐργάσεται, καὶ πέμψει τὸ Πνεῦμα τὸ ἅγιον. Οὐδὲ γὰρ ὁ καθαρὸς ἀπὸ τῆς οἰκείας ἐπισπᾶται αὐτὸ καθαρότητος· ἀλλὰ χάρις ἐστὶν ἡ τὸ πᾶν ἐργαζομένη.",
+  "fonte_url": "https://khazarzar.skeptik.net/pgm/PG_Migne/John%20Chrysostom_PG%2047-64/In%20Joannem.pdf",
+  "traducao_pt": "Ainda que a vida dos sacerdotes seja muito censurada, tu, se cuidares de ti mesmo, não terás prejuízo nenhum naquilo que Deus confiou a eles. Se Deus fez soar a voz de uma jumenta, e por meio de um adivinho concedeu bênçãos espirituais, agindo numa boca sem razão e na língua impura de Balaão por causa dos judeus que o tinham ofendido, muito mais, por vós que tendes boa vontade, ainda que os sacerdotes sejam muito maus, ele fará tudo o que é seu e enviará o Espírito Santo. Pois nem o puro atrai o Espírito pela sua própria pureza: é a graça que faz tudo.",
+  "temas": [
+   "Deus fala por um homem mau"
+  ],
+  "resumo": "Se Deus deu bênçãos espirituais pela língua impura de Balaão, muito mais agirá pelos sacerdotes, ainda que indignos, em favor dos fiéis: não é a pureza do ministro que atrai o Espírito, é a graça que faz tudo.",
+  "relevancia": 3,
+  "direitos": "domínio público"
+ },
+ {
+  "id": "crisostomo-in-col-hom-4-o-medo-que-vira-confianca",
+  "autor": "São João Crisóstomo",
+  "autor_id": "crisostomo",
+  "datas": "c. 349–407",
+  "titulo_autor": "bispo de Constantinopla, Doutor da Igreja",
+  "obra": "Homilias sobre a Carta aos Colossenses (In epistulam ad Colossenses homiliae), homilia 4",
+  "passagem": "In Col. hom. 4 (sobre Cl 1,21–22)",
+  "edicao": "PG 62, 330",
+  "trecho": "1",
+  "versiculos": [
+   7,
+   8,
+   11
+  ],
+  "lingua": "grc",
+  "original": "Καὶ πάλιν, ὅτε ὁ Βαλαὰμ ηὔχετο, παιδικὴ ἦν ἡ συγκατάβασις ἡ γεγονυῖα αὐτοῖς. Καθάπερ γὰρ ἐπὶ τῶν παιδίων, ὅταν τι τῶν οὐ φοβερῶν ἴδωσιν, οἷον ἢ ἔριον, ἢ ἄλλο τι τοιοῦτον, ἐξαίφνης φοβοῦνται· ὥστε δὲ μὴ ἐναπομεῖναι αὐτοῖς τὸν φόβον, ἄγομεν ὑπὸ τὰς ἐκείνων χεῖρας αὐτὸ, καὶ τίτθας ποιοῦμεν ὑποδεικνύειν· οὕτω καὶ ὁ Θεὸς ἐποίησεν· ἐπειδὴ γὰρ φοβερὸς ἦν ὁ μάντις, ἔτρεψεν αὐτοῖς τὸν φόβον εἰς θάρσος.",
+  "fonte_url": "https://khazarzar.skeptik.net/pgm/PG_Migne/John%20Chrysostom_PG%2047-64/In%20epistulam%20ad%20Colossenses.pdf",
+  "traducao_pt": "E também quando Balaão fazia as suas invocações, Deus se abaixou até eles como quem lida com crianças. As crianças, quando veem algo que não dá medo nenhum, como um novelo de lã ou coisa parecida, de repente se assustam; e nós, para que o medo não fique nelas, pomos o objeto nas mãos delas e pedimos às amas que o mostrem. Assim fez também Deus: como o adivinho metia medo, ele mudou o medo deles em confiança.",
+  "temas": [
+   "quem Deus abençoa ninguém amaldiçoa"
+  ],
+  "resumo": "Israel temia o adivinho como a criança teme um novelo de lã; Deus fez como a mãe que põe o objeto nas mãos do filho: mudou a maldição em bênção e o medo em confiança.",
+  "relevancia": 3,
+  "direitos": "domínio público"
+ },
+ {
+  "id": "teodoro-estudita-ep-539-nem-balaao-falou-contra-deus",
+  "autor": "São Teodoro Estudita",
+  "autor_id": "teodoro-estudita",
+  "datas": "759–826",
+  "titulo_autor": "abade do mosteiro de Estúdio, em Constantinopla, confessor da fé",
+  "obra": "Cartas (Epistulae), carta 539, a Cássia, a candidata",
+  "passagem": "Carta 539",
+  "edicao": "ed. G. Fatouros, Theodori Studitae Epistulae (CFHB 31, 1992), ep. 539; não está na PG nesta numeração",
+  "trecho": "1",
+  "versiculos": [
+   12
+  ],
+  "lingua": "grc",
+  "original": "εἰ γὰρ Βαλαὰμ ὁ οἰωνοσκόπος οὐ παρὰ τὸ βούλημα τοῦ θεοῦ ἠνέσχετο ἀποκριθῆναι τῷ Βαλάκ, βασιλεῖ τῶν ἀλλοφύλων, πῶς ἡμεῖς, οἱ ἐν βαθμῷ ἱερωσύνης κείμενοι καὶ λόγον ὑφέξοντες ἐν ἡμέρᾳ κρίσεως ἀνθ' ὧν ἐρωτώμενοι ἀποκρινούμεθα, δυνατὸν παρατετραμμένως φθέγγεσθαι τοῦ δέοντος; [...] καὶ τί βούλει, πρὸς τὸ ἀρέσκον ἑκάστῳ ἐμπορικῶς ἡμᾶς ἀποκρίνεσθαι ἢ ὀρθοτομοῦντας τὸν λόγον τῆς ἀληθείας;",
+  "fonte_url": "https://khazarzar.skeptik.net/pgm/PG_Migne/Theodorus%20Studita_PG%2099/Epistulae.pdf",
+  "traducao_pt": "Se Balaão, o áugure, não se atreveu a responder a Balac, rei dos estrangeiros, contra a vontade de Deus, como nós, que estamos no grau do sacerdócio e vamos prestar contas no dia do juízo pelas respostas que damos a quem nos pergunta, poderíamos falar desviando-nos do que é devido? [...] E o que queres? Que respondamos como comerciantes, conforme o gosto de cada um, ou que dispensemos com retidão a palavra da verdade?",
+  "temas": [
+   "«Não devo dizer o que o Senhor puser na minha boca?»"
+  ],
+  "resumo": "Se nem Balaão ousou responder a Balac contra a vontade de Deus, o sacerdote, que vai prestar contas no juízo, não pode responder como comerciante, ao gosto de cada um, mas tem de dizer com retidão a palavra da verdade.",
+  "relevancia": 2,
+  "direitos": "citação curta"
+ },
+ {
+  "id": "cirilo-in-mich-6-5-balac-muda-de-colina-deus-abencoa",
+  "autor": "São Cirilo de Alexandria",
+  "autor_id": "cirilo",
+  "datas": "c. 376–444",
+  "titulo_autor": "patriarca de Alexandria, Doutor da Igreja",
+  "obra": "Comentário aos Doze Profetas (Commentarius in xii prophetas minores), Miqueias",
+  "passagem": "In Mich. 6,5",
+  "edicao": "ed. Pusey I, 696–697 (PG 71)",
+  "trecho": "2",
+  "versiculos": [
+   13,
+   14,
+   20,
+   27
+  ],
+  "lingua": "grc",
+  "original": "Λαός μου, μνήσθητι δὴ τί ἐβουλεύσατο κατὰ σοῦ Βαλὰκ βασιλεὺς Μωὰβ, καὶ τί αὐτῷ ἀπεκρίθη Βαλαὰμ υἱὸς τοῦ Βεὼρ ἀπὸ τῶν Σχοίνων ἕως τοῦ Γαλγὰλ, ὅπως γνωσθῇ ἡ δικαιοσύνη τοῦ Κυρίου. [...] ὁ μὲν γὰρ ἐπάρατος Βαλὰκ, ὁ Μωαβιτῶν τύραννος κατεμισθοῦτο τὸν Βαλαὰμ γόητα καὶ οἰωνοσκόπον, εἶτα καταράσασθαι παρεκάλει τὸν Ἰσραήλ· ὁ δέ γε τῶν ὅλων Θεὸς παράδοξόν τι καὶ ὑπερφυὲς κατειργάζετο, τὴν τοῦ ψευδομάντεως γλῶτταν μετατρέπων εἰς εὐλογίαν. ἐπίκλημα δὲ ποιουμένου τὸ χρῆμα τοῦ Βαλὰκ, καταιτιωμένου τε τὸν οἰωνοσκόπον, ἀπεκόμιζε μὲν εὐθὺς ἐφ' ἑτέρους αὐτὸν βουνούς. εἶτα βωμοὺς ἐγείρειν προστάττων, καὶ ταύρους ἱερουργεῖν, ᾤετο τάχα που μὴ ἐν παντὶ τόπῳ δύνασθαι τὸν Θεὸν, ἀλλ' ηὐλόγει πανταχῆ, καίτοι περιθέων ἐκ τῶν καλουμένων Σχοίνων· χῶρος δὲ τῆς Μωάβ· ἕως ὄρους Γαλγάλ. μνήσθητι δὴ οὖν τί μὲν ἐβουλεύσατο Βαλὰκ, τί δὲ Βαλαὰμ ἀπεκρίνατο. ἐγὼ μὲν γὰρ καὶ αὐτὰς ἀνέκοπτον τὰς καθ' ὑμῶν δυσφημίας, οὐδὲ ὅσον ἧκεν εἰς λόγους καταλυπεῖν ἐπιτρέπων τὸν οἰωνοσκόπον.",
+  "fonte_url": "https://khazarzar.skeptik.net/pgm/PG_Migne/Cyril%20of%20Alexandria_PG%2068-77/Commentarius%20in%20xii%20prophetas%20minores.pdf",
+  "traducao_pt": "«Povo meu, lembra-te do que tramou contra ti Balac, rei de Moab, e do que lhe respondeu Balaão, filho de Beor, desde Setim até Guilgal, para que se conheça a justiça do Senhor.» [...] O maldito Balac, tirano dos moabitas, contratou Balaão, feiticeiro e áugure, e depois lhe pedia que amaldiçoasse Israel; mas o Deus do universo fazia algo inesperado e extraordinário: mudava em bênção a língua do falso adivinho. Balac se queixava disso e acusava o áugure, e logo o levava para outras colinas; depois, mandando erguer altares e sacrificar touros, pensava talvez que Deus não tivesse poder em todo lugar; mas Balaão abençoava em toda parte, embora andasse de um lado para o outro, desde o lugar chamado Setim, que é terra de Moab, até o monte de Guilgal. Lembra-te, pois, do que Balac tramou e do que Balaão respondeu. Eu cortava até as palavras de maldição contra vós, e não deixava o áugure vos entristecer nem sequer com palavras.",
+  "temas": [
+   "mudar de lugar para ver só uma parte",
+   "a bênção que não se revoga"
+  ],
+  "resumo": "Balac levava Balaão de colina em colina e erguia novos altares, como se Deus não tivesse poder em todo lugar; mas de toda parte saía bênção: Deus não deixou o adivinho entristecer o seu povo nem com palavras.",
+  "relevancia": 3,
+  "direitos": "domínio público"
+ },
+ {
+  "id": "teodoreto-quaest-num-42-deus-nao-muda-de-ideia",
+  "autor": "Teodoreto de Ciro",
+  "autor_id": "teodoreto",
+  "datas": "c. 393–c. 460",
+  "titulo_autor": "bispo de Ciro, exegeta da escola de Antioquia",
+  "obra": "Questões sobre o Octateuco (Quaestiones in Octateuchum), Números, pergunta 42",
+  "passagem": "Quaest. in Num. 42",
+  "edicao": "PG 80, 349–400 (Quaest. in Num.); texto da ed. Fernández Marcos–Sáenz-Badillos (1979)",
+  "trecho": "2",
+  "versiculos": [
+   13,
+   19,
+   20
+  ],
+  "lingua": "grc",
+  "original": "ἐπειδὴ δὲ δυσχεράνας ὁ Βαλάκ, καὶ τοπάσας ὅτι τῶν ἑβραίων τὸ πλῆθος ἰδών, τὴν εὐλογίαν προσήνεγκεν, εἰς ἕτερον αὐτὸν ἀπήγαγε τόπον, ἐξ οὗ μέρος οἷόν τε ἦν ἰδεῖν τοῦ λαοῦ, εἰκότως πάλιν τὸ πανάγιον πνεῦμα δι' ἐκείνου φησίν· «οὐχ ὡς ἄνθρωπος ὁ Θεὸς διαρτηθῆναι, οὐδὲ ὡς υἱὸς ἀνθρώπου ἀπειληθῆναι· αὐτὸς εἰπὼν οὐχὶ ποιήσει; λαλήσει καὶ οὐκ ἐμμενεῖ»; ἄτρεπτος, φησίν, ὦ Βαλάκ, καὶ ἀναλλοίωτος ἡ τοῦ Θεοῦ φύσις· οὐκ ἔχει γνώμην τρεπτὴν τοῖς ἀνθρώποις παραπλησίως. «ἰδοὺ εὐλογεῖν παρείλημμαι· εὐλογήσω, καὶ οὐ μὴ ἀποστραφῶ».",
+  "fonte_url": "https://khazarzar.skeptik.net/pgm/PG_Migne/Theodoretus%20of%20Cyrrhus_PG%2080-84/Quaestiones%20in%20Octateuchum.pdf",
+  "traducao_pt": "Balac ficou contrariado e imaginou que Balaão tinha pronunciado a bênção por ter visto a multidão dos hebreus; levou-o então a outro lugar, de onde se podia ver só uma parte do povo. E com razão o Espírito Santíssimo diz de novo por meio dele: «Deus não é como um homem, para vacilar, nem como um filho de homem, para se deixar intimidar. Ele disse e não fará? Falará e não manterá?» Imutável, ó Balac, diz ele, e inalterável é a natureza de Deus: ele não tem, como os homens, uma vontade que muda. «Eis que fui trazido para abençoar: abençoarei e não voltarei atrás.»",
+  "temas": [
+   "Deus não mente nem se arrepende"
+  ],
+  "resumo": "Balac pensou que a bênção vinha de Balaão ter visto o povo inteiro e o levou aonde se via só uma parte; mas a resposta é a mesma: a natureza de Deus é imutável, ele não muda de vontade como os homens, e a bênção não se revoga.",
+  "relevancia": 3,
+  "direitos": "domínio público (texto equivalente ao da PG 80)"
+ },
+ {
+  "id": "procopio-num-23-21-as-trombetas-do-rei-do-ceu",
+  "autor": "Procópio de Gaza",
+  "autor_id": "procopio",
+  "datas": "c. 465–c. 528",
+  "titulo_autor": "retor cristão de Gaza, compilador de cadeias exegéticas",
+  "obra": "Comentário a Números (Commentarii in Numeros)",
+  "passagem": "In Num. 23,21",
+  "edicao": "PG 87/1, 865–866 (grego dos escólios, transcrito da imagem)",
+  "trecho": "2",
+  "versiculos": [
+   21
+  ],
+  "lingua": "grc",
+  "original": "Τὰ ἔνδοξα ἀρχόντων ἐν αὐτῷ. Ἀκύλας, Ἀλαλαγμὸς βασιλέως ἐν αὐτῷ. Σύμμαχος, σημασία. Θεοδοτίων, σαλπισμός. [...] Σημασίας δὲ τὰς σάλπιγγας νοητέον τὰς ἐπὶ σημείῳ τοῦ οὐρανίου βασιλέως αἰρομένας. Ὃς μετὰ σαλπίγγων ἐξ οὐρανοῦ παρέσται, ἀποκαθιστὰς τὴν ἐπαγγελίαν.",
+  "fonte_url": "https://archive.org/details/patrologiaecurs267unkngoog/page/n439/mode/1up",
+  "traducao_pt": "«As glórias dos chefes estão nele.» Áquila traduz: «A aclamação do rei está nele»; Símaco: «o sinal»; Teodocião: «o toque de trombeta». [...] Por «sinais» se hão de entender as trombetas que se erguem como sinal do Rei do céu, que virá do céu ao som das trombetas, para cumprir a promessa.",
+  "temas": [
+   "a aclamação do rei"
+  ],
+  "resumo": "Onde a Bíblia grega lê «as glórias dos chefes», os outros tradutores leem «a aclamação do rei», «o sinal», «o toque de trombeta»: são as trombetas do Rei do céu, que virá com elas para cumprir a promessa.",
+  "relevancia": 2,
+  "direitos": "domínio público"
+ },
+ {
+  "id": "teodoreto-quaest-num-43-o-unicornio-e-o-deus-unico",
+  "autor": "Teodoreto de Ciro",
+  "autor_id": "teodoreto",
+  "datas": "c. 393–c. 460",
+  "titulo_autor": "bispo de Ciro, exegeta da escola de Antioquia",
+  "obra": "Questões sobre o Octateuco (Quaestiones in Octateuchum), Números, pergunta 43",
+  "passagem": "Quaest. in Num. 43",
+  "edicao": "PG 80, 349–400 (Quaest. in Num.); texto da ed. Fernández Marcos–Sáenz-Badillos (1979)",
+  "trecho": "2",
+  "versiculos": [
+   22
+  ],
+  "lingua": "grc",
+  "original": "Τί ἐστιν, «ὡς δόξα μονοκέρωτος αὐτῷ»; Ὁ μονόκερως ζῷόν ἐστιν ἓν ἔχων κέρας ἐν τῇ κεφαλῇ. περὶ τούτου καὶ πρὸς τὸν Ἰὼβ ὁ δεσπότης ἔφη Θεός· «βουλήσεται δέ σοι μονόκερως δουλεῦσαι»; διὰ τούτου διδάσκων καὶ τὴν δύναμιν τοῦ ζῴου καὶ τὸ ἀδούλωτον. τινὲς μὲν οὖν τούτῳ ἀπείκασαν τὸν δεσπότην Θεόν· ἐγὼ δὲ οἶμαι περὶ τοῦ λαοῦ τοῦτο εἰρῆσθαι, ὅτι καθάπερ ὁ μονόκερως ἓν ἔχει κέρας, οὕτως ὁ εὐσεβὴς λαὸς ἕνα προσκυνεῖ Θεόν. διὸ καὶ Δαβὶδ ὁ μακάριος λέγει, «ἐν σοὶ τοὺς ἐχθροὺς ἡμῶν κερατιοῦμεν».",
+  "fonte_url": "https://khazarzar.skeptik.net/pgm/PG_Migne/Theodoretus%20of%20Cyrrhus_PG%2080-84/Quaestiones%20in%20Octateuchum.pdf",
+  "traducao_pt": "Que quer dizer «como a glória do unicórnio para ele»? O unicórnio é um animal que tem um só chifre na cabeça. Dele falou também Deus, o Senhor, a Jó: «Acaso o unicórnio vai querer servir-te?», ensinando com isso a força do animal e que ninguém o domina. Alguns compararam a ele o próprio Deus, o Senhor; eu, porém, penso que isto foi dito do povo: assim como o unicórnio tem um só chifre, assim o povo piedoso adora um só Deus. Por isso também o bem-aventurado Davi diz: «Contigo, com o chifre, vamos derrubar os nossos inimigos».",
+  "temas": [
+   "o unicórnio"
+  ],
+  "resumo": "O unicórnio, forte e indomável, tem um só chifre: assim o povo fiel adora um só Deus, e é com ele que vence os inimigos (Sl 43,6).",
+  "relevancia": 2,
+  "direitos": "domínio público (texto equivalente ao da PG 80)"
+ },
+ {
+  "id": "origenes-contra-celsum-4-95-nao-ha-augurio-em-jaco",
+  "autor": "Orígenes",
+  "autor_id": "origenes",
+  "datas": "c. 185–254",
+  "titulo_autor": "presbítero e teólogo de Alexandria (não é santo nem Padre canonizado, mas a tradição o leu sempre)",
+  "obra": "Contra Celso (Contra Celsum), livro IV",
+  "passagem": "IV, 95",
+  "edicao": "PG 11 (Delarue); Koetschau, GCS 2 (1899)",
+  "trecho": "2",
+  "versiculos": [
+   23
+  ],
+  "lingua": "grc",
+  "original": "Τὸ δ' ἀληθῶς θεῖον εἰς τὴν περὶ τῶν μελλόντων γνῶσιν οὔτε τοῖς ἀλόγοις χρῆται ζῴοις οὔτε τοῖς τυχοῦσι τῶν ἀνθρώπων ἀλλὰ ψυχαῖς ἀνθρώπων ἱερωτάταις καὶ καθαρωτάταις, ἅστινας θεοφορεῖ καὶ προφήτας ποιεῖ. [...] Βουληθεὶς δέ ποτε ὁ θεὸς δι' οἰωνοσκόπου ἀποτρέψαι ἀπὸ τῆς οἰωνιστικῆς πεποίηκε πνεῦμα ἐν τῷ οἰωνοσκόπῳ εἰπεῖν· «Οὐ γάρ ἐστιν οἰωνισμὸς ἐν Ἰακώβ, οὐδὲ μαντεία ἐν Ἰσραήλ· κατὰ καιρὸν ῥηθήσεται τῷ Ἰακὼβ καὶ τῷ Ἰσραήλ, τί ἐπιτελέσει ὁ θεός.» Ταῦτα δὴ γινώσκοντες ἡμεῖς καὶ τὰ τούτοις παραπλήσια τηρεῖν βουλόμεθα μυστικῶς εἰρημένην ἐντολὴν τήν· «Πάσῃ φυλακῇ τήρει σὴν καρδίαν»· ἵνα μὴ ἐπιβῇ τι τῶν δαιμονίων τῷ ἡγεμονικῷ ἡμῶν, ἢ πνεῦμά τι τῶν ἐναντίων πρὸς ἃ βούλεται τρέψῃ τὸ φανταστικὸν ἡμῶν.",
+  "fonte_url": "https://khazarzar.skeptik.net/pgm/PG_Migne/Origenes_PG%2011-17/Contra%20Celsum.pdf",
+  "traducao_pt": "O que é verdadeiramente divino, para dar a conhecer o futuro, não se serve dos animais sem razão nem de qualquer homem, mas das almas humanas mais santas e mais puras, que ele enche de Deus e faz profetas. [...] Querendo um dia Deus afastar da arte dos augúrios por meio de um áugure, fez que o espírito dissesse pela boca do áugure: «Não há augúrio em Jacó, nem adivinhação em Israel; a seu tempo se dirá a Jacó e a Israel o que Deus vai realizar.» Nós, que sabemos disso e de outras coisas parecidas, queremos guardar o mandamento dito em sentido espiritual: «Guarda o teu coração com todo o cuidado», para que nenhum demônio tome conta da parte que governa a nossa alma, e nenhum espírito inimigo leve a nossa imaginação para onde ele quer.",
+  "temas": [
+   "nada de agouros nem de adivinhação"
+  ],
+  "resumo": "Contra Celso, que dizia divinas as aves dos augúrios: Deus revela o futuro pelas almas santas, os profetas; e, para afastar Israel dos augúrios, fez o próprio áugure dizer que «não há augúrio em Jacó»; o cristão guarda o coração para que nenhum demônio o domine.",
+  "relevancia": 3,
+  "direitos": "domínio público"
+ },
+ {
+  "id": "procopio-num-23-23-o-futuro-para-o-nosso-proveito",
+  "autor": "Procópio de Gaza",
+  "autor_id": "procopio",
+  "datas": "c. 465–c. 528",
+  "titulo_autor": "retor cristão de Gaza, compilador de cadeias exegéticas",
+  "obra": "Comentário a Números (Commentarii in Numeros)",
+  "passagem": "In Num. 23,23",
+  "edicao": "PG 87/1, 865–868 (grego dos escólios, transcrito da imagem)",
+  "trecho": "2",
+  "versiculos": [
+   23
+  ],
+  "lingua": "grc",
+  "original": "Ὡμολόγει Βαλαὰμ τὰς ἑαυτοῦ τέχνας ἡττῆσθαι ὑπὸ τῶν μὴ χρωμένων αὐταῖς. Ἀλλ' οὐχ ἔρημος, φησὶ, διὰ τοῦτο μελλόντων προγνώσεως· ἀλλὰ πρὸς τὸ χρήσιμον ἀκούσονται τὰ μέλλοντα. «Κατὰ καιρὸν, φησὶ, ῥηθήσεται τί ἐπιτελέσει ὁ Θεός.» Τὰ γὰρ δαιμόνων οὐ πρὸς τὸ χρήσιμον. Ὁ μὲν γὰρ Ἀχαὰβ μαντείαις ἀπατώμενος, τῆς ἀληθοῦς τοῦ Μιχαίου προφητείας ἐξεκρούετο· ὁ δὲ Δαβὶδ προακούων τῶν πολέμων τὰ τέλη καὶ τὴν πρόῤῥησιν, ἐκινεῖτο. Οὕτω καὶ Ἰωσαφὰτ ἔλεγεν· «Ἐμπιστεύσατε τῷ Θεῷ καὶ τῷ προφήτῃ αὐτοῦ.»",
+  "fonte_url": "https://archive.org/details/patrologiaecurs267unkngoog/page/n439/mode/1up",
+  "traducao_pt": "Balaão confessava que as suas artes tinham sido vencidas por quem não as usa. Mas nem por isso, diz ele, o povo fica privado do conhecimento do futuro: ouvirão o que vai acontecer, e para o seu proveito. «A seu tempo», diz, «se dirá o que Deus vai realizar.» Os oráculos dos demônios não buscam o proveito: Acab, enganado pelas adivinhações, fechou-se à verdadeira profecia de Miqueias; Davi, ao contrário, ouvia antes o desfecho das guerras e a predição, e só então se punha em marcha. Assim também dizia Josafá: «Confiai em Deus e no seu profeta.»",
+  "temas": [
+   "nada de agouros nem de adivinhação"
+  ],
+  "resumo": "O adivinho confessa que as suas artes foram vencidas por quem não as usa; Israel não precisa delas, porque Deus lhe diz o futuro a seu tempo e para o seu bem, pelos profetas, ao contrário dos oráculos dos demônios que enganaram Acab.",
+  "relevancia": 2,
+  "direitos": "domínio público"
+ },
+ {
+  "id": "origenes-selecta-num-23-28-o-fogor-e-os-dois-cumes",
+  "autor": "Orígenes",
+  "autor_id": "origenes",
+  "datas": "c. 185–254",
+  "titulo_autor": "presbítero e teólogo de Alexandria (não é santo nem Padre canonizado, mas a tradição o leu sempre)",
+  "obra": "Escólios sobre Números (Selecta in Numeros), de cadeia",
+  "passagem": "Selecta in Num., sobre Nm 23,28",
+  "edicao": "PG 12, 580 (escólios de cadeia atribuídos a Orígenes)",
+  "trecho": "2",
+  "versiculos": [
+   27,
+   28
+  ],
+  "lingua": "grc",
+  "original": "Καὶ παρέλαβε Βαλὰκ τὸν Βαλαὰμ ἐπὶ τὴν κορυφὴν τοῦ Φογώρ. Ὑπελάμβανεν ὁ Βαλὰκ μεμετρημένην τὴν τέχνην τοῦ Βαλαὰμ ἐν τοῖς τόποις. Διὸ παρελάμβανεν αὐτὸν εἰς τὴν κορυφὴν τοῦ Φογὼρ, οἰόμενος ἰσχύειν τὸν μάγον ἐκεῖθεν ἀράσασθαι τὸν λαὸν τοῦ Θεοῦ τὸν Βαλαάμ. [...] Τοῦ αὐτοῦ. Δύο εἰσὶ κορυφαὶ, τουτέστιν ἀκροτάτης ἀρετῆς καὶ τῆς κακίας· καὶ ὁ μὲν Μωϋσῆς ἐπὶ τὸ ἄκρον τῆς ἀρετῆς ἀναβέβηκεν, ὁ δὲ Βαλαὰμ ἐπὶ τὸ ἄκρον τῆς κακίας.",
+  "fonte_url": "https://khazarzar.skeptik.net/pgm/PG_Migne/Origenes_PG%2011-17/Selecta%20in%20Numeros.pdf",
+  "traducao_pt": "«E Balac levou Balaão ao cume do Fogor.» Balac supunha que a arte de Balaão dependia do lugar. Por isso o levava ao cume do Fogor, pensando que dali o mago, Balaão, conseguiria amaldiçoar o povo de Deus. [...] Do mesmo autor. Há dois cumes, o da virtude mais alta e o da maldade: Moisés subiu ao cume da virtude, Balaão ao cume da maldade.",
+  "temas": [
+   "o Fogor que olha o deserto"
+  ],
+  "resumo": "Balac achava que a magia dependia do lugar e por isso mudava Balaão de monte; mas há dois cumes: Moisés sobe ao da virtude, Balaão ao da maldade.",
+  "relevancia": 2,
+  "direitos": "domínio público"
+ }
+]

@@ -1,0 +1,10 @@
+# São Gregório Magno, Moralia XXXIII, 23, 43 (PL 76, 700C–701B)
+
+Texto da PL revisto no Corpus Corporum (Universidade de Zurique), baixado em 2026-10/11 para `pesquisa/cache/` e conferido aqui em 2026-11-02. As marcas «[col …]» são as colunas da PL; «{(…)}» são as notas de Migne (referências bíblicas); os números soltos no meio do texto são páginas de edições antigas, que o Corpus conserva.
+
+## Moralia XXXIII, 23, 43
+
+- Fonte: https://mlat.uzh.ch/browser/cps_2.GreI.Morali2
+
+43. Irritae sunt preces quas pia vita non sequitur. Nonnullis in usum negotiationis vertitur oratio. Veram orationem efficiunt amari gemitus, non verba composita. ---Sunt namque intra sanctam Ecclesiam nonnulli, qui prolixas ad Dominum preces habent, sed vitam deprecantium non habent; nam promissa coelestia petitionibus sequuntur, operibus fugiunt. Hi nonnunquam etiam lacrymas in oratione [col 0700D] percipiunt, sed cum post orationis tempora eorum mentem superbia pulsaverit, illico in fastu elationis intumescunt; cum avaritia instigat, mox per incendia avidae cogitationis exaestuant; cum luxuria tentaverit, illicitis protinus desideriis anhelant; cum ira suaserit, mox mansuetudinem mentis flamma insaniae concremat. Ut ergo diximus, et fletus in [col 0701A] prece percipiunt, et tamen, expletis precibus, cum vitiorum suggestione pulsantur, nequaquam pro aeterni regni desiderio se flevisse mensinerunt. Quod aperte de se Balaam innotuit, qui justorum tabernacula conspiciens, ait: Moriatur anima mea morte justorum, et fiant novissima mea horum similia {(Num. XXIII, 10)} . Sed cum compunctionis tempus abscessit, contra eorum vitam quibus se similem fieri etiam moriendo poposcerat, consilium praebuit; et cum occasionem de avaritia reperit, illico oblitus est quidquid sibi de innocentia optavit. Virtutis igitur pondus oratio non habet, quam nequaquam perseverantia continui amoris tenet. Quo contra bene de Anna flente perhibetur: Vultusque ejus non sunt amplius in diversa mutati {(I Reg. I, 18)} , quia videlicet [col 0701B] mens ejus nequaquam post preces inepta laetitia lasciviendo perdidit, quod orationis suae tempore gemituum rigore exquisivit.
+
