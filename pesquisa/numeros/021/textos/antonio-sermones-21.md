@@ -1,0 +1,17 @@
+# Santo Antônio de Pádua, Sermões: Números 21
+- Autor: Santo Antônio de Pádua (1195–1231), frade menor, Doutor da Igreja
+- Obra: Sermones dominicales et festivi: Sermo in Inventione Sanctae Crucis (§ 7) e Sermo in Dominica IV post Pascha (§ 3, reserva)
+- Passagem: Nm 21,6.8 (Sermo 73); Nm 21,8-9 (Sermo 17, alusão)
+- Edição: ed. crítica, Pádua, 1979; texto latino na Documenta Catholica Omnia
+- Fonte: https://www.documentacatholicaomnia.eu/03d/1195-1231,_Antonius_Patavinus,_Sermo_073_in_Inventione_Sanctae_Crucis,_LT.pdf e https://www.documentacatholicaomnia.eu/03d/1195-1231,_Antonius_Patavinus,_Sermo_017_Dominica_IV_Post_Pascha,_LT.pdf
+- Língua: la
+- Baixado: 2026-11-02 (PDF do Sermo 73, com o certificado da DCO); Sermo 17 do cache de Nm 20
+- Nos 80 sermões da DCO não há outra citação de Nm 21 (busca por «Num 21», «aeneum», «ignitos serpentes», «Sehon», «Horma»).
+
+## 1. Sermo in Inventione Sanctae Crucis, § 7
+
+III - De ipsius Passione 7. --- Ipsius Passio, ut ibi: Sicut Moyses exaltavit serpentem in deserto (Io 3,14). Hoc legitur in libro Numeri XXI: Immisit, inquit, Dominus in populum, quia murmuraverat, ignitos serpentes (Num 21,6). Et paulo post, dixit Dominus ad Moysen: Fac serpentem aeneum et pone eum pro signo: quem si percussus prospexerit, vivet (Num 21, 8). Serpens aeneus, Christus Deus et homo: aes, quod antiquitate temporis non consumitur, divinitas; serpens, humanitas, quae in palo crucis fuit exaltata pro signo nostrae salutis. Elevemus ergo oculos nostros, et aspiciamus in auctorem salutis Iesum. Consideremus Dominum nostrum suspensum cruci, clavis affixum. Sed, heu! ut dicit S. Moyses Deuteronomio XXVIII: Erit vita tua pendens ante te; et non credes vitae tuae (Deut 28, 66). Non dixit vivens, sed vita pendens. Et quid carius homini quam vita? Vita corporis, anima; vita animae, Christus. En ergo, vita tua pendet, quare non pateris et compateris? 9 Si vita tua est, ut vere est, quomodo te amplius continere potes, paratus cum Petro et Thoma et in carcerem ire et cum eo simul mortem subire? Ante te pendet, ut te ad sui compassionem invitet, unde dicit Threnis I: O vos omnes qui transitis per viam, attendite et videte, si est dolor sicut dolor meus! (Lam 1, 12). Vere non est dolor sicut dolor eius. Quos enim cum tanto dolore redemit, tam de facili amittit. Sufficiens enim fuit eius Passio ad omnium redemptionem. Sed, ecce, fere omnes tendunt in damnationem. Et quis tantus dolor sicut iste? Hoc fere nullus attendit nec cognoscit. Et ideo valde nobis timendum, ne, sicut dixit in principio: Poenitet me fecisse eos (Gen 6, 7), ita dicat modo: Poenitet me redemisse eos.
+
+## 2. Sermo in Dominica IV post Pascha (reserva: uma frase)
+
+[...] Per eamdem viam amisit dominium, per quam sibi usurpaverat mundi dominatum; decepit siquidem hominem et mulierem per lignum vetitum et serpentem. Per hominem, idest Iesum Christum, et mulierem, idest beatam Virginem, per lignum crucis et serpentem, idest mortem carnis Christi, quae significabatur per serpentem, 5 quem Moyses in deserto elevavit in ligno (Cf. Num 21, 8-9; Io 3, 14), diabolus in humano genere perdidit principatum. Peracto ergo nostrae salutis negotio, dicit: Vado ad eum qui misit me. Super hoc habes concordantiam in Tobia, ubi Raphael, postquam daemonium religavit, Tobiae oculos illuminavit, dixit: Tempus est ut revertar ad eum qui me misit (Tob 12, 20). Raphael interpretatur medicina Dei. Hic est Iesus Christus, quia theriacam de serpente carnis suae in ligno affixae nobis fecit et sic diabolum religavit et humani generis oculos illuminavit. [...]
