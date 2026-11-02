@@ -1,0 +1,323 @@
+[
+ {
+  "id": "afraates-dem-12-8-moises-ergueu-a-serpente-jesus-a-si",
+  "autor": "Afraates, o Sábio Persa",
+  "autor_id": "afraates",
+  "datas": "c. 270–c. 345",
+  "titulo_autor": "bispo, o mais antigo Padre siríaco",
+  "obra": "Demonstrações, 12: Sobre a Páscoa",
+  "passagem": "Dem. 12, § 8",
+  "edicao": "J. Parisot, Patrologia Syriaca I/1 (Paris 1894), col. 523–524; texto do Digital Syriac Corpus (n.º 12), conferido na imagem de Parisot. O verbo ܙܩܦ é «erguer num poste» e também «crucificar»: a Moisés, que «ergueu» a serpente, responde Jesus, que «ergueu a si mesmo» (Parisot: «seipsum Iesus adfixit [cruci]»).",
+  "versiculos": [
+   5,
+   8,
+   9
+  ],
+  "trecho": "2",
+  "lingua": "syr",
+  "original": "ܠܗܘܢ ܐܬܝܗܒ ܡܢܢܐ ܠܡܐܟܠ܂ ܘܠܢ ܝܗܒ ܡܪܢ ܦܓܪܗ ܕܢܐܟܘܠ܂ ܠܗܘܢ ܐܦܩ ܡܝܐ ܡܢ ܟܐܦܐ܂ ܘܠܢ ܐܪܕܝ ܦܪܘܩܢ ܡܝܐ ܚܝܐ ܡܢ ܟܪܣܗ܂ ܠܗܘܢ ܡܠܟ ܐܪܥܐ ܕܟܢܥܢܝܐ ܝܪܬܘܬܐ܂ ܘܠܢ ܡܠܟ ܐܪܥܐ ܕܚܝܐ ܒܡܘܠܟܢܐ܂ ܠܗܘܢ ܙܩܦ ܡܘܫܐ ܚܘܝܐ ܕܢܚܫܐ܂ ܕܟܠ ܡܢ ܕܚܙܐ ܠܗ ܢܚܐ ܡܢ ܡܚܘܬܐ ܕܚܘܝܐ܂ ܘܠܢ ܙܩܦ ܝܫܘܥ ܢܦܫܗ܂ ܕܟܕ ܢܚܘܪ ܠܘܬܗ ܢܬܦܨܐ ܡܢ ܡܚܘܬܗ ܕܚܘܝܐ ܕܐܝܬܘܗܝ ܣܛܢܐ܂",
+  "fonte_url": "https://syriaccorpus.org/12",
+  "traducao_pt": "A eles foi dado o maná para comer; a nós nosso Senhor deu o seu corpo, para que o comamos. Para eles fez sair água da rocha; para nós o nosso Salvador fez correr água viva do seu seio. A eles prometeu em herança a terra dos cananeus; a nós prometeu a terra da vida, na sua promessa. Para eles Moisés ergueu a serpente de bronze, para que todo o que olhasse para ela sobrevivesse à mordida da serpente; para nós Jesus ergueu a si mesmo, para que, olhando para ele, sejamos salvos da mordida da serpente, que é Satanás.",
+  "temas": [
+   "a serpente, figura de Cristo crucificado",
+   "o maná e a Eucaristia"
+  ],
+  "resumo": "Numa série de figuras do Êxodo, Afraates põe a serpente ao lado do maná e da rocha: Moisés ergueu a serpente de bronze; Jesus ergueu a si mesmo na cruz, para que quem olha para ele seja salvo da mordida de Satanás.",
+  "relevancia": 3,
+  "direitos": "domínio público (texto siríaco antigo; edição de Parisot, 1894)"
+ },
+ {
+  "id": "jaco-sarug-serpente-as-serpentes-comem-po-e-se-calam",
+  "autor": "São Jacó de Sarug",
+  "autor_id": "jaco-sarug",
+  "datas": "c. 451–521",
+  "titulo_autor": "bispo de Batnan, poeta",
+  "obra": "Memra sobre a serpente de bronze que Moisés ergueu no deserto (ܥܠ ܚܘܝܐ ܕܢܚܫܐ ܕܐܪܝܡ ܡܘܫܐ ܒܡܕܒܪܐ)",
+  "passagem": "Memra sobre a serpente de bronze (Bedjan I), p. 54",
+  "edicao": "P. Bedjan, Homiliae selectae Mar-Jacobi Sarugensis I (Paris–Leipzig 1905), memra 4 (p. 49–67); texto digitado do Digital Syriac Corpus (n.º 343), conferido na imagem de Bedjan (no vol. I, página impressa = n − 23). Transcrição sem vogais. Sem tradução impressa em domínio público. Memra inteiro em base/jaco-sarug-serpente-de-bronze.md. Na imagem, o 5º verso traz ܪܚܫܘ («rastejaram»), que falta no texto do corpus. «Pão dos anjos» (ܠܚܡܐ ܕܥܝܪܐ, lit. «dos vigilantes») é o nome do maná no Sl 78,25 da Peshitta.",
+  "versiculos": [
+   5,
+   6
+  ],
+  "trecho": "2",
+  "lingua": "syr",
+  "original": "ܘܐܟܡܐ ܕܗܠܝܢ ܡܬܐܡܪܢ ܗܘܝ ܡܢ ܟܐܢܘܬܐ: ܠܥܒܕܐ ܝܥܢܐ ܕܡܓܕܦ ܗܘܐ ܡܐ ܕܐܟܠ ܗܘܐ܀ ܒܪܚܫܐ ܕܐܟܠ ܥܦܪܐ ܘܫܠܐ ܡܢ ܓܘܕܦܐ: ܒܠܥ ܕܐܟܠ ܐܢܬ ܡܢܢܐ ܚܠܝܐ ܘܡܓܕܦ ܐܢܬ܀ ܒܚܘܘܬܐ ܕܠܐ ܡܬܘܡ ܪܚܫܘ ܥܠ ܕܚܝܚܐ: ܚܙܘ ܛܠܘܡܐ ܟܡܐ ܓܕܦܬܘܢ ܥܠ ܙܝܘܢܐ܀ ܐܟܠܝܢ ܥܦܪܐ ܓܪܣܐ ܘܫܠܝܢ ܟܕ ܡܪܝܪܝܢ: ܘܐܢܬܘܢ ܝܥܢܐ ܠܚܡܐ ܕܥܝܪܐ ܘܠܐ ܫܠܝܢ ܐܢܬܘܢ܀ ܡܪܝܪ ܚܘܝܐ ܠܐ ܕܝܢ ܡܪܝܪ ܐܝܟ ܥܒܪܝܐ: ܒܨܒܝܢܗ ܒܝܫ ܠܘ ܕܟܝܢܐ ܗܝ ܡܪܝܪܘܬܗ܀",
+  "fonte_url": "https://archive.org/details/homiliaeselectae01jaco/page/n77/mode/1up",
+  "traducao_pt": "E era como se a Justiça dissesse ao servo insolente, que blasfemava contra o que comia: «Pelo réptil que come pó e se cala, sem blasfemar, és ferido, porque comes o maná doce e blasfemas». Pelas serpentes, que sempre rastejaram sobre o pó, dizia: «Vede, ingratos, quanto blasfemastes contra o alimento: as víboras comem pó e se calam, mesmo sendo amargas; e vós, insolentes, comeis o pão dos anjos e não vos calais». Amarga é a serpente, mas não amarga como o hebreu: ele é mau por vontade; a sua amargura não é de natureza.",
+  "temas": [
+   "o desgosto do maná",
+   "as serpentes como castigo"
+  ],
+  "resumo": "O castigo tem medida: quem comia o maná doce e blasfemava foi mordido pela serpente, que come pó e não se queixa; a serpente é amarga por natureza, o ingrato por vontade.",
+  "relevancia": 3,
+  "direitos": "domínio público (texto siríaco antigo; edição de Bedjan, 1905)"
+ },
+ {
+  "id": "jaco-sarug-serpente-semelhante-mas-sem-veneno",
+  "autor": "São Jacó de Sarug",
+  "autor_id": "jaco-sarug",
+  "datas": "c. 451–521",
+  "titulo_autor": "bispo de Batnan, poeta",
+  "obra": "Memra sobre a serpente de bronze que Moisés ergueu no deserto (ܥܠ ܚܘܝܐ ܕܢܚܫܐ ܕܐܪܝܡ ܡܘܫܐ ܒܡܕܒܪܐ)",
+  "passagem": "Memra sobre a serpente de bronze (Bedjan I), p. 59",
+  "edicao": "P. Bedjan, Homiliae selectae Mar-Jacobi Sarugensis I (Paris–Leipzig 1905), memra 4 (p. 49–67); texto digitado do Digital Syriac Corpus (n.º 343), conferido na imagem de Bedjan (no vol. I, página impressa = n − 23). Transcrição sem vogais. Sem tradução impressa em domínio público. Memra inteiro em base/jaco-sarug-serpente-de-bronze.md. Corrigido pela imagem: ܕܡܡܚܝܐ («dos feridos»; o corpus tem ܕܟܟܚܝܐ) e ܕܐܬܕܡܝ (o corpus, ܕܐܬܬܕܡܝ). «A não ser o pecado»: Hb 4,15.",
+  "versiculos": [
+   8,
+   9
+  ],
+  "trecho": "2",
+  "lingua": "syr",
+  "original": "ܒܚܘܝܗ ܕܡܘܫܐ ܦܓܪܗ ܕܡܪܢ ܡܬܢܨܪ ܗܘܐ: ܕܒܗ ܡܬܐܣܝܢ ܟܠܗܘܢ ܦܓܪܐ ܕܡܡܚܝܐ܀ ܣܛܪ ܡܢ ܡܪܬܐ ܕܡܐ ܗܘܐ ܗܘ ܠܚܘܘܬܐ: ܗܕܐ ܗܝ ܕܒܪܐ ܕܒܟܠ ܡܕܡ ܐܬܕܡܝ ܠܢ܀ ܣܛܪ ܡܢ ܚܛܝܬܐ ܠܢ ܐܬܕܡܝ ܗܘ ܨܐܪ ܟܠ: ܘܒܗ ܐܣܝ ܠܢ ܕܐܠܐ ܐܢ ܒܗ ܚܝܐ ܠܐ ܐܝܬ܀ ܠܐ ܒܗܘ ܚܘܝܐ ܐܝܬ ܗܘܐ ܡܪܬܐ ܕܚܘܘܬܐ: ܐܦܠܐ ܚܛܝܬܐ ܒܦܓܪܗ ܕܡܪܢ ܕܐܬܕܡܝ ܠܢ܀",
+  "fonte_url": "https://archive.org/details/homiliaeselectae01jaco/page/n82/mode/1up",
+  "traducao_pt": "Na serpente de Moisés estava figurado o corpo de nosso Senhor, pelo qual são curados todos os corpos dos feridos. A não ser o veneno, ela era semelhante às serpentes: assim é o Filho, que em tudo se fez semelhante a nós; a não ser o pecado, fez-se semelhante a nós aquele que tudo formou, e por ele nos curou, pois fora dele não há vida. Naquela serpente não havia o veneno das serpentes, nem há pecado no corpo de nosso Senhor, que se fez semelhante a nós.",
+  "temas": [
+   "a serpente que cura da serpente",
+   "semelhante a nós, exceto no pecado"
+  ],
+  "resumo": "A serpente de bronze tinha a forma das serpentes, mas não o veneno: assim Cristo se fez em tudo semelhante a nós, exceto no pecado, e por isso nele os pecadores são curados.",
+  "relevancia": 3,
+  "direitos": "domínio público (texto siríaco antigo; edição de Bedjan, 1905)"
+ },
+ {
+  "id": "jaco-sarug-serpente-o-medo-de-olhar-e-o-curado",
+  "autor": "São Jacó de Sarug",
+  "autor_id": "jaco-sarug",
+  "datas": "c. 451–521",
+  "titulo_autor": "bispo de Batnan, poeta",
+  "obra": "Memra sobre a serpente de bronze que Moisés ergueu no deserto (ܥܠ ܚܘܝܐ ܕܢܚܫܐ ܕܐܪܝܡ ܡܘܫܐ ܒܡܕܒܪܐ)",
+  "passagem": "Memra sobre a serpente de bronze (Bedjan I), p. 62–65",
+  "edicao": "P. Bedjan, Homiliae selectae Mar-Jacobi Sarugensis I (Paris–Leipzig 1905), memra 4 (p. 49–67); texto digitado do Digital Syriac Corpus (n.º 343), conferido na imagem de Bedjan (no vol. I, página impressa = n − 23). Transcrição sem vogais. Sem tradução impressa em domínio público. Memra inteiro em base/jaco-sarug-serpente-de-bronze.md. Logo depois (p. 63–64) Jacó aplica a cena ao pagão, que tem medo de olhar para a cruz porque nela vê um morto.",
+  "versiculos": [
+   8,
+   9
+  ],
+  "trecho": "2",
+  "lingua": "syr",
+  "original": "ܘܟܒܪ ܕܚܠ ܐܘ ܙܐܥ ܗܘܐ ܐܝܢܐ ܕܢܟܝܬ: ܟܕ ܐܡܪܝܢ ܠܗ ܬܐ ܚܙܝ ܠܚܘܝܐ ܘܡܬܐܣܐ ܐܢܬ܀ ܘܐܦ ܐܡܪ ܗܘܐ ܕܚܘܝܐ ܩܛܠܢܝ ܘܠܡܢܐ ܟܝ: ܐܚܙܐ ܠܚܘܝܐ ܕܐܦ ܒܚܙܬܗ ܡܣܬܪܕ ܐܢܐ܀ ܠܡܢ ܐܚܘܪ ܒܗ ܕܗܐ ܒܡܚܘܬܗ ܡܫܬܢܩ ܐܢܐ: ܣܢܐ ܥܠܝ ܚܙܘܗ ܢܐܙܠ ܠܗ ܡܢܝ ܟܕܘ ܩܛܠܢܝ܀ […] ܗܘ ܩܕܡܝܐ ܕܚܪ ܒܗ ܒܚܘܝܐ ܘܐܬܐܣܝ ܗܘܐ: ܐܝܟ ܟܪܘܙܐ ܥܒܝܕ ܗܘܐ ܒܥܡܐ ܠܟܠ ܕܕܒܝܨܝܢ܀ ܘܐܢ ܚܙܐ ܗܘܐ ܐܢܫ ܕܐܬܦܠܓ ܡܪܬܐ ܗܘܐ ܠܗ: ܘܡܢ ܢܣܝܢܐ ܕܢܦܫܗ ܟܠܗܝܢ ܡܠܦ ܗܘܐ ܠܗ܀ ܘܐܝܟ ܡܐ ܕܗܠܝܢ ܡܬܐܡܪܢ ܗܘܝ ܨܝܕ ܕܢܟܝܬ: ܡܢ ܕܩܕܡܘܗܝ ܕܐܦ ܗܘ ܢܟܝܬ ܘܚܪ ܘܐܬܐܣܝ܀ ܩܪܘܒ ܠܐ ܬܕܚܠ ܠܘ ܥܠ ܕܫܡܗ ܚܘܝܐ ܚܘܝܐ ܗܘ: ܐܝܟ ܥܩܪܐ ܗܘ ܕܐܝܬ ܒܗ ܚܝܐ ܠܕܚܐܪ ܒܗ܀ ܠܘ ܐܝܟ ܗܢܘ ܚܘܝܐ ܕܕܒܨܟ ܡܢ ܕܚܠ ܐܢܬ: ܚܘܪ ܒܗ ܘܚܙܝ ܕܒܗ ܒܚܙܬܗ ܡܬܥܕܪ ܐܢܬ܀ ܘܠܝ ܐܟܘܬܟ ܢܟܬܢܝ ܚܘܝܐ ܘܫܚܝܡ ܗܘܐ ܠܝ: ܚܘܝܗ ܕܡܘܫܐ ܘܟܕ ܚܪܬ ܒܗ ܥܒܪܘ ܐܘܠܨܢܝ܀",
+  "fonte_url": "https://archive.org/details/homiliaeselectae01jaco/page/n85/mode/1up",
+  "traducao_pt": "Talvez temesse ou tremesse quem tinha sido mordido, quando lhe diziam: «Vem, olha para a serpente e ficarás curado». E ele dizia: «Uma serpente me matou; por que, então, olharia eu para uma serpente, se até a vista dela me apavora? Para que olhar para ela, se pela sua mordida estou sendo torturado? Odioso me é o seu aspecto: que se afaste de mim, porque já me matou». […] O primeiro que olhou para a serpente e foi curado ficou como um pregador no meio do povo, para todos os mordidos; e, se via alguém que hesitava enquanto o veneno o tomava, pela experiência de sua própria alma lhe ensinava tudo. E era assim que falava junto ao mordido quem antes dele tinha sido mordido, tinha olhado e fora curado: «Aproxima-te, não temas; não é por se chamar serpente que ela é serpente: é como uma raiz de remédio, que tem vida para quem olha para ela. Não é como aquela serpente que te mordeu, de que tens medo: olha para ela, e verás que pela sua vista és socorrido. Também a mim, como a ti, me mordeu uma serpente, e a serpente de Moisés me parecia desprezível; mas, quando olhei para ela, as minhas dores passaram».",
+  "temas": [
+   "o olhar que cura",
+   "o testemunho de quem foi curado"
+  ],
+  "resumo": "O mordido tem medo de olhar para uma serpente, porque foi uma serpente que o matou; quem já foi curado se faz pregador e o anima pela própria experiência: «olhei, e as minhas dores passaram».",
+  "relevancia": 3,
+  "direitos": "domínio público (texto siríaco antigo; edição de Bedjan, 1905)"
+ },
+ {
+  "id": "jaco-sarug-misterios-o-poco-que-a-lanca-abriu",
+  "autor": "São Jacó de Sarug",
+  "autor_id": "jaco-sarug",
+  "datas": "c. 451–521",
+  "titulo_autor": "bispo de Batnan, poeta",
+  "obra": "Memra 95: Sobre a recepção dos santos mistérios (ܥܠ ܢܣܝܒܘܬܐ ܕܐܪܙܐ ܩܕܝܫܐ)",
+  "passagem": "Memra 95 (Bedjan III), p. 647–648",
+  "edicao": "P. Bedjan, Homiliae selectae Mar-Jacobi Sarugensis III (Paris–Leipzig 1907), memra 95 (começa na p. 646), p. 647–648 (no vol. III, página impressa = n − 19). Siríaco transcrito por nós da imagem (o OCR do archive.org serviu de guia), sem vogais; texto e notas em textos/jaco-sarug-misterios-21.md. Na p. 648, a nota (1) de Bedjan dá para ܡܥܢܝܢ ܗܘܘ a variante do ms. R. Sem tradução impressa em domínio público. «A filha dos povos» é a Igreja das nações.",
+  "versiculos": [
+   16,
+   17,
+   18
+  ],
+  "trecho": "3",
+  "lingua": "syr",
+  "original": "ܒܪܐ ܚܕܬܐ ܕܦܬܚܬܗ̇ ܪܘܡܚܐ ܥܠ ܓܓܘܠܬܐ: ܘܫܦܥܬ ܛܦܬ ܘܣܒܥܬ ܡܝܗ̇ ܟܠܗ̇ ܐܪܥܐ܀ […] ܘܕܣܩܝ ܒܪܐ (ܡܥܢܝܢ ܗܘܘ) ܠܗ̇ ܪܫܝ ܥܡܐ: ܕܒܪܘܡܩܐ ܗܘܬ ܘܠܥܠ ܬܣܩ ܩܪܝܢ ܗܘܘ ܠܗ̇܀ ܒܪܬ ܥܡܡܐ ܠܘ ܣܩܝ ܒܪܐ ܩܥܝܐ ܗܪܟܐ: ܕܒܪܐ ܒܪܘܡܐ ܗܝ ܘܠܡܚܬ ܐܬܐ ܡܒܘܥܗ̇܀ ܘܥܠ ܕܒܪܘܡܐ ܗܝ ܬܐ ܚܘܬܝ ܒܪܐ ܫܡܝܢܬܐ: ܐܫܩܝ ܠܐܪܥܐ ܩܥܝܐ ܟܢܘܫܬܐ ܕܐܠܗܝܐ܀",
+  "fonte_url": "https://archive.org/details/homiliaeselectae03jaco/page/n666/mode/1up",
+  "traducao_pt": "Um poço novo, que a lança abriu no Gólgota: ele jorrou, transbordou, e a terra inteira se fartou das suas águas. […] «Sobe, ó poço!», cantavam-lhe os chefes do povo, porque estava no fundo, e eles o chamavam a subir. A filha dos povos não clama aqui «Sobe, ó poço!», porque o seu poço está no alto, e a sua fonte vem para baixo; e, porque está no alto, clama a assembleia dos que são de Deus: «Vem, desce, poço do céu, rega a terra!».",
+  "temas": [
+   "o cântico do poço",
+   "o lado aberto e os sacramentos"
+  ],
+  "resumo": "Israel cantava «Sobe, ó poço!» porque o seu poço estava no fundo; a Igreja tem um poço novo, aberto pela lança no Gólgota, que está no alto, e por isso lhe pede: «Desce, poço do céu, rega a terra!».",
+  "relevancia": 3,
+  "direitos": "domínio público (texto siríaco antigo; edição de Bedjan, 1907)"
+ },
+ {
+  "id": "jaco-sarug-zaqueu-mordido-olhou-para-o-filho",
+  "autor": "São Jacó de Sarug",
+  "autor_id": "jaco-sarug",
+  "datas": "c. 451–521",
+  "titulo_autor": "bispo de Batnan, poeta",
+  "obra": "Memra sobre Zaqueu, o publicano (ܥܠ ܙܟܝ ܡܟܣܐ)",
+  "passagem": "Memra sobre Zaqueu (Bedjan I), p. 351–352",
+  "edicao": "P. Bedjan, Homiliae selectae Mar-Jacobi Sarugensis I (Paris–Leipzig 1905), p. 351–352; texto digitado do Digital Syriac Corpus (n.º 354), conferido na imagem de Bedjan (página impressa = n − 23). Transcrição sem vogais. Na p. 351, Bedjan remete em nota a Nm 21. Sem tradução impressa em domínio público.",
+  "versiculos": [
+   8,
+   9
+  ],
+  "trecho": "2",
+  "lingua": "syr",
+  "original": "ܣܠܩ ܡܟܝܟܐ ܩܡ ܠܗ ܒܪܘܡܐ ܥܠ ܐܝܠܢܐ: ܕܢܚܙܐ ܠܪܡܐ: ܕܟܡܐ ܢܚܬ ܗܘܐ ܠܡܟܝܟܘܬܐ܀ ܐܬܥܠܝ ܗܘܐ ܕܢܬܒܩܐ ܗܘܐ ܒܗܘ ܕܐܬܬܚܬܝ: ܣܠܩ ܗܘܐ ܠܪܘܡܐ ܕܒܗܘ ܕܐܬܐ ܠܥܘܡܩܐ ܢܚܘܪ܀ ܚܪ ܒܗ ܒܡܪܢ ܡܟܣܐ ܪܒܐ ܘܐܙܕܕܩ ܗܘܐ: ܚܙܝܗܝ ܡܢ ܪܘܚܩܐ ܘܐܝܟ ܡܢ ܩܘܪܒܐ ܡܚܒܒ: ܗܘܐ ܠܗ܀ ܠܚܘܝܐ ܟܣܝܐ ܢܟܝܬ ܗܘܐ ܙܟܝ ܪܒ ܚܛܘܦܐ: ܘܚܪ ܒܗ ܒܒܪܐ ܘܕܥܟܬ ܡܪܬܐ ܡܢ ܗܕܡܘܗܝ܀ ܡܚܘܬܗ ܕܓܪܣܐ ܐܚܫܬܗ ܗܘܬ ܟܕ ܐܪܓܫ ܒܗ: ܘܪܗܛ ܢܚܙܐ ܠܗܘ ܕܒܐܪܙܗ ܚܝܘ ܥܒܪܝܐ܀ ܕܘܟܬ ܚܘܝܐ ܗܘ ܕܢܚܫܐ : ܡܠܝ ܡܪܢ: (ܠܪܒܐ ܕܡܟܣܐ: ܕܢܟܬܗ ܥܘܠܐ ܐܝܟ ܚܪܡܢܐ܀ ܚܛܝܬܐ ܒܢܦܫܗ ܒܕܡܘܬ ܡܪܬܐ ܦܪܝܚܐ ܗܘܬ: ܘܟܕ ܚܪ ܒܒܪܐ ܕܥܟܬ ܡܢܗ ܘܐܙܕܕܩ ܗܘܐ܀ ܚܙܬܗ ܕܡܪܢ: ܒܪܝܬܐ ܚܕܬܐ ܠܡܟܣܐ ܥܒܕܬ: ܕܡܚܕܐ ܕܚܪ ܒܗ ܐܫܬܚܠܦ ܗܘܐ ܡܢ ܒܝܫܬܗ܀",
+  "fonte_url": "https://archive.org/details/homiliaeselectae01jaco/page/n374/mode/1up",
+  "traducao_pt": "O pequeno subiu e se pôs no alto, sobre a árvore, para ver o Altíssimo, que tanto tinha descido à pequenez; foi levantado para contemplar aquele que se abaixou, subiu à altura para olhar aquele que veio à profundeza. O grande publicano olhou para nosso Senhor e foi justificado: viu-o de longe e, como se fosse de perto, o amou. Zaqueu, o grande ladrão, tinha sido mordido pela serpente escondida: olhou para o Filho, e o veneno se apagou nos seus membros. A ferida da víbora lhe doía, quando a sentiu, e ele correu para ver aquele por cuja figura os hebreus tinham vivido. O lugar daquela serpente de bronze, nosso Senhor o ocupou para o chefe dos publicanos, a quem a iniquidade tinha mordido como uma víbora. O pecado se espalhara na sua alma como veneno, e, quando ele olhou para o Filho, o veneno se apagou, e ele foi justificado. A vista de nosso Senhor fez do publicano uma criatura nova, porque, assim que olhou para ele, mudou da sua maldade.",
+  "temas": [
+   "o olhar que cura",
+   "Zaqueu, o mordido que olhou"
+  ],
+  "resumo": "Zaqueu, mordido pela serpente escondida do pecado, sobe à árvore para olhar o Filho, como os hebreus olhavam a serpente de bronze: Cristo ocupa o lugar dela, e o olhar o faz criatura nova.",
+  "relevancia": 3,
+  "direitos": "domínio público (texto siríaco antigo; edição de Bedjan, 1905)"
+ },
+ {
+  "id": "efrem-natividade-1-28-moises-viu-a-serpente-fixada",
+  "autor": "Santo Efrém, o Sírio",
+  "autor_id": "efrem",
+  "datas": "c. 306–373",
+  "titulo_autor": "diácono de Edessa, Doutor da Igreja",
+  "obra": "Hinos sobre a Natividade, 1 (ܡܕܪܫܐ ܕܥܠ ܡܘܠܕܐ)",
+  "passagem": "Hinos sobre a Natividade 1, estrofe 28 (numeração de Beck)",
+  "edicao": "Texto do Digital Syriac Corpus (n.º 549), da edição de E. Beck (CSCO 186, 1959), só a estrofe; conferido na edição romana de Assemani, Ephraem Syri Opera omnia syriace et latine, t. II (Roma 1740), p. 397 F (imagem), que tem o mesmo texto, com ܕܐܣܐ por ܕܐܣܝ. A estrofe anterior faz o mesmo com Aarão: a vara que engoliu as serpentes figura a cruz que engoliu o dragão. Na série, os justos do Antigo Testamento esperam ver o Cristo.",
+  "versiculos": [
+   8,
+   9
+  ],
+  "trecho": "2",
+  "lingua": "syr",
+  "original": "ܚܙܐ ܡܘܫܐ ܚܘܝܐ ܩܒܝܥܐ ܕܐܣܝ ܢܘܟܬܬ ܚܪܡܢܐ ܘܣܟܝ ܕܢܚܙܐ ܠܗܘ ܕܐܣܝ ܡܚܘܬܗ ܕܚܘܝܐ ܩܕܡܝܐ",
+  "fonte_url": "https://syriaccorpus.org/549",
+  "traducao_pt": "Moisés viu a serpente fixada, que curava as mordidas das víboras, e esperou ver aquele que cura a ferida da primeira serpente.",
+  "temas": [
+   "a serpente, figura de Cristo",
+   "a primeira serpente"
+  ],
+  "resumo": "Moisés, que viu a serpente de bronze curar as mordidas, esperava ver aquele que cura a ferida da serpente do paraíso.",
+  "relevancia": 2,
+  "direitos": "domínio público (texto siríaco antigo; conferido na edição de Assemani, 1740)"
+ },
+ {
+  "id": "efrem-diatessaron-a-serpente-nao-sofre-o-imortal-sofre",
+  "autor": "Santo Efrém, o Sírio",
+  "autor_id": "efrem",
+  "datas": "c. 306–373",
+  "titulo_autor": "diácono de Edessa, Doutor da Igreja",
+  "obra": "Comentário ao Diatessaron (Evangelii concordantis expositio), em armênio",
+  "passagem": "Comentário ao Diatessaron, cap. XVI (sobre Jo 3,14), ed. Moesinger p. 189–190",
+  "edicao": "G. Moesinger (ed.), Evangelii concordantis expositio facta a Sancto Ephraemo doctore Syro, in latinum translata a J. B. Aucher (Veneza 1876), cap. XVI, p. 189–190; conferido na imagem. É a tradução latina da versão armênia do comentário (ed. dos mequitaristas, Veneza 1836, t. II); o armênio não foi transcrito (o OCR do archive.org é ilegível), e por isso o original dado aqui é o latim, como se faz com o Efrém de Assemani.",
+  "versiculos": [
+   8,
+   9
+  ],
+  "trecho": "2",
+  "lingua": "la",
+  "original": "Serpens Adamum in horto percutiens occidit et Israelitas in castris perdidit. Et sicut Moyses exaltavit serpentem in deserto, ita exaltari oportet filium hominis, quia sicut per illud simulacrum, quod Moyses cruci affixit, corporaliter liberati et vivi servati sunt, qui corporaliter id intuebantur, ita affixo corpore Christi de cruce pendentis salvati vivunt, qui credentes eum intuentur. Per passionem, quam serpens ex natura sua non patitur, indicatum est, in cruce passurum esse eum qui ex natura sua non moritur.",
+  "fonte_url": "https://archive.org/details/evangeliiconcor00ephrgoog/page/n214/mode/1up",
+  "traducao_pt": "A serpente feriu Adão no jardim e o matou, e destruiu os israelitas no acampamento. «E, como Moisés levantou a serpente no deserto, assim é preciso que seja levantado o Filho do Homem», porque, como por aquela imagem que Moisés pregou numa cruz foram libertados e conservados vivos, no corpo, os que olhavam para ela com os olhos do corpo, assim, pregado o corpo de Cristo, que pende da cruz, vivem salvos os que olham para ele com fé. Pela paixão, que a serpente por sua natureza não sofre, mostrou-se que havia de padecer na cruz aquele que por sua natureza não morre.",
+  "temas": [
+   "a serpente que cura da serpente",
+   "o olhar da fé"
+  ],
+  "resumo": "A serpente matou Adão e os israelitas; uma imagem de serpente, pregada na haste, os salvou; e a serpente de bronze, que por natureza não sofre, anunciava que sofreria na cruz aquele que por natureza não morre.",
+  "relevancia": 3,
+  "direitos": "domínio público (tradução latina de 1876 da versão armênia)"
+ },
+ {
+  "id": "efrem-diatessaron-adoraram-a-serpente-de-bronze",
+  "autor": "Santo Efrém, o Sírio",
+  "autor_id": "efrem",
+  "datas": "c. 306–373",
+  "titulo_autor": "diácono de Edessa, Doutor da Igreja",
+  "obra": "Comentário ao Diatessaron (Evangelii concordantis expositio), em armênio",
+  "passagem": "Comentário ao Diatessaron, cap. XX, ed. Moesinger p. 251",
+  "edicao": "G. Moesinger (ed.), Evangelii concordantis expositio facta a Sancto Ephraemo doctore Syro, in latinum translata a J. B. Aucher (Veneza 1876), cap. XX, p. 251; conferido na imagem. É a tradução latina da versão armênia do comentário (ed. dos mequitaristas, Veneza 1836, t. II); o armênio não foi transcrito (o OCR do archive.org é ilegível), e por isso o original dado aqui é o latim, como se faz com o Efrém de Assemani. No contexto, Efrém responde aos que zombam da cruz; o corte […] tira a frase sobre os judeus que chamam a cruz de maldita (cf. Dt 21,23; Gl 3,13) e a figura do carneiro de Gn 22,13. «Adoraram a serpente de bronze»: 2Rs 18,4. Moesinger diz que esta frase e as duas seguintes foram corrigidas pelo códice B.",
+  "versiculos": [
+   8,
+   9
+  ],
+  "trecho": "2",
+  "lingua": "la",
+  "original": "Et si ulterius de cruce occasionem sumunt illudendi, ecce serpentes in deserto eos arguunt, quoniam maledicto serpente fideles sanati sunt […]. Quia populus erat maledictus, per maledictum eos salvavit, gentes autem per vivificatorem omnium sanatae sunt. Quia traditi erant maledicto serpenti, qui ante eos per Moysen expansus est, coluerunt et adorarunt serpentem aeneum, qui pro corporibus animas perdidit. Qui ad serpentem expansum respicere noluit, plagis suis interibat. Fortasse non erant digni intueri in Deum, ideo in serpentem eis similem intuebantur et salvabantur.",
+  "fonte_url": "https://archive.org/details/evangeliiconcor00ephrgoog/page/n276/mode/1up",
+  "traducao_pt": "E, se ainda tomam da cruz ocasião de zombaria, eis que as serpentes do deserto os refutam, porque pela serpente maldita os fiéis foram curados. […] Porque o povo era maldito, por meio do maldito Deus os salvou, e as nações foram curadas por aquele que dá a vida a todos. Porque tinham sido entregues à serpente maldita, que Moisés estendeu diante deles, prestaram culto e adoraram a serpente de bronze, que, em vez de salvar os corpos, perdeu as almas. Quem não quis olhar para a serpente estendida morria das suas feridas. Talvez não fossem dignos de olhar para Deus: por isso olhavam para uma serpente semelhante a eles, e eram salvos.",
+  "temas": [
+   "Ezequias e o ídolo",
+   "por que uma imagem de serpente"
+  ],
+  "resumo": "Pelo «maldito» Deus salvou o povo maldito; mas a serpente que curava os corpos virou ídolo e perdeu as almas; e talvez Deus lhes desse uma serpente semelhante a eles porque não eram ainda dignos de olhar para Deus.",
+  "relevancia": 3,
+  "direitos": "domínio público (tradução latina de 1876 da versão armênia)"
+ },
+ {
+  "id": "efrem-in-num-21-8-a-serpente-come-terra-e-nao-se-queixa",
+  "autor": "Santo Efrém, o Sírio (atribuído)",
+  "autor_id": "efrem",
+  "datas": "c. 306–373",
+  "titulo_autor": "diácono de Edessa, Doutor da Igreja; obra de atribuição incerta",
+  "obra": "Explicação do livro dos Números (In Numeros explanatio), de cadeias siríacas",
+  "passagem": "In Num. 21,8–9 (cap. XXI)",
+  "edicao": "J. S. Assemani (ed.), Ephraem Syri Opera omnia syriace et latine, t. I (Roma 1737), p. 263 A–C; tradução latina da edição, conferida na imagem (o siríaco ao lado é pequeno demais para transcrever com segurança). O lema cita a Peshitta na tradução da edição. Glosa de cadeia siríaca: atribuição incerta. Se entrar o achado de Jacó de Sarug sobre as serpentes que comem pó e se calam, este pode começar em «Et quidem verisimile est».",
+  "versiculos": [
+   5,
+   6,
+   8,
+   9
+  ],
+  "trecho": "2",
+  "lingua": "la",
+  "original": "Fac serpentem regulum aeneum & pone eum pro signo: qui percussus aspexerit eum, vivet. Enimvero non sine ratione, qui manna pane Angelorum pasti, famem querebantur, castigantur serpentum morsibus: serpens nempe mutum animal est, terra vescitur, nec queritur. Et quidem verisimile est, Moysen eam serpentis effigiem ante fores Tabernaculi foederis erexisse, ut populus, ea plaga percussus, oculos eo converteret, unde mentem avocarat: & Dei Tabernaculum venerabilius aegris redderetur, mortiferae affectionis medelam inde manare cernentibus. Christi interim imaginem hisce lineis descriptam contemplare: quoniam, ut ipse dixit, sicut exaltavit Moyses serpentem in deserto, ejusque contuitu grassantem in populo suo pestem dispulit; ita exaltari oportebat filium hominis in Crucem, unde cunctis gentibus salus pararetur.",
+  "fonte_url": "https://archive.org/details/assemani-et-alii-1732-1746-ephraem-syri-opera-omnia-syr-1/page/n283/mode/1up",
+  "traducao_pt": "«Faze uma serpente, um régulo de bronze, e põe-na como sinal: quem for ferido e olhar para ela viverá». Não é sem razão que os que eram alimentados com o maná, pão dos anjos, e se queixavam de fome são castigados com mordidas de serpentes: a serpente, de fato, é um animal mudo, come terra e não se queixa. E é verossímil que Moisés tenha erguido aquela imagem da serpente diante da porta da Tenda da reunião, para que o povo, ferido por aquele flagelo, voltasse os olhos para o lugar de onde tinha desviado a mente, e a Tenda de Deus se tornasse mais venerável aos doentes, que viam sair dali o remédio do mal mortal. Contempla, entretanto, a imagem de Cristo desenhada nestes traços: porque, como ele mesmo disse, assim como Moisés levantou a serpente no deserto e, com o olhar para ela, afastou a peste que grassava no seu povo, assim era preciso que o Filho do Homem fosse levantado na cruz, de onde se preparou a salvação para todas as nações.",
+  "temas": [
+   "o desgosto do maná",
+   "voltar os olhos para Deus"
+  ],
+  "resumo": "Quem desdenhava do maná é castigado pela serpente, que come terra e não se queixa; e a serpente, posta talvez diante da Tenda, fazia voltar os olhos para o lugar de onde o povo tinha desviado a mente.",
+  "relevancia": 2,
+  "direitos": "domínio público (o original é siríaco; aqui a tradução latina da ed. romana, 1737)"
+ },
+ {
+  "id": "efrem-in-num-21-17-o-poco-chamado-com-salmos",
+  "autor": "Santo Efrém, o Sírio (atribuído)",
+  "autor_id": "efrem",
+  "datas": "c. 306–373",
+  "titulo_autor": "diácono de Edessa, Doutor da Igreja; obra de atribuição incerta",
+  "obra": "Explicação do livro dos Números (In Numeros explanatio), de cadeias siríacas",
+  "passagem": "In Num. 21,17–18 (cap. XXI)",
+  "edicao": "J. S. Assemani (ed.), Ephraem Syri Opera omnia syriace et latine, t. I (Roma 1737), p. 263 C–E; tradução latina da edição, conferida na imagem (o siríaco ao lado é pequeno demais para transcrever com segurança). O lema cita a Peshitta na tradução da edição. Glosa de cadeia siríaca: atribuição incerta. «Contam» (tradunt): é a tradição, conhecida também dos rabinos, do poço que acompanhava Israel; Paulo a supõe em 1Cor 10,4 («a rocha que os acompanhava»). A glosa seguinte, sobre Matana, Naaliel e Bamot, é alegoria de nomes e ficou de fora.",
+  "versiculos": [
+   16,
+   17,
+   18
+  ],
+  "trecho": "3",
+  "lingua": "la",
+  "original": "Tunc cecinit Israel canticum istud. Ascende putee, concinite ei. Puteum istum foderunt Principes, duces populi alte effoderunt eum, suis baculis excitarunt illum. Foderunt, inquit, puteum istum Principes, primores viri ex familia Moysis, & alte defoderunt duces populi, idest Principes Tribuum, & baculis suis excitarunt illum, idest sua potestate, & officio. Tradunt, Petram Hebraeos per deserta vagantes sequutam fuisse, & ipsis quidem proficiscentibus aquas omnino non negasse, coegisse tamen in puteum: ubi autem populus suppresso incessu consedisset, statim plenis alveis duodecim torrentes, ut solebat, refudisse, Moyse & ducibus Tribuum baculo, & psalmorum cantu aquam cientibus.",
+  "fonte_url": "https://archive.org/details/assemani-et-alii-1732-1746-ephraem-syri-opera-omnia-syr-1/page/n283/mode/1up",
+  "traducao_pt": "«Então Israel cantou este cântico: Sobe, ó poço! Cantai-lhe. Este poço, os príncipes o cavaram, os chefes do povo o cavaram fundo, com os seus bastões o fizeram brotar». Cavaram este poço, diz, os príncipes, os homens principais da família de Moisés, e o cavaram fundo os chefes do povo, isto é, os príncipes das tribos, e com os seus bastões o fizeram brotar, isto é, com a sua autoridade e o seu ofício. Contam que a rocha seguia os hebreus, que vagavam pelos desertos; que, enquanto caminhavam, não lhes negava de todo a água, mas a recolhia num poço; e que, quando o povo parava a marcha e acampava, logo, como de costume, derramava doze torrentes de leito cheio, enquanto Moisés e os chefes das tribos chamavam a água com o bastão e com o canto dos salmos.",
+  "temas": [
+   "o cântico do poço",
+   "a rocha que os acompanhava"
+  ],
+  "resumo": "Os «bastões» dos príncipes são a autoridade e o ofício; e conta-se que a rocha seguia Israel e, a cada parada, dava água em doze torrentes, chamada pelo bastão de Moisés e pelo canto dos salmos.",
+  "relevancia": 2,
+  "direitos": "domínio público (o original é siríaco; aqui a tradução latina da ed. romana, 1737)"
+ },
+ {
+  "id": "afraates-dem-4-7-a-oracao-de-moises-desbaratou-seon-e-og",
+  "autor": "Afraates, o Sábio Persa",
+  "autor_id": "afraates",
+  "datas": "c. 270–c. 345",
+  "titulo_autor": "bispo, o mais antigo Padre siríaco",
+  "obra": "Demonstrações, 4: Sobre a oração",
+  "passagem": "Dem. 4, § 7",
+  "edicao": "J. Parisot, Patrologia Syriaca I/1 (Paris 1894), Dem. IV, 7; texto do Digital Syriac Corpus (n.º 4). Na mesma linha, Dem. 1, § 14 (sobre a fé): «pela fé [Moisés] venceu Seon e Og, reis dos amorreus».",
+  "versiculos": [
+   7,
+   21,
+   24,
+   33,
+   34,
+   35
+  ],
+  "trecho": "4",
+  "lingua": "syr",
+  "original": "ܡܢܐ ܕܝܢ ܢܐܡܪ ܥܠ ܚܝܠܐ ܕܨܠܘܬܗ ܕܡܘܫܐ ܕܠܝܬ ܠܗ ܣܟܐ܂ ܨܠܘܬܗ ܓܝܪ ܫܘܙܒܬܗ ܡܢ ܐܝܕܝ ܦܪܥܘܢ܂ ܘܗܝ ܚܘܝܬܗ ܫܟܝܢܬܐ ܕܐܠܗܗ܂ ܘܒܨܠܘܬܗ ܐܝܬܝ ܥܣܪ ܡܚܘܢ ܥܠ ܦܪܥܘܢ܂ ܘܗܝ ܬܘܒ ܨܠܘܬܗ ܦܠܓܬ ܝܡܐ܂ ܘܐܚܠܝܬ ܡܝܐ ܡܪܝܪܐ܂ ܘܐܚܬܬ ܡܢܢܐ܂ ܘܐܣܩܬ ܣܠܘܝ܂ ܘܒܙܥܬ ܟܐܦܐ܂ ܘܐܪܕܝܬ ܡܝܐ܂ ܘܙܟܬ ܠܥܡܠܝܩ܂ ܘܚܝܠܬ ܠܝܫܘܥ܂ ܘܕܠܚܬ ܠܥܘܓ ܘܠܣܝܚܘܢ ܒܩܪܒܐ܂ ܘܐܚܬܬ ܠܒܝܫܐ ܠܫܝܘܠ܂ ܘܐܗܦܟܬ ܚܡܬܐ ܕܐܠܗܗ ܡܢ ܥܡܗ܂ […]",
+  "fonte_url": "https://syriaccorpus.org/4",
+  "traducao_pt": "Que diremos da força da oração de Moisés, que não tem medida? A sua oração o livrou das mãos do Faraó; ela lhe mostrou a glória do seu Deus; pela sua oração trouxe dez pragas sobre o Faraó. A sua oração dividiu o mar, adoçou a água amarga, fez descer o maná, fez subir as codornizes, fendeu a rocha e fez correr a água, venceu Amalec e deu força a Josué, desbaratou Og e Seon na batalha, fez descer os maus ao Xeol e afastou do seu povo a ira do seu Deus. […]",
+  "temas": [
+   "a vitória que vem da oração",
+   "Seon e Og"
+  ],
+  "resumo": "Na lista das obras da oração de Moisés entram as vitórias de Nm 21: a oração que fez correr a água e afastou a ira de Deus é a mesma que desbaratou Og e Seon na batalha.",
+  "relevancia": 2,
+  "direitos": "domínio público (texto siríaco antigo; edição de Parisot, 1894)"
+ }
+]
