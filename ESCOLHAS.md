@@ -105,12 +105,12 @@ Vale para pessoas, povos e lugares, também nos comentários dos Padres.
 | *ḥoq 'olam* / *ḥuqqat 'olam* | direito perpétuo / lei perpétua | o primeiro é a parte que cabe ao sacerdote (Nm 18,8.11.19, como no Levítico); o segundo, a lei (Nm 15,15; 18,23) | Nm 18 |
 | *reshit* / *bikkurim* | primícias / primeiros frutos | duas palavras diferentes (Nm 18,12–13) | projeto antigo |
 | *mashḥá* (Nm 18,8) | porção | a parte das ofertas que cabe ao sacerdote | Nm 18 |
-| *ḥeleq* (na partilha) | parte | «eu sou a tua parte e a tua herança» (Nm 18,20), como no Deuteronômio («parte nem herança») e no Sl 16,5; Sl 119,57; 142,6 e Lm 3,24 («porção») mudam ao entrarem | Nm 18, a confirmar |
-| *ḥerem* | anátema | «consagrado por anátema» (Nm 18,14), com nota curta; Lv 27 («interdito») e Js 6–7 («votado ao extermínio») mudam ao entrarem | Nm 18, a confirmar |
+| *ḥeleq* (na partilha) | parte | «eu sou a tua parte e a tua herança» (Nm 18,20), como no Deuteronômio («parte nem herança») e no Sl 16,5; Sl 119,57; 142,6 e Lm 3,24 («porção») mudam ao entrarem | Nm 18, aprovado |
+| *ḥerem* | anátema | «consagrado por anátema» (Nm 18,14), com nota curta; Lv 27 («interdito») e Js 6–7 («votado ao extermínio») mudam ao entrarem | Nm 18, aprovado |
 | *pará adummá* | novilha vermelha | Nm 19,2, como em Hb 9,13 («a cinza da novilha») | Nm 19 |
 | *tamim* / *mum* | sem defeito / mancha | Nm 19,2 «sem defeito, que não tenha mancha»; *tamim* = «sem defeito» como em Nm 28–29 | Nm 19 |
 | *'efer* (da novilha) | a cinza | no singular, como no hebraico e em Hb 9,13 (Nm 19,9.10.17) | Nm 19 |
-| *mê niddá* | a água da purificação | Nm 19,9.13.20.21 e 31,23; não «água lustral» nem «água da aspersão» (Vulgata, LXX) | Nm 19, a confirmar |
+| *mê niddá* | a água da purificação | Nm 19,9.13.20.21 e 31,23; não «água lustral» nem «água da aspersão» (Vulgata, LXX) | Nm 19, aprovado |
 | *ḥuqqat hattorá* | o preceito da lei | Nm 19,2 e 31,21 | projeto antigo |
 | *timme* (o santuário, a Morada) | contaminar | Nm 19,13.20, como em Lv 15,31 e 20,3; «profanar» fica para *ḥillel* | Nm 19 |
 | *nikhretá hannefesh hahi* | essa pessoa será eliminada | Nm 15,30–31; 19,13.20 | Nm 15 |
@@ -192,7 +192,7 @@ Vale para pessoas, povos e lugares, também nos comentários dos Padres.
 | *shomer* (Gn 4,9) | guarda | «Acaso sou eu o guarda do meu irmão?», como o lecionário; o verbo de 2,15 («para o cultivar e o guardar») | projeto antigo |
 | *arur atta min-ha'adama* | maldito és tu, longe do solo | Gn 4,11, como «maldita és» (3,14); o lecionário diz «serás amaldiçoado pela terra» | Gn 4 |
 | *na' vanad* | errante e fugitivo | Gn 4,12.14; *ba'arets* = «na terra» (*adama* é o solo) | projeto antigo |
-| *gadol avoni minneso* (Gn 4,13) | A minha iniquidade é grande demais para ser carregada | como *nasa 'avon* = «carregar a iniquidade» (Nm 14,34; 18,1); o lecionário diz «Meu castigo é grande demais», a Bíblia grega e a Vulgata «para ser perdoada» | Gn 4, a confirmar |
+| *gadol avoni minneso* (Gn 4,13) | A minha iniquidade é grande demais para ser carregada | como *nasa 'avon* = «carregar a iniquidade» (Nm 14,34; 18,1); o lecionário diz «Meu castigo é grande demais», a Bíblia grega e a Vulgata «para ser perdoada» | Gn 4, aprovado |
 | *gerashta* (Gn 4,14) | expulsar | «Eis que hoje me expulsas da face do solo», como 3,24 («Expulsou o homem») e o lecionário; a tradução de partida dizia «me lanças» | Gn 4 |
 | *lakhen… shiv'atayim yuqqam* (Gn 4,15) | Por isso, quem matar Caim sofrerá sete vezes a vingança | como o hebraico (*lakhen*); a Bíblia grega, a Vulgata e o lecionário dizem «Não!» (*lo ken*); «será vingado», do assassino, diria o contrário; *ot* = «sinal» | Gn 4 |
 | *bone ir* (Gn 4,17) | estava edificando uma cidade | *banah* = «edificar», como 2,22 | Gn 4 |

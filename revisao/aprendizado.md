@@ -114,3 +114,8 @@ de onde veio. Ler antes de preparar um capítulo (`CAPITULO.md`, etapas 2 a 4).
 - 2026-10-31, Gn 3,24 (a nota dos querubins, excluída): «Vago, e acrescenta pouco». Nota que só diz o
   que o leitor já adivinha, ou o diz de modo genérico, não entra; se o termo é novo, a nota tem de
   dizer algo que ele não tiraria do próprio texto.
+- 2026-11-01, Nm 17,1 (a nota de onde o trecho fica em outras Bíblias, aprovada): «Achei bom, pois
+  resolve um possível estranhamento do leitor». Quando a numeração da Taioé (a da Nova Vulgata) desloca
+  um trecho em relação a outras Bíblias, a nota curta que diz isso é bem-vinda.
+- 2026-11-01, Nm 18,20 (a nota da herança da tribo de Levi, excluída): «Desnecessário». Como no Sl 33,
+  a herança não leva nota: o versículo já diz que Levi não tem parte na terra.

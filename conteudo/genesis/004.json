@@ -1,8 +1,8 @@
 {
  "livro": "genesis",
  "cap": 4,
- "estado": "em revisão",
- "atualizado": "2026-10-31",
+ "estado": "revisado",
+ "atualizado": "2026-11-01",
  "trechos": [
   {"id": "1", "titulo": "Caim e Abel", "de": 1},
   {"id": "2", "titulo": "Onde está o teu irmão?", "de": 9},
@@ -238,20 +238,5 @@
     }
    ]
   }
- },
- "revisao": {
-  "escolhas": [
-   {
-    "id": "iniquidade-grande-demais",
-    "ref": "Gn 4,13",
-    "titulo": "«A minha iniquidade é grande demais para ser carregada», «O meu castigo é grande demais para que eu o suporte» ou «A minha culpa é grande demais para ser perdoada»?",
-    "contexto": "O hebraico diz *gadol avoni minneso*: *'avon* é a iniquidade e também o castigo que ela traz, e *nasa* é «carregar» e também «perdoar» (carregar a culpa de outro). A mesma expressão, *nasa 'avon*, já está fixada como «carregar a iniquidade» (Nm 14,34; 18,1). O lecionário diz «Meu castigo é grande demais para que eu o possa suportar», pelo v. 14; a Bíblia grega e a Vulgata leem «grande demais para ser perdoada» (*quam ut veniam merear*), e daí vem a leitura dos Padres: o desespero de Caim. A tradução de partida dizia «O meu castigo é grande demais para o suportar».",
-    "opcoes": [
-     {"id": "a", "texto": "«A minha iniquidade é grande demais para ser carregada»", "nota": "Guarda os dois sentidos do hebraico, o castigo e o perdão, e a expressão já fixada.", "recomendada": true},
-     {"id": "b", "texto": "«O meu castigo é grande demais para que eu o suporte»", "nota": "Como a liturgia; fica só com o castigo."},
-     {"id": "c", "texto": "«A minha culpa é grande demais para ser perdoada»", "nota": "Como a Bíblia grega e a Vulgata, e a leitura dos Padres; fica só com o perdão."}
-    ]
-   }
-  ]
  }
 }
