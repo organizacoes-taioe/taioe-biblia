@@ -121,7 +121,14 @@ main:focus { outline: none; }
 }
 .pergunta-leitura::backdrop { background: rgba(20, 15, 10, .35); }
 .pergunta-caixa { padding: .9em 0 .4em; }
-.marca { font-weight: 600; letter-spacing: .1em; text-transform: uppercase; color: var(--tinta); text-decoration: none; flex: none; }
+.marca { font-weight: 600; letter-spacing: .1em; text-transform: uppercase; color: var(--tinta); text-decoration: none; flex: none; display: inline-flex; align-items: center; gap: .6rem; }
+/* A logo (taioe/logo/LOGO.md, a 14e): máscara pintada com a cor do texto, para valer em todos os temas.
+   No link para o hub, o texto «Taioé» fica só para leitor de tela. */
+.marca::before {
+  content: ""; flex: none; height: 36px; aspect-ratio: 384 / 355; background: currentColor;
+  -webkit-mask: url("taioe.svg") center / contain no-repeat; mask: url("taioe.svg") center / contain no-repeat;
+}
+.marca[href="/"] { font-size: 0; gap: 0; }
 .trilha { flex: 1; min-width: 0; color: var(--tinta-tenue); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 .trilha a { color: var(--tinta-tenue); text-decoration: none; }
 .trilha a:hover { color: var(--realce); text-decoration: underline; }
