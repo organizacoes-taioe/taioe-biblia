@@ -272,6 +272,8 @@ Vale para pessoas, povos e lugares, também nos comentários dos Padres.
 | *lo yahel devaro* (Nm 30,3) | não profanará a sua palavra | *ḥillel*, como «profanar» (Nm 19); a tradução de partida dizia «não quebrará» | Nm 30 |
 | *le'annot nafesh* (Nm 30,14) | afligir-se | como Nm 29,7 | Nm 30 |
 | *bamot* (de culto) | lugares altos | Nm 33,52; «as alturas de Baal» (Nm 22,41) é nome de lugar | Nm 33 |
+| *hanaf* (Nm 35,33) | poluir | «o sangue polui a terra»; *timme* (v. 34) fica «contaminar» | Nm 35 |
+| *go'el haddam* | o vingador do sangue | Nm 35,12-27 (nota no v. 12) | projeto antigo |
 
 ## Inconsistências conhecidas, para corrigir quando o capítulo entrar
 
