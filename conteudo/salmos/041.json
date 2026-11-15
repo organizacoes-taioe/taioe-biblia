@@ -1,0 +1,30 @@
+{
+ "livro": "salmos",
+ "cap": 41,
+ "estado": "em revisão",
+ "atualizado": "2026-11-15",
+ "trechos": [
+  {"id": "1", "titulo": null, "de": 1}
+ ],
+ "texto": [
+  {"v": 1, "t": "Ao mestre do coro. Salmo de Davi."},
+  {"v": 2, "l": ["Feliz o que cuida do pobre;", "no dia mau o Senhor o livrará."], "np": 1},
+  {"v": 3, "l": ["O Senhor o guardará e lhe dará vida,", "e o fará feliz na terra;", "não o entregará à vontade dos seus inimigos."]},
+  {"v": 4, "l": ["O Senhor o sustentará no leito da dor;", "na doença, mudarás todo o seu leito."]},
+  {"v": 5, "l": ["Eu disse: Senhor, tem piedade de mim;", "cura a minha alma, porque pequei contra ti."], "np": 1},
+  {"v": 6, "l": ["Os meus inimigos falam mal de mim:", "Quando morrerá ele, e perecerá o seu nome?"]},
+  {"v": 7, "l": ["Se alguém vem visitar-me, fala falsidade;", "o seu coração ajunta maldade,", "e, lá fora, a divulga."]},
+  {"v": 8, "l": ["Todos os que me odeiam murmuram juntos contra mim;", "contra mim maquinam o meu mal:"]},
+  {"v": 9, "l": ["Uma doença maligna se apegou a ele;", "deitou-se e não tornará a levantar-se."]},
+  {"v": 10, "l": ["Até o amigo em quem eu confiava,", "que comia do meu pão,", "levantou contra mim o calcanhar."]},
+  {"v": 11, "l": ["Mas tu, Senhor, tem piedade de mim e levanta-me,", "e eu lhes retribuirei."], "np": 1},
+  {"v": 12, "l": ["Nisto conheço que me queres bem:", "que o meu inimigo não triunfa sobre mim."]},
+  {"v": 13, "l": ["A mim, porém, tu me sustentas pela minha integridade", "e me firmas diante de ti para sempre."]},
+  {"v": 14, "l": ["Bendito seja o Senhor, Deus de Israel,", "de eternidade em eternidade.", "Amém! Amém!"], "np": 1}
+ ],
+ "notas": [
+  {"id": "n01", "v": 10, "apos": "o calcanhar", "texto": "Jesus cita este versículo na última ceia, ao anunciar que um dos Doze o entregaria (Jo 13,18).", "origem": "projeto antigo, mais curta"},
+  {"id": "n02", "v": 14, "texto": "Este versículo não é do salmo: é o louvor que fecha o primeiro dos cinco livros em que se divide o saltério (Salmos 1 a 41).", "origem": "revista do projeto antigo (resolve o estranhamento do fim; saiu a comparação com os cinco livros da Lei)"}
+ ],
+ "comentarios": {}
+}

@@ -1,0 +1,21 @@
+{
+ "livro": "salmos",
+ "cap": 43,
+ "estado": "em revisão",
+ "atualizado": "2026-11-15",
+ "trechos": [
+  {"id": "1", "titulo": null, "de": 1}
+ ],
+ "texto": [
+  {"v": 1, "l": ["Faze-me justiça, ó Deus,", "e defende a minha causa contra gente sem piedade;", "livra-me do homem falso e iníquo."]},
+  {"v": 2, "l": ["Porque tu és o Deus da minha fortaleza:", "por que me rejeitaste?", "Por que ando triste,", "oprimido pelo inimigo?"]},
+  {"v": 3, "l": ["Envia a tua luz e a tua verdade:", "que elas me guiem", "e me conduzam ao teu monte santo", "e às tuas moradas."], "np": 1},
+  {"v": 4, "l": ["E irei ao altar de Deus,", "ao Deus da minha alegria e do meu júbilo;", "e te louvarei com a cítara,", "ó Deus, meu Deus."]},
+  {"v": 5, "l": ["Por que te abates, minha alma,", "e te agitas dentro de mim?", "Espera em Deus, porque ainda o louvarei:", "ele é a salvação da minha face e o meu Deus."], "np": 1}
+ ],
+ "notas": [
+  {"id": "n01", "v": 1, "texto": "Este salmo continua o anterior, com o mesmo refrão (42,6.12; 43,5): no começo, os dois eram um poema só.", "origem": "revista do projeto antigo e da nota de 42,6 (resolve o estranhamento do salmo sem título)"},
+  {"id": "n02", "v": 4, "apos": "ao altar de Deus", "texto": "Com este versículo o sacerdote começava a Missa, ao pé do altar, no rito romano antigo.", "origem": "projeto antigo (uso litúrgico na Missa)"}
+ ],
+ "comentarios": {}
+}

@@ -1,0 +1,33 @@
+{
+ "livro": "salmos",
+ "cap": 40,
+ "estado": "em revisão",
+ "atualizado": "2026-11-15",
+ "trechos": [
+  {"id": "1", "titulo": null, "de": 1}
+ ],
+ "texto": [
+  {"v": 1, "t": "Ao mestre do coro. De Davi. Salmo."},
+  {"v": 2, "l": ["Esperando, esperei no Senhor,", "e ele se inclinou para mim e ouviu o meu clamor."], "np": 1},
+  {"v": 3, "l": ["Tirou-me da cova da perdição,", "do lodo do lamaçal;", "pôs os meus pés sobre a rocha", "e firmou os meus passos."]},
+  {"v": 4, "l": ["Pôs na minha boca um cântico novo,", "um hino ao nosso Deus.", "Muitos verão e temerão,", "e confiarão no Senhor."]},
+  {"v": 5, "l": ["Feliz o homem que põe no Senhor a sua confiança", "e não se volta para os soberbos", "nem para os que se desviam na mentira."], "np": 1},
+  {"v": 6, "l": ["Muitas são as maravilhas que fizeste, Senhor, meu Deus,", "e os teus desígnios a nosso favor:", "ninguém se compara a ti.", "Quisera anunciá-los e contá-los,", "mas são mais do que se pode enumerar."]},
+  {"v": 7, "l": ["Sacrifício e oblação não quiseste,", "mas abriste-me os ouvidos;", "holocausto e sacrifício pelo pecado não pediste."], "np": 1},
+  {"v": 8, "l": ["Então eu disse: Eis que venho.", "No rolo do livro está escrito de mim:"]},
+  {"v": 9, "l": ["Fazer a tua vontade, meu Deus, é o meu prazer,", "e a tua lei está no fundo do meu coração."]},
+  {"v": 10, "l": ["Anunciei a justiça na grande assembleia;", "eis que não retive os meus lábios,", "Senhor, tu o sabes."]},
+  {"v": 11, "l": ["Não escondi a tua justiça dentro do meu coração;", "falei da tua fidelidade e da tua salvação;", "não ocultei a tua misericórdia nem a tua verdade", "à grande assembleia."]},
+  {"v": 12, "l": ["Tu, Senhor, não me negues a tua compaixão;", "a tua misericórdia e a tua verdade me guardem sempre."], "np": 1},
+  {"v": 13, "l": ["Porque males sem número me cercaram;", "alcançaram-me as minhas iniquidades,", "e já não consigo ver:", "são mais numerosas que os cabelos da minha cabeça,", "e o meu coração me abandona."]},
+  {"v": 14, "l": ["Digna-te, Senhor, livrar-me;", "Senhor, apressa-te em socorrer-me."]},
+  {"v": 15, "l": ["Sejam confundidos e envergonhados", "os que buscam tirar-me a vida;", "recuem e se envergonhem", "os que desejam o meu mal."], "np": 1},
+  {"v": 16, "l": ["Fiquem pasmados na sua vergonha", "os que me dizem: Ah! Ah!"]},
+  {"v": 17, "l": ["Exultem e se alegrem em ti", "todos os que te buscam;", "digam sempre: Grande é o Senhor", "os que amam a tua salvação."]},
+  {"v": 18, "l": ["Eu sou pobre e necessitado,", "mas o Senhor cuida de mim.", "Tu és o meu auxílio e o meu libertador;", "meu Deus, não tardes."]}
+ ],
+ "notas": [
+  {"id": "n01", "v": 8, "apos": "Eis que venho", "texto": "A Carta aos Hebreus (10,5-9) põe os vv. 7-9 na boca de Cristo, quando entra no mundo para fazer a vontade do Pai. A Missa da Anunciação do Senhor canta estes versos.", "origem": "revista do projeto antigo (saiu a variante grega «preparaste-me um corpo»; entrou a Missa da Anunciação)"}
+ ],
+ "comentarios": {}
+}

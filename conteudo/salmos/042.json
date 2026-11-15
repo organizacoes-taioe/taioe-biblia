@@ -1,0 +1,43 @@
+{
+ "livro": "salmos",
+ "cap": 42,
+ "estado": "em revisão",
+ "atualizado": "2026-11-15",
+ "trechos": [
+  {"id": "1", "titulo": null, "de": 1}
+ ],
+ "texto": [
+  {"v": 1, "t": "Ao mestre do coro. Poema. Dos filhos de Coré."},
+  {"v": 2, "l": ["Como a corça suspira pelas correntes de água,", "assim a minha alma suspira por ti, ó Deus."], "np": 1},
+  {"v": 3, "l": ["A minha alma tem sede de Deus, do Deus vivo:", "quando irei apresentar-me diante da face de Deus?"]},
+  {"v": 4, "l": ["As minhas lágrimas são o meu pão, de dia e de noite,", "enquanto me dizem todo o dia:", "Onde está o teu Deus?"]},
+  {"v": 5, "l": ["Disto me lembro, e derramo dentro de mim a minha alma:", "como eu caminhava com a multidão", "e a conduzia até a casa de Deus,", "entre gritos de alegria e de louvor", "da multidão em festa."]},
+  {"v": 6, "l": ["Por que te abates, minha alma,", "e te agitas dentro de mim?", "Espera em Deus, porque ainda o louvarei", "pela salvação da sua face."]},
+  {"v": 7, "l": ["Meu Deus, a minha alma se abate dentro de mim;", "por isso me lembro de ti", "desde a terra do Jordão e do Hermon,", "desde o monte Misar."], "np": 1},
+  {"v": 8, "l": ["Um abismo chama outro abismo", "ao fragor das tuas cataratas;", "todas as tuas ondas e vagas", "passaram sobre mim."]},
+  {"v": 9, "l": ["De dia o Senhor manda a sua misericórdia,", "e de noite o seu cântico está comigo:", "é a oração ao Deus da minha vida."]},
+  {"v": 10, "l": ["Digo a Deus, minha rocha:", "Por que te esqueceste de mim?", "Por que ando triste,", "oprimido pelo inimigo?"]},
+  {"v": 11, "l": ["Como se me esmagassem os ossos,", "os meus adversários me insultam,", "dizendo-me todo o dia:", "Onde está o teu Deus?"]},
+  {"v": 12, "l": ["Por que te abates, minha alma,", "e te agitas dentro de mim?", "Espera em Deus, porque ainda o louvarei:", "ele é a salvação da minha face e o meu Deus."]}
+ ],
+ "notas": [
+  {"id": "n01", "v": 1, "apos": "Coré", "texto": "Os filhos de Coré eram uma família de cantores do Templo, descendentes do levita Coré, o que se revoltou contra Moisés (Nm 16; 26,11).", "origem": "revista do projeto antigo (lembra quem são; saiu o começo do segundo livro do saltério); saiu a nota do v. 6 (o refrão, que foi para o Sl 43,1)"},
+  {"id": "n02", "v": 2, "apos": "por ti, ó Deus", "texto": "Na Vigília Pascal, quando há batismos, a Missa canta este salmo e o seguinte depois da última leitura do Antigo Testamento.", "origem": "nova (uso litúrgico: Lecionário, Vigília Pascal, salmo depois da 7ª leitura)"},
+  {"id": "n03", "v": 7, "apos": "monte Misar", "texto": "O Hermon é o monte das nascentes do Jordão, no extremo norte, longe de Jerusalém: quem fala está longe do Templo.", "origem": "revista do projeto antigo (lugar pouco conhecido)"}
+ ],
+ "comentarios": {},
+ "revisao": {
+  "escolhas": [
+   {
+    "id": "face-de-deus",
+    "ref": "Sl 42,3",
+    "titulo": "«apresentar-me diante da face de Deus» ou «ver a face de Deus»?",
+    "contexto": "O hebraico, com as vogais que a tradição judaica lhe deu, diz «quando irei e aparecerei diante da face de Deus?», isto é, irei ao Templo; assim também a Bíblia grega e a Vulgata (*apparebo ante faciem Dei*), que os Padres comentam. As consoantes permitem ler «verei a face de Deus», como o lecionário e muitas Bíblias modernas. A tradução de partida dizia «verei».",
+    "opcoes": [
+     {"id": "a", "texto": "«quando irei apresentar-me diante da face de Deus?»", "nota": "O texto hebraico como chegou até nós, a Bíblia grega e a Vulgata.", "recomendada": true},
+     {"id": "b", "texto": "«quando irei e verei a face de Deus?»", "nota": "Como o lecionário; mais conhecida e mais bonita, mas muda as vogais do hebraico."}
+    ]
+   }
+  ]
+ }
+}

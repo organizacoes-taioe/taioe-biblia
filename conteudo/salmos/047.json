@@ -1,0 +1,25 @@
+{
+ "livro": "salmos",
+ "cap": 47,
+ "estado": "em revisão",
+ "atualizado": "2026-11-15",
+ "trechos": [
+  {"id": "1", "titulo": null, "de": 1}
+ ],
+ "texto": [
+  {"v": 1, "t": "Ao mestre do coro. Dos filhos de Coré. Salmo."},
+  {"v": 2, "l": ["Povos todos, batei palmas;", "aclamai a Deus com brados de alegria."], "np": 1},
+  {"v": 3, "l": ["Porque o Senhor é o Altíssimo, o temível,", "o grande rei sobre toda a terra."]},
+  {"v": 4, "l": ["Ele nos submete os povos", "e põe as nações sob os nossos pés."]},
+  {"v": 5, "l": ["Escolheu para nós a nossa herança,", "a glória de Jacó, a quem amou."]},
+  {"v": 6, "l": ["Deus sobe entre aclamações,", "o Senhor, ao som da trombeta."]},
+  {"v": 7, "l": ["Cantai a Deus, cantai;", "cantai ao nosso rei, cantai."], "np": 1},
+  {"v": 8, "l": ["Porque Deus é rei de toda a terra:", "cantai com arte."]},
+  {"v": 9, "l": ["Deus reina sobre as nações;", "Deus está sentado no seu trono santo."]},
+  {"v": 10, "l": ["Os nobres dos povos se reúnem", "como povo do Deus de Abraão,", "porque a Deus pertencem os escudos da terra:", "ele é sublime."]}
+ ],
+ "notas": [
+  {"id": "n01", "v": 6, "apos": "entre aclamações", "texto": "A Missa da Ascensão do Senhor canta este salmo, com este versículo como refrão.", "origem": "revista do projeto antigo (saiu a arca que subia ao Templo, hipótese)"}
+ ],
+ "comentarios": {}
+}

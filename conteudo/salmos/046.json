@@ -1,0 +1,27 @@
+{
+ "livro": "salmos",
+ "cap": 46,
+ "estado": "em revisão",
+ "atualizado": "2026-11-15",
+ "trechos": [
+  {"id": "1", "titulo": null, "de": 1}
+ ],
+ "texto": [
+  {"v": 1, "t": "Ao mestre do coro. Dos filhos de Coré. Sobre as virgens. Cântico."},
+  {"v": 2, "l": ["Deus é nosso refúgio e nossa força,", "socorro sempre pronto nas tribulações."], "np": 1},
+  {"v": 3, "l": ["Por isso não tememos, ainda que se abale a terra", "e os montes desabem no coração do mar;"]},
+  {"v": 4, "l": ["ainda que rujam e espumem as suas águas,", "e os montes tremam à sua fúria."]},
+  {"v": 5, "l": ["Um rio e os seus braços alegram a cidade de Deus,", "a mais santa das moradas do Altíssimo."], "np": 1},
+  {"v": 6, "l": ["Deus está no meio dela: não será abalada;", "Deus a socorrerá ao romper da manhã."]},
+  {"v": 7, "l": ["As nações se agitaram, os reinos se abalaram;", "ele fez ouvir a sua voz, e a terra se dissolveu."]},
+  {"v": 8, "l": ["O Senhor dos exércitos está conosco;", "o Deus de Jacó é a nossa fortaleza."]},
+  {"v": 9, "l": ["Vinde e vede as obras do Senhor,", "as maravilhas que fez sobre a terra:"], "np": 1},
+  {"v": 10, "l": ["faz cessar as guerras até os confins da terra,", "quebra o arco e despedaça a lança,", "queima no fogo os carros de guerra."]},
+  {"v": 11, "l": ["Parai, e sabei que sou Deus,", "exaltado entre as nações, exaltado sobre a terra."]},
+  {"v": 12, "l": ["O Senhor dos exércitos está conosco;", "o Deus de Jacó é a nossa fortaleza."]}
+ ],
+ "notas": [
+  {"id": "n01", "v": 5, "apos": "a cidade de Deus", "texto": "Jerusalém não tem rio, só a pequena fonte de Gion. A Missa da Dedicação da Basílica de Latrão canta este versículo como refrão do salmo.", "origem": "revista do projeto antigo (saíram as associações com o Éden e Ezequiel; entrou a liturgia de 9 de novembro); saiu a nota do v. 11 (de língua)"}
+ ],
+ "comentarios": {}
+}

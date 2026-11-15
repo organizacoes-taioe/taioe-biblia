@@ -1,0 +1,35 @@
+{
+ "livro": "salmos",
+ "cap": 45,
+ "estado": "em revisão",
+ "atualizado": "2026-11-15",
+ "trechos": [
+  {"id": "1", "titulo": null, "de": 1}
+ ],
+ "texto": [
+  {"v": 1, "t": "Ao mestre do coro. Sobre os lírios. Dos filhos de Coré. Poema. Cântico de amor."},
+  {"v": 2, "l": ["Transborda do meu coração uma palavra boa;", "eu recito ao rei o meu poema:", "a minha língua é a pena de um escriba ágil."], "np": 1},
+  {"v": 3, "l": ["És o mais belo dos filhos dos homens;", "a graça se derramou nos teus lábios:", "por isso Deus te abençoou para sempre."], "np": 1},
+  {"v": 4, "l": ["Cinge a espada à cintura, ó valente:", "é a tua glória e o teu esplendor."]},
+  {"v": 5, "l": ["Avança com esplendor, cavalga", "pela verdade, pela humildade e pela justiça;", "e a tua direita te ensine feitos temíveis."]},
+  {"v": 6, "l": ["As tuas flechas são agudas", "— os povos cairão debaixo de ti —", "e entram no coração dos inimigos do rei."]},
+  {"v": 7, "l": ["O teu trono, ó Deus, é para todo o sempre;", "cetro de retidão é o cetro do teu reino."]},
+  {"v": 8, "l": ["Amaste a justiça e odiaste a impiedade;", "por isso Deus, o teu Deus, te ungiu", "com o óleo da alegria, mais que aos teus companheiros."]},
+  {"v": 9, "l": ["Mirra, aloés e cássia exalam as tuas vestes;", "dos palácios de marfim te alegram as cordas."]},
+  {"v": 10, "l": ["Filhas de reis vêm ao teu encontro;", "à tua direita está a rainha,", "com ouro de Ofir."]},
+  {"v": 11, "l": ["Ouve, filha, vê e inclina o teu ouvido:", "esquece o teu povo e a casa de teu pai."], "np": 1},
+  {"v": 12, "l": ["O rei deseja a tua beleza;", "ele é o teu senhor: prostra-te diante dele."]},
+  {"v": 13, "l": ["A filha de Tiro vem com presentes;", "os ricos do povo buscam o teu favor."]},
+  {"v": 14, "l": ["Toda gloriosa, lá dentro, está a filha do rei;", "a sua veste é tecida de ouro."]},
+  {"v": 15, "l": ["Em vestes bordadas é conduzida ao rei;", "atrás dela, as virgens suas companheiras", "são levadas à tua presença."]},
+  {"v": 16, "l": ["São conduzidas entre alegria e júbilo,", "e entram no palácio do rei."]},
+  {"v": 17, "l": ["Em lugar de teus pais terás filhos;", "hás de constituí-los príncipes por toda a terra."], "np": 1},
+  {"v": 18, "l": ["Farei memorável o teu nome por todas as gerações;", "por isso os povos te louvarão para todo o sempre."]}
+ ],
+ "notas": [
+  {"id": "n01", "v": 1, "texto": "É um canto para o casamento de um rei: fala primeiro ao rei (vv. 3-10) e depois à noiva (vv. 11-16).", "origem": "revista do projeto antigo (ajuda a seguir quem fala; saiu a leitura judaica e cristã, que está nos comentários)"},
+  {"id": "n02", "v": 7, "apos": "ó Deus", "texto": "A Carta aos Hebreus (1,8-9) cita os vv. 7-8 aplicando-os ao Filho de Deus.", "origem": "revista do projeto antigo (saiu o embaraço dos comentadores, que é análise)"},
+  {"id": "n03", "v": 10, "apos": "a rainha", "texto": "A Missa da Assunção de Nossa Senhora canta este versículo como refrão do salmo.", "origem": "nova (uso litúrgico: Lecionário, 15 de agosto, Missa do dia)"}
+ ],
+ "comentarios": {}
+}
