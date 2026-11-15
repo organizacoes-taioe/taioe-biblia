@@ -53,6 +53,7 @@ Vale para pessoas, povos e lugares, também nos comentários dos Padres.
 - Nm 26: os nomes das famílias, que a liturgia não lê, como no projeto antigo; Josué, filho de Num, como no Nm 14.
 - Nm 27: Salfaad, Hefer, Galaad, Maquir, Maala, Noa, Hegla, Melca e Tersa, os montes Abarim, Sin, Cades e Meriba (sem acento, como Nm 20), como no projeto antigo e no Nm 20; Josué, filho de Num.
 - Nm 31: Evi, Recem, Sur, Hur e Rebe, os reis de Madiã, que a liturgia não lê, como no projeto antigo; Balaão, Fineias e Eleazar como antes.
+- Nm 32: Jazer, Galaad, Atarot, Dibon, Nemra, Hesbon, Eleale, Sabam, Nebo, Beon, Cades-Barne, o vale de Escol (como Nm 13), Aroer, Atarot-Sofan, Jegbaa, Bet-Nemra, Bet-Haran, Cariataim, Baal-Meon, Sabama, Maquir, Jair, Havot-Jair, Nobe e Canat, que a liturgia não lê, como no projeto antigo; Caleb, filho de Jefoné, o quenezeu; Josué, filho de Num.
 - Gn 3: Eva e Éden, como o lecionário.
 - Gn 4: Adão, Eva, Caim, Abel e Set, como o lecionário; Nod, Henoc, Irad, Maviael, Matusael, Lamec, Ada, Sela, Jabel, Jubal, Tubalcaim e Noema, que a liturgia não lê, como no projeto antigo; *Enosh* = Enós (o projeto antigo dizia «Enos»; Gn 5 muda ao entrar).
 - Gn 2: Éden (como o lecionário); Píson, Havilá, Geon, Tigre, Assíria e Eufrates, que a liturgia não lê, como no projeto antigo; *Kush* = Etiópia (2,13), como em Nm 12.
