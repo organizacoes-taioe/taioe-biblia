@@ -1,0 +1,142 @@
+{
+ "1": [
+  {
+   "id": "conselho",
+   "titulo": "O que a maldição não pôde, a sedução fez: o conselho de Balaão",
+   "versiculos": [
+    1,
+    2
+   ],
+   "itens": [
+    "teodoreto-quaest-num-44-o-conselho-de-balaao",
+    "ambrosio-ep50-13-o-amor-provado-pelo-sacrilegio",
+    "newman-pps4-2-balaao-conselho-tentador"
+   ]
+  },
+  {
+   "id": "prazer",
+   "titulo": "Da fartura à queda: o prazer que vence os fortes",
+   "versiculos": [
+    1,
+    2
+   ],
+   "itens": [
+    "crisostomo-in-1-cor-23-gula-e-conselho-de-balaao",
+    "nissa-vida-de-moises-ii-298-303-o-prazer-vence-os-fortes",
+    "cassiano-coll24-17-o-inimigo-ataca-pelo-lado-fraco"
+   ]
+  },
+  {
+   "id": "baal-fogor",
+   "titulo": "«Israel juntou-se a Baal-Fogor»: quem serve ao vício o tem por deus",
+   "versiculos": [
+    3
+   ],
+   "itens": [
+    "origenes-hnum20-3-cada-pecado-consagra-a-um-demonio",
+    "jeronimo-inosee-9-10-quem-serve-ao-prazer-tem-beelfegor",
+    "teodoreto-in-os-9-10-beelfegor-mais-que-deus"
+   ]
+  },
+  {
+   "id": "chefes",
+   "titulo": "«Pendura-os ao sol»: os chefes respondem pelo povo",
+   "versiculos": [
+    4,
+    5
+   ],
+   "itens": [
+    "origenes-hnum20-4-os-chefes-diante-do-sol",
+    "cirilo-de-adoratione-xiv-908-o-prazer-e-o-olhar-do-juiz"
+   ]
+  }
+ ],
+ "2": [
+  {
+   "id": "publico",
+   "titulo": "O pecado à vista de todos e o silêncio de quem devia falar",
+   "versiculos": [
+    6,
+    9,
+    14,
+    15
+   ],
+   "itens": [
+    "basilio-homilia-fome-e-seca-zambri-e-o-povo",
+    "pedro-damiao-caelibatu-1-os-nomes-de-zambri-e-cozbi",
+    "efrem-sermo-reprehensione-fineias-e-a-correcao-calada",
+    "teodoro-estudita-carta-48-so-fineias-ficou-de-pe"
+   ]
+  },
+  {
+   "id": "lanca",
+   "titulo": "A lança de Fineias: a palavra que mata o pecado na alma",
+   "versiculos": [
+    7,
+    8
+   ],
+   "itens": [
+    "nilo-cartas-ii-142-a-palavra-do-sacerdote-mata-o-adulterio",
+    "origenes-hnum20-5-a-espada-do-espirito",
+    "antonio-s10-dom4-quaresma-fineias-pregador"
+   ]
+  },
+  {
+   "id": "zelo",
+   "titulo": "O zelo de Fineias: o amor que combate o mal, sem ódio",
+   "versiculos": [
+    11
+   ],
+   "itens": [
+    "agostinho-enps105-26-sem-odio-seria-justica",
+    "gregorio-moralia5-45-a-ira-que-nasce-do-zelo",
+    "crisostomo-in-kalendas-6-fineias-e-os-medicos",
+    "sales-amor-de-deus-x16-fineias-nao-e-para-nos"
+   ]
+  },
+  {
+   "id": "intercessao",
+   "titulo": "«Afastou a minha ira»: o justo que detém a praga",
+   "versiculos": [
+    8,
+    11,
+    13
+   ],
+   "itens": [
+    "nazianzeno-or-16-9-sede-moises-ou-fineias",
+    "afraates-dem-4-14-o-zelo-de-fineias-contado-como-oracao",
+    "belarmino-sl105-31-32-fineias-aplacou-justica"
+   ]
+  },
+  {
+   "id": "cruz",
+   "titulo": "Fineias, figura de Cristo, que vence pela lança da cruz",
+   "versiculos": [
+    7,
+    8,
+    12,
+    13
+   ],
+   "itens": [
+    "efrem-in-num-25-8-fineias-figura-de-cristo-zambri-do-diabo",
+    "efrem-nisibis-39-5-7-a-lanca-de-fineias-e-a-de-cristo",
+    "isidoro-innum-42-8-a-cruz-extingue-o-desejo-da-carne"
+   ]
+  }
+ ],
+ "3": [
+  {
+   "id": "madianitas",
+   "titulo": "«Tratai os madianitas como inimigos»: a guerra de então e a de hoje",
+   "versiculos": [
+    16,
+    17,
+    18
+   ],
+   "itens": [
+    "ruperto-innahum-2-hostes-vos-sentiant-madianitae",
+    "cirilo-de-adoratione-iii-324-a-guerra-contra-madia"
+   ]
+  }
+ ]
+}
