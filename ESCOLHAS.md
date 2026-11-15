@@ -48,6 +48,7 @@ Vale para pessoas, povos e lugares, também nos comentários dos Padres.
 - Nm 21: o monte Hor, o mar Vermelho e Edom, como o lecionário (Nm 21,4-9, Exaltação da Santa Cruz e Quaresma); Arad, Negueb, Atarim, Horma, Obot, Ijé-Abarim, Zared, Arnon, Vaeb, Sufa, Ar, Beer, Matana, Naaliel, Bamot, o Fasga, Seon, Jasa, Jaboc, Amon, Jazer, Hesbon, Camos, Dibon, Nofa, Medaba, Og, Basã e Edrai, que a liturgia não lê, como no projeto antigo.
 - Nm 22: Balaão, filho de Beor, como o lecionário (Nm 24,2-7.15-17a, Advento); Balac, filho de Sefor, Petor, Madiã, o Arnon, Cariat-Husot e as alturas de Baal, que a liturgia não lê, como no projeto antigo (Js 24,9; Jz 11,25; Mq 6,5; Ap 2,14 dizem «Balac»).
 - Nm 23: Balaão e Beor, como o lecionário (Nm 24,3.15); Balac, Sefor, Arã, Moab, o Fasga e o Fogor, que a liturgia não lê, como no projeto antigo (o Fasga também em Nm 21).
+- Nm 24: Balaão, Beor, Jacó, Israel e Agag, como o lecionário (Nm 24,2-7.15-17a, Advento); Edom, Seir, Set, Amalec, o queneu, Assur, Quitim e Eber, que a liturgia não lê, como no projeto antigo.
 - Gn 3: Eva e Éden, como o lecionário.
 - Gn 4: Adão, Eva, Caim, Abel e Set, como o lecionário; Nod, Henoc, Irad, Maviael, Matusael, Lamec, Ada, Sela, Jabel, Jubal, Tubalcaim e Noema, que a liturgia não lê, como no projeto antigo; *Enosh* = Enós (o projeto antigo dizia «Enos»; Gn 5 muda ao entrar).
 - Gn 2: Éden (como o lecionário); Píson, Havilá, Geon, Tigre, Assíria e Eufrates, que a liturgia não lê, como no projeto antigo; *Kush* = Etiópia (2,13), como em Nm 12.
@@ -232,6 +233,18 @@ Vale para pessoas, povos e lugares, também nos comentários dos Padres.
 | *qavav* / *'arar* / *za'am* | amaldiçoar / amaldiçoar / maldizer | Nm 23,7–8: «amaldiçoa-me Jacó… maldiz Israel»; «Como amaldiçoarei o que Deus não amaldiçoou?» | projeto antigo |
 | *hen-am* (Nm 23,9.24) | eis um povo | os dois oráculos abrem com a mesma palavra; a tradução de partida dizia «é um povo» no v. 9 | Nm 23 |
 | *lo ish el vikhazzev* (Nm 23,19) | Deus não é homem, que minta, / nem filho de homem, que se arrependa | pelo Versificador; a tradução de partida dizia «para mentir… para se arrepender» | Nm 23 |
+| *shetum ha'ayin* (Nm 24,3.15) | o homem de olhos abertos | como o lecionário e a Bíblia grega («que vê de verdade»); a Vulgata lê «cujo olho está fechado»; sem nota (variante) | Nm 24 |
+| *nofel ugeluy enayim* | do que cai e tem os olhos descobertos | Nm 24,4.16; o lecionário diz «que cai, e seus olhos se abrem» | Nm 24 |
+| *da'at elyon* | o saber do Altíssimo | Nm 24,16; o lecionário diz «os pensamentos do Altíssimo», a Vulgata «doctrinam»; «ciência» hoje se entende de outro modo | Nm 24 |
+| *ma-tovu ohalekha* | Como são belas as tuas tendas, ó Jacó | Nm 24,5, como o lecionário; *mishkenot* = «moradas» (no singular, com Deus, «a Morada») | Nm 24 |
+| *ruah elohim* (Nm 24,2) | o espírito de Deus | minúscula, como o lecionário, sobre Balaão; a maiúscula de Gn 1,2 é escolha daquele lugar | Nm 24 |
+| *mi yeqimennu* (Nm 24,9; Gn 49,9) | quem o fará levantar-se? | as duas linhas do leão iguais às de Gn 49,9 no projeto antigo; Nm 24,9 «Bendito quem te abençoa, e maldito quem te amaldiçoa» (particípios: presente) | Nm 24 |
+| *be'aharit hayyamim* | nos últimos dias | Nm 24,14, como Gn 49,1, Dt 4,30; 31,29 e Is 2,2 no projeto antigo; a tradução de partida dizia aqui «nos dias que virão» | Nm 24 |
+| *i'atskha* (Nm 24,14) | eu te advertirei | *ya'ats*, aconselhar, avisar; a Vulgata «dabo consilium», que os Padres ligam ao conselho de Baal-Fegor (Nm 31,16) | Nm 24 |
+| *darakh kokhav miyya'aqov* | uma estrela sai de Jacó | Nm 24,17, como o lecionário; a tradução de partida dizia «procede» | Nm 24 |
+| *veqarqar* (Nm 24,17) | e derrubará | o texto hebraico tem o verbo; «o crânio» vem de Jr 48,45 e do Pentateuco samaritano (variante) | Nm 24 |
+| *yeresha* (Nm 24,18) | será a sua conquista / será conquistado | Edom e Seir, «o seu inimigo» (de Israel): a tradução de partida dizia «possuído pelos seus inimigos», que troca o sentido | Nm 24 |
+| *ade oved* | a perdição | Nm 24,20.24: «o seu fim será a perdição», «e também ele irá à perdição» | Nm 24 |
 
 ## Inconsistências conhecidas, para corrigir quando o capítulo entrar
 
