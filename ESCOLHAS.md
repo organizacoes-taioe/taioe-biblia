@@ -265,6 +265,8 @@ Vale para pessoas, povos e lugares, também nos comentários dos Padres.
 | *'atseret* (Nm 29,35) | reunião solene | o oitavo dia da festa das Tendas; *qahal* fica «assembleia»; a tradução de partida dizia «assembleia solene» | Nm 29 |
 | *ve'innitem et-nafshotekhem* | vos afligireis | Nm 29,7 (*nefesh*, opção C: aqui é a própria pessoa, não o interior); a tradução de partida dizia «afligireis as vossas almas»; Lv 16 e 23 mudam ao entrarem | Nm 29 |
 | *zevah shelamim* | sacrifício de comunhão | Nm 29,39, como Nm 15 | Nm 15 |
+| *lo yahel devaro* (Nm 30,3) | não profanará a sua palavra | *ḥillel*, como «profanar» (Nm 19); a tradução de partida dizia «não quebrará» | Nm 30 |
+| *le'annot nafesh* (Nm 30,14) | afligir-se | como Nm 29,7 | Nm 30 |
 
 ## Inconsistências conhecidas, para corrigir quando o capítulo entrar
 
