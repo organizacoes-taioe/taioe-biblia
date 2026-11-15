@@ -1,0 +1,49 @@
+{
+ "livro": "numeros",
+ "cap": 34,
+ "estado": "em revisão",
+ "atualizado": "2026-11-15",
+ "trechos": [
+  {"id": "1", "titulo": "Os limites da terra", "de": 1},
+  {"id": "2", "titulo": "Os que hão de repartir a terra", "de": 16}
+ ],
+ "texto": [
+  {"s": "Os limites da terra"},
+  {"v": 1, "t": "O Senhor falou a Moisés, dizendo:"},
+  {"v": 2, "t": "Ordena aos filhos de Israel e dize a eles: Quando entrardes na terra de Canaã, esta é a terra que vos cairá em herança, a terra de Canaã, segundo os seus limites."},
+  {"v": 3, "t": "O lado meridional começará no deserto de Sin, junto a Edom; o limite do sul será desde a extremidade do mar Salgado, ao oriente;"},
+  {"v": 4, "t": "virará ao sul pela subida de Acrabim, passará a Sin e chegará ao sul de Cades-Barne; seguirá a Hasar-Adar e passará a Asmon;"},
+  {"v": 5, "t": "de Asmon virará para a torrente do Egito e terminará no mar."},
+  {"v": 6, "t": "O limite ocidental será o mar Grande: esse será o vosso limite ao ocidente.", "np": 1},
+  {"v": 7, "t": "Este será o vosso limite ao norte: do mar Grande traçareis a linha até o monte Hor;", "np": 1},
+  {"v": 8, "t": "do monte Hor até a entrada de Emat; o limite chegará a Sedada;"},
+  {"v": 9, "t": "seguirá a Zefrona e terminará em Hasar-Enan: esse será o vosso limite ao norte."},
+  {"v": 10, "t": "Traçareis o vosso limite oriental desde Hasar-Enan até Sefama;", "np": 1},
+  {"v": 11, "t": "de Sefama descerá a Rebla, ao oriente de Ain; descerá e chegará à encosta do mar de Ceneret, ao oriente;"},
+  {"v": 12, "t": "descerá ao Jordão e terminará no mar Salgado. Esta será a vossa terra, segundo os seus limites ao redor."},
+  {"v": 13, "t": "Moisés ordenou aos filhos de Israel: Esta é a terra que recebereis por sorte, e que o Senhor ordenou dar às nove tribos e à meia tribo.", "np": 1},
+  {"v": 14, "t": "Porque a tribo dos filhos de Rúben, segundo as suas casas paternas, a tribo dos filhos de Gad, segundo as suas casas paternas, e a meia tribo de Manassés já receberam a sua herança;"},
+  {"v": 15, "t": "duas tribos e meia receberam a sua herança além do Jordão, defronte de Jericó, ao oriente."},
+  {"s": "Os que hão de repartir a terra"},
+  {"v": 16, "t": "O Senhor falou a Moisés, dizendo:"},
+  {"v": 17, "t": "Estes são os nomes dos homens que vos repartirão a terra: o sacerdote Eleazar e Josué, filho de Num;"},
+  {"v": 18, "t": "e tomareis um chefe de cada tribo, para repartir a terra."},
+  {"v": 19, "t": "Estes são os nomes dos homens: da tribo de Judá, Caleb, filho de Jefoné;", "np": 1},
+  {"v": 20, "t": "da tribo dos filhos de Simeão, Samuel, filho de Amiud;"},
+  {"v": 21, "t": "da tribo de Benjamim, Elidad, filho de Caselon;"},
+  {"v": 22, "t": "da tribo dos filhos de Dã, o chefe Boci, filho de Jogli;"},
+  {"v": 23, "t": "dos filhos de José, da tribo dos filhos de Manassés, o chefe Haniel, filho de Efod;"},
+  {"v": 24, "t": "da tribo dos filhos de Efraim, o chefe Camuel, filho de Seftan;"},
+  {"v": 25, "t": "da tribo dos filhos de Zabulon, o chefe Elisafan, filho de Farnac;"},
+  {"v": 26, "t": "da tribo dos filhos de Issacar, o chefe Faltiel, filho de Ozan;"},
+  {"v": 27, "t": "da tribo dos filhos de Aser, o chefe Aiud, filho de Salomi;"},
+  {"v": 28, "t": "da tribo dos filhos de Neftali, o chefe Fedael, filho de Amiud."},
+  {"v": 29, "t": "Estes são aqueles a quem o Senhor ordenou que repartissem aos filhos de Israel a terra de Canaã."}
+ ],
+ "notas": [
+  {"id": "n01", "v": 3, "apos": "mar Salgado", "texto": "O mar Salgado é o mar Morto.", "origem": "nova: lugar que o leitor conhece por outro nome"},
+  {"id": "n02", "v": 6, "apos": "mar Grande", "texto": "O mar Grande é o Mediterrâneo.", "origem": "revista do projeto antigo: saiu «mais largos do que Israel jamais ocupou» (análise)"},
+  {"id": "n03", "v": 11, "apos": "Ceneret", "texto": "O mar de Ceneret é o lago que os Evangelhos chamam de Genesaré, ou mar da Galileia.", "origem": "nova: lugar que o leitor conhece por outro nome"}
+ ],
+ "comentarios": {}
+}
