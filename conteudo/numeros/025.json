@@ -1,0 +1,41 @@
+{
+ "livro": "numeros",
+ "cap": 25,
+ "estado": "em revisão",
+ "atualizado": "2026-11-15",
+ "trechos": [
+  {"id": "1", "titulo": "Israel em Baal-Fogor", "de": 1},
+  {"id": "2", "titulo": "O zelo de Fineias", "de": 6},
+  {"id": "3", "titulo": "A ordem contra os madianitas", "de": 16}
+ ],
+ "texto": [
+  {"s": "Israel em Baal-Fogor"},
+  {"v": 1, "t": "Israel estava em Setim, e o povo começou a prostituir-se com as filhas de Moab."},
+  {"v": 2, "t": "Elas convidaram o povo aos sacrifícios dos seus deuses; o povo comeu e prostrou-se diante dos deuses delas."},
+  {"v": 3, "t": "Israel juntou-se a Baal-Fogor, e a ira do Senhor se acendeu contra Israel."},
+  {"v": 4, "t": "O Senhor disse a Moisés: Toma todos os chefes do povo e pendura-os ao sol, diante do Senhor, para que o ardor da ira do Senhor se afaste de Israel."},
+  {"v": 5, "t": "Moisés disse aos juízes de Israel: Cada um de vós mate os seus homens que se juntaram a Baal-Fogor."},
+  {"s": "O zelo de Fineias"},
+  {"v": 6, "t": "E eis que um dos filhos de Israel veio e trouxe para junto dos seus irmãos uma madianita, à vista de Moisés e de toda a comunidade dos filhos de Israel, enquanto eles choravam à entrada da tenda do encontro."},
+  {"v": 7, "t": "Vendo isso, Fineias, filho de Eleazar, filho do sacerdote Aarão, levantou-se do meio da comunidade, tomou uma lança na mão,"},
+  {"v": 8, "t": "entrou atrás do israelita na alcova e trespassou os dois, o israelita e a mulher, pelo ventre dela. E a praga que feria os filhos de Israel foi detida."},
+  {"v": 9, "t": "Os que morreram da praga foram vinte e quatro mil."},
+  {"v": 10, "t": "O Senhor falou a Moisés, dizendo:", "np": 1},
+  {"v": 11, "t": "Fineias, filho de Eleazar, filho do sacerdote Aarão, afastou a minha ira dos filhos de Israel, porque teve no meio deles o meu zelo; e assim eu não exterminei os filhos de Israel no meu zelo."},
+  {"v": 12, "t": "Por isso dize: Eis que lhe dou a minha aliança de paz;"},
+  {"v": 13, "t": "ela será para ele e para a sua descendência depois dele a aliança de um sacerdócio perpétuo, porque teve zelo pelo seu Deus e fez expiação pelos filhos de Israel."},
+  {"v": 14, "t": "O israelita que foi morto com a madianita chamava-se Zambri, filho de Salu, chefe de uma casa paterna dos simeonitas."},
+  {"v": 15, "t": "A madianita que foi morta chamava-se Cozbi, filha de Sur, chefe dos clãs de uma casa paterna em Madiã."},
+  {"s": "A ordem contra os madianitas"},
+  {"v": 16, "t": "O Senhor falou a Moisés, dizendo:"},
+  {"v": 17, "t": "Tratai os madianitas como inimigos e feri-os,"},
+  {"v": 18, "t": "porque eles vos trataram como inimigos com as astúcias com que vos enganaram no caso de Fogor e no caso de Cozbi, filha de um chefe de Madiã, irmã deles, que foi morta no dia da praga, por causa de Fogor."}
+ ],
+ "notas": [
+  {"id": "n01", "v": 1, "apos": "Setim", "texto": "Setim fica nas estepes de Moab, junto ao Jordão, em frente a Jericó: foi o último acampamento de Israel antes de entrar na terra (Js 2,1; 3,1).", "origem": "nova: lugar pouco conhecido"},
+  {"id": "n02", "v": 2, "apos": "delas", "texto": "Mais adiante (31,16) se diz que foi por conselho de Balaão que as mulheres levaram Israel a pecar.", "origem": "revista do projeto antigo: ficou a referência a 31,16, que liga o capítulo aos anteriores; saiu «a ruína não veio de fora, veio do convite» (interpretação)"},
+  {"id": "n03", "v": 3, "apos": "Baal-Fogor", "texto": "Baal-Fogor é o deus Baal, como era adorado no monte Fogor, de onde Balaão tinha olhado o acampamento (23,28).", "origem": "nova: sem ela o leitor não sabe quem é Baal-Fogor"},
+  {"id": "n04", "v": 11, "apos": "zelo", "texto": "A Missa lembra este zelo de Fineias em 1Mc 2,26 (quinta-feira da 33ª semana do Tempo Comum, ano I), quando Matatias se levanta contra a idolatria com o mesmo zelo.", "origem": "nova: liturgia da Missa"}
+ ],
+ "comentarios": {}
+}
