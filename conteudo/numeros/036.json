@@ -1,0 +1,30 @@
+{
+ "livro": "numeros",
+ "cap": 36,
+ "estado": "em revisão",
+ "atualizado": "2026-11-15",
+ "trechos": [
+  {"id": "1", "titulo": "A herança das filhas de Salfaad", "de": 1}
+ ],
+ "texto": [
+  {"s": "A herança das filhas de Salfaad"},
+  {"v": 1, "t": "Aproximaram-se os cabeças das casas paternas da família dos filhos de Galaad, filho de Maquir, filho de Manassés, das famílias dos filhos de José, e falaram diante de Moisés e dos chefes, os cabeças das casas paternas dos filhos de Israel,"},
+  {"v": 2, "t": "e disseram: O Senhor ordenou ao meu senhor que repartisse por sorte a terra aos filhos de Israel, e o meu senhor recebeu do Senhor a ordem de dar a herança de Salfaad, nosso irmão, às suas filhas."},
+  {"v": 3, "t": "Se elas se casarem com filhos de outra tribo dos filhos de Israel, a sua herança será tirada da herança de nossos pais e acrescentada à herança da tribo a que passarem; assim será tirada da sorte da nossa herança."},
+  {"v": 4, "t": "Quando chegar o jubileu dos filhos de Israel, a herança delas será acrescentada à herança da tribo a que passarem; e a sua herança será tirada da herança da tribo de nossos pais."},
+  {"v": 5, "t": "Moisés ordenou aos filhos de Israel, por ordem do Senhor: A tribo dos filhos de José fala com razão."},
+  {"v": 6, "t": "Isto é o que o Senhor ordenou a respeito das filhas de Salfaad: casem-se com quem lhes agradar, contanto que se casem dentro da família da tribo de seu pai,"},
+  {"v": 7, "t": "para que a herança dos filhos de Israel não passe de tribo em tribo, mas cada um dos filhos de Israel se mantenha na herança da tribo de seus pais."},
+  {"v": 8, "t": "Toda filha que receber herança nas tribos dos filhos de Israel há de casar-se com alguém da família da tribo de seu pai, para que os filhos de Israel possuam cada um a herança de seus pais,"},
+  {"v": 9, "t": "e a herança não passe de uma tribo a outra, mas cada uma das tribos dos filhos de Israel se mantenha na sua herança."},
+  {"v": 10, "t": "As filhas de Salfaad fizeram como o Senhor ordenara a Moisés:", "np": 1},
+  {"v": 11, "t": "Maala, Tersa, Hegla, Melca e Noa casaram-se com os filhos de seus tios."},
+  {"v": 12, "t": "Casaram-se dentro das famílias dos filhos de Manassés, filho de José, e a sua herança ficou na tribo da família de seu pai."},
+  {"v": 13, "t": "Estes são os mandamentos e as normas de direito que o Senhor ordenou aos filhos de Israel, por meio de Moisés, nas planícies de Moab, junto ao Jordão, defronte de Jericó."}
+ ],
+ "notas": [
+  {"id": "n01", "v": 4, "apos": "jubileu", "texto": "O jubileu era o ano, a cada cinquenta, em que as terras vendidas voltavam à família de origem (Lv 25,8-17).", "origem": "nova: costume que o leitor não tem"},
+  {"id": "n02", "v": 5, "apos": "fala com razão", "texto": "Com as mesmas palavras o Senhor tinha acolhido o pedido das filhas de Salfaad (27,7).", "origem": "revista do projeto antigo: situa a referência; saiu «as duas partes têm razão» (interpretação) e a nota do v. 13 (interpretação)"}
+ ],
+ "comentarios": {}
+}
