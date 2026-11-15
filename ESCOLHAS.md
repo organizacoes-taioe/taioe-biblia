@@ -258,6 +258,10 @@ Vale para pessoas, povos e lugares, também nos comentários dos Padres.
 | *hod* (Nm 27,20) | majestade | «Porás sobre ele parte da tua majestade»; a tradução de partida dizia «autoridade» (interpretação); a Vulgata «de gloria tua» | Nm 27 |
 | *mishpat ha'urim* | a decisão do Urim | Nm 27,21 | Nm 27 |
 | *yifqod* (Nm 27,16) | designar | «designe um homem à frente desta comunidade» | Nm 27 |
+| *'ishe* / *'olá* / *minhá* / *nesekh* (rituais) | oferta queimada / holocausto / oblação / libação | como Nm 15 (Nm 28–29); *reah nihoah* = «aroma agradável»; a tradução de partida dizia «sacrifício pelo fogo» e «odor suave» | Nm 28 |
+| *miqra-qodesh* | santa convocação | Nm 28,18.25.26; 29,1.7.12; *qahal* fica «assembleia»; a tradução de partida dizia «santa assembleia»; Lv 23 muda ao entrar | Nm 28 |
+| *ben ha'arbayim* | ao entardecer | Nm 28,4.8 | projeto antigo |
+| *bemo'ado* (Nm 28,2) | no tempo marcado | | Nm 28 |
 
 ## Inconsistências conhecidas, para corrigir quando o capítulo entrar
 
