@@ -1,0 +1,68 @@
+{
+ "1": [
+  {
+   "id": "trombetas",
+   "titulo": "«O dia do toque das trombetas»: a última trombeta",
+   "versiculos": [
+    1
+   ],
+   "itens": [
+    "cirilo-adoratione-17-1120-a-ultima-trombeta"
+   ]
+  }
+ ],
+ "2": [
+  {
+   "id": "expiacao",
+   "titulo": "«Vos afligireis»: o jejum e a humildade no dia da Expiação",
+   "versiculos": [
+    7,
+    11
+   ],
+   "itens": [
+    "origenes-hom-num-23-10-afligir-a-alma-no-dia-da-expiacao",
+    "cirilo-adoratione-17-1120-o-jejum-e-a-mortificacao",
+    "jeronimo-dial-pelag-1-33-um-bode-por-pecado-em-toda-festa"
+   ]
+  }
+ ],
+ "3": [
+  {
+   "id": "tendas",
+   "titulo": "A festa das Tendas: a vida de peregrino e a festa que só se completa no céu",
+   "versiculos": [
+    12
+   ],
+   "itens": [
+    "origenes-hom-num-23-11-viver-em-tendas-neste-mundo",
+    "origenes-hom-num-23-11-a-festa-perfeita-so-no-ceu",
+    "jeronimo-in-ez-13-44-24-as-verdadeiras-solenidades",
+    "tomas-st-1-2-q102-a4-ad10-festas-do-setimo-mes"
+   ]
+  }
+ ],
+ "4": [
+  {
+   "id": "oitavo-dia",
+   "titulo": "«No oitavo dia»: o dia do Senhor",
+   "versiculos": [
+    35
+   ],
+   "itens": [
+    "bruno-expositio-num-29-o-oitavo-dia-e-o-dia-do-senhor"
+   ]
+  }
+ ],
+ "5": [
+  {
+   "id": "voluntario",
+   "titulo": "«As vossas ofertas espontâneas»: o dom que se dá sem ser mandado",
+   "versiculos": [
+    39
+   ],
+   "itens": [
+    "jeronimo-in-ez-14-46-12-o-dom-voluntario"
+   ]
+  }
+ ]
+}
