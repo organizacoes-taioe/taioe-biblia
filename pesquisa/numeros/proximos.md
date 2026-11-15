@@ -7,6 +7,8 @@ principal do Gere, só leitura). Não entra aqui o que já está em `numeros/<cc
 
 ## Nm 1–5
 
+- **Nota de «impuro»** (o Gere, 03/11, ao aprovar a nota de Nm 19,7: «depois temos que levar essa nota para a primeira vez que aparecer essa palavra nesse contexto no livro»): quando Nm 5 entrar, a nota «Impuro, na Lei, não quer dizer culpado de pecado…» passa para Nm 5,2 (o impuro por causa de um morto) e sai de Nm 19,7.
+
 - **Nm 1**: o Catecismo da Igreja Católica cita Números só nos caps. 1, 7, 11, 12, 21, 24 e 28 (relatório de Nm 13, modernos); conferir o § do Nm 1 no índice de citações bíblicas.
 - **Nm 2–5**: nada anotado. (Nm 5: ver as *Quaestiones* e as *Locutiones* de Agostinho em `base/`.)
 

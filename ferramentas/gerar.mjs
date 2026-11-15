@@ -139,13 +139,17 @@ function lerCapitulos() {
 
 // O que o leitor vê (o Gere, 26/10: «as notas da bíblia e dos outros livros comentados só
 // apareçam para os usuários na medida em que eu os for confirmando»):
-// - o capítulo, só sem escolha de tradução esperando a resposta dele (`revisao.escolhas`);
+// - o capítulo, só sem escolha de tradução esperando a resposta dele (`revisao.escolhas`),
+//   menos nos livros de TEXTO_ANTES, que vão ao ar com a opção recomendada e mudam conforme
+//   ele decide (o Gere, 15/11, em Números: «Pode colocar os textos prontos no site, e deixar
+//   para atualizá-los na medida em que tomar as decisões de tradução»);
 // - a nota, só aprovada: `revista`, ou o capítulo inteiro `revisado`;
 // - o comentário, só aprovado (`revisto`), e nunca o que voltou com aviso de corte;
 // - o tema, só com o título aprovado e algum comentário aprovado. Desde 31/10 o tema não tem
 //   resumo: só um nome bem descritivo (pedido do Gere).
+const TEXTO_ANTES = new Set(['numeros']);
 function publicavel(c) {
-  if (c.revisao && c.revisao.escolhas && c.revisao.escolhas.length) return null;
+  if (c.revisao && c.revisao.escolhas && c.revisao.escolhas.length && !TEXTO_ANTES.has(c.livro)) return null;
   const comentarios = {};
   for (const [tid, com] of Object.entries(c.comentarios || {})) {
     const temas = [];

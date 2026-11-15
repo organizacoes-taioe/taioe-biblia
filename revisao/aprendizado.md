@@ -72,6 +72,7 @@ de onde veio. Ler antes de preparar um capítulo (`CAPITULO.md`, etapas 2 a 4).
 - Sl 36, Sl 37, Nm 15, Nm 16 e 2Cor 3: todas as escolhas recomendadas aprovadas (*mishkan* =
   «a Morada», *mahtá* = «turíbulo», «a antiga aliança», «contemplando como num espelho»,
   «alimenta-te da fidelidade», «no fundo do seu coração»), e as divisões e os registros. (21 e 24/10)
+- 2026-11-14, Nm 20,13: escolheu «e ele se santificou neles», ao pé da letra, e não a recomendada («manifestou neles a sua santidade», do lecionário): «Embora soe mais estranho, combina com a tradução que usamos no Pai Nosso: santificado seja o vosso Nome». O eco com a oração conta mais que a clareza e que o lecionário.
 - Os versos passam pelo Versificador para soarem melhor, sem perder a fidelidade ao original
   (17/10; `CAPITULO.md`, etapa 3).
 
@@ -119,3 +120,4 @@ de onde veio. Ler antes de preparar um capítulo (`CAPITULO.md`, etapas 2 a 4).
   um trecho em relação a outras Bíblias, a nota curta que diz isso é bem-vinda.
 - 2026-11-01, Nm 18,20 (a nota da herança da tribo de Levi, excluída): «Desnecessário». Como no Sl 33,
   a herança não leva nota: o versículo já diz que Levi não tem parte na terra.
+- 2026-11-03, Nm 19,7 (a nota de «impuro», aprovada): «depois temos que levar essa nota para a primeira vez que aparecer essa palavra nesse contexto no livro». A nota que explica um conceito que volta muitas vezes fica na primeira vez em que ele aparece no livro (anotado em `pesquisa/numeros/proximos.md`, Nm 1–5).
