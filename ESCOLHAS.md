@@ -49,6 +49,7 @@ Vale para pessoas, povos e lugares, também nos comentários dos Padres.
 - Nm 22: Balaão, filho de Beor, como o lecionário (Nm 24,2-7.15-17a, Advento); Balac, filho de Sefor, Petor, Madiã, o Arnon, Cariat-Husot e as alturas de Baal, que a liturgia não lê, como no projeto antigo (Js 24,9; Jz 11,25; Mq 6,5; Ap 2,14 dizem «Balac»).
 - Nm 23: Balaão e Beor, como o lecionário (Nm 24,3.15); Balac, Sefor, Arã, Moab, o Fasga e o Fogor, que a liturgia não lê, como no projeto antigo (o Fasga também em Nm 21).
 - Nm 24: Balaão, Beor, Jacó, Israel e Agag, como o lecionário (Nm 24,2-7.15-17a, Advento); Edom, Seir, Set, Amalec, o queneu, Assur, Quitim e Eber, que a liturgia não lê, como no projeto antigo.
+- Nm 25: Fineias, Zambri e Salu, como o lecionário (1Mc 2,26, quinta-feira da 33ª semana do TC, ano I); Setim, Baal-Fogor e Fogor (como Nm 23,28), Eleazar, Cozbi, Sur, Madiã e os simeonitas, que a liturgia não lê, como no projeto antigo.
 - Gn 3: Eva e Éden, como o lecionário.
 - Gn 4: Adão, Eva, Caim, Abel e Set, como o lecionário; Nod, Henoc, Irad, Maviael, Matusael, Lamec, Ada, Sela, Jabel, Jubal, Tubalcaim e Noema, que a liturgia não lê, como no projeto antigo; *Enosh* = Enós (o projeto antigo dizia «Enos»; Gn 5 muda ao entrar).
 - Gn 2: Éden (como o lecionário); Píson, Havilá, Geon, Tigre, Assíria e Eufrates, que a liturgia não lê, como no projeto antigo; *Kush* = Etiópia (2,13), como em Nm 12.
@@ -245,6 +246,11 @@ Vale para pessoas, povos e lugares, também nos comentários dos Padres.
 | *veqarqar* (Nm 24,17) | e derrubará | o texto hebraico tem o verbo; «o crânio» vem de Jr 48,45 e do Pentateuco samaritano (variante) | Nm 24 |
 | *yeresha* (Nm 24,18) | será a sua conquista / será conquistado | Edom e Seir, «o seu inimigo» (de Israel): a tradução de partida dizia «possuído pelos seus inimigos», que troca o sentido | Nm 24 |
 | *ade oved* | a perdição | Nm 24,20.24: «o seu fim será a perdição», «e também ele irá à perdição» | Nm 24 |
+| *hoqa'* (Nm 25,4) | pendurar | «pendura-os ao sol, diante do Senhor», como a Vulgata («suspende»), que os Padres comentam; o sentido exato do verbo (expor, empalar) é incerto; a tradução de partida dizia «enforca-os» | Nm 25 |
+| *haron af-YHWH* | o ardor da ira do Senhor | Nm 25,4 | Nm 25 |
+| *vatte'atsar hammaggefa* | a praga foi detida | Nm 25,8, como Nm 17,13.15 | Nm 25 |
+| *noten lo et-beriti shalom* | Eis que lhe dou a minha aliança de paz | Nm 25,12; a tradução de partida dizia «faço com ele» | Nm 25 |
+| *tsarar* (Nm 25,17-18) | tratar como inimigos | «Tratai os madianitas como inimigos… porque eles vos trataram como inimigos» | Nm 25 |
 
 ## Inconsistências conhecidas, para corrigir quando o capítulo entrar
 
