@@ -51,6 +51,7 @@ Vale para pessoas, povos e lugares, também nos comentários dos Padres.
 - Nm 24: Balaão, Beor, Jacó, Israel e Agag, como o lecionário (Nm 24,2-7.15-17a, Advento); Edom, Seir, Set, Amalec, o queneu, Assur, Quitim e Eber, que a liturgia não lê, como no projeto antigo.
 - Nm 25: Fineias, Zambri e Salu, como o lecionário (1Mc 2,26, quinta-feira da 33ª semana do TC, ano I); Setim, Baal-Fogor e Fogor (como Nm 23,28), Eleazar, Cozbi, Sur, Madiã e os simeonitas, que a liturgia não lê, como no projeto antigo.
 - Nm 26: os nomes das famílias, que a liturgia não lê, como no projeto antigo; Josué, filho de Num, como no Nm 14.
+- Nm 27: Salfaad, Hefer, Galaad, Maquir, Maala, Noa, Hegla, Melca e Tersa, os montes Abarim, Sin, Cades e Meriba (sem acento, como Nm 20), como no projeto antigo e no Nm 20; Josué, filho de Num.
 - Gn 3: Eva e Éden, como o lecionário.
 - Gn 4: Adão, Eva, Caim, Abel e Set, como o lecionário; Nod, Henoc, Irad, Maviael, Matusael, Lamec, Ada, Sela, Jabel, Jubal, Tubalcaim e Noema, que a liturgia não lê, como no projeto antigo; *Enosh* = Enós (o projeto antigo dizia «Enos»; Gn 5 muda ao entrar).
 - Gn 2: Éden (como o lecionário); Píson, Havilá, Geon, Tigre, Assíria e Eufrates, que a liturgia não lê, como no projeto antigo; *Kush* = Etiópia (2,13), como em Nm 12.
@@ -254,6 +255,9 @@ Vale para pessoas, povos e lugares, também nos comentários dos Padres.
 | *tsarar* (Nm 25,17-18) | tratar como inimigos | «Tratai os madianitas como inimigos… porque eles vos trataram como inimigos» | Nm 25 |
 | *hitsu* (Nm 26,9) | lutar contra | Datã e Abiram «lutaram contra Moisés e Aarão… quando lutaram contra o Senhor»; não «contender», que é *riv* | Nm 26 |
 | *zakhar* (contagem) | homem | Nm 26,62 «todos os homens de um mês para cima»; a tradução de partida dizia «varões» | Nm 26 |
+| *hod* (Nm 27,20) | majestade | «Porás sobre ele parte da tua majestade»; a tradução de partida dizia «autoridade» (interpretação); a Vulgata «de gloria tua» | Nm 27 |
+| *mishpat ha'urim* | a decisão do Urim | Nm 27,21 | Nm 27 |
+| *yifqod* (Nm 27,16) | designar | «designe um homem à frente desta comunidade» | Nm 27 |
 
 ## Inconsistências conhecidas, para corrigir quando o capítulo entrar
 

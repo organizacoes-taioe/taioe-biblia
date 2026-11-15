@@ -1,0 +1,45 @@
+{
+ "livro": "numeros",
+ "cap": 27,
+ "estado": "em revisão",
+ "atualizado": "2026-11-15",
+ "trechos": [
+  {"id": "1", "titulo": "As filhas de Salfaad", "de": 1},
+  {"id": "2", "titulo": "Moisés vê a terra", "de": 12},
+  {"id": "3", "titulo": "Josué designado", "de": 15}
+ ],
+ "texto": [
+  {"s": "As filhas de Salfaad"},
+  {"v": 1, "t": "Aproximaram-se as filhas de Salfaad, filho de Hefer, filho de Galaad, filho de Maquir, filho de Manassés, das famílias de Manassés, filho de José; os nomes delas são Maala, Noa, Hegla, Melca e Tersa."},
+  {"v": 2, "t": "Apresentaram-se diante de Moisés, do sacerdote Eleazar, dos chefes e de toda a comunidade, à entrada da tenda do encontro, e disseram:"},
+  {"v": 3, "t": "Nosso pai morreu no deserto; ele não estava no grupo dos que se reuniram contra o Senhor, no grupo de Coré, mas morreu pelo seu próprio pecado, e não teve filhos."},
+  {"v": 4, "t": "Por que há de desaparecer o nome do nosso pai da sua família, por não ter filho? Dá-nos uma propriedade entre os irmãos de nosso pai."},
+  {"v": 5, "t": "Moisés levou a causa delas diante do Senhor."},
+  {"v": 6, "t": "O Senhor disse a Moisés:"},
+  {"v": 7, "t": "As filhas de Salfaad falam com razão: dá-lhes uma propriedade hereditária entre os irmãos de seu pai, e passa a elas a herança de seu pai."},
+  {"v": 8, "t": "Aos filhos de Israel dirás: Quando um homem morrer sem deixar filho, passareis a sua herança à sua filha.", "np": 1},
+  {"v": 9, "t": "Se não tiver filha, dareis a herança aos seus irmãos."},
+  {"v": 10, "t": "Se não tiver irmãos, dareis a herança aos irmãos de seu pai."},
+  {"v": 11, "t": "Se seu pai não tiver irmãos, dareis a herança ao parente mais próximo da sua família, e ele a possuirá. Isto será para os filhos de Israel preceito de direito, como o Senhor ordenou a Moisés."},
+  {"s": "Moisés vê a terra"},
+  {"v": 12, "t": "O Senhor disse a Moisés: Sobe a este monte Abarim e contempla a terra que dei aos filhos de Israel."},
+  {"v": 13, "t": "Depois de a veres, também tu serás reunido ao teu povo, como foi Aarão, teu irmão,"},
+  {"v": 14, "t": "porque, no deserto de Sin, na contenda da comunidade, fostes rebeldes à minha ordem, quando devíeis santificar-me pela água aos olhos deles. São as águas de Meriba de Cades, no deserto de Sin."},
+  {"s": "Josué designado"},
+  {"v": 15, "t": "Moisés disse ao Senhor:"},
+  {"v": 16, "t": "Que o Senhor, Deus dos espíritos de toda carne, designe um homem à frente desta comunidade,"},
+  {"v": 17, "t": "que saia e entre diante deles, que os faça sair e entrar, para que a comunidade do Senhor não seja como ovelhas sem pastor."},
+  {"v": 18, "t": "O Senhor disse a Moisés: Toma Josué, filho de Num, homem em quem está o espírito, e impõe-lhe a mão."},
+  {"v": 19, "t": "Apresenta-o ao sacerdote Eleazar e a toda a comunidade, e dá-lhe as tuas ordens à vista deles."},
+  {"v": 20, "t": "Porás sobre ele parte da tua majestade, para que toda a comunidade dos filhos de Israel lhe obedeça."},
+  {"v": 21, "t": "Ele se apresentará diante do sacerdote Eleazar, que consultará por ele a decisão do Urim diante do Senhor; por ordem dele sairão e entrarão, ele e todos os filhos de Israel com ele, toda a comunidade."},
+  {"v": 22, "t": "Moisés fez como o Senhor lhe ordenara: tomou Josué e o apresentou ao sacerdote Eleazar e a toda a comunidade;"},
+  {"v": 23, "t": "impôs-lhe as mãos e deu-lhe ordens, como o Senhor falara por meio de Moisés."}
+ ],
+ "notas": [
+  {"id": "n01", "v": 12, "apos": "Abarim", "texto": "Os montes Abarim ficam a leste do mar Morto; deles faz parte o monte Nebo, de onde Moisés verá a terra antes de morrer (Dt 32,49; 34,1).", "origem": "nova: lugar pouco conhecido; saíram do projeto antigo as notas do v. 5 (os quatro casos da Lei: análise), do v. 16 (interpretação), do v. 17 (as ovelhas sem pastor nos Evangelhos: associação) e do v. 20 (interpretação)"},
+  {"id": "n02", "v": 14, "apos": "Sin", "texto": "O episódio está em 20,1-13.", "origem": "nova: situa a referência (o Gere gosta das notas que situam o leitor, Nm 14,17)"},
+  {"id": "n03", "v": 21, "apos": "Urim", "texto": "O Urim, com o Tumim, era o meio que o sumo sacerdote tinha para consultar a Deus sobre uma decisão (Ex 28,30).", "origem": "nova: objeto do culto que o leitor não conhece"}
+ ],
+ "comentarios": {}
+}
