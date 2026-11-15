@@ -1,0 +1,67 @@
+{
+ "livro": "numeros",
+ "cap": 24,
+ "estado": "em revisão",
+ "atualizado": "2026-11-15",
+ "trechos": [
+  {"id": "1", "titulo": "O terceiro oráculo", "de": 1},
+  {"id": "2", "titulo": "A ira de Balac", "de": 10},
+  {"id": "3", "titulo": "O quarto oráculo", "de": 15},
+  {"id": "4", "titulo": "Os oráculos finais", "de": 20}
+ ],
+ "texto": [
+  {"s": "O terceiro oráculo"},
+  {"v": 1, "t": "Balaão viu que agradava ao Senhor abençoar Israel, e não foi, como das outras vezes, ao encontro dos agouros, mas voltou o rosto para o deserto."},
+  {"v": 2, "t": "Balaão levantou os olhos e viu Israel acampado por tribos; e o espírito de Deus veio sobre ele."},
+  {"v": 3, "l": ["Pronunciou o seu poema e disse:", "Oráculo de Balaão, filho de Beor,", "oráculo do homem de olhos abertos;"]},
+  {"v": 4, "l": ["oráculo do que ouve as palavras de Deus,", "do que vê a visão do Todo-Poderoso,", "do que cai e tem os olhos descobertos:"]},
+  {"v": 5, "l": ["Como são belas as tuas tendas, ó Jacó,", "as tuas moradas, ó Israel!"]},
+  {"v": 6, "l": ["Como vales que se estendem,", "como jardins junto ao rio,", "como aloés que o Senhor plantou,", "como cedros à beira das águas."]},
+  {"v": 7, "l": ["A água correrá dos seus cântaros,", "e a sua semente terá águas abundantes.", "O seu rei será mais alto que Agag,", "e o seu reino será exaltado."]},
+  {"v": 8, "l": ["Deus o tirou do Egito;", "a sua força é como a do touro selvagem.", "Devorará as nações inimigas,", "quebrará os ossos delas", "e as trespassará com as suas flechas."]},
+  {"v": 9, "l": ["Agachou-se, deitou-se como um leão,", "como uma leoa: quem o fará levantar-se?", "Bendito quem te abençoa,", "e maldito quem te amaldiçoa!"]},
+  {"s": "A ira de Balac"},
+  {"v": 10, "t": "A ira de Balac se acendeu contra Balaão; ele bateu as mãos e disse a Balaão: Chamei-te para amaldiçoar os meus inimigos, e eis que não fizeste senão abençoá-los, já três vezes."},
+  {"v": 11, "t": "Agora, foge para o teu lugar. Eu disse que te encheria de honras; mas eis que o Senhor te privou da honra."},
+  {"v": 12, "t": "Balaão respondeu a Balac: Não disse eu também aos mensageiros que me enviaste:"},
+  {"v": 13, "t": "Ainda que Balac me desse a sua casa cheia de prata e de ouro, eu não poderia transgredir a ordem do Senhor, para fazer por mim mesmo nem bem nem mal; o que o Senhor disser, isso direi?"},
+  {"v": 14, "t": "Agora, eis que vou para o meu povo. Vem, e eu te advertirei do que este povo fará ao teu povo nos últimos dias."},
+  {"s": "O quarto oráculo"},
+  {"v": 15, "l": ["Pronunciou o seu poema e disse:", "Oráculo de Balaão, filho de Beor,", "oráculo do homem de olhos abertos;"]},
+  {"v": 16, "l": ["oráculo do que ouve as palavras de Deus", "e conhece o saber do Altíssimo,", "do que vê a visão do Todo-Poderoso,", "do que cai e tem os olhos descobertos:"]},
+  {"v": 17, "l": ["Eu o vejo, mas não agora;", "eu o contemplo, mas não de perto:", "uma estrela sai de Jacó,", "e um cetro se levanta de Israel;", "ele ferirá as têmporas de Moab", "e derrubará todos os filhos de Set."]},
+  {"v": 18, "l": ["Edom será a sua conquista,", "Seir, o seu inimigo, será conquistado;", "e Israel agirá com valentia."]},
+  {"v": 19, "l": ["De Jacó virá o dominador", "e destruirá os que restarem da cidade."]},
+  {"s": "Os oráculos finais"},
+  {"v": 20, "l": ["Viu Amalec, pronunciou o seu poema e disse:", "Amalec é a primeira das nações,", "mas o seu fim será a perdição."]},
+  {"v": 21, "l": ["Viu o queneu, pronunciou o seu poema e disse:", "Firme é a tua morada,", "e o teu ninho está posto na rocha;"]},
+  {"v": 22, "l": ["contudo o queneu será devastado.", "Até quando? Assur te levará cativo."]},
+  {"v": 23, "l": ["Pronunciou ainda o seu poema e disse:", "Ai! Quem viverá, quando Deus fizer isto?"]},
+  {"v": 24, "l": ["Virão navios da costa de Quitim,", "humilharão Assur, humilharão Eber,", "e também ele irá à perdição."]},
+  {"v": 25, "t": "Balaão levantou-se, partiu e voltou para o seu lugar; e Balac também se foi pelo seu caminho."}
+ ],
+ "notas": [
+  {"id": "n01", "v": 7, "apos": "Agag", "texto": "Agag era o nome dos reis de Amalec; um deles foi vencido por Saul, o primeiro rei de Israel (1Sm 15).", "origem": "nova: lembra quem é Agag; saíram do projeto antigo a nota do v. 3 (o olho aberto ou fechado: língua e variante) e a do v. 5 (o verso na oração da sinagoga: liturgia judaica, não a da Missa)"},
+  {"id": "n02", "v": 17, "apos": "Israel", "texto": "A Missa lê este oráculo (vv. 2-7.15-17) no Advento, na segunda-feira da terceira semana, como anúncio de Cristo.", "origem": "revista do projeto antigo: ficou a liturgia da Missa; saiu Bar Kokba (história fora do texto) e a leitura messiânica, que os comentários tratam"},
+  {"id": "n03", "v": 20, "apos": "nações", "texto": "Amalec, povo do deserto do sul, foi o primeiro a atacar Israel depois da saída do Egito (Ex 17,8-16).", "origem": "nova: sem ela o leitor não entende «a primeira das nações»; saiu do projeto antigo a nota do v. 9 (a bênção de Abraão: associação com outro texto)"},
+  {"id": "n04", "v": 21, "apos": "queneu", "texto": "Os queneus eram um povo nômade do sul de Canaã, aparentado com a família do sogro de Moisés (Jz 1,16).", "origem": "nova: povo pouco conhecido"},
+  {"id": "n05", "v": 22, "apos": "Assur", "texto": "Assur é a Assíria, o grande império da Mesopotâmia, que séculos depois levaria cativos muitos povos, Israel entre eles.", "origem": "nova: o leitor de hoje não sabe que Assur é a Assíria"},
+  {"id": "n06", "v": 24, "apos": "Quitim", "texto": "Quitim é Chipre e, por extensão, as ilhas e as costas do Mediterrâneo, a oeste.", "origem": "revista do projeto antigo: saiu «o último oráculo alarga-se…» (interpretação)"}
+ ],
+ "comentarios": {},
+ "revisao": {
+  "escolhas": [
+   {
+    "id": "todo-poderoso",
+    "ref": "Nm 24,4.16",
+    "titulo": "*Shadday*: «o Todo-Poderoso», «o Onipotente» ou «o Poderoso»?",
+    "contexto": "*Shadday*, nome antigo de Deus, aparece aqui pela primeira vez na Bíblia Taioé e volta 48 vezes (Gn 17,1 «Eu sou o Deus *Shadday*», Ex 6,3, Rute, Jó, Salmos). A tradução de partida dizia «o Todo-Poderoso» no Gênesis e «o Onipotente» aqui; a Vulgata diz «Omnipotens», a Bíblia grega «o Deus», o lecionário desta leitura (Advento) diz «o Poderoso». O sentido exato do nome é incerto; a tradição o lê como o Deus que tudo pode. A escolha vale para a Bíblia inteira.",
+    "opcoes": [
+     {"id": "a", "texto": "«o Todo-Poderoso» («do que vê a visão do Todo-Poderoso»)", "nota": "A forma mais conhecida em português, como o Credo («Deus Pai todo-poderoso»), e a do Gênesis na tradução de partida.", "recomendada": true},
+     {"id": "b", "texto": "«o Onipotente»", "nota": "Ao pé da letra da Vulgata; mais erudita."},
+     {"id": "c", "texto": "«o Poderoso», como o lecionário", "nota": "Igual à leitura da Missa no Advento, mas fraco: qualquer rei é poderoso."}
+    ]
+   }
+  ]
+ }
+}
