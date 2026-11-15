@@ -1,0 +1,185 @@
+{
+ "1": [
+  {
+   "id": "espirito",
+   "titulo": "O espírito de Deus sobre o adivinho que deixou os agouros",
+   "versiculos": [
+    1,
+    2,
+    3
+   ],
+   "itens": [
+    "teodoreto-quaest-num-44-o-espirito-sobre-balaao",
+    "origenes-selecta-num-24-3-5-o-balaao-de-agora"
+   ]
+  },
+  {
+   "id": "olhos",
+   "titulo": "«Do que cai e tem os olhos descobertos»: saber o bem e não vivê-lo",
+   "versiculos": [
+    3,
+    4,
+    15,
+    16
+   ],
+   "itens": [
+    "gregorio-moralia-27-59-cai-com-os-olhos-abertos",
+    "origenes-hnum17-3-fechar-os-olhos-ao-mal",
+    "lourenco-q2-cinzas-ver-o-melhor-e-escolher-o-ouro",
+    "antonio-s23-dom3-pent-o-pregador-que-sabe-e-nao-vive"
+   ]
+  },
+  {
+   "id": "tendas",
+   "titulo": "«Como são belas as tuas tendas»: o povo que vive a caminho",
+   "versiculos": [
+    5,
+    6
+   ],
+   "itens": [
+    "origenes-hnum17-4-as-tendas-de-quem-caminha",
+    "bossuet-unidade-igreja-tendas-no-deserto"
+   ]
+  },
+  {
+   "id": "egito",
+   "titulo": "«Deus o tirou do Egito»: Cristo, senhor das nações",
+   "versiculos": [
+    7,
+    8
+   ],
+   "itens": [
+    "eusebio-dem-ev-9-3-do-egito-e-um-so-senhor-das-nacoes",
+    "origenes-selecta-num-24-8-cristo-nos-come"
+   ]
+  },
+  {
+   "id": "leao",
+   "titulo": "O leão que se deita, e «bendito quem te abençoa»",
+   "versiculos": [
+    9
+   ],
+   "itens": [
+    "basilio-in-sanctam-christi-gen-leao-e-os-tres-presentes",
+    "origenes-hnum17-6-quem-bendiz-a-cristo-com-a-vida"
+   ]
+  }
+ ],
+ "2": [
+  {
+   "id": "ouro",
+   "titulo": "«A sua casa cheia de prata e de ouro»: a palavra que não se compra",
+   "versiculos": [
+    10,
+    11,
+    12,
+    13
+   ],
+   "itens": [
+    "origenes-hnum18-1-o-sacerdote-nao-se-compra",
+    "cirilo-de-adoratione-440-o-adivinho-so-diz-a-verdade-forcado",
+    "newman-dmc-8-balaao-palavras-sem-vida-casa-de-prata"
+   ]
+  },
+  {
+   "id": "ultimos-dias",
+   "titulo": "«O que este povo fará ao teu povo nos últimos dias»",
+   "versiculos": [
+    14
+   ],
+   "itens": [
+    "origenes-hnum18-2-o-conselho-que-balaao-da",
+    "procopio-in-num-24-14-os-ultimos-dias-de-todos"
+   ]
+  }
+ ],
+ "3": [
+  {
+   "id": "nao-agora",
+   "titulo": "«Eu o vejo, mas não agora»: a profecia que se cumpre no Natal",
+   "versiculos": [
+    17
+   ],
+   "itens": [
+    "efrem-natividade-1-5-a-profecia-de-balaao-explicada-hoje",
+    "efrem-in-num-24-17-a-estrela-e-cristo-tipo-zorobabel"
+   ]
+  },
+  {
+   "id": "estrela",
+   "titulo": "«Uma estrela sai de Jacó»: a estrela é Cristo",
+   "versiculos": [
+    17
+   ],
+   "itens": [
+    "eusebio-dem-ev-9-1-15-a-estrela-e-o-homem",
+    "romano-melodista-kontakion-natal-1-estrela-apaga-oraculos",
+    "liturgia-matinas-adv3-orietur-stella-responsorio",
+    "bernardo-missus-est-2-17-olha-a-estrela-invoca-maria"
+   ]
+  },
+  {
+   "id": "magos",
+   "titulo": "Os magos, herdeiros da profecia de Balaão",
+   "versiculos": [
+    17
+   ],
+   "itens": [
+    "origenes-contra-celso-1-59-60-o-cometa-e-a-estrela",
+    "ambrosio-in-luc-2-48-os-magos-herdeiros-de-balaao",
+    "jaco-sarug-estrela-os-magos-acharam-a-profecia-de-balaao",
+    "cic-528-a-estrela-de-davi-e-o-rei-das-nacoes"
+   ]
+  },
+  {
+   "id": "estrangeiro",
+   "titulo": "Por que a estrela foi anunciada por um estrangeiro",
+   "versiculos": [
+    17
+   ],
+   "itens": [
+    "maximo-hom26-por-que-um-pagao-anunciou-a-estrela",
+    "efrem-natividade-24-20-estrangeiro-disse-estrangeiros-viram",
+    "efrem-natividade-24-4-os-escribas-liam-os-magos-viam"
+   ]
+  }
+ ],
+ "4": [
+  {
+   "id": "amalec",
+   "titulo": "«Amalec, a primeira das nações»: o inimigo que ataca os cansados",
+   "versiculos": [
+    20
+   ],
+   "itens": [
+    "origenes-hnum19-1-amalec-corta-a-cauda",
+    "efrem-in-num-24-20-amalec-o-primeiro-a-atacar-e-antioco"
+   ]
+  },
+  {
+   "id": "ninho",
+   "titulo": "«O teu ninho está posto na rocha»: a casa firme",
+   "versiculos": [
+    21,
+    22
+   ],
+   "itens": [
+    "antonio-s67-cadeira-pedro-o-ninho-na-rocha",
+    "afraates-dem-14-11-os-queneus-o-ninho-na-rocha-jael"
+   ]
+  },
+  {
+   "id": "quitim",
+   "titulo": "«Quem viverá?»: os navios de Quitim e o fim dos impérios",
+   "versiculos": [
+    23,
+    24
+   ],
+   "itens": [
+    "teodoreto-quaest-num-44-os-navios-de-quitim",
+    "origenes-hnum19-4-quem-vivera-quando-deus-fizer-isto",
+    "lourenco-adv-4-domingo-a-estrela-e-as-trirremes-da-italia"
+   ]
+  }
+ ]
+}

@@ -33,7 +33,10 @@ node ferramentas/importar.mjs <livro> <capítulo>      # ex.: salmos 34
 - O que tiver solução menos óbvia vira **escolha** em `revisao.escolhas`: título, referência,
   contexto curto (o que diz o original, como está no resto, o que os Padres leem), duas ou três
   opções, **uma** recomendada. O texto leva a recomendada; se o Gere escolher outra, troca-se. O
-  capítulo com escolha pendente fica fora do site até ele responder todas (26/10; `gerar.mjs`, `publicavel`).
+  capítulo com escolha pendente fica fora do site até ele responder todas (26/10; `gerar.mjs`, `publicavel`),
+  menos em Números, onde o texto vai ao ar com a recomendada e muda conforme ele decide (o Gere, 15/11:
+  «Pode colocar os textos prontos no site, e deixar para atualizá-los na medida em que tomar as decisões
+  de tradução»; `TEXTO_ANTES` no `gerar.mjs`). Ali o texto pode ir num PR antes dos comentários.
 - **Uma decisão por escolha** (o Gere, 24/10: «me mostre apenas questões pontuais, para eu decidir
   uma única coisa em cada pendência»): uma pergunta só, que ele responda escolhendo uma opção.
 - O que vale para a Bíblia inteira e tem alternativa de verdade vira escolha; o resto (correções
@@ -196,7 +199,8 @@ node ferramentas/revisao.mjs       # ../infra/dados/paginas/biblia.json e biblia
   escolhas de tradução e as notas (aprovar, alterar, excluir, com a explicação); cada resposta grava
   sozinha, no clique ou ao parar de digitar. Sem texto explicativo nem pergunta geral (19/10). A
   página põe no fim da fila o que ele já respondeu e o Claude ainda não aplicou (24/10).
-- **Só o aprovado vai ao site** (o Gere, 26/10): o capítulo, sem escolha pendente; a nota, com
+- **Só o aprovado vai ao site** (o Gere, 26/10): o capítulo, sem escolha pendente (em Números, mesmo com
+  ela, desde 15/11); a nota, com
   `revista` (ou no capítulo revisado); o comentário, com `revisto` e sem `aviso_corte`; o tema, com o
   nome aprovado e algum comentário aprovado. O merge vai normalmente: o
   `gerar.mjs` esconde o resto. Nota nova num capítulo revisado: o capítulo volta a «em revisão».
