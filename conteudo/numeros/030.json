@@ -1,0 +1,33 @@
+{
+ "livro": "numeros",
+ "cap": 30,
+ "estado": "revisado",
+ "atualizado": "2026-11-15",
+ "trechos": [
+  {"id": "1", "titulo": "Os votos", "de": 1},
+  {"id": "2", "titulo": "O voto da mulher", "de": 4}
+ ],
+ "texto": [
+  {"s": "Os votos"},
+  {"v": 1, "t": "Moisés disse aos filhos de Israel tudo o que o Senhor lhe ordenara."},
+  {"v": 2, "t": "Moisés falou aos chefes das tribos dos filhos de Israel, dizendo: Isto é o que o Senhor ordenou:"},
+  {"v": 3, "t": "Quando um homem fizer um voto ao Senhor, ou jurar, impondo a si mesmo uma obrigação, não profanará a sua palavra: fará conforme tudo o que saiu da sua boca."},
+  {"s": "O voto da mulher"},
+  {"v": 4, "t": "Quando uma mulher, na sua juventude, ainda em casa de seu pai, fizer voto ao Senhor ou se obrigar,"},
+  {"v": 5, "t": "e seu pai souber do voto e da obrigação com que se ligou, e se calar, valerão todos os seus votos e todas as obrigações com que se ligou."},
+  {"v": 6, "t": "Mas, se seu pai, no dia em que souber, a contradisser, não valerão os seus votos nem as obrigações com que se ligou; e o Senhor a perdoará, porque seu pai a contradisse."},
+  {"v": 7, "t": "Se for casada e tiver sobre si votos, ou palavra saída dos seus lábios com que se obrigou,", "np": 1},
+  {"v": 8, "t": "e seu marido souber e se calar no dia em que souber, valerão os seus votos e as obrigações com que se ligou."},
+  {"v": 9, "t": "Mas, se no dia em que souber ele a contradisser, anulará o voto que ela tinha sobre si e a palavra irrefletida com que se obrigou; e o Senhor a perdoará."},
+  {"v": 10, "t": "O voto da viúva e da repudiada, tudo aquilo com que se obrigaram, valerá sobre elas."},
+  {"v": 11, "t": "Se ela fez voto em casa do marido, ou se obrigou com juramento,", "np": 1},
+  {"v": 12, "t": "e o marido soube e se calou, sem a contradizer, valerão todos os seus votos e todas as obrigações com que se ligou."},
+  {"v": 13, "t": "Mas, se o marido os anulou no dia em que os soube, não valerá nada do que saiu dos seus lábios, quanto aos votos e às obrigações; o marido os anulou, e o Senhor a perdoará."},
+  {"v": 14, "t": "Todo voto e todo juramento que a obrigue a afligir-se, o marido pode confirmá-lo ou anulá-lo."},
+  {"v": 15, "t": "Se o marido se calar de um dia para outro, confirma todos os votos e todas as obrigações que ela tem sobre si: confirma-os por se ter calado no dia em que os soube."},
+  {"v": 16, "t": "Mas, se os anular depois de os ter sabido, carregará ele a iniquidade dela."},
+  {"v": 17, "t": "Estas são as leis que o Senhor ordenou a Moisés, entre o marido e a mulher, entre o pai e a filha, que na sua juventude está ainda em casa de seu pai."}
+ ],
+ "notas": [],
+ "comentarios": {}
+}
