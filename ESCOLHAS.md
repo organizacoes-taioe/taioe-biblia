@@ -262,6 +262,9 @@ Vale para pessoas, povos e lugares, também nos comentários dos Padres.
 | *miqra-qodesh* | santa convocação | Nm 28,18.25.26; 29,1.7.12; *qahal* fica «assembleia»; a tradução de partida dizia «santa assembleia»; Lv 23 muda ao entrar | Nm 28 |
 | *ben ha'arbayim* | ao entardecer | Nm 28,4.8 | projeto antigo |
 | *bemo'ado* (Nm 28,2) | no tempo marcado | | Nm 28 |
+| *'atseret* (Nm 29,35) | reunião solene | o oitavo dia da festa das Tendas; *qahal* fica «assembleia»; a tradução de partida dizia «assembleia solene» | Nm 29 |
+| *ve'innitem et-nafshotekhem* | vos afligireis | Nm 29,7 (*nefesh*, opção C: aqui é a própria pessoa, não o interior); a tradução de partida dizia «afligireis as vossas almas»; Lv 16 e 23 mudam ao entrarem | Nm 29 |
+| *zevah shelamim* | sacrifício de comunhão | Nm 29,39, como Nm 15 | Nm 15 |
 
 ## Inconsistências conhecidas, para corrigir quando o capítulo entrar
 
