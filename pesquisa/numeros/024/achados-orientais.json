@@ -1,0 +1,228 @@
+[
+ {
+  "autor": "Santo Efrém, o Sírio",
+  "autor_id": "efrem",
+  "datas": "c. 306–373",
+  "titulo_autor": "diácono de Edessa, Doutor da Igreja",
+  "id": "efrem-natividade-24-4-os-escribas-liam-os-magos-viam",
+  "obra": "Hinos sobre a Natividade, 24 (ܡܕܪܫܐ ܕܥܠ ܡܘܠܕܐ)",
+  "passagem": "Hinos sobre a Natividade 24, estrofe 4",
+  "edicao": "Texto do Digital Syriac Corpus (n.º 572), da edição de E. Beck (CSCO 186, 1959), só a estrofe; conferido com a tradução latina de Lamy, Sancti Ephraem Syri Hymni et sermones II (Malinas 1886), col. 475–476, estr. 4, que traz à margem «Num. XXIV». Pulou-se o 2º verso da estrofe (a voz e a «leitura» ao povo, o despontar e a explicação às nações), de leitura incerta. O hino 24 é o dos magos.",
+  "trecho": "3",
+  "versiculos": [
+   17
+  ],
+  "lingua": "syr",
+  "original": "ܣܦܪܐ ܩܪܝܢ ܗܘܘ ܟܠ ܝܘܡ ܕܟܘܟܒܐ ܕܢܚ ܡܢ ܝܥܩܘܒ [...] ܠܗܘܢ ܣܦܪܐ ܘܠܢ ܣܘܥܪܢܐ ܠܗܘܢ ܣܘܟܐ ܘܠܢ ܦܐܪܝܗܝܢ ܣܦܪܐ ܩܪܝܢ ܒܟܬܒܐ ܡܓܘܫܐ ܚܙܝܢ ܒܥܒܕܐ ܙܠܝܩܐ ܕܗܘ ܩܪܝܢܐ ܒܪܝܟ ܕܐܘܣܦ ܠܢ ܣܦܪܝܗܘܢ",
+  "fonte_url": "https://syriaccorpus.org/572",
+  "traducao_pt": "Os escribas liam todos os dias que uma estrela despontaria de Jacó. [...] Para eles os livros, e para nós as realizações; para eles os ramos, e para nós os frutos. Os escribas liam nos escritos; os magos viam nas obras o raio daquela leitura. Bendito quem acrescentou aos nossos os livros deles!",
+  "temas": [
+   "a estrela de Jacó, escrita e vista",
+   "os que leem e os que veem"
+  ],
+  "resumo": "Os escribas de Israel liam toda manhã que uma estrela despontaria de Jacó; os magos a viram acontecer: para uns, os livros; para os outros, os frutos.",
+  "relevancia": 3,
+  "direitos": "domínio público (texto siríaco antigo; edição digital CC BY 4.0 do Digital Syriac Corpus, citada)"
+ },
+ {
+  "autor": "Santo Efrém, o Sírio",
+  "autor_id": "efrem",
+  "datas": "c. 306–373",
+  "titulo_autor": "diácono de Edessa, Doutor da Igreja",
+  "id": "efrem-natividade-24-20-estrangeiro-disse-estrangeiros-viram",
+  "obra": "Hinos sobre a Natividade, 24 (ܡܕܪܫܐ ܕܥܠ ܡܘܠܕܐ)",
+  "passagem": "Hinos sobre a Natividade 24, estrofe 20",
+  "edicao": "Texto do Digital Syriac Corpus (n.º 572), da edição de E. Beck (CSCO 186, 1959), só a estrofe; conferido com a tradução latina de Lamy, Hymni et sermones II (1886), col. 481–482 (ao pé, «Num. XXIV»: «Extraneus est qui de illo Oriente vaticinatus est, extranei qui illum viderunt»). A palavra do 4º verso, ܒܕܩ, Lamy a verte por «vaticinatus est»; seguimos o sentido dele.",
+  "trecho": "3",
+  "versiculos": [
+   17
+  ],
+  "lingua": "syr",
+  "original": "ܟܘܟܒܐ ܕܟܬܝܒ ܒܟܬܒܐ ܚܙܐܘܗܝ ܥܡܡܐ ܪܚܝܩܐ ܕܢܒܗܬ ܥܡܐ ܩܪܝܒܐ ܐܘ ܠܥܡܐ ܕܡܠܦ ܘܚܬܝܪ ܕܡܢ ܥܡܐ ܗܦܟ ܝܠܦ ܗܘܐ ܕܐܝܟܢܐ ܘܐܝܟܐ ܚܙܐܘܗܝ ܠܗܘ ܕܢܚܐ ܕܐܡܪ ܒܠܥܡ ܢܘܟܪܝܐ ܗܘ ܕܥܠܘܗܝ ܒܕܩ ܢܘܟܪܝܐ ܐܢܘܢ ܕܚܙܐܘܗܝ ܒܪܝܟ ܗܘ ܕܐܛܢ ܒܝܬܝܐ",
+  "fonte_url": "https://syriaccorpus.org/572",
+  "traducao_pt": "A estrela escrita no livro, viram-na povos distantes, para que se envergonhasse o povo próximo. Ó povo que ensina e se orgulha, que teve de aprender de novo, de outras nações, como e onde a viram: aquela estrela de que Balaão falou! Estrangeiro foi quem falou dela; estrangeiros, os que a viram. Bendito quem provocou os de casa ao zelo!",
+  "temas": [
+   "a estrela de Jacó, escrita e vista",
+   "um profeta estrangeiro, magos estrangeiros"
+  ],
+  "resumo": "A estrela escrita no livro de Israel foi anunciada por um estrangeiro, Balaão, e vista por estrangeiros, os magos, para despertar os de casa.",
+  "relevancia": 3,
+  "direitos": "domínio público (texto siríaco antigo; edição digital CC BY 4.0 do Digital Syriac Corpus, citada)"
+ },
+ {
+  "autor": "Santo Efrém, o Sírio",
+  "autor_id": "efrem",
+  "datas": "c. 306–373",
+  "titulo_autor": "diácono de Edessa, Doutor da Igreja",
+  "id": "efrem-natividade-1-5-a-profecia-de-balaao-explicada-hoje",
+  "obra": "Hinos sobre a Natividade, 1 (ܡܕܪܫܐ ܕܥܠ ܡܘܠܕܐ)",
+  "passagem": "Hinos sobre a Natividade 1, estrofes 4–6",
+  "edicao": "Texto vocalizado do Digital Syriac Corpus (n.º 549), da edição de E. Beck (CSCO 186, 1959), só as três estrofes. A edição de Beck é moderna (por isso só as três estrofes); edições antigas para conferir: Lamy (1886) e Assemani (Roma 1740). Não conferido na imagem.",
+  "trecho": "3",
+  "versiculos": [
+   17
+  ],
+  "lingua": "syr",
+  "original": "ܡܶܠܬܳܐ ܕܡܰܠܶܠ ܗܘܳܐ ܡܺܝܟܳܐ ܝܰܘܡܳܢܳܐ ܗܘܳܬ ܒܰܥܒܳܕܳܐ ܕܪܳܥܝܳܐ ܢܦܰܩ ܡܶܢ ܐܳܦܰܪܬܳܐ ܘܰܪܥܳܐ ܚܽܘܛܪܶܗ ܢܰܦܫ̈ܳܬܳܐ ܗܳܐ ܕܚܰܕ ܟܰܘܟܒܳܐ ܡܶܢ ܝܰܥܩܽܘܒ ܘܩܳܡ ܪܺܫܳܐ ܡܶܢ ܐܺܝܣܪܳܐܶܝܠ ܢܺܒܝܽܘܬܳܐ ܕܡܰܠܶܠ ܒܶܠܥܰܡ ܝܰܘܡܳܢܳܐ ܗܘܳܐ ܦܽܘܫܳܩܳܗܿ ܢܚܶܬ ܗܘܳܐ ܬܽܘܒ ܢܽܘܗܪܳܐ ܟܰܣܝܳܐ ܘܰܕܢܰܚ ܫܽܘܦܪܶܗ ܡܶܢ ܦܰܓܪܳܐ ܕܶܢܚܳܐ ܕܐܰܡܺܝܪ ܒܰܙܟܰܪܝܳܐ ܝܰܘܡܳܢ ܐܰܙܠܶܓ ܒܶܝܬ ܠܚܶܡ",
+  "fonte_url": "https://syriaccorpus.org/549",
+  "traducao_pt": "A palavra que Miqueias dizia, hoje se tornou obra: o Pastor saiu de Efrata, e com o seu cajado apascentou as almas. Eis que uma estrela de Jacó, e um chefe se ergueu de Israel! A profecia que Balaão disse, hoje foi a sua explicação. De novo desceu a luz escondida, e a sua beleza resplandeceu do corpo: a Aurora de que falou Zacarias, hoje fez raiar em Belém.",
+  "temas": [
+   "a estrela de Jacó, escrita e vista",
+   "Miqueias, Balaão e Zacarias: uma só profecia"
+  ],
+  "resumo": "No dia do Natal, as profecias de Miqueias, de Balaão e de Zacarias deixam de ser palavra e se tornam fato: o nascimento é a explicação da estrela de Jacó.",
+  "relevancia": 3,
+  "direitos": "domínio público (texto siríaco antigo; edição digital CC BY 4.0 do Digital Syriac Corpus, citada); só três estrofes da edição de Beck"
+ },
+ {
+  "autor": "São Jacó de Sarug",
+  "autor_id": "jaco-sarug",
+  "datas": "c. 451–521",
+  "titulo_autor": "bispo de Batnan, poeta",
+  "id": "jaco-sarug-estrela-os-magos-acharam-a-profecia-de-balaao",
+  "obra": "Memra sobre a estrela que os magos viram (ܥܠ ܟܘܟܒܐ ܗܘ ܕܐܬܚܙܝ ܠܡܓܘܫܐ)",
+  "passagem": "Memra sobre a estrela que os magos viram (Bedjan I), pp. 96–97",
+  "edicao": "P. Bedjan, Homiliae selectae Mar-Jacobi Sarugensis I (Paris–Leipzig 1905), pp. 96–97 (archive.org, n119–120; página impressa = n − 23); texto digitado do Digital Syriac Corpus (n.º 345), cotejado com a imagem da p. 97. Sem tradução impressa em domínio público; o excerto junta três passagens da mesma página (as lacunas são cortes). Transcrição sem vogais. Memra inteiro, trecho em base/jaco-sarug-sobre-a-estrela.md.",
+  "trecho": "3",
+  "versiculos": [
+   17
+  ],
+  "lingua": "syr",
+  "original": "ܐܣܓܝܘ ܥܩܒܘ ܕܐܝܢܘ ܐܬܪܗ ܘܒܐܝܢܐ ܗܘ ܥܡܐ: ܘܒܣܦܪܝܗܘܢ ܗܕܐ ܒܥܬܐ ܠܐ ܐܫܬܟܚܬ܀ [...] ܫܓܫܗ ܠܟܠܗ ܟܠܕܝܘܬܐ ܘܠܝܘܠܦܢܗ: ܕܢܚܙܘܢ ܐܝܟܘ ܐܬܪܗ ܕܡܠܟܐ ܕܚܙܘ ܕܢܚܗ܀ ܘܟܒܪ ܐܫܟܚܘ ܟܕ ܒܥܝܢ ܗܘܘ ܒܟܬܒܝܗܘܢ: ܗܝ ܕܐܡܪ ܗܘܐ ܠܒܠܩ ܒܠܥܡ ܟܕ ܐܬܢܒܝ܀ ܢܕܢܚ ܟܘܟܒܐ ܠܡ ܡܢ ܝܥܩܘܒ ܐܟܪܙ ܬܡܢ: ܘܢܩܘܡ ܪܫܐ ܡܢ ܝܣܪܝܠ: ܓܢܒܪܐܝܬ܀ ܐܚܝܕܝܢ ܗܘܘ ܠܗ ܥܡܡܐ ܠܒܠܥܡ ܐܝܟ ܕܠܪܒܐ: ܩܨܘܡܐ ܗܘܐ ܘܠܗܘܢ ܡܠܘܗܝ ܝܩܝܪܢ ܗܘܝ܀ [...] ܡܛܠ ܟܘܟܒܐ ܡܢܗ ܝܠܦܘ ܡܢ ܡܢ ܕܢܚ: ܘܕܠܐ ܥܡܠܐ ܠܡܠܬܗ ܐܫܪܘ ܥܡܡܐ ܕܐܪܥܐ܀ ܕܡܢ ܝܣܪܝܠ ܩܐܡ ܪܫܐ ܐܫܬܡܥܬ ܗܘܬ: ܘܪܫܝ ܦܪܣ ܣܡܘ ܐܦܝܗܘܢ ܕܢܐܙܠܘܢ ܨܐܕܘܗܝ܀",
+  "fonte_url": "https://archive.org/details/homiliaeselectae01jaco/page/n120/mode/1up",
+  "traducao_pt": "Multiplicaram as pesquisas sobre o lugar e o povo; e nos seus livros esta questão não se achava. [...] Toda a Caldeia se agitou, com todo o seu saber, para ver onde era o lugar do rei cujo despontar tinham visto. E por fim acharam, ao procurar nos seus escritos, o que Balaão dissera a Balac ao profetizar: «Despontará uma estrela de Jacó — ali o proclamarei — e se levantará um chefe de Israel, como um valente.» Os povos tinham Balaão por grande; era adivinho, e as palavras dele lhes eram preciosas. [...] Por causa da estrela aprenderam dele quem a faria despontar, e sem esforço os povos da terra confiaram na sua palavra. Ouviram que de Israel se levantaria um chefe, e os chefes dos persas voltaram o rosto para ir até ele.",
+  "temas": [
+   "a estrela de Jacó, escrita e vista",
+   "por que os pagãos creram em Balaão"
+  ],
+  "resumo": "Os magos, sem achar nos seus livros onde nasceria o rei, acharam o que Balaão disse a Balac; os povos o tinham por grande adivinho e por isso creram na sua palavra sobre a estrela.",
+  "relevancia": 3,
+  "direitos": "domínio público (texto siríaco do séc. VI; edição de Bedjan, 1905)"
+ },
+ {
+  "autor": "Santo Efrém, o Sírio (atribuído)",
+  "autor_id": "efrem",
+  "datas": "c. 306–373",
+  "titulo_autor": "diácono de Edessa, Doutor da Igreja; obra de atribuição incerta",
+  "id": "efrem-sermao-natal-1-balaao-anunciava-o-que-hoje-se-ve",
+  "obra": "Sermão sobre a Natividade do Senhor, 1 (S. Ephraem Syri de Nativitate Domini sermones, I)",
+  "passagem": "Sermão sobre a Natividade 1 (Assemani II), p. 396",
+  "edicao": "J. S. Assemani e P. Benedetti (ed.), Ephraem Syri Opera omnia syriace et latine, t. II (Roma 1740), p. 396, tradução latina da edição (a coluna siríaca vai ao lado), conferida na imagem (archive.org, n420); omitidas duas frases sobre Is 7 e Sl 87, no [...]. Sermão atribuído a Efrém; o corte do original latino normaliza æ → ae. Texto em textos/efrem-in-numeros-24.md.",
+  "trecho": "3",
+  "versiculos": [
+   17
+  ],
+  "lingua": "la",
+  "original": "Gratissimus multoque jucundissimus accidit Regibus, Sacerdotibus, ac Prophetis hodiernus dies; ipsorum siquidem praedictiones re praestitit, idemque confirmavit. Virgo Emmanuelem hodie in oppido Bethlehem peperit [...] et Micheae oraculum eventus probavit, ex quo de Ephrata exiit Pastor suo animas baculo recturus. Stellam ex Jacob orituram, & Principem ex Israel proditurum, Balaam praenunciabat; quae ille praesagiebat futura, praesens dies repraesentat. Sic lux illa, occultata diu, tandem emicuit, effulsitque ex humano corpore divina ejus claritas. Oriens, quem Zacharias nasciturum praesensit, hodie in Bethlehem illuxit, & postquam in Ephrata affulsit venturi Regis jubar, Jacob bona, quae precabatur, exhibita vidit.",
+  "fonte_url": "https://archive.org/details/assemani-et-alii-1732-1746-ephraem-syri-opera-omnia-syr-2/page/n420/mode/1up",
+  "traducao_pt": "Dia muito grato e muito alegre é o de hoje para os reis, os sacerdotes e os profetas: ele cumpriu as predições deles e as confirmou. A Virgem deu à luz hoje, na cidade de Belém, o Emanuel [...] e o evento confirmou o oráculo de Miqueias, de que de Efrata sairia o Pastor, para reger as almas com o seu cajado. Que uma estrela despontaria de Jacó, e um chefe surgiria de Israel, Balaão o anunciava; o que ele via de antemão, o dia de hoje o torna presente. Assim, aquela luz, por muito tempo oculta, enfim brilhou, e do corpo humano resplandeceu a sua claridade divina. O Oriente, que Zacarias previu que nasceria, hoje raiou em Belém; e, depois que em Efrata brilhou o fulgor do Rei que havia de vir, Jacó viu realizados os bens que pedia.",
+  "temas": [
+   "a estrela de Jacó, escrita e vista",
+   "Miqueias, Balaão e Zacarias: uma só profecia"
+  ],
+  "resumo": "No dia de Natal, o que Balaão via de longe, uma estrela de Jacó e um chefe de Israel, torna-se presente; a luz há muito escondida resplandece do corpo humano.",
+  "relevancia": 2,
+  "direitos": "domínio público (ed. romana, 1740)"
+ },
+ {
+  "autor": "Santo Efrém, o Sírio (atribuído)",
+  "autor_id": "efrem",
+  "datas": "c. 306–373",
+  "titulo_autor": "diácono de Edessa, Doutor da Igreja; obra de atribuição incerta",
+  "id": "efrem-in-num-24-17-a-estrela-e-cristo-tipo-zorobabel",
+  "obra": "Explicação do livro dos Números (In Numeros explanatio), de cadeias siríacas",
+  "passagem": "In Num. 24,17–18 (cap. XXIV)",
+  "edicao": "J. S. Assemani (ed.), Ephraem Syri Opera omnia syriace et latine, t. I (Roma 1737), p. 265 B–C; tradução latina da edição, conferida na imagem (archive.org, n285); o siríaco ao lado não foi transcrito. Os lemas bíblicos, em itálico na edição, vão sem marca. Normaliza æ → ae.",
+  "trecho": "3",
+  "versiculos": [
+   17,
+   18
+  ],
+  "lingua": "la",
+  "original": "Orietur Stella ex Jacob. Jesus Christus omnium gentium Salvator, cujus typum hoc loco praefert Zorobabel Salvator Judaeorum. Et consurget Princeps de Israel, idem Zorobabel ejusque successores. Et perdet potentes Moab, post reditum; & subjiciet omnes filios Seth, finitimas Judaeorum ditioni nationes.",
+  "fonte_url": "https://archive.org/details/assemani-et-alii-1732-1746-ephraem-syri-opera-omnia-syr-1/page/n285/mode/1up",
+  "traducao_pt": "«Uma estrela despontará de Jacó.» Jesus Cristo, Salvador de todos os povos, de quem Zorobabel, salvador dos judeus, traz aqui a figura. «E se levantará um chefe de Israel»: o mesmo Zorobabel e os seus sucessores. «E destruirá os poderosos de Moab», depois da volta; «e sujeitará todos os filhos de Set»: as nações vizinhas, submetidas ao domínio dos judeus.",
+  "temas": [
+   "o sentido literal e o sentido de Cristo",
+   "a estrela de Jacó, escrita e vista"
+  ],
+  "resumo": "A estrela é Cristo, Salvador de todas as nações, e o seu tipo é Zorobabel, que salvou os judeus: a profecia tem um primeiro cumprimento perto e um pleno em Cristo.",
+  "relevancia": 2,
+  "direitos": "domínio público (ed. romana, 1737)"
+ },
+ {
+  "autor": "Santo Efrém, o Sírio (atribuído)",
+  "autor_id": "efrem",
+  "datas": "c. 306–373",
+  "titulo_autor": "diácono de Edessa, Doutor da Igreja; obra de atribuição incerta",
+  "id": "efrem-in-num-24-20-amalec-o-primeiro-a-atacar-e-antioco",
+  "obra": "Explicação do livro dos Números (In Numeros explanatio), de cadeias siríacas",
+  "passagem": "In Num. 24,20.24 (cap. XXIV)",
+  "edicao": "J. S. Assemani (ed.), Ephraem Syri Opera omnia syriace et latine, t. I (Roma 1737), p. 265 C; tradução latina da edição, conferida na imagem (archive.org, n285); o siríaco ao lado não foi transcrito. Os lemas bíblicos, em itálico na edição, vão sem marca. Normaliza æ → ae. A Peshitta lê no v. 24 «legiões» (ܓܝܘܢܐ), e não os «navios» ou «trirremes» da Vulgata; o Efrém atribuído as lê de Antíoco.",
+  "trecho": "4",
+  "versiculos": [
+   20,
+   24
+  ],
+  "lingua": "la",
+  "original": "Caput gentium Amalec, quoniam Amalecitarum populus, caeteris nihil interim moventibus, primus Israëlitis bellum intulit. Venient legiones de terra Cethaeorum, & subigent Assyrios, & subjugabunt Hebraeos. Designat Antiochum unum ex Alexandri successoribus, qui sub tempora Machabaeorum Judaeos vehementer afflixit.",
+  "fonte_url": "https://archive.org/details/assemani-et-alii-1732-1746-ephraem-syri-opera-omnia-syr-1/page/n285/mode/1up",
+  "traducao_pt": "«Cabeça das nações, Amalec»: porque o povo de Amalec, enquanto os outros nada faziam, foi o primeiro a mover guerra contra os israelitas. «Virão legiões da terra dos quitenses, e sujeitarão os assírios, e subjugarão os hebreus»: designa Antíoco, um dos sucessores de Alexandre, que no tempo dos Macabeus afligiu duramente os judeus.",
+  "temas": [
+   "Amalec, a primeira das nações",
+   "Quitim e o fim dos impérios"
+  ],
+  "resumo": "Amalec é «a primeira das nações» por ter sido o primeiro a atacar Israel; as legiões de Quitim designam Antíoco, que afligiu os judeus no tempo dos Macabeus.",
+  "relevancia": 2,
+  "direitos": "domínio público (ed. romana, 1737)"
+ },
+ {
+  "autor": "Santo Efrém, o Sírio (atribuído)",
+  "autor_id": "efrem",
+  "datas": "c. 306–373",
+  "titulo_autor": "diácono de Edessa, Doutor da Igreja; obra de atribuição incerta",
+  "id": "efrem-in-dan-10-21-balaao-ja-tinha-anunciado-as-legioes-de-quitim",
+  "obra": "Explicação do profeta Daniel (Explanatio in Danielem), de cadeias siríacas",
+  "passagem": "In Dan. 10,21 (sobre Nm 24,24)",
+  "edicao": "J. S. Assemani e P. Benedetti (ed.), Ephraem Syri Opera omnia syriace et latine, t. II (Roma 1740), p. 226 B (archive.org, n250); tradução latina da edição, conferida na imagem; o siríaco ao lado não foi transcrito. Margem: «Num. 24, 24». Normaliza æ → ae. Texto em textos/efrem-in-numeros-24.md.",
+  "trecho": "4",
+  "versiculos": [
+   24
+  ],
+  "lingua": "la",
+  "original": "Verumtamen annunciabo tibi, quod expressum est in libris veritatis. Divinae Scripturae libros innuit, in quibus praedicitur adventus legionum de terra Cethaeorum. Nam & hoc dispersè Balaam praenunciaverat. Legiones, inquit, egredientur de terra Cethaeorum.",
+  "fonte_url": "https://archive.org/details/assemani-et-alii-1732-1746-ephraem-syri-opera-omnia-syr-2/page/n250/mode/1up",
+  "traducao_pt": "«Entretanto, eu te anunciarei o que está registrado nos livros da verdade.» Refere-se aos livros da Escritura divina, nos quais se prediz a vinda das legiões da terra dos quitenses. Pois também isto Balaão o tinha anunciado, em passagem à parte: «Sairão legiões da terra dos quitenses.»",
+  "temas": [
+   "Quitim e o fim dos impérios"
+  ],
+  "resumo": "Lendo Daniel, o comentador lembra que as legiões que vêm da terra de Quitim já estavam anunciadas nos livros da Escritura, por Balaão.",
+  "relevancia": 1,
+  "direitos": "domínio público (ed. romana, 1740)"
+ },
+ {
+  "autor": "Afraates, o Sábio Persa",
+  "autor_id": "afraates",
+  "datas": "c. 270–c. 345",
+  "titulo_autor": "bispo, o mais antigo Padre siríaco",
+  "id": "afraates-dem-14-11-os-queneus-o-ninho-na-rocha-jael",
+  "obra": "Demonstrações, 14: Exortação (Petição)",
+  "passagem": "Demonstrações 14, § 11 (Parisot, col. 597–598)",
+  "edicao": "J. Parisot, Patrologia Syriaca I/1 (Paris 1894), col. 597–598 (archive.org, patrologiasyriac01graf, n394, com a tradução latina: «Cinaei autem illi de domo sunt soceri Moysis; de ipsis etiam dixit Balaam…»); texto do Digital Syriac Corpus (n.º 14, § 11). A lembrança de Nm 24,21 vem no meio de uma lista de mulheres que fizeram a paz em Israel (Débora, Jael, Rebeca). Texto em textos/afraates-dem14-24.md.",
+  "trecho": "4",
+  "versiculos": [
+   21
+  ],
+  "lingua": "syr",
+  "original": "ܘܕܒܘܪܐ ܗܘܬ ܐܡܐ܂ ܘܕܢܬ ܕܝܢܐ ܒܐܝܣܪܝܠ܂ ܘܥܢܐܝܠ ܐܢܬܬ ܚܘܒܪ ܩܝܢܝܐ ܦܣܩܬ ܘܫܕܬ ܫܘܒܗܪܗ ܕܣܝܣܪܐ ܪܒ ܚܝܠܐ ܕܢܒܝܢ ܡܠܟܐ ܕܚܨܘܪ܂ ܟܕ ܢܩܫܬ ܣܟܬܐ ܒܨܕܥܗ܂ ܗܠܝܢ ܩܝܢܝܐ ܕܒܝܬ ܚܡܘܗܝ ܕܡܘܫܐ ܕܐܡܪ ܥܠܝܗܘܢ ܒܠܥܡ ܒܪ ܒܥܘܪ ܒܢܒܝܘܬܐ ܕܥܫܝܢ ܡܘܬܒܟ ܘܣܝܡ ܒܫܩܝܦܐ ܩܢܟ",
+  "fonte_url": "https://syriaccorpus.org/14",
+  "traducao_pt": "Débora era mãe e juíza em Israel; e Jael, mulher de Héber, o queneu, cortou e derrubou a glória de Sísera, chefe do exército de Jabin, rei de Hasor, ao cravar a estaca na sua têmpora. Esses queneus, da casa do sogro de Moisés, são aqueles de quem Balaão, filho de Beor, disse em profecia: «Firme é a tua morada, e puseste o teu ninho na rocha.»",
+  "temas": [
+   "o ninho na rocha: os queneus",
+   "Jael e Débora"
+  ],
+  "resumo": "Afraates lê «o ninho posto na rocha» dos queneus, a família do sogro de Moisés: de uma delas, Jael, saiu a mulher que derrubou Sísera.",
+  "relevancia": 2,
+  "direitos": "domínio público (texto siríaco do séc. IV; ed. de Parisot, 1894)"
+ }
+]

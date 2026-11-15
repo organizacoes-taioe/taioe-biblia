@@ -68,6 +68,8 @@ principal do Gere, só leitura). Não entra aqui o que já está em `numeros/<cc
 
 ## Nm 26–29
 
+- **Nm 26–36**: ler também as seções «Para outros capítulos» dos relatórios de Nm 24 e 25 (`../024/relatorio-*.md`, `../025/relatorio-*.md`), com pistas para Nm 26, 27, 31 e 33.
+
 - **Nm 26**: Pedro Damião, *Collectanea* (PL 145, 1046A–B): só a tribo de Levi chegou intacta à terra prometida; quem se contenta em possuir o Senhor «não morre no deserto deste mundo» (relatório latinos de Nm 18).
 - **Nm 26**: Nm 26,11 — os filhos de Coré não morreram, e deles vêm os «filhos de Coré» dos Salmos (pedido de Nm 16).
 - **Nm 27**: Dionísio bar Salibi identifica o homem da lenha de Nm 15 com Salfaad (só pista: fora da comunhão com Roma). Nm 27,16 («Deus dos espíritos de toda carne»; Nm 16,22; Hb 12,9): Deus autor das almas; os Padres sobre a origem da alma (pedido de Nm 16).

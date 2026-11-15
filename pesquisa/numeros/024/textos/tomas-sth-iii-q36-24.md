@@ -1,0 +1,7 @@
+# São Tomás de Aquino, *Summa theologiae* III, q. 36, a. 5, ad 4 (reserva) — Nm 24,17
+
+Texto da ed. Leonina no Corpus Thomisticum, baixado em 2026-10 para `pesquisa/cache/numeros20-latinos/ct/sth4027.html`.
+
+- Fonte: https://www.corpusthomisticum.org/sth4027.html (III, q. 36, a. 5)
+
+Ad quartum dicendum quod, sicut Chrysostomus refert, in quibusdam scriptis apocryphis legitur quod quaedam gens in extremo orientis, iuxta Oceanum, quandam Scripturam habebat, ex nomine Seth, de hac stella et muneribus huiusmodi offerendis. Quae gens diligenter observabat huius stellae exortum, positis exploratoribus duodecim, qui certis temporibus devote ascendebant in montem. In quo postmodum viderunt eam habentem in se quasi parvuli formam, et super se similitudinem crucis. Vel dicendum quod, sicut dicitur in libro de quaest. Nov. et Vet. Test., magi illi traditionem Balaam sequebantur, qui dixit, orietur stella ex Iacob. Unde, videntes stellam extra ordinem mundi, hanc esse intellexerunt quam Balaam futuram indicem regis Iudaeorum prophetaverat. Vel dicendum, sicut Augustinus dicit, in sermone de Epiphania, quod ab Angelis aliqua monitione revelationis audierunt magi quod stella Christum natum significaret. Et probabile videtur quod a bonis, quando in Christo adorando salus eorum iam quaerebatur. Vel, sicut Leo Papa dicit, in sermone de Epiphania, praeter illam speciem quae corporeum incitavit obtutum, fulgentior veritatis radius eorum corda perdocuit quod ad illuminationem fidei pertinebat.
