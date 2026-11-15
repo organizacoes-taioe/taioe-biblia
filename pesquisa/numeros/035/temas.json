@@ -1,0 +1,80 @@
+{
+ "1": [
+  {
+   "id": "levitas",
+   "titulo": "As cidades dos levitas: os que deixam tudo para pertencer a Deus",
+   "versiculos": [
+    2,
+    3,
+    6
+   ],
+   "itens": [
+    "ambrosio-fuga-2-6-7-os-levitas-fugitivos-do-mundo",
+    "cirilo-adorat-864-os-levitas-bastam-se-com-o-necessario"
+   ]
+  }
+ ],
+ "2": [
+  {
+   "id": "refugio",
+   "titulo": "As cidades de refúgio: o lugar que Deus prepara para quem caiu",
+   "versiculos": [
+    11,
+    13,
+    14,
+    15
+   ],
+   "itens": [
+    "origenes-hom28-2-3-lugar-de-refugio-no-ceu",
+    "ambrosio-fuga-2-9-a-misericordia-que-poe-refugios",
+    "bernardo-conv-21-37-correi-as-cidades-de-refugio"
+   ]
+  },
+  {
+   "id": "chagas",
+   "titulo": "As chagas de Cristo e o nome de Maria, refúgio do pecador",
+   "versiculos": [
+    11,
+    15
+   ],
+   "itens": [
+    "antonio-s50-advento-as-cinco-chagas-cidades-de-refugio",
+    "antonio-s9-quaresma-o-nome-de-maria-cidade-de-refugio"
+   ]
+  }
+ ],
+ "3": [
+  {
+   "id": "intencao",
+   "titulo": "Matar sem querer ou de propósito: o juízo pesa a intenção",
+   "versiculos": [
+    16,
+    20,
+    21,
+    22,
+    23,
+    24
+   ],
+   "itens": [
+    "agostinho-qhept4-65-o-vingador-nao-mata-sem-juizo",
+    "bruno-segni-num35-quem-peca-sem-querer-e-quem-se-arrepende",
+    "ruperto-deut1-5-o-machado-que-escapa-da-mao",
+    "rabano-num4-12-a-espada-da-malicia-e-as-cidades-de-refugio"
+   ]
+  },
+  {
+   "id": "sumo-sacerdote",
+   "titulo": "Livre com a morte do sumo sacerdote: a morte de Cristo que liberta",
+   "versiculos": [
+    25,
+    28
+   ],
+   "itens": [
+    "gregorio-hom-ez-1-6-15-a-morte-do-verdadeiro-sacerdote",
+    "teodoreto-qnum-l-por-que-esperar-a-morte-do-sacerdote",
+    "cirilo-adorat-8-581-homicidas-da-propria-alma",
+    "ruperto-deut1-5-a-quem-nao-desagrada-o-que-fez"
+   ]
+  }
+ ]
+}
