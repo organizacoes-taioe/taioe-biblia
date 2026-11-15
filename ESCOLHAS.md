@@ -50,6 +50,7 @@ Vale para pessoas, povos e lugares, também nos comentários dos Padres.
 - Nm 23: Balaão e Beor, como o lecionário (Nm 24,3.15); Balac, Sefor, Arã, Moab, o Fasga e o Fogor, que a liturgia não lê, como no projeto antigo (o Fasga também em Nm 21).
 - Nm 24: Balaão, Beor, Jacó, Israel e Agag, como o lecionário (Nm 24,2-7.15-17a, Advento); Edom, Seir, Set, Amalec, o queneu, Assur, Quitim e Eber, que a liturgia não lê, como no projeto antigo.
 - Nm 25: Fineias, Zambri e Salu, como o lecionário (1Mc 2,26, quinta-feira da 33ª semana do TC, ano I); Setim, Baal-Fogor e Fogor (como Nm 23,28), Eleazar, Cozbi, Sur, Madiã e os simeonitas, que a liturgia não lê, como no projeto antigo.
+- Nm 26: os nomes das famílias, que a liturgia não lê, como no projeto antigo; Josué, filho de Num, como no Nm 14.
 - Gn 3: Eva e Éden, como o lecionário.
 - Gn 4: Adão, Eva, Caim, Abel e Set, como o lecionário; Nod, Henoc, Irad, Maviael, Matusael, Lamec, Ada, Sela, Jabel, Jubal, Tubalcaim e Noema, que a liturgia não lê, como no projeto antigo; *Enosh* = Enós (o projeto antigo dizia «Enos»; Gn 5 muda ao entrar).
 - Gn 2: Éden (como o lecionário); Píson, Havilá, Geon, Tigre, Assíria e Eufrates, que a liturgia não lê, como no projeto antigo; *Kush* = Etiópia (2,13), como em Nm 12.
@@ -251,6 +252,8 @@ Vale para pessoas, povos e lugares, também nos comentários dos Padres.
 | *vatte'atsar hammaggefa* | a praga foi detida | Nm 25,8, como Nm 17,13.15 | Nm 25 |
 | *noten lo et-beriti shalom* | Eis que lhe dou a minha aliança de paz | Nm 25,12; a tradução de partida dizia «faço com ele» | Nm 25 |
 | *tsarar* (Nm 25,17-18) | tratar como inimigos | «Tratai os madianitas como inimigos… porque eles vos trataram como inimigos» | Nm 25 |
+| *hitsu* (Nm 26,9) | lutar contra | Datã e Abiram «lutaram contra Moisés e Aarão… quando lutaram contra o Senhor»; não «contender», que é *riv* | Nm 26 |
+| *zakhar* (contagem) | homem | Nm 26,62 «todos os homens de um mês para cima»; a tradução de partida dizia «varões» | Nm 26 |
 
 ## Inconsistências conhecidas, para corrigir quando o capítulo entrar
 
