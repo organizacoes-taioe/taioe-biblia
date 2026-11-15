@@ -54,6 +54,7 @@ Vale para pessoas, povos e lugares, também nos comentários dos Padres.
 - Nm 27: Salfaad, Hefer, Galaad, Maquir, Maala, Noa, Hegla, Melca e Tersa, os montes Abarim, Sin, Cades e Meriba (sem acento, como Nm 20), como no projeto antigo e no Nm 20; Josué, filho de Num.
 - Nm 31: Evi, Recem, Sur, Hur e Rebe, os reis de Madiã, que a liturgia não lê, como no projeto antigo; Balaão, Fineias e Eleazar como antes.
 - Nm 32: Jazer, Galaad, Atarot, Dibon, Nemra, Hesbon, Eleale, Sabam, Nebo, Beon, Cades-Barne, o vale de Escol (como Nm 13), Aroer, Atarot-Sofan, Jegbaa, Bet-Nemra, Bet-Haran, Cariataim, Baal-Meon, Sabama, Maquir, Jair, Havot-Jair, Nobe e Canat, que a liturgia não lê, como no projeto antigo; Caleb, filho de Jefoné, o quenezeu; Josué, filho de Num.
+- Nm 33: as etapas como no projeto antigo (Ramessés, Sucot, Etam, Fiairot, Baal-Sefon, Magdol, Mara, Elim, Dafca, Alus, Rafidim, Quibrot-Hataavá, Haserot… Asion-Gaber, Salmona, Funon, Dibon-Gad, Helmon-Deblataim, Bet-Jesimot); monte Hor, Arad, Negueb, Obot e Ijé-Abarim como Nm 20–21; «Abel-Setim», como Setim em Nm 25,1 (a partida dizia «Abel-Sitim»).
 - Gn 3: Eva e Éden, como o lecionário.
 - Gn 4: Adão, Eva, Caim, Abel e Set, como o lecionário; Nod, Henoc, Irad, Maviael, Matusael, Lamec, Ada, Sela, Jabel, Jubal, Tubalcaim e Noema, que a liturgia não lê, como no projeto antigo; *Enosh* = Enós (o projeto antigo dizia «Enos»; Gn 5 muda ao entrar).
 - Gn 2: Éden (como o lecionário); Píson, Havilá, Geon, Tigre, Assíria e Eufrates, que a liturgia não lê, como no projeto antigo; *Kush* = Etiópia (2,13), como em Nm 12.
@@ -269,6 +270,7 @@ Vale para pessoas, povos e lugares, também nos comentários dos Padres.
 | *zevah shelamim* | sacrifício de comunhão | Nm 29,39, como Nm 15 | Nm 15 |
 | *lo yahel devaro* (Nm 30,3) | não profanará a sua palavra | *ḥillel*, como «profanar» (Nm 19); a tradução de partida dizia «não quebrará» | Nm 30 |
 | *le'annot nafesh* (Nm 30,14) | afligir-se | como Nm 29,7 | Nm 30 |
+| *bamot* (de culto) | lugares altos | Nm 33,52; «as alturas de Baal» (Nm 22,41) é nome de lugar | Nm 33 |
 
 ## Inconsistências conhecidas, para corrigir quando o capítulo entrar
 
