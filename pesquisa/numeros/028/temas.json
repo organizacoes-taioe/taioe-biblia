@@ -1,0 +1,79 @@
+{
+ "1": [
+  {
+   "id": "dons",
+   "titulo": "«A minha oferta, o meu alimento»: o que oferecemos já é de Deus",
+   "versiculos": [
+    2
+   ],
+   "itens": [
+    "origenes-hom-num-23-2-nada-oferecemos-que-seja-nosso",
+    "origenes-hom-num-23-2-a-conversao-e-festa-de-deus"
+   ]
+  },
+  {
+   "id": "perpetuo",
+   "titulo": "«Em holocausto perpétuo»: louvar a Deus sem cessar, de manhã e à tarde",
+   "versiculos": [
+    3,
+    4,
+    6
+   ],
+   "itens": [
+    "origenes-hom-num-23-3-o-sacrificio-sem-cessar-e-oracao",
+    "cirilo-adoratione-17-1113-o-cordeiro-da-manha-e-da-tarde",
+    "lapide-num-28-3-oracao-da-manha-e-da-tarde",
+    "tomas-st-1-2-q102-a4-ad10-festas-do-ano"
+   ]
+  }
+ ],
+ "2": [
+  {
+   "id": "sabado",
+   "titulo": "O sábado e o trabalho servil",
+   "versiculos": [
+    9,
+    10
+   ],
+   "itens": [
+    "ruperto-in-mt-12-5-sabado-e-obra-servil"
+   ]
+  }
+ ],
+ "3": [
+  {
+   "id": "lua-nova",
+   "titulo": "A lua nova, figura do mundo novo da ressurreição",
+   "versiculos": [
+    11
+   ],
+   "itens": [
+    "cirilo-adoratione-17-1116-a-lua-nova-e-o-seculo-novo"
+   ]
+  }
+ ],
+ "4": [
+  {
+   "id": "pascoa",
+   "titulo": "A Páscoa do Senhor, cumprida em Cristo",
+   "versiculos": [
+    16
+   ],
+   "itens": [
+    "isidoro-in-lev-17-9-a-pascoa-e-a-lua-nova-cumpridas"
+   ]
+  }
+ ],
+ "5": [
+  {
+   "id": "semanas",
+   "titulo": "A festa das Semanas: a Lei no Sinai e o Espírito no Pentecostes",
+   "versiculos": [
+    26
+   ],
+   "itens": [
+    "agostinho-civ-dei-16-43-pentecostes-lei-e-espirito"
+   ]
+  }
+ ]
+}

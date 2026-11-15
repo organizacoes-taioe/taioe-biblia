@@ -1,0 +1,31 @@
+{
+ "1": [
+  {
+   "id": "promessa",
+   "titulo": "«Esta é a terra que vos cairá em herança»: a promessa e os peregrinos",
+   "versiculos": [
+    1,
+    2
+   ],
+   "itens": [
+    "origenes-hnum28-1-ler-as-fronteiras-na-igreja",
+    "jeronimo-ep129-5-prometida-e-nao-entregue",
+    "jeronimo-ep129-3-hospedes-e-peregrinos"
+   ]
+  },
+  {
+   "id": "limites",
+   "titulo": "Os limites da terra e a parte de cada um",
+   "versiculos": [
+    6,
+    13,
+    14,
+    15
+   ],
+   "itens": [
+    "origenes-hnum28-2-os-limites-e-os-meritos",
+    "jeronimo-inez13-occidente-sempre-no-mar"
+   ]
+  }
+ ]
+}

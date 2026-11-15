@@ -1,0 +1,78 @@
+{
+ "1": [
+  {
+   "id": "povo-novo",
+   "titulo": "«Recenseai o povo»: o povo novo que herda o que o velho perdeu",
+   "versiculos": [
+    1,
+    2,
+    4
+   ],
+   "itens": [
+    "origenes-hnum21-1-o-povo-novo-herda-o-que-o-velho-perdeu",
+    "teodoreto-qnum-45-porque-recensear-de-novo-o-povo"
+   ]
+  }
+ ],
+ "2": [
+  {
+   "id": "filhos-de-core",
+   "titulo": "«Os filhos de Coré não morreram»: os cristãos, filhos do Esposo",
+   "versiculos": [
+    11
+   ],
+   "itens": [
+    "agostinho-enps41-2-os-cristaos-sao-filhos-de-core"
+   ]
+  }
+ ],
+ "3": [
+  {
+   "id": "sorte",
+   "titulo": "«A terra será repartida por sorte»: cada um recebe de Deus a sua parte",
+   "versiculos": [
+    52,
+    53,
+    54,
+    55,
+    56
+   ],
+   "itens": [
+    "origenes-hnum21-1-moises-da-terra-fora-jesus-a-de-leite-e-mel",
+    "cirilo-adorac-348-cada-um-pelo-nome-na-medida-das-obras",
+    "teodoreto-qnum-46-porque-repartir-a-terra-por-sorte"
+   ]
+  }
+ ],
+ "4": [
+  {
+   "id": "levitas",
+   "titulo": "«Não lhes foi dada herança»: o Senhor, herança dos levitas",
+   "versiculos": [
+    57,
+    62
+   ],
+   "itens": [
+    "origenes-hnum21-1-os-levitas-tem-o-senhor-por-heranca",
+    "cirilo-adorac-349-o-levita-tem-por-sorte-ver-a-deus",
+    "pedro-damiao-collect-num14-so-levi-chega-a-terra-viva"
+   ]
+  }
+ ],
+ "5": [
+  {
+   "id": "caleb-josue",
+   "titulo": "«Nenhum deles ficou, senão Caleb e Josué»: poucos chegam à pátria",
+   "versiculos": [
+    63,
+    64,
+    65
+   ],
+   "itens": [
+    "isidoro-innum-42-9-seiscentos-mil-saem-so-dois-entram",
+    "ruperto-innum-2-29-a-igreja-perde-uns-e-os-eleitos-ficam",
+    "origenes-hnum21-3-caleb-e-josue-fora-da-sorte"
+   ]
+  }
+ ]
+}
