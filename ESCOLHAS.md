@@ -274,6 +274,7 @@ Vale para pessoas, povos e lugares, também nos comentários dos Padres.
 | *bamot* (de culto) | lugares altos | Nm 33,52; «as alturas de Baal» (Nm 22,41) é nome de lugar | Nm 33 |
 | *hanaf* (Nm 35,33) | poluir | «o sangue polui a terra»; *timme* (v. 34) fica «contaminar» | Nm 35 |
 | *go'el haddam* | o vingador do sangue | Nm 35,12-27 (nota no v. 12) | projeto antigo |
+| *rashe avot* (com *nasi* ao lado) | os cabeças das casas paternas | Nm 36,1, para não repetir «chefes» quando *nasi* vem junto; sozinho, fica «os chefes das casas paternas» (Nm 31,26; 32,28) | Nm 36 |
 
 ## Inconsistências conhecidas, para corrigir quando o capítulo entrar
 
