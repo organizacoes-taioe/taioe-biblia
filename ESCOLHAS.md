@@ -119,7 +119,7 @@ Vale para pessoas, povos e lugares, também nos comentários dos Padres.
 | *timme* (o santuário, a Morada) | contaminar | Nm 19,13.20, como em Lv 15,31 e 20,3; «profanar» fica para *ḥillel* | Nm 19 |
 | *nikhretá hannefesh hahi* | essa pessoa será eliminada | Nm 15,30–31; 19,13.20 | Nm 15 |
 | *'ad-ha'erev* | até a tarde | sem crase, como no Levítico (11,24–31); Números dizia «até à tarde» | Nm 19 |
-| *vayyiqqadesh* (Deus, sujeito) | manifestar a sua santidade | Nm 20,13 «e ele manifestou neles a sua santidade», como o lecionário e Ezequiel no projeto antigo; Lv 10,3 e 22,32 («serei santificado») mudam ao entrarem; *hiqdish* com Deus por objeto fica «santificar» («para me santificardes», Nm 20,12; Dt 32,51) | Nm 20, a confirmar |
+| *vayyiqqadesh* (Deus, sujeito) | santificar-se | Nm 20,13 «e ele se santificou neles», ao pé da letra, como a Vulgata (escolha do Gere, 14/11: «combina com a tradução que usamos no Pai Nosso: santificado seja o vosso Nome»; não a recomendada, «manifestou neles a sua santidade», do lecionário); vale para Lv 10,3 e 22,32 e para Ezequiel (20,41; 28,22.25; 36,23; 38,16; 39,27), quando entrarem; *hiqdish* com Deus por objeto fica «santificar» («para me santificardes», Nm 20,12; Dt 32,51) | Nm 20 |
 | *riv* | contender | Nm 20,3.13, o eco com Meriba, «contenda» (nota) | Nm 20 |
 | *vehay* (Nm 21,8-9) | viverá / ficava vivo | a mesma palavra nos dois versículos; o lecionário diz «ficava curado» no v. 9 | Nm 21 |
 | *sarim* (Nm 21,18) | os chefes | «poço que os chefes cavaram, / que os nobres do povo abriram», como *sar* em Nm 22; a tradução de partida dizia «príncipes» | Nm 21 |

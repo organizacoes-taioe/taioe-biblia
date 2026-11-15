@@ -1,7 +1,7 @@
 {
  "livro": "numeros",
  "cap": 19,
- "estado": "em revisão",
+ "estado": "revisado",
  "atualizado": "2026-11-01",
  "trechos": [
   {"id": "1", "titulo": "A novilha vermelha", "de": 1},
@@ -167,6 +167,5 @@
     }
    ]
   }
- },
- "revisao": {}
+ }
 }

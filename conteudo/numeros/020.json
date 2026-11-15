@@ -22,7 +22,7 @@
   {"v": 10, "t": "Moisés e Aarão reuniram a assembleia diante da rocha, e Moisés lhes disse: Ouvi, rebeldes: acaso desta rocha vos faremos sair água?"},
   {"v": 11, "t": "Moisés levantou a mão e feriu a rocha duas vezes com a sua vara; saiu água em abundância, e a comunidade e os seus animais beberam."},
   {"v": 12, "t": "O Senhor disse a Moisés e a Aarão: Porque não crestes em mim, para me santificardes aos olhos dos filhos de Israel, por isso não fareis entrar esta assembleia na terra que eu lhes dei.", "np": 1},
-  {"v": 13, "t": "Estas são as águas de Meriba, onde os filhos de Israel contenderam com o Senhor, e ele manifestou neles a sua santidade."},
+  {"v": 13, "t": "Estas são as águas de Meriba, onde os filhos de Israel contenderam com o Senhor, e ele se santificou neles."},
   {"s": "Edom recusa a passagem"},
   {"v": 14, "t": "De Cades, Moisés enviou mensageiros ao rei de Edom: Assim diz o teu irmão Israel: Tu sabes todas as provações que nos sobrevieram:"},
   {"v": 15, "t": "os nossos pais desceram ao Egito, e habitamos no Egito muito tempo, e os egípcios nos maltrataram, a nós e aos nossos pais."},
@@ -43,9 +43,9 @@
   {"v": 29, "t": "Toda a comunidade viu que Aarão tinha expirado, e toda a casa de Israel chorou Aarão durante trinta dias."}
  ],
  "notas": [
-  {"id": "n01", "v": 1, "apos": "primeiro mês", "texto": "Entre o capítulo anterior e este passam quase quarenta anos: é o primeiro mês do último ano no deserto (33,38). A geração condenada em Cades (14,29-35) já morreu, e Israel volta ao mesmo lugar.", "origem": "revista do projeto antigo: sem ela o leitor não vê o salto de quarenta anos; ficou a referência a 33,38 e a 14,29-35"},
-  {"id": "n02", "v": 9, "apos": "Senhor", "texto": "Diante do Senhor: na tenda do encontro, onde tinha sido guardada a vara de Aarão que floresceu (17,25).", "origem": "nova: localiza a vara (o Gere gosta das notas que situam o leitor nas referências do texto, Nm 14,17)"},
-  {"id": "n03", "v": 13, "apos": "santidade", "texto": "Em hebraico, «Meriba» quer dizer «contenda», e o verbo de «manifestou a sua santidade» soa como «Cades», o nome do lugar.", "origem": "revista do projeto antigo: sem ela não se vê a razão do nome (como Eva, Gn 3,20); saiu a comparação com Taberá e Quibrot-Hataavá"},
+  {"id": "n01", "v": 1, "apos": "primeiro mês", "texto": "Entre o capítulo anterior e este passam quase quarenta anos: é o primeiro mês do último ano no deserto (33,38). A geração condenada em Cades (14,29-35) já morreu, e Israel volta ao mesmo lugar.", "origem": "revista do projeto antigo: sem ela o leitor não vê o salto de quarenta anos; ficou a referência a 33,38 e a 14,29-35", "revista": true},
+  {"id": "n02", "v": 9, "apos": "Senhor", "texto": "Diante do Senhor: na tenda do encontro, onde tinha sido guardada a vara de Aarão que floresceu (17,25).", "origem": "nova: localiza a vara (o Gere gosta das notas que situam o leitor nas referências do texto, Nm 14,17)", "revista": true},
+  {"id": "n03", "v": 13, "apos": "santificou", "texto": "Em hebraico, «Meriba» quer dizer «contenda», e o verbo de «se santificou» soa como «Cades», o nome do lugar.", "origem": "revista do projeto antigo: sem ela não se vê a razão do nome (como Eva, Gn 3,20); saiu a comparação com Taberá e Quibrot-Hataavá"},
   {"id": "n04", "v": 14, "apos": "irmão Israel", "texto": "Edom é o povo que descende de Esaú, irmão de Jacó, que é Israel (Gn 25,25-30; 36,1).", "origem": "revista do projeto antigo: sem ela não se entende o «teu irmão»; saiu «a recusa dará em inimizade de séculos» (interpretação)"},
   {"id": "n05", "v": 17, "apos": "estrada real", "texto": "A estrada real era a grande rota das caravanas, que atravessava de sul a norte as terras a leste do mar Morto e do Jordão.", "origem": "nova: contexto geográfico que o leitor não tem"},
   {"id": "n06", "v": 29, "apos": "trinta dias", "texto": "O luto costumava durar sete dias (Gn 50,10); o de trinta dias, como depois o de Moisés (Dt 34,8), era pelos grandes.", "origem": "nova: costume que o leitor não tem; saíram do projeto antigo a nota do v. 10 (a falta de Moisés: interpretação, que os comentários tratam) e a do v. 28 (o sacerdócio que passa: interpretação)"}
@@ -208,19 +208,5 @@
    ]
   }
  },
- "revisao": {
-  "escolhas": [
-   {
-    "id": "santidade-meriba",
-    "ref": "Nm 20,13",
-    "titulo": "*Vayyiqqadesh bam*: «manifestou neles a sua santidade», «se santificou neles» ou «mostrou-se santo no meio deles»?",
-    "contexto": "O hebraico diz *vayyiqqadesh bam*, ao pé da letra «e foi santificado neles»: Deus mostra quem é, no castigo e na água que dá. O mesmo verbo, com Deus por sujeito, volta em Lv 10,3; 22,32 e seis vezes em Ezequiel (20,41; 28,22.25; 36,23; 38,16; 39,27). A tradução de partida dizia «se santificou neles» aqui, «serei santificado» no Levítico e «manifestarei a minha santidade» em Ezequiel; a Vulgata diz «sanctificatus est in eis»; o lecionário da Missa diz «e ele lhes manifestou a sua santidade». O versículo anterior acusa Moisés e Aarão de não o «santificarem» (*lehaqdisheni*), que fica como está. A escolha vale para todos esses lugares.",
-    "opcoes": [
-     {"id": "a", "texto": "«e ele manifestou neles a sua santidade», como em Ezequiel", "nota": "Clara para o leitor de hoje, e diz o que o verbo quer dizer.", "recomendada": true},
-     {"id": "b", "texto": "«e ele se santificou neles», ao pé da letra, como a Vulgata", "nota": "Guarda o eco com «para me santificardes» (v. 12), mas soa estranho: Deus não se torna santo."},
-     {"id": "c", "texto": "«e ele se mostrou santo no meio deles»", "nota": "Simples, mas perde a palavra «santidade», que liga o versículo a Ezequiel e ao Pai-Nosso («santificado seja o vosso nome»)."}
-    ]
-   }
-  ]
- }
+ "revisao": {}
 }
