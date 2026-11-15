@@ -1,0 +1,90 @@
+{
+ "1": [
+  {
+   "id": "guerra",
+   "titulo": "A guerra contra Madiã, figura da guerra contra os vícios",
+   "versiculos": [
+    2,
+    8
+   ],
+   "itens": [
+    "origenes-hnum25-1-dar-ocasiao-de-pecado-pesa-mais",
+    "jeronimo-in-gal-3-5-20-inimizade-contra-costumes",
+    "origenes-hnum25-3-os-cinco-reis-sao-os-cinco-sentidos"
+   ]
+  },
+  {
+   "id": "vitoria",
+   "titulo": "«Mil por tribo»: a vitória que vem da oração, e a morte de Balaão",
+   "versiculos": [
+    4,
+    5,
+    6,
+    8
+   ],
+   "itens": [
+    "origenes-hnum25-2-quem-reza-vale-mais-que-a-multidao",
+    "damiao-apologeticum-27-quem-reza-e-quem-sai-do-oficio"
+   ]
+  }
+ ],
+ "2": [
+  {
+   "id": "chefes",
+   "titulo": "«Moisés irou-se contra os chefes»: a quem muito foi dado",
+   "versiculos": [
+    14,
+    15,
+    16
+   ],
+   "itens": [
+    "cirilo-de-adoratione-4-328-os-chefes-respondem-mais",
+    "ambrosio-de-officiis-1-139-justica-ate-com-inimigos"
+   ]
+  }
+ ],
+ "3": [
+  {
+   "id": "fogo-agua",
+   "titulo": "«Passá-lo pelo fogo… e pela água»: a purificação dos que voltam da guerra",
+   "versiculos": [
+    21,
+    22,
+    23,
+    24
+   ],
+   "itens": [
+    "cirilo-de-adoratione-4-332-fogo-e-agua",
+    "bruno-segni-in-num-31-ouro-e-prata-pelo-fogo",
+    "origenes-hnum25-5-o-homem-de-valor"
+   ]
+  }
+ ],
+ "4": [
+  {
+   "id": "despojo",
+   "titulo": "O despojo repartido entre os que lutaram e toda a comunidade",
+   "versiculos": [
+    27
+   ],
+   "itens": [
+    "origenes-hnum25-4-os-que-lutam-por-oracao-e-jejum",
+    "cirilo-de-adoratione-4-333-os-pequenos-com-os-grandes"
+   ]
+  }
+ ],
+ "5": [
+  {
+   "id": "oferta",
+   "titulo": "A oferta dos chefes: dar a Deus mais do que a Lei pede",
+   "versiculos": [
+    48,
+    49,
+    50
+   ],
+   "itens": [
+    "cirilo-de-adoratione-4-340-os-chefes-dao-alem-da-lei"
+   ]
+  }
+ ]
+}
