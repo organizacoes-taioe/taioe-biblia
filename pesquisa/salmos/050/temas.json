@@ -1,0 +1,105 @@
+{
+ "1": [
+  {
+   "id": "o-deus-que-vem",
+   "titulo": "«Vem o nosso Deus e não se cala»: o Deus dos deuses vem para julgar",
+   "versiculos": [
+    1,
+    2,
+    3
+   ],
+   "itens": [
+    "agostinho-sl49-2-deuses-por-graca",
+    "agostinho-sl49-6-cala-e-nao-cala",
+    "teodoreto-sl49-3-a-segunda-vinda"
+   ]
+  },
+  {
+   "id": "nao-preciso-de-sacrificios",
+   "titulo": "«Meu é o mundo»: Deus não precisa dos sacrifícios, e quer o coração",
+   "versiculos": [
+    8,
+    9,
+    10,
+    11,
+    12,
+    13
+   ],
+   "itens": [
+    "agostinho-sl49-15-holocausto-de-caridade",
+    "teodoreto-sl49-9-nao-precisa-de-ti",
+    "escriva-dialogo-22-mundo-e-meu",
+    "cassiodoro-sl49-13-nos-pobres-deus-recebe"
+   ]
+  },
+  {
+   "id": "sacrificio-de-louvor",
+   "titulo": "«Oferece a Deus sacrifício de louvor»: o louvor que se oferece com a vida",
+   "versiculos": [
+    14,
+    23
+   ],
+   "itens": [
+    "agostinho-sl49-21-ara-da-consciencia",
+    "crisostomo-sl49-5-viver-para-gloria-de-deus",
+    "cassiodoro-sl49-14-acao-louvavel",
+    "teodoreto-sl49-23-caminhar-em-boa-ordem"
+   ]
+  },
+  {
+   "id": "invoca-me",
+   "titulo": "«Invoca-me no dia da angústia»: por que Deus quer ser invocado",
+   "versiculos": [
+    15
+   ],
+   "itens": [
+    "agostinho-sl49-22-tribulacao-da-peregrinacao",
+    "crisostomo-sl49-5-por-que-invocar",
+    "tomas-sl49-8-por-que-o-justo-sofre"
+   ]
+  },
+  {
+   "id": "por-que-recitas",
+   "titulo": "«Por que recitas os meus preceitos?»: quem ensina a lei e não a vive",
+   "versiculos": [
+    16,
+    17
+   ],
+   "itens": [
+    "crisostomo-sl49-6-a-vida-que-ensina",
+    "teodoreto-sl49-16-quem-ensina-e-transgride"
+   ]
+  },
+  {
+   "id": "contra-o-teu-irmao",
+   "titulo": "«Sentas-te e falas contra o teu irmão»: a maledicência",
+   "versiculos": [
+    19,
+    20
+   ],
+   "itens": [
+    "crisostomo-sl49-10-nao-vinguem-com-a-lingua",
+    {
+     "id": "tomas-sl49-10-sentado-e-tranquilo",
+     "texto": "Acontece às vezes que alguém diz uma palavra amarga movido e provocado: isso é, de algum modo, tolerável. Mas quando alguém, de coração tranquilo, sem ser provocado, diz coisas más, isso é iníquo e detestável; e por isso diz: «sentado», isto é, tranquilo. [...] O pecado se agrava pela pessoa contra quem se fala: pois, se falasse contra um iníquo, seria diferente."
+    }
+   ]
+  },
+  {
+   "id": "eu-me-calei",
+   "titulo": "«Fizeste isso, e eu me calei»: a paciência de Deus e o pecado posto diante dos olhos",
+   "versiculos": [
+    21,
+    22
+   ],
+   "itens": [
+    "crisostomo-sl49-11-silencio-e-paciencia",
+    {
+     "id": "agostinho-sl49-28-diante-do-proprio-rosto",
+     "texto": "Pois, se te visses e te desagradasses, agradarias a mim; mas, como não te vendo agradaste a ti mesmo, desagradarás a mim e a ti: a mim, quando fores julgado; a ti, quando arderes. «Eu te porei diante do teu rosto.» Pois queres esconder-te de ti mesmo? Estás nas tuas próprias costas e não te vês: faço que te vejas; o que puseste atrás das costas, porei diante do rosto; verás a tua feiura, não para te corrigires, mas para te envergonhares. [...] Faze, pois, tu agora, quem quer que sejas, o que Deus ameaça fazer-te. Tira-te de trás de ti, onde não queres te ver, disfarçando diante dos teus atos, e põe-te diante de ti. Sobe ao tribunal da tua mente, sê juiz de ti mesmo, que o temor te torture, que a confissão irrompa de ti, e dize a teu Deus: «Pois eu conheço a minha iniquidade, e o meu delito está sempre diante de mim.» O que estava atrás de ti, fique diante de ti, para que depois não sejas posto por Deus, o juiz, diante de ti mesmo, e não haja para onde fugir de ti."
+    },
+    "crisostomo-sl49-11-palavras-de-mae"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,120 @@
+{
+ "1": [
+  {
+   "id": "ouvi-isto",
+   "titulo": "«Ouvi isto, todos os povos»: ricos e pobres diante da mesma palavra",
+   "versiculos": [
+    2,
+    3
+   ],
+   "itens": [
+    "ambrosio-ps48-2-a-voz-do-salvador-chama-os-povos",
+    "crisostomo-ps48-3-por-que-se-ensoberbece-a-terra",
+    "agostinho-ps48-3-ricos-e-pobres-no-coracao"
+   ]
+  },
+  {
+   "id": "nos-dias-maus",
+   "titulo": "«Por que hei de temer nos dias maus?»: o que de fato se deve temer",
+   "versiculos": [
+    6
+   ],
+   "itens": [
+    "basilio-ps48-6-as-proprias-obras-acusam",
+    "crisostomo-ps48-6-so-o-pecado-e-de-temer"
+   ]
+  },
+  {
+   "id": "resgatar-o-irmao",
+   "titulo": "«Ninguém pode resgatar o irmão»: o resgate que só Cristo pagou",
+   "versiculos": [
+    8,
+    9
+   ],
+   "itens": [
+    "basilio-ps48-8-nenhum-irmao-resgata-so-o-homem-deus",
+    "ambrosio-ps48-8-o-filho-livre-nao-deve-resgate"
+   ]
+  },
+  {
+   "id": "o-preco-da-vida",
+   "titulo": "O preço da vida, que o dinheiro não paga, e as riquezas mudadas de lugar",
+   "versiculos": [
+    9
+   ],
+   "itens": [
+    "crisostomo-ps48-9-fazer-amigos-com-o-dinheiro",
+    "agostinho-ps48-9-levar-o-trigo-para-cima"
+   ]
+  },
+  {
+   "id": "os-sabios-morrem",
+   "titulo": "«Vê-se que os sábios morrem»: a morte do justo como passagem",
+   "versiculos": [
+    10,
+    11
+   ],
+   "itens": [
+    "crisostomo-ps48-11-a-morte-e-passagem",
+    "agostinho-ps48-11-bebe-o-calice-amargo"
+   ]
+  },
+  {
+   "id": "os-nomes-nas-terras",
+   "titulo": "«Dão os seus nomes às suas terras»: o nome que passa e o nome escrito no céu",
+   "versiculos": [
+    12
+   ],
+   "itens": [
+    "crisostomo-ps48-12-o-nome-que-nao-passa",
+    "ambrosio-ps48-12-os-nomes-escritos-no-ceu"
+   ]
+  },
+  {
+   "id": "como-os-animais",
+   "titulo": "«É semelhante aos animais que perecem»: o homem que esquece a sua dignidade",
+   "versiculos": [
+    13,
+    21
+   ],
+   "itens": [
+    "basilio-ps48-13-conhece-o-teu-preco",
+    "tomas-ps48-n6-pior-que-a-fera"
+   ]
+  },
+  {
+   "id": "a-morte-os-apascenta",
+   "titulo": "«A morte os apascenta», mas «Deus resgatará a minha alma»: o Pastor que vence a morte",
+   "versiculos": [
+    15,
+    16
+   ],
+   "itens": [
+    {
+     "id": "basilio-ps48-15-o-bom-pastor-e-a-manha",
+     "texto": "«A morte os apascenta»: assim foi desde Adão até o tempo de Moisés, até que veio o verdadeiro Pastor, que deu a vida pelas ovelhas e, assim, ressuscitando-as consigo e tirando-as da prisão do Hades, as levou para a manhã da ressurreição. [...] Por isso, quem foi libertado de lá e se livrou do mau pastor diz: «O Senhor é o meu pastor.» E já não há morte, mas vida; já não há queda, mas ressurreição; já não há mentira, mas verdade."
+    },
+    "crisostomo-ps48-15-quem-e-livre-jose-e-a-egipcia",
+    {
+     "id": "joao-paulo-ii-aud-2004-10-27-meditar-na-morte",
+     "texto": "O Salmo 48 (49) nos propõe, portanto, uma meditação realista e severa sobre a morte, meta inelutável e fundamental da existência humana. [...] A reflexão sobre a morte, de fato, mostra-se benéfica, porque relativiza tantas realidades secundárias que, infelizmente, absolutizamos, como a riqueza, o sucesso, o poder…"
+    }
+   ]
+  },
+  {
+   "id": "nao-temas-quando-enriquece",
+   "titulo": "«Não temas quando alguém enriquece»: a glória da casa, que fica, e a do homem",
+   "versiculos": [
+    17,
+    18,
+    19
+   ],
+   "itens": [
+    "crisostomo-ps48-18-a-gloria-da-casa-e-a-do-homem",
+    "ambrosio-ps48-17-o-tesouro-e-um-sonho",
+    "agostinho-ps48-17-o-mau-que-floresce",
+    "ambrosio-ps48-19-louvar-so-na-prosperidade"
+   ]
+  }
+ ]
+}

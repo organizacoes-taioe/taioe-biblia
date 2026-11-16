@@ -1,0 +1,71 @@
+{
+ "1": [
+  {
+   "id": "asas-de-pomba",
+   "titulo": "«Quem me dera asas como de pomba»: a fuga da tempestade, sem deixar de amar",
+   "versiculos": [
+    7,
+    8,
+    9
+   ],
+   "itens": [
+    "agostinho-enps54-v7-pomba-nao-corvo",
+    "teodoreto-ips54-v7-asas-de-pomba",
+    "belarmino-expps54-v7-a-solidao-do-coracao",
+    "agostinho-enps54-v9-cristo-dorme-na-barca"
+   ]
+  },
+  {
+   "id": "o-amigo-traidor",
+   "titulo": "«Mas és tu, o meu companheiro»: a traição do amigo, e Judas",
+   "versiculos": [
+    13,
+    14,
+    15,
+    21,
+    22
+   ],
+   "itens": [
+    "teodoreto-ips54-v14-o-mais-doloroso",
+    "cassiodoro-expps54-v14-a-mesa-doce",
+    {
+     "id": "hilario-trac54-v22-o-oleo-da-lisonja",
+     "texto": "Judas, o lisonjeador, com a palavra amaciada mais que o azeite, fingia cuidar dos pobres, mesmo quando se queixou do alabastro derramado de ungüento precioso, como se isso devesse ir antes para o sustento dos necessitados (Mt 26,9). Mas ele buscava ocasião de furto na coleta do dinheiro. E talvez de tal óleo de lisonja o Profeta se guarde em outro salmo, quando diz: «Que o óleo do pecador não unja a minha cabeça» (Sl 141,5), porque, sob aparência de boa obra, move armas de malícia. Há também nas palavras dardos, como está escrito: «Os seus dentes são escudo e flechas, e a língua é espada afiada» (Sl 57,5). Detesta, portanto, os dardos das palavras, que mais prejudicam sob carícia e adulação."
+    }
+   ]
+  },
+  {
+   "id": "tarde-manha-meio-dia",
+   "titulo": "«De tarde, de manhã e ao meio-dia»: o clamor que Deus ouve",
+   "versiculos": [
+    17,
+    18
+   ],
+   "itens": [
+    {
+     "id": "bruno-segni-expps54-v17-o-clamor-da-vontade",
+     "texto": "«Eu, porém, clamarei a Deus»: esse clamor não é da boca, mas só da vontade. Grande é o clamor da vontade, e ressoa claríssimo nos ouvidos da divindade, e não há distância de demora entre a oração e o atendimento. Pois também Moisés, muito inferior a Cristo, clamava no coração, e contudo o Senhor lhe disse: «Por que clamas a mim?» (Ex 14,15)."
+    },
+    {
+     "id": "agostinho-enps54-v18-tarde-manha-meio-dia",
+     "texto": "«De tarde, de manhã e ao meio-dia»: evangeliza tu, não te cales sobre o que recebeste: de tarde, sobre o passado; de manhã, sobre o futuro; ao meio-dia, sobre o eterno. [...] De tarde, o Senhor na cruz; de manhã, na ressurreição; ao meio-dia, na ascensão: de tarde narro a paciência de quem morre; de manhã anuncio a vida de quem ressuscita; ao meio-dia peço que me ouça, sentado à direita do Pai: ouvirá a minha voz aquele que intercede por nós."
+    }
+   ]
+  },
+  {
+   "id": "o-teu-fardo",
+   "titulo": "«Lança sobre o Senhor o teu fardo, e ele te sustentará»",
+   "versiculos": [
+    23
+   ],
+   "itens": [
+    "agostinho-enps54-v23-o-porto-nao-o-rochedo",
+    "cassiodoro-expps54-v23-o-pensamento-do-seculo",
+    {
+     "id": "eusebio-comps54-v23-lanca-o-cuidado",
+     "texto": "Tu, que ouves isto, advertido pelo fim do que foi dito antes, e que te entregas por inteiro ao que é profetizado, tem coragem: lança sobre ele o teu cuidado, como quem foi instruído pela Nova Aliança, na qual o próprio Salvador ensina: «Não vos preocupeis com o que comer nem com o que beber»; e: «Não possuais ouro, nem prata, nem cobre nos vossos cintos». Guardando isso, «lança sobre o Senhor o teu cuidado, e ele te sustentará», dando-te o pão de cada dia e o alimento racional e celeste, e provendo também o necessário à vida. Pois a quem assim faz foi prometido: «Vosso Pai celeste sabe de que precisais antes que o peçais». «Ele te sustentará», como a todo justo: nunca abandonou nenhum dos justos a ponto de deixá-lo suportar a agitação, para ser abalado e cair."
+    }
+   ]
+  }
+ ]
+}

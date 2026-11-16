@@ -1,0 +1,67 @@
+{
+ "1": [
+  {
+   "id": "o-insensato",
+   "titulo": "«Diz o insensato: Não há Deus»: Santo Anselmo e o Deus que não se pode pensar que não exista",
+   "versiculos": [
+    2
+   ],
+   "itens": [
+    "anselmo-proslogion-2-o-insensato-entende",
+    "anselmo-proslogion-4-dizer-no-coracao"
+   ]
+  },
+  {
+   "id": "no-seu-coracao",
+   "titulo": "«No seu coração»: a negação de Deus que nasce do vício, e não da razão",
+   "versiculos": [
+    2
+   ],
+   "itens": [
+    "hilario-trac52-v2-dizer-no-coracao",
+    "agostinho-enps52-v1-deus-aprova-meus-atos",
+    {
+     "id": "tomas-postilla-sl52-v1-nao-ha-deus",
+     "texto": "Santo Anselmo diz que ninguém pode pensar que Deus não existe. Deve-se dizer que uma coisa pode ser desconhecida para nós de dois modos: em si mesma ou em relação a nós. [...] Se considerarmos Deus em si mesmo, não se pode pensar que ele não existe, e nenhuma proposição é mais evidente do que aquela cujo predicado está incluído no sujeito. O ser de Deus é a sua essência; por isso a proposição «Deus existe» é, em si, conhecida por si no grau máximo. Quanto a nós, porém, a essência de Deus não nos é conhecida, e só chegamos a ela pelos seus efeitos. [...] Daí que quem nega alguns efeitos de Deus, como a providência sobre os bons e os maus e sobre todas as coisas, ou os milagres, ou que ele seja onipotente, nega Deus."
+    }
+   ]
+  },
+  {
+   "id": "todos-se-desviaram",
+   "titulo": "Deus olha do céu e acha todos desviados: a corrupção de quem se afasta de Deus",
+   "versiculos": [
+    3,
+    4
+   ],
+   "itens": [
+    "hilario-trac52-v3-deus-olha-do-ceu",
+    "nissa-inscr-ps52-corrupcao-queda-do-ser",
+    "hilario-trac52-v4-inuteis-e-desviados"
+   ]
+  },
+  {
+   "id": "como-quem-come-pao",
+   "titulo": "«Devoram o meu povo como quem come pão, e não invocam a Deus»",
+   "versiculos": [
+    5
+   ],
+   "itens": [
+    "agostinho-enps52-v5-devorar-como-pao",
+    "agostinho-enps52-v5-invocar-deus"
+   ]
+  },
+  {
+   "id": "onde-nao-havia-medo",
+   "titulo": "«Tremeram de medo onde não havia medo»: o medo da salvação e a alegria da volta",
+   "versiculos": [
+    6,
+    7
+   ],
+   "itens": [
+    "hilario-trac52-v6-temer-o-que-nao-se-deve",
+    "nissa-inscr-ps52-o-medo-dos-hidrofobos",
+    "teodoreto-ips52-chorar-com-os-que-choram"
+   ]
+  }
+ ]
+}

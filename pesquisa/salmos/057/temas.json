@@ -1,0 +1,107 @@
+{
+ "1": [
+  {
+   "id": "nao-destruas",
+   "titulo": "«Não destruas»: Davi na caverna poupa Saul e vence a própria ira",
+   "versiculos": [
+    1,
+    4
+   ],
+   "itens": [
+    "nissa-inscr-ps56-1-contra-as-paixoes",
+    "teodoreto-ips56-1-nao-destruas",
+    "teodoreto-ips56-4-a-vergonha-do-salvo"
+   ]
+  },
+  {
+   "id": "tem-piedade",
+   "titulo": "«Tem piedade de mim, ó Deus»: Cristo ora no salmo para nos ensinar a orar",
+   "versiculos": [
+    2
+   ],
+   "itens": [
+    "agostinho-ps56-2-disce-orare",
+    "cassiodoro-expps56-conclusao-orat-christus"
+   ]
+  },
+  {
+   "id": "sombra-das-asas",
+   "titulo": "«À sombra das tuas asas»: o refúgio em Deus, nos braços abertos da cruz",
+   "versiculos": [
+    2
+   ],
+   "itens": [
+    "origenes-selecta-sl56-2-da-sombra-a-ele",
+    {
+     "id": "segni-expps56-2-as-asas-da-cruz",
+     "texto": "Vejo-te agora pendente na cruz, estendendo as mãos e os braços como asas; sob a sombra destas asas protege-me, porque espero à sombra das tuas asas. Toda a esperança dos cristãos é, com efeito, a cruz e a paixão do Senhor. Essa esperança a Igreja a tem até que o mundo passe com as suas iniquidades; depois, já não haverá esperança, porque terá recebido tudo o que se pode esperar."
+    },
+    "arnobio-ps56-2-confiar-nao-no-ouro"
+   ]
+  },
+  {
+   "id": "leva-tudo-a-termo",
+   "titulo": "O Deus que leva tudo a termo e envia do céu a sua misericórdia e a sua verdade",
+   "versiculos": [
+    3,
+    4
+   ],
+   "itens": [
+    "agostinho-ps56-3-a-confianca-nasce-da-experiencia",
+    "segni-expps56-4-misericordia-e-verdade"
+   ]
+  },
+  {
+   "id": "eleva-te",
+   "titulo": "«Eleva-te acima dos céus, ó Deus»: a exaltação que nasce da humildade",
+   "versiculos": [
+    6,
+    12
+   ],
+   "itens": [
+    "hilario-ps56-6-quem-desce-e-exaltado",
+    "hilario-ps56-12-sem-medida"
+   ]
+  },
+  {
+   "id": "a-cova",
+   "titulo": "«Cavaram diante de mim uma cova, e nela caíram»: o mal que se volta contra quem o faz",
+   "versiculos": [
+    7
+   ],
+   "itens": [
+    "agostinho-ps56-7-a-alegria-e-a-cova",
+    "segni-expps56-7-a-alma-curvada"
+   ]
+  },
+  {
+   "id": "firme-o-coracao",
+   "titulo": "«Firme está o meu coração»: o coração preparado diante das ciladas",
+   "versiculos": [
+    8
+   ],
+   "itens": [
+    "teodoreto-ips56-8-firme-o-coracao",
+    "agostinho-ps56-8-paratum-cor"
+   ]
+  },
+  {
+   "id": "despertar-a-aurora",
+   "titulo": "«Quero despertar a aurora»: o louvor da Páscoa entre todos os povos",
+   "versiculos": [
+    9,
+    10,
+    11
+   ],
+   "itens": [
+    {
+     "id": "jp2-aud20010919-8-9-a-aurora",
+     "texto": "As trevas já se dissiparam: a aurora da salvação é aproximada pelo canto de quem reza. [...] Por isso, na tradição cristã, o Salmo 56 (57) se transformou em canto do despertar para a luz e para a alegria pascal, que se irradia no fiel, cancelando o medo da morte e abrindo o horizonte da glória celeste."
+    },
+    "teodoreto-ips56-9-o-coro-das-nacoes",
+    "cassiodoro-expps56-10-psalmodia-das-nacoes",
+    "agostinho-ps56-11-as-nuvens-e-os-anjos"
+   ]
+  }
+ ]
+}

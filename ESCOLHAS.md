@@ -58,6 +58,7 @@ Vale para pessoas, povos e lugares, também nos comentários dos Padres.
 - Nm 34: os lugares da fronteira e os chefes das tribos, que a liturgia não lê, como no projeto antigo (o mar Salgado, o mar Grande, o mar de Ceneret, com notas); Caleb, filho de Jefoné; Josué, filho de Num.
 - Gn 3: Eva e Éden, como o lecionário.
 - Sl 38–47: Iditun, Coré (os filhos de Coré), o Jordão, o Hermon, o monte Misar, Jacó, Tiro, Ofir (como o lecionário da Assunção) e Abraão, como no projeto antigo.
+- Sl 48–57: Sião, Társis, Asaf, Natã, Betsabé (como o lecionário; a tradução de partida dizia «Betsabeia»), Urias, Doeg, o edomita, Aquimelec, Nob, Zif (os zifeus), Gat, os filisteus, Adulam e Engadi.
 - 2Cor 8–13: Macedônia, Tito, Acaia, Satanás, Abraão, Paulo, como o lecionário (2Cor 8,1-9; 11,18-30; 12,1-10); Eva, Damasco e Aretas, como no projeto antigo; «quatorze anos» (12,2), como o lecionário.
 - Gn 4: Adão, Eva, Caim, Abel e Set, como o lecionário; Nod, Henoc, Irad, Maviael, Matusael, Lamec, Ada, Sela, Jabel, Jubal, Tubalcaim e Noema, que a liturgia não lê, como no projeto antigo; *Enosh* = Enós (o projeto antigo dizia «Enos»; Gn 5 muda ao entrar).
 - Gn 2: Éden (como o lecionário); Píson, Havilá, Geon, Tigre, Assíria e Eufrates, que a liturgia não lê, como no projeto antigo; *Kush* = Etiópia (2,13), como em Nm 12.
@@ -84,6 +85,15 @@ Vale para pessoas, povos e lugares, também nos comentários dos Padres.
 | *qawwo qiwwiti* | Esperando, esperei | Sl 40,2, o hebraico dobrado, como o lecionário | Sl 40 |
 | *penimá* (Sl 45,14) | lá dentro | «Toda gloriosa, lá dentro, está a filha do rei», a glória interior dos Padres | Sl 45 |
 | *yeshu'ot panayv* (Sl 42,6) | a salvação da sua face | pelo hebraico, com «Meu Deus» no começo do v. 7; o refrão de 42,12 e 43,5 diz «da minha face e o meu Deus» | Sl 42 |
+| *sheol* | a morada dos mortos | Sl 49,15-16; 55,16 «desçam vivos à morada dos mortos», como Nm 16,30.33 | Nm 16 |
+| *ruah qodshekha* (Sl 51,13) | o teu Santo Espírito | maiúscula, como o lecionário e Gn 1,2 | Sl 51 |
+| *dimminu* (Sl 48,10) | meditamos | a Vulgata diz *suscepimus* («recebemos»), como a antífona da Apresentação do Senhor | Sl 48 |
+| *ah* (Sl 49,8) | o irmão | «Ninguém pode resgatar o irmão», o hebraico e a Vulgata (*frater*); a tradução de partida dizia «a si mesmo» | Sl 49 |
+| *qirbam* (Sl 49,12) | no íntimo | o hebraico; a Bíblia grega e a Vulgata leem «sepulcros» (*qibram*) | Sl 49 |
+| *zivhe-tsedeq* | sacrifícios de justiça | Sl 51,21; a tradução de partida dizia «legítimos» | Sl 51 |
+| *kalil* | oferta inteira | Sl 51,21 «os holocaustos e as ofertas inteiras» | Sl 51 |
+| *al-mut* (Sl 48,15) | até a morte | o hebraico; a confirmar («para sempre», a Bíblia grega e a Vulgata) | Sl 48, a confirmar |
+| *tehatte'eni be'ezov* (Sl 51,9) | Asperge-me com o hissopo | como a Vulgata e o rito da aspersão; a confirmar («Purifica-me») | Sl 51, a confirmar |
 | *mittov* (Sl 39,3) | calar-se até do bem | como a Vulgata e Ambrósio; a confirmar («sem proveito», da tradução de partida) | Sl 39, a confirmar |
 | *ve'era'e pene elohim* (Sl 42,3) | apresentar-me diante da face de Deus | as vogais do hebraico, a LXX e a Vulgata; a confirmar («ver a face», o lecionário) | Sl 42, a confirmar |
 | *teruá* | aclamação | conferir os lugares em que saiu «júbilo»; Sl 33,3 «tocai com arte, entre aclamações» | Sl 33, aprovado |

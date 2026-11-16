@@ -1,0 +1,457 @@
+[
+  {
+    "id": "agostinho-enps53-v2-os-zifeus-florescem",
+    "autor": "Santo Agostinho",
+    "autor_id": "agostinho",
+    "datas": "354–430",
+    "titulo_autor": "bispo de Hipona, Doutor da Igreja",
+    "obra": "Comentário aos Salmos (Enarrationes in Psalmos)",
+    "passagem": "Sl 53 (Vulgata), 2",
+    "edicao": "PL 36, 619–620",
+    "trecho": "1",
+    "versiculos": [
+      2
+    ],
+    "lingua": "la",
+    "original": "Si quaeramus ergo quid interpretentur Ziphaei, invenimus Florentes. Florentes ergo nescio qui inimici erant sancto David, florentes latenti. [...] Attende David latentem: Mortui enim estis, dicit Apostolus membris Christi, et vita vestra abscondita est cum Christo in Deo. Isti ergo latentes quando erunt florentes? Cum Christus, inquit, apparuerit vita vestra, tunc et vos cum illo apparebitis in gloria. Quando erunt isti florentes, tunc erunt illi Ziphaei arescentes.",
+    "fonte_url": "https://www.augustinus.it/latino/esposizioni_salmi/esposizione_salmo_069_testo.htm",
+    "traducao_pt": "Se perguntarmos o que significa «zifeus», descobrimos: «os que florescem». Eram, pois, inimigos do santo Davi uns homens que florescem, enquanto ele estava escondido. [...] Considera Davi escondido: «Estais mortos», diz o Apóstolo aos membros de Cristo, «e a vossa vida está escondida com Cristo em Deus». Quando, então, esses escondidos florescerão? «Quando Cristo, que é a vossa vida, aparecer, então também vós aparecereis com ele na glória». Quando estes florescerem, aqueles zifeus murcharão.",
+    "temas": [
+      "os zifeus: quem floresce",
+      "a vida escondida em Cristo"
+    ],
+    "resumo": "Zifeus quer dizer «os que florescem»: os mundanos florescem agora, enquanto a vida dos justos está escondida com Cristo; quando esta aparecer, aqueles murcharão.",
+    "relevancia": 3,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "agostinho-enps53-v3-salvar-e-julgar",
+    "autor": "Santo Agostinho",
+    "autor_id": "agostinho",
+    "datas": "354–430",
+    "titulo_autor": "bispo de Hipona, Doutor da Igreja",
+    "obra": "Comentário aos Salmos (Enarrationes in Psalmos)",
+    "passagem": "Sl 53 (Vulgata), 4",
+    "edicao": "PL 36, 623",
+    "trecho": "1",
+    "versiculos": [
+      3
+    ],
+    "lingua": "la",
+    "original": "Venit ergo ut moreretur ex infirmitate, venturus est ut iudicet in virtute Dei: sed per infirmitatem crucis clarificatum est nomen eius. Quisquis non crediderit in nomen clarificatum per infirmitatem, expavescet ad iudicem cum venerit in virtute. Ne autem quondam ille infirmus, cum venerit fortis, ventilabro illo ad sinistram nos mittat; salvet nos in nomine suo, et iudicet nos in virtute sua. Quis enim hoc tam temerarius optaverit, ut dicat Deo: Iudica me? Nonne pro maledicto dici solet hominibus: Iudicet te Deus? Ita plane est maledictum, si iudicat te in virtute sua; sed si non te salvaverit in nomine suo: cum vero in nomine praecedente salvaverit te, salubriter in virtute consequente iudicabit. Securus esto: iudicium illud non tibi erit punitio, sed discretio.",
+    "fonte_url": "https://www.augustinus.it/latino/esposizioni_salmi/esposizione_salmo_069_testo.htm",
+    "traducao_pt": "Veio, pois, para morrer por fraqueza; virá para julgar com o poder de Deus. Mas pela fraqueza da cruz foi glorificado o seu nome. Quem não crer no nome glorificado pela fraqueza temerá o juiz quando ele vier com poder. Que aquele que outrora foi fraco, quando vier forte, não nos mande com aquela pá de joeirar para a esquerda, mas nos salve em seu nome e nos julgue em seu poder. Quem seria tão temerário a ponto de dizer a Deus: «Julga-me»? Não se costuma dizer aos homens, como maldição: «Que Deus te julgue»? Sim, é maldição, se ele te julga com o seu poder e antes não te salvou em seu nome; mas, se em seu nome, que vem primeiro, te salvou, ele te julgará de modo salutar com o seu poder, que vem depois. Fica tranquilo: aquele juízo não será para ti castigo, mas separação.",
+    "temas": [
+      "salvar no nome, julgar no poder",
+      "o juízo final"
+    ],
+    "resumo": "Pedir «julga-me» seria temeridade se Deus não nos salvasse antes em seu nome; quem foi salvo pelo nome fraco da cruz será julgado com poder, e esse juízo é separação, não castigo.",
+    "relevancia": 3,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "agostinho-enps53-v6-deus-me-ajuda-por-dentro",
+    "autor": "Santo Agostinho",
+    "autor_id": "agostinho",
+    "datas": "354–430",
+    "titulo_autor": "bispo de Hipona, Doutor da Igreja",
+    "obra": "Comentário aos Salmos (Enarrationes in Psalmos)",
+    "passagem": "Sl 53 (Vulgata), 8",
+    "edicao": "PL 36, 625",
+    "trecho": "1",
+    "versiculos": [
+      6
+    ],
+    "lingua": "la",
+    "original": "Omnes enim sancti adiuvantur a Deo, sed intus ubi nemo videt. Quomodo enim magna est poena impiorum conscientia, sic magnum gaudium piorum ipsa conscientia. Nam gloria nostra haec est, ait Apostolus, testimonium conscientiae nostrae. In hac gloriatur iste intus, non in flore Ziphaeorum foris, qui modo ait: Ecce enim Deus adiuvat me. Prorsus quamvis longe futura sint quae promittit, hodie mihi dulce et praesens est adiutorium, hodie in cordis mei gaudio invenio quia sine causa dicunt quidam: Quis ostendit nobis bona? Signatum est enim super nos lumen vultus tui, Domine; dedisti iucunditatem in cor meum: non in vineam meam, non in gregem meum, non in cuppam meam, non in mensam meam, sed in cor meum.",
+    "fonte_url": "https://www.augustinus.it/latino/esposizioni_salmi/esposizione_salmo_069_testo.htm",
+    "traducao_pt": "Todos os santos são ajudados por Deus, mas por dentro, onde ninguém vê. Pois, assim como a consciência é grande castigo para os ímpios, é também grande alegria para os piedosos: «A nossa glória é esta», diz o Apóstolo, «o testemunho da nossa consciência». É nela que este se gloria, por dentro, e não na flor dos zifeus, por fora, quando diz: «Eis que Deus me ajuda». Embora seja distante o que ele promete, hoje o auxílio me é doce e presente: hoje, na alegria do coração, descubro que sem razão dizem alguns: «Quem nos mostrará os bens?» «Foi impressa sobre nós a luz do teu rosto, Senhor; puseste a alegria no meu coração»: não na minha vinha, não no meu rebanho, não na minha taça, não na minha mesa, mas no meu coração.",
+    "temas": [
+      "o auxílio interior de Deus",
+      "a consciência como alegria"
+    ],
+    "resumo": "Deus ajuda os seus por dentro, onde ninguém vê: a alegria que ele dá não está na vinha, no rebanho nem na mesa, mas no coração.",
+    "relevancia": 3,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "agostinho-enps53-v8-de-bom-grado",
+    "autor": "Santo Agostinho",
+    "autor_id": "agostinho",
+    "datas": "354–430",
+    "titulo_autor": "bispo de Hipona, Doutor da Igreja",
+    "obra": "Comentário aos Salmos (Enarrationes in Psalmos)",
+    "passagem": "Sl 53 (Vulgata), 10",
+    "edicao": "PL 36, 625",
+    "trecho": "1",
+    "versiculos": [
+      8
+    ],
+    "lingua": "la",
+    "original": "Quare ergo, voluntarie? Quia gratis amo quod laudo. Laudo Deum, et in ipsa laude gaudeo: ipsius laude gaudeo, quo laudato non erubesco. [...] Quid est gratuitum? Ipse propter se, non propter aliud. Si enim laudas Deum ut det tibi aliquid aliud, iam non gratis amas Deum. Erubesceres si te uxor tua propter divitias amaret; et forte si tibi paupertas accideret, de adulterio cogitaret. Cum ergo te a coniuge gratis amari velis, tu Deum propter aliud amabis? [...] Quod praemium accepturus es a Deo, o avare? Non tibi terram, sed seipsum servat qui fecit coelum et terram.",
+    "fonte_url": "https://www.augustinus.it/latino/esposizioni_salmi/esposizione_salmo_069_testo.htm",
+    "traducao_pt": "Por que, então, «de bom grado»? Porque amo gratuitamente o que louvo. Louvo a Deus e na própria louvação me alegro; alegro-me com o seu louvor, e louvá-lo não me envergonha. [...] Que é gratuito? Ele mesmo, por si, e não por outra coisa. Se louvas a Deus para que ele te dê outra coisa, já não amas a Deus gratuitamente. Terias vergonha se tua esposa te amasse por causa das riquezas, e, se a pobreza te sobreviesse, talvez pensasse em adultério. Se queres, então, ser amado gratuitamente por tua esposa, amarás tu a Deus por outra coisa? [...] Que prêmio receberás de Deus, avarento? Não é a terra que ele te reserva, mas a si mesmo, ele que fez o céu e a terra.",
+    "temas": [
+      "amar a Deus gratuitamente",
+      "o sacrifício de louvor"
+    ],
+    "resumo": "«De bom grado» quer dizer: sem interesse. Quem louva a Deus para receber outra coisa não o ama; Deus reserva ao justo não um prêmio, mas a si mesmo.",
+    "relevancia": 3,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "hilario-trac53-v4-as-palavras-da-boca",
+    "autor": "Santo Hilário de Poitiers",
+    "autor_id": "hilario",
+    "datas": "c. 315–367",
+    "titulo_autor": "bispo de Poitiers, Doutor da Igreja",
+    "obra": "Tratado sobre os Salmos (Tractatus super Psalmos)",
+    "passagem": "Sl 53 (Vulgata), n. 6",
+    "edicao": "PL 9, 340C–341A",
+    "trecho": "1",
+    "versiculos": [
+      4
+    ],
+    "lingua": "la",
+    "original": "Et quisquam hoc humanae fiduciae esse existimabit, ut verba oris sui velit audiri? An illa quibus motus animi nostri et impetus pronuntiamus, tum cum de ira exardescimus, tum cum de odio obtrectamus, tum cum de dolore querimur, tum cum de adulatione blandimur, tum cum aut pro spe lucri aut de veritatis pudore mentimur, aut de contumeliae offensione maledicimus? Et quis usquam vitae ita emendatae et patientis ad omnia fuit, ut his humanae demutationis vitiis non esset obnoxius? Solus hoc potuit cum fiducia velle, qui peccatum non fecit, in cujus ore dolus non fuit, qui flagellis dorsum praebuit, maxillas ab alapis non deflexit, sputamentorum contumeliam non exprobravit, et in nullo voluntatem ejus, cujus ad haec voluntati in omnibus volens obediebat, offendit.",
+    "fonte_url": "https://mlat.uzh.ch/browser/cps_2.HilPic.TrSuPs",
+    "traducao_pt": "E alguém julgará que é confiança humana querer que se ouçam as palavras da própria boca? Aquelas com que expressamos os movimentos e impulsos da alma: quando nos inflamamos de ira, quando difamamos por ódio, quando nos queixamos de dor, quando bajulamos, quando mentimos por esperança de lucro ou por vergonha da verdade, quando amaldiçoamos ofendidos por uma injúria? E quem teve jamais uma vida tão corrigida e paciente em tudo que não estivesse sujeito a esses vícios da inconstância humana? Só pôde querer isso com confiança aquele que não cometeu pecado, em cuja boca não houve engano, que ofereceu o dorso aos flagelos, não desviou as faces das bofetadas, não devolveu a injúria dos escarros e em nada ofendeu a vontade daquele a cuja vontade obedecia em tudo de bom grado.",
+    "temas": [
+      "as palavras da nossa boca",
+      "a oração de Cristo"
+    ],
+    "resumo": "Pedir que Deus ouça «as palavras da minha boca» só tem confiança em quem nunca pecou com a língua, pois as nossas palavras saem de ira, ódio, queixa, adulação, mentira e maldição.",
+    "relevancia": 3,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "hilario-trac53-v6-deus-meu-auxilio",
+    "autor": "Santo Hilário de Poitiers",
+    "autor_id": "hilario",
+    "datas": "c. 315–367",
+    "titulo_autor": "bispo de Poitiers, Doutor da Igreja",
+    "obra": "Tratado sobre os Salmos (Tractatus super Psalmos)",
+    "passagem": "Sl 53 (Vulgata), n. 10",
+    "edicao": "PL 9, 343B",
+    "trecho": "1",
+    "versiculos": [
+      6,
+      7
+    ],
+    "lingua": "la",
+    "original": "Habeat itaque hanc innocens religio fiduciam, ut inter humanas insectationes et animae pericula adjutorem sibi Deum esse non ambigat: et si quando injustae mortis vis afferatur, excedentem habitaculo corporis animam sciat in Dei susceptione requiescere. Habeat ultionis quoque certissimam securitatem, cum mala omnia in eos qui inferant revertantur. Non potest iniquitatis argui Deus; nec perfectae bonitati, malignae voluntatis instinctus ac motus admixtus est. Mala enim non malevolus excitat, sed ultor retorquet: neque ea ex malitia sua affert, sed in merita nostra convertit.",
+    "fonte_url": "https://mlat.uzh.ch/browser/cps_2.HilPic.TrSuPs",
+    "traducao_pt": "Tenha, pois, a religião inocente esta confiança: no meio das perseguições humanas e dos perigos da alma, não duvide de que Deus é o seu auxílio; e, se alguma vez chegar a violência de uma morte injusta, saiba que a alma, ao deixar a morada do corpo, repousa acolhida por Deus. Tenha também a mais firme segurança quanto à justiça, pois todos os males recaem sobre os que os infligem. Não se pode acusar Deus de iniquidade, nem à bondade perfeita se mistura o impulso de uma vontade maligna. Pois o mal não o provoca o malévolo, mas o faz voltar o vingador; e Deus não o traz por malícia sua, mas o aplica segundo os nossos méritos.",
+    "temas": [
+      "Deus é o meu auxílio",
+      "o mal volta a quem o faz"
+    ],
+    "resumo": "O justo pode confiar: Deus o ajuda e acolhe a sua alma, mesmo na morte injusta; e o mal que recai sobre os maus não vem da malícia de Deus, mas da sua justiça.",
+    "relevancia": 3,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "hilario-trac53-v9-olha-de-cima-os-inimigos",
+    "autor": "Santo Hilário de Poitiers",
+    "autor_id": "hilario",
+    "datas": "c. 315–367",
+    "titulo_autor": "bispo de Poitiers, Doutor da Igreja",
+    "obra": "Tratado sobre os Salmos (Tractatus super Psalmos)",
+    "passagem": "Sl 53 (Vulgata), n. 14",
+    "edicao": "PL 9, 346A–346B",
+    "trecho": "1",
+    "versiculos": [
+      9
+    ],
+    "lingua": "la",
+    "original": "Morte enim non interceptus est unigenitus Dei filius. [...] manet resurgens, et inimicos suos immortali oculo despicit, [...] Inimicos suos despicit, quibus dixerat, Solvite templum hoc, et post triduum reaedificabo illud (Joan. II, 19). Aedificato igitur hoc corporis sui templo, eos qui quaesierant animam suam ex edito videt, et ultra humanae mortis legem auctores mortis suae sublimis ipse despectat, mortem perpetiens, sed mori nesciens, Deus homo Dominus noster Jesus Christus",
+    "fonte_url": "https://mlat.uzh.ch/browser/cps_2.HilPic.TrSuPs",
+    "traducao_pt": "A morte não surpreendeu o Filho unigênito de Deus. [...] Permanece, ressuscitado, e com olhar imortal olha de cima os seus inimigos, [...] aqueles a quem dissera: «Destruí este templo, e em três dias o reconstruirei». Reconstruído, pois, este templo do seu corpo, vê do alto os que tinham procurado a sua vida e, acima da lei da morte humana, olha do alto, sublime, os autores da sua morte, ele que sofreu a morte mas não sabe morrer: Deus e homem, Nosso Senhor Jesus Cristo.",
+    "temas": [
+      "Cristo ressuscitado olha os inimigos",
+      "a morte vencida"
+    ],
+    "resumo": "Hilário lê «os meus olhos viram a derrota dos meus inimigos» de Cristo ressuscitado, que olha de cima os autores da sua morte, ele que sofreu a morte e não sabe morrer.",
+    "relevancia": 2,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "cassiodoro-expps53-v3-salvar-no-nome",
+    "autor": "Cassiodoro",
+    "autor_id": "cassiodoro",
+    "datas": "c. 485–c. 580",
+    "titulo_autor": "senador romano e monge, fundador de Vivário",
+    "obra": "Exposição dos Salmos (Expositio Psalmorum)",
+    "passagem": "Sl 53 (Vulgata), v. 1",
+    "edicao": "PL 70, 382B",
+    "trecho": "1",
+    "versiculos": [
+      3
+    ],
+    "lingua": "la",
+    "original": "Orat enim propheta ut in nomine Domini Salvatoris a persequentium malignitate liberetur. Multi enim in hoc mundo salvari sibi videntur ad praesens, sed non in nomine Domini; ut si quis philacteriis vel incantatione sacrilega praesentibus aegritudinibus nonnullis appareat sublevatus; et ut si quis corrupto judice pecuniarum molibus a facinore commisso liberetur. Iste vero illam petit sibi tribui sospitatem, quae venit a Domino; ut hic utique fide sincerissima perseverans, a pestilentia mundi istius concessa mentis incolumitate salvetur.",
+    "fonte_url": "https://mlat.uzh.ch/browser/cps_2.CasViv.ExInPs",
+    "traducao_pt": "O profeta pede para ser livrado da maldade dos perseguidores no nome do Senhor Salvador. Muitos, com efeito, nesta vida parecem salvar-se por ora, mas não no nome do Senhor: como quem parece aliviado de enfermidades presentes por amuletos ou por encantamento sacrílego, ou quem, corrompido o juiz, se livra com somas de dinheiro de um crime cometido. O salmista, ao contrário, pede para si aquela saúde que vem do Senhor, para que, perseverando com fé sinceríssima, seja salvo da peste deste mundo, com a incolumidade da mente que lhe é concedida.",
+    "temas": [
+      "salvar-se no nome do Senhor",
+      "falsas seguranças"
+    ],
+    "resumo": "Há quem pareça salvo sem o nome do Senhor, por amuletos ou por suborno; o salmista pede a saúde que vem de Deus, a incolumidade da mente.",
+    "relevancia": 2,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "cassiodoro-expps53-v8-sacrificar-de-bom-grado",
+    "autor": "Cassiodoro",
+    "autor_id": "cassiodoro",
+    "datas": "c. 485–c. 580",
+    "titulo_autor": "senador romano e monge, fundador de Vivário",
+    "obra": "Exposição dos Salmos (Expositio Psalmorum)",
+    "passagem": "Sl 53 (Vulgata), v. 6",
+    "edicao": "PL 70, 383C–383D",
+    "trecho": "1",
+    "versiculos": [
+      8
+    ],
+    "lingua": "la",
+    "original": "Voluntarie sacrificat Domine, qui pro inimicis suis studio pietatis exorat. Nam qui petit inimicorum vindictam, qui se ulcisci desiderat calamitatibus alienis, vel qui propter alia mundi desideria supplicat, voluntarie non sacrificat Domino; quia non ejus amore rogat, sed potentiam ipsius rerum aliquarum necessitate deprecatur. Sacrificare autem voluntarie Domino est, puritatem bonae voluntatis offerre; et propter hoc tantum illum colere, timere, vel amare quod Deus est, quod creator, quod rerum omnium pius probatur esse dispositor.",
+    "fonte_url": "https://mlat.uzh.ch/browser/cps_2.CasViv.ExInPs",
+    "traducao_pt": "Sacrifica de bom grado ao Senhor quem, por zelo de piedade, intercede por seus inimigos. Pois quem pede a vingança contra os inimigos, quem deseja vingar-se com as calamidades alheias, ou quem suplica por outros desejos do mundo, não sacrifica de bom grado ao Senhor, porque não reza por amor a ele, mas invoca o seu poder por necessidade de alguma coisa. Sacrificar de bom grado ao Senhor é oferecer a pureza da boa vontade, e honrá-lo, temê-lo e amá-lo só porque é Deus, porque é criador, porque se mostra o piedoso ordenador de todas as coisas.",
+    "temas": [
+      "amar a Deus gratuitamente",
+      "rezar pelos inimigos"
+    ],
+    "resumo": "Só sacrifica «de bom grado» quem reza pelos inimigos e honra a Deus apenas porque ele é Deus, sem usá-lo para vingança ou para alguma necessidade.",
+    "relevancia": 2,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "cassiodoro-expps53-v9-saulo-impedido",
+    "autor": "Cassiodoro",
+    "autor_id": "cassiodoro",
+    "datas": "c. 485–c. 580",
+    "titulo_autor": "senador romano e monge, fundador de Vivário",
+    "obra": "Exposição dos Salmos (Expositio Psalmorum)",
+    "passagem": "Sl 53 (Vulgata), v. 7",
+    "edicao": "PL 70, 384A–384B",
+    "trecho": "1",
+    "versiculos": [
+      9
+    ],
+    "lingua": "la",
+    "original": "Super inimicos autem ejus Ziphaeos respexit oculus Domini, quando eos cogitationes nefarias minime complere permisit. Frequenter enim propitius Deus iniqua nos non permittit efficere; ut compuncti debeamus de nostris erroribus supplicare; sicut est Saulus prohibitus, cum a sacerdotibus ad Damascum mitteretur ut Ecclesiam Christi saevissima persecutione vastaret (Act. IX, 1). Magna siquidem prosperitate non est permissus agere, unde potuisset ad aeterna supplicia pervenire.",
+    "fonte_url": "https://mlat.uzh.ch/browser/cps_2.CasViv.ExInPs",
+    "traducao_pt": "O olhar do Senhor pousou sobre os zifeus, seus inimigos, quando não permitiu que realizassem os seus pensamentos nefandos. Muitas vezes, com efeito, Deus, em sua bondade, não nos deixa praticar o mal, para que, compungidos, peçamos perdão pelos nossos erros; assim foi impedido Saulo, quando era enviado pelos sacerdotes a Damasco para devastar a Igreja de Cristo com a mais cruel perseguição. Para seu grande bem não lhe foi permitido fazer aquilo por que poderia chegar aos suplícios eternos.",
+    "temas": [
+      "Deus impede o mal",
+      "a conversão de Saulo"
+    ],
+    "resumo": "Deus olha os inimigos e muitas vezes não os deixa fazer o mal, para que se arrependam: assim impediu Saulo de devastar a Igreja, para seu próprio bem.",
+    "relevancia": 2,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "tomas-postilla-sl53-v7-as-imprecacoes",
+    "autor": "São Tomás de Aquino",
+    "autor_id": "tomas",
+    "datas": "1225–1274",
+    "titulo_autor": "dominicano, Doutor da Igreja",
+    "obra": "Comentário aos Salmos (Postilla super Psalmos)",
+    "passagem": "Sl 53 (Vulgata), n. 4",
+    "edicao": "ed. de Parma, 1863 (Corpus Thomisticum), [87307]",
+    "trecho": "1",
+    "versiculos": [
+      7
+    ],
+    "lingua": "la",
+    "original": "Sed hoc videtur esse contra verbum Christi, qui dicit: orate pro persequentibus. Dicendum quod omnes istae imprecationes quae leguntur in prophetis, tripliciter possunt intelligi. [...] Uno modo per modum pronunciationis quia loquebantur spiritu Dei et praedicebant futura. [...] Alio modo secundum conformitatem ad divinam iustitiam. Tertio secundum spiritualem denunciationem. Peccatores quando desinunt peccare, tunc moriuntur et desinunt esse peccatores. Et hoc est continue precandum.",
+    "fonte_url": "https://www.corpusthomisticum.org/cps52.html#87307",
+    "traducao_pt": "Mas isto parece contrário à palavra de Cristo, que diz: «Rezai pelos que vos perseguem». Deve-se responder que todas essas imprecações que se leem nos profetas podem ser entendidas de três modos. Primeiro, como anúncio: falavam pelo Espírito de Deus e predisseram o futuro. [...] Segundo, em conformidade com a justiça divina. Terceiro, como denúncia espiritual: quando os pecadores deixam de pecar, então morrem e deixam de ser pecadores. E isto deve ser pedido continuamente.",
+    "temas": [
+      "rezar contra os inimigos",
+      "as imprecações dos salmos"
+    ],
+    "resumo": "As maldições dos salmos não contradizem «rezai pelos que vos perseguem»: são anúncio, adesão à justiça de Deus, e pedido de que os pecadores morram para o pecado.",
+    "relevancia": 3,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "tomas-postilla-sl53-v8-tres-sacrificios",
+    "autor": "São Tomás de Aquino",
+    "autor_id": "tomas",
+    "datas": "1225–1274",
+    "titulo_autor": "dominicano, Doutor da Igreja",
+    "obra": "Comentário aos Salmos (Postilla super Psalmos)",
+    "passagem": "Sl 53 (Vulgata), n. 5",
+    "edicao": "ed. de Parma, 1863 (Corpus Thomisticum), [87308]",
+    "trecho": "1",
+    "versiculos": [
+      8
+    ],
+    "lingua": "la",
+    "original": "Contra supra dixit si voluisses sacrificium, dedissem. Et dicendum quod hic dicit de sacrificio quod est acceptum Deo, quod est sacrificium spiritus contribulati et castigationis corporis. I Cor. IX: castigo corpus meum, et cetera. Rom. XII: exhibeatis corpora vestra hostiam viventem, et cetera. Tertium sacrificium est de rebus melioribus. Hebr. ult.: beneficentiae et communionis nolite oblivisci, talibus enim hostiis promeretur, idest placatur Deus. Hoc ergo triplici sacrificio sacrificabo tibi, voluntarie quia cum gaudio. I Esdrae III: in omnibus in quibus offerebatur ultro sacrificium. II Cor. IX: hilarem datorem diligit Deus.",
+    "fonte_url": "https://www.corpusthomisticum.org/cps52.html#87308",
+    "traducao_pt": "Em contrário, disse acima: «Se tivesses querido sacrifício, eu o teria dado». Deve-se dizer que aqui fala do sacrifício que é aceito por Deus: o sacrifício do espírito contrito e a mortificação do corpo («Castigo o meu corpo», 1Cor 9; «Oferecei os vossos corpos como hóstia viva», Rm 12). O terceiro sacrifício é feito com os melhores bens: «Não vos esqueçais da beneficência e da partilha, pois com tais hóstias Deus se aplaca» (Hb, último capítulo). Com este triplo sacrifício te sacrificarei de bom grado, isto é, com alegria: «Em tudo em que se oferecia sacrifício espontaneamente» (Esd 3); «Deus ama quem dá com alegria» (2Cor 9).",
+    "temas": [
+      "o sacrifício agradável a Deus",
+      "dar com alegria"
+    ],
+    "resumo": "O sacrifício «de bom grado» é triplo: o espírito contrito, o corpo mortificado e os bens repartidos, tudo oferecido com alegria.",
+    "relevancia": 2,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "bruno-segni-expps53-v4-orar-por-nos",
+    "autor": "São Bruno de Segni",
+    "autor_id": "bruno-segni",
+    "datas": "c. 1045–1123",
+    "titulo_autor": "bispo e abade de Montecassino",
+    "obra": "Exposição dos Salmos (Expositio in Psalmos)",
+    "passagem": "Sl 53 (Vulgata)",
+    "edicao": "PL 164, 890B",
+    "trecho": "1",
+    "versiculos": [
+      4
+    ],
+    "lingua": "la",
+    "original": "Non ei orare necessarium erat, cui voluntas sola sufficiebat. Orat igitur, non pro se, sed pro nobis, ut ejus exemplo, et magisterio doceamur, quid in tali eventu agere debeamus.",
+    "fonte_url": "https://mlat.uzh.ch/browser/cps_2.BruAst.ExInPs3",
+    "traducao_pt": "Não era necessário que orasse aquele a quem bastava a vontade. Ora, portanto, não por si, mas por nós, para que, pelo seu exemplo e magistério, aprendamos o que devemos fazer numa situação assim.",
+    "temas": [
+      "a oração de Cristo",
+      "rezar na provação"
+    ],
+    "resumo": "Cristo reza «Ó Deus, ouve a minha oração» sem precisar, para nos ensinar a rezar quando chega a provação.",
+    "relevancia": 2,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "bruno-segni-expps53-v6-o-pai-ajuda-o-filho",
+    "autor": "São Bruno de Segni",
+    "autor_id": "bruno-segni",
+    "datas": "c. 1045–1123",
+    "titulo_autor": "bispo e abade de Montecassino",
+    "obra": "Exposição dos Salmos (Expositio in Psalmos)",
+    "passagem": "Sl 53 (Vulgata)",
+    "edicao": "PL 164, 890C–890D",
+    "trecho": "1",
+    "versiculos": [
+      6
+    ],
+    "lingua": "la",
+    "original": "Tantum adjuvit Pater Filium, quantum ipse Filius voluit, ad hoc enim venerat ut moreretur; qui si mori noluisset, nullatenus occidi potuisset. Sed quid nasci profuisset, si mortuus non fuisset? In hoc igitur eum Pater adjuvit, in quo omne ejus desiderium adimplevit, mortem destruendo, diabolum vincendo et hominem liberando.",
+    "fonte_url": "https://mlat.uzh.ch/browser/cps_2.BruAst.ExInPs3",
+    "traducao_pt": "O Pai ajudou o Filho tanto quanto o próprio Filho quis, pois ele viera justamente para morrer; se não tivesse querido morrer, de modo nenhum poderia ser morto. Mas de que adiantaria ter nascido, se não tivesse morrido? Nisto, então, o Pai o ajudou: em cumprir todo o seu desejo, destruindo a morte, vencendo o demônio e libertando o homem.",
+    "temas": [
+      "Deus me ajuda",
+      "a morte voluntária de Cristo"
+    ],
+    "resumo": "O auxílio do Pai ao Filho foi cumprir o desejo dele: destruir a morte, vencer o demônio e libertar o homem; Cristo só morreu porque quis.",
+    "relevancia": 2,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "eusebio-comps53-v3-o-nome-sobre-todo-nome",
+    "autor": "Eusébio de Cesareia",
+    "autor_id": "eusebio",
+    "datas": "c. 263–339",
+    "titulo_autor": "bispo de Cesareia da Palestina, historiador da Igreja; escritor eclesiástico (não é santo)",
+    "obra": "Comentários aos Salmos (Commentaria in Psalmos)",
+    "passagem": "Sl 53 (LXX), v. 3",
+    "edicao": "PG 23, 465",
+    "trecho": "1",
+    "versiculos": [
+      3
+    ],
+    "lingua": "grc",
+    "original": "Ὁ Θεὸς, ἐν τῷ ὀνόματί σου σῶσόν με· ᾔδει γὰρ εἶναί τι ὄνομα τὸ ὑπὲρ πᾶν ὄνομα. Ὥσπερ γάρ ἐστί τινα ἐν ταῖς ἐπῳδαῖς κατὰ τῶν ἰοβόλων ἑρπετῶν ῥήματα καὶ ὀνόματα, τοσαύτην ἐμφαίνοντα δυνάμεως ἰσχὺν, ὡς κατακοιμίζειν ἢ καὶ νεκροῦν τὰ φοβερώτατα τῶν ἑρπετῶν· τὸν αὐτὸν τρόπον καὶ τὸ ὄνομα τὸ ὑπὲρ πᾶν ὄνομα ἠπίστατο σωτήριον μὲν τυγχάνειν τῶν σωτηρίας ἀξίων, τῶν δὲ ἐχθρῶν καὶ ἐναντίων δυνάμεων ἀπελατικόν. Ἐβούλετο τοίνυν σωθῆναι ἐν τῷ ὀνόματι τοῦ Θεοῦ, καὶ οὐκ ἀκρίτως τε ἐβούλετο· ἀλλ' εἰ ἄξιος εὑρίσκοιτο τῆς σωτηρίας.",
+    "fonte_url": "https://khazarzar.skeptik.net/pgm/PG_Migne/Eusebius%20Caesariensis_PG%2019-24/Commentaria%20in%20Psalmos.pdf",
+    "traducao_pt": "«Ó Deus, no teu nome salva-me.» Pois sabia que existe um nome acima de todo nome. Assim como nos encantamentos contra os répteis venenosos há palavras e nomes de tamanha força que fazem adormecer ou até matam os mais temíveis répteis, do mesmo modo sabia que o nome acima de todo nome é salvador para os dignos da salvação e afugenta as potências inimigas e adversas. Queria, portanto, ser salvo no nome de Deus, e não o queria sem critério: queria-o se fosse achado digno da salvação.",
+    "temas": [
+      "o nome sobre todo nome",
+      "salvar-se no nome do Senhor"
+    ],
+    "resumo": "Davi sabia que há um nome acima de todo nome, salvador para os dignos e terror para as potências inimigas, e pede ser salvo por ele, se for achado digno.",
+    "relevancia": 3,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "teodoreto-ips53-v3-basta-me-o-teu-nome",
+    "autor": "Teodoreto de Ciro",
+    "autor_id": "teodoreto",
+    "datas": "c. 393–c. 460",
+    "titulo_autor": "bispo de Ciro, na Síria",
+    "obra": "Interpretação dos Salmos (Interpretatio in Psalmos)",
+    "passagem": "Sl 53 (LXX), v. 3",
+    "edicao": "PG 80, 1265",
+    "trecho": "1",
+    "versiculos": [
+      3
+    ],
+    "lingua": "grc",
+    "original": "\"Ὁ Θεὸς ἐν τῷ ὀνόματί σου σῶσόν με.\" Ἀρκεῖ μοι, φησὶν, εἰς ἀσφάλειαν ἡ τοῦ σοῦ ὀνόματος κλῆσις. Οὕτω καὶ οἱ θεῖοι ἀπόστολοι τὰ μεγάλα εἰργάζοντο θαύματα. \"Ἐν τῷ ὀνόματι γὰρ, φησὶν, Ἰησοῦ Χριστοῦ ἔγειραι, καὶ περιπάτει.\" – \"Καὶ ἐν τῇ δυνάμει σοῦ κρῖνόν μοι.\" Δίκαιος, φησὶ, καὶ δικαιοσύνης ὑπάρχεις πηγή· κρῖνόν μοι τοίνυν καὶ τοῖς πολεμοῦσιν ἀδίκως.",
+    "fonte_url": "https://khazarzar.skeptik.net/pgm/PG_Migne/Theodoretus%20of%20Cyrrhus_PG%2080-84/Interpretatio%20in%20Psalmos.pdf",
+    "traducao_pt": "«Ó Deus, no teu nome salva-me.» Basta-me, diz ele, para a segurança, a invocação do teu nome. Assim também os divinos apóstolos realizavam os grandes milagres: «No nome de Jesus Cristo, levanta-te e anda.» — «E no teu poder julga-me.» Tu és justo, diz ele, e fonte de justiça: julga, portanto, a mim e também os que me combatem injustamente.",
+    "temas": [
+      "o nome sobre todo nome",
+      "os milagres dos apóstolos"
+    ],
+    "resumo": "A invocação do nome de Deus basta para a segurança, como o mostram os apóstolos, que faziam milagres no nome de Jesus Cristo.",
+    "relevancia": 2,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "belarmino-expps53-v6-deus-os-tinha-diante",
+    "autor": "São Roberto Belarmino",
+    "autor_id": "belarmino",
+    "datas": "1542–1621",
+    "titulo_autor": "jesuíta, cardeal, Doutor da Igreja",
+    "obra": "Explicação dos Salmos (Explanatio in Psalmos)",
+    "passagem": "Sl 53 (Vulgata), v. 4",
+    "edicao": "Opera omnia, ed. J. Fèvre, t. X (Paris, Vivès, 1874), p. 352 (OCR do archive.org; página aproximada)",
+    "trecho": "1",
+    "versiculos": [
+      5,
+      6
+    ],
+    "lingua": "la",
+    "original": "illi, inquit, non habuerunt Deum ante oculos suos; sed Deus habuit illos ante oculos suos, et vidit quid molirentur, et non permisit ut malam suam voluntatem implerent. [...] Et vere repentinum et inopinatum fuit auxilium Dei; nam cum undique circumdedisset Saul exercitu suo Davidem, ut evadere non posset, repente venit nuntius ad Saulem, qui diceret Philistaeos magno agmine se infudisse in regionem Saulis, quo nuntio coactus est Saul recedere a persequendo Davide, et fortasse orante Davide venit ille nuntius, et David, qui eum in spiritu praeviderat, dicit: Ecce enim Deus adjuvat me, et Dominus susceptor est animae meae.",
+    "fonte_url": "https://archive.org/details/operaomnia10bell",
+    "traducao_pt": "Eles, diz o salmista, não puseram Deus diante dos olhos; mas Deus os tinha diante dos olhos, viu o que tramavam e não permitiu que realizassem a sua má vontade. [...] E foi realmente repentino e inesperado o socorro de Deus; pois, quando Saul tinha cercado Davi com o seu exército, de modo que ele não podia escapar, chegou de repente a Saul um mensageiro dizendo que os filisteus tinham invadido em grande número a região de Saul; com essa notícia Saul foi obrigado a deixar de perseguir Davi. E talvez, enquanto Davi rezava, tenha chegado aquele mensageiro, e Davi, que o tinha previsto em espírito, diz: «Eis que Deus me ajuda, e o Senhor é o amparo da minha vida».",
+    "temas": [
+      "Deus os tem diante dos olhos",
+      "o socorro inesperado"
+    ],
+    "resumo": "Os perseguidores não pensavam em Deus, mas Deus os tinha diante dos olhos: o auxílio chegou de repente, quando Saul, que cercava Davi, teve de voltar contra os filisteus.",
+    "relevancia": 2,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "afonso-salmi-sl53-preces-contra-as-tentacoes",
+    "autor": "Santo Afonso Maria de Ligório",
+    "autor_id": "afonso",
+    "datas": "1696–1787",
+    "titulo_autor": "bispo de Sant'Agata dei Goti, fundador dos Redentoristas, Doutor da Igreja",
+    "obra": "Tradução dos Salmos e Cânticos (Traduzione de’ Salmi e de’ Cantici)",
+    "passagem": "Sl 53 (Vulgata), argumento",
+    "edicao": "Traduzione de’ Salmi e de’ Cantici, Napoli/Bassano, 1774–1775; texto do IntraText",
+    "trecho": "1",
+    "versiculos": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "lingua": "it",
+    "original": "Questo salmo contiene la preghiera di Davide a Dio acciocché lo liberi da' soldati di Saulle dai quali trovavasi circondato; e vale per ogni cristiano che si ritrova infestato dalle tentazioni de' demonj. Scrive il card. Bellarmino che la s. chiesa con questo salmo ci avverte a premunirci colle preghiere contro le tribolazioni e tentazioni che possono avvenirci nel giorno.",
+    "fonte_url": "https://www.intratext.com/IXT/ITASA0000/_P36O.HTM",
+    "traducao_pt": "Este salmo contém a oração de Davi a Deus para que o livre dos soldados de Saul, pelos quais se encontrava cercado; e vale para todo cristão que se vê infestado pelas tentações dos demônios. Escreve o cardeal Belarmino que a santa Igreja, com este salmo, nos avisa para nos precavermos com orações contra as tribulações e as tentações que possam nos sobrevir durante o dia.",
+    "temas": [
+      "rezar contra as tentações do dia",
+      "o salmo da Prima"
+    ],
+    "resumo": "Santo Afonso lembra que a Igreja põe este salmo no começo do dia (a Prima de domingo) para que nos precavamos pela oração contra as tribulações e tentações que virão.",
+    "relevancia": 2,
+    "direitos": "domínio público"
+  }
+]
