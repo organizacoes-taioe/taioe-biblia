@@ -120,19 +120,5 @@
     }
    ]
   }
- },
- "revisao": {
-  "escolhas": [
-   {
-    "id": "dynamis-aperfeicoa",
-    "ref": "2Cor 12,9",
-    "titulo": "«A força se aperfeiçoa na fraqueza» ou «é na fraqueza que a força se manifesta»?",
-    "contexto": "O grego diz *hē dýnamis en astheneíai teleîtai*: «a força chega ao seu termo, se completa, na fraqueza». A Vulgata diz *virtus in infirmitate perficitur*, a frase que os Padres e os santos comentam. O lecionário (14º domingo do Tempo Comum, ano B; sábado da 11ª semana, ano I) diz «Pois é na fraqueza que a força se manifesta».",
-    "opcoes": [
-     {"id": "a", "texto": "«Basta-te a minha graça, porque a força se aperfeiçoa na fraqueza»", "nota": "Fiel ao grego e à Vulgata.", "recomendada": true},
-     {"id": "b", "texto": "«Basta-te a minha graça, pois é na fraqueza que a força se manifesta»", "nota": "Como o lecionário."}
-    ]
-   }
-  ]
  }
 }

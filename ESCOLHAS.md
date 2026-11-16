@@ -189,13 +189,13 @@ Vale para pessoas, povos e lugares, também nos comentários dos Padres.
 | *spoudḗ*, *spoudaîos* | solicitude, solícito | 2Cor 7,11-12; 8,7.8.16.17.22; a tradução de partida dizia às vezes «diligência» | 2Cor 8 |
 | *prothymía* | prontidão | 2Cor 8,11.12.19; 9,2 | 2Cor 8–9 |
 | *authaíretos* | por iniciativa própria | 2Cor 8,3.17, o eco entre os macedônios e Tito | 2Cor 8 |
-| *cháris* (a coleta) | graça; «obra de graça» | 8,1.4.6.7.19; 9,8.14; em 8,9 «a graça de nosso Senhor Jesus Cristo» (o lecionário diz «generosidade») | 2Cor 8, a confirmar |
-| *ep' eulogíais* (2Cor 9,6) | com largueza | como o lecionário; no v. 5 a coleta é «a vossa bênção» | 2Cor 9, a confirmar |
+| *cháris* (a coleta) | graça; «obra de graça» | 8,1.4.6.7.19; 9,8.14; em 8,9 «a graça de nosso Senhor Jesus Cristo» (o lecionário diz «generosidade») | 2Cor 8, escolha do Gere (2026-11-16) |
+| *ep' eulogíais* (2Cor 9,6) | com largueza | como o lecionário; no v. 5 a coleta é «a vossa bênção» | 2Cor 9, escolha do Gere (2026-11-16) |
 | *kaucháomai*, *kaúchēsis*, *kaúchēma* | gloriar-se, glória | como 1,12-14; 5,12; 7,4.14; 10,17 «Quem se gloria, glorie-se no Senhor» | 2Cor 10–12 |
 | *aphrosýnē*, *áphrōn* / *phrónimos* | insensatez, insensato / sensato | 2Cor 11,1.16-21; 12,6.11, como o lecionário | 2Cor 11 |
 | *hyperlían apóstoloi* | superapóstolos | 2Cor 11,5; 12,11, com nota em 11,5 | projeto antigo |
 | *katanarkáō*, *abarḗs* | ser pesado | 2Cor 11,9; 12,13.14.16 «não vos fui pesado» | projeto antigo |
-| *dýnamis* / *asthéneia* | força / fraqueza | 2Cor 12,9-10 «a força se aperfeiçoa na fraqueza… a força de Cristo»; 13,4 «pelo poder de Deus» | 2Cor 12, a confirmar |
+| *dýnamis* / *asthéneia* | força / fraqueza | 2Cor 12,9-10 «a força se aperfeiçoa na fraqueza… a força de Cristo»; 13,4 «pelo poder de Deus» | 2Cor 12, escolha do Gere (2026-11-16) |
 | *psychḗ* (2Cor 12,15) | por vós | opção C: «gastarei e me deixarei gastar todo por vós»; a tradução de partida dizia «pelas vossas almas» | 2Cor 12 |
 | *metanoéō* (2Cor 12,21) | converter-se | «não se converteram da impureza», conforme a escolha de 7,10 | 2Cor 12, a confirmar com 7,10 |
 | *phílēma hágion* | beijo santo | 2Cor 13,12, como o lecionário; a tradução de partida dizia «ósculo santo» | 2Cor 13 |

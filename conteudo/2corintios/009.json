@@ -97,19 +97,5 @@
     }
    ]
   }
- },
- "revisao": {
-  "escolhas": [
-   {
-    "id": "eulogia-largueza",
-    "ref": "2Cor 9,6",
-    "titulo": "«Quem semeia com largueza» ou «quem semeia em bênçãos»?",
-    "contexto": "O grego diz ao pé da letra «quem semeia em bênçãos, em bênçãos também colherá» (*ep' eulogíais*), a mesma palavra do v. 5, onde a coleta é chamada «a vossa bênção». A Vulgata diz *de benedictionibus*. O lecionário (quarta da 11ª semana do Tempo Comum, ano I) diz «com largueza», que é o sentido: com fartura, de mão aberta. No v. 5 fica «bênção» nas duas opções.",
-    "opcoes": [
-     {"id": "a", "texto": "«quem semeia pouco, pouco também colherá; e quem semeia com largueza, com largueza também colherá»", "nota": "O sentido claro; como o lecionário.", "recomendada": true},
-     {"id": "b", "texto": "«quem semeia pouco, pouco também colherá; e quem semeia em bênçãos, em bênçãos também colherá»", "nota": "Ao pé da letra; o eco com a «bênção» do v. 5."}
-    ]
-   }
-  ]
  }
 }
