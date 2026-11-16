@@ -1,0 +1,127 @@
+{
+ "1": [
+  {
+   "id": "mansidao",
+   "titulo": "«Pela mansidão e pela bondade de Cristo»",
+   "itens": [
+    "crisostomo-hom21-1-mansidao-de-cristo",
+    "francisco-aud-20200219-mansos"
+   ],
+   "versiculos": [
+    1
+   ]
+  },
+  {
+   "id": "na-carne",
+   "titulo": "«Embora andemos na carne, não combatemos segundo a carne»",
+   "itens": [
+    "agostinho-sl64-3-ancora-da-esperanca",
+    "ambrosiaster-2cor10-3-5-armas-incorruptas",
+    "escriva-ecp-76-guerra-de-paz"
+   ],
+   "versiculos": [
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "id": "cativo-todo-pensamento",
+   "titulo": "«Levamos cativo todo pensamento à obediência de Cristo»",
+   "itens": [
+    "cassiano-coll7-5-o-centuriao-e-os-pensamentos",
+    "tomas-2cor10-l1-armas-e-cativar-o-saber",
+    "jeronimo-carta53-3-paulo-aos-pes-de-gamaliel"
+   ],
+   "versiculos": [
+    4,
+    5,
+    6
+   ]
+  }
+ ],
+ "2": [
+  {
+   "id": "edificar",
+   "titulo": "Uma autoridade dada «para edificação, e não para destruição»",
+   "itens": [
+    "crisostomo-hom22-8-edificar-e-destruir",
+    "bernardo-consideracao-3-4-18-dispensar-para-edificar",
+    "ambrosiaster-2cor10-7-quem-se-sabe-algo-humilhe-se"
+   ],
+   "versiculos": [
+    7,
+    8
+   ]
+  },
+  {
+   "id": "presenca-fraca",
+   "titulo": "«A presença do corpo é fraca»: o apóstolo desprezado e os detratores",
+   "itens": [
+    {
+     "id": "agostinho-sl49-27-os-que-detraiam-paulo",
+     "texto": "Paulo tinha gerado e ele mesmo acalentava; a nenhuma ama confiava aquele que gerara. Pois dissera: «Meus filhos, por quem sofro de novo as dores do parto, até que Cristo se forme em vós.» Acalentava, pois, e dava de mamar. Mas havia alguns, tidos por sábios e espirituais, que falavam mal de Paulo. «As cartas», diziam, «são severas e fortes, mas a presença do corpo é fraca e a palavra desprezível» — é ele mesmo que, na sua carta, diz que alguns detratores seus falaram assim."
+    },
+    "pedro-damiao-apologetico-presente-e-ausente",
+    {
+     "id": "gregorio-hom-ez-1-9-17-calar-ou-conter-os-detratores",
+     "texto": "Quando seguimos o caminho da boa obra, devemos sempre desprezar as palavras dos que falam mal de nós, ou algumas vezes contê-las? Deve-se saber que as línguas dos detratores, assim como não devemos provocá-las por iniciativa nossa, para que eles mesmos não pereçam, assim devemos suportar com serenidade as que se excitam por sua própria malícia, para que o nosso mérito cresça; mas, às vezes, convém também contê-las, para que, ao espalharem o mal a nosso respeito, não corrompam o coração dos inocentes, que poderiam ouvir-nos para o bem. […] Aqueles, com efeito, cuja vida foi posta como exemplo para ser imitada devem, se podem, conter as palavras dos que falam mal deles, para que não deixem de ouvir a sua pregação os que poderiam ouvi-la. Mas, nisto, é preciso que o espírito se examine com minuciosa atenção, para não buscar talvez a glória do próprio louvor, enquanto o pensamento finge buscar o ganho das almas."
+    }
+   ],
+   "versiculos": [
+    9,
+    10,
+    11
+   ]
+  }
+ ],
+ "3": [
+  {
+   "id": "medir-se",
+   "titulo": "Não se comparar com os outros, mas medir-se pela regra de Deus",
+   "itens": [
+    {
+     "id": "bernardo-moribus-30-medir-se-por-si",
+     "texto": "Deve-se antes emular o Apóstolo, que não se gloria desmedidamente, nem se estende além de si, nem ousa, como ele mesmo confessa, comparar-se a certos que se recomendam a si mesmos, mas se compara consigo e se mede segundo a medida da regra que Deus lhe determinou. […] Estando no alto, não pensar alto é difícil e raríssimo; mas, quanto mais raro, mais glorioso."
+    },
+    "tomas-2cor10-l2-recomendar-se-a-consciencia"
+   ],
+   "versiculos": [
+    12,
+    13,
+    14,
+    15,
+    16
+   ]
+  },
+  {
+   "id": "glorie-se-no-senhor",
+   "titulo": "«Quem se gloria, glorie-se no Senhor»",
+   "itens": [
+    "agostinho-sermao160-1-nada-mais-seguro",
+    {
+     "id": "leao-sermao-42-3-laus-humana",
+     "texto": "O diabo, adversário de todas as virtudes, procura vencer pela glória os que não conseguiu derrubar pela desconfiança. Pois o mal da soberba é vizinho das boas ações, e a vaidade sempre espreita de perto as virtudes, porque é difícil que o louvor humano não prenda quem vive de modo louvável, a não ser que, como está escrito, «quem se gloria, glorie-se no Senhor»."
+    },
+    "bernardo-diversos-7-tres-gloria"
+   ],
+   "versiculos": [
+    17
+   ]
+  },
+  {
+   "id": "o-senhor-recomenda",
+   "titulo": "«Aprovado é aquele a quem o Senhor recomenda»",
+   "itens": [
+    "crisostomo-hom22-10-17-18-a-hora-certa-de-falar-de-si",
+    {
+     "id": "escriva-cartas1-3-88-nada-e-nosso",
+     "texto": "Não podemos admitir nem por um instante nenhum pensamento de soberba por qualquer serviço nosso a Deus: porque, nesse mesmo momento, deixaríamos de ser sobrenaturalmente eficazes. Deus não quer servos seus presunçosos, que se comprazem em si mesmos; quer, ao contrário, que estejam convencidos da sua própria indignidade e cheios de um santo empenho em não estorvar a obra da graça. […] Alegrem-se, pois, no Senhor, mas com tremor; sem se gloriarem de nada, porque nada é da nossa colheita; e quem se gloria, glorie-se no Senhor."
+    }
+   ],
+   "versiculos": [
+    18
+   ]
+  }
+ ]
+}

@@ -1,0 +1,111 @@
+{
+ "1": [
+  {
+   "id": "testemunhas",
+   "titulo": "«Pela palavra de duas ou três testemunhas»: avisar antes de castigar",
+   "itens": [
+    "crisostomo-2cor-hom-29-1-ameaca-muito-castiga-pouco",
+    "tomas-super-2cor-13-l1-tres-admoestacoes"
+   ],
+   "versiculos": [
+    1,
+    2
+   ]
+  },
+  {
+   "id": "crucificado-por-fraqueza",
+   "titulo": "«Crucificado por fraqueza, mas vive pelo poder de Deus»",
+   "itens": [
+    {
+     "id": "agostinho-comentario-salmo-53-3-fraqueza-da-cruz",
+     "texto": "O Apóstolo não quis saber nada entre nós senão Cristo Jesus, e este crucificado. Mas que diz ele dele? «Embora tenha morrido por fraqueza, vive pelo poder de Deus.» Veio, pois, para morrer por fraqueza; virá para julgar com o poder de Deus: mas foi pela fraqueza da cruz que o seu nome foi glorificado. Quem não crer no nome glorificado pela fraqueza tremerá diante do juiz, quando vier com poder."
+    },
+    {
+     "id": "hilario-trindade-10-66-fraqueza-e-poder-em-um-so-cristo",
+     "texto": "O Apóstolo exprimiu assim o mistério desta confissão: «Embora tenha sido crucificado por fraqueza, vive pelo poder de Deus.» Pois, ao pregar o Filho do homem como Filho de Deus, que, sendo homem por dispensação, permanecia Deus por natureza, diz que foi crucificado por fraqueza o mesmo que vive pelo poder de Deus."
+    },
+    "cirilo-alexandria-2cor-13-4-cruz-e-ressurreicao",
+    "bento-xvi-aud-20120613-crucificado-por-fraqueza"
+   ],
+   "versiculos": [
+    3,
+    4
+   ]
+  },
+  {
+   "id": "examinai-vos",
+   "titulo": "«Examinai-vos a vós mesmos, para ver se estais na fé»",
+   "itens": [
+    "atanasio-vida-de-antao-55-examinar-se-cada-dia",
+    "tomas-super-2cor-13-l2-certeza-de-ter-cristo",
+    "crisostomo-2cor-hom-29-fe-e-vida-corrompida"
+   ],
+   "versiculos": [
+    5,
+    6
+   ]
+  },
+  {
+   "id": "para-edificacao",
+   "titulo": "Preferir parecer fraco a ter de castigar: a autoridade para edificação",
+   "itens": [
+    "crisostomo-2cor-hom-29-7-9-prefere-parecer-fraco",
+    "basilio-regras-breves-113-autoridade-para-edificar",
+    "ambrosiaster-2cor-13-10-corrigir-sem-envergonhar"
+   ],
+   "versiculos": [
+    7,
+    8,
+    9,
+    10
+   ]
+  }
+ ],
+ "2": [
+  {
+   "id": "alegrai-vos",
+   "titulo": "«Alegrai-vos, trabalhai pelo vosso aperfeiçoamento, vivei em paz»",
+   "itens": [
+    "tomas-super-2cor-13-l3-alegrai-vos-e-sede-perfeitos",
+    "ambrosiaster-2cor-13-11-a-paz-de-cristo-e-livre"
+   ],
+   "versiculos": [
+    11
+   ]
+  },
+  {
+   "id": "beijo-santo",
+   "titulo": "«Saudai-vos uns aos outros com o beijo santo»: o beijo da paz dos cristãos",
+   "itens": [
+    "cirilo-jerusalem-mistagogica-5-3-beijo-reconciliacao",
+    "agostinho-sermao-227-beijo-da-paz",
+    "tertuliano-oracao-18-beijo-da-paz-selo-da-oracao",
+    {
+     "id": "escriva-caminho-469-santos",
+     "texto": "«Saudai todos os santos. Todos os santos vos saúdam. A todos os santos que vivem em Éfeso. A todos os santos em Cristo Jesus, que estão em Filipos.» Não é verdade que comove esse nome — santos! — que os primeiros fiéis cristãos usavam para se chamar entre si? Aprende a tratar os teus irmãos."
+    }
+   ],
+   "versiculos": [
+    12
+   ]
+  },
+  {
+   "id": "trindade",
+   "titulo": "«A graça, o amor e a comunhão»: o Pai, o Filho e o Espírito Santo",
+   "itens": [
+    "atanasio-serapiao-1-30-graca-na-trindade",
+    {
+     "id": "ambrosio-espirito-santo-1-131-uma-so-comunhao",
+     "texto": "Que a comunhão é do Pai e do Filho é manifesto, pois está escrito: «E a nossa comunhão é com o Pai e com o seu Filho Jesus Cristo»; e em outro lugar: «A comunhão do Espírito Santo esteja com todos vós». Se, portanto, uma só é a paz, uma só a graça, uma só a caridade, uma só a comunhão do Pai, do Filho e do Espírito Santo, uma só é certamente a operação; e onde há uma só operação, não pode estar dividido o poder nem separada a substância."
+    },
+    {
+     "id": "cic-249-saudacao-trinitaria-na-liturgia",
+     "texto": "A verdade revelada da Santíssima Trindade encontra a sua expressão na regra da fé batismal, formulada na pregação, na catequese e na oração da Igreja. Tais formulações já se encontram nos escritos apostólicos, como comprova esta saudação, retomada na liturgia eucarística: «A graça do Senhor Jesus Cristo, o amor de Deus e a comunhão do Espírito Santo estejam com todos vós» (2Cor 13,13)."
+    }
+   ],
+   "versiculos": [
+    13
+   ]
+  }
+ ]
+}
