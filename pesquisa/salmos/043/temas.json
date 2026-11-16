@@ -1,0 +1,67 @@
+{
+ "1": [
+  {
+   "id": "faze-me-justica",
+   "titulo": "«Faze-me justiça, ó Deus»: separar a causa do justo da do ímpio",
+   "versiculos": [
+    1
+   ],
+   "itens": [
+    "agostinho-enarr-sl42-2-par-infirmitas-dispar-conscientia",
+    "tomas-postilla-sl42-1-dois-juizos",
+    "bruno-segni-sl42-oracao-sem-vinganca"
+   ]
+  },
+  {
+   "id": "luz-e-verdade",
+   "titulo": "«Envia a tua luz e a tua verdade»: Cristo que guia até Deus",
+   "versiculos": [
+    3
+   ],
+   "itens": [
+    "agostinho-enarr-sl42-4-luz-e-verdade-sao-cristo",
+    "leao-sermo-25-emitte-lucem-natal",
+    "ambrosio-interpell-ii-30-sl42-luta-contra-si",
+    "tomas-postilla-sl42-2-do-monte-ao-altar"
+   ]
+  },
+  {
+   "id": "ao-altar",
+   "titulo": "«Irei ao altar de Deus»: o Deus da minha alegria e da minha juventude",
+   "versiculos": [
+    4
+   ],
+   "itens": [
+    "ambrosio-interpell-ii-32-sl42-introibo-adao",
+    {
+     "id": "joao-paulo-ii-aud-2002-02-06-sl42-gioia",
+     "texto": "No original hebraico fala-se do «Deus que é a alegria do meu júbilo». Trata-se de um modo de dizer semítico para exprimir o superlativo: o salmista quer sublinhar que o Senhor é a raiz de toda felicidade, é a alegria suprema, é a plenitude da paz. [...] Nesta forma o salmo era recitado ao pé do altar, na forma anterior da liturgia eucarística, como invocação introdutória ao encontro com o Senhor."
+    },
+    "escriva-amigos-de-deus-31-juventude-do-amor"
+   ]
+  },
+  {
+   "id": "a-citara",
+   "titulo": "«Te louvarei com a cítara»: louvar a Deus também no sofrimento",
+   "versiculos": [
+    4
+   ],
+   "itens": [
+    "agostinho-enarr-sl42-5-citara-e-salterio",
+    "teodoreto-interpretatio-sl42-harpas-nos-salgueiros"
+   ]
+  },
+  {
+   "id": "triste",
+   "titulo": "«Por que ando triste?»: a tristeza que espera em Deus",
+   "versiculos": [
+    2,
+    5
+   ],
+   "itens": [
+    "cassiodoro-expositio-sl42-vers3-por-que-me-repeliste",
+    "cassiodoro-expositio-sl42-vers6-duas-tristezas"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,118 @@
+{
+ "1": [
+  {
+   "id": "a-corca",
+   "titulo": "«Como a corça suspira»: a sede de Deus e a fonte do batismo",
+   "versiculos": [
+    2
+   ],
+   "itens": [
+    "tomas-postilla-sl41-1-cervo-catecumeno-perfeito",
+    "ruperto-div-off-vii-9-sicut-cervus-vigilia",
+    "cassiodoro-expositio-sl41-1-fonte-nao-corrente"
+   ]
+  },
+  {
+   "id": "sede-de-deus",
+   "titulo": "«A minha alma tem sede de Deus»: o amor ardente que não se cala",
+   "versiculos": [
+    2,
+    3
+   ],
+   "itens": [
+    "crisostomo-sl41-6-sede-e-amor-duradouro",
+    "crisostomo-sl41-3-amor-nao-cala",
+    "joao-paulo-ii-aud-2002-01-16-sl41-nefesh",
+    "escriva-amigos-de-deus-310-sede-de-deus"
+   ]
+  },
+  {
+   "id": "quando-irei",
+   "titulo": "«Quando irei?»: o desejo de estar diante de Deus face a face",
+   "versiculos": [
+    3
+   ],
+   "itens": [
+    "agostinho-enarr-sl41-5-tarda-o-desejo",
+    "ambrosio-interpell-ii-6-sl41-sede-de-dissolver-se",
+    "escriva-santo-rosario-transfiguracao-sl41-3",
+    "crisostomo-sl41-3-amar-quem-nao-se-ve"
+   ]
+  },
+  {
+   "id": "onde-esta",
+   "titulo": "«As lágrimas são o meu pão»; «Onde está o teu Deus?»",
+   "versiculos": [
+    4,
+    11
+   ],
+   "itens": [
+    "agostinho-enarr-sl41-6-lagrimas-sao-pao",
+    "tomas-postilla-sl41-2-onde-esta-teu-deus"
+   ]
+  },
+  {
+   "id": "casa-de-deus",
+   "titulo": "Buscar a Deus além das coisas, até a casa de Deus em festa",
+   "versiculos": [
+    5
+   ],
+   "itens": [
+    "tomas-postilla-sl41-3-procurou-nas-criaturas",
+    {
+     "id": "agostinho-enarr-sl41-9-som-da-festa-eterna",
+     "texto": "«Passarei ao lugar do tabernáculo admirável, até a casa de Deus.» Subindo pelo tabernáculo, chegou à casa de Deus. Enquanto admira as partes do tabernáculo, foi conduzido à casa de Deus, seguindo uma doçura, não sei que prazer interior e oculto, como se da casa de Deus soasse suavemente um instrumento; e, caminhando ele no tabernáculo, ouvindo um som interior, conduzido pela doçura, seguindo o que soava, afastando-se de todo o ruído da carne e do sangue, chegou até a casa de Deus. [...] A quem caminha neste tabernáculo e considera as maravilhas de Deus para a redenção dos fiéis, o som daquela festa acaricia o ouvido e arrebata o cervo para as fontes de águas."
+    }
+   ]
+  },
+  {
+   "id": "por-que-te-abates",
+   "titulo": "«Por que te abates, minha alma?»: a alma que se anima a esperar",
+   "versiculos": [
+    6,
+    12
+   ],
+   "itens": [
+    "jeronimo-ep-22-6-quare-tristis-contra-tentacao",
+    "tomas-postilla-sl41-4-razao-fala-a-alma",
+    "ambrosio-interpell-ii-12-sl41-confitebor",
+    "bruno-segni-sl41-vultus-imagem-de-deus"
+   ]
+  },
+  {
+   "id": "o-jordao",
+   "titulo": "Lembrar-se de Deus longe de casa, da terra do Jordão",
+   "versiculos": [
+    7
+   ],
+   "itens": [
+    "agostinho-enarr-sl41-12-humildade-jordao",
+    "teodoreto-interpretatio-sl41-memoria-da-patria"
+   ]
+  },
+  {
+   "id": "abismo",
+   "titulo": "«Um abismo chama outro abismo»: o coração, o juízo, as Escrituras",
+   "versiculos": [
+    8
+   ],
+   "itens": [
+    "agostinho-enarr-sl41-13-abismo-homem",
+    "gregorio-magno-moralia-xxvii-25-abismo-juizo",
+    "leao-sermo-60-abismo-dois-testamentos"
+   ]
+  },
+  {
+   "id": "dia-e-noite",
+   "titulo": "De dia e de noite: Deus que não esquece no tempo da aflição",
+   "versiculos": [
+    9,
+    10
+   ],
+   "itens": [
+    "cassiodoro-expositio-sl41-12-dia-aprende-noite-declara",
+    "teodoreto-interpretatio-sl41-lembrar-nao-e-ser-esquecido"
+   ]
+  }
+ ]
+}

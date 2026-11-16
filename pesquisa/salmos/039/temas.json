@@ -1,0 +1,96 @@
+{
+ "1": [
+  {
+   "id": "guardarei",
+   "titulo": "«Guardarei os meus caminhos»: guardar a língua e ouvir antes de falar",
+   "versiculos": [
+    2
+   ],
+   "itens": [
+    "ambrosio-oficios-1-7-guardar-os-caminhos",
+    "ambrosio-oficios-1-13-porta-na-boca",
+    "cromacio-tratado-7-2-pela-custodia-da-boca",
+    "bernardo-carta-89-2-calar-ensinando-a-calar"
+   ]
+  },
+  {
+   "id": "emudeci",
+   "titulo": "«Emudeci»: o silêncio do justo diante da ofensa",
+   "versiculos": [
+    2,
+    3
+   ],
+   "itens": [
+    "ambrosio-oficios-1-9-o-silencio-que-trabalha",
+    "cassiano-colacoes-16-26-guardar-na-injuria",
+    "jeronimo-prefacio-samuel-malaquim-guardar-os-caminhos"
+   ]
+  },
+  {
+   "id": "o-coracao-ardia",
+   "titulo": "«O meu coração ardia dentro de mim»: o fogo que nasce do silêncio",
+   "versiculos": [
+    3,
+    4
+   ],
+   "itens": [
+    "gregorio-moralia-20-18-zelo-que-nao-se-cala",
+    "maximo-turim-hom-76-o-coracao-de-lourenco",
+    "escriva-e-cristo-que-passa-120-fogo-de-apostolado"
+   ]
+  },
+  {
+   "id": "o-meu-fim",
+   "titulo": "«Faze-me conhecer o meu fim»: o desejo do que é perfeito",
+   "versiculos": [
+    5
+   ],
+   "itens": [
+    "agostinho-enarr-38-6-o-fim-e-a-intencao",
+    "ambrosio-satiro-2-32-conhecer-o-proprio-fim"
+   ]
+  },
+  {
+   "id": "um-sopro",
+   "titulo": "Um palmo, uma sombra, um sopro: a fragilidade do homem",
+   "versiculos": [
+    6,
+    7,
+    12
+   ],
+   "itens": [
+    "hugo-sao-vitor-hom-eclesiastes-1-agir-e-sofrer",
+    "teodoreto-interpretacao-38-imagens-pintadas",
+    "agostinho-enarr-38-18-quid-tabidius-aranea"
+   ]
+  },
+  {
+   "id": "foste-tu",
+   "titulo": "«A minha esperança está em ti»: calar sob a mão que corrige",
+   "versiculos": [
+    8,
+    10,
+    11
+   ],
+   "itens": [
+    "tomas-postilla-38-substantia-mea-apud-te",
+    "gregorio-moralia-20-33-porque-tu-fizeste",
+    "teodoreto-interpretacao-38-corte-do-medico"
+   ]
+  },
+  {
+   "id": "peregrino",
+   "titulo": "«Sou um estrangeiro, um peregrino»: viver como quem está de passagem",
+   "versiculos": [
+    13,
+    14
+   ],
+   "itens": [
+    "ambrosio-bem-da-morte-5-hospede-e-peregrino",
+    "bernardo-quaresma-7-1-peregrino-na-estrada-real",
+    "gaudencio-sermao-18-hospedes-e-peregrinos",
+    "teodoreto-interpretacao-38-o-rei-peregrino"
+   ]
+  }
+ ]
+}

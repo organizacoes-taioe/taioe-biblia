@@ -1,0 +1,100 @@
+{
+ "1": [
+  {
+   "id": "refugio",
+   "titulo": "«Deus é nosso refúgio»: correr a ele na tribulação, e não a outros",
+   "versiculos": [
+    2
+   ],
+   "itens": [
+    "basilio-ps45-2-chamar-de-refugio-so-de-boca",
+    "agostinho-ps45-3-a-tribulacao-interior",
+    "crisostomo-ps45-2-fugir-e-lutar",
+    "tomas-ps45-n1-refugio-forca-socorro"
+   ]
+  },
+  {
+   "id": "nao-tememos",
+   "titulo": "«Por isso não tememos»: um socorro maior que o perigo",
+   "versiculos": [
+    2,
+    3,
+    4
+   ],
+   "itens": [
+    "crisostomo-ps45-2-nem-o-medo-comum",
+    "ambrosio-ps45-8-nimis-muito-socorro",
+    "basilio-ps45-3-quem-tem-coracao-tao-firme"
+   ]
+  },
+  {
+   "id": "o-rio",
+   "titulo": "O rio que alegra a cidade: os dons de Deus, o Espírito, o Evangelho",
+   "versiculos": [
+    5
+   ],
+   "itens": [
+    "joao-paulo-ii-aud-2004-06-16-dois-tipos-de-aguas",
+    "basilio-ps45-5-aguas-salgadas-e-o-rio",
+    "crisostomo-ps45-5-rio-em-muitos-bracos",
+    "teodoreto-ps45-5-o-rio-em-canais-pelo-mundo"
+   ]
+  },
+  {
+   "id": "no-meio-dela",
+   "titulo": "«Deus está no meio dela»: a cidade de Deus que não cai",
+   "versiculos": [
+    5,
+    6
+   ],
+   "itens": [
+    "tomas-ps45-n3-os-tres-tracos-da-cidade",
+    "agostinho-ps45-9-deus-no-meio-dela",
+    "basilio-ps45-6-a-manha-da-alma",
+    "ambrosio-ps45-15-o-olhar-que-salva-pedro"
+   ]
+  },
+  {
+   "id": "conosco",
+   "titulo": "«O Senhor dos exércitos está conosco»: Deus que acolhe e protege",
+   "versiculos": [
+    8,
+    12
+   ],
+   "itens": [
+    "agostinho-ps45-11-quem-te-acolhe",
+    "escriva-forja-307-o-meu-refugio"
+   ]
+  },
+  {
+   "id": "as-armas",
+   "titulo": "«Quebra o arco e despedaça a lança»: Deus que desarma e dá a paz",
+   "versiculos": [
+    9,
+    10
+   ],
+   "itens": [
+    "basilio-ps45-9-aproximar-primeiro-para-ver",
+    "basilio-ps45-10-quebra-as-armas-sem-ferir",
+    "agostinho-ps45-13-perder-as-armas-para-ser-forte",
+    "crisostomo-ps45-10-paz-e-trabalho"
+   ]
+  },
+  {
+   "id": "parai",
+   "titulo": "«Parai e sabei que sou Deus»: desocupar a alma para ver a Deus",
+   "versiculos": [
+    11
+   ],
+   "itens": [
+    "ambrosio-ps45-23-desocupai-vos",
+    "basilio-ps45-11-livrar-se-dos-espinhos",
+    "tomas-ps45-n8-a-paz-e-para-contemplar",
+    {
+     "id": "belarmino-ps45-11-vacate-contemplacao",
+     "passagem": "Sl 45 (Vulgata), v. 11"
+    }
+   ]
+  }
+ ]
+}
