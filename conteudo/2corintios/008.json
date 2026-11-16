@@ -123,19 +123,5 @@
     }
    ]
   }
- },
- "revisao": {
-  "escolhas": [
-   {
-    "id": "charis-graca",
-    "ref": "2Cor 8,9",
-    "titulo": "«A graça» ou «a generosidade» de nosso Senhor Jesus Cristo?",
-    "contexto": "A mesma palavra grega, *cháris*, corre pelos capítulos 8 e 9: a graça que Deus deu às igrejas da Macedônia (8,1), a coleta como «obra de graça» (8,6.7.19), a graça de Cristo, que se fez pobre (8,9), e «Graças a Deus» (8,16; 9,15). A Vulgata diz *gratiam*, e os Padres leem aqui a Encarnação. O lecionário diz «generosidade» em 8,6-9 (terça da 11ª semana do Tempo Comum, ano I; 13º domingo, ano B).",
-    "opcoes": [
-     {"id": "a", "texto": "«Pois conheceis a graça de nosso Senhor Jesus Cristo: sendo rico, fez-se pobre por vós»", "nota": "Mantém a palavra que liga os dois capítulos; como a Vulgata.", "recomendada": true},
-     {"id": "b", "texto": "«Pois conheceis a generosidade de nosso Senhor Jesus Cristo: sendo rico, fez-se pobre por vós»", "nota": "Como o lecionário; então também «obra de generosidade» nos vv. 6, 7 e 19."}
-    ]
-   }
-  ]
  }
 }
