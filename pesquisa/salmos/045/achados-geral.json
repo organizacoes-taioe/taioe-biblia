@@ -1,0 +1,805 @@
+[
+  {
+    "id": "basilio-hps44-1-a-bela-transformacao",
+    "autor": "São Basílio Magno",
+    "autor_id": "basilio",
+    "datas": "c. 330–379",
+    "titulo_autor": "bispo de Cesareia da Capadócia, Doutor da Igreja",
+    "obra": "Homilia sobre o Salmo 44 LXX (Ὁμιλία εἰς τὸν ΜΔʹ ψαλμόν)",
+    "passagem": "Homilia sobre o Sl 44 LXX, título",
+    "edicao": "PG 29, 389–392",
+    "versiculos": [
+      1
+    ],
+    "lingua": "grc",
+    "original": "Ἐπειδὴ δὲ οὐ πᾶσι γέγραπται τὰ λόγια τοῦ Θεοῦ, ἀλλὰ τοῖς ἔχουσιν ὦτα κατὰ τὸν ἔσω ἄνθρωπον, Τοῖς ἀλλοιωθησομένοις ἐπέγραψεν· ὡς οἶμαι, τοῖς ἑαυτῶν ἐπιμελομένοις, καὶ ἀεὶ διὰ τῶν γυμνασίων τῆς εὐσεβείας ἐπὶ τὸ μεῖζον προκόπτουσιν. Αὕτη γάρ ἐστιν ἡ καλλίστη ἀλλοίωσις, ἢν ἡ δεξιὰ χαρίζεται τοῦ Ὑψίστου· ἧς καὶ ὁ μακάριος Δαβὶδ ἐπῄσθετο, ὅτε, γευσάμενος τῶν καλῶν τῆς ἀρετῆς, τοῖς ἔμπροσθεν ἐπεξέτεινε. Τί γάρ φησι; Καὶ εἶπα· Νῦν ἠρξάμην· αὕτη ἡ ἀλλοίωσις τῆς δεξιᾶς τοῦ Ὑψίστου. Ὥστε ὁ προκόπτων εἰς ἀρετὴν οὐκ ἔστιν ὅτε οὐκ ἀλλοιοῦται. Ὅτε γὰρ ἤμην, φησὶ, νήπιος, ἐλάλουν ὡς νήπιος, ἐφρόνουν ὡς νήπιος, ἐλογιζόμην ὡς νήπιος. Ὅτε δὲ γέγονα ἀνὴρ, κατήργηκα τὰ τοῦ νηπίου. Καὶ πάλιν γενόμενος ἀνὴρ, οὐχ ἵστατο τῆς ἐνεργείας, ἀλλὰ Τῶν ὄπισθεν ἐπιλανθανόμενος, καὶ τοῖς ἔμπροσθεν ἐπεκτεινόμενος, κατὰ σκοπὸν ἐδίωκεν ἐπὶ τὸ βραβεῖον τῆς ἄνω κλήσεως. Ἀλλοίωσις οὖν ἐστι τοῦ ἔσω ἀνθρώπου ἀνακαινουμένου ἡμέρᾳ καὶ ἡμέρᾳ.",
+    "fonte_url": "https://khazarzar.skeptik.net/pgm/PG_Migne/Basilius%20Caesariensis_PG%2029-32/Homiliae%20super%20Psalmos.pdf",
+    "traducao_pt": "Mas, como as palavras de Deus não foram escritas para todos, e sim para os que têm ouvidos segundo o homem interior, ele pôs no título «Para os que serão transformados»: ao que penso, para os que cuidam de si mesmos e, pelos exercícios da piedade, progridem sempre para mais. Pois esta é a mais bela transformação, a que concede a direita do Altíssimo; Davi também a sentiu quando, tendo provado os bens da virtude, se estendeu para o que estava adiante. Que diz, com efeito? «E eu disse: agora comecei; esta é a transformação da direita do Altíssimo». De modo que quem progride na virtude não deixa nunca de se transformar. «Quando eu era criança, falava como criança, pensava como criança, raciocinava como criança. Mas, quando me tornei homem, deixei o que era de criança». E, já homem, não parou de agir, mas, «esquecendo o que fica para trás e lançando-me para o que está adiante», corria para a meta, para o prêmio da vocação do alto. Transformação é, pois, a do homem interior, que se renova de dia para dia.",
+    "temas": [
+      "crescer na virtude",
+      "a transformação do homem interior"
+    ],
+    "resumo": "O título do salmo fala dos «que serão transformados»: o cristão que progride na virtude não deixa de mudar, pois o homem interior se renova de dia para dia.",
+    "relevancia": 3,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "basilio-hps44-2-o-arroto-da-alma",
+    "autor": "São Basílio Magno",
+    "autor_id": "basilio",
+    "datas": "c. 330–379",
+    "titulo_autor": "bispo de Cesareia da Capadócia, Doutor da Igreja",
+    "obra": "Homilia sobre o Salmo 44 LXX (Ὁμιλία εἰς τὸν ΜΔʹ ψαλμόν)",
+    "passagem": "Homilia sobre o Sl 44 LXX, v. 2",
+    "edicao": "PG 29, 393",
+    "versiculos": [
+      2
+    ],
+    "lingua": "grc",
+    "original": "Ἐξηρεύξατο, φησὶν, ἡ καρδία μου λόγον ἀγαθόν. Ἐπειδὴ γὰρ ἡ ἐρυγή ἐστι πνεῦμα κρύφιον κατὰ τὴν ζέσιν τῆς τροφῆς ἀποῤῥηγνυμένων τῶν πομφολύγων ἐπὶ τὸ ἄνω διαπνεόμενον, ὁ τραφεὶς τῷ ζῶντι ἄρτῳ τῷ ἐκ τοῦ οὐρανοῦ καταβάντι καὶ διδόντι ζωὴν τῷ κόσμῳ, καὶ ὁ ἐμπλησθεὶς παντὶ ῥήματι ἐκπορευομένῳ διὰ στόματος Θεοῦ, κατὰ τὴν τῆς Γραφῆς συνήθη τροπολογίαν, ἡ τραφεῖσα τοῖς ἱεροῖς μαθήμασι ψυχὴ, πρόσφορον τοῖς βρώμασι προΐεται τὴν ἐρυγήν. Διὰ τοῦτο, ἐπειδὴ λογικὴ ἦν καὶ ἀγαθὴ ἡ τροφὴ, λόγον ἀγαθὸν ἐξερεύγεται ὁ Προφήτης. Ὁ γὰρ ἀγαθὸς ἄνθρωπος ἐκ τοῦ ἀγαθοῦ θησαυροῦ τῆς καρδίας αὐτοῦ προφέρει τὸ ἀγαθόν.",
+    "fonte_url": "https://khazarzar.skeptik.net/pgm/PG_Migne/Basilius%20Caesariensis_PG%2029-32/Homiliae%20super%20Psalmos.pdf",
+    "traducao_pt": "«Transborda do meu coração uma palavra boa», diz. O arroto é um sopro oculto que, pelo borbulhar do alimento, rompe as bolhas e sobe; quem foi nutrido pelo pão vivo que desceu do céu e dá a vida ao mundo, e quem se encheu de toda palavra que sai da boca de Deus, segundo o modo habitual de a Escritura falar por figuras, a alma alimentada com as lições sagradas lança, de acordo com o alimento, o seu arroto. Por isso, como o alimento era racional e bom, o Profeta lança uma palavra boa. «Pois o homem bom, do bom tesouro do seu coração, tira o que é bom».",
+    "temas": [
+      "o que sai do coração",
+      "alimentar-se da Palavra"
+    ],
+    "resumo": "A palavra que transborda do coração é o que a alma comeu: quem se alimenta do pão vivo e da palavra de Deus só pode dizer palavra boa.",
+    "relevancia": 3,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "basilio-hps44-4-poder-da-encarnacao",
+    "autor": "São Basílio Magno",
+    "autor_id": "basilio",
+    "datas": "c. 330–379",
+    "titulo_autor": "bispo de Cesareia da Capadócia, Doutor da Igreja",
+    "obra": "Homilia sobre o Salmo 44 LXX (Ὁμιλία εἰς τὸν ΜΔʹ ψαλμόν)",
+    "passagem": "Homilia sobre o Sl 44 LXX, v. 4",
+    "edicao": "PG 29, 400",
+    "versiculos": [
+      4
+    ],
+    "lingua": "grc",
+    "original": "Εἶτα, ἐπειδὴ μέλλει τῇ ἀσθενείᾳ συνάπτεσθαι τῆς σαρκὸς ὁ Θεὸς Λόγος, καλῶς πρόσκειται τὸ, Δυνατέ· διότι μεγίστης ἀπόδειξιν δυνάμεως ἔχει τὸ δυνηθῆναι Θεὸν ἐν ἀνθρώπου φύσει γενέσθαι. Οὐ γὰρ τοσοῦτον οὐρανοῦ καὶ γῆς σύστασις, καὶ θαλάσσης, καὶ ἀέρος, καὶ τῶν μεγίστων στοιχείων ἡ γένεσις, καὶ εἴ τι ὑπερκόσμιον νοεῖται, καὶ εἴ τι καταχθόνιον, τὴν δύναμιν παρίστησι τοῦ Θεοῦ Λόγου, ὅσον ἡ περὶ τὴν ἐνανθρώπησιν οἰκονομία, καὶ ἡ πρὸς τὸ ταπεινὸν καὶ ἀσθενὲς τῆς ἀνθρωπότητος συγκατάβασις.",
+    "fonte_url": "https://khazarzar.skeptik.net/pgm/PG_Migne/Basilius%20Caesariensis_PG%2029-32/Homiliae%20super%20Psalmos.pdf",
+    "traducao_pt": "Em seguida, como o Verbo de Deus ia unir-se à fraqueza da carne, acrescenta-se com acerto «ó valente»: pois é prova de um poder máximo ter podido Deus fazer-se na natureza do homem. Com efeito, nem a constituição do céu e da terra, do mar e do ar, nem a criação dos maiores elementos, nem o que se pensa acima do mundo e abaixo da terra, mostram o poder do Verbo de Deus tanto quanto o plano da encarnação e o descer até a humildade e a fraqueza da humanidade.",
+    "temas": [
+      "a encarnação, prova de poder",
+      "Cristo, o valente"
+    ],
+    "resumo": "O «valente» do salmo mostra o seu poder maior não ao criar o céu e a terra, mas ao fazer-se homem e descer à fraqueza humana.",
+    "relevancia": 3,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "basilio-hps44-7-a-vara-de-retidao",
+    "autor": "São Basílio Magno",
+    "autor_id": "basilio",
+    "datas": "c. 330–379",
+    "titulo_autor": "bispo de Cesareia da Capadócia, Doutor da Igreja",
+    "obra": "Homilia sobre o Salmo 44 LXX (Ὁμιλία εἰς τὸν ΜΔʹ ψαλμόν)",
+    "passagem": "Homilia sobre o Sl 44 LXX, v. 7",
+    "edicao": "PG 29, 404",
+    "versiculos": [
+      7
+    ],
+    "lingua": "grc",
+    "original": "Παιδευτική τίς ἐστιν ἡ ῥάβδος τοῦ Θεοῦ· παιδεύουσα δὲ, εὐθείας καὶ οὐ παρατετραμμένας ἐπάγει τὰς κρίσεις. Διὰ τοῦτο ῥάβδος εὐθύτητος ἡ ῥάβδος τῆς βασιλείας αὐτοῦ προσηγόρευται. Ἐὰν γὰρ ἐγκαταλίπωσιν οἱ υἱοὶ αὐτοῦ τὸν νόμον μου, καὶ τοῖς κρίμασί μου μὴ πορευθῶσιν, ἐπισκέψομαι ἐν ῥάβδῳ τὰς ἀνομίας αὐτῶν. Ὁρᾷς τὴν δικαίαν κρίσιν τοῦ Θεοῦ; Οὐκ ἐπὶ τῶν τυχόντων χρῆται, ἀλλ' ἐπὶ τῶν ἁμαρτανόντων. Αὕτη δὲ καὶ παρακλήσεως λέγεται ῥάβδος· Ἡ ῥάβδος γάρ σου, φησὶ, καὶ ἡ βακτηρία σου. αὗταί με παρεκάλεσαν.",
+    "fonte_url": "https://khazarzar.skeptik.net/pgm/PG_Migne/Basilius%20Caesariensis_PG%2029-32/Homiliae%20super%20Psalmos.pdf",
+    "traducao_pt": "A vara de Deus é educativa: ao educar, aplica juízos retos e não tortos. Por isso a vara do seu reino se chama «vara de retidão». «Se os seus filhos abandonarem a minha lei e não andarem segundo os meus juízos, visitarei com a vara as suas iniquidades». Vês o justo juízo de Deus? Não a usa contra quaisquer pessoas, mas contra os que pecam. Esta vara também se diz de consolação: «A tua vara e o teu cajado, eles me consolaram».",
+    "temas": [
+      "o cetro de retidão",
+      "a correção e o consolo"
+    ],
+    "resumo": "O cetro do rei é vara que corrige só quem peca, e a mesma vara consola: «a tua vara e o teu cajado me consolaram».",
+    "relevancia": 2,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "basilio-hps44-8-o-oleo-da-alegria",
+    "autor": "São Basílio Magno",
+    "autor_id": "basilio",
+    "datas": "c. 330–379",
+    "titulo_autor": "bispo de Cesareia da Capadócia, Doutor da Igreja",
+    "obra": "Homilia sobre o Salmo 44 LXX (Ὁμιλία εἰς τὸν ΜΔʹ ψαλμόν)",
+    "passagem": "Homilia sobre o Sl 44 LXX, v. 8",
+    "edicao": "PG 29, 404–405",
+    "versiculos": [
+      8
+    ],
+    "lingua": "grc",
+    "original": "ἐχρίσθη τῷ ἀληθινῷ χρίσματι ἡ σὰρξ τοῦ Κυρίου, τῇ τοῦ ἁγίου Πνεύματος εἰς αὐτὴν ἐπιδημίᾳ, ὅπερ ἀγαλλιάσεως ἔλαιον προσηγόρευται. Ἐχρίσθη δὲ παρὰ τοὺς μετόχους αὐτοῦ· τουτέστιν, ὑπὲρ πάντας ἀνθρώπους τοὺς μετέχοντας τοῦ Χριστοῦ. Διότι ἐκείνοις μὲν μερική τις ἐδίδοτο Πνεύματος κοινωνία, ἐπὶ δὲ τὸν Υἱὸν τοῦ Θεοῦ κατελθὸν τὸ Πνεῦμα τὸ ἅγιον, ὥς φησιν Ἰωάννης, Ἔμεινεν ἐπ' αὐτόν. Καλῶς δὲ ἀγαλλιάσεως ἔλαιον τὸ Πνεῦμα προσαγορεύεται, ἐπειδὴ καὶ εἷς τῶν ὑπὸ τοῦ Πνεύματος ἁγίου γεωργουμένων καρπῶν ἐστιν ἡ χαρά.",
+    "fonte_url": "https://khazarzar.skeptik.net/pgm/PG_Migne/Basilius%20Caesariensis_PG%2029-32/Homiliae%20super%20Psalmos.pdf",
+    "traducao_pt": "A carne do Senhor foi ungida com o verdadeiro unguento, pela vinda do Espírito Santo sobre ela, que se chamou «óleo de alegria». E foi ungida acima dos seus companheiros, isto é, acima de todos os homens que participam de Cristo. Pois a eles se dava uma comunhão parcial do Espírito; mas sobre o Filho de Deus, diz João, o Espírito Santo desceu e «permaneceu sobre ele». E com razão o Espírito é chamado óleo de alegria, porque um dos frutos que o Espírito Santo cultiva é a alegria.",
+    "temas": [
+      "a unção de Cristo",
+      "o Espírito e a alegria"
+    ],
+    "resumo": "O «óleo da alegria» é o Espírito Santo, que desceu sobre Cristo e permaneceu nele sem medida; e a alegria é um dos frutos do Espírito.",
+    "relevancia": 3,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "basilio-hps44-14-gloria-por-dentro",
+    "autor": "São Basílio Magno",
+    "autor_id": "basilio",
+    "datas": "c. 330–379",
+    "titulo_autor": "bispo de Cesareia da Capadócia, Doutor da Igreja",
+    "obra": "Homilia sobre o Salmo 44 LXX (Ὁμιλία εἰς τὸν ΜΔʹ ψαλμόν)",
+    "passagem": "Homilia sobre o Sl 44 LXX, v. 14",
+    "edicao": "PG 29, 412",
+    "versiculos": [
+      14
+    ],
+    "lingua": "grc",
+    "original": "Ὁ γὰρ εὐτρεπίζων ἑαυτὸν τῷ Πατρὶ τῷ βλέποντι ἐν τῷ κρυπτῷ, καὶ προσευχόμενος, καὶ πάντα πράσσων οὐ πρὸς τὸ θεαθῆναι τοῖς ἀνθρώποις, ἀλλὰ πρὸς τὸ μόνῳ φανερωθῆναι Θεῷ· οὗτος ἔχει πᾶσαν τὴν δόξαν ἔσωθεν, ὡς καὶ ἡ θυγάτηρ τοῦ βασιλέως. [...] Οἶμαι δὲ τὸ πνευματικὸν ἱμάτιον ἐξυφαίνεσθαι, ὅταν τῷ διδακτικῷ λόγῳ ἡ ἀκόλουθος ἐπιπλέκηται πρᾶξις. Ὥσπερ γὰρ τῷ στήμονι τῆς κρόκης ἐπιπλεκομένης τὸ σωματικὸν ἱμάτιον ἐξυφαίνεται· οὕτω τοῦ λόγου προϋφεστῶτος, εἰ ἀκολούθως αἱ πράξεις ἐπάγοιντο, σεμνοτάτη τις ἂν γένοιτο περιβολὴ τῆς ψυχῆς, λόγῳ καὶ ἔργῳ τὸν κατ' ἀρετὴν βίον συμπεπληρωμένον ἐχούσης.",
+    "fonte_url": "https://khazarzar.skeptik.net/pgm/PG_Migne/Basilius%20Caesariensis_PG%2029-32/Homiliae%20super%20Psalmos.pdf",
+    "traducao_pt": "Quem se prepara para o Pai, que vê no segredo, e reza e faz tudo não para ser visto pelos homens, mas para se manifestar só a Deus, tem toda a glória por dentro, como a filha do rei. [...] Penso que a veste espiritual se tece quando à palavra que ensina se entrelaça a ação que a segue. Pois, assim como a veste do corpo se tece com a trama entrelaçada ao urdume, assim, estando urdida a palavra, se as ações se lhe acrescentarem em coerência, resultará uma veste muito digna para a alma, que tem a vida de virtude completada em palavra e em obra.",
+    "temas": [
+      "a vida interior",
+      "palavra e obra"
+    ],
+    "resumo": "A glória da filha do rei é a de quem age só para Deus, que vê no segredo; e a sua veste é tecida de palavra e de obra, trama e urdume.",
+    "relevancia": 3,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "basilio-hps44-15-virgens-alegres",
+    "autor": "São Basílio Magno",
+    "autor_id": "basilio",
+    "datas": "c. 330–379",
+    "titulo_autor": "bispo de Cesareia da Capadócia, Doutor da Igreja",
+    "obra": "Homilia sobre o Salmo 44 LXX (Ὁμιλία εἰς τὸν ΜΔʹ ψαλμόν)",
+    "passagem": "Homilia sobre o Sl 44 LXX, vv. 15–16",
+    "edicao": "PG 29, 412–413",
+    "versiculos": [
+      15,
+      16
+    ],
+    "lingua": "grc",
+    "original": "Ἀκουέτωσαν δὲ καὶ αἱ τὴν παρθενίαν ἐπαγγελλόμεναι τῷ Κυρίῳ, ὅτι παρθένοι ἀπενεχθήσονται τῷ βασιλεῖ· παρθένοι δὲ, αἱ πλησίον οὖσαι τῆς Ἐκκλησίας, αἱ ὀπίσω αὐτῆς ἑπόμεναι, καὶ μὴ ἀποπλανώμεναι τῆς ἐκκλησιαστικῆς εὐταξίας. Ἀπενεχθήσονται δὲ αἱ παρθένοι ἐν εὐφροσύνῃ καὶ ἀγαλλιάσει, ἀχθήσονται εἰς ναὸν βασιλέως. Οὐχ αἱ κατηναγκασμένως ὑπελθοῦσαι τὴν παρθενίαν, οὐδὲ αἱ ἐκ λύπης ἢ ἐξ ἀνάγκης καταδεξάμεναι τὸν σεμνὸν βίον, ἀλλ' αἱ ἐν εὐφροσύνῃ καὶ ἀγαλλιάσει ἐπὶ τῷ τοιούτῳ κατορθώματι χαίρουσαι, αὗται ἀπενεχθήσονται τῷ βασιλεῖ, καὶ ἀχθήσονται οὐκ εἰς τὸν τυχόντα τόπον, ἀλλ' εἰς τὸν ναὸν τοῦ βασιλέως.",
+    "fonte_url": "https://khazarzar.skeptik.net/pgm/PG_Migne/Basilius%20Caesariensis_PG%2029-32/Homiliae%20super%20Psalmos.pdf",
+    "traducao_pt": "Ouçam também as que prometem virgindade ao Senhor que «serão levadas ao rei, virgens»; virgens são as que estão perto da Igreja, as que a seguem e não se desviam da ordem eclesial. «Serão levadas com alegria e júbilo, serão conduzidas ao templo do rei». Não as que abraçaram a virgindade à força, nem as que, por tristeza ou por necessidade, aceitaram a vida austera, mas as que se alegram com júbilo e exultação por esta obra: estas serão levadas ao rei, e conduzidas não a qualquer lugar, mas ao templo do rei.",
+    "temas": [
+      "a virgindade abraçada com alegria",
+      "o templo do rei"
+    ],
+    "resumo": "Só as que escolhem a virgindade com alegria e júbilo, e não por tristeza ou necessidade, são levadas ao templo do rei.",
+    "relevancia": 3,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "crisostomo-ips44-3-fez-se-maldicao",
+    "autor": "São João Crisóstomo",
+    "autor_id": "crisostomo",
+    "datas": "c. 349–407",
+    "titulo_autor": "bispo de Constantinopla, Doutor da Igreja",
+    "obra": "Exposições sobre os Salmos (Ἑρμηνεία εἰς τοὺς Ψαλμούς)",
+    "passagem": "Sl 44 (LXX), v. 3 (homilia, § 4)",
+    "edicao": "PG 55, 188–189",
+    "versiculos": [
+      3
+    ],
+    "lingua": "grc",
+    "original": "Ὁ μὲν γὰρ πρῶτος Ἀδὰμ μυρίας ἐνεπλήσθη κατάρας· οὗτος δὲ ἀπεναντίας ἐκείνῳ πολλῆς τῆς εὐλογίας. Ἐκεῖνος ἤκουσεν, Ἐπικατάρατος σὺ ἐν τοῖς ἔργοις σου· καὶ ὁ μετ' ἐκεῖνον πάλιν, καὶ, Ἐπικατάρατος ὁ ποιῶν τὰ ἔργα Κυρίου ἀμελῶς· καὶ, Ἐπικατάρατος, ὃς οὐκ ἐμμένει πᾶσι τοῖς γεγραμμένοις ἐν τῷ βιβλίῳ τούτῳ· καὶ, Ἐπικατάρατος ὁ κρεμάμενος ἐπὶ ξύλου. Ὁρᾷς πόσαι κατάραι; Τούτων ἠλευθέρωσέ σε ὁ Χριστὸς, γενόμενος κατάρα. Ὥσπερ γὰρ ἐταπείνωσεν ἑαυτὸν, ἵνα σὲ ὑψώσῃ, καὶ ἀπέθανεν, ἵνα σὲ ἀθάνατον ἐργάσηται· οὕτω καὶ κατάρα ἐγένετο, ἵνα σὲ εὐλογίας ἐμπλήσῃ. Τί τῆς εὐλογίας ταύτης ἴσον, ὅταν διὰ κατάρας εὐλογίαν χαρίζηται; Οὐ γὰρ αὐτὸς ἐδεήθη εὐλογίας, ἀλλὰ σοὶ ταύτην δίδωσιν.",
+    "fonte_url": "https://khazarzar.skeptik.net/pgm/PG_Migne/John%20Chrysostom_PG%2047-64/Expositiones%20in%20Psalmos.pdf",
+    "traducao_pt": "O primeiro Adão foi cheio de mil maldições; este, ao contrário, de abundante bênção. Aquele ouviu: «Maldito és tu nas tuas obras»; e o que veio depois dele, de novo: «Maldito o que faz com negligência as obras do Senhor», e: «Maldito quem não permanece em tudo o que está escrito neste livro», e: «Maldito o que está pendurado no madeiro». Vês quantas maldições? De todas elas te libertou Cristo, tornando-se maldição. Assim como se humilhou para te elevar, e morreu para te fazer imortal, assim também se fez maldição para te encher de bênção. Que há igual a esta bênção, quando por meio de uma maldição concede a bênção? Pois não foi ele quem precisou de bênção: é a ti que a dá.",
+    "temas": [
+      "Cristo se fez maldição por nós",
+      "a bênção para sempre"
+    ],
+    "resumo": "Deus «abençoou para sempre» aquele que se fez maldição: Cristo tomou as maldições de Adão para nos encher de bênção.",
+    "relevancia": 3,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "crisostomo-ips44-11-esquece-o-teu-povo",
+    "autor": "São João Crisóstomo",
+    "autor_id": "crisostomo",
+    "datas": "c. 349–407",
+    "titulo_autor": "bispo de Constantinopla, Doutor da Igreja",
+    "obra": "Exposições sobre os Salmos (Ἑρμηνεία εἰς τοὺς Ψαλμούς)",
+    "passagem": "Sl 44 (LXX), v. 11 (homilia, § 11)",
+    "edicao": "PG 55, 200",
+    "versiculos": [
+      11
+    ],
+    "lingua": "grc",
+    "original": "Ἄκουσον, θύγατερ, καὶ ἴδε. Δύο αὐτῇ παρέσχε, καὶ διδασκαλίαν τὴν διὰ τῶν ῥημάτων, καὶ ὄψιν τὴν διὰ τῶν θαυμάτων, καὶ τὴν διὰ τῆς πίστεως· καὶ τὰ μὲν ἔδωκεν, τὰ δὲ ἐπηγγείλατο. Ἄκουσον τοίνυν τῶν ῥημάτων τῶν ἐμῶν, ἴδε μου τὰ θαύματα καὶ τὰ ἔργα, καὶ ἀνέχου τῶν παραινέσεων. Καὶ ὅρα ποῖον παράγγελμα ποιεῖται πρότερον. Ἐπιλάθου τοῦ λαοῦ σου καὶ τοῦ οἴκου τοῦ πατρός σου. Ἐπειδὴ γὰρ ἐξ ἐθνῶν αὐτὴν ἡρμόσατο, τοῦτο αὐτῇ πρότερον παραγγέλλει, ἀποξῦσαι τὴν συνήθειαν ἐκείνην, ἀποστῆσαι τῆς μνήμης, ἐκβαλεῖν αὐτὰ τῆς διανοίας, μὴ μόνον αὐτὰ φυγεῖν, ἀλλὰ μηδὲ μεμνῆσθαι αὐτῶν παραινῶν.",
+    "fonte_url": "https://khazarzar.skeptik.net/pgm/PG_Migne/John%20Chrysostom_PG%2047-64/Expositiones%20in%20Psalmos.pdf",
+    "traducao_pt": "«Ouve, filha, e vê». Deu-lhe duas coisas: o ensino pelas palavras e a visão pelos prodígios e pela fé; umas ele deu, outras prometeu. Ouve, pois, as minhas palavras, vê os meus prodígios e obras, e suporta as minhas advertências. E repara que preceito dá primeiro: «Esquece o teu povo e a casa de teu pai». Como a tinha unido a si vinda dos povos, é isto que primeiro lhe manda: raspar aquele costume, tirá-lo da memória, lançá-lo para fora do pensamento, aconselhando-a não só a fugir deles, mas a nem sequer se lembrar deles.",
+    "temas": [
+      "esquecer o passado pagão",
+      "ouvir e ver"
+    ],
+    "resumo": "Ao chamar a Igreja de filha, o esposo lhe pede primeiro não só deixar os costumes antigos, mas nem os lembrar: ouvir a palavra e ver os prodígios.",
+    "relevancia": 2,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "crisostomo-ips44-12-teu-senhor-e-pai",
+    "autor": "São João Crisóstomo",
+    "autor_id": "crisostomo",
+    "datas": "c. 349–407",
+    "titulo_autor": "bispo de Constantinopla, Doutor da Igreja",
+    "obra": "Exposições sobre os Salmos (Ἑρμηνεία εἰς τοὺς Ψαλμούς)",
+    "passagem": "Sl 44 (LXX), vv. 11–12 (homilia, § 11)",
+    "edicao": "PG 55, 200",
+    "versiculos": [
+      11,
+      12
+    ],
+    "lingua": "grc",
+    "original": "μᾶλλον δὲ καὶ αὐτὸ τὸ γενέσθαι κύριον πολλῆς κηδεμονίας ἐστὶ καὶ φιλανθρωπίας, τὸ τὴν δαιμόνων δούλην, καὶ ὑπὸ τῆς πλάνης πατουμένην, ταύτην ἑλέσθαι ἑαυτῷ. Οὐ μόνον δὲ δούλην, ἀλλὰ καὶ θυγατέρα καὶ νύμφην ἐποίησεν. Ἐπιλάθου τοῦ λαοῦ σου, καὶ τοῦ οἴκου τοῦ πατρός σου. Οὐ γὰρ πρὸς ἀλλότριόν τινα ἔρχῃ, ἀλλὰ πρὸς τὸν ποιήσαντά σε, καὶ πάντων ἐκείνων οἰκειότερον, καὶ κηδόμενόν σου καὶ φροντίζοντα. Αὐτὸς γάρ σου κύριος καὶ πατὴρ, καὶ πάντα αὐτός σοι δέδωκε.",
+    "fonte_url": "https://khazarzar.skeptik.net/pgm/PG_Migne/John%20Chrysostom_PG%2047-64/Expositiones%20in%20Psalmos.pdf",
+    "traducao_pt": "Mais ainda: o próprio fazer-se senhor é obra de grande cuidado e amor ao homem, escolher para si a serva dos demônios, pisada pelo erro. E não apenas serva: fez dela também filha e esposa. «Esquece o teu povo e a casa de teu pai». Pois não vais a um estranho, mas ao que te fez, mais próximo que todos aqueles, que cuida de ti e se preocupa contigo. Ele é teu senhor e pai, e foi ele que te deu tudo.",
+    "temas": [
+      "o esposo, senhor e pai",
+      "a escolha de Deus"
+    ],
+    "resumo": "Esquecer a casa do pai não é ir a um estranho: o esposo é o próprio Criador, que escolheu a serva do erro e fez dela filha e esposa.",
+    "relevancia": 3,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "crisostomo-ips44-14-a-beleza-da-alma",
+    "autor": "São João Crisóstomo",
+    "autor_id": "crisostomo",
+    "datas": "c. 349–407",
+    "titulo_autor": "bispo de Constantinopla, Doutor da Igreja",
+    "obra": "Exposições sobre os Salmos (Ἑρμηνεία εἰς τοὺς Ψαλμούς)",
+    "passagem": "Sl 44 (LXX), v. 14 (homilia, § 12)",
+    "edicao": "PG 55, 201–202",
+    "versiculos": [
+      14
+    ],
+    "lingua": "grc",
+    "original": "Εἶτα ἐπειδὴ τοῦ προσώπου ἐμνήσθη, καὶ ἱματίων, καὶ κάλλους, ἵνα μή τις τῶν παχυτέρων αἰσθητόν τι νοήσῃ, ἐπήγαγε λέγων, Πᾶσα ἡ δόξα τῆς θυγατρὸς τοῦ βασιλέως ἔσωθεν. Πρὸς τὴν διάνοιαν εἴσελθε, φησὶ, τὸ κάλλος καταμάνθανε τῆς ψυχῆς· περὶ ἐκείνων διαλέγομαί σοι, κἂν ἱματισμὸν εἴπω, κἂν κάλλος εἴπω, κἂν χρυσίον εἴπω, κἂν κρόσσους, κἂν διάχρυσα εἴπω, κἂν ὁτιοῦν τοιοῦτον ἕτερον, περὶ διανοίας ὁ λόγος, περὶ ψυχῆς ἡ διδασκαλία, περὶ ἀρετῆς τὸ λεγόμενον, περὶ τῆς ἔνδον δόξης. [...] Ὥσπερ γὰρ σῶμα φαίνεται καλὸν τούτοις περιβεβλημένον· οὕτω ψυχὴ καλλωπίζεται ἀρετὴν ἐνδεδυμένη.",
+    "fonte_url": "https://khazarzar.skeptik.net/pgm/PG_Migne/John%20Chrysostom_PG%2047-64/Expositiones%20in%20Psalmos.pdf",
+    "traducao_pt": "Depois, como mencionou o rosto, as vestes e a beleza, para que nenhum dos mais grosseiros entenda algo sensível, acrescentou: «Toda a glória da filha do rei está por dentro». Entra no pensamento, diz, aprende a beleza da alma: é dela que te falo, ainda que eu diga veste, ainda que diga beleza, ainda que diga ouro, franjas ou tecido dourado, ou qualquer outra coisa assim; a palavra trata do pensamento, o ensino é sobre a alma, o que se diz é sobre a virtude, sobre a glória interior. [...] Pois, assim como o corpo se mostra belo revestido dessas coisas, assim a alma se enfeita revestida de virtude.",
+    "temas": [
+      "a beleza interior",
+      "as imagens do salmo falam da alma"
+    ],
+    "resumo": "Veste, ouro e franjas são imagens: o que o salmo canta é a beleza da alma, que se enfeita revestida de virtude.",
+    "relevancia": 3,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "crisostomo-ips44-16-virgem-crucificada",
+    "autor": "São João Crisóstomo",
+    "autor_id": "crisostomo",
+    "datas": "c. 349–407",
+    "titulo_autor": "bispo de Constantinopla, Doutor da Igreja",
+    "obra": "Exposições sobre os Salmos (Ἑρμηνεία εἰς τοὺς Ψαλμούς)",
+    "passagem": "Sl 44 (LXX), vv. 15–16 (homilia, § 12)",
+    "edicao": "PG 55, 202",
+    "versiculos": [
+      15,
+      16
+    ],
+    "lingua": "grc",
+    "original": "Ἀπενεχθήσονται ἐν εὐφροσύνῃ καὶ ἀγαλλιάσει. Ὅρα τὸ ἀποστολικὸν ἐνταῦθα διαλάμπον, καὶ τὴν ἀπόφασιν ἐκείνην διαδεικνυμένην καὶ ἐν τῷ Προφήτῃ. Ποίαν δὴ ταύτην; Ὅτι Θλίψιν τῇ σαρκὶ ἕξουσιν αἱ γαμούμεναι. Ὥσπερ δὲ ἐκεῖναι θλίψιν, οὕτως αὗται ἀγαλλίασιν καὶ εὐφροσύνην. Ἡ μὲν γὰρ τέκνα, καὶ ἄνδρα, καὶ οἰκίαν, καὶ οἰκέτας, καὶ συγγενεῖς, καὶ κηδεστὰς, καὶ γαμβροὺς, καὶ ἔγγονα, καὶ πολυπαιδίαν, καὶ ἀπαιδίαν μεριμνᾷν ἀναγκάζεται οὐδὲ γὰρ καιρὸς νῦν τὰς νιφάδας ὑπογράφειν τοῦ γάμου· ἡ δὲ παρθένος ἐσταυρωμένη, καὶ τῶν παρόντων ἀπαλλαγεῖσα, καὶ τῶν βιωτικῶν φροντίδων ἀνωτέρα γενομένη, καὶ τὸν εὔριπον διαδῦσα, καὶ πρὸς τὸν οὐρανὸν καθ' ἑκάστην βλέπουσα τὴν ἡμέραν, ἀπολαύει τῆς χαρᾶς τοῦ Πνεύματος, ἐντρυφᾷ τῇ ἀγαλλιάσει.",
+    "fonte_url": "https://khazarzar.skeptik.net/pgm/PG_Migne/John%20Chrysostom_PG%2047-64/Expositiones%20in%20Psalmos.pdf",
+    "traducao_pt": "«Serão levadas com alegria e júbilo». Vê brilhar aqui o ensino do Apóstolo e mostrar-se também no Profeta aquela sentença: «As casadas terão tribulação na carne». Assim como aquelas têm tribulação, estas têm júbilo e alegria. Pois a casada é obrigada a preocupar-se com filhos, marido, casa, servos, parentes, afins, genros, netos, com muitos filhos e com a falta deles (não é hora de descrever a tempestade do casamento); a virgem, porém, crucificada, livre das coisas presentes, acima das preocupações da vida, tendo atravessado o Euripo, e olhando todos os dias para o céu, goza da alegria do Espírito, deleita-se no júbilo.",
+    "temas": [
+      "a virgindade e a alegria",
+      "crucificada para o mundo"
+    ],
+    "resumo": "A virgem, livre das preocupações da vida e com os olhos no céu, goza a alegria do Espírito: o «júbilo» do salmo é o da liberdade.",
+    "relevancia": 2,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "crisostomo-ips44-17-mae-de-muitos",
+    "autor": "São João Crisóstomo",
+    "autor_id": "crisostomo",
+    "datas": "c. 349–407",
+    "titulo_autor": "bispo de Constantinopla, Doutor da Igreja",
+    "obra": "Exposições sobre os Salmos (Ἑρμηνεία εἰς τοὺς Ψαλμούς)",
+    "passagem": "Sl 44 (LXX), v. 17 (homilia, § 12)",
+    "edicao": "PG 55, 202",
+    "versiculos": [
+      17
+    ],
+    "lingua": "grc",
+    "original": "Ἐπειδὴ ἄνω λαοῦ καὶ πατρῶν ἐμνήσθη, λέγων, Ἐπιλάθου τοῦ λαοῦ σου, καὶ τοῦ οἴκου τοῦ πατρός σου· δεικνὺς ὅτι πολλῆς ἀπολαύσεται καὶ κατ' αὐτὸ τὸ μέρος εὐημερίας, τοῦτο ἐπήγαγεν. Ἔστι γὰρ μήτηρ μυρίων παίδων ἡ στεῖρα. Ὥστε εἰ καὶ γονέων ἀπεσπάσθης, ἀλλ' οἱ τῶν παίδων χοροὶ οὕτως ἐπίδοξοι, οὕτω λαμπροὶ καὶ περιφανεῖς ἔσονται, ὡς πᾶσαν ἐμπλῆσαι τὴν οἰκουμένην.",
+    "fonte_url": "https://khazarzar.skeptik.net/pgm/PG_Migne/John%20Chrysostom_PG%2047-64/Expositiones%20in%20Psalmos.pdf",
+    "traducao_pt": "Como atrás mencionou povo e pais, ao dizer: «Esquece o teu povo e a casa de teu pai», e quis mostrar que também nesse ponto ela terá grande prosperidade, acrescentou isto. Pois a estéril é mãe de inumeráveis filhos. De modo que, embora tenhas sido arrancada dos pais, os coros dos filhos serão tão gloriosos, tão brilhantes e ilustres, que encherão o mundo inteiro.",
+    "temas": [
+      "a fecundidade da Igreja",
+      "deixar para receber"
+    ],
+    "resumo": "Quem deixa a casa do pai não fica sem herança: a estéril se torna mãe de uma multidão que enche a terra.",
+    "relevancia": 2,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "agostinho-enpss44-3-belo-em-toda-parte",
+    "autor": "Santo Agostinho",
+    "autor_id": "agostinho",
+    "datas": "354–430",
+    "titulo_autor": "bispo de Hipona, Doutor da Igreja",
+    "obra": "Comentários aos Salmos (Enarrationes in Psalmos)",
+    "passagem": "Sobre o Sl 44, 3 (Vulgata)",
+    "edicao": "PL 36, 495–496",
+    "versiculos": [
+      3
+    ],
+    "lingua": "la",
+    "original": "Quare ergo non habuit speciem neque decorem? Quia Christus crucifixus, Iudaeis quidem scandalum, Gentibus stultitia. Quare autem et in cruce habuit decorem? Quia quod stultum est Dei, sapientius est quam homines; et quod infirmum est Dei, fortius est quam homines. [...] Nobis ergo iam credentibus, ubique sponsus pulcher occurrat. Pulcher Deus, Verbum apud Deum: pulcher in utero virginis, ubi non amisit divinitatem, et sumpsit humanitatem: pulcher natus infans Verbum; quia et cum esset infans, cum sugeret, cum manibus portaretur, coeli locuti sunt, Angeli laudes dixerunt, Magos stella direxit, adoratus est in praesepi, cibaria mansuetorum. Pulcher ergo in coelo, pulcher in terra; pulcher in utero, pulcher in manibus parentum; pulcher in miraculis, pulcher in flagellis; pulcher invitans ad vitam, pulcher non curans mortem; pulcher deponens animam, pulcher recipiens; pulcher in ligno, pulcher in sepulcro, pulcher in coelo.",
+    "fonte_url": "https://www.augustinus.it/latino/esposizioni_salmi/esposizione_salmo_059_testo.htm",
+    "traducao_pt": "Por que, então, não teve aparência nem beleza? Porque Cristo crucificado é escândalo para os judeus e loucura para os gentios. Mas por que também na cruz teve beleza? Porque o que é loucura de Deus é mais sábio que os homens, e o que é fraqueza de Deus é mais forte que os homens. [...] Para nós, que já cremos, o Esposo se apresente belo em toda parte. Belo, Deus, Verbo junto de Deus; belo no seio da Virgem, onde não perdeu a divindade e assumiu a humanidade; belo, menino recém-nascido, Verbo; pois também quando era menino, quando mamava, quando era levado nos braços, os céus falaram, os anjos disseram louvores, a estrela guiou os magos, foi adorado na manjedoura, alimento dos mansos. Belo, portanto, no céu, belo na terra; belo no seio, belo nos braços dos pais; belo nos milagres, belo nos açoites; belo ao convidar para a vida, belo ao não se importar com a morte; belo ao entregar a alma, belo ao recebê-la; belo no madeiro, belo no sepulcro, belo no céu.",
+    "temas": [
+      "a beleza de Cristo",
+      "Cristo belo na cruz"
+    ],
+    "resumo": "O mais belo dos filhos dos homens é belo também no presépio, nos açoites e na cruz: quem crê o vê belo em toda parte, porque a sua beleza é a justiça.",
+    "relevancia": 3,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "agostinho-enpss44-6-a-flecha-de-saulo",
+    "autor": "Santo Agostinho",
+    "autor_id": "agostinho",
+    "datas": "354–430",
+    "titulo_autor": "bispo de Hipona, Doutor da Igreja",
+    "obra": "Comentários aos Salmos (Enarrationes in Psalmos)",
+    "passagem": "Sobre o Sl 44, 6 (Vulgata)",
+    "edicao": "PL 36, 503",
+    "versiculos": [
+      6
+    ],
+    "lingua": "la",
+    "original": "Sagittae tuae acutae, potentissimae: verba cor transfigentia, amorem excitantia. Unde dicitur in Canticis canticorum: Quia vulnerata caritate ego sum. Dicit enim vulneratam se esse caritate, id est, amare se dicit, aestuare se dicit, suspirare sponso, unde accepit sagittam verbi. Sagittae tuae acutae, potentissimae: et transfigentes, et efficientes: acutae, potentissimae. Populi sub te cadent. Qui ceciderunt? Qui percussi sunt, et ceciderunt. Populos videmus subditos Christo, cadentes non videmus. Exponit ubi cadunt: in corde. Ibi se erigebant adversus Christum, ibi cadunt ante Christum. Blasphemabat Saulus Christum, erectus erat: supplicat Christo, cecidit, prostratus est: occisus est inimicus Christi, ut vivat discipulus Christi. De coelo emissa sagitta, corde percussus est Saulus, nondum Paulus, adhuc Saulus, adhuc erectus, nondum prostratus: accepit sagittam, cecidit in corde. Non enim quod prostratus est in facie, ibi cecidit, sed ubi ait: Domine, quid me iubes facere? Modo ibas ad Christianos alligandos et perducendos ad poenam; et modo dicis Christo: Quid me iubes facere? O sagittam acutam, potentissimam, qua accepta cecidit Saulus ut esset Paulus!",
+    "fonte_url": "https://www.augustinus.it/latino/esposizioni_salmi/esposizione_salmo_059_testo.htm",
+    "traducao_pt": "«As tuas flechas são agudas, potentíssimas»: palavras que transpassam o coração e despertam o amor. Por isso se diz no Cântico dos Cânticos: «Estou ferida de amor». Diz-se ferida de amor, isto é, diz que ama, que arde, que suspira pelo esposo, de quem recebeu a flecha da palavra. «As tuas flechas são agudas, potentíssimas»: transpassam e operam. «Os povos cairão debaixo de ti». Quem caiu? Os que foram atingidos e caíram. Vemos os povos submetidos a Cristo, mas não os vemos cair. Ele explica onde caem: «no coração». Ali se erguiam contra Cristo, ali caem diante de Cristo. Saulo blasfemava contra Cristo, estava ereto; suplica a Cristo, caiu, foi prostrado: morreu o inimigo de Cristo para que vivesse o discípulo de Cristo. Do céu foi lançada a flecha, Saulo foi ferido no coração, ainda não Paulo, ainda Saulo, ainda ereto, ainda não prostrado: recebeu a flecha, caiu no coração. Pois não caiu ali por ter sido prostrado de rosto no chão, mas quando disse: «Senhor, que me mandas fazer?» Há pouco ias prender os cristãos e levá-los ao castigo; e agora dizes a Cristo: «Que me mandas fazer?» Ó flecha aguda, potentíssima, que, ao ser recebida, fez Saulo cair para ser Paulo!",
+    "temas": [
+      "a palavra que fere de amor",
+      "a conversão de Paulo"
+    ],
+    "resumo": "As flechas do rei são palavras que transpassam o coração e despertam o amor: foi a flecha lançada do céu que fez cair Saulo, para que fosse Paulo.",
+    "relevancia": 3,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "agostinho-enpss44-8-odeia-o-que-fizeste",
+    "autor": "Santo Agostinho",
+    "autor_id": "agostinho",
+    "datas": "354–430",
+    "titulo_autor": "bispo de Hipona, Doutor da Igreja",
+    "obra": "Comentários aos Salmos (Enarrationes in Psalmos)",
+    "passagem": "Sobre o Sl 44, 8 (Vulgata)",
+    "edicao": "PL 36, 504–505",
+    "versiculos": [
+      8
+    ],
+    "lingua": "la",
+    "original": "Quid odit? Iniquitatem: numquid te? Sed in te est iniquitas? Odit illam Deus, oderis et tu: ut unam rem ambo oderitis. Eris enim Deo amicus, si odisti quod odit. Ita et amabis quod amat. Displiceat in teipso tibi iniquitas tua, et placeat tibi creatura ipsius. Homo enim es iniquus. Duo dixi nomina; duo nomina, homo et iniquus: in istis duobus nominibus unum est naturae, alterum culpae; unum tibi Deus fecit, alterum tu fecisti: ama quod Deus fecit, oderis quod tu fecisti, quia et ipse hoc odit.",
+    "fonte_url": "https://www.augustinus.it/latino/esposizioni_salmi/esposizione_salmo_059_testo.htm",
+    "traducao_pt": "Que odeia? A iniquidade: acaso a ti? Mas há iniquidade em ti? Deus a odeia; odeia-a também tu, para que ambos odieis uma só coisa. Serás amigo de Deus se odeias o que ele odeia. E assim amarás o que ele ama. Desagrade-te em ti a tua iniquidade, e agrade-te a criatura dele. Pois és um homem iníquo. Disse dois nomes: homem e iníquo; nesses dois nomes, um é da natureza, o outro da culpa; um Deus te fez, o outro tu fizeste: ama o que Deus fez, odeia o que tu fizeste, porque ele também o odeia.",
+    "temas": [
+      "amar a justiça e odiar o pecado",
+      "o homem e a sua culpa"
+    ],
+    "resumo": "Deus odeia a iniquidade, não a ti: para te unires a ele, ama o que ele fez em ti (o homem) e odeia o que tu fizeste (a culpa).",
+    "relevancia": 3,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "agostinho-enpss44-11-ouve-e-vera",
+    "autor": "Santo Agostinho",
+    "autor_id": "agostinho",
+    "datas": "354–430",
+    "titulo_autor": "bispo de Hipona, Doutor da Igreja",
+    "obra": "Comentários aos Salmos (Enarrationes in Psalmos)",
+    "passagem": "Sobre o Sl 44, 11 (Vulgata)",
+    "edicao": "PL 36, 509–510",
+    "versiculos": [
+      11
+    ],
+    "lingua": "la",
+    "original": "Prius audi, postea vide. Ventum est enim ad nos cum Evangelio, et praedicatum est nobis quod nondum videmus, et audiendo credidimus, credendo videbimus; sicut dicit ipse sponsus apud Prophetam: Populus quem non cognovi, servivit mihi; in obauditu auris obedivit mihi. Quid est, in obauditu auris? Quia non vidit. Viderunt Iudaei, et crucifixerunt: non viderunt Gentes, et crediderunt. [...] Audi ut mundes cor fide, sicut Apostolus ait in Actibus Apostolorum: Fide mundans corda eorum. Ad hoc enim audimus quod credamus, antequam videamus, ut credendo cor mundemus, unde videre possimus. Audi, ut credas, munda cor fide. Et cum cor mundavero, quid videbo? Beati mundo corde, quia ipsi Deum videbunt.",
+    "fonte_url": "https://www.augustinus.it/latino/esposizioni_salmi/esposizione_salmo_059_testo.htm",
+    "traducao_pt": "Primeiro ouve, depois verás. Pois a nós se veio com o Evangelho, e foi-nos pregado o que ainda não vemos, e ouvindo cremos, crendo veremos; como diz o próprio esposo pelo Profeta: «Um povo que eu não conhecia me serviu; ao ouvir com o ouvido, obedeceu-me». Que quer dizer «ao ouvir com o ouvido»? Que não viu. Viram os judeus, e crucificaram; não viram os gentios, e creram. [...] Ouve para purificar o coração pela fé, como diz o Apóstolo nos Atos dos Apóstolos: «Purificando pela fé os seus corações». Ouvimos para crer antes de ver, a fim de que, crendo, purifiquemos o coração, com o qual possamos ver. Ouve para crer, purifica o coração pela fé. E, quando eu tiver purificado o coração, que verei? «Bem-aventurados os puros de coração, porque verão a Deus».",
+    "temas": [
+      "ouvir antes de ver",
+      "a fé que purifica o coração"
+    ],
+    "resumo": "«Ouve e vê»: primeiro se ouve e se crê, e a fé purifica o coração para que um dia veja; os gentios creram sem ter visto.",
+    "relevancia": 3,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "agostinho-enpss44-12-a-beleza-que-ele-fez",
+    "autor": "Santo Agostinho",
+    "autor_id": "agostinho",
+    "datas": "354–430",
+    "titulo_autor": "bispo de Hipona, Doutor da Igreja",
+    "obra": "Comentários aos Salmos (Enarrationes in Psalmos)",
+    "passagem": "Sobre o Sl 44, 12 (Vulgata)",
+    "edicao": "PL 36, 510",
+    "versiculos": [
+      12
+    ],
+    "lingua": "la",
+    "original": "Quoniam concupivit rex speciem tuam. Quam speciem, nisi quam ipse fecit? Concupivit speciem. Cuius speciem? Peccatricis, iniquae, impiae, qualis erat apud patrem diabolum, et apud populum suum? Non, sed de qua dicitur: Quae est ista quae ascendit dealbata? Antea ergo non erat alba, postea dealbata. Quia si fuerint peccata vestra sicut phoenicium, tamquam nivem dealbabo. Concupivit rex speciem tuam. Quis rex? Quia ipse est Deus tuus. Iam vide si non debes dimittere patrem tuum illum, et populum tuum illum, et venire ad regem istum, Deum tuum: Deus tuus est, rex tuus est. Rex tuus, et ipse est sponsus tuus. Regi nubis Deo, ab illo dotata, ab illo decorata, ab illo redempta, ab illo sanata. Quidquid habes unde illi placeas, ab illo habes.",
+    "fonte_url": "https://www.augustinus.it/latino/esposizioni_salmi/esposizione_salmo_059_testo.htm",
+    "traducao_pt": "«Porque o rei desejou a tua beleza». Que beleza, senão a que ele mesmo fez? «Desejou a beleza». De quem? Da pecadora, iníqua, ímpia, qual era junto ao pai diabo e junto ao seu povo? Não, mas daquela de quem se diz: «Quem é esta que sobe toda branca?» Antes, portanto, não era branca; depois, branqueada. Pois «se os vossos pecados forem como escarlate, como neve os branquearei». «O rei desejou a tua beleza». Que rei? «Porque ele é o teu Deus». Vê agora se não deves deixar aquele pai e aquele povo e vir a este rei, teu Deus: é o teu Deus, é o teu rei. Teu rei, e ele mesmo é o teu esposo. Casas com o rei, que é Deus, dotada por ele, adornada por ele, redimida por ele, curada por ele. Tudo o que tens com que lhe agradar, tens dele.",
+    "temas": [
+      "a beleza que Deus dá",
+      "a graça precede o amor"
+    ],
+    "resumo": "O rei deseja a beleza que ele mesmo criou na pecadora que ele lavou: tudo o que nela lhe agrada, ela o tem dele.",
+    "relevancia": 3,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "agostinho-enpss44-17-pais-e-filhos",
+    "autor": "Santo Agostinho",
+    "autor_id": "agostinho",
+    "datas": "354–430",
+    "titulo_autor": "bispo de Hipona, Doutor da Igreja",
+    "obra": "Comentários aos Salmos (Enarrationes in Psalmos)",
+    "passagem": "Sobre o Sl 44, 17 (Vulgata)",
+    "edicao": "PL 36, 513",
+    "versiculos": [
+      17
+    ],
+    "lingua": "la",
+    "original": "Patres missi sunt Apostoli, pro Apostolis filii nati sunt tibi, constituti sunt episcopi. Hodie enim episcopi, qui sunt per totum mundum, unde nati sunt? Ipsa Ecclesia patres illos appellat, ipsa illos genuit, et ipsa illos constituit in sedibus patrum. Non ergo te putes desertam, quia non vides Petrum, quia non vides Paulum, quia non vides illos per quos nata es: de prole tua tibi crevit paternitas.",
+    "fonte_url": "https://www.augustinus.it/latino/esposizioni_salmi/esposizione_salmo_059_testo.htm",
+    "traducao_pt": "Os pais enviados foram os Apóstolos; em lugar dos Apóstolos nasceram-te filhos: foram constituídos os bispos. Hoje, de onde nasceram os bispos que há no mundo inteiro? A própria Igreja os chama pais, ela os gerou e ela os pôs nas cátedras dos pais. Não penses, portanto, que estás abandonada porque não vês Pedro, porque não vês Paulo, porque não vês aqueles por quem nasceste: da tua própria prole cresceu para ti a paternidade.",
+    "temas": [
+      "os bispos sucessores dos Apóstolos",
+      "a Igreja nunca fica órfã"
+    ],
+    "resumo": "A Igreja não fica órfã quando os Apóstolos partem: em lugar dos pais nasceram-lhe filhos, os bispos, que ela mesma gerou e pôs nas cátedras dos pais.",
+    "relevancia": 3,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "jeronimo-ep22-1-audi-filia",
+    "autor": "São Jerônimo",
+    "autor_id": "jeronimo",
+    "datas": "c. 347–420",
+    "titulo_autor": "presbítero, tradutor da Bíblia, Doutor da Igreja",
+    "obra": "Cartas (Epistulae)",
+    "passagem": "Carta 22, a Eustóquio, 1",
+    "edicao": "PL 22, 394",
+    "versiculos": [
+      11,
+      12
+    ],
+    "lingua": "la",
+    "original": "In quadragesimo quarto Psalmo Deus ad animam loquitur humanam, ut secundum exemplum Abrahae, exiens de terra sua, et de cognatione sua, relinquat Chaldaeos qui quasi doemonia interpretantur, et habitet in regione viventium, quam alibi Propheta suspirat, dicens: « Credo videre bona Domini in terra viventium ». Verum non sufficit tibi exire de terra tua, nisi obliviscaris populi tui, et domus patris tui, ut carne contempta, sponsi jungaris amplexibus. « Ne respexeris, inquit, retro: nec steteris in omni circa regione, sed in monte salvum te fac, ne forte comprehendaris ». Non expedit apprehenso aratro, respicere post tergum, nec de agro reverti domum, nec post Christi tunicam, ad tollendum aliud vestimentum tecto descendere. Grande miraculum: Pater filiam cohortatur, ne meminerit patris sui. [...] Exivi de domo infantiae meae, oblita sum patris mei, renascor in Christo. Quid pro hoc mercedis accipio? Sequitur: Et concupiscet rex decorem tuum.",
+    "fonte_url": "https://mlat.uzh.ch/browser/cps_2.HieStr.Episto32",
+    "traducao_pt": "No salmo quarenta e quatro, Deus fala à alma humana: que, a exemplo de Abraão, saindo da sua terra e da sua parentela, abandone os caldeus, cujo nome se interpreta como «demônios», e habite na região dos viventes, pela qual suspira o Profeta em outro lugar: «Creio que verei os bens do Senhor na terra dos viventes». Mas não te basta sair da tua terra, se não esqueceres o teu povo e a casa de teu pai, para que, desprezada a carne, te una aos abraços do esposo. «Não olhes para trás, diz, nem pares em toda a região em redor, mas salva-te no monte, para que não sejas apanhada». Não convém, tendo posto a mão no arado, olhar para trás, nem voltar do campo para casa, nem, depois da túnica de Cristo, descer do telhado para pegar outra veste. Grande milagre: o Pai exorta a filha a não se lembrar do seu pai. [...] Saí da casa da minha infância, esqueci o meu pai, renasço em Cristo. Que recompensa recebo por isso? Segue: «E o rei desejará a tua beleza».",
+    "temas": [
+      "deixar tudo por Cristo",
+      "a vocação virginal"
+    ],
+    "resumo": "Jerônimo abre a carta a Eustóquio com o salmo: deixar a terra e o pai sem olhar para trás é o preço de ser desejada pelo rei.",
+    "relevancia": 3,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "jeronimo-ep65-8-o-mais-belo-e-isaias",
+    "autor": "São Jerônimo",
+    "autor_id": "jeronimo",
+    "datas": "c. 347–420",
+    "titulo_autor": "presbítero, tradutor da Bíblia, Doutor da Igreja",
+    "obra": "Cartas (Epistulae)",
+    "passagem": "Carta 65, a Principia (explicação do Sl 44), 8",
+    "edicao": "PL 22, 627",
+    "versiculos": [
+      3
+    ],
+    "lingua": "la",
+    "original": "Quaeritur autem quomodo pulchrior sit cunctis filiis hominum, de quo legimus in Isaia: « Vidimus eum, et non habebat speciem neque decorem, sed erat species ejus inhonorata et deficiens a filiis hominum. Homo in plaga positus, et sciens ferre infirmitatem, quia avertit faciem suam ». Nec statim scriptura dissonare videatur: quia ibi ignobilitas corporis propter flagella et sputa et alapas et clavos, et injurias patibuli, commemoratur: hic pulchritudo virtutum in sacro et venerando corpore. Non quo divinitas Christi hominibus comparata formosior sit; haec enim non habet comparationem: sed absque passionibus crucis, universis pulchrior est. [...] Nisi enim habuisset et in vultu quiddam oculisque sidereum, nunquam eum statim secuti fuissent Apostoli, nec qui ad comprehendendum eum venerant, corruissent.",
+    "fonte_url": "https://mlat.uzh.ch/browser/cps_2.HieStr.Episto32",
+    "traducao_pt": "Pergunta-se como pode ser o mais belo de todos os filhos dos homens aquele de quem lemos em Isaías: «Vimo-lo, e não tinha aparência nem beleza, mas o seu aspecto era sem honra e deficiente entre os filhos dos homens. Homem posto na chaga, que sabe suportar a enfermidade, porque voltou a sua face». Que a Escritura não pareça logo discordar: lá se recorda a vileza do corpo por causa dos açoites, dos escarros, das bofetadas, dos cravos e das injúrias da cruz; aqui, a beleza das virtudes num corpo sagrado e venerável. Não que a divindade de Cristo, comparada com os homens, seja mais formosa (ela não admite comparação), mas, sem os sofrimentos da cruz, é mais belo que todos. [...] Pois, se não tivesse também no rosto e nos olhos algo de brilho de estrela, os Apóstolos não o teriam seguido logo, nem teriam caído por terra os que vieram prendê-lo.",
+    "temas": [
+      "a beleza de Cristo",
+      "a beleza e a cruz"
+    ],
+    "resumo": "Isaías vê o desfigurado da cruz e o salmo o mais belo dos homens: a beleza das virtudes não faltou, e algo luminoso no rosto bastava para os Apóstolos o seguirem.",
+    "relevancia": 3,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "jeronimo-ep65-15-a-rainha-a-direita",
+    "autor": "São Jerônimo",
+    "autor_id": "jeronimo",
+    "datas": "c. 347–420",
+    "titulo_autor": "presbítero, tradutor da Bíblia, Doutor da Igreja",
+    "obra": "Cartas (Epistulae)",
+    "passagem": "Carta 65, a Principia (explicação do Sl 44), 15",
+    "edicao": "PL 22, 633",
+    "versiculos": [
+      10
+    ],
+    "lingua": "la",
+    "original": "Quae autem jam super petram Christum stabili radice fundata est Catholica Ecclesia, una columba, perfecta et proxima stat a dextris, et nihil in se sinistrum habet. Stat in vestibus deauratis, de sermonibus Scripturarum ad sensum transiens, et cunctis plena virtutibus: sive ut nos transtulimus, in diademate aureo. Est enim regina, regnatque cum rege",
+    "fonte_url": "https://mlat.uzh.ch/browser/cps_2.HieStr.Episto32",
+    "traducao_pt": "A Igreja católica, já fundada com raiz firme sobre a pedra, Cristo, pomba única, perfeita e próxima, está à direita e não tem em si nada de sinistro. Está em vestes douradas, passando das palavras das Escrituras ao seu sentido e cheia de todas as virtudes; ou, como traduzimos, «em diadema de ouro». Pois é rainha e reina com o rei.",
+    "temas": [
+      "a Igreja, rainha à direita de Cristo",
+      "as vestes douradas"
+    ],
+    "resumo": "A rainha à direita do rei é a Igreja assentada sobre Cristo: pomba perfeita, sem nada de sinistro, que passa das palavras das Escrituras ao seu sentido e reina com o rei.",
+    "relevancia": 2,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "jeronimo-ep65-20-virgens-e-viuvas",
+    "autor": "São Jerônimo",
+    "autor_id": "jeronimo",
+    "datas": "c. 347–420",
+    "titulo_autor": "presbítero, tradutor da Bíblia, Doutor da Igreja",
+    "obra": "Cartas (Epistulae)",
+    "passagem": "Carta 65, a Principia (explicação do Sl 44), 20",
+    "edicao": "PL 22, 637",
+    "versiculos": [
+      15,
+      16
+    ],
+    "lingua": "la",
+    "original": "Ego puto de istis virginibus, quae sequuntur Ecclesiam, et in primo ponuntur gradu, et te esse et omnes, qui in virginitate corporis et animae perseverant. Proximas autem et amicas, viduas esse, et in matrimonio continentes: quae omnes cum laetitia et exsultatione ducuntur ad templum et in thalamum regis. In templum quasi sacerdotes Dei: in thalamum quasi sponsae regis et sponsi.",
+    "fonte_url": "https://mlat.uzh.ch/browser/cps_2.HieStr.Episto32",
+    "traducao_pt": "Penso que as virgens que seguem a Igreja e ocupam o primeiro grau são tu e todos os que perseveram na virgindade do corpo e da alma. As próximas e amigas seriam as viúvas e as que vivem a continência no matrimônio: todas elas são conduzidas com alegria e júbilo ao templo e ao tálamo do rei. Ao templo, como sacerdotes de Deus; ao tálamo, como esposas do rei e esposo.",
+    "temas": [
+      "virgens, viúvas e casados continentes",
+      "o templo e o tálamo do rei"
+    ],
+    "resumo": "As virgens que seguem a rainha são as que guardam a virgindade; as «próximas», as viúvas e os continentes no matrimônio: todos chegam, com alegria, ao templo do rei.",
+    "relevancia": 2,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "teodoreto-ips44-13-o-rosto-da-igreja",
+    "autor": "Teodoreto de Ciro",
+    "autor_id": "teodoreto",
+    "datas": "c. 393–c. 460",
+    "titulo_autor": "bispo de Ciro, na Síria; escritor eclesiástico (não é santo)",
+    "obra": "Interpretação dos Salmos (Interpretatio in Psalmos)",
+    "passagem": "Sl 44 (LXX), v. 13",
+    "edicao": "PG 80, 1196",
+    "versiculos": [
+      13
+    ],
+    "lingua": "grc",
+    "original": "Πρόσωπον δὲ τῆς Ἐκκλησίας κυρίως μὲν αὐτὸς ὁ Δεσπότης· κεφαλὴ γάρ ἐστι τοῦ σώματος· \"Αὐτὸν γὰρ, φησὶν, ἔδωκε κεφαλὴν ὑπὲρ πάντα τῇ Ἐκκλησίᾳ.\" Ἔπειτα δὲ καὶ τὸ ἱερατικὸν τάγμα οἷόν τι πρόσωπον ὑπάρχει τῆς Ἐκκλησίας, ἅτε δὴ πλείονα πνευματικὴν περιβεβλημένον ἀξίαν. Ἔστι δὲ ἰδεῖν καὶ τήνδε τὴν προφητείαν δεξαμένην τὸ πέρας· οἱ γὰρ πλούτῳ κομῶντες, καὶ τῶν μεγίστων ἀξιωμάτων τὴν περιφάνειαν ἔχοντες, τὸ καλούμενον τῆς Ἐκκλησίας γεραίρουσι πρόσωπον.",
+    "fonte_url": "https://khazarzar.skeptik.net/pgm/PG_Migne/Theodoretus%20of%20Cyrrhus_PG%2080-84/Interpretatio%20in%20Psalmos.pdf",
+    "traducao_pt": "Rosto da Igreja é, em sentido próprio, o próprio Senhor, pois é a cabeça do corpo: «Deu-o por cabeça, acima de tudo, à Igreja». Depois, também a ordem sacerdotal é como um rosto da Igreja, porque está revestida de maior dignidade espiritual. E vê-se que esta profecia também se cumpriu: os que se orgulham da riqueza e têm a fama das maiores dignidades honram o chamado rosto da Igreja.",
+    "temas": [
+      "o rosto da Igreja",
+      "os ricos e a Igreja"
+    ],
+    "resumo": "O «rosto» que os ricos do povo buscam é, antes de tudo, Cristo, cabeça da Igreja; depois, o sacerdócio, como que o rosto visível dela.",
+    "relevancia": 2,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "teodoreto-ips44-14-franjas-e-carismas",
+    "autor": "Teodoreto de Ciro",
+    "autor_id": "teodoreto",
+    "datas": "c. 393–c. 460",
+    "titulo_autor": "bispo de Ciro, na Síria; escritor eclesiástico (não é santo)",
+    "obra": "Interpretação dos Salmos (Interpretatio in Psalmos)",
+    "passagem": "Sl 44 (LXX), vv. 14–15",
+    "edicao": "PG 80, 1196–1197",
+    "versiculos": [
+      14
+    ],
+    "lingua": "grc",
+    "original": "Ἐπειδὴ γὰρ διάφοροι τοῦ θείου Πνεύματος αἱ ἐνέργειαι· διαιρέσεις γὰρ χαρισμάτων εἰσὶ, τὸ δὲ αὐτὸ Πνεῦμα· καὶ ᾧ μὲν διὰ τοῦ Πνεύματος δίδοται λόγος σοφίας, ἄλλῳ δὲ γνώσεως κατὰ τὸ αὐτὸ Πνεῦμα, ἑτέρῳ δὲ πίστις ἐν τῷ αὐτῷ Πνεύματι, ἄλλῳ δὲ προφητεία, ἄλλῳ δὲ γένη γλωσσῶν· ἐκ πολλῶν δὲ πνευματικῶν ἀνθρώπων δεξαμένων διάφορα χαρίσματα ἡ Ἐκκλησία συνέστηκεν· εἰκότως κροσσοῖς ἀπείκασε χρυσοῖς τὴν τῶν χαρισμάτων διαίρεσιν. Διῄρηνται γὰρ ἀπ' ἀλλήλων οἱ κροσσοὶ, καὶ πάλιν ἥνωνται ὡς τῆς αὐτῆς ἐξηρτημένοι στολῆς.",
+    "fonte_url": "https://khazarzar.skeptik.net/pgm/PG_Migne/Theodoretus%20of%20Cyrrhus_PG%2080-84/Interpretatio%20in%20Psalmos.pdf",
+    "traducao_pt": "Como diversas são as operações do divino Espírito — «há divisões de carismas, mas o mesmo Espírito»; a um é dada pelo Espírito a palavra de sabedoria, a outro a de ciência segundo o mesmo Espírito, a outro a fé no mesmo Espírito, a outro a profecia, a outro as espécies de línguas —, e a Igreja subsiste de muitos homens espirituais que receberam carismas diversos, com razão comparou às franjas de ouro a divisão dos carismas. Pois as franjas estão separadas umas das outras e, no entanto, unidas, como penduradas da mesma veste.",
+    "temas": [
+      "a diversidade dos carismas",
+      "a unidade da Igreja"
+    ],
+    "resumo": "As franjas de ouro da veste da rainha são os carismas: distintos entre si, mas todos presos à mesma veste, a Igreja.",
+    "relevancia": 3,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "tomas-postilla-ps44-14-gloria-por-dentro",
+    "autor": "São Tomás de Aquino",
+    "autor_id": "tomas",
+    "datas": "1225–1274",
+    "titulo_autor": "dominicano, Doutor da Igreja",
+    "obra": "Comentário aos Salmos (Postilla super Psalmos)",
+    "passagem": "Sl 44 (Vulgata), v. 14 (n. 9)",
+    "edicao": "Parma, t. 14; Corpus Thomisticum, Super Psalmo 44, n. 9",
+    "versiculos": [
+      14
+    ],
+    "lingua": "la",
+    "original": "filiae regis ab intus: et hoc tripliciter. Primo, quia in interiori conscientia, non in exteriori fama hominum, sicut est fama peccatorum. 2 Cor. 1: gloria nostra haec est testimonium conscientiae nostrae. Secundo in interiori justitia, non in exteriori observantia, sicut in veteri testamento. Rom. 2: circumcisio cordis, non carnis; in spiritu, non in littera; cujus laus non est ex hominibus, sed ex Deo. Tertio, quae est in spe aeterna, quae est interna; non in spe temporalium, quae est extra.",
+    "fonte_url": "https://www.corpusthomisticum.org/cps41.html#87240",
+    "traducao_pt": "«Toda a glória da filha do rei está por dentro», e isso de três modos. Primeiro, porque está na consciência interior, e não na fama exterior entre os homens, como é a fama dos pecadores. 2Cor 1: «Esta é a nossa glória: o testemunho da nossa consciência». Segundo, na justiça interior, e não na observância exterior, como no Antigo Testamento. Rm 2: «a circuncisão do coração, não da carne; no espírito, não na letra; cujo louvor não vem dos homens, mas de Deus». Terceiro, na esperança eterna, que é interior, e não na esperança das coisas temporais, que é exterior.",
+    "temas": [
+      "a glória interior",
+      "consciência, justiça e esperança"
+    ],
+    "resumo": "A glória da filha do rei está por dentro de três modos: na consciência (não na fama), na justiça do coração (não na observância exterior) e na esperança eterna.",
+    "relevancia": 3,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "cassiodoro-exps44-13-a-beleza-que-recebeu",
+    "autor": "Cassiodoro",
+    "autor_id": "cassiodoro",
+    "datas": "c. 485–c. 580",
+    "titulo_autor": "senador romano e monge, fundador do mosteiro de Vivário",
+    "obra": "Exposição dos Salmos (Expositio Psalmorum)",
+    "passagem": "Sl 44 (Vulgata), v. 13 (Vers. 13)",
+    "edicao": "PL 70, 325C–D",
+    "versiculos": [
+      12,
+      13
+    ],
+    "lingua": "la",
+    "original": "Foeda erat, cum eam tenebat invasor: pulchra facta est, cum ad suum remeavit auctorem. De qua legitur, quae est ista quae ascendit dealbata (Cant. VIII, 5)? Et considera quod haec Sponsa quasi simili laudatur initio, sicut superius de Sponso dictum est: Speciosus forma prae filiis hominum. Sed ille in specie sua habere dictus est pulchritudinem singularem; haec vero ideo pulchra est, quia sibi eam sociavit Sponsus. Sic totum distincte varieque dicitur; quamvis ipsis lineis et Sponsa laudetur. Sequitur, Quia ipse est Dominus Deus tuus. Non ille quem patrem dicebas, non qui te fecerat tenebrosam; sed iste est Dominus Deus tuus, qui pristinam submovens foeditatem, pulchritudinem tibi contulit nuptialem.",
+    "fonte_url": "https://mlat.uzh.ch/php_modules/download.php?idno=21404&type=file-txt",
+    "traducao_pt": "Era feia quando o invasor a retinha; tornou-se bela quando voltou ao seu autor. Dela se lê: «Quem é esta que sobe toda branca?» E repara que esta esposa é louvada com um começo semelhante ao do esposo: «Formoso de aspecto entre os filhos dos homens». Mas dele se diz que tem a beleza singular na sua própria forma; ela, porém, é bela porque o Esposo a associou a si. Assim tudo se diz de modo distinto e variado, embora também a esposa seja louvada com os mesmos traços. Segue: «Porque ele é o Senhor teu Deus». Não aquele a quem chamavas pai, não o que te tornou tenebrosa, mas este é o teu Senhor e Deus, que, afastando a antiga fealdade, te deu a beleza nupcial.",
+    "temas": [
+      "a beleza da Igreja vem do esposo",
+      "de feia a bela"
+    ],
+    "resumo": "A Igreja é bela porque o Esposo a uniu a si; a beleza de Cristo é a sua própria, a dela é dom: afastou a antiga fealdade e deu-lhe a beleza nupcial.",
+    "relevancia": 2,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "ambrosio-devirg1-36-37-regina-e-esposa",
+    "autor": "Santo Ambrósio",
+    "autor_id": "ambrosio",
+    "datas": "c. 340–397",
+    "titulo_autor": "bispo de Milão, Doutor da Igreja",
+    "obra": "Sobre as virgens (De virginibus)",
+    "passagem": "Livro I, 36–37",
+    "edicao": "PL 16, 199A–B",
+    "versiculos": [
+      7,
+      10
+    ],
+    "lingua": "la",
+    "original": "Quis est iste sponsus? Non vilibus addictus obsequiis, non caducis superbus divitiis: sed cujus sedes in saeculum saeculi. Filiae regum in honore ejus. Astitit regina a dextris tuis in vestitu deaurato, varietate circumamicta virtutum. [...] Et adverte quantum tibi Spiritus sanctus Scripturae divinae testificatione detulerit, regnum, aurum, pulchritudinem: regnum, vel quia sponsa es regis aeterni, vel quia invictum animum gerens, ab illecebris voluptatum non captiva haberis, sed quasi regina dominaris: aurum, quia sicut illa materies examinata igne pretiosior est, ita corporis species virginalis Spiritui consecrata divino, formae suae acquirit augmentum: pulchritudinem vero quis potest majorem existimare decore ejus, quae amatur a Rege, probatur a Judice, dicatur Domino, consecratur Deo: semper sponsa, semper innupta; ut nec amor finem habeat, nec damnum pudor.",
+    "fonte_url": "https://mlat.uzh.ch/browser/cps_2.AmbMed.DeVir",
+    "traducao_pt": "Quem é este esposo? Não é dado a serviços vis, nem orgulhoso de riquezas passageiras, mas aquele cuja sede é pelos séculos dos séculos. «As filhas dos reis estão em tua honra. A rainha está à tua direita, em veste dourada, envolta na variedade das virtudes». [...] Repara quanto te atribuiu o Espírito Santo, pelo testemunho da Escritura divina: reino, ouro, beleza. Reino, ou porque és esposa do rei eterno, ou porque, tendo o ânimo invicto, não és tida por cativa das seduções dos prazeres, mas dominas como rainha. Ouro, porque, assim como esse metal provado no fogo se torna mais precioso, assim o aspecto virginal, consagrado ao Espírito divino, ganha acréscimo na sua forma. E beleza: quem pode julgar maior do que a daquela que é amada pelo Rei, aprovada pelo Juiz, dedicada ao Senhor, consagrada a Deus; sempre esposa, sempre intacta, para que nem o amor tenha fim nem o pudor sofra dano?",
+    "temas": [
+      "a virgem consagrada, rainha",
+      "o esposo e a beleza"
+    ],
+    "resumo": "Ambrósio aplica à virgem consagrada o «reino, ouro e beleza» do salmo: rainha pelo domínio de si, ouro provado, bela por ser amada pelo Rei e consagrada a Deus.",
+    "relevancia": 3,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "joao-paulo-ii-aud-2004-09-29-beleza-e-justica",
+    "autor": "São João Paulo II",
+    "autor_id": "joao-paulo-ii",
+    "datas": "1920–2005",
+    "titulo_autor": "papa",
+    "obra": "Audiência geral, Salmo 44,2-10 «As núpcias do Rei» (Udienza generale)",
+    "passagem": "Audiência geral de 29 de setembro de 2004, n. 4",
+    "edicao": "Catequese sobre os Salmos e cânticos de Laudes e Vésperas",
+    "versiculos": [
+      3,
+      5,
+      8
+    ],
+    "lingua": "it",
+    "original": "La bellezza, però, non è fine a se stessa. La seconda nota che vorremmo proporre riguarda proprio l’incontro tra bellezza e giustizia. [...] La bellezza si deve coniugare con la bontà e la santità di vita così da far risplendere nel mondo il volto luminoso di Dio buono, mirabile e giusto.",
+    "fonte_url": "https://www.vatican.va/content/john-paul-ii/it/audiences/2004/documents/hf_jp-ii_aud_20040929.html",
+    "traducao_pt": "A beleza, porém, não é um fim em si mesma. A segunda nota que gostaríamos de propor diz respeito justamente ao encontro entre beleza e justiça. [...] A beleza deve unir-se à bondade e à santidade de vida, de modo a fazer resplandecer no mundo o rosto luminoso de Deus, bom, admirável e justo.",
+    "temas": [
+      "beleza e justiça",
+      "a via pulchritudinis"
+    ],
+    "resumo": "O rei é belo e justo: a beleza deve unir-se à bondade e à santidade de vida, para que no mundo resplandeça o rosto de Deus.",
+    "relevancia": 2,
+    "direitos": "citação curta"
+  },
+  {
+    "id": "joao-paulo-ii-aud-2004-10-06-vestes-luz-interior",
+    "autor": "São João Paulo II",
+    "autor_id": "joao-paulo-ii",
+    "datas": "1920–2005",
+    "titulo_autor": "papa",
+    "obra": "Audiência geral, Salmo 44,11-18 «A Rainha e a Esposa» (Udienza generale)",
+    "passagem": "Audiência geral de 6 de outubro de 2004, n. 3",
+    "edicao": "Catequese sobre os Salmos e cânticos de Laudes e Vésperas",
+    "versiculos": [
+      14,
+      15
+    ],
+    "lingua": "it",
+    "original": "La Bibbia ama la bellezza come riflesso dello splendore di Dio stesso; anche le vesti possono assurgere a segno di una luce interiore sfolgorante, di un candore dell’anima.",
+    "fonte_url": "https://www.vatican.va/content/john-paul-ii/it/audiences/2004/documents/hf_jp-ii_aud_20041006.html",
+    "traducao_pt": "A Bíblia ama a beleza como reflexo do esplendor do próprio Deus; também as vestes podem tornar-se sinal de uma luz interior resplandecente, de um candor da alma.",
+    "temas": [
+      "as vestes, sinal da luz interior",
+      "a beleza, reflexo de Deus"
+    ],
+    "resumo": "A veste de ouro e os bordados da rainha são sinal de uma luz interior, de um candor da alma, reflexo do esplendor de Deus.",
+    "relevancia": 2,
+    "direitos": "citação curta"
+  },
+  {
+    "id": "escriva-ecp-178-a-filha-do-rei",
+    "autor": "São Josemaria Escrivá",
+    "autor_id": "escriva",
+    "datas": "1902–1975",
+    "titulo_autor": "presbítero, fundador do Opus Dei",
+    "obra": "É Cristo que passa (Es Cristo que pasa)",
+    "passagem": "Homilia «A Virgem Santa, causa da nossa alegria» (Assunção, 1961), n. 178",
+    "edicao": "Es Cristo que pasa, n. 178",
+    "versiculos": [
+      12,
+      14
+    ],
+    "lingua": "es",
+    "original": "Ved cómo la liturgia de la fiesta se hace eco de la imposibilidad de entender la misericordia infinita del Señor, con razonamientos humanos; más que explicar, canta; hiere la imaginación, para que cada uno ponga su entusiasmo en la alabanza. Porque todos nos quedaremos cortos: apareció un gran prodigio en el cielo: una mujer, vestida de sol, y la luna debajo de sus pies, y en su cabeza una corona de doce estrellas. El rey se ha enamorado de tu belleza. ¡Cómo resplandece la hija del rey, con su vestido tejido en oro!",
+    "fonte_url": "https://escriva.org/es/es-cristo-que-pasa/178/",
+    "traducao_pt": "Vede como a liturgia da festa se faz eco da impossibilidade de entender a misericórdia infinita do Senhor com razões humanas; mais do que explicar, canta; fere a imaginação, para que cada um ponha o seu entusiasmo no louvor. Porque todos ficaremos aquém: «apareceu um grande prodígio no céu: uma mulher vestida de sol, com a lua debaixo dos pés e sobre a cabeça uma coroa de doze estrelas». O rei se enamorou da tua beleza. Como resplandece a filha do rei, com a sua veste tecida de ouro!",
+    "temas": [
+      "Maria, a filha do rei",
+      "a liturgia que canta"
+    ],
+    "resumo": "Na festa da Assunção a liturgia aplica a Maria o salmo («o rei se enamorou da tua beleza») e canta onde a razão humana não alcança.",
+    "relevancia": 3,
+    "direitos": "autorizado pelo Opus Dei"
+  },
+  {
+    "id": "agostinho-enpss44-18-a-cidade-se-conhece",
+    "autor": "Santo Agostinho",
+    "autor_id": "agostinho",
+    "datas": "354–430",
+    "titulo_autor": "bispo de Hipona, Doutor da Igreja",
+    "obra": "Comentários aos Salmos (Enarrationes in Psalmos)",
+    "passagem": "Sobre o Sl 44, 18 (Vulgata)",
+    "edicao": "PL 36, 513–514",
+    "versiculos": [
+      18
+    ],
+    "lingua": "la",
+    "original": "Quia et in illa vita aeterna non erit iam quidem gemitus peccatorum, sed tamen in divinis laudibus supernae illius ac perpetuae civitatis non deerit sempiterna confessio tantae felicitatis. [...] propter hoc eidem ipsi confitebuntur populi in aeternum, conspicuis et manifestis illic cordibus omnium perfecta caritate luminosis, ut se universam plenissime noverit, quae hic in multis suis partibus occulta sibi est. [...] Ipsa enim sancta civitas sibi quodammodo confitebitur, cum populi eius quibus constat, ipsi civitati confitebuntur in aeternum; ut ex nulla parte se lateat, nullo in se existente cuius aliquid lateat.",
+    "fonte_url": "https://www.augustinus.it/latino/esposizioni_salmi/esposizione_salmo_059_testo.htm",
+    "traducao_pt": "Pois também na vida eterna já não haverá o gemido dos pecadores, mas, nos louvores divinos daquela cidade do alto e perpétua, não faltará a confissão sempiterna de tão grande felicidade. [...] por isso os povos o confessarão para sempre, estando ali os corações de todos à vista e manifestos, luminosos pela caridade perfeita, de modo que ela se conheça por inteiro, ela que aqui, em muitas das suas partes, é oculta a si mesma. [...] Pois a própria cidade santa de certo modo se confessará a si mesma, quando os povos de que se compõe se confessarem à própria cidade para sempre; de modo que em nenhuma parte ela se esconda de si, não havendo nela ninguém de quem algo se esconda.",
+    "temas": [
+      "a Igreja no céu",
+      "a transparência da caridade"
+    ],
+    "resumo": "No céu os louvores continuam e os corações ficam à vista, luminosos de caridade perfeita: a Igreja, hoje oculta a si mesma em muitas partes, se conhecerá por inteiro.",
+    "relevancia": 3,
+    "direitos": "domínio público"
+  },
+  {
+    "id": "teodoreto-ips44-9-o-perfume-da-paixao",
+    "autor": "Teodoreto de Ciro",
+    "autor_id": "teodoreto",
+    "datas": "c. 393–c. 460",
+    "titulo_autor": "bispo de Ciro, na Síria; escritor eclesiástico (não é santo)",
+    "obra": "Interpretação dos Salmos (Interpretatio in Psalmos)",
+    "passagem": "Sl 44 (LXX), v. 9",
+    "edicao": "PG 80, 1193",
+    "versiculos": [
+      9
+    ],
+    "lingua": "grc",
+    "original": "Σμύρναν δὲ καλεῖ τὸ πάθος· νεκροῖς γὰρ αὕτη διαφερόντως προσφέρεται· στακτὴν δὲ καὶ κασσίαν, τὴν ἀπὸ τοῦ πάθους εὐωδίαν. Βάρεις ἐλεφαντίνας, ἢ κατὰ τὸν Σύμμαχον καὶ τὸν Ἀκύλαν, ναοὺς ἐλεφαντίνους, τὰς περικαλλεῖς καὶ λαμπρὰς ἐκκλησίας, ἃς ἄρχοντες καὶ βασιλεῖς πανταχοῦ γῆς καὶ θαλάσσης ἐδείμαντο. Προλέγει τοίνυν, ὅτι τὸ μὲν πάθος κατὰ τὸ σῶμα γενήσεται, εὐωδίας δὲ πᾶσαν τὴν οἰκουμένην ἐμπλήσει, ὡς τοὺς πάλαι πλανωμένους λαοὺς, ἐγεῖραι αὐτῷ εἰς κάλλος ἐξησκημένους ναοὺς, καὶ βασιλικῷ διαλάμποντας κόσμῳ.",
+    "fonte_url": "https://khazarzar.skeptik.net/pgm/PG_Migne/Theodoretus%20of%20Cyrrhus_PG%2080-84/Interpretatio%20in%20Psalmos.pdf",
+    "traducao_pt": "Chama «mirra» à paixão, pois esta é oferecida de modo especial aos mortos; e «estacte e cássia», ao perfume que vem da paixão. As «câmaras de marfim» ou, segundo Símaco e Áquila, «templos de marfim», são as igrejas belíssimas e resplandecentes que governantes e reis edificaram por toda a terra e o mar. Prediz, pois, que a paixão se cumprirá no corpo, mas encherá todo o mundo de perfume, de modo que os povos antes extraviados lhe levantaram templos ornados de beleza e brilhantes de adornos reais.",
+    "temas": [
+      "o perfume da paixão",
+      "as igrejas, palácios do rei"
+    ],
+    "resumo": "A mirra do salmo é a paixão de Cristo, cujo perfume enche o mundo: os povos que andavam extraviados lhe construíram templos de marfim.",
+    "relevancia": 2,
+    "direitos": "domínio público"
+  }
+]

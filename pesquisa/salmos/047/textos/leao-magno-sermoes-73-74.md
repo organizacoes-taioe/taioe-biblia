@@ -1,0 +1,9 @@
+# São Leão Magno, Sermões 73 (cap. 4) e 74 (cap. 4), sobre a Ascensão
+- Fonte: https://mlat.uzh.ch/browser/cps_2.LeoI.Sermon9 (Corpus Corporum, PL 54; texto 7631, baixado em 2026-11-16)
+- Só os trechos usados (notas e números de página tirados).
+
+## Sermo 73, 4 (PL 54, 396B–C)
+Quia igitur Christi ascensio, nostra provectio est, et quo praecessit gloria capitis, eo spes vocatur et corporis, dignis, dilectissimi, exsultemus gaudiis, et pia gratiarum actione laetemur. Hodie enim non solum paradisi possessores firmati sumus, sed etiam coelorum in Christo superna penetravimus: ampliora adepti per ineffabilem Christi gratiam quam per diaboli amiseramus invidiam. Nam quos virulentus inimicus primi habitaculi felicitate dejecit, eos sibi concorporatos Dei Filius ad dexteram Patris collocavit: cum quo vivit et regnat in unitate Spiritus sancti Deus per omnia saecula saeculorum. Amen.
+
+## Sermo 74, 4 (PL 54, 398D–399A)
+Tunc igitur, dilectissimi, filius hominis, Dei Filius, excellentius sacratiusque innotuit, cum in paternae majestatis gloriam se recepit et ineffabili modo coepit esse Divinitate praesentior, qui factus est humanitate longinquior. Tunc ad aequalem Patri Filium eruditior fides gressu mentis coepit accedere, et contrectatione corporeae in Christo substantiae, qua Patre minor est, non egere: quoniam glorificati corporis manente natura, eo fides credentium vocabatur, ubi non carnali manu, sed spirit [...] Noli me tangere, nondum enim ascendi ad Patrem meum: hoc est, nolo ut ad me corporaliter venias, nec ut me sensu carnis agnoscas; ad sublimiora te differo, majora tibi praeparo. Cum ad Patrem meum ascendero, tunc me perfectius veriusque palpabis, apprehensura quod non tangis, et creditura quod non cernis. Cum autem ascendentem ad coelos Dominum sequaces discipulorum oculi intenta admiratione suspicerent, astiterunt c
