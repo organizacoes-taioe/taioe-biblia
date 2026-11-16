@@ -52,6 +52,8 @@ Levantado em 2026-10-20 a partir de `001/` e `002/` (relatórios, `fontes-*.md`,
 
 ## 2Cor 8
 
+- **Capítulo feito em 2026-11-15** (pesquisa em `008/`, com os caps. 8–13 num lote só, pedido em `PEDIDO-8-13.md`): o que segue já foi usado ou conferido.
+
 - Bento XVI, catequese sobre Timóteo e Tito (13/12/2006): cita **8,23** (`../002/relatorio-modernos.md` § 2).
 - Liturgia: Lecionário, domingos do ano B: **8,7.9.13-15** (`../002/liturgia-2cor-2.md` § 1).
 - (2Cor 5–7) Liturgia: terça da 11ª semana do TC, ano I, **8,1-9** (Vatican News 17/06/2025); Ofício das Leituras, segunda da 17ª semana, **8,1-24** (2ª leitura São Basílio, *Homilia* 6). Francisco, mensagem de Quaresma 2014 e audiência de Cinzas de 05/03/2014, sobre **8,9**. Bento XVI, 13/12/2006: 8,6.17-23 (Tito, as coletas).
@@ -59,10 +61,14 @@ Levantado em 2026-10-20 a partir de `001/` e `002/` (relatórios, `fontes-*.md`,
 
 ## 2Cor 9
 
+- **Capítulo feito em 2026-11-15** (pesquisa em `009/`, com os caps. 8–13 num lote só, pedido em `PEDIDO-8-13.md`): o que segue já foi usado ou conferido.
+
 - Nada específico nos relatórios de 2Cor 1–2 para este capítulo.
 - (2Cor 6–7) **9,7** («Deus ama quem dá com alegria»): Agostinho, Sermão 165 (PL 38, 904); Tomás, *Suma* I-II, q. 39, a. 2, obj. 2 e ad 2 (em `../007/textos/tomas-suma-tristeza-2cor-7.md`); Bernardo, *Sermões diversos* 123, 2 (PL 183, 746B).
 
 ## 2Cor 10
+
+- **Capítulo feito em 2026-11-15** (pesquisa em `010/`, com os caps. 8–13 num lote só, pedido em `PEDIDO-8-13.md`): o que segue já foi usado ou conferido.
 
 - Tomás de Kempis, *Imitação de Cristo* II, 6 («Da alegria da boa consciência») **acaba em 2Cor 10,18** (começa em 1,12 sem citá-lo à letra): `../001/textos/kempis-imitacao-2-6.md`; The Latin Library, `kempis/kempis1.shtml`.
 - De Cirilo a `base/` só tem os fragmentos de Pusey III, pp. 357–358, que cobrem 10,1-6.
@@ -70,11 +76,15 @@ Levantado em 2026-10-20 a partir de `001/` e `002/` (relatórios, `fontes-*.md`,
 
 ## 2Cor 11
 
+- **Capítulo feito em 2026-11-15** (pesquisa em `011/`, com os caps. 8–13 num lote só, pedido em `PEDIDO-8-13.md`): o que segue já foi usado ou conferido.
+
 - Nada específico nos relatórios de 2Cor 1–2 para este capítulo.
 - (2Cor 3) 11,25: Efrém, *Sermão sobre Nosso Senhor* 30–32 (Lamy I, 212–218), os olhos de Moisés iluminados e os de Paulo cegados.
 - (2Cor 6–7) **11,28-29**: Crisóstomo, hom. 12, 5 (PG 61, 487–488) e *Sobre S. Inácio* 2 (PG 50, 590); Agostinho, *Sobre o Sl 55*, 6 (usado em 2Cor 7,5); Ambrosiaster sobre 6,6.
 
 ## 2Cor 12
+
+- **Capítulo feito em 2026-11-15** (pesquisa em `012/`, com os caps. 8–13 num lote só, pedido em `PEDIDO-8-13.md`): o que segue já foi usado ou conferido.
 
 - Bento XVI, ciclo sobre a oração nas cartas de Paulo (maio–junho de 2012): a de 30/05/2012 é sobre 2Cor 1; as audiências vizinhas tratam Rm 8, **2Cor 12**, Fl 2, Ef 1 e Cl (`../001/fontes-modernos.md` § 3).
 - Liturgia: Lecionário, 14º domingo do ano B: **12,7-10** (`../002/liturgia-2cor-2.md` § 1).
@@ -83,6 +93,8 @@ Levantado em 2026-10-20 a partir de `001/` e `002/` (relatórios, `fontes-*.md`,
 - (2Cor 5–7) 12,2-4: Nissa, *Cântico* 10 (a sóbria embriaguez, usado em 5,13) e Teofilato, PG 124, 853. 12,9-10: Gregório, *Morais* XXIX, 17, 31. 12,15: Tomás, cap. 7, l. 1 (usado em 7,3).
 
 ## 2Cor 13
+
+- **Capítulo feito em 2026-11-15** (pesquisa em `013/`, com os caps. 8–13 num lote só, pedido em `PEDIDO-8-13.md`): o que segue já foi usado ou conferido.
 
 - Newman, *Parochial and Plain Sermons* II, 17, «The Gospel Witnesses» (texto: **2Cor 13,1**), pp. 199–200: achado `newman-pps2-17-gospel-witness` em `../002/achados-modernos.json` (usado em 2Cor 2 por citar 2,16); o sermão inteiro é sobre 13,1.
 - (Não consta dos relatórios, a conferir: 13,13 é a saudação trinitária da Missa, «A graça de nosso Senhor Jesus Cristo, o amor do Pai e a comunhão do Espírito Santo…».)

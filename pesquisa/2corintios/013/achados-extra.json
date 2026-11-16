@@ -1,0 +1,386 @@
+[
+ {
+  "autor": "São João Crisóstomo",
+  "autor_id": "crisostomo",
+  "datas": "c. 349–407",
+  "titulo_autor": "arcebispo de Constantinopla, Doutor da Igreja",
+  "obra": "Homilias sobre a Segunda Carta aos Coríntios (In epistulam II ad Corinthios homiliae)",
+  "lingua": "grc",
+  "fonte_url": "https://khazarzar.skeptik.net/pgm/PG_Migne/John%20Chrysostom_PG%2047-64/In%20epistulam%20ii%20ad%20Corinthios.pdf",
+  "direitos": "domínio público",
+  "id": "crisostomo-2cor-hom-29-1-ameaca-muito-castiga-pouco",
+  "passagem": "Homilia 29, 1",
+  "edicao": "PG 61, 595–596",
+  "trecho": "1",
+  "versiculos": [
+   1,
+   2
+  ],
+  "original": "Πολλαχόθεν μὲν καὶ ἄλλοθεν, μάλιστα δὲ καὶ ἐκ τούτου, τοῦ Παύλου τὴν φιλοσοφίαν ἔστιν ἰδεῖν, καὶ τὴν πολλὴν φιλοστοργίαν· πῶς πολὺς μὲν ἐν ταῖς παραγγελίαις καὶ σφοδρὸς, ὀκνηρὸς δὲ καὶ μελλητὴς ἐν ταῖς τιμωρίαις. Οὐ γὰρ εὐθέως ἁμαρτάνοντας ἐκόλασεν, ἀλλὰ παρήγγειλεν ἅπαξ καὶ δεύτερον· καὶ οὐδὲ οὕτω παρακούσαντας τιμωρεῖται, ἀλλὰ πάλιν παραγγέλλει λέγων, Τρίτον ἔρχομαι τοῦτο πρὸς ὑμᾶς, καὶ πρὶν ἢ παραγένωμαι, γράφω πάλιν. […] Ταῦτα δὲ ποιεῖ καὶ λέγει, καὶ ταύτῃ τὸν Δεσπότην τῶν ἁπάντων μιμούμενος· ἐπεὶ καὶ ὁ Θεὸς συνεχῶς μὲν ἀπειλεῖ καὶ πολλάκις παραγγέλλει, οὐ πολλάκις δὲ κολάζει καὶ τιμωρεῖται.",
+  "traducao_pt": "Por muitas razões, e sobretudo por esta, vê-se a sabedoria de Paulo e o seu grande amor de pai: como é firme e insistente nas ordens, mas hesitante e lento nos castigos. Pois não castigou logo os que pecavam: advertiu uma vez e outra; e nem assim, mesmo desobedecido, os castiga, mas torna a advertir, dizendo: «Esta é a terceira vez que vou até vós», e, antes de chegar, escreve de novo. […] Faz e diz isto imitando nisso o Senhor de todas as coisas: também Deus muitas vezes ameaça e muitas vezes adverte, mas não muitas vezes castiga e pune.",
+  "temas": [
+   "a paciência do pastor",
+   "advertir antes de castigar"
+  ],
+  "resumo": "Paulo adverte duas vezes e anuncia a terceira visita para não ter de castigar: nisso imita Deus, que ameaça e adverte muito e castiga pouco.",
+  "relevancia": 3
+ },
+ {
+  "id": "tomas-super-2cor-13-l2-certeza-de-ter-cristo",
+  "autor": "São Tomás de Aquino",
+  "autor_id": "tomas",
+  "datas": "1225–1274",
+  "titulo_autor": "presbítero dominicano, Doutor da Igreja",
+  "obra": "Comentário à Segunda Carta aos Coríntios (Super II ad Corinthios)",
+  "passagem": "cap. 13, lição 2",
+  "edicao": "Corpus Thomisticum [87742]",
+  "trecho": "1",
+  "versiculos": [
+   5
+  ],
+  "lingua": "la",
+  "original": "Nam Christus in eis solum manet, qui habent charitatem, ut dicitur I Io. IV, 16: Deus charitas est, et cetera. Si ergo cognoscimus, quod Christus per fidem sit in nobis, oportet quod hoc sit per fidem formatam. […] Respondeo. Dicendum est, quod habitare Christum in nobis, potest accipi dupliciter: vel quantum ad intellectum, vel quantum ad affectum. Si quantum ad intellectum, sic ipse habitat in nobis per fidem informem. Et hoc modo nihil prohibet nos per certitudinem scire, quod Christus habitet in nobis, scilicet cum scimus nos tenere fidem, quam Ecclesia Catholica docet et tenet. Si vero quantum ad affectum, sic habitat Christus in nobis per fidem formatam, et hoc modo nullus potest scire, quod Christus habitet in nobis, vel quod habeamus charitatem, nisi per revelationem et specialem gratiam alicui concedatur certitudo. Per quamdam tamen coniecturam nihil prohibet nos scire posse quod in charitate sumus, quando scilicet quis invenit se taliter paratum et dispositum, ut nullo modo propter aliquod temporale vellet aliquid facere contra Christum.",
+  "fonte_url": "https://www.corpusthomisticum.org/c2c.html",
+  "traducao_pt": "Cristo só permanece nos que têm a caridade, como se diz em 1Jo 4,16: «Deus é caridade». Se, portanto, sabemos que Cristo está em nós pela fé, é preciso que seja pela fé formada. […] Respondo: pode-se entender que Cristo habita em nós de dois modos, ou quanto ao entendimento, ou quanto ao afeto. Quanto ao entendimento, ele habita em nós pela fé informe; e assim nada impede que saibamos com certeza que Cristo habita em nós, quando sabemos que mantemos a fé que a Igreja católica ensina e guarda. Quanto ao afeto, ele habita em nós pela fé formada; e assim ninguém pode saber que Cristo habita nele, ou que tem a caridade, a não ser que lhe seja concedida a certeza por revelação e por graça especial. Mas, por uma espécie de conjetura, nada impede que saibamos estar na caridade: quando alguém se encontra tão preparado e disposto que por nenhum bem temporal quereria fazer algo contra Cristo.",
+  "temas": [
+   "examinar-se na fé",
+   "a certeza de ter Cristo em si"
+  ],
+  "resumo": "Podemos saber com certeza que temos a fé da Igreja; já saber que estamos na caridade só se dá por revelação, ou por sinais, como a disposição de não ofender Cristo por nada.",
+  "relevancia": 3,
+  "direitos": "domínio público",
+  "nota": "Fé «informe» é a fé sem a caridade; fé «formada» é a que a caridade anima. Tomás responde à objeção de que 13,5 («não reconheceis que Cristo está em vós?») daria certeza de estar na graça."
+ },
+ {
+  "id": "atanasio-vida-de-antao-55-examinar-se-cada-dia",
+  "autor": "Santo Atanásio",
+  "autor_id": "atanasio",
+  "datas": "c. 296–373",
+  "titulo_autor": "bispo de Alexandria, Doutor da Igreja",
+  "obra": "Vida de Santo Antão (Vita Antonii)",
+  "passagem": "n. 55",
+  "edicao": "PG 26, 924–925",
+  "trecho": "1",
+  "versiculos": [
+   5
+  ],
+  "lingua": "grc",
+  "original": "Ἵν' οὖν τοῦτο ἡμῖν περισώζηται, καλὸν ἀκοῦσαι τοῦ Ἀποστόλου καὶ φυλάξαι· φησὶ γάρ· Ἑαυτοὺς ἀνακρίνετε, καὶ ἑαυτοὺς δοκιμάζετε. Καθ' ἡμέραν τοίνυν τῶν ἡμερινῶν καὶ τῶν νυκτερινῶν πράξεων τὸν λόγον ἕκαστος παρ' ἑαυτῷ λαμβανέτω· καὶ, εἰ μὲν ἥμαρτε, παυέσθω· εἰ δὲ μὴ ἥμαρτε, μὴ καυχάσθω· ἀλλ' ἐπιμενέτω τῷ καλῷ, καὶ μὴ ἀμελείτω, μηδὲ κατακρινέτω τὸν πλησίον, μηδὲ δικαιούτω ἑαυτὸν, ὡς εἶπεν ὁ μακάριος ἀπόστολος Παῦλος, ἕως ἂν ἔλθῃ ὁ Κύριος, ὁ τὰ κρυπτὰ ἐρευνῶν. Πολλάκις γὰρ καὶ ἑαυτοὺς, ἐν οἷς πράττομεν, λανθάνομεν· καὶ ἡμεῖς μὲν οὐκ οἴδαμεν, ὁ δὲ Κύριος καταλαμβάνει πάντα. Αὐτῷ οὖν τὸ κρῖμα διδόντες, ἀλλήλοις συμπάσχωμεν, καὶ ἀλλήλων μὲν τὰ βάρη βαστάζωμεν, ἑαυτοὺς δὲ ἀνακρίνωμεν, καὶ ἃ ὑστεροῦμεν, ἀναπληροῦν σπουδάζωμεν. […] Ἔστω δὲ καὶ αὕτη πρὸς ἀσφάλειαν τοῦ μὴ ἁμαρτάνειν παρατήρησις· Ἕκαστος τὰς πράξεις καὶ τὰ κινήματα τῆς ψυχῆς, ὡς μέλλοντες ἀλλήλοις ἀπαγγέλλειν, σημειώμεθα καὶ γράφωμεν· καὶ θαῤῥεῖτε, ὅτι, πάντως αἰσχυνόμενοι γνωσθῆναι, παυσόμεθα τοῦ ἁμαρτάνειν, καὶ ὅλως τοῦ ἐνθυμεῖσθαί τι φαῦλον.",
+  "fonte_url": "https://khazarzar.skeptik.net/pgm/PG_Migne/Athanasius%20the%20Great%20of%20Alexandria_%20PG%2025-28/Vita%20Antonii.pdf",
+  "traducao_pt": "Para que isso se conserve em nós, é bom ouvir o Apóstolo e guardar o que diz: «Examinai-vos a vós mesmos, provai-vos a vós mesmos.» Cada um peça contas a si mesmo, a cada dia, das ações do dia e da noite; se pecou, pare; se não pecou, não se glorie, mas persevere no bem e não se descuide, sem condenar o próximo nem justificar a si mesmo, como disse o bem-aventurado apóstolo Paulo, até que venha o Senhor, que perscruta o que está oculto. Pois muitas vezes nem nós mesmos sabemos o que fazemos: nós não sabemos, mas o Senhor tudo conhece. Entregando-lhe, pois, o julgamento, compadeçamo-nos uns dos outros, levemos os fardos uns dos outros, examinemos a nós mesmos e procuremos suprir o que nos falta. […] Haja ainda esta vigilância para não pecar: cada um anote por escrito as ações e os movimentos da alma, como se fôssemos relatá-los uns aos outros; e tende confiança: por vergonha de que se saiba, deixaremos de pecar e até de pensar algo mau.",
+  "temas": [
+   "examinar-se na fé",
+   "exame de consciência diário"
+  ],
+  "resumo": "Santo Antão ensina os monges a ler Paulo como um exame diário: pedir contas das ações do dia e da noite e anotá-las, para deixar de pecar.",
+  "relevancia": 3,
+  "direitos": "domínio público",
+  "nota": "O Apóstolo é citado de memória, juntando 2Cor 13,5 («provai-vos a vós mesmos») e 1Cor 11,28."
+ },
+ {
+  "id": "gregorio-magno-moralia-31-71-cheirar-a-guerra",
+  "autor": "São Gregório Magno",
+  "autor_id": "gregorio-magno",
+  "datas": "c. 540–604",
+  "titulo_autor": "papa, Doutor da Igreja",
+  "obra": "Morais sobre Jó (Moralia in Iob)",
+  "passagem": "livro 31, 71",
+  "edicao": "PL 76, 612",
+  "trecho": "1",
+  "versiculos": [
+   5
+  ],
+  "lingua": "la",
+  "original": "Bellum quippe procul odorari est adversa quaeque longe adhuc posita cogitando praenoscere, ne fortasse valeant improvisa superare. Hoc bellum procul odorari discipulos Paulus admonebat, cum diceret: Vosmetipsos tentate si estis in fide, ipsi vos probate. Ac si aperte praeciperet, dicens: Persecutionum certamina ad mentem reducite, et cordis vestri intima atque occulta pensantes, quales inter supplicia existere valeatis invenite.",
+  "fonte_url": "https://mlat.uzh.ch/browser/cps_2.GreI.Morali2",
+  "traducao_pt": "Cheirar a guerra de longe é prever, pelo pensamento, todas as adversidades ainda distantes, para que, vindo de surpresa, não possam vencer. Foi este combate que Paulo mandava os discípulos cheirar de longe, quando dizia: «Examinai-vos a vós mesmos, para ver se estais na fé; provai-vos a vós mesmos.» Era como se ordenasse: trazei à mente os combates da perseguição e, pesando o que há de mais íntimo e oculto no vosso coração, descobri como vos portaríeis no meio dos suplícios.",
+  "temas": [
+   "examinar-se na fé",
+   "preparar-se para a prova"
+  ],
+  "resumo": "Gregório lê o «examinai-vos» como preparação para a prova: quem mede de antemão o que há no fundo do coração não é vencido de surpresa pela perseguição.",
+  "relevancia": 2,
+  "direitos": "domínio público",
+  "nota": "Gregório comenta Jó 39,25, sobre o cavalo que «cheira a guerra de longe»."
+ },
+ {
+  "id": "cirilo-alexandria-2cor-13-4-cruz-e-ressurreicao",
+  "autor": "São Cirilo de Alexandria",
+  "autor_id": "cirilo-alexandria",
+  "datas": "c. 376–444",
+  "titulo_autor": "bispo de Alexandria, Doutor da Igreja",
+  "obra": "Fragmentos sobre a Segunda Carta aos Coríntios (Fragmenta in epistulam II ad Corinthios)",
+  "passagem": "fragmento sobre 2Cor 13,3-4",
+  "edicao": "Pusey, vol. III, pp. 359–360",
+  "trecho": "1",
+  "versiculos": [
+   3,
+   4
+  ],
+  "lingua": "grc",
+  "original": "ἐπειδὴ δὲ ποιεῖται μνήμην τῶν ἐκ πολλῆς ἄγαν ἀβελτερίας οἰηθέντων ἀληθῶς ἀσθενῆσαι Χριστὸν, διά τοι τὸ ὑπομεῖναι σταυρὸν, καὶ τῆς Ἰουδαίων ἀνασχέσθαι σκαιότητος ἤγουν δυσσεβείας, ἀπολογεῖται χρησίμως, τὴν τοῦ μυστηρίου δύναμιν εἰς μέσον ἄγων ἐπὶ καιροῦ, καὶ τὴν ἑκούσιον κένωσιν τοῦ Μονογενοῦς ἐξηγούμενος, καὶ τῆς μετὰ τοῦτο δόξης τὴν ἀσύγκριτον ὑπεροχήν. ναὶ γάρ φησιν, ὡς γοῦν οἴονται κατὰ σφὰς αὐτοὺς οἱ τοῦ πιστεύειν ἔτι μακρὰν, ἐσταυρώθη ἐξ ἀσθενείας, πέπονθεν ὡς ἄνθρωπος, καὶ τὸν ἐν σαρκὶ θάνατον ὑπέμεινεν ἑκὼν, ἀλλ' ἦν ἀναγκαῖον εἰδέναι πρὸς τούτοις, ὅτι σκυλεύσας τὸν ᾅδην, καὶ πατήσας τοῦ θανάτου τὸ κράτος, ἀνεβίω τριήμερος […] Θεῷ γὰρ ἂν πρέποι καὶ μόνῳ τὸ δύνασθαι πάντα δρᾶν· ὡς καὶ αὐτοῦ τοῦ θανάτου καταλῦσαι τὸ κράτος, καὶ τὸ τῇ φθορᾷ κάτοχον σῶμα τῇ τῆς ἀφθαρσίας στεφανῶσαι χάριτι. οὐκοῦν ὑπέμεινεν ἑκὼν τὸ ἀσθενῆσαι βραχὺ κατά γε τὴν τῆς σαρκὸς φύσιν· καθάπερ ἀμέλει πεινῆσαί τε καὶ διψῆσαι καὶ κοπιάσαι λέγεται, καὶ μὴν καὶ ἀποθανεῖν διὰ τὴν οἰκονομίαν· ζῇ γεμὴν ἐκ δυνάμεως Θεοῦ, καὶ οὐ παρ' ἑτέρου τὸ πάντα δύνασθαι λαβὼν, ἀλλ' οἴκοθεν ἔχων καὶ οὐσιωδῶς ἐνυπάρχων· Θεὸς γάρ ἐστιν κατὰ φύσιν ὁ σαρκὶ παθὼν δι' ἡμᾶς· Οὐκοῦν εἰ σκανδαλίζονται διὰ τὸν σταυρὸν, θαυμαζέτωσαν διὰ τὴν ἀνάστασιν· κἂν εἰ λέγοιτο ζῆν ἐκ δυνάμεως Θεοῦ, οὐδὲν ἧττον νοήσεις τὴν τοῦ Θεοῦ δύναμιν αὐτὸν τὸν Υἱόν.",
+  "fonte_url": "https://khazarzar.skeptik.net/pgm/PG_Migne/Cyril%20of%20Alexandria_PG%2068-77/Fragmenta%20in%20sancti%20Pauli%20epistulam%20ii%20ad%20Corinthios.pdf",
+  "traducao_pt": "Paulo lembra os que, por grande tolice, julgaram que Cristo de fato enfraqueceu por ter suportado a cruz e a maldade, ou melhor, a impiedade dos judeus; por isso responde de modo proveitoso, trazendo a propósito à luz o poder do mistério, explicando o esvaziamento voluntário do Unigênito e a glória incomparável que o segue. Sim, diz ele, como julgam, a seu modo, os que ainda estão longe de crer, foi crucificado por fraqueza, sofreu como homem e suportou de bom grado a morte na carne; mas era preciso saber também que, tendo despojado o Hades e pisado o poder da morte, ressurgiu ao terceiro dia […]. Pois só a Deus caberia poder fazer todas as coisas: destruir o próprio poder da morte e coroar com a graça da incorruptibilidade o corpo que a corrupção retinha. Aceitou, portanto, de bom grado enfraquecer um pouco quanto à natureza da carne, como se diz que teve fome, sede e cansaço, e também morreu, por causa do plano da salvação; mas vive pelo poder de Deus, sem tê-lo recebido de outro: tem-no de si mesmo e como algo que lhe é essencial, pois quem sofreu na carne por nós é Deus por natureza. Se, portanto, se escandalizam por causa da cruz, admirem-se por causa da ressurreição; e, mesmo se se diz que vive pelo poder de Deus, entenderás que o poder de Deus é o próprio Filho.",
+  "temas": [
+   "fraqueza e poder de Cristo",
+   "a cruz e a ressurreição"
+  ],
+  "resumo": "Cristo aceitou a fraqueza da carne por vontade própria e ressuscitou por um poder que não recebeu de outro, pois o poder de Deus é o próprio Filho.",
+  "relevancia": 3,
+  "direitos": "domínio público"
+ },
+ {
+  "autor": "São João Crisóstomo",
+  "autor_id": "crisostomo",
+  "datas": "c. 349–407",
+  "titulo_autor": "arcebispo de Constantinopla, Doutor da Igreja",
+  "obra": "Homilias sobre a Segunda Carta aos Coríntios (In epistulam II ad Corinthios homiliae)",
+  "lingua": "grc",
+  "fonte_url": "https://khazarzar.skeptik.net/pgm/PG_Migne/John%20Chrysostom_PG%2047-64/In%20epistulam%20ii%20ad%20Corinthios.pdf",
+  "direitos": "domínio público",
+  "id": "crisostomo-2cor-hom-29-7-9-prefere-parecer-fraco",
+  "passagem": "Homilia 29, 4",
+  "edicao": "PG 61, 601–602",
+  "trecho": "1",
+  "versiculos": [
+   7,
+   8,
+   9
+  ],
+  "original": "Χαίρομεν γὰρ ὅταν ἡμεῖς ἀσθενῶμεν, ὑμεῖς δὲ δυνατοὶ ἦτε. Τοῦτο γὰρ καὶ εὐχόμεθα, τὴν ὑμῶν κατάρτισιν. […] Τί ταύτης ἴσον γένοιτ' ἂν τῆς ψυχῆς; Κατεφρονεῖτο, διεπτύετο, ἐκωμῳδεῖτο, ἐχλευάζετο, ὡς εὐτελὴς, ὡς εὐκαταφρόνητος, ὡς ἀλαζὼν, ὡς κομπάζων μὲν διὰ τῶν ῥημάτων, ἐπὶ δὲ τῶν πραγμάτων οὐδὲ μικρόν τι δεῖξαι ἔχων τὴν ἑαυτοῦ ἰσχύν· καὶ οὐ μόνον ἀναβάλλεται, οὐδὲ μόνον ἀναδύεται, ἀλλὰ καὶ εὔχεται μὴ ἐμπεσεῖν εἰς τοσαύτην ὑπόθεσιν […] Τί ἐστιν ὃ λέγει; Παρακαλῶ τὸν Θεὸν, φησὶν, ἱκετεύω μηδένα εὑρεῖν ἀδιόρθωτον, μηδένα εὑρεῖν ἀμετανόητον· μᾶλλον δὲ οὐδὲ τοῦτο μόνον, ἀλλὰ μηδὲ τὴν ἀρχὴν ἁμαρτεῖν· Μὴ ποιῆσαι γὰρ ὑμᾶς, φησὶ, μηδέν· εἰ δὲ καὶ ἄρα ἁμάρτητε, μεταβάλλεσθαι, καὶ προλαβόντας διορθώσασθαι, καὶ πᾶσαν ἀποκρούσασθαι ὀργήν.",
+  "traducao_pt": "«Alegramo-nos quando nós somos fracos e vós sois fortes; e o que pedimos é o vosso aperfeiçoamento.» Que alma se iguala a esta? Era desprezado, cuspido, escarnecido, tratado como insignificante, desprezível, fanfarrão, que se gabava em palavras e não tinha como mostrar, nos fatos, o menor sinal da sua força; e não só adia, não só recua, mas até reza para não chegar a tal ocasião […]. Que quer dizer? «Peço a Deus, suplico que eu não encontre ninguém incorrigível, ninguém sem arrependimento; ou melhor, nem isso apenas: que ninguém peque desde o começo. E, se pecardes, que mudeis, vos corrijais antes de eu chegar e afasteis toda ira.»",
+  "temas": [
+   "a autoridade que prefere não se exercer",
+   "o bem dos outros antes da própria honra"
+  ],
+  "resumo": "Paulo aceita parecer fraco e desprezado, e reza para não precisar mostrar a sua autoridade: o que lhe interessa é que os coríntios não pequem.",
+  "relevancia": 3
+ },
+ {
+  "autor": "São João Crisóstomo",
+  "autor_id": "crisostomo",
+  "datas": "c. 349–407",
+  "titulo_autor": "arcebispo de Constantinopla, Doutor da Igreja",
+  "obra": "Homilias sobre a Segunda Carta aos Coríntios (In epistulam II ad Corinthios homiliae)",
+  "lingua": "grc",
+  "fonte_url": "https://khazarzar.skeptik.net/pgm/PG_Migne/John%20Chrysostom_PG%2047-64/In%20epistulam%20ii%20ad%20Corinthios.pdf",
+  "direitos": "domínio público",
+  "id": "crisostomo-2cor-hom-30-12-beijo-porta-do-templo",
+  "passagem": "Homilia 30, 1–2",
+  "edicao": "PG 61, 606–607",
+  "trecho": "2",
+  "versiculos": [
+   12
+  ],
+  "original": "Ἀσπάσασθε ἀλλήλους ἐν φιλήματι ἁγίῳ. Τί ἐστιν, Ἁγίῳ; Μὴ ὑπούλῳ, μὴ δολερῷ, καθάπερ ὁ Ἰούδας τὸν Χριστὸν ἐφίλησε. Διὰ γὰρ τοῦτο τὸ φίλημα δέδοται, ἵνα ἐμπύρευμα τῆς ἀγάπης γένηται, ἵνα ἀνακαίῃ τὴν διάθεσιν, ἵνα οὕτως ἀλλήλους φιλῶμεν, ὡς ἀδελφοὺς ἀδελφοὶ, ὡς παῖδες πατέρας, ὡς πατέρες παῖδας· μᾶλλον δὲ καὶ πολλῷ πλεῖον· ἐκεῖνα μὲν γὰρ φύσεως, ταῦτα δὲ χάριτος. Οὕτως αἱ ψυχαὶ ἀλλήλαις συνδέονται. Διὰ τοῦτο καὶ ἐξ ἀποδημίας ἐπανιόντες ἀλλήλους φιλοῦμεν, τῶν ψυχῶν ἐπιγινομένων εἰς τὴν πρὸς ἀλλήλους συνουσίαν. Τοῦτο γὰρ μάλιστά ἐστι τὸ μέλος τὸ τῆς ψυχῆς κηρύττον ἡμῖν τὸ φίλτρον. Ἐπὶ δὲ τοῦ φιλήματος τούτου τοῦ ἁγίου ἔστι καὶ ἕτερον λόγον εἰπεῖν. Ποῖον δὴ τοῦτον; Ναός ἐσμεν τοῦ Χριστοῦ· τὰ τοίνυν πρόθυρα φιλοῦμεν τοῦ ναοῦ καὶ τὴν εἴσοδον, ἀλλήλους φιλοῦντες. Ἢ οὐχ ὁρᾶτε ὅσοι καὶ τὰ πρόθυρα τοῦ ναοῦ τούτου φιλοῦσιν, οἱ μὲν κύψαντες, οἱ δὲ τῇ χειρὶ κατέχοντες, καὶ τῷ στόματι τὴν χεῖρα προσάγοντες; Καὶ διὰ τούτων τῶν πυλῶν καὶ τῶν θυρῶν καὶ εἰσῆλθε καὶ εἰσέρχεται πρὸς ἡμᾶς ὁ Χριστὸς, ἡνίκα ἂν κοινωνῶμεν.",
+  "traducao_pt": "«Saudai-vos uns aos outros com o beijo santo.» Que quer dizer «santo»? Não falso, não enganoso, como Judas beijou a Cristo. Este beijo foi dado para ser a brasa do amor, para acender a disposição de nos amarmos como irmãos amam irmãos, como filhos amam pais e pais amam filhos; mais ainda, muito mais: aquilo é da natureza, isto é da graça. Assim as almas se ligam umas às outras. Por isso, quando voltamos de uma viagem, também nos beijamos, pois as almas se aproximam para estar juntas. Este é, mais que todos, o membro da alma que nos anuncia o afeto. Sobre este beijo santo há ainda outra coisa a dizer. Somos templo de Cristo; ao nos beijarmos, beijamos o pórtico do templo e a entrada. Não vedes quantos beijam o pórtico deste templo, uns inclinando-se, outros tocando-o com a mão e levando a mão à boca? Por essas portas entrou Cristo, e entra, quando comungamos.",
+  "temas": [
+   "o beijo santo na liturgia",
+   "amor fraterno"
+  ],
+  "resumo": "O beijo santo é brasa de amor, sem falsidade como o de Judas, e também porta do templo que somos, por onde Cristo entra na comunhão.",
+  "relevancia": 3
+ },
+ {
+  "id": "basilio-regras-breves-113-autoridade-para-edificar",
+  "autor": "São Basílio Magno",
+  "autor_id": "basilio",
+  "datas": "c. 330–379",
+  "titulo_autor": "bispo de Cesareia da Capadócia, Doutor da Igreja",
+  "obra": "Regras mais breves (Regulae brevius tractatae)",
+  "passagem": "pergunta 113",
+  "edicao": "PG 31, 1157",
+  "trecho": "1",
+  "versiculos": [
+   10
+  ],
+  "lingua": "grc",
+  "original": "Τοῦ σοφωτάτου Σολομῶντος εἰπόντος, Καιρὸς τῷ παντὶ πράγματι, εἰδέναι χρὴ, ὅτι καὶ ταπεινοφροσύνης, καὶ ἐξουσίας, καὶ ἐλέγχου, καὶ παρακλήσεως, καὶ φειδοῦς, καὶ παῤῥησίας, καὶ χρηστότητος, καὶ ἀποτομίας, καὶ ἁπαξαπλῶς παντὸς πράγματος καιρός ἐστιν ἴδιος. Ὥστε ποτὲ μὲν τὰ τῆς ταπεινοφροσύνης δεικνύειν, καὶ μιμεῖσθαι ἐν ταπεινώσει τὰ παιδία, καὶ μάλιστα ὅτε καιρός ἐστι τῶν εἰς ἀλλήλους τιμῶν καὶ καθηκόντων, καὶ τῆς περὶ τὸ σῶμα ὑπηρεσίας ἢ θεραπείας, ὡς ὁ Κύριος ἐδίδαξε· ποτὲ δὲ τῇ ἐξουσίᾳ κεχρῆσθαι, ἣν ἔδωκεν ὁ Κύριος εἰς οἰκοδομὴν, καὶ οὐκ εἰς καθαίρεσιν, ὅταν ἡ χρεία ἐπιζητῇ τὴν παῤῥησίαν. Καὶ, ἐν καιρῷ μὲν παρακλήσεως τὸ χρηστὸν ἐνδείκνυσθαι, ἐν καιρῷ δὲ ἀποτομίας τὸν ζῆλον ἐπιδείκνυσθαι, καὶ ἐφ' ἑκάστου τῶν ἄλλων ὁμοίως.",
+  "fonte_url": "https://khazarzar.skeptik.net/pgm/PG_Migne/Basilius%20Caesariensis_PG%2029-32/Asceticon%20magnu1.pdf",
+  "traducao_pt": "Disse o sapientíssimo Salomão: «Para tudo há um tempo.» É preciso saber, pois, que há um tempo próprio para a humildade, para a autoridade, para a repreensão, para a consolação, para a indulgência, para a franqueza, para a bondade, para a severidade e, em suma, para toda coisa. Assim, ora se há de mostrar humildade e imitar na humilhação as crianças, sobretudo quando é hora das honras e dos deveres mútuos e do serviço ou cuidado do corpo, como o Senhor ensinou; ora se há de usar a autoridade que o Senhor deu para edificar, e não para destruir, quando a necessidade pede franqueza. Em tempo de consolação, mostre-se a bondade; em tempo de rigor, mostre-se o zelo; e de modo semelhante em cada um dos outros casos.",
+  "temas": [
+   "a autoridade para edificar",
+   "firmeza e bondade do superior"
+  ],
+  "resumo": "Quem cuida de almas precisa saber quando ser humilde e quando exercer a autoridade, sempre para edificar, e nunca para destruir.",
+  "relevancia": 3,
+  "direitos": "domínio público",
+  "nota": "Resposta de Basílio à pergunta: pode quem cuida das almas guardar o «se não vos tornardes como crianças», se tem de tratar com muitas pessoas diferentes?"
+ },
+ {
+  "id": "ambrosiaster-2cor-13-11-a-paz-de-cristo-e-livre",
+  "autor": "Ambrosiaster",
+  "autor_id": "ambrosiaster",
+  "datas": "séc. IV (c. 366–384)",
+  "titulo_autor": "escritor eclesiástico de Roma (comentário atribuído outrora a Santo Ambrósio)",
+  "obra": "Comentário à Segunda Carta aos Coríntios (Commentaria in epistolam ad Corinthios secundam)",
+  "passagem": "sobre 2Cor 13,11",
+  "edicao": "PL 17, 338A",
+  "trecho": "2",
+  "versiculos": [
+   11
+  ],
+  "lingua": "la",
+  "original": "Alia tamen pax Dei, alia mundi est; quia et maligni et spurici habent pacem, sed ad damnationem; Christi enim pax libera est a peccatis. Perfidiam ergo fugit, dolum spernit, factis malis repugnat. Haec Deo placita est et amica, diabolo autem inimica. Hanc qui habuerit, habebit et dilectionem simul et Deum eorum ad tuitionem perpetuam.",
+  "fonte_url": "https://mlat.uzh.ch/browser/cps_2.Ambros.CommIn.2Cor",
+  "traducao_pt": "Mas uma é a paz de Deus e outra a do mundo: também os maus e os espúrios têm paz, mas para a condenação. A paz de Cristo, porém, é livre de pecados: foge da perfídia, despreza o engano, resiste às más ações. Esta paz agrada a Deus e é amiga dele; ao diabo, porém, é inimiga. Quem a tiver terá ao mesmo tempo o amor e o Deus da paz e do amor, como proteção perpétua.",
+  "temas": [
+   "a paz de Deus e a paz do mundo",
+   "viver em paz"
+  ],
+  "resumo": "Há uma paz que também os maus possuem e que leva à condenação; a paz de Cristo é a que não faz aliança com o engano e o pecado.",
+  "relevancia": 3,
+  "direitos": "domínio público"
+ },
+ {
+  "id": "tomas-super-2cor-13-l3-alegrai-vos-e-sede-perfeitos",
+  "autor": "São Tomás de Aquino",
+  "autor_id": "tomas",
+  "datas": "1225–1274",
+  "titulo_autor": "presbítero dominicano, Doutor da Igreja",
+  "obra": "Comentário à Segunda Carta aos Coríntios (Super II ad Corinthios)",
+  "passagem": "cap. 13, lição 3",
+  "edicao": "Corpus Thomisticum [87743]",
+  "trecho": "2",
+  "versiculos": [
+   11
+  ],
+  "lingua": "la",
+  "original": "Et vere semper est gaudendum, quia gaudium conservat hominem in bono habitu, quia nullus potest esse diu in eo quod contristat. Secundo debent habere boni in seipsis aemulationem perfectionis, et quantum ad hoc dicit perfecti estote, id est semper tendatis ad profectum. […] Non est autem hoc, quod hic dicitur, praeceptum, scilicet quod homo sit perfectus, sed hoc, quod semper tendat ad perfectionem. Et hoc est necessarium, quia qui non studet ad proficiendum, est in periculo deficiendi. Videmus enim quod nisi remiges conentur ascendere, navis semper descendit.",
+  "fonte_url": "https://www.corpusthomisticum.org/c2c.html",
+  "traducao_pt": "E é verdade que sempre se deve estar alegre, porque a alegria conserva o homem no bom hábito, já que ninguém pode permanecer muito tempo naquilo que o entristece. Em segundo lugar, os bons devem ter em si o zelo da perfeição, e quanto a isso diz: «sede perfeitos», isto é, tendei sempre ao progresso. […] Não se manda aqui, porém, que o homem seja perfeito, mas que tenda sempre à perfeição. E isto é necessário, porque quem não se esforça por progredir corre o perigo de decair. Vemos, com efeito, que, se os remadores não se esforçam por subir, o barco sempre desce.",
+  "temas": [
+   "alegrar-se no bem",
+   "crescer sempre na perfeição"
+  ],
+  "resumo": "«Sede perfeitos» manda tender sempre à perfeição: quem não avança corre o risco de retroceder, como o barco que desce quando os remadores param.",
+  "relevancia": 3,
+  "direitos": "domínio público"
+ },
+ {
+  "id": "tertuliano-oracao-18-beijo-da-paz-selo-da-oracao",
+  "autor": "Tertuliano",
+  "autor_id": "tertuliano",
+  "datas": "c. 155–c. 220",
+  "titulo_autor": "escritor eclesiástico de Cartago",
+  "obra": "Sobre a oração (De oratione)",
+  "passagem": "cap. 18",
+  "edicao": "PL 1, 1176–1177",
+  "trecho": "2",
+  "versiculos": [
+   12
+  ],
+  "lingua": "la",
+  "original": "Alia jam consuetudo invaluit, jejunantes habita oratione cum fratribus, subtrahunt osculum pacis, quod est signaculum orationis. Quando autem magis conferendo cum fratribus pax est, nisi cum oratio commendabilior ascendit, ut ipsi de nostra operatione participes, jam audeant de sua pace fratri transigere? Quae oratio cum divortio sancti osculi integra? quem Domino officium facientem impedit pax? quale sacrificium est, a quo sine pace receditur?",
+  "fonte_url": "https://mlat.uzh.ch/browser/cps_2.Tertul.DeOra",
+  "traducao_pt": "Já se introduziu outro costume: os que jejuam, feita a oração com os irmãos, omitem o beijo da paz, que é o selo da oração. Mas quando seria mais oportuno trocar a paz com os irmãos do que quando a oração sobe mais recomendada, para que também eles, participantes da nossa obra, ousem tratar da sua paz com o irmão? Que oração está inteira, se o santo beijo é separado dela? A quem, quando presta serviço ao Senhor, a paz atrapalha? Que sacrifício é aquele de que se sai sem paz?",
+  "temas": [
+   "o beijo santo na liturgia",
+   "a paz com o irmão antes de rezar"
+  ],
+  "resumo": "Tertuliano reprova quem, por jejum, deixa de dar o beijo da paz: sem o santo beijo a oração não está inteira, nem o sacrifício.",
+  "relevancia": 3,
+  "direitos": "domínio público"
+ },
+ {
+  "id": "cic-249-saudacao-trinitaria-na-liturgia",
+  "autor": "Catecismo da Igreja Católica",
+  "autor_id": "catecismo",
+  "datas": "1992 (ed. típica 1997)",
+  "titulo_autor": "",
+  "obra": "Catecismo da Igreja Católica",
+  "passagem": "n. 249",
+  "edicao": "",
+  "trecho": "2",
+  "versiculos": [
+   13
+  ],
+  "lingua": "pt",
+  "original": "Encontra a sua expressão na regra da fé baptismal, formulada na pregação, na catequese e na oração da Igreja. Tais formulações encontram-se já nos escritos apostólicos, como o comprova esta saudação retomada na liturgia eucarística: «A graça do Senhor Jesus Cristo, o amor de Deus e a comunhão do Espírito Santo estejam com todos vós» (2 Cor 13, 13)",
+  "fonte_url": "https://www.vatican.va/archive/cathechism_po/index_new/p1s2c1_198-421_po.html",
+  "traducao_pt": "Ela encontra a sua expressão na regra da fé batismal, formulada na pregação, na catequese e na oração da Igreja. Tais formulações já se encontram nos escritos apostólicos, como comprova esta saudação, retomada na liturgia eucarística: «A graça do Senhor Jesus Cristo, o amor de Deus e a comunhão do Espírito Santo estejam com todos vós» (2Cor 13,13).",
+  "temas": [
+   "a Trindade na saudação da Missa",
+   "a fé trinitária desde os apóstolos"
+  ],
+  "resumo": "A bênção final de Paulo já é uma fórmula de fé na Trindade, e a Igreja a conserva como saudação na Missa.",
+  "relevancia": 3,
+  "direitos": "citação curta",
+  "nota": "Texto oficial em português europeu; a tradução acima só o adapta. A frase anterior do número diz que a verdade da Trindade está, desde a origem, na raiz da fé da Igreja, sobretudo pelo Batismo."
+ },
+ {
+  "id": "ambrosiaster-2cor-13-10-corrigir-sem-envergonhar",
+  "autor": "Ambrosiaster",
+  "autor_id": "ambrosiaster",
+  "datas": "séc. IV (c. 366–384)",
+  "titulo_autor": "escritor eclesiástico de Roma (comentário atribuído outrora a Santo Ambrósio)",
+  "obra": "Comentário à Segunda Carta aos Coríntios (Commentaria in epistolam ad Corinthios secundam)",
+  "passagem": "sobre 2Cor 13,10",
+  "edicao": "PL 17, 337A",
+  "trecho": "1",
+  "versiculos": [
+   10
+  ],
+  "lingua": "la",
+  "original": "Apertum est quia ideo absens commonet, ut correctiores illos inveniat, et non illic positus increpet cum pudore; ut erubescat, qui peccat, in coetu fraterno. Secundum potestatem quam Dominus dedit mihi in aedificationem, et non in destructionem. Haec potestas est, quam superius optat esse otiosam, his bene agentibus: si quo minus, exercere se in hac, ut aedificentur correpti, non mortificati peccatores. Non enim destruuntur, qui arguuntur, ut corrigantur: sed aedificantur ad vitam.",
+  "fonte_url": "https://mlat.uzh.ch/browser/cps_2.Ambros.CommIn.2Cor",
+  "traducao_pt": "É claro que Paulo adverte de longe para encontrá-los já corrigidos e não ter de repreendê-los, estando ali, com vergonha deles; para que quem peca não tenha de corar no meio da assembleia dos irmãos. «Segundo a autoridade que o Senhor me deu para edificação, e não para destruição.» Esta é a autoridade que ele antes deseja ver ociosa, entre os que agem bem; mas, se não for assim, deseja exercê-la para que os repreendidos sejam edificados, e não os pecadores mortificados. Pois os que são repreendidos para se corrigirem não são destruídos: são edificados para a vida.",
+  "temas": [
+   "a autoridade para edificar",
+   "corrigir com delicadeza"
+  ],
+  "resumo": "Paulo escreve antes de ir para que o pecador se corrija sem passar vergonha diante de todos: a repreensão serve para edificar para a vida, não para destruir.",
+  "relevancia": 3,
+  "direitos": "domínio público"
+ },
+ {
+  "id": "leao-magno-carta-88-2-passivel-na-carne",
+  "autor": "São Leão Magno",
+  "autor_id": "leao-magno",
+  "datas": "c. 400–461",
+  "titulo_autor": "papa, Doutor da Igreja",
+  "obra": "Cartas (Epistolae)",
+  "passagem": "Carta 88, 2 (a Paschásio de Lilibeu)",
+  "edicao": "PL 54, 1059",
+  "trecho": "1",
+  "versiculos": [
+   4
+  ],
+  "lingua": "la",
+  "original": "Quoniam si vera et perfecta in illo humanitatis natura non est, nulla est nostra susceptio; et totum quod credimus, quod docemus, secundum ipsius impietatem vanitas est atque mendacium. Sed quia nec mentitur veritas, nec passibilis est Divinitas, manet in Deo Verbo utraque substantia in una persona, et ita Salvatorem suum Ecclesia confitetur, ut eum et Divinitate impassibilem, et carne passibilem fateatur, dicente Apostolo: Etsi crucifixus est ex infirmitate nostra, sed vivit ex virtute Dei",
+  "fonte_url": "https://mlat.uzh.ch/browser/cps_2.LeoI.Episto53",
+  "traducao_pt": "Se nele não há uma verdadeira e perfeita natureza humana, não há assunção da nossa; e tudo o que cremos e ensinamos, segundo a impiedade de Êutiques, é vaidade e mentira. Mas, como a verdade não mente e a divindade não é passível, permanecem no Verbo de Deus as duas substâncias numa só pessoa, e assim a Igreja confessa o seu Salvador: impassível pela divindade, passível pela carne, como diz o Apóstolo: «Embora tenha sido crucificado por fraqueza nossa, vive pelo poder de Deus.»",
+  "temas": [
+   "fraqueza e poder de Cristo",
+   "as duas naturezas de Cristo"
+  ],
+  "resumo": "Leão usa o «crucificado por fraqueza, mas vivo pelo poder de Deus» para confessar o Salvador impassível pela divindade e passível pela carne.",
+  "relevancia": 2,
+  "direitos": "domínio público"
+ },
+ {
+  "id": "justino-apologia-1-65-beijo-depois-das-oracoes",
+  "autor": "São Justino",
+  "autor_id": "justino",
+  "datas": "c. 100–165",
+  "titulo_autor": "filósofo e mártir",
+  "obra": "Primeira Apologia (Apologia I)",
+  "passagem": "cap. 65",
+  "edicao": "PG 6, 428",
+  "trecho": "2",
+  "versiculos": [
+   12
+  ],
+  "lingua": "grc",
+  "original": "Ἡμεῖς δὲ μετὰ τὸ οὕτως λοῦσαι τὸν πεπεισμένον καὶ συγκατατεθειμένον ἐπὶ τοὺς λεγομένους ἀδελφοὺς ἄγομεν, ἔνθα συνηγμένοι εἰσί, κοινὰς εὐχὰς ποιησόμενοι ὑπέρ τε ἑαυτῶν καὶ τοῦ φωτισθέντος καὶ ἄλλων πανταχοῦ πάντων εὐτόνως, ὅπως καταξιωθῶμεν τὰ ἀληθῆ μαθόντες καὶ δι' ἔργων ἀγαθοὶ πολιτευταὶ καὶ φύλακες τῶν ἐντεταλμένων εὑρεθῆναι, ὅπως τὴν αἰώνιον σωτηρίαν σωθῶμεν. ἀλλήλους φιλήματι ἀσπαζόμεθα παυσάμενοι τῶν εὐχῶν. ἔπειτα προσφέρεται τῷ προεστῶτι τῶν ἀδελφῶν ἄρτος καὶ ποτήριον ὕδατος καὶ κράματος […]",
+  "fonte_url": "https://khazarzar.skeptik.net/pgm/PG_Migne/Iustinus_PG%2006/Apologia.pdf",
+  "traducao_pt": "Depois de assim lavar o que creu e aderiu, nós o levamos aos chamados irmãos, onde estão reunidos, para fazermos fervorosamente orações comuns por nós mesmos, pelo que foi iluminado e por todos os outros, em toda parte, a fim de que, tendo aprendido a verdade, sejamos achados também, por nossas obras, bons cidadãos e guardiões dos mandamentos, e assim alcancemos a salvação eterna. Ao terminar as orações, saudamo-nos uns aos outros com um beijo. Em seguida, levam ao que preside entre os irmãos pão e um cálice de água e de vinho misturado […]",
+  "temas": [
+   "o beijo santo na liturgia"
+  ],
+  "resumo": "Por volta do ano 150, Justino descreve o beijo da paz como o gesto que encerra as orações e precede a oferta do pão e do vinho.",
+  "relevancia": 2,
+  "direitos": "domínio público",
+  "nota": "Justino não cita Paulo, mas descreve a prática a que 13,12 se refere, mais de um século antes de Tertuliano."
+ }
+]

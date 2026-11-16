@@ -1,0 +1,106 @@
+{
+ "1": [
+  {
+   "id": "deram-se-a-si-mesmos",
+   "titulo": "«Deram-se a si mesmos»: a generosidade dos pobres da Macedônia",
+   "itens": [
+    "crisostomo-hom16-8-2-a-pobreza-que-transborda",
+    "ambrosio-nabuthe-14-60-pobres-ricos-na-simplicidade",
+    "tomas-2cor8-l1-5-primeiro-a-si-mesmos"
+   ]
+  }
+ ],
+ "2": [
+  {
+   "id": "fez-se-pobre",
+   "titulo": "«Sendo rico, fez-se pobre»: a troca da Encarnação",
+   "itens": [
+    "nazianzeno-disc-1-5-fez-se-pobre-para-nos-enriquecer",
+    {
+     "id": "agostinho-sermao-36-3-pobreza-e-riqueza-de-cristo",
+     "texto": "«Por vós se fez pobre, sendo rico, para que vos enriquecêsseis com a sua pobreza.» Penso que a pobreza de Cristo não nos trouxe dinheiro, mas justiça. E de onde vinha a pobreza dele? De ter-se feito mortal. Logo, a verdadeira riqueza é a imortalidade: ali está a verdadeira abundância, onde não há carência alguma. Como não poderíamos tornar-nos imortais se Cristo não se tivesse feito mortal por nós, por isso se fez pobre, sendo rico. E não diz «se fez pobre, tendo sido rico», mas «se fez pobre, sendo rico»: assumiu a pobreza e não perdeu as riquezas. Rico por dentro, pobre por fora; Deus oculto nas riquezas, homem manifesto na pobreza."
+    },
+    "crisostomo-hom17-8-9-a-pobreza-que-enriquece"
+   ],
+   "versiculos": [
+    9
+   ]
+  },
+  {
+   "id": "cristo-nos-pobres",
+   "titulo": "O Cristo que se fez pobre está nos pobres: a esmola",
+   "itens": [
+    "leao-sermao-9-3-cristo-no-pobre",
+    "agostinho-sermao-41-7-cristo-pobre-e-a-esmola-duvidosa",
+    {
+     "id": "ambrosio-off-i-150-ninguem-se-envergonhe-de-empobrecer",
+     "texto": "Ninguém deve ter vergonha de passar de rico a pobre por dar ao pobre, pois Cristo, sendo rico, se fez pobre, para enriquecer a todos com a sua pobreza. Deu-nos uma regra a seguir: que seja boa a razão de um patrimônio esvaziado, se alguém afastou a fome dos pobres e socorreu a sua penúria."
+    },
+    "gregorio-moralia-xx-36-deus-pobre-e-a-boa-vontade"
+   ],
+   "versiculos": [
+    9
+   ]
+  },
+  {
+   "id": "imitar-cristo-pobre",
+   "titulo": "Seguir o exemplo de Cristo, que se fez pobre por nós",
+   "itens": [
+    "escriva-amigos-de-deus-110-cristo-se-fez-pobre",
+    "francisco-quaresma-2014-o-estilo-de-deus"
+   ],
+   "versiculos": [
+    9
+   ]
+  },
+  {
+   "id": "igualdade",
+   "titulo": "«Para que haja igualdade»: a abundância de uns supre a falta dos outros",
+   "itens": [
+    "bernardo-cantico-18-3-a-concha-imite-a-fonte",
+    "gregorio-regra-pastoral-iii-20-dar-com-medida",
+    "paulino-nola-carta-32-21-troca-de-bens",
+    "crisostomo-hom17-8-15-mana-e-necessidade-mutua"
+   ],
+   "versiculos": [
+    13,
+    14,
+    15
+   ]
+  }
+ ],
+ "3": [
+  {
+   "id": "tito-e-o-irmao",
+   "titulo": "Tito e «o irmão cujo louvor no Evangelho corre por todas as igrejas»",
+   "itens": [
+    "bento-xvi-audiencia-2006-tito-e-as-coletas",
+    "jeronimo-viris-illustribus-7-lucas-o-irmao-louvado"
+   ],
+   "versiculos": [
+    16,
+    17,
+    18,
+    23
+   ]
+  },
+  {
+   "id": "diante-dos-homens",
+   "titulo": "«Diante do Senhor e diante dos homens»: o cuidado com a boa fama",
+   "itens": [
+    {
+     "id": "agostinho-carta-125-2-bens-diante-dos-homens",
+     "texto": "Não nos baste a nossa consciência, porque esta não é causa em que ela só deva bastar. Se somos servos de Deus, e não réprobos, se há em nós algo daquela centelha pela qual a caridade não busca o que é seu, devemos de fato cuidar do que é bom, «não só diante de Deus, mas também diante dos homens», para que não sejamos convencidos de, bebendo água tranquila na nossa consciência, agitá-la com pés descuidados, de modo que as ovelhas do Senhor a bebam turva."
+    },
+    {
+     "id": "agostinho-sermao-355-1-consciencia-e-fama",
+     "texto": "«Cuidamos do que é bom», diz o Apóstolo, «não só diante de Deus, mas também diante dos homens». Quanto a nós, basta-nos a nossa consciência; quanto a vós, a nossa fama não deve ser manchada, mas florescer em vós. Guardai o que disse e distingui: são duas coisas, a consciência e a fama. A consciência é para ti; a fama, para o teu próximo. Quem, confiando na sua consciência, descuida da sua fama é cruel, sobretudo quem está colocado neste lugar."
+    }
+   ],
+   "versiculos": [
+    20,
+    21
+   ]
+  }
+ ]
+}

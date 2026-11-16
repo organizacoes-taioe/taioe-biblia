@@ -1,0 +1,135 @@
+{
+ "1": [
+  {
+   "id": "virgem-pura",
+   "titulo": "«Para vos apresentar a Cristo como virgem pura»: a Igreja esposa e a astúcia da serpente",
+   "itens": [
+    "tomas-2cor11-l1-ciume-santo",
+    "agostinho-tr-jo-13-12-virgindade-do-coracao",
+    "catecismo-796-a-igreja-esposa-desposada",
+    "bernardo-diversos-22-3-o-metodo-da-serpente"
+   ],
+   "versiculos": [
+    2,
+    3
+   ]
+  }
+ ],
+ "2": [
+  {
+   "id": "sem-eloquencia-sem-salario",
+   "titulo": "Inexperiente no falar, e pregando de graça o Evangelho",
+   "itens": [
+    "ambrosiaster-2cor11-6-eloquencia-e-poder",
+    "jeronimo-tito-1-4-rude-na-palavra",
+    "gregorio-hom-ez-1-6-paulo-passou-fome-por-eles"
+   ],
+   "versiculos": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "anjo-de-luz",
+   "titulo": "«O próprio Satanás se disfarça de anjo de luz»: discernir o engano",
+   "itens": [
+    {
+     "id": "cipriano-unidade-3-anjo-de-luz-e-ministros-da-justica",
+     "texto": "O inimigo inventou as heresias e os cismas, para subverter a fé, corromper a verdade e dividir a unidade. Os que não pode manter na cegueira do velho caminho, cerca-os e engana-os com o erro de um novo caminho. Arranca da própria Igreja os homens e, quando estes julgam que já se aproximaram da luz e escaparam da noite do mundo, derrama sobre os que nada percebem outras trevas, de modo que, não permanecendo no Evangelho de Cristo, nem na sua observância e lei, chamam-se cristãos e, andando nas trevas, pensam ter a luz, enquanto o adversário os lisonjeia e engana: ele que, segundo a palavra do Apóstolo, «se disfarça em anjo de luz» e arma os seus ministros como «ministros da justiça», que afirmam a noite pelo dia, a perdição pela salvação, o desespero sob o pretexto da esperança, a infidelidade sob o pretexto da fé, o anticristo sob o nome de Cristo."
+    },
+    "bernardo-diversos-24-1-discernir-o-anjo-de-luz",
+    {
+     "id": "gregorio-moralia-29-58-o-bem-proposto-para-enganar",
+     "texto": "O inimigo esconde uma coisa por dentro e mostra outra por fora. «Disfarça-se, com efeito, em anjo de luz» e, com arte astuta de engano, muitas vezes propõe coisas louváveis, para arrastar ao ilícito. As aparências de bem da sua persuasão se mostram por cima como gelo sólido, e a malícia que se esconde no fundo não se vê."
+    }
+   ],
+   "versiculos": [
+    13,
+    14,
+    15
+   ]
+  }
+ ],
+ "3": [
+  {
+   "id": "insensato",
+   "titulo": "O «discurso do insensato»: Paulo obrigado a falar de si",
+   "itens": [
+    "agostinho-doutrina-crista-4-7-12-sabedoria-e-eloquencia",
+    "ambrosiaster-2cor11-19-20-ironia-do-sabio"
+   ],
+   "versiculos": [
+    16,
+    17,
+    18,
+    19,
+    20,
+    21
+   ]
+  }
+ ],
+ "4": [
+  {
+   "id": "trabalhos",
+   "titulo": "Prisões, açoites e naufrágios: a glória dos trabalhos do apóstolo",
+   "itens": [
+    "origenes-hom-jer-gloriar-se-em-paulo",
+    {
+     "id": "escriva-amigos-de-deus-212-nao-descorcoar",
+     "texto": "Adianto-te que este programa não é uma empresa cômoda; que viver à maneira que o Senhor indica supõe esforço. Leio-vos a enumeração do Apóstolo, quando conta as suas vicissitudes e os seus sofrimentos por cumprir a vontade de Jesus. […] Logicamente, no nosso dia a dia não encontraremos tantas nem tais contradições como as que se cruzaram na vida de Saulo. Nós descobriremos a baixeza do nosso egoísmo, os arranhões da sensualidade, as bofetadas de um orgulho inútil e ridículo, e muitas outras quedas: tantas, tantas fraquezas. Desanimar? Não. Com São Paulo, repitamos ao Senhor: sinto satisfação nas minhas enfermidades, nos ultrajes, nas necessidades, nas perseguições, nas angústias por amor de Cristo; pois, quando estou fraco, então sou mais forte."
+    }
+   ],
+   "versiculos": [
+    23,
+    24,
+    25,
+    26,
+    27
+   ]
+  },
+  {
+   "id": "solicitude",
+   "titulo": "«A solicitude por todas as igrejas»: o peso de cada dia do pastor",
+   "itens": [
+    "crisostomo-hom25-28-29-a-solicitude-de-todas-as-igrejas",
+    {
+     "id": "escriva-forja-584-a-solicitude-pela-igreja",
+     "texto": "«Carrega sobre mim a solicitude por todas as igrejas», escrevia São Paulo; e este suspiro do Apóstolo lembra a todos os cristãos — também a ti! — a responsabilidade de pôr aos pés da Esposa de Jesus Cristo, da Igreja Santa, o que somos e o que podemos, amando-a fidelissimamente, ainda à custa dos bens, da honra e da vida."
+    }
+   ],
+   "versiculos": [
+    28
+   ]
+  },
+  {
+   "id": "quem-enfraquece",
+   "titulo": "«Quem enfraquece, sem que eu enfraqueça?»: sofrer com cada um",
+   "itens": [
+    "tomas-2cor11-l5-o-fogo-da-compaixao",
+    "agostinho-sl98-13-quanto-maior-a-caridade",
+    "bernardo-cant23-7-o-vinho-do-zelo"
+   ],
+   "versiculos": [
+    29
+   ]
+  }
+ ],
+ "5": [
+  {
+   "id": "cesto",
+   "titulo": "«Por uma janela me desceram num cesto»: quando o pastor pode fugir",
+   "itens": [
+    "crisostomo-hom25-33-a-janela-e-a-graca",
+    "agostinho-carta228-2-fugir-sem-abandonar",
+    "tomas-2cor11-l6-fugir-e-nao-tentar-a-deus"
+   ],
+   "versiculos": [
+    32,
+    33
+   ]
+  }
+ ]
+}

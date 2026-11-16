@@ -1,0 +1,107 @@
+{
+ "1": [
+  {
+   "id": "terceiro-ceu",
+   "titulo": "«Arrebatado até o terceiro céu»: a visão que não vem do esforço",
+   "itens": [
+    "agostinho-gen-literal-12-56-terceiro-ceu",
+    "bernardo-graus-humildade-8-22-raptado-nao-conduzido"
+   ],
+   "versiculos": [
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "id": "espinho",
+   "titulo": "«Um espinho na carne»: o remédio que Deus dá contra a soberba",
+   "itens": [
+    {
+     "id": "agostinho-sermao-163-8-espinho-veneno-teriaga",
+     "texto": "Não penseis, irmãos, que Deus não assistia ao apóstolo Paulo: no meio do combate, ele temia exaltar-se. «Para que a grandeza das revelações não me exalte», diz. Vede o homem em plena luta, ainda sem a segurança do triunfo. […] Vede o remédio que ele diz ter-lhe sido aplicado: «Foi-me dado um espinho na carne, um anjo de Satanás, para me esbofetear». Batiam-lhe na cabeça, para que a cabeça não se erguesse. Ó antídoto, que se prepara como que da serpente, e por isso se chama teriaga! Foi a serpente que persuadiu à soberba: «Provai, e sereis como deuses»; esta é a persuasão da soberba. De onde caiu, daí derrubou. Com razão, pois, o veneno da serpente se cura com a serpente."
+    },
+    {
+     "id": "tomas-super-2cor-12-l3-espinho-medico",
+     "texto": "Convém saber que o médico sábio muitas vezes provoca e permite que sobrevenha ao doente uma doença menor, para curar ou evitar uma maior: para curar um espasmo, provoca uma febre. O bem-aventurado Apóstolo mostra com clareza que isso foi feito consigo pelo médico das almas, nosso Senhor Jesus Cristo. […] Como a matéria própria da soberba é o bem, Deus permite às vezes que os seus eleitos sejam impedidos, em alguma parte de si, por uma fraqueza ou por algum defeito, […] para que, humilhados por esse lado, não se ensoberbeçam pelo outro, e o homem assim humilhado reconheça que não pode manter-se de pé por suas próprias forças. […] Assim como a poção, em si, é amarga e deve ser evitada, mas quem a considera em ordem à saúde a deseja, também o espinho da carne, em si, deve ser evitado, porque aflige; mas, enquanto é caminho para a virtude e exercício da virtude, deve ser desejado."
+    },
+    "crisostomo-2cor-hom-26-anjo-de-satanas-adversarios",
+    "gregorio-moralia-19-12-fraqueza-guarda-forca"
+   ],
+   "versiculos": [
+    7
+   ]
+  },
+  {
+   "id": "tres-vezes-roguei",
+   "titulo": "«Três vezes roguei ao Senhor»: a oração não atendida para o nosso bem",
+   "itens": [
+    "agostinho-tr-1jo-6-6-7-exaudido-para-salvacao",
+    "cassiano-conferencia-9-34-oracao-e-vontade-de-deus",
+    "bento-xvi-aud-20120613-espinho-nao-nos-livra"
+   ],
+   "versiculos": [
+    8,
+    9
+   ]
+  },
+  {
+   "id": "basta-te",
+   "titulo": "«Basta-te a minha graça»: Deus mostra o seu poder na nossa fraqueza",
+   "itens": [
+    "crisostomo-2cor-hom-26-basta-te-a-minha-graca",
+    "escriva-cristo-que-passa-114-basta-a-graca",
+    "catecismo-272-273-gloria-se-nas-fraquezas"
+   ],
+   "versiculos": [
+    9
+   ]
+  },
+  {
+   "id": "fraco-e-forte",
+   "titulo": "«Quando sou fraco, então é que sou forte»",
+   "itens": [
+    "bernardo-cantico-25-7-fraqueza-desejavel",
+    {
+     "id": "escriva-cartas-1-carta-2-31-meios-desproporcionados",
+     "texto": "«Quando sou fraco, então sou mais forte.» […] Quando Deus quer realizar alguma obra, emprega meios desproporcionados, para que se note bem que a obra é dele. Por isso vós e eu, que conhecemos bem o peso esmagador da nossa pequenez, devemos dizer ao Senhor: ainda que me veja miserável, não deixo de compreender que sou um instrumento divino nas tuas mãos."
+    },
+    "atanasio-vida-de-antao-7-quando-sou-fraco"
+   ],
+   "versiculos": [
+    9,
+    10
+   ]
+  }
+ ],
+ "2": [
+  {
+   "id": "sinais-paciencia",
+   "titulo": "Os sinais do apóstolo, e a paciência em primeiro lugar",
+   "itens": [
+    "crisostomo-2cor-hom-27-1-sinais-paciencia-primeiro",
+    "ambrosiaster-2cor-12-12-13-humilha-se-para-erguer"
+   ],
+   "versiculos": [
+    11,
+    12,
+    13
+   ]
+  }
+ ],
+ "3": [
+  {
+   "id": "nao-os-bens",
+   "titulo": "«Não busco os vossos bens, mas a vós»: o pai que se gasta pelos filhos",
+   "itens": [
+    "crisostomo-2cor-hom-27-2-almas-em-vez-de-dinheiro",
+    "tomas-super-2cor-12-l5-pai-espiritual",
+    "gregorio-homilias-ezequiel-2-9-5-gastar-se"
+   ],
+   "versiculos": [
+    14,
+    15
+   ]
+  }
+ ]
+}
