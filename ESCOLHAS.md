@@ -57,6 +57,7 @@ Vale para pessoas, povos e lugares, também nos comentários dos Padres.
 - Nm 33: as etapas como no projeto antigo (Ramessés, Sucot, Etam, Fiairot, Baal-Sefon, Magdol, Mara, Elim, Dafca, Alus, Rafidim, Quibrot-Hataavá, Haserot… Asion-Gaber, Salmona, Funon, Dibon-Gad, Helmon-Deblataim, Bet-Jesimot); monte Hor, Arad, Negueb, Obot e Ijé-Abarim como Nm 20–21; «Abel-Setim», como Setim em Nm 25,1 (a partida dizia «Abel-Sitim»).
 - Nm 34: os lugares da fronteira e os chefes das tribos, que a liturgia não lê, como no projeto antigo (o mar Salgado, o mar Grande, o mar de Ceneret, com notas); Caleb, filho de Jefoné; Josué, filho de Num.
 - Gn 3: Eva e Éden, como o lecionário.
+- Sl 38–47: Iditun, Coré (os filhos de Coré), o Jordão, o Hermon, o monte Misar, Jacó, Tiro, Ofir (como o lecionário da Assunção) e Abraão, como no projeto antigo.
 - Gn 4: Adão, Eva, Caim, Abel e Set, como o lecionário; Nod, Henoc, Irad, Maviael, Matusael, Lamec, Ada, Sela, Jabel, Jubal, Tubalcaim e Noema, que a liturgia não lê, como no projeto antigo; *Enosh* = Enós (o projeto antigo dizia «Enos»; Gn 5 muda ao entrar).
 - Gn 2: Éden (como o lecionário); Píson, Havilá, Geon, Tigre, Assíria e Eufrates, que a liturgia não lê, como no projeto antigo; *Kush* = Etiópia (2,13), como em Nm 12.
   Caat, Felet e Eliab (Nm 16), que a liturgia não lê, ficaram como no projeto antigo (aprovado).
@@ -73,6 +74,17 @@ Vale para pessoas, povos e lugares, também nos comentários dos Padres.
 | *kinnor* | cítara | | projeto antigo |
 | *nebel* | harpa | Sl 33,2 saía «saltério» e 144,9 «lira»: corrigir ao entrar o 144 | Sl 33, aprovado |
 | *shir hadash* | cântico novo | | projeto antigo |
+| *rahamim* | compaixão | Sl 40,12 «não me negues a tua compaixão», para não repetir «misericórdia» (*hesed*) no mesmo versículo | Sl 40 |
+| *nadiv* | nobre | Sl 47,10 «os nobres dos povos», como Nm 21,18 | Sl 47 |
+| *sarim* (os filhos do rei) | príncipes | Sl 45,17 «hás de constituí-los príncipes»: os filhos de um rei; *sar* dos enviados continua «chefe» (Nm 22) | Sl 45 |
+| *anvá* | humildade | Sl 45,5, como *anav* «humilde» | Sl 45 |
+| *hevel* | sopro | Sl 39,6.7.12, sem nota | projeto antigo |
+| *qoder* (andar) | andar triste | Sl 38,7; 42,10; 43,2 «Por que ando triste?» | projeto antigo |
+| *qawwo qiwwiti* | Esperando, esperei | Sl 40,2, o hebraico dobrado, como o lecionário | Sl 40 |
+| *penimá* (Sl 45,14) | lá dentro | «Toda gloriosa, lá dentro, está a filha do rei», a glória interior dos Padres | Sl 45 |
+| *yeshu'ot panayv* (Sl 42,6) | a salvação da sua face | pelo hebraico, com «Meu Deus» no começo do v. 7; o refrão de 42,12 e 43,5 diz «da minha face e o meu Deus» | Sl 42 |
+| *mittov* (Sl 39,3) | calar-se até do bem | como a Vulgata e Ambrósio; a confirmar («sem proveito», da tradução de partida) | Sl 39, a confirmar |
+| *ve'era'e pene elohim* (Sl 42,3) | apresentar-me diante da face de Deus | as vogais do hebraico, a LXX e a Vulgata; a confirmar («ver a face», o lecionário) | Sl 42, a confirmar |
 | *teruá* | aclamação | conferir os lugares em que saiu «júbilo»; Sl 33,3 «tocai com arte, entre aclamações» | Sl 33, aprovado |
 | *ruah* | sopro / espírito / vento, pelo contexto | Sl 33,6 «sopro», com nota da leitura trinitária | Sl 33, aprovado |
 | *tseva'* (dos céus) | exército | | projeto antigo |
