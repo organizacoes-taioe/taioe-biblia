@@ -1,0 +1,69 @@
+{
+ "1": [
+  {
+   "id": "pelo-teu-nome",
+   "titulo": "«Ó Deus, salva-me pelo teu nome»: a salvação que vem do nome de Deus",
+   "versiculos": [
+    3
+   ],
+   "itens": [
+    "agostinho-enps53-v3-salvar-e-julgar",
+    "eusebio-comps53-v3-o-nome-sobre-todo-nome",
+    "cassiodoro-expps53-v3-salvar-no-nome"
+   ]
+  },
+  {
+   "id": "as-palavras-da-boca",
+   "titulo": "«Ouve a minha oração, dá ouvidos às palavras da minha boca»",
+   "versiculos": [
+    4
+   ],
+   "itens": [
+    "hilario-trac53-v4-as-palavras-da-boca",
+    "bruno-segni-expps53-v4-orar-por-nos"
+   ]
+  },
+  {
+   "id": "deus-e-o-meu-auxilio",
+   "titulo": "«Eis que Deus é o meu auxílio»: o socorro que chega de repente e por dentro",
+   "versiculos": [
+    5,
+    6
+   ],
+   "itens": [
+    "belarmino-expps53-v6-deus-os-tinha-diante",
+    "agostinho-enps53-v6-deus-me-ajuda-por-dentro",
+    "hilario-trac53-v6-deus-meu-auxilio"
+   ]
+  },
+  {
+   "id": "o-mal-sobre-os-inimigos",
+   "titulo": "O mal que recai sobre os inimigos e o desejo de que se convertam",
+   "versiculos": [
+    7,
+    9
+   ],
+   "itens": [
+    {
+     "id": "tomas-postilla-sl53-v7-as-imprecacoes",
+     "texto": "«Na tua verdade, destrói-os»: isto parece contrário à palavra de Cristo, que diz: «Rezai pelos que vos perseguem». Deve-se responder que todas essas imprecações que se leem nos profetas podem ser entendidas de três modos. Primeiro, como anúncio: falavam pelo Espírito de Deus e predisseram o futuro. [...] Segundo, em conformidade com a justiça divina. Terceiro, como denúncia espiritual: quando os pecadores deixam de pecar, então morrem e deixam de ser pecadores. E isto deve ser pedido continuamente."
+    },
+    "cassiodoro-expps53-v9-saulo-impedido"
+   ]
+  },
+  {
+   "id": "de-bom-grado",
+   "titulo": "«De bom grado te oferecerei sacrifício»: louvar a Deus sem interesse",
+   "versiculos": [
+    8
+   ],
+   "itens": [
+    "agostinho-enps53-v8-de-bom-grado",
+    {
+     "id": "tomas-postilla-sl53-v8-tres-sacrificios",
+     "texto": "Aqui se fala do sacrifício que é aceito por Deus: o sacrifício do espírito contrito e a mortificação do corpo («Castigo o meu corpo», 1Cor 9; «Oferecei os vossos corpos como hóstia viva», Rm 12). O terceiro sacrifício é feito com os melhores bens: «Não vos esqueçais da beneficência e da partilha, pois com tais hóstias Deus se aplaca» (Hb, último capítulo). Com este triplo sacrifício te sacrificarei de bom grado, isto é, com alegria: «Em tudo em que se oferecia sacrifício espontaneamente» (Esd 3); «Deus ama quem dá com alegria» (2Cor 9)."
+    }
+   ]
+  }
+ ]
+}

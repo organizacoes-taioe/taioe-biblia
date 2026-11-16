@@ -1,0 +1,201 @@
+{
+ "1": [
+  {
+   "id": "o-pecado-de-davi",
+   "titulo": "O pecado de Davi e o salmo da penitência: cair e levantar-se",
+   "versiculos": [
+    1,
+    2
+   ],
+   "itens": [
+    "agostinho-ep50-3-cair-e-levantar",
+    "cassiodoro-expps50-conclusao-rei-de-cinza"
+   ]
+  },
+  {
+   "id": "tem-piedade",
+   "titulo": "«Tem piedade de mim, ó Deus, segundo a tua misericórdia»: a grande miséria e a grande misericórdia",
+   "versiculos": [
+    3,
+    4
+   ],
+   "itens": [
+    "agostinho-ep50-6-grande-misericordia",
+    "ambrosio-apologia-8-43-multidao-de-misericordias",
+    "cassiodoro-expps50-1-2-miserere-sem-exame",
+    {
+     "id": "ambrosio-apologia-8-45-tintura-da-purpura",
+     "texto": "«Lava-me mais e mais»: o suco precioso não dá o seu brilho de uma só imersão na lã: primeiro a lã é tingida com um suco comum; depois, com outros e outros sucos, a sua cor natural é lavada várias vezes e muda muitas vezes de cor; e assim, por fim, aplica-se como que o tingimento de uma lavagem mais plena, para que brilhe o fulgor mais verdadeiro e perfeito da púrpura. Assim como na tintura da púrpura entram muitos múrices, assim também no banho da regeneração há uma multidão de misericórdias celestes, para que a iniquidade seja apagada."
+    }
+   ]
+  },
+  {
+   "id": "sempre-diante-de-mim",
+   "titulo": "«O meu pecado está sempre diante de mim»: o pecado reconhecido, que começa a sarar",
+   "versiculos": [
+    5
+   ],
+   "itens": [
+    "ambrosio-apologia-9-47-o-pecado-diante-de-mim",
+    "gregorio-moralia-12-21-coracao-saquinho-de-deus",
+    "tomas-postilla-ps50-2-nao-reconhecer-o-pecado"
+   ]
+  },
+  {
+   "id": "so-contra-ti",
+   "titulo": "«Contra ti, só contra ti, pequei»: todo pecado é contra Deus",
+   "versiculos": [
+    6
+   ],
+   "itens": [
+    {
+     "id": "ambrosio-apologia-10-51-so-contra-ti",
+     "texto": "«Contra ti só pequei»: quem me julga, se todos estão sob o pecado? Disse o Senhor a respeito da adúltera: «Quem estiver sem pecado seja o primeiro a lapidá-la». E ninguém a apedrejou. É isto, portanto, que diz o Profeta: «Contra ti só pequei», porque só tu estás sem pecado."
+    },
+    {
+     "id": "afonso-traduzione-salmi-50-6-so-a-deus-ofendi-a-lei",
+     "texto": "«Senhor, contra ti só pequei», porque só de Deus era a lei ofendida por Davi. Nem obsta dizer que ofendera também Urias e o povo; porque essas ofensas eram pecados enquanto eram transgressões da lei divina, já que toda a malícia do pecado consiste em transgredir as leis divinas, segundo escreve o Apóstolo: «Não conheci o pecado senão pela lei» (Rm 7,7). Por isso Davi dizia com justiça: Contra ti só pequei, porque só de ti ofendi a lei."
+    },
+    "joao-paulo-ii-aud-2002-05-08-o-pecado-trai-deus"
+   ]
+  },
+  {
+   "id": "na-culpa-fui-gerado",
+   "titulo": "«Na culpa fui gerado»: o pecado de origem, que o Batismo desata",
+   "versiculos": [
+    7
+   ],
+   "itens": [
+    "agostinho-ep50-10-conceptus-in-iniquitatibus",
+    "teodoreto-ips50-7-o-pecado-dos-primeiros-pais",
+    "gregorio-moralia-11-70-imundo-ainda-sem-querer"
+   ]
+  },
+  {
+   "id": "o-hissopo",
+   "titulo": "«Asperge-me com o hissopo»: a humildade de Cristo e o banho do Batismo",
+   "versiculos": [
+    9
+   ],
+   "itens": [
+    "agostinho-ep50-12-hissopo-humilde",
+    "ambrosio-apologia-12-59-hissopo-e-lavar",
+    "teodoreto-ips50-9-o-hissopo-e-o-sangue-do-cordeiro"
+   ]
+  },
+  {
+   "id": "ouvir-alegria",
+   "titulo": "«Faze-me ouvir alegria e júbilo»: ouvir em vez de se defender",
+   "versiculos": [
+    10
+   ],
+   "itens": [
+    "agostinho-ep50-13-ouvir-e-nao-defender",
+    "bernardo-cantico-28-5-o-ouvido-e-a-visao"
+   ]
+  },
+  {
+   "id": "apaga-as-culpas",
+   "titulo": "«Esconde a tua face dos meus pecados e apaga todas as minhas culpas»",
+   "versiculos": [
+    11
+   ],
+   "itens": [
+    "ambrosio-apologia-13-62-perdoado-apagado-coberto",
+    "belarmino-expps50-11-apagar-o-escrito"
+   ]
+  },
+  {
+   "id": "coracao-puro",
+   "titulo": "«Cria em mim, ó Deus, um coração puro»: o que só Deus pode criar",
+   "versiculos": [
+    12
+   ],
+   "itens": [
+    "tomas-postilla-ps50-6-so-deus-cria-o-coracao-puro",
+    "bruno-segni-expps50-12-guardar-o-coracao",
+    "agostinho-ep50-15-davi-e-semei"
+   ]
+  },
+  {
+   "id": "o-santo-espirito",
+   "titulo": "«Não retires de mim o teu Santo Espírito… devolve-me a alegria da tua salvação»",
+   "versiculos": [
+    13,
+    14
+   ],
+   "itens": [
+    "agostinho-ep50-16-o-espirito-santo-no-que-confessa",
+    "ambrosio-apologia-14-67-lancado-da-face",
+    "bernardo-cantico-3-1-devolve-me-a-alegria"
+   ]
+  },
+  {
+   "id": "ensinarei",
+   "titulo": "«Ensinarei aos transgressores os teus caminhos»: o pecador perdoado que ensina",
+   "versiculos": [
+    15,
+    16
+   ],
+   "itens": [
+    "ambrosio-apologia-16-75-ensinar-os-inquos",
+    {
+     "id": "tomas-postilla-ps50-7-so-depois-de-restaurado-ensina",
+     "texto": "Diz, pois: «Ensinarei aos iníquos os teus caminhos». E note-se que, em outro salmo (o 49, que para nós é o 50), disse: «Ao pecador Deus disse: Por que...», mostrando que não convém ao pecador derramar doutrina. Por isso, enquanto se sentiu pecador, não prometeu manifestar a doutrina; mas depois que Deus lhe restituiu o espírito principal, a tais convém possuir a doutrina e ensinar os outros. [...] O fruto desta doutrina, porém, não é apenas a contemplação da verdade para a beatitude, mas o seu fim visado é a conversão dos pecadores; e por isso diz: «e os ímpios se converterão a ti»."
+    },
+    "tomas-postilla-ps50-7b-de-sangues"
+   ]
+  },
+  {
+   "id": "abre-os-meus-labios",
+   "titulo": "«Senhor, abre os meus lábios»: o louvor que o perdão devolve",
+   "versiculos": [
+    17
+   ],
+   "itens": [
+    "agostinho-ep50-20-abre-os-meus-labios-quatro-razoes",
+    "teodoreto-ips50-17-o-pecado-amarra-a-lingua"
+   ]
+  },
+  {
+   "id": "o-sacrificio",
+   "titulo": "«Não te agradas do sacrifício»: a oferta que se encontra dentro de nós",
+   "versiculos": [
+    18,
+    19
+   ],
+   "itens": [
+    "agostinho-ep50-21-em-ti-tens-o-que-oferecer",
+    {
+     "id": "catecismo-2100-sacrificio-exterior-e-espiritual",
+     "texto": "Para ser autêntico, o sacrifício exterior deve ser expressão do sacrifício espiritual: «O meu sacrifício é um espírito arrependido...» (Sl 51,19). […] O único sacrifício perfeito é o que Cristo ofereceu na cruz, em total oblação ao amor do Pai e para nossa salvação. Unindo-nos ao seu sacrifício, podemos fazer da nossa vida um sacrifício a Deus."
+    },
+    "gregorio-hom-evangelhos-10-7-batizar-a-consciencia"
+   ]
+  },
+  {
+   "id": "contrito-e-humilhado",
+   "titulo": "«Um coração contrito e humilhado, ó Deus, não o desprezas»",
+   "versiculos": [
+    19
+   ],
+   "itens": [
+    "bernardo-cantico-10-5-o-unguento-da-contricao",
+    "escriva-cartas-1-2-29-contrito-e-humilhado",
+    "escriva-forja-172-volve-correndo-a-deus"
+   ]
+  },
+  {
+   "id": "os-muros-de-jerusalem",
+   "titulo": "«Edifica as muralhas de Jerusalém»: a Igreja edificada e os novilhos sobre o altar",
+   "versiculos": [
+    20,
+    21
+   ],
+   "itens": [
+    "bruno-segni-expps50-20-21-pedras-e-novilhos",
+    "ambrosio-apologia-17-85-os-martires-novilhos"
+   ]
+  }
+ ]
+}

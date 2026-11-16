@@ -1,0 +1,87 @@
+{
+ "1": [
+  {
+   "id": "o-homem-me-pisa",
+   "titulo": "«O homem me pisa»: a perseguição como uva no lagar e barco contra o vento",
+   "versiculos": [
+    2,
+    3
+   ],
+   "itens": [
+    "agostinho-ps55-2-uva-no-lagar",
+    "atanasio-exp-sl56-2-guerra-contra-satanas",
+    "escriva-cartas1-2-1-remar-contra-o-vento"
+   ]
+  },
+  {
+   "id": "quando-tenho-medo",
+   "titulo": "«No dia em que eu temer, em ti confiarei»: o medo vencido pela confiança",
+   "versiculos": [
+    3,
+    4,
+    5
+   ],
+   "itens": [
+    "agostinho-ps55-4-a-insensibilidade",
+    "teodoreto-ips55-4-o-dia-que-passa",
+    "eusebio-cps55-5-hinos-contra-o-medo"
+   ]
+  },
+  {
+   "id": "cuja-palavra-eu-louvo",
+   "titulo": "«Em Deus, cuja palavra eu louvo»: o que pode a carne contra quem espera em Deus",
+   "versiculos": [
+    5,
+    11,
+    12
+   ],
+   "itens": [
+    "agostinho-ps55-5-meus-e-de-deus",
+    "origenes-selecta-sl55-5-so-ele-diz-que-me-fara",
+    "hilario-ps55-11-voz-digna-dos-santos"
+   ]
+  },
+  {
+   "id": "os-que-espreitam",
+   "titulo": "Os inimigos que espreitam e a oração para que a sua soberba caia",
+   "versiculos": [
+    6,
+    7,
+    8
+   ],
+   "itens": [
+    "arnobio-ps55-6-semeemos-nele-os-desejos",
+    "eusebio-cps55-8-abate-os-soberbos"
+   ]
+  },
+  {
+   "id": "as-lagrimas-no-odre",
+   "titulo": "«Recolhe as minhas lágrimas no teu odre»: as lágrimas diante do Deus que é «meu»",
+   "versiculos": [
+    9,
+    10
+   ],
+   "itens": [
+    "teodoreto-ips55-9-ele-ouve-quem-geme",
+    "cassiodoro-expps55-9-confessar-a-vida",
+    "agostinho-ps55-10-deus-meu"
+   ]
+  },
+  {
+   "id": "os-votos-e-a-luz",
+   "titulo": "Os votos de louvor e o caminhar diante de Deus na luz dos viventes",
+   "versiculos": [
+    13,
+    14
+   ],
+   "itens": [
+    "agostinho-ps55-13-o-que-ninguem-tira",
+    "segni-expps55-13-o-pobre-tambem-pode-dar",
+    {
+     "id": "pseudo-jeronimo-brev-ps55-14-luz-dos-viventes",
+     "autor": "Autor antigo (pseudo-Jerônimo)"
+    }
+   ]
+  }
+ ]
+}
