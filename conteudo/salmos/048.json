@@ -1,0 +1,46 @@
+{
+ "livro": "salmos",
+ "cap": 48,
+ "estado": "em revisão",
+ "atualizado": "2026-11-16",
+ "trechos": [
+  {"id": "1", "titulo": null, "de": 1}
+ ],
+ "texto": [
+  {"v": 1, "t": "Cântico. Salmo. Dos filhos de Coré."},
+  {"v": 2, "l": ["Grande é o Senhor e muito digno de louvor", "na cidade do nosso Deus.", "O seu monte santo,"], "np": 1},
+  {"v": 3, "l": ["belo na sua altura, é a alegria de toda a terra:", "o monte Sião, no extremo norte,", "é a cidade do grande rei."]},
+  {"v": 4, "l": ["Deus, nos seus palácios,", "mostrou-se fortaleza segura."]},
+  {"v": 5, "l": ["Eis que os reis se reuniram", "e avançaram juntos;"], "np": 1},
+  {"v": 6, "l": ["mal viram, ficaram estupefatos,", "perturbaram-se e fugiram."]},
+  {"v": 7, "l": ["Ali os tomou o tremor,", "dores como de parturiente."]},
+  {"v": 8, "l": ["Com o vento do oriente", "despedaças as naus de Társis."]},
+  {"v": 9, "l": ["Como ouvimos, assim vimos", "na cidade do Senhor dos exércitos,", "na cidade do nosso Deus:", "Deus a firmou para sempre."]},
+  {"v": 10, "l": ["Meditamos, ó Deus, a tua misericórdia", "no meio do teu templo."], "np": 1},
+  {"v": 11, "l": ["Como o teu nome, ó Deus,", "assim o teu louvor chega aos confins da terra;", "a tua direita está cheia de justiça."]},
+  {"v": 12, "l": ["Alegre-se o monte Sião,", "exultem as filhas de Judá", "por causa dos teus juízos."]},
+  {"v": 13, "l": ["Percorrei Sião, dai a volta em torno dela,", "contai as suas torres."], "np": 1},
+  {"v": 14, "l": ["Considerai as suas muralhas,", "percorrei os seus palácios,", "para contardes à geração futura:"]},
+  {"v": 15, "l": ["Este é Deus, o nosso Deus para todo o sempre;", "ele nos guiará até a morte."]}
+ ],
+ "notas": [
+  {"id": "n01", "v": 3, "apos": "no extremo norte", "texto": "Sião é um monte pequeno, no sul do país. «Extremo norte» era o nome do monte onde os povos vizinhos punham a morada dos seus deuses: o salmo dá esse título à morada do verdadeiro Deus.", "origem": "revista do projeto antigo (saiu o termo hebraico)"},
+  {"id": "n02", "v": 8, "apos": "Társis", "texto": "Társis era um porto distante, no extremo ocidente do mar; as naus de Társis eram os grandes navios de longo curso.", "origem": "nova (lugar pouco conhecido)"},
+  {"id": "n03", "v": 10, "texto": "A antífona de entrada da Missa da Apresentação do Senhor (2 de fevereiro), quando Jesus é levado ao Templo, é tirada destes versículos.", "origem": "nova (uso litúrgico: Missal, 2 de fevereiro, *Suscepimus*)"}
+ ],
+ "comentarios": {},
+ "revisao": {
+  "escolhas": [
+   {
+    "id": "ate-a-morte",
+    "ref": "Sl 48,15",
+    "titulo": "«ele nos guiará até a morte» ou «ele nos guiará para sempre»?",
+    "contexto": "O hebraico, como chegou até nós, termina com *al-mut*, «até a morte» (ou «acima da morte»): Deus guia o seu povo a vida inteira. A Bíblia grega e a Vulgata leem «para sempre» (*in saecula*), e assim os Padres e muitas Bíblias modernas; outras tomam as palavras por uma indicação musical. A tradução de partida dizia «para sempre».",
+    "opcoes": [
+     {"id": "a", "texto": "«Este é Deus, o nosso Deus para todo o sempre; / ele nos guiará até a morte.»", "nota": "O texto hebraico como chegou até nós.", "recomendada": true},
+     {"id": "b", "texto": "«Este é Deus, o nosso Deus para todo o sempre; / ele nos guiará para sempre.»", "nota": "A Bíblia grega, a Vulgata e os Padres; repete o «para sempre» do mesmo verso."}
+    ]
+   }
+  ]
+ }
+}

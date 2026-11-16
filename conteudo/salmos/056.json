@@ -1,0 +1,29 @@
+{
+ "livro": "salmos",
+ "cap": 56,
+ "estado": "em revisão",
+ "atualizado": "2026-11-16",
+ "trechos": [
+  {"id": "1", "titulo": null, "de": 1}
+ ],
+ "texto": [
+  {"v": 1, "t": "Ao mestre do coro. Segundo «A pomba muda das terras distantes». De Davi. Miktam, quando os filisteus o prenderam em Gat."},
+  {"v": 2, "l": ["Tem piedade de mim, ó Deus, porque o homem me pisa;", "o dia inteiro me oprime combatendo."], "np": 1},
+  {"v": 3, "l": ["Os meus adversários me pisam o dia inteiro,", "porque são muitos os que contra mim combatem, ó Altíssimo."]},
+  {"v": 4, "l": ["No dia em que eu temer,", "em ti confiarei."]},
+  {"v": 5, "l": ["Em Deus, cuja palavra eu louvo,", "em Deus confio e não temerei:", "que me pode fazer a carne?"], "np": 1},
+  {"v": 6, "l": ["O dia inteiro torcem as minhas palavras;", "contra mim são todos os seus pensamentos para o mal."], "np": 1},
+  {"v": 7, "l": ["Reúnem-se, ficam de emboscada,", "espreitam os meus passos,", "à espera da minha vida."]},
+  {"v": 8, "l": ["Pela sua iniquidade, escaparão eles?", "Na tua ira, ó Deus, abate os povos."]},
+  {"v": 9, "l": ["Contaste os passos do meu desterro;", "recolhe as minhas lágrimas no teu odre.", "Não estão elas no teu livro?"], "np": 1},
+  {"v": 10, "l": ["Então recuarão os meus inimigos no dia em que eu clamar.", "Nisto reconheço que Deus está comigo."]},
+  {"v": 11, "l": ["Em Deus, cuja palavra eu louvo,", "no Senhor, cuja palavra eu louvo,"], "np": 1},
+  {"v": 12, "l": ["em Deus confio e não temerei:", "que me pode fazer o homem?"]},
+  {"v": 13, "l": ["Sobre mim pesam, ó Deus, os votos que te fiz;", "a ti hei de render sacrifícios de louvor,"], "np": 1},
+  {"v": 14, "l": ["porque livraste da morte a minha vida", "e os meus pés da queda,", "para que eu ande diante de Deus", "na luz dos viventes."]}
+ ],
+ "notas": [
+  {"id": "n01", "v": 1, "apos": "em Gat", "texto": "A história está em I Samuel 21,11-16: fugindo de Saul, Davi refugiou-se entre os filisteus, em Gat, e fingiu-se de louco para escapar.", "origem": "revista do projeto antigo (saiu *miktam*, de língua); saiu a nota do v. 9 (interpretação)"}
+ ],
+ "comentarios": {}
+}

@@ -1,0 +1,22 @@
+{
+ "livro": "salmos",
+ "cap": 53,
+ "estado": "em revisão",
+ "atualizado": "2026-11-16",
+ "trechos": [
+  {"id": "1", "titulo": null, "de": 1}
+ ],
+ "texto": [
+  {"v": 1, "t": "Ao mestre do coro. Sobre a doença. Poema de Davi."},
+  {"v": 2, "l": ["Diz o insensato no seu coração: Não há Deus.", "Corromperam-se, cometeram iniquidades abomináveis;", "não há quem faça o bem."], "np": 1},
+  {"v": 3, "l": ["Deus olha do céu para os filhos dos homens,", "para ver se há algum sensato,", "algum que busque a Deus."]},
+  {"v": 4, "l": ["Todos se desviaram, juntamente se corromperam;", "não há quem faça o bem, não há nem um sequer."]},
+  {"v": 5, "l": ["Não têm entendimento os que praticam a iniquidade,", "que devoram o meu povo como quem come pão", "e não invocam a Deus?"], "np": 1},
+  {"v": 6, "l": ["Ali tremeram de medo, onde não havia medo,", "porque Deus dispersou os ossos dos que te sitiavam;", "tu os cobriste de vergonha, porque Deus os rejeitou."]},
+  {"v": 7, "l": ["Quem dera venha de Sião a salvação de Israel!", "Quando Deus mudar a sorte do seu povo,", "exultará Jacó, e Israel se alegrará."], "np": 1}
+ ],
+ "notas": [
+  {"id": "n01", "v": 1, "texto": "É quase o mesmo salmo que o 14: onde aquele diz «o Senhor», este diz «Deus».", "origem": "revista do projeto antigo (resolve o estranhamento; saiu o «saltério eloísta»); saíram as notas do v. 2 (interpretação) e do v. 4 (associação)"}
+ ],
+ "comentarios": {}
+}

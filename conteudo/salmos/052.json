@@ -1,0 +1,26 @@
+{
+ "livro": "salmos",
+ "cap": 52,
+ "estado": "em revisão",
+ "atualizado": "2026-11-16",
+ "trechos": [
+  {"id": "1", "titulo": null, "de": 1}
+ ],
+ "texto": [
+  {"v": 1, "t": "Ao mestre do coro. Poema de Davi,"},
+  {"v": 2, "t": "quando Doeg, o edomita, foi contar a Saul: Davi entrou na casa de Aquimelec."},
+  {"v": 3, "l": ["Por que te glorias na malícia, ó valente?", "A misericórdia de Deus dura todo o dia."], "np": 1},
+  {"v": 4, "l": ["A tua língua trama a ruína,", "como navalha afiada, ó artífice do engano."]},
+  {"v": 5, "l": ["Amas mais o mal do que o bem,", "a mentira mais do que falar com justiça."]},
+  {"v": 6, "l": ["Amas toda palavra que devora,", "ó língua enganadora."]},
+  {"v": 7, "l": ["Por isso Deus te destruirá para sempre:", "há de arrancar-te e tirar-te da tenda,", "e desarraigar-te da terra dos viventes."], "np": 1},
+  {"v": 8, "l": ["Os justos verão e temerão,", "e dele se rirão:"]},
+  {"v": 9, "l": ["Eis o homem que não pôs em Deus a sua fortaleza,", "mas confiou na sua grande riqueza", "e se fortaleceu na sua malícia."]},
+  {"v": 10, "l": ["Eu, porém, sou como oliveira verdejante na casa de Deus;", "confio na misericórdia de Deus para todo o sempre."], "np": 1},
+  {"v": 11, "l": ["Para sempre te darei graças pelo que fizeste,", "e esperarei no teu nome, porque é bom,", "diante dos teus fiéis."]}
+ ],
+ "notas": [
+  {"id": "n01", "v": 2, "apos": "Aquimelec", "texto": "A história está em I Samuel 21–22: Doeg, servo de Saul, viu o sacerdote Aquimelec ajudar Davi na fuga, denunciou-o ao rei e, por ordem dele, matou os sacerdotes de Nob.", "origem": "revista do projeto antigo (lembra quem é Doeg); saiu a nota do v. 10 (análise)"}
+ ],
+ "comentarios": {}
+}

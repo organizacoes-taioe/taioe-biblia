@@ -1,0 +1,36 @@
+{
+ "livro": "salmos",
+ "cap": 49,
+ "estado": "em revisão",
+ "atualizado": "2026-11-16",
+ "trechos": [
+  {"id": "1", "titulo": null, "de": 1}
+ ],
+ "texto": [
+  {"v": 1, "t": "Ao mestre do coro. Dos filhos de Coré. Salmo."},
+  {"v": 2, "l": ["Ouvi isto, todos os povos;", "escutai, todos os habitantes do mundo:"], "np": 1},
+  {"v": 3, "l": ["gente do povo e gente nobre,", "o rico e o pobre juntamente."]},
+  {"v": 4, "l": ["A minha boca falará sabedoria,", "e a meditação do meu coração, inteligência."]},
+  {"v": 5, "l": ["Inclinarei o meu ouvido à parábola,", "e ao som da cítara exporei o meu enigma."]},
+  {"v": 6, "l": ["Por que hei de temer nos dias maus,", "quando me cerca a malícia dos que me espreitam,"], "np": 1},
+  {"v": 7, "l": ["dos que confiam nas suas riquezas", "e se gloriam da sua grande fortuna?"]},
+  {"v": 8, "l": ["Ninguém pode resgatar o irmão,", "nem pagar a Deus o preço do seu resgate."]},
+  {"v": 9, "l": ["É caro demais o resgate de uma vida,", "e jamais se poderá pagar"]},
+  {"v": 10, "l": ["para que alguém viva para sempre", "e não veja a cova."]},
+  {"v": 11, "l": ["Pois vê-se que os sábios morrem,", "e juntamente perecem o insensato e o estúpido,", "e deixam a outros os seus bens."]},
+  {"v": 12, "l": ["No íntimo, pensam que as suas casas são para sempre,", "as suas moradas, de geração em geração;", "dão os seus nomes às suas terras."]},
+  {"v": 13, "l": ["O homem, no fausto, não permanece:", "é semelhante aos animais que perecem."]},
+  {"v": 14, "l": ["Este é o caminho dos que têm confiança insensata,", "e dos que, depois deles, aprovam o que dizem."], "np": 1},
+  {"v": 15, "l": ["Como ovelhas são postos na morada dos mortos;", "a morte os apascenta,", "e pela manhã os retos os dominarão.", "A sua figura se consome", "na morada dos mortos, longe do seu palácio."]},
+  {"v": 16, "l": ["Mas Deus resgatará a minha alma", "do poder da morada dos mortos,", "porque me tomará consigo."]},
+  {"v": 17, "l": ["Não temas quando alguém enriquece,", "quando cresce a glória da sua casa,"], "np": 1},
+  {"v": 18, "l": ["porque, ao morrer, nada levará consigo,", "nem a sua glória descerá com ele."]},
+  {"v": 19, "l": ["Ainda que em vida se felicitasse", "— e te louvam por te dares bem —,"]},
+  {"v": 20, "l": ["irá ter com a geração de seus pais,", "que nunca mais verão a luz."]},
+  {"v": 21, "l": ["O homem, no fausto, não entende:", "é semelhante aos animais que perecem."]}
+ ],
+ "notas": [
+  {"id": "n01", "v": 16, "apos": "me tomará consigo", "texto": "«Tomar consigo» é o que a Bíblia diz de Henoc e de Elias, levados por Deus sem passar pela morte (Gn 5,24; 2Rs 2,10).", "origem": "revista do projeto antigo (saiu a interpretação); saíram as notas do v. 5 (de língua) e do v. 13 (o refrão, análise)"}
+ ],
+ "comentarios": {}
+}

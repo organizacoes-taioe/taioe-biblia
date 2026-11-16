@@ -1,0 +1,53 @@
+{
+ "livro": "salmos",
+ "cap": 51,
+ "estado": "em revisão",
+ "atualizado": "2026-11-16",
+ "trechos": [
+  {"id": "1", "titulo": null, "de": 1}
+ ],
+ "texto": [
+  {"v": 1, "t": "Ao mestre do coro. Salmo de Davi,"},
+  {"v": 2, "t": "quando o profeta Natã veio ter com ele, depois que ele se unira a Betsabé."},
+  {"v": 3, "l": ["Tem piedade de mim, ó Deus, segundo a tua misericórdia;", "segundo a tua grande compaixão, apaga as minhas transgressões."], "np": 1},
+  {"v": 4, "l": ["Lava-me de toda a minha culpa", "e purifica-me do meu pecado."]},
+  {"v": 5, "l": ["Porque reconheço as minhas transgressões,", "e o meu pecado está sempre diante de mim."]},
+  {"v": 6, "l": ["Contra ti, só contra ti, pequei,", "e fiz o mal diante dos teus olhos,", "para que sejas justo na tua sentença", "e irrepreensível no teu julgamento."]},
+  {"v": 7, "l": ["Eis que na culpa fui gerado,", "e em pecado me concebeu minha mãe."]},
+  {"v": 8, "l": ["Eis que amas a verdade no íntimo,", "e no segredo me ensinas a sabedoria."]},
+  {"v": 9, "l": ["Asperge-me com o hissopo, e ficarei puro;", "lava-me, e ficarei mais branco que a neve."]},
+  {"v": 10, "l": ["Faze-me ouvir alegria e júbilo,", "e exultarão os ossos que esmagaste."]},
+  {"v": 11, "l": ["Esconde a tua face dos meus pecados", "e apaga todas as minhas culpas."]},
+  {"v": 12, "l": ["Cria em mim, ó Deus, um coração puro,", "e renova dentro de mim um espírito firme."], "np": 1},
+  {"v": 13, "l": ["Não me rejeites da tua presença,", "nem retires de mim o teu Santo Espírito."]},
+  {"v": 14, "l": ["Devolve-me a alegria da tua salvação", "e sustenta-me com um espírito generoso."]},
+  {"v": 15, "l": ["Ensinarei aos transgressores os teus caminhos,", "e os pecadores voltarão a ti."]},
+  {"v": 16, "l": ["Livra-me do sangue, ó Deus, Deus da minha salvação,", "e a minha língua exaltará a tua justiça."]},
+  {"v": 17, "l": ["Senhor, abre os meus lábios,", "e a minha boca anunciará o teu louvor."]},
+  {"v": 18, "l": ["Pois não te agradas do sacrifício,", "e, se eu oferecesse holocausto, não o aceitarias."]},
+  {"v": 19, "l": ["O sacrifício que agrada a Deus é um espírito contrito;", "um coração contrito e humilhado, ó Deus, não o desprezas."]},
+  {"v": 20, "l": ["Faze o bem a Sião, na tua bondade,", "e edifica as muralhas de Jerusalém."], "np": 1},
+  {"v": 21, "l": ["Então aceitarás os sacrifícios de justiça,", "os holocaustos e as ofertas inteiras;", "então se oferecerão novilhos sobre o teu altar."]}
+ ],
+ "notas": [
+  {"id": "n01", "v": 2, "apos": "Betsabé", "texto": "É o quarto dos sete salmos penitenciais, chamado «Miserere», a sua primeira palavra em latim. A história está em II Samuel 11–12: Davi tomou Betsabé, mulher de Urias, e mandou matar o marido; o profeta Natã veio repreendê-lo.", "origem": "revista do projeto antigo (lembra o episódio); saíram as notas dos vv. 6, 12 e 20 (interpretação, língua, hipótese) e a do v. 17 (Liturgia das Horas)"},
+  {"id": "n02", "v": 3, "texto": "A Missa da Quarta-feira de Cinzas, que abre a Quaresma, canta este salmo.", "origem": "nova (uso litúrgico: Lecionário, Quarta-feira de Cinzas)"},
+  {"id": "n03", "v": 4, "texto": "Ao lavar as mãos na Missa, depois de preparar o pão e o vinho, o sacerdote diz este versículo em voz baixa.", "origem": "nova (uso litúrgico: Missal, o *Lavabo*)"},
+  {"id": "n04", "v": 9, "apos": "hissopo", "texto": "O hissopo é uma planta de ramos finos, usada para aspergir a água e o sangue nos ritos de purificação. O rito da aspersão da água benta, no começo da Missa do domingo, canta este versículo.", "origem": "revista do projeto antigo (saíram as referências; entrou o *Asperges* da Missa)"}
+ ],
+ "comentarios": {},
+ "revisao": {
+  "escolhas": [
+   {
+    "id": "asperge-me",
+    "ref": "Sl 51,9",
+    "titulo": "«Asperge-me com o hissopo» ou «Purifica-me com o hissopo»?",
+    "contexto": "O verbo hebraico quer dizer «tira-me o pecado», «purifica-me»; o hissopo era o ramo com que se fazia a aspersão nos ritos de purificação. A Vulgata diz «Asperges me, Domine, hyssopo», e assim o canta a Missa no rito da aspersão da água benta. A tradução de partida dizia «Aspergirás sobre mim com hissopo».",
+    "opcoes": [
+     {"id": "a", "texto": "«Asperge-me com o hissopo, e ficarei puro; / lava-me, e ficarei mais branco que a neve.»", "nota": "Como a Vulgata e o rito da aspersão na Missa; diz o gesto que o hebraico supõe.", "recomendada": true},
+     {"id": "b", "texto": "«Purifica-me com o hissopo, e ficarei puro; / lava-me, e ficarei mais branco que a neve.»", "nota": "Mais perto do verbo hebraico, como muitas Bíblias modernas."}
+    ]
+   }
+  ]
+ }
+}

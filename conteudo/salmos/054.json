@@ -1,0 +1,24 @@
+{
+ "livro": "salmos",
+ "cap": 54,
+ "estado": "em revisão",
+ "atualizado": "2026-11-16",
+ "trechos": [
+  {"id": "1", "titulo": null, "de": 1}
+ ],
+ "texto": [
+  {"v": 1, "t": "Ao mestre do coro. Com instrumentos de corda. Poema de Davi,"},
+  {"v": 2, "t": "quando os zifeus foram dizer a Saul: Não está Davi escondido entre nós?"},
+  {"v": 3, "l": ["Ó Deus, salva-me pelo teu nome", "e faze-me justiça pelo teu poder."], "np": 1},
+  {"v": 4, "l": ["Ó Deus, ouve a minha oração,", "dá ouvidos às palavras da minha boca."]},
+  {"v": 5, "l": ["Porque estranhos se levantaram contra mim,", "e violentos buscam a minha vida;", "não põem Deus diante dos seus olhos."]},
+  {"v": 6, "l": ["Eis que Deus é o meu auxílio;", "o Senhor é o amparo da minha vida."], "np": 1},
+  {"v": 7, "l": ["Faze recair o mal sobre os que me espreitam;", "na tua verdade, destrói-os."]},
+  {"v": 8, "l": ["De bom grado te oferecerei sacrifício", "e louvarei o teu nome, Senhor, porque é bom."]},
+  {"v": 9, "l": ["Ele me livrou de toda angústia,", "e os meus olhos viram a derrota dos meus inimigos."]}
+ ],
+ "notas": [
+  {"id": "n01", "v": 2, "apos": "entre nós?", "texto": "A história está em I Samuel 23,19-28: os habitantes de Zif, no deserto de Judá, contaram a Saul onde Davi se escondia.", "origem": "revista do projeto antigo (lugar e episódio)"}
+ ],
+ "comentarios": {}
+}

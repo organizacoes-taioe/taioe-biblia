@@ -1,0 +1,38 @@
+{
+ "livro": "salmos",
+ "cap": 50,
+ "estado": "em revisão",
+ "atualizado": "2026-11-16",
+ "trechos": [
+  {"id": "1", "titulo": null, "de": 1}
+ ],
+ "texto": [
+  {"v": 1, "l": ["Salmo de Asaf.", "O Deus dos deuses, o Senhor, fala", "e convoca a terra,", "do nascente do sol até o poente."]},
+  {"v": 2, "l": ["De Sião, beleza perfeita,", "Deus resplandece."]},
+  {"v": 3, "l": ["Vem o nosso Deus e não se cala:", "diante dele, um fogo devorador;", "ao redor dele, forte tempestade."]},
+  {"v": 4, "l": ["Convoca os céus do alto", "e a terra, para julgar o seu povo:"]},
+  {"v": 5, "l": ["Reuni diante de mim os meus fiéis,", "que selaram comigo a aliança pelo sacrifício."]},
+  {"v": 6, "l": ["E os céus anunciam a sua justiça,", "porque é Deus quem julga."]},
+  {"v": 7, "l": ["Ouve, meu povo, e eu falarei;", "Israel, eu darei testemunho contra ti:", "eu sou Deus, o teu Deus."], "np": 1},
+  {"v": 8, "l": ["Não te repreendo pelos teus sacrifícios,", "pois os teus holocaustos estão sempre diante de mim."]},
+  {"v": 9, "l": ["Não receberei novilho da tua casa,", "nem bodes dos teus rebanhos,"]},
+  {"v": 10, "l": ["porque são meus todos os animais das selvas,", "e os rebanhos aos milhares nos montes."]},
+  {"v": 11, "l": ["Conheço todas as aves dos montes,", "e o que se move no campo está diante de mim."]},
+  {"v": 12, "l": ["Se eu tivesse fome, não te diria,", "porque meu é o mundo e tudo o que ele contém."]},
+  {"v": 13, "l": ["Acaso comerei carne de touros", "ou beberei sangue de bodes?"]},
+  {"v": 14, "l": ["Oferece a Deus sacrifício de louvor", "e cumpre os teus votos ao Altíssimo;"]},
+  {"v": 15, "l": ["invoca-me no dia da angústia:", "eu te livrarei, e tu me glorificarás."]},
+  {"v": 16, "l": ["Mas ao ímpio Deus diz:", "Por que recitas os meus preceitos", "e tens na boca a minha aliança,"], "np": 1},
+  {"v": 17, "l": ["tu que odeias a disciplina", "e lanças atrás de ti as minhas palavras?"]},
+  {"v": 18, "l": ["Se vês um ladrão, comprazes-te com ele,", "e com os adúlteros tens a tua parte."]},
+  {"v": 19, "l": ["Soltas a tua boca para o mal,", "e a tua língua trama o engano."]},
+  {"v": 20, "l": ["Sentas-te e falas contra o teu irmão,", "difamas o filho de tua mãe."]},
+  {"v": 21, "l": ["Fizeste isso, e eu me calei;", "julgaste que eu era como tu.", "Eu te repreenderei", "e porei tudo diante dos teus olhos."]},
+  {"v": 22, "l": ["Entendei isto, vós que esqueceis Deus,", "para que eu não vos despedace, sem que haja quem livre."], "np": 1},
+  {"v": 23, "l": ["Quem oferece sacrifício de louvor me honra,", "e ao que anda no reto caminho", "mostrarei a salvação de Deus."]}
+ ],
+ "notas": [
+  {"id": "n01", "v": 1, "apos": "Asaf", "texto": "Asaf foi um dos mestres de canto do Templo no tempo de Davi.", "origem": "revista do projeto antigo (lembra quem é Asaf); saíram as notas dos vv. 12 e 21 (interpretação)"}
+ ],
+ "comentarios": {}
+}

@@ -1,0 +1,27 @@
+{
+ "livro": "salmos",
+ "cap": 57,
+ "estado": "em revisão",
+ "atualizado": "2026-11-16",
+ "trechos": [
+  {"id": "1", "titulo": null, "de": 1}
+ ],
+ "texto": [
+  {"v": 1, "t": "Ao mestre do coro. Segundo «Não destruas». De Davi. Miktam, quando fugiu de Saul para a caverna."},
+  {"v": 2, "l": ["Tem piedade de mim, ó Deus, tem piedade de mim,", "porque em ti se refugia a minha alma;", "à sombra das tuas asas me abrigo,", "até que passe a calamidade."], "np": 1},
+  {"v": 3, "l": ["Clamo ao Deus altíssimo,", "ao Deus que por mim leva tudo a termo."]},
+  {"v": 4, "l": ["Ele enviará do céu e me salvará,", "cobrirá de vergonha os que me pisam;", "enviará Deus a sua misericórdia e a sua verdade."]},
+  {"v": 5, "l": ["Estou no meio de leões;", "deito-me entre os que devoram os filhos dos homens.", "Os seus dentes são lanças e flechas,", "e a sua língua, espada afiada."], "np": 1},
+  {"v": 6, "l": ["Eleva-te acima dos céus, ó Deus;", "sobre toda a terra, a tua glória."], "np": 1},
+  {"v": 7, "l": ["Armaram um laço aos meus passos,", "e a minha alma curvou-se;", "cavaram diante de mim uma cova,", "e nela caíram eles mesmos."], "np": 1},
+  {"v": 8, "l": ["Firme está o meu coração, ó Deus,", "firme está o meu coração:", "cantarei e entoarei salmos."], "np": 1},
+  {"v": 9, "l": ["Desperta, minha glória; despertai, harpa e cítara:", "quero despertar a aurora."]},
+  {"v": 10, "l": ["Entre os povos te louvarei, Senhor,", "entre as nações te cantarei salmos,"]},
+  {"v": 11, "l": ["porque a tua misericórdia é grande até os céus,", "e até as nuvens a tua verdade."]},
+  {"v": 12, "l": ["Eleva-te acima dos céus, ó Deus;", "sobre toda a terra, a tua glória."], "np": 1}
+ ],
+ "notas": [
+  {"id": "n01", "v": 1, "apos": "para a caverna", "texto": "Davi escondeu-se de Saul na caverna de Adulam e, depois, numa caverna do deserto de Engadi, onde poupou a vida do rei (I Samuel 22 e 24).", "origem": "revista do projeto antigo (saiu a melodia, de língua); saiu a nota do v. 9 (interpretação)"}
+ ],
+ "comentarios": {}
+}
