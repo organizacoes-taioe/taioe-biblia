@@ -94,7 +94,7 @@ Vale para pessoas, povos e lugares, também nos comentários dos Padres.
 | *kalil* | oferta inteira | Sl 51,21 «os holocaustos e as ofertas inteiras» | Sl 51 |
 | *al-mut* (Sl 48,15) | até a morte | o hebraico; a confirmar («para sempre», a Bíblia grega e a Vulgata) | Sl 48, a confirmar |
 | *tehatte'eni be'ezov* (Sl 51,9) | Asperge-me com o hissopo | como a Vulgata e o rito da aspersão; a confirmar («Purifica-me») | Sl 51, a confirmar |
-| *mittov* (Sl 39,3) | calar-se até do bem | como a Vulgata e Ambrósio; a confirmar («sem proveito», da tradução de partida) | Sl 39, a confirmar |
+| *mittov* (Sl 39,3) | calar-se até do bem | como a Vulgata e Ambrósio; a tradução de partida dizia «sem proveito» | Sl 39, aprovado (22/11) |
 | *ve'era'e pene elohim* (Sl 42,3) | apresentar-me diante da face de Deus | as vogais do hebraico, a LXX e a Vulgata; a confirmar («ver a face», o lecionário) | Sl 42, a confirmar |
 | *teruá* | aclamação | conferir os lugares em que saiu «júbilo»; Sl 33,3 «tocai com arte, entre aclamações» | Sl 33, aprovado |
 | *ruah* | sopro / espírito / vento, pelo contexto | Sl 33,6 «sopro», com nota da leitura trinitária | Sl 33, aprovado |
@@ -155,7 +155,8 @@ Vale para pessoas, povos e lugares, também nos comentários dos Padres.
 | *vehay* (Nm 21,8-9) | viverá / ficava vivo | a mesma palavra nos dois versículos; o lecionário diz «ficava curado» no v. 9 | Nm 21 |
 | *sarim* (Nm 21,18) | os chefes | «poço que os chefes cavaram, / que os nobres do povo abriram», como *sar* em Nm 22; a tradução de partida dizia «príncipes» | Nm 21 |
 | *sar* (os enviados de um rei) | chefe | Nm 22,8.13-15.21.35.40 «os chefes de Moab», «os chefes de Balac», como *nasi*; nunca «príncipe»; também Nm 21,18 («poço que os chefes cavaram») e Nm 23,6.17 («os chefes de Moab»); os outros usos de *sar* («chefe do exército», «chefe de mil») se decidem ao entrarem | Nm 22 |
-| *qahal* na boca de estrangeiros | multidão | Nm 22,4 «esta multidão vai lamber tudo», o bando que se aproxima; «assembleia» fica para Israel reunido | Nm 22, a confirmar |
+| *qahal* na boca de estrangeiros | multidão | Nm 22,4 «esta multidão vai lamber tudo», o bando que se aproxima; «assembleia» fica para Israel reunido | Nm 22, aprovado (18/11) |
+| *hannehashim hasserafim* / *saraf* (Nm 21,6.8) | as serpentes abrasadoras / uma serpente abrasadora | o fogo da mordida, o eco com os serafins (Is 6) e Dt 8,15; o v. 8 como o lecionário da Quaresma; o bronze só no v. 9 | Nm 21, aprovado (17/11) |
 | *ḥavash* (o animal) | selar | Nm 22,21 «selou a sua jumenta»; a tradução de partida dizia «albardou», como em Gn 22,3, que muda ao entrar | Nm 22 |
 | *qesamim* | o preço da adivinhação | Nm 22,7 | Nm 22 |
 | *derekh hammelekh* | a estrada real | Nm 20,17 e 21,22, com nota curta (a rota das caravanas) | projeto antigo |
@@ -280,6 +281,9 @@ Vale para pessoas, povos e lugares, também nos comentários dos Padres.
 | *qavav* / *'arar* / *za'am* | amaldiçoar / amaldiçoar / maldizer | Nm 23,7–8: «amaldiçoa-me Jacó… maldiz Israel»; «Como amaldiçoarei o que Deus não amaldiçoou?» | projeto antigo |
 | *hen-am* (Nm 23,9.24) | eis um povo | os dois oráculos abrem com a mesma palavra; a tradução de partida dizia «é um povo» no v. 9 | Nm 23 |
 | *lo ish el vikhazzev* (Nm 23,19) | Deus não é homem, que minta, / nem filho de homem, que se arrependa | pelo Versificador; a tradução de partida dizia «para mentir… para se arrepender» | Nm 23 |
+| *mot yesharim* (Nm 23,10) | a morte dos justos | «Morra eu a morte dos justos», a forma conhecida | Nm 23, aprovado (19/11) |
+| *naḥash beya'aqov* (Nm 23,23) | agouro em Jacó | «Não há agouro em Jacó, nem adivinhação em Israel» | Nm 23, aprovado (19/11) |
+| *Shadday* | o Todo-Poderoso | Nm 24,4.16 «do que vê a visão do Todo-Poderoso»; vale para a Bíblia inteira (Gn 17,1 «Eu sou o Deus Todo-Poderoso», Êx 6,3, Rute, Jó, Salmos); a tradução de partida dizia «o Onipotente» em Números | Nm 24, aprovado (19/11) |
 | *shetum ha'ayin* (Nm 24,3.15) | o homem de olhos abertos | como o lecionário e a Bíblia grega («que vê de verdade»); a Vulgata lê «cujo olho está fechado»; sem nota (variante) | Nm 24 |
 | *nofel ugeluy enayim* | do que cai e tem os olhos descobertos | Nm 24,4.16; o lecionário diz «que cai, e seus olhos se abrem» | Nm 24 |
 | *da'at elyon* | o saber do Altíssimo | Nm 24,16; o lecionário diz «os pensamentos do Altíssimo», a Vulgata «doctrinam»; «ciência» hoje se entende de outro modo | Nm 24 |

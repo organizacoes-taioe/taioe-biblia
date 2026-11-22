@@ -42,11 +42,9 @@
   {"v": 30, "t": "Balac fez como Balaão dissera e ofereceu um novilho e um carneiro sobre cada altar."}
  ],
  "notas": [
-  {"id": "n01", "v": 1, "apos": "Balac", "texto": "Balac, rei de Moab, assustado com Israel, que acampava nas estepes do seu país, mandou buscar Balaão, adivinho famoso, para amaldiçoar o povo (cap. 22).", "origem": "nova: o leitor que abre o capítulo não sabe quem são os dois (como a nota de Maria, Nm 12,1, que o Gere aprovou)"},
-  {"id": "n02", "v": 7, "apos": "Arã", "texto": "Arã é a região da Síria e do alto Eufrates, de onde Balaão tinha vindo.", "origem": "nova: lugar pouco conhecido (como Faran, Nm 12,16); saiu a nota de língua do projeto antigo sobre *mashal*"},
-  {"id": "n03", "v": 13, "apos": "todo", "texto": "Na crença antiga, a maldição era lançada à vista daquele que se queria amaldiçoar; por isso Balac procura outro ponto de onde se veja o povo.", "origem": "revista do projeto antigo: ficou o costume, saiu a interpretação («como quem espera que a maldição dependa do ângulo»)"},
-  {"id": "n04", "v": 14, "apos": "Fasga", "texto": "O Fasga é um dos cumes dos montes de Moab, diante de Jericó; dele Moisés verá a terra prometida antes de morrer (Dt 34,1).", "origem": "nova: situa o leitor numa referência principal do texto (o Gere gosta delas, Nm 14,17)"},
-  {"id": "n05", "v": 21, "apos": "rei", "texto": "O rei aclamado é o próprio Senhor: Israel ainda não tinha rei.", "origem": "nova: sem ela o leitor procura um rei que não existe; saiu a nota do projeto antigo no v. 23 (interpretação)"}
+  {"id": "n02", "v": 7, "apos": "Arã", "texto": "Arã é a região da Síria e do alto Eufrates, de onde Balaão tinha vindo.", "origem": "nova: lugar pouco conhecido (como Faran, Nm 12,16); saiu a nota de língua do projeto antigo sobre *mashal*", "revista": true},
+  {"id": "n03", "v": 13, "apos": "todo", "texto": "Na crença antiga, a maldição era lançada à vista daquele que se queria amaldiçoar; por isso Balac procura outro ponto de onde se veja o povo.", "origem": "revista do projeto antigo: ficou o costume, saiu a interpretação («como quem espera que a maldição dependa do ângulo»)", "revista": true},
+  {"id": "n04", "v": 14, "apos": "Fasga", "texto": "O Fasga é um dos cumes dos montes de Moab, diante de Jericó; dele Moisés verá a terra prometida antes de morrer (Dt 34,1).", "origem": "nova: situa o leitor numa referência principal do texto (o Gere gosta delas, Nm 14,17)", "revista": true}
  ],
  "comentarios": {
   "1": {
@@ -166,29 +164,5 @@
     }
    ]
   }
- },
- "revisao": {
-  "escolhas": [
-   {
-    "id": "morte-dos-justos",
-    "ref": "Nm 23,10",
-    "titulo": "«Morra eu a morte dos justos» ou «a morte dos retos»?",
-    "contexto": "O hebraico diz *mot yesharim*. Pelas nossas escolhas, *yesharim* é «os retos» e *tsaddiqim* é «os justos», para distinguir as duas palavras quando vêm juntas, como nos Salmos. Aqui *yesharim* vem sozinho, e a frase é das mais citadas do Antigo Testamento na forma da Bíblia grega e da Vulgata («Moriatur anima mea morte iustorum»), que é a que os Padres comentam. O sentido é o mesmo. A escolha vale só para este versículo.",
-    "opcoes": [
-     {"id": "a", "texto": "«Morra eu a morte dos justos», a forma conhecida", "nota": "Igual à dos comentários e à tradição; *yashar* também é o justo, o que anda direito.", "recomendada": true},
-     {"id": "b", "texto": "«Morra eu a morte dos retos», como nas outras vezes de *yesharim*", "nota": "Mais coerente com a regra geral, mas desfaz a frase que todos conhecem."}
-    ]
-   },
-   {
-    "id": "agouro-em-jaco",
-    "ref": "Nm 23,23",
-    "titulo": "«Não há agouro em Jacó» ou «contra Jacó»?",
-    "contexto": "O hebraico diz *lo-nahash beya'aqov*, e a preposição *be-* pode ser «em» ou «contra». Com «contra», Balaão confessa que a sua arte não vale contra Israel (assim a tradução de partida, com nota); com «em», diz que em Israel não se praticam agouros, porque Deus lhe fala, e é assim que leem a Bíblia grega, a Vulgata («Non est augurium in Iacob») e os Padres, que tiram dali a condenação da superstição. «Em» guarda as duas leituras.",
-    "opcoes": [
-     {"id": "a", "texto": "«Não há agouro em Jacó, nem adivinhação em Israel»", "nota": "Ao pé da letra; deixa as duas leituras e combina com os comentários.", "recomendada": true},
-     {"id": "b", "texto": "«Não há agouro contra Jacó, nem adivinhação contra Israel»", "nota": "Mais claro na cena (o adivinho que não consegue amaldiçoar), mas fecha o sentido."}
-    ]
-   }
-  ]
  }
 }

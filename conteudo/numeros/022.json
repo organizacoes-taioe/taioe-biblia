@@ -57,10 +57,9 @@
   {"v": 41, "t": "Na manhã seguinte, Balac tomou Balaão e o fez subir às alturas de Baal; dali ele viu a extremidade do povo."}
  ],
  "notas": [
-  {"id": "n01", "v": 5, "apos": "junto ao Rio", "texto": "O Rio, sem outro nome, é o Eufrates: Balaão morava longe, no norte da Mesopotâmia.", "origem": "nova: lugar que o leitor não conhece (como Faran, Nm 12,16)"},
-  {"id": "n02", "v": 5, "texto": "Uma inscrição do século VIII antes de Cristo, achada em Deir Alla, na Jordânia, fala de um vidente chamado Balaão, filho de Beor.", "origem": "revista do projeto antigo: ficou só o dado histórico; saiu «o episódio inteiro assenta nesse paradoxo» (interpretação)"},
-  {"id": "n03", "v": 6, "apos": "este povo", "texto": "No mundo antigo, os reis chamavam adivinhos para amaldiçoar o inimigo antes da guerra: acreditava-se que a maldição deles tinha força para derrotá-lo.", "origem": "nova: costume que o leitor de hoje não tem e que explica o pedido de Balac e o preço da adivinhação (v. 7)"},
-  {"id": "n04", "v": 41, "apos": "alturas de Baal", "texto": "Lugar de culto a Baal, o deus dos cananeus e dos moabitas, no alto de um monte.", "origem": "nova: lugar que o leitor não conhece; dali Balaão fala no capítulo seguinte. Saíram do projeto antigo as notas dos vv. 19 (a avareza de Balaão), 22 (*satan*, nota de língua) e 28 (a ironia da jumenta), que interpretam e que os comentários tratam"}
+  {"id": "n01", "v": 5, "apos": "junto ao Rio", "texto": "O Rio, sem outro nome, é o Eufrates: Balaão morava longe, no norte da Mesopotâmia.", "origem": "nova: lugar que o leitor não conhece (como Faran, Nm 12,16)", "revista": true},
+  {"id": "n03", "v": 6, "apos": "este povo", "texto": "No mundo antigo, os reis chamavam adivinhos para amaldiçoar o inimigo antes da guerra: acreditava-se que a maldição deles tinha força para derrotá-lo.", "origem": "nova: costume que o leitor de hoje não tem e que explica o pedido de Balac e o preço da adivinhação (v. 7)", "revista": true},
+  {"id": "n04", "v": 41, "apos": "alturas de Baal", "texto": "Lugar de culto a Baal, o deus dos cananeus e dos moabitas, no alto de um monte.", "origem": "nova: lugar que o leitor não conhece; dali Balaão fala no capítulo seguinte. Saíram do projeto antigo as notas dos vv. 19 (a avareza de Balaão), 22 (*satan*, nota de língua) e 28 (a ironia da jumenta), que interpretam e que os comentários tratam", "revista": true}
  ],
  "comentarios": {
   "1": {
@@ -199,19 +198,5 @@
     }
    ]
   }
- },
- "revisao": {
-  "escolhas": [
-   {
-    "id": "multidao-moab",
-    "ref": "Nm 22,4",
-    "titulo": "*Haqqahal* na boca de Moab: «esta multidão» ou «esta assembleia»?",
-    "contexto": "O hebraico diz *yelahakhu haqqahal*, «a *qahal* vai lamber tudo ao nosso redor». A Taioé fixou *qahal* = «assembleia» (Nm 13, aprovado), que serve quando é Israel reunido diante do Senhor (Nm 20,4: «a assembleia do Senhor»). Aqui quem fala é Moab, com medo, e a palavra é o bando numeroso que se aproxima, como em Ez 23,46-47 e 38,4. A tradução de partida dizia «esta multidão»; a Vulgata não traduz a palavra; a Bíblia grega diz «esta reunião» (*synagōgḗ*).",
-    "opcoes": [
-     {"id": "a", "texto": "«Agora esta multidão vai lamber tudo o que está ao nosso redor»", "nota": "É o sentido na boca de Moab, e soa natural; «assembleia» fica para Israel reunido.", "recomendada": true},
-     {"id": "b", "texto": "«Agora esta assembleia vai lamber tudo o que está ao nosso redor»", "nota": "Guarda a palavra fixada para *qahal* em toda a Bíblia, mas soa estranho na boca do inimigo."}
-    ]
-   }
-  ]
  }
 }

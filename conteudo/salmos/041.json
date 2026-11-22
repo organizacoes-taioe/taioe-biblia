@@ -23,8 +23,8 @@
   {"v": 14, "l": ["Bendito seja o Senhor, Deus de Israel,", "de eternidade em eternidade.", "Amém! Amém!"], "np": 1}
  ],
  "notas": [
-  {"id": "n01", "v": 10, "apos": "o calcanhar", "texto": "Jesus cita este versículo na última ceia, ao anunciar que um dos Doze o entregaria (Jo 13,18).", "origem": "projeto antigo, mais curta"},
-  {"id": "n02", "v": 14, "texto": "Este versículo não é do salmo: é o louvor que fecha o primeiro dos cinco livros em que se divide o saltério (Salmos 1 a 41).", "origem": "revista do projeto antigo (resolve o estranhamento do fim; saiu a comparação com os cinco livros da Lei)"}
+  {"id": "n01", "v": 10, "apos": "o calcanhar", "texto": "Jesus cita este versículo na última ceia, ao anunciar que um dos Doze o entregaria (Jo 13,18).", "origem": "projeto antigo, mais curta", "revista": true},
+  {"id": "n02", "v": 14, "texto": "Este versículo não é do salmo: é o louvor que fecha o primeiro dos cinco livros em que se divide o saltério (Salmos 1 a 41).", "origem": "revista do projeto antigo (resolve o estranhamento do fim; saiu a comparação com os cinco livros da Lei)", "revista": true}
  ],
  "comentarios": {
   "1": {

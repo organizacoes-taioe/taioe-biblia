@@ -51,13 +51,11 @@
   {"v": 35, "t": "Feriram-no, a ele, aos seus filhos e a todo o seu povo, até não lhe restar nenhum sobrevivente; e tomaram posse da sua terra."}
  ],
  "notas": [
-  {"id": "n01", "v": 2, "apos": "anátema", "texto": "Votar uma cidade ao anátema era entregá-la ao Senhor pela destruição total, sem guardar nada dela como despojo.", "origem": "nova: o leitor de hoje entende «anátema» como maldição ou excomunhão (como em Nm 18,14)"},
-  {"id": "n02", "v": 3, "apos": "Horma", "texto": "Horma quer dizer «anátema». Foi até Horma que, quase quarenta anos antes, os cananeus tinham perseguido Israel, derrotado por subir sem a ordem do Senhor (14,44-45).", "origem": "revista do projeto antigo: situa o leitor na derrota de Nm 14; saiu «a nova vence» (interpretação)"},
-  {"id": "n03", "v": 5, "apos": "miserável", "texto": "O alimento é o maná, que o Senhor lhes dava cada manhã no deserto (Êx 16; Nm 11,7-9).", "origem": "nova: sem ela o leitor estranha «não há pão» seguido de «este alimento»"},
-  {"id": "n04", "v": 9, "apos": "ficava vivo", "texto": "Jesus fala desta serpente a Nicodemos: «Como Moisés levantou a serpente no deserto, assim é necessário que o Filho do Homem seja levantado» (Jo 3,14). Por isso a Igreja lê este trecho na festa da Exaltação da Santa Cruz, em 14 de setembro.", "origem": "revista do projeto antigo: a passagem de João é necessária para entender o peso do trecho, mais a liturgia; saiu «a cura não vem do bronze» (interpretação, que os comentários tratam)"},
-  {"id": "n05", "v": 14, "apos": "Senhor", "texto": "O livro das guerras do Senhor era uma coletânea de cantos antigos, hoje perdida; dela só restou este pedaço, e já não se sabe onde ficavam os lugares que ele nomeia.", "origem": "revista do projeto antigo: resolve o estranhamento do livro desconhecido e dos nomes obscuros; saiu a nota de língua"},
-  {"id": "n06", "v": 27, "apos": "poetas", "texto": "O canto lembra como Seon, a partir de Hesbon, tinha vencido Moab (v. 26); agora o próprio Seon foi vencido por Israel.", "origem": "revista do projeto antigo: sem ela não se sabe quem vence quem nos vv. 27-30; saiu «quem venceu o vencedor herda-lhe a canção»"},
-  {"id": "n07", "v": 29, "apos": "Camos", "texto": "Camos era o deus dos moabitas.", "origem": "revista do projeto antigo: o leitor não sabe quem é Camos; saiu a interpretação do canto. Saíram também as notas antigas do v. 6 (serafim: língua) e do v. 17 (cântico de cavadores: interpretação)"}
+  {"id": "n01", "v": 2, "apos": "anátema", "texto": "Votar uma cidade ao anátema era entregá-la ao Senhor pela destruição total, sem guardar nada dela como despojo.", "origem": "nova: o leitor de hoje entende «anátema» como maldição ou excomunhão (como em Nm 18,14)", "revista": true},
+  {"id": "n02", "v": 3, "apos": "Horma", "texto": "Horma quer dizer «anátema». Foi até Horma que, quase quarenta anos antes, os cananeus tinham perseguido Israel, derrotado por subir sem a ordem do Senhor (14,44-45).", "origem": "revista do projeto antigo: situa o leitor na derrota de Nm 14; saiu «a nova vence» (interpretação)", "revista": true},
+  {"id": "n04", "v": 9, "apos": "ficava vivo", "texto": "Jesus fala desta serpente a Nicodemos: «Como Moisés levantou a serpente no deserto, assim é necessário que o Filho do Homem seja levantado» (Jo 3,14). Por isso a Igreja lê este trecho na festa da Exaltação da Santa Cruz, em 14 de setembro.", "origem": "revista do projeto antigo: a passagem de João é necessária para entender o peso do trecho, mais a liturgia; saiu «a cura não vem do bronze» (interpretação, que os comentários tratam)", "revista": true},
+  {"id": "n06", "v": 27, "apos": "poetas", "texto": "O canto lembra como Seon, a partir de Hesbon, tinha vencido Moab (v. 26); agora o próprio Seon foi vencido por Israel.", "origem": "revista do projeto antigo: sem ela não se sabe quem vence quem nos vv. 27-30; saiu «quem venceu o vencedor herda-lhe a canção»", "revista": true},
+  {"id": "n07", "v": 29, "apos": "Camos", "texto": "Camos era o deus dos moabitas.", "origem": "revista do projeto antigo: o leitor não sabe quem é Camos; saiu a interpretação do canto. Saíram também as notas antigas do v. 6 (serafim: língua) e do v. 17 (cântico de cavadores: interpretação)", "revista": true}
  ],
  "comentarios": {
   "1": {
@@ -208,19 +206,5 @@
     }
    ]
   }
- },
- "revisao": {
-  "escolhas": [
-   {
-    "id": "serpentes-abrasadoras",
-    "ref": "Nm 21,6.8",
-    "titulo": "*Hannehashim hasserafim*: «as serpentes abrasadoras» ou «as serpentes venenosas»?",
-    "contexto": "O hebraico diz *hannehashim hasserafim* (v. 6) e, no v. 8, só *saraf*, «uma abrasadora»: a palavra vem de *saraf*, «queimar», a mordida que arde como fogo, e é a mesma dos serafins de Is 6. A Vulgata diz «ignitos serpentes» (v. 6) e «serpentem aeneum» (v. 8); a LXX, «as serpentes que matam». O lecionário da Missa diz «serpentes venenosas» no v. 6; no v. 8, «uma serpente abrasadora» na Quaresma e «uma serpente de bronze» na Exaltação da Santa Cruz. O projeto antigo já diz «serpentes abrasadoras» em Dt 8,15, a mesma expressão. Lourenço de Bríndisi comenta a palavra: «vere seraph Christus, totus ignis, totus ardor amoris».",
-    "opcoes": [
-     {"id": "a", "texto": "«as serpentes abrasadoras» (v. 6) e «uma serpente abrasadora» (v. 8)", "nota": "Guarda a palavra do hebraico, o eco com os serafins e Dt 8,15, e o v. 8 como o lecionário da Quaresma.", "recomendada": true},
-     {"id": "b", "texto": "«as serpentes venenosas» (v. 6) e «uma serpente de bronze» (v. 8)", "nota": "Como o lecionário da Exaltação; mais simples, mas o v. 8 antecipa o bronze, que o hebraico só diz no v. 9, e perde o fogo da mordida."}
-    ]
-   }
-  ]
  }
 }
