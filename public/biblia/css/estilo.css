@@ -1,25 +1,40 @@
 /* ---------------------------------------------------------------
    Bíblia Taioé — folha de estilo única
-   Papel e tinta, como a Biblioteca. Tema: o do navegador até o leitor
+   Cores e fontes escolhidas pelo Gere em 2026-11-22 (taioe/design-biblia/DESIGN.md):
+   Noto Serif, DM Serif Display e Inter, hospedadas em /biblia/fontes/ (licença OFL). Tema: o do navegador até o leitor
    trocar (data-tema no <html>, js/preferencias.js). Leitura longa: corpo
    20px (22px até 700px; o Gere pediu um pouco menor que 22/24, 19/10),
    em degraus pelo botão de cima (data-fonte), entrelinha 1,45,
    ~70 caracteres por linha; tamanhos secundários em em.
    --------------------------------------------------------------- */
 
+@font-face { font-family: "DM Serif Display"; font-style: normal; font-weight: 400; font-display: swap; src: url("../fontes/dm-serif-display-latin-ext.woff2") format("woff2"); unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+@font-face { font-family: "DM Serif Display"; font-style: normal; font-weight: 400; font-display: swap; src: url("../fontes/dm-serif-display-latin.woff2") format("woff2"); unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+@font-face { font-family: "Inter"; font-style: normal; font-weight: 400 700; font-display: swap; src: url("../fontes/inter-latin-ext.woff2") format("woff2"); unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+@font-face { font-family: "Inter"; font-style: normal; font-weight: 400 700; font-display: swap; src: url("../fontes/inter-latin.woff2") format("woff2"); unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+@font-face { font-family: "Noto Serif"; font-style: italic; font-weight: 400 700; font-display: swap; src: url("../fontes/noto-serif-italico-latin-ext.woff2") format("woff2"); unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+@font-face { font-family: "Noto Serif"; font-style: italic; font-weight: 400 700; font-display: swap; src: url("../fontes/noto-serif-italico-latin.woff2") format("woff2"); unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+@font-face { font-family: "Noto Serif"; font-style: normal; font-weight: 400 700; font-display: swap; src: url("../fontes/noto-serif-latin-ext.woff2") format("woff2"); unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+@font-face { font-family: "Noto Serif"; font-style: normal; font-weight: 400 700; font-display: swap; src: url("../fontes/noto-serif-latin.woff2") format("woff2"); unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
 :root {
   color-scheme: light;
-  --papel:        #fbf8f2;
-  --papel-2:      #f3eee3;
-  --tinta:        #25221d;
-  --tinta-suave:  #57514a;
-  --tinta-tenue:  #8b8377;
-  --realce:       #8a3b2e;
-  --realce-claro: #a8523f;
-  --linha:        #e3dccd;
-  --sombra:       0 1px 2px rgba(60,45,30,.05), 0 6px 20px rgba(60,45,30,.08);
-  --serif: "Iowan Old Style", "Palatino Linotype", Palatino, "Book Antiqua", Georgia, "Times New Roman", serif;
-  --sans:  ui-sans-serif, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  --papel:        #f7faf9;
+  --papel-2:      #ecf3f2;
+  --tinta:        #0c1a1b;
+  --tinta-suave:  #0c1a1b;
+  --tinta-tenue:  #00bdba;
+  --apagado:      #566265;
+  --vazio:        #9fa6ab;
+  --realce:       #81bf0d;
+  --realce-claro: #94c931;
+  --sobre-realce: #0c1a1b;
+  --linha:        #dbe5e4;
+  --sombra:       0 1px 2px rgba(12,26,27,.06), 0 6px 20px rgba(12,26,27,.09);
+  --serif: "Noto Serif", Georgia, "Times New Roman", serif;
+  --titulo: "DM Serif Display", "Noto Serif", Georgia, serif;
+  --sans:  Inter, ui-sans-serif, system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  --ajuste: .93;
   --medida: 33em;
   --raio: 10px;
   --corpo: 20px;
@@ -37,26 +52,32 @@
 @media (prefers-color-scheme: dark) {
   :root:not([data-tema="claro"]) {
     color-scheme: dark;
-    --papel:        #17161a;
+    --papel:        #010d0e;
     --papel-2:      #201f24;
-    --tinta:        #e7e1d6;
-    --tinta-suave:  #b5ad9f;
-    --tinta-tenue:  #878073;
-    --realce:       #e0917c;
-    --realce-claro: #eeb09f;
+    --tinta:        #ffffff;
+    --tinta-suave:  #ffffff;
+    --tinta-tenue:  #29dbd8;
+    --apagado:      #a3adb0;
+    --vazio:        #4a4d54;
+    --realce:       #d4ff00;
+    --realce-claro: #dfff40;
+    --sobre-realce: #010d0e;
     --linha:        #322f37;
     --sombra:       0 1px 2px rgba(0,0,0,.3), 0 6px 20px rgba(0,0,0,.3);
   }
 }
 :root[data-tema="escuro"] {
   color-scheme: dark;
-  --papel:        #17161a;
+  --papel:        #010d0e;
   --papel-2:      #201f24;
-  --tinta:        #e7e1d6;
-  --tinta-suave:  #b5ad9f;
-  --tinta-tenue:  #878073;
-  --realce:       #e0917c;
-  --realce-claro: #eeb09f;
+  --tinta:        #ffffff;
+  --tinta-suave:  #ffffff;
+  --tinta-tenue:  #29dbd8;
+  --apagado:      #a3adb0;
+  --vazio:        #4a4d54;
+  --realce:       #d4ff00;
+  --realce-claro: #dfff40;
+  --sobre-realce: #010d0e;
   --linha:        #322f37;
   --sombra:       0 1px 2px rgba(0,0,0,.3), 0 6px 20px rgba(0,0,0,.3);
 }
@@ -65,7 +86,7 @@
 html { -webkit-text-size-adjust: 100%; scroll-padding-top: 4em; }
 body {
   margin: 0; background: var(--papel); color: var(--tinta);
-  font-family: var(--serif); font-size: calc(var(--corpo) * var(--escala)); line-height: 1.45;
+  font-family: var(--serif); font-size: calc(var(--corpo) * var(--escala) * var(--ajuste)); line-height: 1.45;
   text-rendering: optimizeLegibility;
 }
 html:not([data-js]) .so-js { display: none !important; }
@@ -76,12 +97,12 @@ main:focus { outline: none; }
 .pular { position: absolute; left: -9999px; background: var(--papel-2); padding: .4em .8em; border-radius: var(--raio); }
 .pular:focus { left: 1em; top: .5em; z-index: 50; }
 .pequeno { font-size: .78em; }
-.apagado { color: var(--tinta-tenue); }
+.apagado { color: var(--apagado); }
 
 /* ---------------- topo ---------------- */
 .topo { position: sticky; top: 0; z-index: 20; background: var(--papel); border-bottom: 1px solid var(--linha); }
 .topo-int {
-  max-width: calc(var(--corpo) * var(--escala) * 33 + 2em); margin: 0 auto; padding: .3em 1em;
+  max-width: calc(var(--corpo) * var(--escala) * var(--ajuste) * 33 + 2em); margin: 0 auto; padding: .3em 1em;
   display: flex; align-items: center; gap: .8em; font-family: var(--sans); font-size: calc(var(--corpo) * .62);
 }
 /* com uma leitura aberta, a barra de cima ganha um fio da cor de realce */
@@ -119,7 +140,7 @@ main:focus { outline: none; }
   padding: 0; width: min(20em, calc(100vw - 2em)); font-size: calc(var(--corpo) * .78); color: var(--tinta);
   background: var(--papel); border: 1px solid var(--linha); border-radius: var(--raio); box-shadow: var(--sombra);
 }
-.pergunta-leitura::backdrop { background: rgba(20, 15, 10, .35); }
+.pergunta-leitura::backdrop { background: rgba(1, 13, 14, .4); }
 .pergunta-caixa { padding: .9em 0 .4em; }
 .marca { font-weight: 600; letter-spacing: .1em; text-transform: uppercase; color: var(--tinta); text-decoration: none; flex: none; display: inline-flex; align-items: center; gap: .6rem; }
 /* A logo (taioe/logo/LOGO.md, a 14e): máscara pintada com a cor do texto, para valer em todos os temas.
@@ -140,7 +161,7 @@ main { padding: 0 1em 4em; }
 .voltar { font-family: var(--sans); font-size: .68em; margin: 1.1em 0 0; }
 .voltar a { text-decoration: none; display: inline-block; padding: .3em 0; }
 .voltar a:hover { text-decoration: underline; }
-h1 { font-weight: 400; line-height: 1.15; }
+h1 { font-family: var(--titulo); font-weight: 400; line-height: 1.15; letter-spacing: .02em; }
 
 .capa { text-align: center; padding-top: 2.5em; }
 .capa h1 { font-size: 2.3em; margin: 0; letter-spacing: .02em; }
@@ -155,8 +176,8 @@ h1 { font-weight: 400; line-height: 1.15; }
 .livros a, .livros .vazio { white-space: nowrap; }
 .livros a { color: var(--realce); font-weight: 600; text-decoration: none; }
 .livros a:hover { text-decoration: underline; }
-.livros .vazio { color: var(--tinta-tenue); }
-.livros .sep { color: var(--tinta-tenue); opacity: .6; }
+.livros .vazio { color: var(--vazio); }
+.livros .sep { color: var(--vazio); opacity: .6; }
 
 .caminhos { display: flex; flex-direction: column; gap: .6em; text-align: left; }
 .caminho, .tema {
@@ -174,8 +195,8 @@ h1 { font-weight: 400; line-height: 1.15; }
 .grade-caps { display: grid; grid-template-columns: repeat(auto-fill, minmax(2.4em, 1fr)); gap: .35em; margin-top: 1em; font-family: var(--sans); font-size: .72em; }
 .cap { display: flex; align-items: center; justify-content: center; aspect-ratio: 1; border: 1px solid var(--linha); border-radius: 6px; text-decoration: none; color: var(--tinta); }
 a.cap { border-color: var(--realce); color: var(--realce); font-weight: 600; }
-a.cap:hover { background: var(--realce); color: var(--papel); }
-.cap.vazio { color: var(--tinta-tenue); opacity: .45; }
+a.cap:hover { background: var(--realce); color: var(--sobre-realce); }
+.cap.vazio { color: var(--vazio); }
 
 /* ---------------- capítulo ---------------- */
 .cab-cap { margin: .6em 0 1em; }
@@ -186,7 +207,7 @@ a.cap:hover { background: var(--realce); color: var(--papel); }
   display: inline-block; font-family: var(--sans); font-size: .66em; font-weight: 600; letter-spacing: .02em;
   border: 1px solid var(--realce); color: var(--realce); border-radius: 999px; padding: .55em 1.1em; text-decoration: none;
 }
-.botao:hover { background: var(--realce); color: var(--papel); }
+.botao:hover { background: var(--realce); color: var(--sobre-realce); }
 .sub-trecho { font-size: 1.05em; font-weight: 600; margin: 1.8em 0 .4em; }
 .sub-trecho + .ver-coment { margin-top: 0; }
 
@@ -216,7 +237,7 @@ a.cap:hover { background: var(--realce); color: var(--papel); }
   font-family: var(--sans); font-size: .55em; vertical-align: super; line-height: 0;
   text-decoration: none; font-style: italic; padding: 0 .12em; margin-left: .05em;
 }
-.nota-ref:hover, .nota-ref.ativa { background: var(--realce); color: var(--papel); border-radius: 3px; }
+.nota-ref:hover, .nota-ref.ativa { background: var(--realce); color: var(--sobre-realce); border-radius: 3px; }
 
 .notas { margin-top: 2.4em; border-top: 1px solid var(--linha); padding-top: .8em; font-size: .8em; }
 .notas h2 { font-family: var(--sans); font-size: .72em; letter-spacing: .14em; text-transform: uppercase; color: var(--tinta-tenue); font-weight: 600; margin: 0 0 .8em; }
@@ -264,7 +285,7 @@ a.cap:hover { background: var(--realce); color: var(--papel); }
 }
 .abrir::after { transform: translate(-50%, -50%) rotate(90deg); }
 .comentario[open] .abrir { background: var(--realce); }
-.comentario[open] .abrir::before { background: var(--papel); }
+.comentario[open] .abrir::before { background: var(--sobre-realce); }
 .comentario[open] .abrir::after { display: none; }
 .comentario[open] { padding-bottom: 1.2em; }
 .comentario-texto { margin-top: .4em; }
@@ -284,7 +305,7 @@ a.cap:hover { background: var(--realce); color: var(--papel); }
 .leitura-acoes { display: flex; flex-wrap: wrap; align-items: center; gap: .3em; margin-top: .4em; font-family: var(--sans); font-size: .6em; }
 .acao { border: 1px solid var(--linha); background: transparent; color: var(--tinta-suave); border-radius: 999px; padding: .35em .9em; font: inherit; cursor: pointer; }
 .acao:hover { border-color: var(--realce); color: var(--realce); }
-.etiqueta { color: var(--papel); background: var(--realce); border-radius: 999px; padding: .2em .7em; margin-right: .3em; font-weight: 600; }
+.etiqueta { color: var(--sobre-realce); background: var(--realce); border-radius: 999px; padding: .2em .7em; margin-right: .3em; font-weight: 600; }
 .nova-leitura { margin: 0 0 1.4em; }
 .nova-leitura label { display: block; font-family: var(--sans); font-size: .62em; letter-spacing: .14em; text-transform: uppercase; color: var(--tinta-tenue); font-weight: 600; margin-bottom: .4em; }
 .nova-linha { display: flex; gap: .5em; align-items: center; }
@@ -297,3 +318,9 @@ a.cap:hover { background: var(--realce); color: var(--papel); }
 
 .rodape { border-top: 1px solid var(--linha); text-align: center; font-family: var(--sans); font-size: .6em; color: var(--tinta-tenue); padding: 1.2em 1em 2em; }
 .rodape a { color: var(--tinta-tenue); }
+
+/* ---------------- no claro, destaque e rótulos em negrito (o Gere, 17/11) ---------------- */
+@media (prefers-color-scheme: light) {
+  :root:not([data-tema="escuro"]) :is(a:not(.marca, .caminho, .tema, .leitura-abrir), .botao, .menu-item, .trilha, .subtitulo, .testamento h2, .notas h2, .nota-painel-ref, .sobretitulo, .menu-titulo, .nova-leitura label, .passo .dir, .tema-ref, .tema-n, .num-grega, .nota-v, .rodape) { font-weight: 700; }
+}
+:root[data-tema="claro"] :is(a:not(.marca, .caminho, .tema, .leitura-abrir), .botao, .menu-item, .trilha, .subtitulo, .testamento h2, .notas h2, .nota-painel-ref, .sobretitulo, .menu-titulo, .nova-leitura label, .passo .dir, .tema-ref, .tema-n, .num-grega, .nota-v, .rodape) { font-weight: 700; }

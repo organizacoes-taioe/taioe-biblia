@@ -84,6 +84,9 @@ function pagina({ titulo, descricao, inicio = false, trilha = [], corpo, classe 
 <meta name="color-scheme" content="light dark">
 <link rel="icon" href="${BASE}favicon.svg" type="image/svg+xml">
 <script src="${PREF}"></script>
+<link rel="preload" href="${BASE}fontes/noto-serif-latin.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="${BASE}fontes/dm-serif-display-latin.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="${BASE}fontes/inter-latin.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="${CSS}">
 <script defer src="${JS}"></script>
 <script defer src="${NOTAS}"></script>
@@ -416,7 +419,7 @@ caps.forEach((c, i) => {
 });
 
 // O que foi gerado antes e não é mais (capítulo ou tema que saiu) é apagado.
-const FIXOS = new Set(['css', 'js', 'favicon.svg', '404.html']);
+const FIXOS = new Set(['css', 'fontes', 'js', 'favicon.svg', '404.html']);
 function htmlsExistentes(dir, rel = '') {
   const out = [];
   for (const e of fs.readdirSync(dir, { withFileTypes: true })) {
