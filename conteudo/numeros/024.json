@@ -41,12 +41,12 @@
   {"v": 25, "t": "Balaão levantou-se, partiu e voltou para o seu lugar; e Balac também se foi pelo seu caminho."}
  ],
  "notas": [
-  {"id": "n01", "v": 7, "apos": "Agag", "texto": "Agag era o nome dos reis de Amalec; um deles foi vencido por Saul, o primeiro rei de Israel (1Sm 15).", "origem": "nova: lembra quem é Agag; saíram do projeto antigo a nota do v. 3 (o olho aberto ou fechado: língua e variante) e a do v. 5 (o verso na oração da sinagoga: liturgia judaica, não a da Missa)"},
-  {"id": "n02", "v": 17, "apos": "Israel", "texto": "A Missa lê este oráculo (vv. 2-7.15-17) no Advento, na segunda-feira da terceira semana, como anúncio de Cristo.", "origem": "revista do projeto antigo: ficou a liturgia da Missa; saiu Bar Kokba (história fora do texto) e a leitura messiânica, que os comentários tratam"},
-  {"id": "n03", "v": 20, "apos": "nações", "texto": "Amalec, povo do deserto do sul, foi o primeiro a atacar Israel depois da saída do Egito (Ex 17,8-16).", "origem": "nova: sem ela o leitor não entende «a primeira das nações»; saiu do projeto antigo a nota do v. 9 (a bênção de Abraão: associação com outro texto)"},
-  {"id": "n04", "v": 21, "apos": "queneu", "texto": "Os queneus eram um povo nômade do sul de Canaã, aparentado com a família do sogro de Moisés (Jz 1,16).", "origem": "nova: povo pouco conhecido"},
-  {"id": "n05", "v": 22, "apos": "Assur", "texto": "Assur é a Assíria, o grande império da Mesopotâmia, que séculos depois levaria cativos muitos povos, Israel entre eles.", "origem": "nova: o leitor de hoje não sabe que Assur é a Assíria"},
-  {"id": "n06", "v": 24, "apos": "Quitim", "texto": "Quitim é Chipre e, por extensão, as ilhas e as costas do Mediterrâneo, a oeste.", "origem": "revista do projeto antigo: saiu «o último oráculo alarga-se…» (interpretação)"}
+  {"id": "n01", "v": 7, "apos": "Agag", "texto": "Agag era o nome dos reis de Amalec; um deles foi vencido por Saul, o primeiro rei de Israel (1Sm 15).", "origem": "nova: lembra quem é Agag; saíram do projeto antigo a nota do v. 3 (o olho aberto ou fechado: língua e variante) e a do v. 5 (o verso na oração da sinagoga: liturgia judaica, não a da Missa)", "revista": true},
+  {"id": "n02", "v": 17, "apos": "Israel", "texto": "A Missa lê este oráculo (vv. 2-7.15-17) no Advento, na segunda-feira da terceira semana, como anúncio de Cristo.", "origem": "revista do projeto antigo: ficou a liturgia da Missa; saiu Bar Kokba (história fora do texto) e a leitura messiânica, que os comentários tratam", "revista": true},
+  {"id": "n03", "v": 20, "apos": "nações", "texto": "Amalec, povo do deserto do sul, foi o primeiro a atacar Israel depois da saída do Egito (Ex 17,8-16).", "origem": "nova: sem ela o leitor não entende «a primeira das nações»; saiu do projeto antigo a nota do v. 9 (a bênção de Abraão: associação com outro texto)", "revista": true},
+  {"id": "n04", "v": 21, "apos": "queneu", "texto": "Os queneus eram um povo nômade do sul de Canaã, aparentado com a família do sogro de Moisés (Jz 1,16).", "origem": "nova: povo pouco conhecido", "revista": true},
+  {"id": "n05", "v": 22, "apos": "Assur", "texto": "Assur é a Assíria, o grande império da Mesopotâmia, que séculos depois levaria cativos muitos povos, Israel entre eles.", "origem": "nova: o leitor de hoje não sabe que Assur é a Assíria", "revista": true},
+  {"id": "n06", "v": 24, "apos": "Quitim", "texto": "Quitim é Chipre e, por extensão, as ilhas e as costas do Mediterrâneo, a oeste.", "origem": "revista do projeto antigo: saiu «o último oráculo alarga-se…» (interpretação)", "revista": true}
  ],
  "comentarios": {
   "1": {
@@ -200,20 +200,5 @@
     }
    ]
   }
- },
- "revisao": {
-  "escolhas": [
-   {
-    "id": "todo-poderoso",
-    "ref": "Nm 24,4.16",
-    "titulo": "*Shadday*: «o Todo-Poderoso», «o Onipotente» ou «o Poderoso»?",
-    "contexto": "*Shadday*, nome antigo de Deus, aparece aqui pela primeira vez na Bíblia Taioé e volta 48 vezes (Gn 17,1 «Eu sou o Deus *Shadday*», Ex 6,3, Rute, Jó, Salmos). A tradução de partida dizia «o Todo-Poderoso» no Gênesis e «o Onipotente» aqui; a Vulgata diz «Omnipotens», a Bíblia grega «o Deus», o lecionário desta leitura (Advento) diz «o Poderoso». O sentido exato do nome é incerto; a tradição o lê como o Deus que tudo pode. A escolha vale para a Bíblia inteira.",
-    "opcoes": [
-     {"id": "a", "texto": "«o Todo-Poderoso» («do que vê a visão do Todo-Poderoso»)", "nota": "A forma mais conhecida em português, como o Credo («Deus Pai todo-poderoso»), e a do Gênesis na tradução de partida.", "recomendada": true},
-     {"id": "b", "texto": "«o Onipotente»", "nota": "Ao pé da letra da Vulgata; mais erudita."},
-     {"id": "c", "texto": "«o Poderoso», como o lecionário", "nota": "Igual à leitura da Missa no Advento, mas fraco: qualquer rei é poderoso."}
-    ]
-   }
-  ]
  }
 }

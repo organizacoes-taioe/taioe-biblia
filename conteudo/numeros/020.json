@@ -45,10 +45,10 @@
  "notas": [
   {"id": "n01", "v": 1, "apos": "primeiro mês", "texto": "Entre o capítulo anterior e este passam quase quarenta anos: é o primeiro mês do último ano no deserto (33,38). A geração condenada em Cades (14,29-35) já morreu, e Israel volta ao mesmo lugar.", "origem": "revista do projeto antigo: sem ela o leitor não vê o salto de quarenta anos; ficou a referência a 33,38 e a 14,29-35", "revista": true},
   {"id": "n02", "v": 9, "apos": "Senhor", "texto": "Diante do Senhor: na tenda do encontro, onde tinha sido guardada a vara de Aarão que floresceu (17,25).", "origem": "nova: localiza a vara (o Gere gosta das notas que situam o leitor nas referências do texto, Nm 14,17)", "revista": true},
-  {"id": "n03", "v": 13, "apos": "santificou", "texto": "Em hebraico, «Meriba» quer dizer «contenda», e o verbo de «se santificou» soa como «Cades», o nome do lugar.", "origem": "revista do projeto antigo: sem ela não se vê a razão do nome (como Eva, Gn 3,20); saiu a comparação com Taberá e Quibrot-Hataavá"},
-  {"id": "n04", "v": 14, "apos": "irmão Israel", "texto": "Edom é o povo que descende de Esaú, irmão de Jacó, que é Israel (Gn 25,25-30; 36,1).", "origem": "revista do projeto antigo: sem ela não se entende o «teu irmão»; saiu «a recusa dará em inimizade de séculos» (interpretação)"},
-  {"id": "n05", "v": 17, "apos": "estrada real", "texto": "A estrada real era a grande rota das caravanas, que atravessava de sul a norte as terras a leste do mar Morto e do Jordão.", "origem": "nova: contexto geográfico que o leitor não tem"},
-  {"id": "n06", "v": 29, "apos": "trinta dias", "texto": "O luto costumava durar sete dias (Gn 50,10); o de trinta dias, como depois o de Moisés (Dt 34,8), era pelos grandes.", "origem": "nova: costume que o leitor não tem; saíram do projeto antigo a nota do v. 10 (a falta de Moisés: interpretação, que os comentários tratam) e a do v. 28 (o sacerdócio que passa: interpretação)"}
+  {"id": "n03", "v": 13, "apos": "santificou", "texto": "Em hebraico, «Meriba» quer dizer «contenda», e o verbo de «se santificou» soa como «Cades», o nome do lugar.", "origem": "revista do projeto antigo: sem ela não se vê a razão do nome (como Eva, Gn 3,20); saiu a comparação com Taberá e Quibrot-Hataavá", "revista": true},
+  {"id": "n04", "v": 14, "apos": "irmão Israel", "texto": "Edom é o povo que descende de Esaú, irmão de Jacó, que é Israel (Gn 25,25-30; 36,1).", "origem": "revista do projeto antigo: sem ela não se entende o «teu irmão»; saiu «a recusa dará em inimizade de séculos» (interpretação)", "revista": true},
+  {"id": "n05", "v": 17, "apos": "estrada real", "texto": "A estrada real era a grande rota das caravanas, que atravessava de sul a norte as terras a leste do mar Morto e do Jordão.", "origem": "nova: contexto geográfico que o leitor não tem", "revista": true},
+  {"id": "n06", "v": 29, "apos": "trinta dias", "texto": "O luto costumava durar sete dias (Gn 50,10); o de trinta dias, como depois o de Moisés (Dt 34,8), era especial.", "origem": "nova: costume que o leitor não tem; saíram do projeto antigo a nota do v. 10 (a falta de Moisés: interpretação, que os comentários tratam) e a do v. 28 (o sacerdócio que passa: interpretação)", "revista": true}
  ],
  "comentarios": {
   "1": {
@@ -207,6 +207,5 @@
     }
    ]
   }
- },
- "revisao": {}
+ }
 }

@@ -121,3 +121,15 @@ de onde veio. Ler antes de preparar um capítulo (`CAPITULO.md`, etapas 2 a 4).
 - 2026-11-01, Nm 18,20 (a nota da herança da tribo de Levi, excluída): «Desnecessário». Como no Sl 33,
   a herança não leva nota: o versículo já diz que Levi não tem parte na terra.
 - 2026-11-03, Nm 19,7 (a nota de «impuro», aprovada): «depois temos que levar essa nota para a primeira vez que aparecer essa palavra nesse contexto no livro». A nota que explica um conceito que volta muitas vezes fica na primeira vez em que ele aparece no livro (anotado em `pesquisa/numeros/proximos.md`, Nm 1–5).
+- 2026-11-17 e 19, notas excluídas em Nm 21 e 23: o maná de Nm 21,5 («Essa é desnecessária»), o livro das
+  guerras do Senhor, 21,14 («Não ajuda em nada»), o resumo de quem é Balac, 23,1 («Nota óbvia»), e «o rei
+  aclamado é o Senhor», 23,21. Nota que recapitula o que o leitor acabou de ler, ou que só diz que não se sabe,
+  não entra.
+- 2026-11-18, Nm 22,5 (a inscrição de Deir Alla, excluída): «É interessante, mas não ajuda em nada na leitura
+  nem na compreensão mais ampla da Bíblia nem da liturgia». Curiosidade arqueológica fica de fora; a nota tem
+  de servir à leitura, à Bíblia ou à liturgia.
+- 2026-11-18, Nm 22,4 («esta multidão», aprovada): «Essas soluções que estamos dando têm que ser lembradas, mas
+  não podemos nos prender a elas, ignorando os contextos variados em que as palavras aparecem». O `ESCOLHAS.md`
+  é ponto de partida, não regra cega: em cada lugar, conferir se o contexto pede outra palavra.
+- 2026-11-16, Nm 20,29 (o luto de trinta dias, alterada): «era pelos grandes» → «era especial». Não afirmar
+  na nota mais do que o texto sustenta.

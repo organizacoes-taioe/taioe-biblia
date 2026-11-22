@@ -23,7 +23,7 @@
   {"v": 14, "l": ["Afasta de mim o teu olhar, para que eu respire,", "antes que eu parta e já não exista."]}
  ],
  "notas": [
-  {"id": "n01", "v": 1, "apos": "Iditun", "texto": "Iditun foi um dos mestres de canto do Templo no tempo de Davi.", "origem": "revista do projeto antigo (lembra quem é Iditun); saíram as notas do v. 6 (*hevel*, de língua) e do v. 14 (interpretação)"}
+  {"id": "n01", "v": 1, "apos": "Iditun", "texto": "Iditun foi um dos mestres de canto do Templo no tempo de Davi.", "origem": "revista do projeto antigo (lembra quem é Iditun); saíram as notas do v. 6 (*hevel*, de língua) e do v. 14 (interpretação)", "revista": true}
  ],
  "comentarios": {
   "1": {
@@ -101,19 +101,5 @@
     }
    ]
   }
- },
- "revisao": {
-  "escolhas": [
-   {
-    "id": "calei-me-ate-do-bem",
-    "ref": "Sl 39,3",
-    "titulo": "«calei-me até do bem» ou «calei-me, sem proveito»?",
-    "contexto": "O hebraico diz, ao pé da letra, «calei-me do bem» (*hehesheti mittov*). A Vulgata e a Bíblia grega leem «calei-me até das coisas boas» (*silui a bonis*), e assim os Padres: Santo Ambrósio abre o *De officiis* com este versículo (o silêncio que se guarda até das palavras boas, por prudência). Muitas Bíblias modernas entendem «calei-me, mas sem proveito», isto é, o silêncio não aliviou a dor. A tradução de partida dizia «sem proveito».",
-    "opcoes": [
-     {"id": "a", "texto": "«Emudeci, fiquei em silêncio, calei-me até do bem, / e a minha dor se agravou.»", "nota": "Perto da letra, como a Vulgata e os Padres que comentam o versículo.", "recomendada": true},
-     {"id": "b", "texto": "«Emudeci e me calei, sem proveito, / e a minha dor se agravou.»", "nota": "A leitura de muitas Bíblias modernas e da tradução de partida."}
-    ]
-   }
-  ]
  }
 }

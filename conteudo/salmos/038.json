@@ -32,7 +32,7 @@
   {"v": 23, "l": ["Apressa-te em socorrer-me,", "Senhor, minha salvação."]}
  ],
  "notas": [
-  {"id": "n01", "v": 1, "texto": "É o terceiro dos sete salmos penitenciais, que a Igreja reza desde a Antiguidade para pedir perdão dos pecados.", "origem": "revista do projeto antigo (saiu a explicação de *lehazkir*, de língua); saiu a nota do v. 2 (a associação com o Sl 6)"}
+  {"id": "n01", "v": 1, "texto": "É o terceiro dos sete salmos penitenciais, que a Igreja reza desde a Antiguidade para pedir perdão dos pecados.", "origem": "revista do projeto antigo (saiu a explicação de *lehazkir*, de língua); saiu a nota do v. 2 (a associação com o Sl 6)", "revista": true}
  ],
  "comentarios": {
   "1": {

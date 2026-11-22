@@ -27,7 +27,7 @@
   {"v": 18, "l": ["Eu sou pobre e necessitado,", "mas o Senhor cuida de mim.", "Tu és o meu auxílio e o meu libertador;", "meu Deus, não tardes."]}
  ],
  "notas": [
-  {"id": "n01", "v": 8, "apos": "Eis que venho", "texto": "A Carta aos Hebreus (10,5-9) põe os vv. 7-9 na boca de Cristo, quando entra no mundo para fazer a vontade do Pai. A Missa da Anunciação do Senhor canta estes versos.", "origem": "revista do projeto antigo (saiu a variante grega «preparaste-me um corpo»; entrou a Missa da Anunciação)"}
+  {"id": "n01", "v": 8, "apos": "Eis que venho", "texto": "A Carta aos Hebreus (10,5-9) põe os vv. 7-9 na boca de Cristo, quando entra no mundo para fazer a vontade do Pai. A Missa da Anunciação do Senhor canta estes versos.", "origem": "revista do projeto antigo (saiu a variante grega «preparaste-me um corpo»; entrou a Missa da Anunciação)", "revista": true}
  ],
  "comentarios": {
   "1": {
