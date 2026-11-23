@@ -32,6 +32,17 @@ De `003/achados-latinos.json` e `003/achados-gregos.json`, sobre Josué que intr
 
 `lourenco-q2-dom3-og-gigante-vencido-por-josue` diz que Og foi vencido por Josué; foi sob Moisés (Dt 3,1-3). Não usar sem cortar.
 
+## Achados na pesquisa de Dt 5–9 (23/11, pistas para depois)
+
+- **Dt 10**: Agostinho, *QH* V, q. 15 (Dt 10,1-4, as segundas tábuas: Deus e o homem escrevem); Rábano, *In Dt* XV; Máximo de Turim, *Hom.* 44 (o mesmo sermão já está em Dt 9). Francisco, audiência de 7/11/2018 (Dt 10,14).
+- **Dt 15**: Ambrósio, *De bono mortis*, cita Dt 15,9 («Attende tibi») com Dt 8,12.
+- **Dt 25**: Ruperto, *De Trin., In Dt* I, 34 (as quarenta chicotadas e o jejum de Moisés).
+- **Dt 29,5**: Rábano e Isidoro tratam as vestes e as sandálias junto com Dt 8,4 (o Isidoro ficou fora de Dt 8).
+- **Dt 30,19**: Francisco, audiência de 12/6/2019.
+- **Êx 20 e 31** (ao entrar o Êxodo): Agostinho, *Contra Adimantum* VII e XVI e *Ep.* 55 (o sábado); as *Collationes* de Tomás sobre os mandamentos (dois trechos já em Dt 5); Lápide sobre o sábado (um trecho em Dt 5). Os excertos já usados em Dt 5 não podem se repetir no Êxodo.
+- **Sl 106,23**: Agostinho, *Enarr.* 105, 21; Bernardo, *SC* 76 (a intercessão de Moisés; o Catecismo 2577 já está em Dt 9).
+- Autores achados e não usados em Dt 9, por serem novos: Remígio de Lião (*De damnatione generali*, Dt 9,19-20: a ira aplacada pela oração), Franco de Affligem (*De gratia Dei* IV, Dt 9,1-6), Marko Marulić (humanista, não santo).
+- Busca por frase no Corpus Corporum: `https://mlat.uzh.ch/php_modules/fulltext_search.php?&query="frase"&offset=0&limit=30&order_by=&index_type=s`.
 ## Dt 1 e 2 (achado depois de os capítulos prontos; `003/relatorio-orientais.md`)
 
 - Efrém sobre Dt 1,37-38: Deus parece tirar algo de Moisés ao engrandecer Josué, mas Josué é menor que Moisés (Assemani I, comentário a Dt 1).

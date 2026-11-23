@@ -1,0 +1,77 @@
+{
+ "1": [
+  {
+   "id": "nao-por-tua-justica",
+   "titulo": "«Não digas: Foi pela minha justiça»: a vitória é dom de Deus",
+   "versiculos": [
+    4,
+    5,
+    6
+   ],
+   "itens": [
+    "teodoreto-quaest-dt-7-nem-pelas-proprias-justicas",
+    "cassiano-coll-5-15-nao-digas-foi-minha-justica",
+    "jeronimo-adv-pel-1-36-salvos-pela-misericordia-dt-9"
+   ]
+  },
+  {
+   "id": "juramento",
+   "titulo": "«Para cumprir a palavra que jurou a teus pais»: a promessa dada de graça",
+   "versiculos": [
+    5,
+    6
+   ],
+   "itens": [
+    "tomas-st-i-ii-q98a4-a-promessa-e-gratuita-dt-9-5",
+    "ruperto-in-jo-1-gratia-pro-gratia-dt-9-6",
+    "ambrosio-cain-1-7-28-testamento-e-graca-dt-9-4"
+   ]
+  }
+ ],
+ "2": [
+  {
+   "id": "jejum",
+   "titulo": "Quarenta dias sem comer pão: o jejum de Moisés e o de Cristo",
+   "versiculos": [
+    9,
+    18
+   ],
+   "itens": [
+    "ruperto-in-mt-6-o-jejum-de-moises-dt-9-18",
+    "maximo-turim-hom-44-jejum-de-moises-e-de-cristo",
+    {
+     "id": "bento-xvi-aud-2011-06-01-jejum-de-moises-dt-9-9",
+     "texto": "O povo de Israel estava ao pé do Sinai, enquanto Moisés, no monte, esperava o dom das tábuas da Lei, jejuando quarenta dias e quarenta noites (cf. Êx 24,18; Dt 9,9). O número quarenta tem valor simbólico e significa a totalidade da experiência, ao passo que o jejum indica que a vida vem de Deus, e é ele quem a sustenta."
+    }
+   ]
+  },
+  {
+   "id": "dedo-de-deus",
+   "titulo": "«Escritas pelo dedo de Deus»: as tábuas e o Espírito Santo",
+   "versiculos": [
+    10
+   ],
+   "itens": [
+    "agostinho-spir-litt-16-28-o-dedo-de-deus-e-o-espirito",
+    "ruperto-div-off-10-10-o-dedo-de-deus-e-o-espirito"
+   ]
+  }
+ ],
+ "4": [
+  {
+   "id": "intercessao",
+   "titulo": "A intercessão de Moisés: pelo povo e pela honra de Deus",
+   "versiculos": [
+    25,
+    26,
+    27,
+    28,
+    29
+   ],
+   "itens": [
+    "bento-xvi-aud-2011-06-01-intercessor-entre-dois-amores",
+    "catecismo-2577-moises-intercessor-argumentos-da-oracao"
+   ]
+  }
+ ]
+}

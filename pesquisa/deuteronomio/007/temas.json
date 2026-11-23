@@ -1,0 +1,102 @@
+{
+ "1": [
+  {
+   "id": "anatema",
+   "titulo": "O anátema das nações e a destruição dos ídolos: o que vale para o cristão",
+   "versiculos": [
+    1,
+    2,
+    5
+   ],
+   "itens": [
+    "tomas-ist-q105a3-ad4-cidades-prometidas-dt7",
+    "newman-pps3-13-dt7-mesmo-animo-nao-a-mesma-pena",
+    {
+     "id": "agostinho-serm62-17-destruir-idolos-so-com-poder",
+     "texto": "Dizemos isto à vossa caridade: não façais essas coisas quando não está em vosso poder fazê-las. É próprio de homens perversos, dos furiosos circunceliões, enfurecer-se onde não têm poder e correr à morte sem motivo. […] «Quando a terra vos for dada em poder» (primeiro diz «em poder», e só depois diz o que se deve fazer), «destruireis os seus altares, quebrareis os seus bosques sagrados e despedaçareis todas as suas estelas». Quando receberdes o poder, fazei-o. Onde não nos foi dado o poder, não o fazemos; onde foi dado, não deixamos de fazê-lo.",
+     "original": "Hoc enim dicimus Charitati vestrae, ne faciatis ista, quando in potestate vestra non est, ut faciatis illud. Pravorum hominum est, furiosorum Circumcellionum, et ubi potestatem non habent saevire, et velle mori properant sine causa. [...] Cum data vobis fuerit terra in potestatem (prius ait, in potestatem, et sic dixit quae facienda sunt), aras eorum, inquit, destruetis, lucos eorum comminuetis, et omnes titulos eorum confringetis. Cum acceperitis potestatem, hoc facite. Ubi nobis non est data potestas, non facimus; ubi data est, non praetermittimus."
+    }
+   ]
+  },
+  {
+   "id": "casamentos",
+   "titulo": "«Não farás casamentos com eles»: o perigo de ser afastado de Deus",
+   "versiculos": [
+    3,
+    4
+   ],
+   "itens": [
+    "teodoreto-qdt6-casamento-com-vizinhos-e-eleicao-dt7",
+    "cirilo-adoracao-14-alianca-com-os-profanos-dt7",
+    "lapide-dt7-3-casar-com-convertidos-rahab"
+   ]
+  }
+ ],
+ "2": [
+  {
+   "id": "propriedade",
+   "titulo": "«Povo santo, propriedade particular»: o povo a quem Deus se ligou",
+   "versiculos": [
+    6
+   ],
+   "itens": [
+    "jeronimo-in-tit-2-14-povo-periusios-dt7-6",
+    "francisco-cotidie-2017-06-23-fomos-escolhidos-dt7-6"
+   ]
+  },
+  {
+   "id": "porque-vos-amou",
+   "titulo": "«Não por serdes mais numerosos, mas porque o Senhor vos amou»",
+   "versiculos": [
+    7,
+    8
+   ],
+   "itens": [
+    "lourenco-dominicalia-xix-eleicao-sem-meritos-dt7-7",
+    "francisco-cotidie-2017-06-23-escolhe-os-pequeninos-dt7-7"
+   ]
+  },
+  {
+   "id": "deus-fiel",
+   "titulo": "O Deus fiel, que abençoa os que o amam e retribui aos que o odeiam",
+   "versiculos": [
+    9,
+    10
+   ],
+   "itens": [
+    "teodoreto-qdt6-promessas-temporais-aos-imperfeitos-dt7",
+    {
+     "id": "lapide-dt7-10-retribui-na-propria-pessoa",
+     "texto": "«E retribui logo aos que o odeiam». Em lugar de «logo», o hebraico diz «no rosto deles», isto é, enquanto ainda vivem: como se dissesse que Deus não adia para os filhos a pena devida aos pecados dos pais, mas a aplica aos próprios pais, enquanto vivem. [...] O sentido genuíno, portanto, é o da pena dos ímpios, como se dissesse: «Cuidai, ó hebreus, de não ofender a Deus, porque, assim como Deus dá bens, por mil gerações, aos que o amam, assim pune logo os que o odeiam», como se viu na pena dos que adoraram o bezerro de ouro (Êx 32), dos que cobiçaram carnes (Nm 11), na de Coré, Datã e Abiram (Nm 16) e na do murmúrio de Maria (Nm 12)."
+    }
+   ]
+  }
+ ],
+ "4": [
+  {
+   "id": "pouco-a-pouco",
+   "titulo": "«Pouco a pouco»: os vícios vencidos aos poucos, sem confiar nas próprias forças",
+   "versiculos": [
+    21,
+    22
+   ],
+   "itens": [
+    "cassiano-conf-v14-pancarpo-vencer-os-mais-fortes-dt7-22",
+    "rabano-dt-i13-pouco-a-pouco-feras-espirituais-dt7-22",
+    "rabano-dt-i13-inimigos-pequenos-guardam-humildade-dt7-22"
+   ]
+  },
+  {
+   "id": "ouro-dos-idolos",
+   "titulo": "«Não cobiçarás a prata nem o ouro» dos ídolos destruídos",
+   "versiculos": [
+    25,
+    26
+   ],
+   "itens": [
+    "agostinho-ep47-3-ouro-dos-idolos-dt7-25",
+    "lapide-dt7-25-26-ouro-dos-idolos-e-cherem"
+   ]
+  }
+ ]
+}

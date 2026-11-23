@@ -1,0 +1,96 @@
+{
+ "1": [
+  {
+   "id": "prova",
+   "titulo": "«Para te humilhar e te pôr à prova»: a fome, o maná e o pai que educa",
+   "versiculos": [
+    2,
+    3,
+    4,
+    5
+   ],
+   "itens": [
+    "agostinho-qh5-13-provar-para-fazer-conhecer-dt8-2",
+    "lapide-dt-8-3-deus-pasce-com-o-manna-quem-aflige",
+    "teodoreto-quaest-dt-6-mana-roupa-e-o-pai-que-educa"
+   ]
+  },
+  {
+   "id": "memoria",
+   "titulo": "«Lembra-te de todo o caminho»: a memória do deserto",
+   "versiculos": [
+    2
+   ],
+   "itens": [
+    "francisco-hom-2014-06-19-corpus-christi-memoria-do-caminho",
+    "francisco-eg-13-memoria-deuteronomica"
+   ]
+  },
+  {
+   "id": "tentador",
+   "titulo": "«Nem só de pão vive o homem»: a resposta de Jesus ao tentador",
+   "versiculos": [
+    3
+   ],
+   "itens": [
+    "hilario-in-mt-3-3-nao-so-de-pao-dt8-3",
+    "origenes-hom-lc-29-o-pao-do-diabo-e-o-pao-da-palavra",
+    "crisostomo-hom-mt-13-deus-alimenta-ate-com-a-palavra"
+   ]
+  },
+  {
+   "id": "pao-da-alma",
+   "titulo": "A palavra de Deus, pão de que a alma vive",
+   "versiculos": [
+    3
+   ],
+   "itens": [
+    "cipriano-ep-76-2-pao-pouco-e-roupa-que-falta",
+    "antonio-de-padua-sermo-dom1-quar-sabor-da-sabedoria",
+    "leao-serm-40-4-mais-fome-da-palavra-que-do-pao"
+   ]
+  },
+  {
+   "id": "mana-eucaristia",
+   "titulo": "O maná e o pão da vida: a palavra e o corpo de Cristo",
+   "versiculos": [
+    3
+   ],
+   "itens": [
+    "rabano-in-dt-3-mana-carne-de-cristo-e-roupa-nova",
+    "bernardo-omn-sanct-1-3-alimentados-por-obras-e-palavras",
+    "catecismo-2835-fome-de-pao-e-fome-da-palavra"
+   ]
+  }
+ ],
+ "3": [
+  {
+   "id": "fartura",
+   "titulo": "«Guarda-te de esquecer»: a fartura que faz esquecer quem a deu",
+   "versiculos": [
+    11,
+    12,
+    13,
+    14
+   ],
+   "itens": [
+    "ambrosio-hex-6-8-51-na-fartura-lembra-que-tudo-recebeste",
+    "jeronimo-in-ez-5-saciedade-e-esquecimento-de-deus-dt8-11",
+    "jeronimo-adv-jov-2-15-saciedade-e-esquecimento-dt8-12",
+    "cassiano-conf-5-15-na-vitoria-nao-se-exalte-o-coracao"
+   ]
+  },
+  {
+   "id": "a-forca-vem-de-deus",
+   "titulo": "«A minha força me deu esta riqueza»: é Deus quem dá a força",
+   "versiculos": [
+    17,
+    18
+   ],
+   "itens": [
+    "agostinho-gr-lib-arb-7-16-a-forca-vem-de-deus-dt8-17",
+    "lapide-dt-8-17-deus-deixa-apertar-para-confiar-nele"
+   ]
+  }
+ ]
+}

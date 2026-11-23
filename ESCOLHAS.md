@@ -67,6 +67,7 @@ Vale para pessoas, povos e lugares, também nos comentários dos Padres.
 - Gn 2: Éden (como o lecionário); Píson, Havilá, Geon, Tigre, Assíria e Eufrates, que a liturgia não lê, como no projeto antigo; *Kush* = Etiópia (2,13), como em Nm 12.
   Caat, Felet e Eliab (Nm 16), que a liturgia não lê, ficaram como no projeto antigo (aprovado).
 - Dt 4: Israel e o Senhor como o lecionário (Dt 4,1-2.6-8; 4,1.5-9; 4,32-40); Baal-Fogor e Bet-Fogor (como Nm 25), Horeb, Bosor, Ramot, Galaad, Golã, Basã, Seon, Hesbon, Og, Aroer, Arnon, o monte Sion (o Hermon, com nota: não é Sião), Arabá, o mar da Arabá e o Fasga, que a liturgia não lê, como no projeto antigo.
+- Dt 5–9: Horeb, Abraão, Isaac, Jacó, o faraó e Aarão, como o lecionário; os hititas (Nm 13), os amorreus, os cananeus e os jebuseus, como antes; os gergeseus, os ferezeus e os heveus (como Js 24,11), Enac, Tabera, Quibrot-Hataavá e Cades-Barne, como no projeto antigo; **Massa**, sem acento (Dt 6,16; 9,22), como o lecionário de Êx 17,7 e o Sl 95 da liturgia, ao lado de Meriba (a tradução de partida dizia «Massá»).
 
 ## Vocabulário
 
@@ -341,6 +342,16 @@ Vale para pessoas, povos e lugares, também nos comentários dos Padres.
 | *rav-lakhem* (Dt 1,6; 2,3) | já basta o tempo que | «Já basta o tempo que rodeastes esta montanha», o eco de Dt 1,6 | Dt 2 |
 | *naḥal* (Dt 2) | torrente; no v. 36, vale | a torrente que se atravessa (Zared, Arnon, Jaboc); «a cidade que fica no vale»; Nm 21,12 diz «vale de Zared» | Dt 2 |
 | *sagvá mimmennu* (Dt 2,36) | alta demais para nós | «não houve cidade alta demais para nós»; a tradução de partida dizia «inexpugnável» | Dt 2 |
+| *hammitsva* (singular) | o mandamento; todo o mandamento | Dt 5,31; 6,1.25; 7,11; 8,1: o mandamento único, que reúne «os estatutos e as normas de direito»; a tradução de partida dizia «os mandamentos» | Dt 5–8 |
+| *mibbet 'avadim* | da casa da servidão | Dt 5,6; 6,12; 7,8; 8,14 | projeto antigo |
+| *'eved* (Dt 5,14-15) | servo | «Lembra-te de que foste servo na terra do Egito», o eco com «para que o teu servo e a tua serva descansem como tu»; em 6,21 «Éramos escravos do faraó» | Dt 5 |
+| *mi khol-basar* (Dt 5,26) | quem há, entre todos os mortais | | Dt 5 |
+| *nissá* (Deus, sujeito) | pôr à prova | Dt 8,2.16, como o lecionário; com Deus por objeto, «tentar» (Dt 6,16 «Não tentareis o Senhor vosso Deus») | Dt 8 |
+| *tirosh* | vinho novo | Dt 7,13 | Dt 7 |
+| *moqesh*, *yaqosh* | laço; cair no laço | Dt 7,16.25 | Dt 7 |
+| *lo al-hallehem levaddo yihye ha'adam* | nem só de pão vive o homem | Dt 8,3; «mas de tudo o que sai da boca do Senhor» (o hebraico), a confirmar («de toda palavra», a Bíblia grega, o lecionário e Mt 4,4) | Dt 8, a confirmar |
+| *qeshe-oref* | um povo de cabeça dura | Dt 9,6.13, como o lecionário (Êx 32,9; 34,9); a confirmar («de dura cerviz», a tradução de partida); vale para Êx 32–34, Dt 10,16; 31,27 e At 7,51 | Dt 9, a confirmar |
+| *yagorti* (Dt 9,19) | tive pavor | | Dt 9 |
 | *nasa* (Dt 1,9.12.31) | carregar | «Não posso carregar-vos sozinho» (v. 9) e o Senhor que «te carregou, como um homem carrega o seu filho» (v. 31): o eco entre Moisés e Deus; a tradução de partida dizia «suportar» e «levar» | Dt 1 |
 | *torah* / *massa* (Dt 1,12) | fardo / carga | «o vosso fardo, a vossa carga e as vossas contendas» | Dt 1 |
 | *vidu'im* (Dt 1,13.15) | reconhecidos | «homens sábios, entendidos e reconhecidos nas vossas tribos»; a tradução de partida dizia «experimentados» | Dt 1 |
@@ -367,3 +378,4 @@ Vale para pessoas, povos e lugares, também nos comentários dos Padres.
 - *Nilham*: «pelejar» em Nm 31,7.27.28.42 e 32,27, «combater» em Nm 21–22 e Dt 1: uniformizar em «combater» numa próxima revisão de Números.
 - *Aiṓn* = «século» em 1Cor 1,20; 2,6–8 («os príncipes deste século»), mas «mundo» em 2Cor 4,4, Gl 1,4 e Ef 2,2: decidir com o Gere ao entrar 1 Coríntios («século» hoje se entende como cem anos).
 - 2Cor 5–7 (02/11): *splánchna* («entranhas» → «afeto»), *gnôsis* («ciência» → «conhecimento») e *ápistos* («infiel» → «incrédulo») no resto do NT ao entrarem; *metánoia* conforme a escolha de 2Cor 7,10.
+- Dt 6 e 9 (23/11): «Massá» → «Massa» em Êx 17,7 e no Sl 95 ao entrarem; *qeshe-oref* conforme a escolha de Dt 9,6.

@@ -1,0 +1,590 @@
+[
+ {
+  "autor": "São Tomás de Aquino",
+  "autor_id": "tomas-de-aquino",
+  "datas": "1225–1274",
+  "titulo_autor": "dominicano, Doutor da Igreja",
+  "id": "tomas-ist-q105a3-ad4-cidades-prometidas-dt7",
+  "obra": "Suma Teológica (Summa Theologiae)",
+  "passagem": "I-II, q. 105, a. 3, ad 4 (sobre Dt 7,1-2; cita Dt 9,4)",
+  "edicao": "Corpus Thomisticum (ed. Leonina)",
+  "trecho": "1",
+  "versiculos": [
+   1,
+   2
+  ],
+  "lingua": "la",
+  "original": "Ad quartum dicendum quod circa civitates hostium quaedam distinctio adhibebatur. Quaedam enim erant remotae, non de numero illarum urbium quae eis erant repromissae, et in talibus urbibus expugnatis occidebantur masculi, qui pugnaverant contra populum Dei; mulieribus autem et infantibus parcebatur. Sed in civitatibus vicinis, quae erant eis repromissae omnes mandabantur interfici, propter iniquitates eorum priores, ad quas puniendas dominus populum Israel quasi divinae iustitiae executorem mittebat, dicitur enim Deut. IX, quia illae egerunt impie, introeunte te deletae sunt.",
+  "fonte_url": "https://www.corpusthomisticum.org/sth2098.html",
+  "traducao_pt": "Quanto às cidades dos inimigos, aplicava-se certa distinção. Algumas ficavam longe e não estavam entre as cidades que lhes tinham sido prometidas; nessas, depois de tomadas, matavam-se os homens que haviam lutado contra o povo de Deus, mas poupavam-se as mulheres e as crianças. Nas cidades vizinhas, porém, que lhes tinham sido prometidas, mandava-se matar a todos, por causa das iniquidades anteriores delas, que o Senhor queria punir enviando o povo de Israel como executor da justiça divina; por isso se diz em Dt 9: «Porque eles agiram com impiedade, foram destruídos à tua entrada». As árvores frutíferas, por sua vez, mandava-se conservá-las pela utilidade do próprio povo, a cujo domínio a cidade e o seu território haviam de ser sujeitos.",
+  "temas": [
+   "o anátema das sete nações",
+   "Israel executor da justiça divina"
+  ],
+  "resumo": "Tomás explica por que as cidades prometidas deviam ser destruídas por inteiro: Israel é o instrumento da justiça de Deus contra a iniquidade anterior delas, não conquistador por mérito próprio.",
+  "relevancia": 3,
+  "direitos": "domínio público",
+  "nota": "O texto cita Dt 9,4 («Porque eles agiram com impiedade…»); se o pesquisador de Dt 9 usar este trecho, fica só em um dos dois capítulos."
+ },
+ {
+  "autor": "Santo Agostinho",
+  "autor_id": "agostinho",
+  "datas": "354–430",
+  "titulo_autor": "bispo de Hipona, Doutor da Igreja",
+  "id": "agostinho-serm62-17-destruir-idolos-so-com-poder",
+  "obra": "Sermões sobre as Escrituras (Sermones de Scripturis)",
+  "passagem": "Sermão 62, 17 (sobre Dt 7,5)",
+  "edicao": "PL 38 (Sermo 62, 17)",
+  "trecho": "1",
+  "versiculos": [
+   5
+  ],
+  "lingua": "la",
+  "original": "Hostes nos dicunt idolorum suorum. Sic praestet Deus, et det omnia in potestate, quomodo dedit quod fractum est. Hoc enim dicimus Charitati vestrae, ne faciatis ista, quando in potestate vestra non est, ut faciatis illud. Pravorum hominum est, furiosorum Circumcellionum, et ubi potestatem non habent saevire, et velle mori properant sine causa. Audistis quae vobis legimus, omnes qui nuper in Mappalibus adfuistis. Cum data vobis fuerit terra in potestatem (prius ait, in potestatem, et sic dixit quae facienda sunt), aras eorum, inquit, destruetis, lucos eorum comminuetis, et omnes titulos eorum confringetis. Cum acceperitis potestatem, hoc facite. Ubi nobis non est data potestas, non facimus; ubi data est, non praetermittimus.",
+  "fonte_url": "https://mlat.uzh.ch/browser/cps_2.AugHip.SeDeSc",
+  "traducao_pt": "Os pagãos nos chamam inimigos dos seus ídolos. Que Deus nos conceda, então, ter tudo em nosso poder, como já pôs em nosso poder o que foi quebrado. Dizemos isto à vossa caridade: não façais essas coisas quando não está em vosso poder fazê-las. É próprio de homens perversos, dos furiosos circunceliões, enfurecer-se onde não têm poder e correr à morte sem motivo. Ouvistes o que vos lemos, todos os que há pouco estivestes em Mapália: «Quando a terra vos for dada em poder» (primeiro diz «em poder», e só depois diz o que se deve fazer), «destruireis os seus altares, quebrareis os seus bosques sagrados e despedaçareis todas as suas estelas». Quando receberdes o poder, fazei-o. Onde não nos foi dado o poder, não o fazemos; onde foi dado, não deixamos de fazê-lo.",
+  "temas": [
+   "derrubar os altares dos ídolos",
+   "a ordem de Moisés não autoriza violência privada"
+  ],
+  "resumo": "Agostinho lê Dt 7,5 como ordem a quem recebeu autoridade legítima sobre a terra; aos fiéis sem esse poder proíbe a violência dos circunceliões.",
+  "relevancia": 3,
+  "direitos": "domínio público"
+ },
+ {
+  "autor": "Santo Agostinho",
+  "autor_id": "agostinho",
+  "datas": "354–430",
+  "titulo_autor": "bispo de Hipona, Doutor da Igreja",
+  "id": "agostinho-ep47-3-ouro-dos-idolos-dt7-25",
+  "obra": "Cartas (Epistulae)",
+  "passagem": "Carta 47, 3 (a Publícola; sobre Dt 7,25-26)",
+  "edicao": "PL 33 (Ep. 47, 3)",
+  "trecho": "4",
+  "versiculos": [
+   25,
+   26
+  ],
+  "lingua": "la",
+  "original": "Et cum templa, idola, luci, et si quid hujusmodi, data potestate evertuntur, quamvis manifestum est cum id agimus, non ea nos honorare, sed potius detestari, ideo tamen in usus nostros privatos duntaxat et proprios non debemus inde aliquid usurpare, ut appareat nos pietate ista destruere, non avaritia. [...] Quapropter etiam illud quod in Deuteronomio scriptum est: Non concupisces argentum vel aurum illorum, nec accipies inde tibi, ne excedas propter illud: quoniam abominatio est Domino Deo tuo: et non conferes exsecramentum in domum tuam, et eris anathema, sicut et illud est, et offensione offendes, et coinquinatione inquinaberis abominatione illa, quia anathema est; satis apparet aut ipsos privatos usus in talibus esse prohibitos, aut ne sic inde aliquid inferatur in domum ut honoretur: tunc est enim abominatio et exsecratio; non cum talium sacrilegus honor apertissima destructione subvertitur.",
+  "fonte_url": "https://mlat.uzh.ch/browser/cps_2.AugHip.Episto36",
+  "traducao_pt": "Quando os templos, os ídolos, os bosques sagrados e coisas semelhantes são derrubados com a autoridade que se tem para isso, embora seja manifesto que, ao fazê-lo, não os honramos, mas antes os detestamos, nem por isso devemos apropriar-nos de algo deles para nosso uso privado e particular, a fim de que se veja que os destruímos por piedade, não por avidez. [...] Por isso, também o que está escrito no Deuteronômio: «Não cobiçarás a prata nem o ouro deles, nem tomarás deles coisa alguma para ti, para não caíres em falta por causa disso, pois é abominação para o Senhor teu Deus; e não levarás o objeto execrável para tua casa, e serás anátema como ele, e cairás em ofensa, e te contaminarás com aquela abominação, porque é anátema» — isso mostra com bastante clareza que ficam proibidos os usos privados de tais coisas, ou que se leve para casa algo delas para ser honrado; pois então é que há abominação e execração, não quando o culto sacrílego dessas coisas é desfeito pela destruição mais manifesta.",
+  "temas": [
+   "o ouro dos ídolos",
+   "destruir sem se apropriar"
+  ],
+  "resumo": "Agostinho explica que Dt 7,25-26 proíbe lucrar com os ídolos ou guardá-los para honrá-los; ao destruir o culto falso, a pessoa não deve ficar com o despojo.",
+  "relevancia": 3,
+  "direitos": "domínio público"
+ },
+ {
+  "autor": "São Jerônimo",
+  "autor_id": "jeronimo",
+  "datas": "c. 347–420",
+  "titulo_autor": "presbítero, Doutor da Igreja",
+  "id": "jeronimo-in-tit-2-14-povo-periusios-dt7-6",
+  "obra": "Comentário à Carta a Tito (Commentaria in Epistolam ad Titum)",
+  "passagem": "livro II, sobre Tt 2,14 (cita Dt 7,6)",
+  "edicao": "PL 26, 587–588",
+  "trecho": "2",
+  "versiculos": [
+   6
+  ],
+  "lingua": "la",
+  "original": "Saepe mecum considerans quid sibi vellet verbum περιούσιον, et a sapientibus saeculi hujus interrogans si forte alicubi legissent, numquam invenire potui qui mihi quid significaret, exponeret. Quamobrem compulsus sum ad vetus instrumentum recurrere, unde arbitrabar et Apostolum sumpsisse quod dixerat. Hebraeus enim ex Hebraeis, et secundum legem Pharisaeus, utique id ponebat in Epistola sua, quod in veteri Testamento legisse se noverat. In Deuteronomio itaque reperi: Quoniam populus sanctus tu Domino Deo tuo, et in te complacuit Domino Deo tuo; ut esses ei in populum περιούσιον, ex omnibus populis qui sunt super faciem terrae. [...] Recte igitur Christus Jesus, magnus Deus noster atque Salvator, redemit nos sanguine suo, ut sibi Christianum populum peculiarem faceret, qui peculiaris tunc esse posset, si bonorum operum aemulator existeret.",
+  "fonte_url": "https://mlat.uzh.ch/browser/cps_2.HieStr.CoInEpA16",
+  "traducao_pt": "Muitas vezes, ao considerar comigo o que queria dizer a palavra περιούσιον («periúsios»), e ao perguntar aos sábios deste mundo se por acaso a tinham lido em algum lugar, nunca pude encontrar quem me explicasse o que significava. Por isso me vi obrigado a recorrer ao Antigo Testamento, de onde eu julgava que o Apóstolo tinha tomado a expressão. Pois ele, hebreu filho de hebreus e fariseu segundo a Lei, certamente punha em sua carta o que sabia ter lido no Antigo Testamento. No Deuteronômio, então, encontrei: «Porque és povo santo para o Senhor teu Deus, e em ti o Senhor teu Deus se comprouve, para seres para ele um povo περιούσιον, dentre todos os povos que há sobre a face da terra». [...] Com razão, portanto, Cristo Jesus, nosso grande Deus e Salvador, nos remiu com o seu sangue para fazer de si um povo cristão peculiar; e este só poderia ser peculiar se se mostrasse zeloso de boas obras.",
+  "temas": [
+   "povo peculiar",
+   "a escolha de Israel e a Igreja"
+  ],
+  "resumo": "Jerônimo busca a origem de «povo peculiar» (Tt 2,14) em Dt 7,6: o povo escolhido, agora o povo cristão remido, é peculiar quando zeloso de boas obras.",
+  "relevancia": 3,
+  "direitos": "domínio público"
+ },
+ {
+  "autor": "São Beda, o Venerável",
+  "autor_id": "beda",
+  "datas": "c. 673–735",
+  "titulo_autor": "monge de Jarrow, Doutor da Igreja",
+  "id": "beda-hex-ii-matrimonio-com-estrangeiros-dt7-3",
+  "obra": "Hexaemeron (Hexaemeron)",
+  "passagem": "livro II, sobre Gn 6,1-4 (cita Dt 7,3-4)",
+  "edicao": "PL 91, 83",
+  "trecho": "1",
+  "versiculos": [
+   3,
+   4
+  ],
+  "lingua": "la",
+  "original": "Videtur ergo quia generatio stirpis Seth, quandiu cum progenie Cain non est commixta, illibatam suae castitatis normam servaverit; at postquam in concupiscentiam lapsa nequam feminarum maledictae se soboli conjunxit, tunc et ipsa vitiato sobriae mentis decore, maledictionis ejus coeperit existere consors. Denique in lege diligenter ac sedulo praecipitur filiis Israel, ne cum alienigenis misceant connubia, ne seducat, inquiens, filia ejus filium tuum, et sequantur deos eorum.",
+  "fonte_url": "https://mlat.uzh.ch/browser/cps_2.Beda.Hexaem2",
+  "traducao_pt": "Parece, portanto, que a linhagem de Set, enquanto não se misturou com a descendência de Caim, conservou intacta a regra da sua castidade; mas depois que, caindo na concupiscência, se uniu à prole maldita de mulheres perversas, perdeu o decoro de uma mente sóbria e passou a participar da maldição delas. Por fim, a Lei ordena com diligência e zelo aos filhos de Israel que não contraiam matrimônio com estrangeiros: «para que a filha deles não seduza o teu filho, e sigam os deuses deles».",
+  "temas": [
+   "casamento e fidelidade",
+   "a proibição de misturar-se com idólatras"
+  ],
+  "resumo": "Beda lê Dt 7,3-4 junto de Gn 6: a ruína começa quando os fiéis se unem, em casamento, aos que não servem a Deus.",
+  "relevancia": 1,
+  "direitos": "domínio público"
+ },
+ {
+  "autor": "Rábano Mauro",
+  "autor_id": "rabano",
+  "datas": "c. 780–856",
+  "titulo_autor": "abade de Fulda, arcebispo de Mogúncia",
+  "id": "rabano-dt-i13-vicio-expulso-virtude-ocupa-dt7-1",
+  "obra": "Exposição sobre o Deuteronômio (Enarratio super Deuteronomium)",
+  "passagem": "livro I, cap. 13 (sobre Dt 7,1)",
+  "edicao": "PL 108, 867–868",
+  "trecho": "1",
+  "versiculos": [
+   1
+  ],
+  "lingua": "la",
+  "original": "Quod vero istarum perniciosarum gentium regiones salubriter possidere praecipimur, ita intelligitur. Habet enim unumquodcunque vitium in corde nostro stationem propriam. Sed si cum Israelis populo, id est virtutibus contra se dimicantibus fuerint vitia superata, locum quem sibi in corde nostro concupiscentiae vel fornicationis spiritus retentabat, deinceps castitas obtinebit. Quem furor ceperat, patientia vindicabit. Quem tristitia mortem operans occupaverat, salutaris ex pleno gaudio laetitia possidebit. Quem acedia vastabat, incipit excolere fortitudo. Quem superbia vastabat, incipit excolere humilitas. Et ita singulis vitiis expulsis, eorum loca, id est animae, vident Deum.",
+  "fonte_url": "https://mlat.uzh.ch/browser/cps_2.RabMau.EnSuDe",
+  "traducao_pt": "Quanto ao preceito de tomarmos proveitosamente posse das terras dessas nações perniciosas, entende-se assim: cada vício tem no nosso coração a sua própria sede. Mas, quando os vícios forem vencidos junto com o povo de Israel, isto é, pelas virtudes que lutam contra eles, o lugar que no nosso coração o espírito da concupiscência ou da fornicação mantinha será doravante ocupado pela castidade. O que o furor havia tomado, a paciência o reivindicará. O que a tristeza que produz a morte ocupara, a alegria salutar, nascida de plena satisfação, possuirá. O que a acídia devastava, a fortaleza começa a cultivar. O que a soberba devastava, a humildade começa a cultivar. E assim, expulsos um a um os vícios, os seus lugares, isto é, as almas, veem a Deus.",
+  "temas": [
+   "a terra conquistada é o coração",
+   "o vício expulso dá lugar à virtude"
+  ],
+  "resumo": "Rábano lê a posse da terra como a conquista do próprio coração: onde um vício é vencido, a virtude contrária passa a morar.",
+  "relevancia": 2,
+  "direitos": "domínio público"
+ },
+ {
+  "autor": "Rábano Mauro",
+  "autor_id": "rabano",
+  "datas": "c. 780–856",
+  "titulo_autor": "abade de Fulda, arcebispo de Mogúncia",
+  "id": "rabano-dt-i13-vespoes-sao-o-temor-dt7-20",
+  "obra": "Exposição sobre o Deuteronômio (Enarratio super Deuteronomium)",
+  "passagem": "livro I, cap. 13 (sobre Dt 7,20)",
+  "edicao": "PL 108, 868",
+  "trecho": "4",
+  "versiculos": [
+   20
+  ],
+  "lingua": "la",
+  "original": "Non legitur alicubi in historia Veteris Testamenti, quod crabrones vel vespas miserit Dominus ante filios Israel in hostes eorum, sed per haec animalia, quae aculeis pugnant, designat timoris compunctiones eorum in hostes, quo terrebantur atque fugabantur.",
+  "fonte_url": "https://mlat.uzh.ch/browser/cps_2.RabMau.EnSuDe",
+  "traducao_pt": "Não se lê em parte alguma da história do Antigo Testamento que o Senhor tenha enviado vespões ou vespas contra os inimigos dos filhos de Israel; mas, por meio desses animais, que combatem com o ferrão, designa as picadas do temor que eles sentiam diante de Israel, com que eram aterrorizados e postos em fuga.",
+  "temas": [
+   "os vespões",
+   "o temor que Deus infunde nos inimigos"
+  ],
+  "resumo": "Rábano nota que a história não registra vespões e entende a promessa como o terror de Deus que faz os inimigos fugirem.",
+  "relevancia": 2,
+  "direitos": "domínio público"
+ },
+ {
+  "autor": "Rábano Mauro",
+  "autor_id": "rabano",
+  "datas": "c. 780–856",
+  "titulo_autor": "abade de Fulda, arcebispo de Mogúncia",
+  "id": "rabano-dt-i13-pouco-a-pouco-feras-espirituais-dt7-22",
+  "obra": "Exposição sobre o Deuteronômio (Enarratio super Deuteronomium)",
+  "passagem": "livro I, cap. 13 (sobre Dt 7,22)",
+  "edicao": "PL 108, 868",
+  "trecho": "4",
+  "versiculos": [
+   22
+  ],
+  "lingua": "la",
+  "original": "Quodve dicit de gentibus non delendis pariter, ne forte bestiae multiplicarentur contra illos, cavendum esse nobis ostendit, ne forte expulsis peccatis a carne nostra, et repente superans accedant contra nos bestiae spiritales, hoc est jactantia aut superbia, vel certe vana gloria, quae subrepserint, majori labore extirpabuntur [...] At per hoc quodcunque vitium expulerimus, statim in loco illius plantetur virtus, ne forte expulsus spiritus, iterum revertens, inveniat domum nostram vacantem.",
+  "fonte_url": "https://mlat.uzh.ch/browser/cps_2.RabMau.EnSuDe",
+  "traducao_pt": "O que diz sobre as nações que não devem ser destruídas todas de uma vez, para que as feras não se multipliquem contra elas, mostra-nos que devemos nos precaver: expulsos os pecados da nossa carne, não surjam de repente, para nos atacar, feras espirituais, isto é, a jactância, a soberba ou a vanglória, que, uma vez insinuadas, serão arrancadas com maior trabalho. [...] Por isso, qualquer vício que expulsemos, ponha-se logo no lugar dele uma virtude, para que o espírito expulso, voltando, não encontre a nossa casa vazia.",
+  "temas": [
+   "pouco a pouco",
+   "o vazio deixado pelo vício vencido"
+  ],
+  "resumo": "Rábano vê no «pouco a pouco» um aviso: o vício expulso deve ser logo substituído por virtude, para que não ocupem o lugar a vanglória e a soberba.",
+  "relevancia": 3,
+  "direitos": "domínio público",
+  "nota": "Leitura conferida só no Corpus Corporum (texto digital); o trecho omitido com [...] diz que os vícios carnais são mais fáceis de arrancar que a soberba, e a leitura «quia carnalia vitia» ali parece lacunosa."
+ },
+ {
+  "autor": "Rábano Mauro",
+  "autor_id": "rabano",
+  "datas": "c. 780–856",
+  "titulo_autor": "abade de Fulda, arcebispo de Mogúncia",
+  "id": "rabano-dt-i13-inimigos-pequenos-guardam-humildade-dt7-22",
+  "obra": "Exposição sobre o Deuteronômio (Enarratio super Deuteronomium)",
+  "passagem": "livro I, cap. 13 (sobre Dt 7,22; compilado de Gregório Magno)",
+  "edicao": "PL 108, 868–869",
+  "trecho": "4",
+  "versiculos": [
+   22
+  ],
+  "lingua": "la",
+  "original": "Sciendum tamen quod plerumque omnipotentis Dei dispensatione contingit, ut quibus majora dona praestat, quaedam minora non tribuat, ut semper eorum animus habeat unde seipsum reprehendat, [...] Philistaeos autem atque Chananaeos diutius reservavit, ut, sicut scriptum est, in eo experiretur Israel. [...] Quia nonnunquam, ut dictum est, eis etiam quibus magna tribuit, parva quaedam reprehensibilia relinquit, ut semper habeant contra quos bellum gerant, et devictis magnis hostibus mentem non erigant, quando eos adhuc adversarii minimi fatigant.",
+  "fonte_url": "https://mlat.uzh.ch/browser/cps_2.RabMau.EnSuDe",
+  "traducao_pt": "É preciso saber, porém, que muitas vezes, por disposição do Deus onipotente, acontece que àqueles a quem dá dons maiores não concede alguns menores, para que o seu ânimo tenha sempre de que repreender a si mesmo, [...] Reservou por mais tempo os filisteus e os cananeus, para que, como está escrito, Israel fosse provado por eles. [...] Pois às vezes, como se disse, mesmo àqueles a quem concede grandes dons, deixa algumas pequenas faltas, para que tenham sempre contra quem lutar e, vencidos os grandes inimigos, não ergam o espírito, enquanto os adversários mínimos ainda os fatigam.",
+  "temas": [
+   "inimigos que Deus deixa de pé",
+   "humildade e luta espiritual"
+  ],
+  "resumo": "Rábano (a partir de Gregório) explica por que Deus não destrói todos os inimigos de uma vez: as pequenas fraquezas que restam guardam a humildade de quem já venceu grandes vícios.",
+  "relevancia": 3,
+  "direitos": "domínio público",
+  "nota": "Rábano compila aqui Gregório Magno (Lápide anota «RAB., GREG.»); a obra de Gregório não foi achada nos Moralia do cache."
+ },
+ {
+  "autor": "João Cassiano",
+  "autor_id": "cassiano",
+  "datas": "c. 360–435",
+  "titulo_autor": "monge, fundador de mosteiros em Marselha",
+  "id": "cassiano-conf-v14-pancarpo-vencer-os-mais-fortes-dt7-22",
+  "obra": "Conferências (Collationes)",
+  "passagem": "Conferência V (abade Serapião), 14 (cita Dt 7,21-23)",
+  "edicao": "PL 49, 630–631",
+  "trecho": "4",
+  "versiculos": [
+   21,
+   22,
+   23
+  ],
+  "lingua": "la",
+  "original": "et ita semper validioribus superatis celerem de residuis habebit facilemque victoriam: quia et mens triumphorum processu reddetur fortior, et infirmorum pugna succedens promptiorem ei proventum faciet praeliorum; ut fieri solet ab his qui coram regibus mundi hujus omnigenis congredi bestiis, praemiorum contemplatione, consueverunt, quod spectaculi genus vulgo pancarpum nuncupatur. Hi, inquam, feras quascumque fortiores robore vel feritatis rabie conspexerint diriores, adversus eas primae congressionis certamen arripiunt, quibus exstinctis, reliquas, quae minus terribiles minusque vehementes sunt, exitu faciliore prosternunt. Ita et vitiis semper robustioribus superatis, atque infirmioribus succedentibus, parabitur nobis absque ullo discrimine perfecta victoria. [...] Hunc namque nos ordinem praeliorum exercere debere, nec tamen de nostra virtute confidere, etiam legislator his docet verbis: Non timebis eos, quia Dominus Deus tuus in medio tui est. Deus magnus et terribilis, ipse consumet nationes has in conspectu tuo paulatim atque per partes. Non poteris delere eas pariter, ne forte multiplicentur contra te bestiae terrae. Dabitque eos Dominus Deus tuus in conspectu tuo, et interficiet illos donec penitus deleantur.",
+  "fonte_url": "https://mlat.uzh.ch/browser/cps_2.JoaCas.Collat",
+  "traducao_pt": "E assim, vencidos sempre os mais fortes, terá vitória rápida e fácil sobre os restantes: porque o espírito se fortalecerá com o avanço dos triunfos, e a luta contra os mais fracos, que vem depois, lhe dará êxito mais pronto nos combates; como costuma acontecer com os que, diante dos reis deste mundo, na esperança dos prêmios, lutam contra todo tipo de feras, espetáculo que o povo chama «pancarpo». Estes escolhem para o primeiro combate as feras que veem mais fortes pela robustez ou mais terríveis pela fúria selvagem; mortas estas, abatem com menos dificuldade as outras, menos temíveis e menos violentas. Assim também, vencidos sempre os vícios mais robustos e vindo depois os mais fracos, teremos preparada, sem risco algum, a vitória perfeita. [...] Que devemos seguir esta ordem de combates, sem confiar, porém, na nossa própria virtude, ensina também o legislador com estas palavras: «Não os temerás, porque o Senhor teu Deus está no meio de ti, Deus grande e terrível; ele mesmo consumirá estas nações diante de ti, pouco a pouco e por partes. Não poderás destruí-las todas ao mesmo tempo, para que não se multipliquem contra ti as feras da terra. E o Senhor teu Deus as entregará diante de ti, e as matará até que sejam inteiramente destruídas».",
+  "temas": [
+   "pouco a pouco",
+   "vencer primeiro o vício mais forte"
+  ],
+  "resumo": "Cassiano usa Dt 7,21-23 para ensinar a luta espiritual: atacar um vício de cada vez, o mais forte primeiro, sem confiar nas próprias forças.",
+  "relevancia": 3,
+  "direitos": "domínio público"
+ },
+ {
+  "autor": "Teodoreto de Ciro",
+  "autor_id": "teodoreto",
+  "datas": "c. 393–c. 460",
+  "titulo_autor": "bispo de Ciro, na Síria",
+  "id": "teodoreto-qdt6-casamento-com-vizinhos-e-eleicao-dt7",
+  "obra": "Questões sobre o Octateuco (Quaestiones in Octateuchum)",
+  "passagem": "Deuteronômio, Questão 6 (sobre Dt 7,3-4.7-8)",
+  "edicao": "PG 80 (Quaest. in Deut. 6); texto da ed. Fernández Marcos–Sáenz-Badillos (Madri, 1979), pp. 235–236, equivalente ao da PG 80",
+  "trecho": "1",
+  "versiculos": [
+   3,
+   4,
+   7,
+   8
+  ],
+  "lingua": "grc",
+  "original": "Τί δήποτε ἀπαγορεύει ὁ νόμος τὰς πρὸς τοὺς ὁμόρους ἀλλοφύλους ἐπιγαμβρίας; Οὐ δεῖται σαφηνείας ὁ νόμος· ἑαυτὸν γὰρ ἑρμηνεύει. ἔφη γάρ, «ὅτι ἀποστήσουσι τὸν υἱόν σου ἀπ' ἐμοῦ, καὶ λατρεύσει θεοῖς ἑτέροις». ἀναγκαίως μέντοι καὶ τὴν αἰτίαν αὐτοὺς τῆς θείας διδάσκει κηδεμονίας· «οὐ γὰρ διὰ τὸ πλείους εἶναι, φησί, τῶν ἐθνῶν προέκρινεν ὑμᾶς ὁ Θεός, ἀλλὰ διὰ τὴν τῶν προγόνων εὐσέβειαν καὶ τὴν γεγενημένην πρὸς ἐκείνους ὑπόσχεσιν»",
+  "fonte_url": "https://khazarzar.skeptik.net/pgm/PG_Migne/Theodoretus%20of%20Cyrrhus_PG%2080-84/Quaestiones%20in%20Octateuchum.pdf",
+  "traducao_pt": "Por que a Lei proíbe o casamento com os povos estrangeiros vizinhos? A Lei não precisa de explicação, pois ela mesma se explica. Disse, com efeito: «Porque eles afastarão o teu filho de mim, e ele servirá a outros deuses». E ensina, por necessidade, também a causa do cuidado divino: «Pois não foi por serdes mais numerosos que as nações, diz, que Deus vos preferiu, mas pela piedade dos antepassados e pela promessa feita a eles».",
+  "temas": [
+   "casar com os que não servem a Deus",
+   "a escolha vem da promessa, não do número"
+  ],
+  "resumo": "Teodoreto explica a proibição de casar com os vizinhos pela própria razão que a Lei dá (a idolatria) e lembra que Deus escolheu Israel pela promessa feita aos pais, não por ser numeroso.",
+  "relevancia": 3,
+  "direitos": "domínio público",
+  "nota": "Texto da edição de Marcos–Sáenz-Badillos (Madri, 1979); o OCR do PDF partia palavras no fim da linha («λατρεύ σει», «γεγενημέ νην»), reunidas aqui; números de linha da edição retirados."
+ },
+ {
+  "autor": "Teodoreto de Ciro",
+  "autor_id": "teodoreto",
+  "datas": "c. 393–c. 460",
+  "titulo_autor": "bispo de Ciro, na Síria",
+  "id": "teodoreto-qdt6-promessas-temporais-aos-imperfeitos-dt7",
+  "obra": "Questões sobre o Octateuco (Quaestiones in Octateuchum)",
+  "passagem": "Deuteronômio, Questão 6 (sobre Dt 7,9.12-16)",
+  "edicao": "PG 80 (Quaest. in Deut. 6); texto da ed. Fernández Marcos–Sáenz-Badillos (Madri, 1979), pp. 235–236, equivalente ao da PG 80",
+  "trecho": "3",
+  "versiculos": [
+   9,
+   12,
+   13,
+   14,
+   15
+  ],
+  "lingua": "grc",
+  "original": "εἶτα τὸ ἀληθὲς αὐτοῦ δεικνύς, ἐπήγαγεν· «ὅτι ὁ Θεὸς πιστὸς φυλάσσων διαθήκην καὶ ἔλεον τοῖς ἀγαπῶσιν αὐτόν, καὶ τοῖς φυλάσσουσι τὰς ἐντολὰς αὐτοῦ, εἰς χιλίας γενεάς». καὶ ἐπειδὴ ἀτελεῖς ἦσαν, καὶ τροφῆς γαλακτώδους ἐδέοντο καὶ ἀκούειν περὶ τῶν αἰωνίων ἀγαθῶν οὐκ ἐδύναντο, ὑπισχνεῖται αὐτοῖς πολυγονίαν, καὶ γῆς εὐκαρπίαν καὶ ποιμνίων καὶ βουκολίων εὐεξίαν, καὶ σώματος ὑγείαν καὶ τὴν ἐν πολέμοις νίκην καὶ ὅσα τοιαῦτα.",
+  "fonte_url": "https://khazarzar.skeptik.net/pgm/PG_Migne/Theodoretus%20of%20Cyrrhus_PG%2080-84/Quaestiones%20in%20Octateuchum.pdf",
+  "traducao_pt": "Depois, mostrando a verdade disso, acrescentou: «Porque Deus é fiel, guardando a aliança e a misericórdia para com os que o amam e para com os que guardam os seus mandamentos, por mil gerações». E, como ainda eram imperfeitos, precisavam de alimento de leite e não eram capazes de ouvir falar dos bens eternos, prometeu-lhes numerosa descendência, a fertilidade da terra, o bom estado dos rebanhos e do gado, a saúde do corpo, a vitória nas guerras e coisas semelhantes.",
+  "temas": [
+   "as bênçãos temporais da aliança",
+   "alimento de leite para os imperfeitos"
+  ],
+  "resumo": "Teodoreto explica que as promessas de filhos, colheitas, saúde e vitória foram feitas a um povo ainda imperfeito, que não podia ouvir falar dos bens eternos.",
+  "relevancia": 3,
+  "direitos": "domínio público",
+  "nota": "Mesma questão do outro achado de Teodoreto; palavras partidas do OCR reunidas."
+ },
+ {
+  "autor": "São Cirilo de Alexandria",
+  "autor_id": "cirilo-alexandria",
+  "datas": "c. 376–444",
+  "titulo_autor": "patriarca de Alexandria, Doutor da Igreja",
+  "id": "cirilo-adoracao-14-alianca-com-os-profanos-dt7",
+  "obra": "Sobre a adoração em espírito e verdade (De adoratione et cultu in spiritu et veritate)",
+  "passagem": "livro XIV (sobre Dt 7,1-4)",
+  "edicao": "PG 68, 900",
+  "trecho": "1",
+  "versiculos": [
+   2,
+   3,
+   4
+  ],
+  "lingua": "grc",
+  "original": "Τοιγάρτοι καὶ ὁ νόμος τοὺς ἐκνενιμμένους καὶ καθαροὺς, καὶ οἰκείους ἤδη Θεῷ, διὰ τοῦτο τῆς ἐκείνων βδελυρίας ἀποτειχίζει λέγων· [...] Οὐ διαθήσῃ πρὸς αὐτοὺς διαθήκην, οὐδ' οὐ μὴ ἐλεήσεις αὐτοὺς, οὐδὲ μὴ γαμβρεύσεις πρὸς αὐτούς. Τὴν θυγατέρα σου οὐ δώσεις τῷ υἱῷ αὐτοῦ, καὶ τὴν θυγατέρα αὐτοῦ οὐ λήψῃ τῷ υἱῷ σου, ἀποστήσει γὰρ τὸν υἱόν σου ἀπ' ἐμοῦ, καὶ λατρεύσει θεοῖς ἑτέροις.» Ἀσφαλὴς οὖν ὁ νόμος. «Οὐ γὰρ συνθήσῃ,» φησὶ, «διαθήκην πρὸς αὐτούς·» ἀσύμβατον γὰρ καὶ ἀσυναφὲς τῷ ἡγιασμένῳ, τὸ βέβηλον ἔτι, τῷ πεφωτισμένῳ, τὸ ἐν ὁμίχλῃ καὶ σκότῳ, τῷ εἰσδεδεγμένῳ τὸ ἀπαράδεκτον· τῷ πρὸς ἱεράν τε καὶ θείαν εἰσφοιτῶντι σκηνὴν, τὸ ταύτης ἐξωθούμενον.",
+  "fonte_url": "https://khazarzar.skeptik.net/pgm/PG_Migne/Cyril%20of%20Alexandria_PG%2068-77/De%20adoratione%20et%20cultu%20in%20spiritu%20et%20veritate.pdf",
+  "traducao_pt": "Por isso também a Lei isola da impureza daquelas nações os que foram lavados e purificados e já pertencem a Deus, dizendo: [...] «Não farás aliança com eles, nem terás compaixão deles, nem te aparentarás com eles por casamento. Não darás a tua filha ao filho dele, nem tomarás a filha dele para o teu filho, pois ele afastará o teu filho de mim, e este servirá a outros deuses». A Lei é, pois, segura. «Não farás aliança com eles», diz; com efeito, é incompatível e sem laço com o que foi santificado o que ainda é profano; com o que foi iluminado, o que vive na névoa e nas trevas; com o que foi acolhido, o que não pode ser acolhido; com o que entra na tenda sagrada e divina, o que dela é expulso.",
+  "temas": [
+   "separar-se do profano",
+   "a aliança com os impuros"
+  ],
+  "resumo": "Cirilo lê Dt 7,2-4 como a Lei que protege os santificados do contato com o que é profano, porque entre a luz e as trevas não há aliança.",
+  "relevancia": 2,
+  "direitos": "domínio público",
+  "nota": "Diálogo entre Cirilo e Paládio, livro XIV; PG 68, 900–901. O texto digital (khazarzar/corpus grego) foi comparado só com o texto digital; a tradução omite a citação do lema, que o original traz depois do «[...]». A URL do PDF segue o padrão da pasta khazarzar para o Cirilo; não aberta página a página."
+ },
+ {
+  "autor": "Cornélio a Lápide",
+  "autor_id": "lapide",
+  "datas": "1567–1637",
+  "titulo_autor": "jesuíta, comentador da Bíblia; não canonizado",
+  "id": "lapide-dt7-3-casar-com-convertidos-rahab",
+  "obra": "Comentários ao Deuteronômio (Commentaria in Deuteronomium)",
+  "passagem": "cap. VII, v. 3",
+  "edicao": "Commentaria in Scripturam Sacram, t. II (Pentateuco), ed. A. Crampon, Paris, Vivès, 1868, p. 430; página conferida na imagem do exemplar digitalizado",
+  "trecho": "1",
+  "versiculos": [
+   3,
+   4
+  ],
+  "lingua": "la",
+  "original": "Nota: Tantum vetatur hic ne misceant connubia cum Chananæis, quamdiu manent idololatræ. Nam si convertantur, et ad populum Dei aggregentur, jam Judæi sunt, non Chananæi; itaque cum iis conjugium inire fas est. Cessat enim tunc ratio legis quæ datur vers. 4, « quia seducet filium tuum, ne sequatur me, et ut magis serviat diis alienis. » Sic Salmon duxit Rahab Jerichuntinam, quæ receperat exploratores missos a Josue, Matth. I, 5; nam Rahab facta est proselyta, et sacra Judaica suscepit.",
+  "fonte_url": "https://archive.org/details/commentariainscr02lapi_0/page/n461/mode/1up",
+  "traducao_pt": "Nota: aqui só se proíbe misturar casamentos com os cananeus enquanto permanecem idólatras. Pois, se se convertem e se juntam ao povo de Deus, já são judeus, não cananeus; por isso é lícito contrair matrimônio com eles. Cessa, então, a razão da lei, que se dá no v. 4: «porque seduzirá o teu filho, para que não me siga e sirva ainda mais a deuses alheios». Assim, Salmon casou-se com Raab, a de Jericó, que havia acolhido os exploradores enviados por Josué (Mt 1,5); pois Raab se tornou prosélita e abraçou o culto judaico.",
+  "temas": [
+   "a proibição vale enquanto há idolatria",
+   "Raab, a cananeia convertida"
+  ],
+  "resumo": "Lápide explica que a proibição de casar com os cananeus cai quando eles se convertem: a razão da lei é a idolatria, e Raab, que se tornou prosélita, entrou na linhagem de Cristo.",
+  "relevancia": 3,
+  "direitos": "domínio público"
+ },
+ {
+  "autor": "Cornélio a Lápide",
+  "autor_id": "lapide",
+  "datas": "1567–1637",
+  "titulo_autor": "jesuíta, comentador da Bíblia; não canonizado",
+  "id": "lapide-dt7-25-26-ouro-dos-idolos-e-cherem",
+  "obra": "Comentários ao Deuteronômio (Commentaria in Deuteronomium)",
+  "passagem": "cap. VII, vv. 25-26",
+  "edicao": "Commentaria in Scripturam Sacram, t. II (Pentateuco), ed. A. Crampon, Paris, Vivès, 1868, p. 431; página conferida na imagem do exemplar digitalizado",
+  "trecho": "4",
+  "versiculos": [
+   25,
+   26
+  ],
+  "lingua": "la",
+  "original": "Argentum et aurum de quibus facta sunt. Hebraice est, quod est super ea, id est, quo tecta, vel cooperta sunt. Solebant enim idola lignea, vel ænea inaurari, et auro vel argento obduci, ad ornatum et reverentiam eis conciliandam. [...] Ne fias anathema, sicut et illud est. Hebraice, ne fias cherem, id est, res excidio addicta, quæ succidenda, et ad nihilum redigenda est, sicut est ipsum idolum; hoc enim succidi et annihilari debet.",
+  "fonte_url": "https://archive.org/details/commentariainscr02lapi_0/page/n462/mode/1up",
+  "traducao_pt": "«A prata e o ouro de que são feitos». No hebraico: «o que está sobre eles», isto é, aquilo com que estão revestidos ou cobertos. Costumava-se, com efeito, dourar os ídolos de madeira ou de bronze e recobri-los de ouro ou de prata, para lhes dar ornato e veneração. [...] «Para que não te tornes anátema, como ele». No hebraico: «para que não te tornes *cherem*», isto é, coisa votada à destruição, que deve ser cortada e reduzida a nada, como o próprio ídolo; pois este deve ser cortado e aniquilado.",
+  "temas": [
+   "o ouro que reveste os ídolos",
+   "anátema (cherem)"
+  ],
+  "resumo": "Lápide explica que o ouro proibido é o que reveste os ídolos e que «anátema» (cherem) é o que está votado à destruição: quem o guarda em casa passa a ser como ele.",
+  "relevancia": 2,
+  "direitos": "domínio público"
+ },
+ {
+  "autor": "São Lourenço de Bríndisi",
+  "autor_id": "lourenco-de-brindisi",
+  "datas": "1559–1619",
+  "titulo_autor": "presbítero, capuchinho, Doutor da Igreja",
+  "id": "lourenco-dominicalia-xix-eleicao-sem-meritos-dt7-7",
+  "obra": "Dominicais (Dominicalia), Obras completas, vol. VIII",
+  "passagem": "19º domingo depois de Pentecostes (cita Dt 7,6-8)",
+  "edicao": "Opera omnia, vol. VIII, Pádua, 1943, pp. 288–289; texto do exemplar digitalizado (OCR corrigido, não conferido na imagem)",
+  "trecho": "2",
+  "versiculos": [
+   6,
+   7,
+   8
+  ],
+  "lingua": "la",
+  "original": "Deus vult omnes homines salvos fieri et ad agnitionem veritatis pervenire; omnes tum Hebraeos tum Gentiles invitavit vocavitque absque ullis meritis, sed ex sola bonitate et caritate sua, ex mera gratia sua. Electio enim ad salutem absque ullis meritis est; sic Paulus docet: Non est volentis neque currentis, sed miserentis est Dei; Moysi enim dicit: Miserebor cui miserebor et misericordiam praestabo cui miserebor. Sic etiam docuit Moyses: Te elegit Dominus Deus tuus ut sis ei populus peculiaris de cunctis populis qui sunt super terram. Non quia cunctas gentes numero vincebatis vobis iunctus est Dominus et elegit vos, cum omnibus sitis populis pauciores, sed quia dilexit vos Dominus. Haec igitur causa est divinae electionis, caritas et bonitas Dei immensa et infinita, absque ulla alia extrinseca causa vel ratione, absque ullis praevisis meritis, cum a nobis nec cogitare quidquam boni possimus.",
+  "fonte_url": "https://archive.org/details/opera-omnia-s.-laurentii-a-brundusio-12-17-vol.-viii-dominicalia",
+  "traducao_pt": "«Deus quer que todos os homens se salvem e cheguem ao conhecimento da verdade»: a todos, hebreus e gentios, convidou e chamou sem mérito algum, mas só por sua bondade e caridade, por pura graça. Pois a eleição para a salvação é sem méritos; assim ensina Paulo: «Isto não depende de quem quer nem de quem corre, mas de Deus, que tem misericórdia»; com efeito, diz a Moisés: «Terei misericórdia de quem eu tiver misericórdia, e usarei de compaixão com quem eu usar de compaixão». Assim também ensinou Moisés: «O Senhor teu Deus te escolheu para seres o seu povo peculiar dentre todos os povos que há sobre a terra. Não foi por serdes mais numerosos que todos os povos que o Senhor se uniu a vós e vos escolheu, pois éreis menos numerosos que todos os povos, mas porque o Senhor vos amou». Esta é, portanto, a causa da eleição divina: a caridade e a bondade de Deus, imensas e infinitas, sem nenhuma outra causa ou razão exterior, sem nenhum mérito previsto, pois de nós mesmos nem sequer podemos pensar algo de bom.",
+  "temas": [
+   "a eleição é pura graça",
+   "o amor de Deus escolhe sem mérito"
+  ],
+  "resumo": "Lourenço cita Dt 7,6-8 como prova de que a eleição divina não tem outra causa que o amor de Deus, sem mérito previsto nos escolhidos.",
+  "relevancia": 3,
+  "direitos": "domínio público",
+  "nota": "OCR do Opera omnia (archive.org) corrigido à mão (genles, elegil, praesiabo); não conferido na imagem da página."
+ },
+ {
+  "autor": "Catecismo da Igreja Católica",
+  "autor_id": "catecismo",
+  "datas": "1992",
+  "titulo_autor": "texto oficial em português (Portugal)",
+  "id": "catecismo-215-promessas-de-deus-se-cumprem-sempre-dt7-9",
+  "obra": "Catecismo da Igreja Católica",
+  "passagem": "n. 215 (nota a Dt 7,9)",
+  "edicao": "Catecismo da Igreja Católica, texto oficial em português, vatican.va",
+  "trecho": "2",
+  "versiculos": [
+   9
+  ],
+  "lingua": "pt",
+  "original": "«A verdade é princípio da vossa palavra, é eterna toda a sentença da vossa justiça» (Sl 119, 160). [...] é por isso que as promessas de Deus se cumprem sempre. Deus é a própria verdade; as suas palavras não podem enganar.",
+  "fonte_url": "https://www.vatican.va/archive/cathechism_po/index_new/p1s2c1_198-421_po.html",
+  "traducao_pt": "«A verdade é princípio da vossa palavra, é eterna toda a sentença da vossa justiça» (Sl 119,160). [...] É por isso que as promessas de Deus sempre se cumprem. Deus é a própria verdade; as suas palavras não podem enganar.",
+  "temas": [
+   "Deus fiel",
+   "as promessas se cumprem"
+  ],
+  "resumo": "O Catecismo, remetendo a Dt 7,9, ensina que Deus é a verdade e por isso as suas promessas sempre se cumprem.",
+  "relevancia": 1,
+  "direitos": "citação curta"
+ },
+ {
+  "autor": "Papa Francisco",
+  "autor_id": "francisco",
+  "datas": "1936–2025",
+  "titulo_autor": "papa",
+  "id": "francisco-cotidie-2017-06-23-fomos-escolhidos-dt7-6",
+  "obra": "Homilia na Casa Santa Marta, solenidade do Sagrado Coração de Jesus (resumo da série Cotidie)",
+  "passagem": "23 de junho de 2017 (sobre Dt 7,6-11)",
+  "edicao": "Homilia na Missa de Santa Marta, solenidade do Sagrado Coração (23/06/2017), resumo de L’Osservatore Romano na série Cotidie",
+  "trecho": "2",
+  "versiculos": [
+   6,
+   7,
+   8
+  ],
+  "lingua": "pt",
+  "original": "«Escolher» é a primeira palavra sugerida por Francisco. «Nós fomos escolhidos», explicou, porque «não fomos nós que o escolhemos: foi ele que nos escolheu, foi ele o generoso e cada um de nós pode dizer: “eu sou um escolhido, uma escolhida”». Mas «esta escolha – afirmou o Pontífice – vai mais além, porque Moisés diz: “Nesta escolha, o Senhor ligou-se a vós”, como se se tivesse feito nosso prisioneiro: ligou-se à nossa vida, não se pode afastar».",
+  "fonte_url": "https://www.vatican.va/content/francesco/pt/cotidie/2017/documents/papa-francesco-cotidie_20170623_todos-somos-escolhidos.html",
+  "traducao_pt": "«Escolher» é a primeira palavra sugerida por Francisco. «Nós fomos escolhidos», explicou, porque «não fomos nós que o escolhemos: foi ele que nos escolheu, foi ele o generoso, e cada um de nós pode dizer: “eu sou um escolhido, uma escolhida”». Mas «esta escolha — afirmou o Pontífice — vai mais além, porque Moisés diz: “Nesta escolha, o Senhor se ligou a vós”, como se tivesse se feito nosso prisioneiro: ligou-se à nossa vida, não pode se afastar».",
+  "temas": [
+   "ser escolhido",
+   "Deus que se liga a nós"
+  ],
+  "resumo": "Francisco, sobre Dt 7,6-11: não fomos nós que escolhemos a Deus; fomos escolhidos por amor, e na escolha Deus se ligou à nossa vida.",
+  "relevancia": 3,
+  "direitos": "citação curta",
+  "nota": "Texto em português de Portugal; citação curta (3 frases)."
+ },
+ {
+  "autor": "Papa Francisco",
+  "autor_id": "francisco",
+  "datas": "1936–2025",
+  "titulo_autor": "papa",
+  "id": "francisco-cotidie-2017-06-23-escolhe-os-pequeninos-dt7-7",
+  "obra": "Homilia na Casa Santa Marta, solenidade do Sagrado Coração de Jesus (resumo da série Cotidie)",
+  "passagem": "23 de junho de 2017 (sobre Dt 7,7)",
+  "edicao": "Homilia na Missa de Santa Marta, solenidade do Sagrado Coração (23/06/2017), resumo de L’Osservatore Romano na série Cotidie",
+  "trecho": "2",
+  "versiculos": [
+   7
+  ],
+  "lingua": "pt",
+  "original": "«A segunda palavra» proposta pelo Papa «foi pequenez». Lê-se no trecho bíblico de hoje: «pois vós éreis menos em número do que todos os povos». Mas ele «amava a nossa pequenez e por isso nos escolheu, e ele escolhe os pequeninos: não os grandes, os pequeninos».",
+  "fonte_url": "https://www.vatican.va/content/francesco/pt/cotidie/2017/documents/papa-francesco-cotidie_20170623_todos-somos-escolhidos.html",
+  "traducao_pt": "«A segunda palavra» proposta pelo Papa «foi pequenez». Lê-se no trecho bíblico de hoje: «pois vós éreis menos em número do que todos os povos». Mas ele «amava a nossa pequenez e por isso nos escolheu, e ele escolhe os pequeninos: não os grandes, os pequeninos».",
+  "temas": [
+   "a pequenez escolhida",
+   "Deus ama os pequenos"
+  ],
+  "resumo": "Francisco, sobre Dt 7,7: Deus escolheu Israel por ser menor que os outros povos, porque escolhe os pequeninos, e o coração de Cristo se fez pequeno.",
+  "relevancia": 3,
+  "direitos": "citação curta",
+  "nota": "Texto em português de Portugal; citação curta (3 frases)."
+ },
+ {
+  "autor": "São John Henry Newman",
+  "autor_id": "newman",
+  "datas": "1801–1890",
+  "titulo_autor": "cardeal, Doutor da Igreja (sermão do período anglicano)",
+  "id": "newman-pps3-13-dt7-mesmo-animo-nao-a-mesma-pena",
+  "obra": "Sermões paroquiais e simples (Parochial and Plain Sermons), vol. III",
+  "passagem": "Sermão 13, «O zelo dos judeus, modelo para os cristãos» (Jewish Zeal, a Pattern for Christians) (sobre Dt 7,1-5.16)",
+  "edicao": "Parochial and Plain Sermons, vol. III, Londres, 1870 (1ª ed. 1836–1843), sermão 13",
+  "trecho": "1",
+  "versiculos": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   16
+  ],
+  "lingua": "en",
+  "original": "Let us consider some of the commands I have referred to, and the terms in which they are conveyed. For instance, that for the extirpation of the devoted nations from the land of Canaan. [...] Now, doubtless, we at this day are not to put men to death for idolatry; but, doubtless also, whatever temper of mind the fulfilment of this command implied in the Jew, such, essentially, must be our temper of mind, whatever else it may be also; for God cannot speak two laws, he cannot love two characters—good is good, and evil is evil.",
+  "fonte_url": "https://www.newmanreader.org/works/parochial/volume3/sermon13.html",
+  "traducao_pt": "Consideremos alguns dos mandamentos a que me referi e os termos em que são dados. Por exemplo, o da extirpação das nações votadas ao anátema na terra de Canaã. [...] Sem dúvida, nós, hoje, não devemos condenar homens à morte por idolatria; mas, sem dúvida também, o estado de ânimo que o cumprimento desse mandamento supunha no judeu, esse mesmo, em essência, deve ser o nosso, seja o que mais o acompanhe; porque Deus não pode dar duas leis, nem amar dois caracteres: o bem é bem, e o mal é mal.",
+  "temas": [
+   "o mandamento do anátema hoje",
+   "o zelo contra o mal"
+  ],
+  "resumo": "Newman reconhece que hoje ninguém deve matar por idolatria, mas diz que o ânimo do mandamento permanece: o mal é mal, e a Lei de Deus não muda.",
+  "relevancia": 3,
+  "direitos": "domínio público",
+  "nota": "Sermão já usado em outros capítulos (Nm 25, Dt 2, com outros trechos); este é o parágrafo sobre Dt 7,1-5.16."
+ },
+ {
+  "autor": "Cornélio a Lápide",
+  "autor_id": "lapide",
+  "datas": "1567–1637",
+  "titulo_autor": "jesuíta, comentador da Bíblia; não canonizado",
+  "id": "lapide-dt7-10-retribui-na-propria-pessoa",
+  "obra": "Comentários ao Deuteronômio (Commentaria in Deuteronomium)",
+  "passagem": "cap. VII, vv. 9-10",
+  "edicao": "Commentaria in Scripturam Sacram, t. II (Pentateuco), ed. A. Crampon, Paris, Vivès, 1868, p. 430; página conferida na imagem do exemplar digitalizado",
+  "trecho": "2",
+  "versiculos": [
+   9,
+   10
+  ],
+  "lingua": "la",
+  "original": "Et reddens odientibus se statim. Pro statim, hebraice est in facies suas, id est, dum adhuc vivunt, q. d. Deus pœnam peccatis parentum debitam non differt in filios, sed eam ipsis parentibus, dum vivunt, irrogat. [...] Genuinus ergo sensus est de pœna impiorum, q. d. Cavete, o Hebræi, ne Deum offendatis, quia sicut Deus præstat bona diligentibus se in mille, id est, plurimas generationes, ita statim punit odientes se, ut patuit in pœna colentium vitulum aureum, Exodi XXXII, et concupiscentium carnes, Num. XI, et pœna Core, Dathan et Abiron, Numer. XVI, et pœna murmuris Mariæ, Num. XII.",
+  "fonte_url": "https://archive.org/details/commentariainscr02lapi_0/page/n461/mode/1up",
+  "traducao_pt": "«E retribui logo aos que o odeiam». Em lugar de «logo», o hebraico diz «no rosto deles», isto é, enquanto ainda vivem: como se dissesse que Deus não adia para os filhos a pena devida aos pecados dos pais, mas a aplica aos próprios pais, enquanto vivem. [...] O sentido genuíno, portanto, é o da pena dos ímpios, como se dissesse: «Cuidai, ó hebreus, de não ofender a Deus, porque, assim como Deus dá bens, por mil gerações, aos que o amam, assim pune logo os que o odeiam», como se viu na pena dos que adoraram o bezerro de ouro (Êx 32), dos que cobiçaram carnes (Nm 11), na de Coré, Datã e Abiram (Nm 16) e na do murmúrio de Míriam (Nm 12).",
+  "temas": [
+   "a retribuição «no próprio rosto»",
+   "mil gerações de bênção"
+  ],
+  "resumo": "Lápide, pelo hebraico, entende que Deus pune os que o odeiam na própria pessoa, não nos filhos, e contrasta isso com a bênção que dura mil gerações.",
+  "relevancia": 2,
+  "direitos": "domínio público",
+  "nota": "Os exemplos citados (Êx 32, Nm 11, 16, 12) pertencem a outros livros; só o trecho sobre Dt 7,10 interessa."
+ },
+ {
+  "autor": "João Cassiano",
+  "autor_id": "cassiano",
+  "datas": "c. 360–435",
+  "titulo_autor": "monge, fundador de mosteiros em Marselha",
+  "id": "cassiano-conf-v18-egito-deixado-para-tras-dt7",
+  "obra": "Conferências (Collationes)",
+  "passagem": "Conferência V (abade Serapião), 18 (cita Dt 7,1)",
+  "edicao": "PL 49, 635",
+  "trecho": "4",
+  "versiculos": [
+   18,
+   19
+  ],
+  "lingua": "la",
+  "original": "Quae figuraliter sub gentium vocabulo nominata, idcirco nunc omnia non ponuntur, eo quod egressis jam de Aegypto et liberatis ab una gente validissima, id est, Aegyptiorum, Moyses, vel per ipsum Dominus, in Deuteronomio loquebatur. Quae figura in nobis quoque rectissime stare deprehenditur, qui de saeculi laqueis expediti, gastrimargiae, id est, ventris vel gulae vitio caruisse cognoscimur. Et habemus jam contra has residuas septem gentes simili ratione conflictum, prima scilicet quae jam devicta est minime computata; cujus etiam terra in possessionem Israeli non datur, sed ut deserat eam perpetuo, et egrediatur ab ea, Domini praeceptione sancitur. Et idcirco ita sunt moderanda jejunia, ut non necesse sit per immoderationem continentiae, quae defectione carnis vel infirmitate contracta est, reverti rursus ad Aegyptiorum terram, id est, pristinam gulae et carnis concupiscentiam, quam, cum mundo huic abrenuntiaremus, abjecimus.",
+  "fonte_url": "https://mlat.uzh.ch/browser/cps_2.JoaCas.Collat",
+  "traducao_pt": "As nações não são nomeadas todas, porque Moisés, ou o Senhor por meio dele, falava no Deuteronômio a quem já saíra do Egito e fora libertado de uma só nação, a mais poderosa, a dos egípcios. Essa figura se mostra muito bem em nós, que, livres dos laços do mundo, sabemos que ficamos sem o vício do ventre, isto é, da gula. E já temos, de modo semelhante, o combate contra essas sete nações restantes; a primeira, já vencida, não é contada, e a sua terra não é dada a Israel como posse, mas por ordem do Senhor deve ser deixada para sempre. E por isso os jejuns devem ser moderados, para que não seja necessário, por excesso de continência, que causa fraqueza e doença do corpo, voltar à terra dos egípcios, isto é, à antiga cobiça da gula e da carne que rejeitamos quando renunciamos a este mundo.",
+  "temas": [
+   "o Egito deixado para trás",
+   "moderar o jejum"
+  ],
+  "resumo": "Cassiano lê as sete nações como os vícios que restam depois que o Egito (a gula) foi deixado; por isso o jejum deve ser moderado, para não voltar ao Egito.",
+  "relevancia": 1,
+  "direitos": "domínio público"
+ }
+]
