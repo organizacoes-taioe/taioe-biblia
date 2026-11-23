@@ -12,7 +12,11 @@
      "original": "Verumtamen Og rex Basan reliquus factus est a Raphain. Hoc nomine, quod est Raphain, gigantes significari in hebraea lingua dicunt qui eam noverunt. [...] cujus etiam consequenter longitudo et latitudo ferrei lecti commemoratur, ad ejus magnitudinem commendandam.",
      "texto": "«Só Og, rei de Basã, ficou como remanescente dos refaim.» Os que conhecem a língua hebraica dizem que esse nome, «refaim», designa os gigantes. [...] E, em seguida, menciona-se também o comprimento e a largura do seu leito de ferro, para realçar a sua grandeza."
     },
-    "lourenco-genesis-gigantes-og-leito-de-ferro"
+    {
+     "id": "lourenco-genesis-gigantes-og-leito-de-ferro",
+     "passagem": "cap. VI, sobre Gn 6,4 (Opera omnia, vol. III, Pádua, p. 478)",
+     "edicao": ""
+    }
    ]
   },
   {
@@ -54,7 +58,10 @@
     },
     {
      "id": "procopio-in-deut-3-18-tribos-armadas-herdeiros-primeiros",
-     "texto": "«Passai armados à frente de vossos irmãos.» Esta ordem é dada às duas tribos e meia. Aos menores se dá primeiro o que foi prometido: por isso os que receberam de Moisés a sua herança foram os primeiros a alcançar a promessa. Pois dos mais perfeitos está escrito: «Todos estes, aprovados pelo testemunho, não alcançaram as promessas»."
+     "texto": "«Passai armados à frente de vossos irmãos.» Esta ordem é dada às duas tribos e meia. Aos menores se dá primeiro o que foi prometido: por isso os que receberam de Moisés a sua herança foram os primeiros a alcançar a promessa. Pois dos mais perfeitos está escrito: «Todos estes, aprovados pelo testemunho, não alcançaram as promessas».",
+     "obra": "Comentários ao Deuteronômio (Commentarii in Deuteronomium)",
+     "passagem": "sobre Dt 3,18 (PG 87/1, 895–896)",
+     "edicao": ""
     }
    ]
   }
@@ -68,11 +75,17 @@
     26
    ],
    "itens": [
-    "crisostomo-in-ps-7-moises-nao-foi-ouvido",
+    {
+     "id": "crisostomo-in-ps-7-moises-nao-foi-ouvido",
+     "passagem": "In Ps. 7, § 3 (PG 55, 85–86)",
+     "edicao": ""
+    },
     {
      "id": "lourenco-q2-dom2-moises-nao-foi-ouvido",
      "original": "[...] etiam Deus Moysi negavit quod petiit. Duo enim legimus petiisse Moysen a Deo et minime obtinuisse. Petiit ut videret faciem et gloriam Dei et ut ingrederetur terram promissionis, transito Iordane; et primum Deus negavit dicens: Faciem meam videre non poteris, non enim videbit me homo et vivet; ad secundum vero quod petiit: Transibo... et videbo terram hanc optimam trans Iordanem, Dominus iratus respondit: Sufficit tibi, nequaquam ultra loquaris de hac re ad me. Quae enim impossibilia sunt vel contra divinam voluntatem petere non debemus, ut si quis peteret a Deo gratiam ut vivus in paradisum cum Elia igneo curru raperetur, vel aliquid simile. Cum ergo aliquid impossibile petitur vel contra iustitiam, non exaudit Deus, licet quod petitur bonum videatur.",
-     "texto": "Deus negou a Moisés o que ele pediu. Lemos, com efeito, que Moisés fez a Deus dois pedidos e não obteve nenhum deles. Pediu para ver a face e a glória de Deus, e para entrar na terra prometida, depois de atravessar o Jordão. Ao primeiro, Deus recusou, dizendo: «Não poderás ver a minha face, pois o homem não me verá e viverá.» Ao segundo, «Passarei e verei esta terra excelente do outro lado do Jordão», o Senhor respondeu irado: «Basta! Não me fales mais deste assunto.» Pois não devemos pedir o que é impossível ou contrário à vontade divina, como faria quem pedisse a Deus a graça de ser arrebatado vivo ao paraíso, como Elias, num carro de fogo, ou algo semelhante. Quando, pois, se pede algo impossível ou contrário à justiça, Deus não atende, ainda que o que se pede pareça bom."
+     "texto": "Deus negou a Moisés o que ele pediu. Lemos, com efeito, que Moisés fez a Deus dois pedidos e não obteve nenhum deles. Pediu para ver a face e a glória de Deus, e para entrar na terra prometida, depois de atravessar o Jordão. Ao primeiro, Deus recusou, dizendo: «Não poderás ver a minha face, pois o homem não me verá e viverá.» Ao segundo, «Passarei e verei esta terra excelente do outro lado do Jordão», o Senhor respondeu irado: «Basta! Não me fales mais deste assunto.» Pois não devemos pedir o que é impossível ou contrário à vontade divina, como faria quem pedisse a Deus a graça de ser arrebatado vivo ao paraíso, como Elias, num carro de fogo, ou algo semelhante. Quando, pois, se pede algo impossível ou contrário à justiça, Deus não atende, ainda que o que se pede pareça bom.",
+     "passagem": "§ I (Opera omnia, vol. V, parte I, Pádua, p. 579)",
+     "edicao": ""
     }
    ]
   },
@@ -83,7 +96,11 @@
     26
    ],
    "itens": [
-    "newman-pps7-9-moises-excluido-povo-entra-com-josue",
+    {
+     "id": "newman-pps7-9-moises-excluido-povo-entra-com-josue",
+     "passagem": "sermão 9, pp. 128–129",
+     "edicao": ""
+    },
     {
      "id": "agostinho-enps105-28-por-causa-do-povo-sem-perder-a-graca",
      "original": "Perturbatus enim murmure populi infidelis, non tenuit fiduciam qualem debuit. Cui tamen Deus tanquam electo suo, etiam post mortem ejus bonum perhibet testimonium, ut intelligamus illam fidei ejus titubationem hac sola poena fuisse correptam, quod in eam terram, quo populum ipse ducebat, non est permissus intrare. Absit autem ut eum credamus alienatum a regno gratiae Dei, quod significabat illa terra promissionis, unde lac et mel defluere dicebatur.",
@@ -110,7 +127,9 @@
     {
      "id": "teodoreto-quaest-dt-43-ver-de-longe-sem-entrar",
      "original": "ἰστέον μέντοι καὶ τοῦτο, ὡς ἕτερα δι' ἑτέρων ὁ δεσπότης οἰκονομεῖ. ὥσπερ ἀμέλει καὶ τουτονὶ τὸν μέγαν προφήτην οὐκ εἴασεν εἰς τὴν γῆν τῆς ἐπαγγελίας εἰσαγαγεῖν τὸν λαόν, ἵνα μὴ ὡς Θεὸν αὐτὸν σεβασθῶσιν οἱ ἰσραηλῖται· οἱ γὰρ τὰ ἄψυχα θεοποιήσαντες καὶ μόσχου εἰκόνα θεὸν ὀνομάσαντες, δῆλον ὅτι πολλῷ μᾶλλον ὡς θεὸν ἂν ἐσεβάσθησαν τὸν τοσούτων αὐτοῖς ἀγαθῶν γεγενημένον διάκονον· [...] εἰδέναι δὲ καὶ τοῦτο προσήκει, ὡς Μωϋσῆς τύπον ἐπέχει τοῦ νόμου [...], Ἰησοῦς δὲ ὁ τοῦ Ναυῆ, τύπος τοῦ σωτῆρος τῆς οἰκουμένης. ὥσπερ τοίνυν Μωϋσῆς μὲν ἐξήγαγε τὸν λαὸν ἐξ Αἰγύπτου, Ἰησοῦς δὲ αὐτὸν εἰς τὴν ἐπηγγελμένην εἰσήγαγε γῆν, οὕτως ὁ νόμος μὲν τῆς ἀσεβείας ἀπαλλάττει τοὺς πειθομένους, ἡ δὲ τῶν εὐαγγελίων χάρις εἰς τὴν βασιλείαν εἰσάγει τῶν οὐρανῶν.",
-     "texto": "Deve-se saber também que o Senhor dispõe uma coisa por meio de outra. Assim, não permitiu que este grande profeta, Moisés, introduzisse o povo na terra da promessa, para que os israelitas não o adorassem como Deus: quem divinizou coisas sem vida e chamou de deus a imagem de um bezerro teria adorado muito mais, como deus, o servidor de tantos bens. [...] Convém saber ainda que Moisés é figura da Lei [...], e Josué, filho de Num, é figura do Salvador do mundo. Como Moisés tirou o povo do Egito e Josué o introduziu na terra prometida, assim a Lei livra da impiedade os que lhe obedecem, e a graça dos Evangelhos introduz no reino dos céus."
+     "texto": "Deve-se saber também que o Senhor dispõe uma coisa por meio de outra. Assim, não permitiu que este grande profeta, Moisés, introduzisse o povo na terra da promessa, para que os israelitas não o adorassem como Deus: quem divinizou coisas sem vida e chamou de deus a imagem de um bezerro teria adorado muito mais, como deus, o servidor de tantos bens. [...] Convém saber ainda que Moisés é figura da Lei [...], e Josué, filho de Num, é figura do Salvador do mundo. Como Moisés tirou o povo do Egito e Josué o introduziu na terra prometida, assim a Lei livra da impiedade os que lhe obedecem, e a graça dos Evangelhos introduz no reino dos céus.",
+     "passagem": "Quaest. in Deut. 43 (ed. Fernández Marcos–Sáenz-Badillos, 1979)",
+     "edicao": ""
     }
    ]
   }
