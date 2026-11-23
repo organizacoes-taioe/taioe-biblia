@@ -58,6 +58,7 @@ Vale para pessoas, povos e lugares, também nos comentários dos Padres.
 - Nm 34: os lugares da fronteira e os chefes das tribos, que a liturgia não lê, como no projeto antigo (o mar Salgado, o mar Grande, o mar de Ceneret, com notas); Caleb, filho de Jefoné; Josué, filho de Num.
 - Dt 2: Ló, como o lecionário (Gn 13; a tradução de partida dizia «Lot»); Asion-Gaber, como Nm 33; os aveus (*'avvim*; a tradução de partida dizia «heveus», que são outro povo, *ḥivvi*); Seir, Esaú, Elat, Ar, Zared, Arnon, Cademot, Seon, Hesbon, Jasa, Aroer, Galaad, Jaboc, Gaza, Caftor (os caftorim), os emim, os enacim, os refaim, os zomzomim e os horreus, que a liturgia não lê, como no projeto antigo.
 - Dt 3: Og, Basã, Edrai, Seon, Hesbon, Arnon, Hermon, Galaad, Aroer, Maquir, Jair, Havot-Jair, Jaboc, Ceneret, o mar Salgado, o Fasga e Fogor (Bet-Fogor), como em Números; Argob, Sarion, Sanir, Salca, Rabá, Arabá e os refaim, que a liturgia não lê no capítulo, como no projeto antigo; «maacatitas», como em Josué (a partida dizia «macatitas»).
+- Dt 1: Faran, Haserot, Cades-Barne, o vale de Escol, Seir, Seon, Hesbon, Og, Basã, Edrai, Negueb, Horma, Caleb, filho de Jefoné, e Josué, filho de Num, como em Números; Arabá, Suf, Tofel, Labã, Di-Zaab, Astarot, Sefelá e Horeb, que a liturgia não lê no capítulo, como no projeto antigo.
 - Gn 3: Eva e Éden, como o lecionário.
 - Sl 38–47: Iditun, Coré (os filhos de Coré), o Jordão, o Hermon, o monte Misar, Jacó, Tiro, Ofir (como o lecionário da Assunção) e Abraão, como no projeto antigo.
 - Sl 48–57: Sião, Társis, Asaf, Natã, Betsabé (como o lecionário; a tradução de partida dizia «Betsabeia»), Urias, Doeg, o edomita, Aquimelec, Nob, Zif (os zifeus), Gat, os filisteus, Adulam e Engadi.
@@ -351,6 +352,17 @@ Vale para pessoas, povos e lugares, também nos comentários dos Padres.
 | *lo al-hallehem levaddo yihye ha'adam* | nem só de pão vive o homem | Dt 8,3; «mas de tudo o que sai da boca do Senhor» (o hebraico), a confirmar («de toda palavra», a Bíblia grega, o lecionário e Mt 4,4) | Dt 8, a confirmar |
 | *qeshe-oref* | um povo de cabeça dura | Dt 9,6.13, como o lecionário (Êx 32,9; 34,9); a confirmar («de dura cerviz», a tradução de partida); vale para Êx 32–34, Dt 10,16; 31,27 e At 7,51 | Dt 9, a confirmar |
 | *yagorti* (Dt 9,19) | tive pavor | | Dt 9 |
+| *nasa* (Dt 1,9.12.31) | carregar | «Não posso carregar-vos sozinho» (v. 9) e o Senhor que «te carregou, como um homem carrega o seu filho» (v. 31): o eco entre Moisés e Deus; a tradução de partida dizia «suportar» e «levar» | Dt 1 |
+| *torah* / *massa* (Dt 1,12) | fardo / carga | «o vosso fardo, a vossa carga e as vossas contendas» | Dt 1 |
+| *vidu'im* (Dt 1,13.15) | reconhecidos | «homens sábios, entendidos e reconhecidos nas vossas tribos»; a tradução de partida dizia «experimentados» | Dt 1 |
+| *rashim* / *sare alafim* (Dt 1,15) | cabeças / chefes de mil | «os cabeças das vossas tribos… chefes de mil, chefes de cem», como *rashe avot* (Nm 36,1) e *sar* = «chefe» | Dt 1 |
+| *shoterim* | oficiais | Dt 1,15 | projeto antigo |
+| *nilham* | combater | Dt 1,30.41.42, como Nm 21,23.26.33 e 22,11; a tradução de partida dizia «pelejar» | Dt 1 |
+| *besin'at YHWH otanu* (Dt 1,27) | É porque nos odeia que o Senhor… | a ênfase do hebraico; a tradução de partida dizia «O Senhor nos odeia; por isso…» | Dt 1 |
+| *latur* (Dt 1,33) | explorar | o verbo dos exploradores de Nm 13: o próprio Senhor ia à frente «para explorar um lugar onde acampásseis»; a tradução de partida dizia «procurar» | Dt 1 |
+| *hazzeq* (Dt 1,38) | encorajar | «Encoraja-o»; a tradução de partida dizia «Anima-o» | Dt 1 |
+| *lo-yad'u tov vara'* (Dt 1,39) | não conhecem o bem e o mal | o eco de Gn 2,9.17; a tradução de partida dizia «não sabem distinguir» | Dt 1 |
+| *vattahinu* (Dt 1,41) | achastes fácil | palavra que só aparece aqui | Dt 1 |
 
 ## Inconsistências conhecidas, para corrigir quando o capítulo entrar
 
@@ -363,6 +375,7 @@ Vale para pessoas, povos e lugares, também nos comentários dos Padres.
 - Gênesis 1 (25/10): conforme as escolhas, Jr 4,23 e Is 34,11; 45,18 (*tohu*), Gn 5,2 («macho e fêmea»),
   Sl 104,19 (*mo'adim*) e os lugares do Espírito de Deus no Antigo Testamento.
 - Gênesis 4 (26/10): «Enos» → «Enós» em Gn 5 e onde mais aparecer; Mt 18,22 («setenta vezes sete» ou «setenta e sete») ao entrar Mateus.
+- *Nilham*: «pelejar» em Nm 31,7.27.28.42 e 32,27, «combater» em Nm 21–22 e Dt 1: uniformizar em «combater» numa próxima revisão de Números.
 - *Aiṓn* = «século» em 1Cor 1,20; 2,6–8 («os príncipes deste século»), mas «mundo» em 2Cor 4,4, Gl 1,4 e Ef 2,2: decidir com o Gere ao entrar 1 Coríntios («século» hoje se entende como cem anos).
 - 2Cor 5–7 (02/11): *splánchna* («entranhas» → «afeto»), *gnôsis* («ciência» → «conhecimento») e *ápistos* («infiel» → «incrédulo») no resto do NT ao entrarem; *metánoia* conforme a escolha de 2Cor 7,10.
 - Dt 6 e 9 (23/11): «Massá» → «Massa» em Êx 17,7 e no Sl 95 ao entrarem; *qeshe-oref* conforme a escolha de Dt 9,6.

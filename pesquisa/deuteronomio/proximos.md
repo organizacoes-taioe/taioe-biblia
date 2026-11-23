@@ -43,3 +43,7 @@ De `003/achados-latinos.json` e `003/achados-gregos.json`, sobre Josué que intr
 - **Sl 106,23**: Agostinho, *Enarr.* 105, 21; Bernardo, *SC* 76 (a intercessão de Moisés; o Catecismo 2577 já está em Dt 9).
 - Autores achados e não usados em Dt 9, por serem novos: Remígio de Lião (*De damnatione generali*, Dt 9,19-20: a ira aplacada pela oração), Franco de Affligem (*De gratia Dei* IV, Dt 9,1-6), Marko Marulić (humanista, não santo).
 - Busca por frase no Corpus Corporum: `https://mlat.uzh.ch/php_modules/fulltext_search.php?&query="frase"&offset=0&limit=30&order_by=&index_type=s`.
+## Dt 1 e 2 (achado depois de os capítulos prontos; `003/relatorio-orientais.md`)
+
+- Efrém sobre Dt 1,37-38: Deus parece tirar algo de Moisés ao engrandecer Josué, mas Josué é menor que Moisés (Assemani I, comentário a Dt 1).
+- Efrém sobre Dt 2,30: Deus endurece Seon como a Faraó; cada um colhe o fim dos seus costumes.
