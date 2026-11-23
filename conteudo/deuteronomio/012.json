@@ -1,0 +1,51 @@
+{
+ "livro": "deuteronomio",
+ "cap": 12,
+ "estado": "em revisão",
+ "atualizado": "2026-11-23",
+ "trechos": [
+  {"id": "1", "titulo": "O lugar único do culto", "de": 1},
+  {"id": "2", "titulo": "O sangue e a carne", "de": 13},
+  {"id": "3", "titulo": "Não imitar as nações", "de": 29}
+ ],
+ "texto": [
+  {"s": "O lugar único do culto"},
+  {"v": 1, "t": "Estes são os estatutos e as normas de direito que cuidareis de cumprir na terra que o Senhor, Deus de teus pais, te deu para dela tomares posse, todos os dias que viverdes sobre o solo."},
+  {"v": 2, "t": "Destruireis inteiramente todos os lugares em que as nações que ides desapossar serviram aos seus deuses, sobre os montes altos, sobre as colinas e debaixo de toda árvore frondosa."},
+  {"v": 3, "t": "Derrubareis os seus altares, quebrareis as suas estelas, queimareis no fogo os seus postes sagrados, despedaçareis as imagens esculpidas dos seus deuses e apagareis o nome deles daquele lugar."},
+  {"v": 4, "t": "Não fareis assim com o Senhor vosso Deus;"},
+  {"v": 5, "t": "mas buscareis o lugar que o Senhor vosso Deus escolher dentre todas as vossas tribos, para ali pôr o seu nome e nele habitar; e para lá irás."},
+  {"v": 6, "t": "Para lá levareis os vossos holocaustos e os vossos sacrifícios, os vossos dízimos e as ofertas das vossas mãos, os vossos votos e as vossas ofertas espontâneas, e os primogênitos das vossas vacas e das vossas ovelhas."},
+  {"v": 7, "t": "Ali comereis diante do Senhor vosso Deus e vos alegrareis, vós e as vossas casas, por tudo a que tiverdes posto a mão, em que o Senhor teu Deus te abençoou."},
+  {"v": 8, "t": "Não fareis como fazemos aqui hoje, cada um o que é reto aos seus olhos,"},
+  {"v": 9, "t": "porque até agora não chegastes ao descanso e à herança que o Senhor teu Deus te dá."},
+  {"v": 10, "t": "Mas passareis o Jordão e habitareis na terra que o Senhor vosso Deus vos dá em herança; ele vos dará descanso de todos os vossos inimigos ao redor, e habitareis em segurança."},
+  {"v": 11, "t": "Então, ao lugar que o Senhor vosso Deus escolher para fazer habitar ali o seu nome, para lá levareis tudo o que vos ordeno: os vossos holocaustos e os vossos sacrifícios, os vossos dízimos e as ofertas das vossas mãos, e o melhor dos votos que fizerdes ao Senhor."},
+  {"v": 12, "t": "E vos alegrareis diante do Senhor vosso Deus, vós, vossos filhos e vossas filhas, os vossos servos e as vossas servas, e o levita que mora dentro das vossas portas, porque não tem parte nem herança convosco."},
+  {"s": "O sangue e a carne"},
+  {"v": 13, "t": "Guarda-te de oferecer os teus holocaustos em qualquer lugar que vires;"},
+  {"v": 14, "t": "mas no lugar que o Senhor escolher numa das tuas tribos, ali oferecerás os teus holocaustos, e ali farás tudo o que te ordeno."},
+  {"v": 15, "t": "Contudo, sempre que a tua alma o desejar, poderás matar animais e comer carne dentro de todas as tuas portas, segundo a bênção que o Senhor teu Deus te tiver dado; o impuro e o puro dela comerão, como se come a gazela e o veado."},
+  {"v": 16, "t": "Somente não comereis o sangue; sobre a terra o derramarás como água."},
+  {"v": 17, "t": "Não poderás comer dentro das tuas portas o dízimo do teu trigo, do teu vinho novo e do teu azeite, nem os primogênitos das tuas vacas e das tuas ovelhas, nem nenhum dos votos que fizeres, nem as tuas ofertas espontâneas, nem as ofertas das tuas mãos;"},
+  {"v": 18, "t": "mas os comerás diante do Senhor teu Deus, no lugar que o Senhor teu Deus escolher, tu, teu filho e tua filha, o teu servo e a tua serva, e o levita que mora dentro das tuas portas; e te alegrarás diante do Senhor teu Deus por tudo a que tiveres posto a mão."},
+  {"v": 19, "t": "Guarda-te de desamparar o levita, todos os teus dias sobre o teu solo."},
+  {"v": 20, "t": "Quando o Senhor teu Deus alargar o teu território, como te disse, e disseres: Quero comer carne, porque a tua alma deseja comer carne, comerás carne quanto a tua alma desejar."},
+  {"v": 21, "t": "Se estiver longe de ti o lugar que o Senhor teu Deus escolher para ali pôr o seu nome, matarás das tuas vacas e das tuas ovelhas que o Senhor te deu, como te ordenei, e comerás dentro das tuas portas quanto a tua alma desejar."},
+  {"v": 22, "t": "Como se come a gazela e o veado, assim a comerás; o impuro e o puro juntamente a comerão."},
+  {"v": 23, "t": "Somente sê firme em não comer o sangue, porque o sangue é a vida, e não comerás a vida com a carne."},
+  {"v": 24, "t": "Não o comerás; sobre a terra o derramarás como água."},
+  {"v": 25, "t": "Não o comerás, para que te vá bem, a ti e a teus filhos depois de ti, fazendo o que é reto aos olhos do Senhor."},
+  {"v": 26, "t": "Somente as coisas santas que tiveres e os teus votos, tu os tomarás e irás ao lugar que o Senhor escolher;"},
+  {"v": 27, "t": "e oferecerás os teus holocaustos, a carne e o sangue, sobre o altar do Senhor teu Deus; o sangue dos teus sacrifícios será derramado sobre o altar do Senhor teu Deus, e a carne tu a comerás."},
+  {"v": 28, "t": "Guarda e ouve todas estas palavras que te ordeno, para que te vá bem, a ti e a teus filhos depois de ti, para sempre, fazendo o que é bom e reto aos olhos do Senhor teu Deus."},
+  {"s": "Não imitar as nações"},
+  {"v": 29, "t": "Quando o Senhor teu Deus houver eliminado de diante de ti as nações para onde vais a fim de as desapossar, e as tiveres desapossado e habitares na terra delas,"},
+  {"v": 30, "t": "guarda-te de cair no laço, seguindo-as depois de destruídas diante de ti, e de perguntar pelos seus deuses, dizendo: Como estas nações serviam aos seus deuses? Assim farei eu também."},
+  {"v": 31, "t": "Não farás assim com o Senhor teu Deus, porque tudo o que é abominação para o Senhor, o que ele odeia, elas fizeram aos seus deuses: até os seus filhos e as suas filhas queimavam no fogo para os seus deuses."}
+ ],
+ "notas": [
+  {"id": "n01", "v": 5, "apos": "habitar", "texto": "O livro não diz qual é esse lugar; mais tarde será Jerusalém, onde Salomão construiu o Templo.", "origem": "nova: contexto para o leitor"}
+ ],
+ "comentarios": {}
+}

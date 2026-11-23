@@ -1,0 +1,39 @@
+{
+ "livro": "deuteronomio",
+ "cap": 13,
+ "estado": "em revisão",
+ "atualizado": "2026-11-23",
+ "trechos": [
+  {"id": "1", "titulo": "Nada acrescentar; o profeta que seduz", "de": 1},
+  {"id": "2", "titulo": "O parente que seduz em segredo", "de": 7},
+  {"id": "3", "titulo": "A cidade apóstata", "de": 13}
+ ],
+ "texto": [
+  {"s": "Nada acrescentar; o profeta que seduz"},
+  {"v": 1, "t": "Tudo o que vos ordeno, isso cuidareis de cumprir; nada lhe acrescentarás nem dele tirarás."},
+  {"v": 2, "t": "Se se levantar no meio de ti um profeta ou um sonhador de sonhos, e te der um sinal ou um prodígio,"},
+  {"v": 3, "t": "e acontecer o sinal ou o prodígio de que te falou, e ele disser: Vamos atrás de outros deuses, que não conheceste, e sirvamo-los,"},
+  {"v": 4, "t": "não ouvirás as palavras daquele profeta ou daquele sonhador de sonhos, porque o Senhor vosso Deus vos está pondo à prova, para saber se amais o Senhor vosso Deus de todo o vosso coração e de toda a vossa alma."},
+  {"v": 5, "t": "Seguireis o Senhor vosso Deus, a ele temereis, os seus mandamentos guardareis, a sua voz ouvireis, a ele servireis e a ele vos unireis."},
+  {"v": 6, "t": "Aquele profeta ou sonhador de sonhos será morto, porque pregou rebelião contra o Senhor vosso Deus, que vos tirou da terra do Egito e te resgatou da casa da servidão, para te desviar do caminho que o Senhor teu Deus te mandou seguir. Assim extirparás o mal do meio de ti."},
+  {"s": "O parente que seduz em segredo"},
+  {"v": 7, "t": "Se teu irmão, filho de tua mãe, ou teu filho, ou tua filha, ou a mulher que repousa no teu peito, ou o amigo que é como a tua alma, te induzir em segredo, dizendo: Vamos e sirvamos a outros deuses, que nem tu nem teus pais conhecestes,"},
+  {"v": 8, "t": "dentre os deuses dos povos que vos rodeiam, perto ou longe de ti, de um extremo ao outro da terra,"},
+  {"v": 9, "t": "não consentirás com ele nem o ouvirás; o teu olho não terá piedade dele, não o pouparás nem o encobrirás;"},
+  {"v": 10, "t": "mas o matarás sem falta. A tua mão será a primeira contra ele, para o matar, e depois a mão de todo o povo."},
+  {"v": 11, "t": "Tu o apedrejarás até morrer, porque procurou desviar-te do Senhor teu Deus, que te tirou da terra do Egito, da casa da servidão."},
+  {"v": 12, "t": "Todo o Israel ouvirá e temerá, e nunca mais se fará semelhante maldade no meio de ti."},
+  {"s": "A cidade apóstata"},
+  {"v": 13, "t": "Se ouvires dizer de uma das tuas cidades que o Senhor teu Deus te dá para nelas habitares,"},
+  {"v": 14, "t": "que saíram do meio de ti homens perversos e desviaram os habitantes da sua cidade, dizendo: Vamos e sirvamos a outros deuses, que não conhecestes,"},
+  {"v": 15, "t": "então investigarás, examinarás e indagarás com cuidado; e se for verdade, se o fato for certo, e tal abominação se cometeu no meio de ti,"},
+  {"v": 16, "t": "passarás ao fio da espada os habitantes daquela cidade, consagrando-a por anátema, com tudo o que nela houver, e também o seu gado, ao fio da espada."},
+  {"v": 17, "t": "Ajuntarás todo o seu despojo no meio da praça e queimarás no fogo a cidade e todo o seu despojo, como oferta inteira ao Senhor teu Deus; e ela será para sempre um monte de ruínas, e nunca mais será reedificada."},
+  {"v": 18, "t": "Nada do que foi consagrado por anátema se pegará à tua mão, para que o Senhor se afaste do ardor da sua ira, te conceda compaixão, se compadeça de ti e te multiplique, como jurou a teus pais,"},
+  {"v": 19, "t": "se ouvires a voz do Senhor teu Deus, guardando todos os seus mandamentos que hoje te ordeno, e fazendo o que é reto aos olhos do Senhor teu Deus."}
+ ],
+ "notas": [
+  {"id": "n01", "v": 1, "texto": "Em muitas Bíblias este versículo é o último do capítulo 12, e os seguintes têm um número a menos.", "origem": "nova: contexto para o leitor"}
+ ],
+ "comentarios": {}
+}
