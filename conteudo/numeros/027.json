@@ -37,9 +37,9 @@
   {"v": 23, "t": "impôs-lhe as mãos e deu-lhe ordens, como o Senhor falara por meio de Moisés."}
  ],
  "notas": [
-  {"id": "n01", "v": 12, "apos": "Abarim", "texto": "Os montes Abarim ficam a leste do mar Morto; deles faz parte o monte Nebo, de onde Moisés verá a terra antes de morrer (Dt 32,49; 34,1).", "origem": "nova: lugar pouco conhecido; saíram do projeto antigo as notas do v. 5 (os quatro casos da Lei: análise), do v. 16 (interpretação), do v. 17 (as ovelhas sem pastor nos Evangelhos: associação) e do v. 20 (interpretação)"},
-  {"id": "n02", "v": 14, "apos": "Sin", "texto": "O episódio está em 20,1-13.", "origem": "nova: situa a referência (o Gere gosta das notas que situam o leitor, Nm 14,17)"},
-  {"id": "n03", "v": 21, "apos": "Urim", "texto": "O Urim, com o Tumim, era o meio que o sumo sacerdote tinha para consultar a Deus sobre uma decisão (Ex 28,30).", "origem": "nova: objeto do culto que o leitor não conhece"}
+  {"id": "n01", "v": 12, "apos": "Abarim", "texto": "Os montes Abarim ficam a leste do mar Morto; deles faz parte o monte Nebo, de onde Moisés verá a terra antes de morrer (Dt 32,49; 34,1).", "origem": "nova: lugar pouco conhecido; saíram do projeto antigo as notas do v. 5 (os quatro casos da Lei: análise), do v. 16 (interpretação), do v. 17 (as ovelhas sem pastor nos Evangelhos: associação) e do v. 20 (interpretação)", "revista": true},
+  {"id": "n02", "v": 14, "apos": "Sin", "texto": "O episódio está em 20,1-13.", "origem": "nova: situa a referência (o Gere gosta das notas que situam o leitor, Nm 14,17)", "revista": true},
+  {"id": "n03", "v": 21, "apos": "Urim", "texto": "O Urim, com o Tumim, era o meio que o sumo sacerdote tinha para consultar a Deus sobre uma decisão (Ex 28,30).", "origem": "nova: objeto do culto que o leitor não conhece", "revista": true}
  ],
  "comentarios": {
   "1": {

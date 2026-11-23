@@ -63,6 +63,7 @@ Vale para pessoas, povos e lugares, também nos comentários dos Padres.
 - Gn 4: Adão, Eva, Caim, Abel e Set, como o lecionário; Nod, Henoc, Irad, Maviael, Matusael, Lamec, Ada, Sela, Jabel, Jubal, Tubalcaim e Noema, que a liturgia não lê, como no projeto antigo; *Enosh* = Enós (o projeto antigo dizia «Enos»; Gn 5 muda ao entrar).
 - Gn 2: Éden (como o lecionário); Píson, Havilá, Geon, Tigre, Assíria e Eufrates, que a liturgia não lê, como no projeto antigo; *Kush* = Etiópia (2,13), como em Nm 12.
   Caat, Felet e Eliab (Nm 16), que a liturgia não lê, ficaram como no projeto antigo (aprovado).
+- Dt 4: Israel e o Senhor como o lecionário (Dt 4,1-2.6-8; 4,1.5-9; 4,32-40); Baal-Fogor e Bet-Fogor (como Nm 25), Horeb, Bosor, Ramot, Galaad, Golã, Basã, Seon, Hesbon, Og, Aroer, Arnon, o monte Sion (o Hermon, com nota: não é Sião), Arabá, o mar da Arabá e o Fasga, que a liturgia não lê, como no projeto antigo.
 
 ## Vocabulário
 
@@ -319,6 +320,13 @@ Vale para pessoas, povos e lugares, também nos comentários dos Padres.
 | *hanaf* (Nm 35,33) | poluir | «o sangue polui a terra»; *timme* (v. 34) fica «contaminar» | Nm 35 |
 | *go'el haddam* | o vingador do sangue | Nm 35,12-27 (nota no v. 12) | projeto antigo |
 | *rashe avot* (com *nasi* ao lado) | os cabeças das casas paternas | Nm 36,1, para não repetir «chefes» quando *nasi* vem junto; sozinho, fica «os chefes das casas paternas» (Nm 31,26; 32,28) | Nm 36 |
+| *huqqim umishpatim* | os estatutos e as normas de direito | Dt 4,1.5.8.14.45, como Nm 36,13; *torá* fica «lei»; o lecionário diz «as leis e os decretos» | Dt 4, a confirmar |
+| *pesel* / *temuná* / *semel* / *tavnit* (Dt 4,16-18) | imagem esculpida / figura / ídolo / forma | «imagem esculpida, figura de qualquer ídolo, forma de homem ou de mulher»; a tradução de partida dizia «figura» para as duas últimas | Dt 4 |
+| *dabaq* (Dt 4,4) | unir-se | «vós, que vos unistes ao Senhor», como Gn 2,24 | Dt 4 |
+| *rahum* (Dt 4,31) | compassivo | como *rahamim* = compaixão; a tradução de partida dizia «misericordioso», que é *hesed* | Dt 4 |
+| *'esh okhla, el qanna* (Dt 4,24) | fogo devorador, um Deus zeloso | como Êx 20,5; Js 24,19 («ciumento») muda ao entrar | Dt 4 |
+| *vahashevota el-levavekha* (Dt 4,39) | grava no teu coração | como o lecionário da Santíssima Trindade | Dt 4 |
+| *lema'an yitav lekha* (Dt 4,40) | para que te vá bem | o lecionário diz «para que sejas feliz» | Dt 4 |
 
 ## Inconsistências conhecidas, para corrigir quando o capítulo entrar
 

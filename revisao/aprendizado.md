@@ -133,3 +133,5 @@ de onde veio. Ler antes de preparar um capítulo (`CAPITULO.md`, etapas 2 a 4).
   é ponto de partida, não regra cega: em cada lugar, conferir se o contexto pede outra palavra.
 - 2026-11-16, Nm 20,29 (o luto de trinta dias, alterada): «era pelos grandes» → «era especial». Não afirmar
   na nota mais do que o texto sustenta.
+- 2026-11-22, Nm 25,11 (a nota da Missa, para reescrever): «Está confuso. A missa lembra ou a leitura lembra? De que modo a missa lembra?». Nota de liturgia diz qual é a leitura e o que ela faz com o versículo.
+- 2026-11-22, Nm 26,33 (a nota que remetia ao capítulo seguinte, excluída): «É só continuar que vou ver isso, não precisa avisar na nota». Nota não anuncia o que vem logo adiante.

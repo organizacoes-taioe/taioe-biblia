@@ -83,10 +83,9 @@
   {"v": 65, "t": "porque o Senhor dissera deles que morreriam no deserto; e nenhum deles ficou, senão Caleb, filho de Jefoné, e Josué, filho de Num."}
  ],
  "notas": [
-  {"id": "n01", "v": 1, "apos": "dizendo", "texto": "É o segundo recenseamento do livro; o primeiro foi feito no deserto do Sinai, quase quarenta anos antes (capítulo 1). Deles vem o nome «Números».", "origem": "revista do projeto antigo: ficou o contexto; saiu «nenhum nome se repete, salvo Caleb e Josué», que o v. 65 já diz"},
-  {"id": "n02", "v": 11, "apos": "morreram", "texto": "Dos descendentes de Coré vieram os cantores do Templo, cujo nome está no título de onze salmos (Sl 42–49; 84–85; 87–88).", "origem": "revista do projeto antigo: lembra quem são os filhos de Coré, que o leitor conhece dos Salmos"},
-  {"id": "n03", "v": 33, "apos": "Tersa", "texto": "O caso destas filhas é contado no capítulo seguinte (27,1-11).", "origem": "revista do projeto antigo: situa a referência; saíram as notas do v. 14 (Simeão, análise), do v. 51 (os números, análise) e do v. 55 (a sorte, interpretação)"},
-  {"id": "n04", "v": 65, "apos": "morreriam no deserto", "texto": "Cumpre-se o que o Senhor tinha dito em Cades, depois da volta dos exploradores (14,29-30).", "origem": "revista do projeto antigo: situa a referência"}
+  {"id": "n01", "v": 1, "apos": "dizendo", "texto": "É o segundo recenseamento do livro; o primeiro foi feito no deserto do Sinai, quase quarenta anos antes (capítulo 1). Deles vem o nome «Números».", "origem": "revista do projeto antigo: ficou o contexto; saiu «nenhum nome se repete, salvo Caleb e Josué», que o v. 65 já diz", "revista": true},
+  {"id": "n02", "v": 11, "apos": "morreram", "texto": "Dos descendentes de Coré vieram os cantores do Templo, cujo nome está no título de onze salmos (Sl 42–49; 84–85; 87–88).", "origem": "revista do projeto antigo: lembra quem são os filhos de Coré, que o leitor conhece dos Salmos", "revista": true},
+  {"id": "n04", "v": 65, "apos": "morreriam no deserto", "texto": "Cumpre-se o que o Senhor tinha dito em Cades, depois da volta dos exploradores (14,29-30).", "origem": "revista do projeto antigo: situa a referência", "revista": true}
  ],
  "comentarios": {
   "1": {
