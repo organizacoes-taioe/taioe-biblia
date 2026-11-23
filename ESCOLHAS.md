@@ -69,6 +69,7 @@ Vale para pessoas, povos e lugares, também nos comentários dos Padres.
 - Dt 4: Israel e o Senhor como o lecionário (Dt 4,1-2.6-8; 4,1.5-9; 4,32-40); Baal-Fogor e Bet-Fogor (como Nm 25), Horeb, Bosor, Ramot, Galaad, Golã, Basã, Seon, Hesbon, Og, Aroer, Arnon, o monte Sion (o Hermon, com nota: não é Sião), Arabá, o mar da Arabá e o Fasga, que a liturgia não lê, como no projeto antigo.
 - Dt 5–9: Horeb, Abraão, Isaac, Jacó, o faraó e Aarão, como o lecionário; os hititas (Nm 13), os amorreus, os cananeus e os jebuseus, como antes; os gergeseus, os ferezeus e os heveus (como Js 24,11), Enac, Tabera, Quibrot-Hataavá e Cades-Barne, como no projeto antigo; **Massa**, sem acento (Dt 6,16; 9,22), como o lecionário de Êx 17,7 e o Sl 95 da liturgia, ao lado de Meriba (a tradução de partida dizia «Massá»).
 - Dt 10–14: Levi, Aarão, Eleazar, Datã e Abiram (como Nm 16 e 26; a partida dizia «Datan» e «Abiron»), Rúben, Eliab, o Líbano, o Eufrates, Garizim, Ebal, Moré e a Arabá, como no projeto antigo; **Guilgal**, como o lecionário de Js 5,10 (a partida dizia «Gálgala»); Beerot-Benê-Jaacan e **Jetebata**, como Nm 33 (a partida dizia «Bene-Jaacan» e «Jotbatá»); Moserá e Gudgoda, como no projeto antigo.
+- Dt 15–19: Abib, o Horeb e os sacerdotes levitas, como no projeto antigo; sem nomes novos.
 
 ## Vocabulário
 
@@ -374,6 +375,15 @@ Vale para pessoas, povos e lugares, também nos comentários dos Padres.
 | *kalil* (Dt 13,17) | oferta inteira | como Sl 51,21 | Dt 13 |
 | *shekhar* | bebida forte | Dt 14,26, como em Números | Dt 14 |
 | *peres* (Dt 14,12) | quebra-ossos | a partida dizia «quebrantosso» | Dt 14 |
+| *shemittá* | remissão | Dt 15,1.2.9; «deixar cair» a dívida (*shamat*) | projeto antigo |
+| *be'ahad she'arekha* / *bish'arekha* | numa das tuas cidades / dentro das tuas portas | as duas formas, pelo contexto (Dt 15,7; 16,5; 17,2 × 12,15; 14,21) | Dt 15 |
+| *mum* (Dt 15,21; 17,1) | mancha | como Nm 19,2 | Dt 15 |
+| *hamets* / *se'or* | pão fermentado / fermento | Dt 16,3-4; a partida dizia «levedado» | Dt 16 |
+| *atseret* (Dt 16,8) | reunião solene | como Nm 29,35 | Dt 16 |
+| *zekhur* (Dt 16,16) | homem | como *zakhar* (Nm 26,62); a partida dizia «varão» | Dt 16 |
+| *tsedeq tsedeq tirdof* | A justiça, só a justiça seguirás | Dt 16,20 | Dt 16 |
+| *ov veyidde'oni* | espíritos ou adivinhos | Dt 18,11 | Dt 18 |
+| *dibber* (o profeta e o Senhor) | dizer | Dt 18,18-22 «a palavra que o Senhor não disse» | Dt 18 |
 
 ## Inconsistências conhecidas, para corrigir quando o capítulo entrar
 

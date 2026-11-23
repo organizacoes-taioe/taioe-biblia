@@ -1,0 +1,45 @@
+{
+ "livro": "deuteronomio",
+ "cap": 15,
+ "estado": "em revisão",
+ "atualizado": "2026-11-23",
+ "trechos": [
+  {"id": "1", "titulo": "O ano da remissão", "de": 1},
+  {"id": "2", "titulo": "O irmão pobre", "de": 7},
+  {"id": "3", "titulo": "O escravo hebreu", "de": 12},
+  {"id": "4", "titulo": "Os primogênitos do gado", "de": 19}
+ ],
+ "texto": [
+  {"s": "O ano da remissão"},
+  {"v": 1, "t": "Ao fim de cada sete anos farás remissão."},
+  {"v": 2, "t": "Esta é a forma da remissão: todo credor deixará cair o que emprestou ao seu próximo; não o cobrará do seu próximo, do seu irmão, porque foi proclamada a remissão em honra do Senhor."},
+  {"v": 3, "t": "Do estrangeiro poderás cobrar; mas o que teu irmão tiver de teu, a tua mão o deixará cair."},
+  {"v": 4, "t": "Contudo, não haverá pobre no meio de ti, porque o Senhor te abençoará abundantemente na terra que o Senhor teu Deus te dá em herança, para dela tomares posse,"},
+  {"v": 5, "t": "contanto que ouças de fato a voz do Senhor teu Deus e cuides de cumprir todo este mandamento que hoje te ordeno."},
+  {"v": 6, "t": "Pois o Senhor teu Deus te abençoará, como te disse: emprestarás a muitas nações, mas tu não tomarás emprestado; dominarás muitas nações, mas elas não te dominarão."},
+  {"s": "O irmão pobre"},
+  {"v": 7, "t": "Se houver no meio de ti algum pobre dentre teus irmãos, em alguma das tuas cidades, na terra que o Senhor teu Deus te dá, não endurecerás o teu coração nem fecharás a mão ao teu irmão pobre;"},
+  {"v": 8, "t": "antes lhe abrirás de todo a tua mão e lhe emprestarás o suficiente para a necessidade que ele tiver."},
+  {"v": 9, "t": "Guarda-te de abrigar no coração este pensamento vil: Está perto o sétimo ano, o ano da remissão; e de olhar com maus olhos para o teu irmão pobre, sem nada lhe dar; ele clamaria contra ti ao Senhor, e haveria pecado em ti."},
+  {"v": 10, "t": "Tu lhe darás sem falta, e o teu coração não se entristecerá quando lhe deres, pois por isso o Senhor teu Deus te abençoará em toda a tua obra e em tudo a que puseres a mão."},
+  {"v": 11, "t": "Porque nunca deixará de haver pobres na terra; por isso te ordeno: Abrirás de todo a tua mão ao teu irmão, ao necessitado e ao pobre da tua terra."},
+  {"s": "O escravo hebreu"},
+  {"v": 12, "t": "Se teu irmão hebreu, homem ou mulher, se vender a ti e te servir seis anos, no sétimo ano o deixarás ir livre."},
+  {"v": 13, "t": "E, quando o deixares ir livre, não o mandarás embora de mãos vazias:"},
+  {"v": 14, "t": "tu o abastecerás generosamente do teu rebanho, da tua eira e do teu lagar; darás a ele do que o Senhor teu Deus te abençoou."},
+  {"v": 15, "t": "Lembra-te de que foste servo na terra do Egito, e de que o Senhor teu Deus te resgatou; por isso hoje te ordeno isto."},
+  {"v": 16, "t": "Mas se ele te disser: Não quero sair de junto de ti, porque te ama, a ti e à tua casa, e porque se acha bem contigo,"},
+  {"v": 17, "t": "então tomarás uma sovela e lhe furarás a orelha contra a porta, e ele será teu servo para sempre; e do mesmo modo farás com a tua serva."},
+  {"v": 18, "t": "Não te pareça duro deixá-lo ir livre, pois em seis anos te serviu pelo dobro do salário de um diarista; e o Senhor teu Deus te abençoará em tudo o que fizeres."},
+  {"s": "Os primogênitos do gado"},
+  {"v": 19, "t": "Consagrarás ao Senhor teu Deus todo primogênito macho que nascer das tuas vacas e das tuas ovelhas; não trabalharás com o primogênito da tua vaca, nem tosquiarás o primogênito das tuas ovelhas."},
+  {"v": 20, "t": "Diante do Senhor teu Deus o comerás, ano após ano, tu e a tua casa, no lugar que o Senhor escolher."},
+  {"v": 21, "t": "Mas se tiver alguma mancha, se for coxo ou cego, qualquer mancha grave, não o sacrificarás ao Senhor teu Deus;"},
+  {"v": 22, "t": "dentro das tuas portas o comerás; o impuro e o puro juntamente o comerão, como se come a gazela e o veado."},
+  {"v": 23, "t": "Somente não comerás o seu sangue; sobre a terra o derramarás como água."}
+ ],
+ "notas": [
+  {"id": "n01", "v": 17, "apos": "porta", "texto": "A orelha furada na porta da casa era o sinal de que ele pertencia àquela casa para sempre.", "origem": "nova: contexto para o leitor"}
+ ],
+ "comentarios": {}
+}
