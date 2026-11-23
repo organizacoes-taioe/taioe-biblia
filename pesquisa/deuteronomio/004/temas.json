@@ -1,0 +1,265 @@
+{
+ "1": [
+  {
+   "id": "lei-dom",
+   "titulo": "A lei, dom da aliança e defesa contra os ídolos",
+   "versiculos": [
+    1,
+    7,
+    8
+   ],
+   "itens": [
+    "joao-paulo-ii-veritatis-splendor-44-dt-4-7-8",
+    "bento-xvi-angelus-2012-09-02-dt-4-1-lei-e-idolos"
+   ]
+  },
+  {
+   "id": "nada-acrescentar",
+   "titulo": "«Nada acrescentareis»: a palavra de Deus guardada inteira",
+   "versiculos": [
+    2
+   ],
+   "itens": [
+    "rabano-in-dt-1-8-nada-acrescentar-nem-tirar-dt4-2",
+    "belarmino-verbo-de-deus-lib4-dt-4-2-palavra-falada"
+   ]
+  },
+  {
+   "id": "sabedoria",
+   "titulo": "A lei como sabedoria de Israel aos olhos dos povos",
+   "versiculos": [
+    6,
+    7,
+    8
+   ],
+   "itens": [
+    {
+     "id": "tomas-sth-i-ii-q100-a7-sabedoria-dos-preceitos-dt4-6",
+     "texto": "Nos preceitos da lei divina está contida a máxima sabedoria; por isso se diz no Deuteronômio: «Esta é a vossa sabedoria e o vosso entendimento diante dos povos.» Ora, é próprio do sábio dispor tudo no devido modo e ordem. Por isso deve ser manifesto que os preceitos da lei foram dados de modo conveniente.",
+     "original": "in praeceptis divinae legis maxima sapientia continetur, unde dicitur Deut. IV, haec est vestra sapientia et intellectus coram populis. Sapientis autem est omnia debito modo et ordine disponere. Et ideo manifestum esse debet quod praecepta legis convenienti modo sunt tradita."
+    },
+    "rabano-in-dt-1-8-grande-nacao-pelos-dons-dt4-6",
+    {
+     "id": "lourenco-quaresmal1-feria3-sapientia-lei-evangelho",
+     "texto": "A lei do Evangelho está cheia de verdades divinas, de doutrina celeste e de sabedoria divina. Por isso, se Moisés disse aos hebreus a respeito da Lei: «Isto é a vossa sabedoria e o vosso entendimento aos olhos dos povos, que, ouvindo todos estes preceitos, dirão: Na verdade, é um povo sábio e entendido esta grande nação», muito mais se pode dizer isso da lei evangélica, que é muito mais perfeita que a lei mosaica, como a luz do sol é mais perfeita que a da lua.",
+     "original": "Sic plena est lex evangelica divinis dogmatibus, coelesti doctrina divinaque sapientia. Unde, si Moyses de Lege dixit Hebraeis: Haec est enim sapientia vestra et intellectus coram populis, ut audientes universi praecepta haec dicant: En populus sapiens et intelligens, gens magna; multo magis de evangelica lege haec dici possunt, quae multo perfectior est lege mosaica, quam lux solis lumine lunae."
+    }
+   ]
+  },
+  {
+   "id": "deus-proximo",
+   "titulo": "«Deuses tão próximos»: o Deus que está perto de quem o invoca",
+   "versiculos": [
+    7
+   ],
+   "itens": [
+    "teodoreto-quaest-dt-1-o-deus-proximo-e-os-filhos",
+    "lapide-dt-4-7-deus-proximo-sacramento"
+   ]
+  }
+ ],
+ "2": [
+  {
+   "id": "guarda-alma",
+   "titulo": "«Guarda bem a tua alma»: a vigilância sobre si mesmo",
+   "versiculos": [
+    9,
+    15
+   ],
+   "itens": [
+    "ambrosio-ps118-s10-10-atende-a-ti-dt4-9",
+    {
+     "id": "granada-guia-pecadores-solicitud-dt-4-9",
+     "texto": "Convém procurar uma virtude geral que compreenda todas e supra, quanto é possível, o papel de todas: uma perpétua solicitude e vigilância e uma contínua atenção a tudo o que tivermos de fazer e dizer, para que tudo se oriente pelo juízo da razão. […] Esta é aquela solicitude que o Espírito Santo nos recomendou quando disse: «Guarda-te a ti mesmo e a tua alma com cuidado.»",
+     "original": "conviene procurar una virtud general que las comprehenda todas y supla (según es posible) las veces de todas: que es una perpetua solicitud y vigilancia y una continua atención á todo lo que hobiéremos de hacer y decir, para que todo vaya nivelado con el juicio de la razón. [...] Esta es aquella solicitud que nos encomendó el Espíritu Santo cuando dijo: Guarda, hombre, á ti mismo y á tu ánima solícitamente."
+    }
+   ]
+  },
+  {
+   "id": "voz-sem-figura",
+   "titulo": "Uma voz sem figura: por que Israel não pôde fazer imagem de Deus",
+   "versiculos": [
+    12,
+    15,
+    16
+   ],
+   "itens": [
+    {
+     "id": "teodoreto-quaest-dt-1-nenhuma-figura-viram-no-horeb",
+     "texto": "Moisés lhes recordou de novo como o Deus do universo lhes apareceu: fez ouvir palavras desde o fogo, sem mostrar figura alguma. […] Diz isso para ensiná-los a não fabricar imagem alguma e a nunca tentar construir uma imagem divina, já que não viram a forma do modelo. […] Tudo isso, diz, Deus fez para o vosso serviço; é, portanto, o cúmulo da insensatez fazer deuses das imagens dos que vos servem.",
+     "original": "εἶτα πάλιν αὐτοὺς ἀνέμνησεν, ὅπως αὐτοῖς ὁ τῶν ὅλων ἐπέφανε Θεός, λόγους μὲν διὰ πυρὸς ἀφείς, οὐδὲν δὲ εἶδος ἐπιδεικνύς. [...] ταῦτα δὲ λέγει παιδεύων αὐτοὺς μηδὲν ἴνδαλμα τεκτήνασθαι, μηδὲ πειραθῆναί ποτε θείαν εἰκόνα κατασκευάσαι, ἐπειδὴ τοῦ ἀρχετύπου τὸ εἶδος οὐχ ἑωράκασιν [...] ταῦτα πάντα, φησίν, εἰς χρείαν ὑμετέραν πεποίηκεν ὁ Θεός· ἀνοίας τοίνυν ἐσχάτης τὸ εἰκόνας τῶν ὑπηκόων θεοποιεῖν."
+    },
+    "lapide-dt-4-15-nao-vistes-figura-horeb",
+    {
+     "id": "catecismo-2129-dt-4-15-nenhuma-imagem-de-deus",
+     "texto": "A determinação divina de não fazer imagens continha a proibição de qualquer representação de Deus feita pela mão do homem. O Deuteronômio explica: «Tomai muito cuidado convosco, pois não vistes imagem alguma no dia em que o Senhor vos falou no Horeb do meio do fogo. Portanto, não vos deixeis corromper, fabricando para vós imagem esculpida» de qualquer coisa. Quem se revelou a Israel foi o Deus absolutamente transcendente."
+    }
+   ]
+  },
+  {
+   "id": "imagens-encarnacao",
+   "titulo": "Os querubins de Moisés e as imagens depois da Encarnação",
+   "versiculos": [
+    15,
+    16
+   ],
+   "itens": [
+    "damasceno-imagens-iii-9-moises-e-os-querubins",
+    "catecismo-2131-verbo-encarnado-nova-economia-imagens"
+   ]
+  },
+  {
+   "id": "astros",
+   "titulo": "Os astros «repartidos a todos os povos»",
+   "versiculos": [
+    19
+   ],
+   "itens": [
+    "agostinho-qh5-6-astros-repartidos-aos-povos-dt4-19",
+    {
+     "id": "clemente-strom-vi-14-os-astros-caminho-para-deus",
+     "texto": "Deus, que sabia de antemão que o pagão não creria, deu-lhe todavia a filosofia, antes da fé, para que também ele alcançasse a perfeição que lhe cabe; e deu-lhe o sol, a lua e os astros para o culto, os quais Deus fez para as nações, diz a Lei, a fim de que não se tornassem de todo ateus e se perdessem por completo. […] São julgados também aqueles que, da veneração dos astros, não subiram até o seu Criador. Pois este caminho foi dado às nações, para levantarem a cabeça até Deus pela veneração dos astros.",
+     "original": "ἐπειδὴ γὰρ ᾔδει ὁ θεός, ἅτε προγνώστης ὤν, μὴ πιστεύσοντα τοῦτον, οὐδὲν ἧττον, ὅπως τήν γε καθ' ἑαυτὸν ἀναδέξηται τελείωσιν, ἔδωκεν μὲν φιλοσοφίαν αὐτῷ, ἀλλὰ πρὸ τῆς πίστεως, ἔδωκεν δὲ τὸν ἥλιον καὶ τὴν σελήνην καὶ τὰ ἄστρα εἰς θρῃσκείαν, ἃ ἐποίησεν ὁ θεὸς τοῖς ἔθνεσιν, φησὶν ὁ νόμος, ἵνα μὴ τέλεον ἄθεοι γενόμενοι τελέως καὶ διαφθαρῶσιν. [...] ναὶ μὴν κἀκεῖνοι οἱ ἀπὸ τῆς τῶν ἄστρων σεβήσεως μὴ ἐπαναδραμόντες ἐπὶ τὸν τούτων ποιητήν. ὁδὸς γὰρ ἦν αὕτη δοθεῖσα τοῖς ἔθνεσιν ἀνακῦψαι πρὸς θεὸν διὰ τῆς τῶν ἄστρων θρῃσκείας."
+    }
+   ]
+  },
+  {
+   "id": "fogo-purifica",
+   "titulo": "«Fogo devorador»: o fogo que consome o pecado e purifica a alma",
+   "versiculos": [
+    24
+   ],
+   "itens": [
+    "origenes-contra-celso-iv-13-o-fogo-que-consome-a-malicia",
+    "gregorio-hom-ez-i5-8-fogo-consome-a-ferrugem-dt4-24",
+    {
+     "id": "granada-adiciones-memorial-2-fuego-que-consume",
+     "texto": "O fogo não pode fazer de um pedaço de madeira fogo se primeiro não consome a umidade, a frieza e tudo o que é contrário à forma do fogo; assim também o homem, concebido em pecado e cercado de carne e sangue, não poderá chegar a transformar-se e a imitar a santidade e a pureza de Deus sem perder primeiro os vícios e defeitos que se opõem a essa pureza e santidade. Isso o faz principalmente a graça onipotente do Senhor. Por essa razão ele é chamado na Escritura «fogo que consome»: seu ofício é consumir todos os defeitos e imperfeições dos homens e purificá-los de todos os seus pecados, para comunicar-lhes a si mesmo. Porque, como diz São Dionísio, a sua natureza é atrair todas as coisas a si e torná-las participantes de si."
+    }
+   ]
+  },
+  {
+   "id": "fogo-luz",
+   "titulo": "O mesmo fogo: luz para os justos e castigo para os ímpios",
+   "versiculos": [
+    24
+   ],
+   "itens": [
+    "ambrosio-hex-i3-10-fogo-ilumina-os-justos-dt4-24",
+    "clemente-ecl-prof-26-fogo-simbolo-de-poder"
+   ]
+  },
+  {
+   "id": "fogo-amor",
+   "titulo": "O fogo do amor, que abrasa a alma sem a destruir",
+   "versiculos": [
+    12,
+    24
+   ],
+   "itens": [
+    {
+     "id": "joao-cruz-chama-viva-2-1-cauterio-fogo-consumidor",
+     "texto": "No livro do Deuteronômio diz Moisés que o Senhor nosso Deus é fogo devorador; isto é, fogo de amor, o qual, sendo de força infinita, pode consumir de modo inestimável e, abrasando com grande força, transformar em si o que tocar. Mas a cada alma abrasa conforme a encontra disposta, a umas mais, a outras menos; e também quanto ele quer, e como e quando quer. [...] É coisa admirável e digna de se contar que, sendo este fogo de Deus tão veemente e devorador que consumiria mil mundos com mais facilidade do que o fogo consome uma fibra de linho, não consuma nem acabe os espíritos em que arde, mas, na medida da sua força e ardor, os deleite e os divinize, ardendo neles suavemente pela pureza dos seus espíritos; como aconteceu nos Atos dos Apóstolos, quando este fogo, vindo com grande veemência, abrasou os discípulos e eles, como diz São Gregório, arderam interiormente com suavidade."
+    },
+    {
+     "id": "bernardo-sc57-7-fogo-que-consome-sem-afligir-dt4-24",
+     "texto": "Lês duas coisas a respeito do Senhor: que o fogo vai adiante dele e que ele mesmo é fogo. Moisés diz dele que «é fogo consumidor». Diferem, porém, em que o fogo enviado adiante tem calor, mas não amor: aquece, mas não depura; move, mas não faz avançar. É enviado só para despertar e preparar, e para te lembrar o que és por ti mesmo, a fim de que te seja mais doce depois o que logo serás por Deus. Mas o fogo que é Deus consome, sim, mas não aflige.",
+     "original": "Etenim utrumque de illo legis, et ignem videlicet ante ipsum praecedere, et ipsum nihilominus ignem esse. Moyses siquidem de illo dicit quia ignis consumens est. Differunt autem, quod is qui praemittitur ignis ardorem habet, sed non amorem: coquens, sed non excoquens, movens, nec promovens. Tantum ad excitandum praemittitur et praeparandum, simulque ad commonendum quid ex te sis, quo dulcius sapiat postmodum quod ex Deo mox eris. At vero ignis qui Deus est, consumit quidem, sed non affligit"
+    },
+    "lourenco-quaresmal2-feria6-cinzas-lei-do-fogo",
+    {
+     "id": "lapide-dt-4-24-fogo-consumidor-sinkletica",
+     "texto": "Santa Sinclética diz, nas *Vidas dos Padres*: «É trabalho e grande combate para os que se convertem a Deus, mas depois vem uma alegria inexprimível. Assim como os que querem acender o fogo primeiro se enchem de fumaça e choram com o incômodo, e só então conseguem o que querem (pois está escrito: “Nosso Deus é fogo devorador”), assim também nós devemos acender em nós, com lágrimas e fadigas, o fogo divino.»",
+     "original": "S. Syncletica in Vitis Patrum, libro V, tract. De Compunctione: «Labor, ait, est et magnum certamen impiorum qui convertuntur ad Deum, et postea inenarrabile gaudium. Sicut enim qui ignem accendere volunt, prius fumantur, et ex fumi molestia lacrymantur, sicque obtinent quod volunt; etenim scriptum est: Quia Deus noster ignis consumens est: ita oportet et nos divinum ignem, cum lacrymis atque laboribus in nobis ipsis accendere.»"
+    }
+   ]
+  },
+  {
+   "id": "fogo-cristo",
+   "titulo": "O fogo insuportável do Sinai e a divindade suportável em Cristo",
+   "versiculos": [
+    11,
+    12,
+    24
+   ],
+   "itens": [
+    "crisostomo-hb-hom-32-sinai-e-o-fogo-devorador",
+    {
+     "id": "cirilo-glaphyra-ex-1-fogo-e-espinhos-a-divindade-e-a-carne",
+     "texto": "Moisés, o divino, ficou atônito diante da visão da sarça. Qual é, pois, o sentido? A Escritura sagrada compara a natureza divina ao fogo, pelo seu poder de vencer tudo com facilidade, e compara o homem tirado da terra à lenha e à erva do campo. Por isso diz ora: «O nosso Deus é fogo devorador», ora: «O homem é como a erva; os seus dias, como a flor do campo, assim florescerá.» Mas, como o fogo é insuportável aos espinhos, assim a divindade o é para a humanidade. Em Cristo, porém, tornou-se suportável: «nele habita corporalmente toda a plenitude da divindade», como testemunhou o sábio Paulo. E aquele que habita numa luz inacessível, isto é, Deus, armou tenda no templo nascido da Virgem, abaixando-se a uma mansidão admirável e como que moderando o impacto puro da sua natureza, para ser suportável, como o fogo o foi para os espinhos."
+    }
+   ]
+  },
+  {
+   "id": "deus-zeloso",
+   "titulo": "«Um Deus zeloso»: o ciúme que nasce do amor",
+   "versiculos": [
+    23,
+    24
+   ],
+   "itens": [
+    "agostinho-adimanto-13-zelo-de-deus-ciume-do-amor-dt4-24",
+    "teodoreto-quaest-ex-39-o-ciume-de-deus-e-amor"
+   ]
+  }
+ ],
+ "3": [
+  {
+   "id": "buscar",
+   "titulo": "Buscar a Deus de todo o coração, com a promessa do perdão",
+   "versiculos": [
+    29
+   ],
+   "itens": [
+    {
+     "id": "belarmino-salmos-129-5-dt-4-29-promessa-penitentes",
+     "texto": "Muitas vezes Deus prometeu perdão aos penitentes por meio de Moisés, no Deuteronômio e em outros lugares: «Quando procurares o Senhor teu Deus, diz o Deuteronômio, o encontrarás, se o procurares de todo o coração e com toda a tribulação da tua alma.» Por isso o próprio Davi dizia no Salmo 118: «Lembra-te da palavra dada ao teu servo, na qual me deste esperança.»",
+     "original": "Saepe enim Deus per Mosem in Deuteronomio et alibi promisit indulgentiam poenitentibus. «Cum quaesieris, inquit Deuteron. iv. Dominum Deum tuum, invenies eum, si tamen toto corde quaesieris, et tota tribulatione animae tuae.» Hinc ipse David in Psal. cxviii, dicebat: «Memento verbi tui servo tuo, in quo mihi spem dedisti.»"
+    },
+    {
+     "id": "lapide-dt-4-29-contricao-por-amor",
+     "texto": "«E quando ali procurares o Senhor teu Deus, o encontrarás, se o procurares de todo o coração e com toda a tribulação da tua alma.» No hebraico está: «com toda a tua alma». O texto dá a entender que a verdadeira contrição, a que reconcilia o pecador com Deus, deve proceder do amor de Deus sobre todas as coisas; pois procurar Deus de todo o coração e com toda a tribulação da alma é isto.",
+     "original": "Cumque quæsieris ibi Dominum Deum tuum, invenies eum, si tamen toto corde quæsieris, et tota tribulatione (scilicet in vera contritione et conversione) animæ tuæ. — Hebraice est, in tota anima tua. Insinuat, quod contritio vera, quæ peccatorem Deo reconciliat, debeat procedere ex amore Dei super omnia; hoc enim est quærere Deum ex toto corde, et ex tota tribulatione animæ."
+    }
+   ]
+  }
+ ],
+ "4": [
+  {
+   "id": "voz-e-escolha",
+   "titulo": "A voz de Deus ouvida e o amor gratuito que escolhe",
+   "versiculos": [
+    32,
+    33,
+    37
+   ],
+   "itens": [
+    "lourenco-quaresmal2-feria3-dt-4-32-cristo-mestre",
+    "catecismo-218-dt-4-37-amor-gratuito-que-escolhe"
+   ]
+  },
+  {
+   "id": "nao-ha-outro",
+   "titulo": "«Não há outro»: o Deus único, em cima no céu e embaixo na terra",
+   "versiculos": [
+    35,
+    39
+   ],
+   "itens": [
+    {
+     "id": "maximo-turim-trat-bat-2-um-so-deus-tres-pessoas-dt4-39",
+     "obra": "Tratados sobre o batismo (Tractatus de baptismo), de autoria atribuída"
+    },
+    {
+     "id": "jeronimo-in-is-18-deus-no-alto-e-embaixo-dt4-39",
+     "texto": "Se o céu é o trono de Deus, à maneira de quem se assenta e reina, e a terra o escabelo dos seus pés, como poderia ser encerrado num lugar pequeno aquele que enche tudo e em quem tudo está? Por isso Moisés também diz: «Não digas no teu coração: Está longe; pois Deus está no céu, no alto, e sobre a terra, embaixo, e não há outro Deus fora dele.» E o Salmista: «Para onde irei, longe do teu espírito? E de diante da tua face, para onde fugirei? Se subir ao céu, aí estás; se descer aos infernos, aí estás.» A isso se ajusta Jeremias, falando em nome de Deus: «Eu sou um Deus que está perto, e não um Deus de longe. Poderá alguém esconder-se em esconderijos sem que eu o veja? Não encho eu o céu e a terra?»"
+    },
+    {
+     "id": "teodoreto-quaest-dt-1-deus-sem-limite-nao-tem-imagem",
+     "texto": "Moisés ensina também que é totalmente impossível fazer uma imagem de Deus: pois a sua natureza não é só invisível, mas também inteiramente sem limites. «O Senhor teu Deus», diz, «é Deus em cima, no céu, e embaixo, na terra, e não há outro além dele.»"
+    },
+    "francisco-angelus-2018-05-27-dt-4-39-deus-vicino"
+   ]
+  }
+ ]
+}
