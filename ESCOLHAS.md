@@ -57,6 +57,7 @@ Vale para pessoas, povos e lugares, também nos comentários dos Padres.
 - Nm 33: as etapas como no projeto antigo (Ramessés, Sucot, Etam, Fiairot, Baal-Sefon, Magdol, Mara, Elim, Dafca, Alus, Rafidim, Quibrot-Hataavá, Haserot… Asion-Gaber, Salmona, Funon, Dibon-Gad, Helmon-Deblataim, Bet-Jesimot); monte Hor, Arad, Negueb, Obot e Ijé-Abarim como Nm 20–21; «Abel-Setim», como Setim em Nm 25,1 (a partida dizia «Abel-Sitim»).
 - Nm 34: os lugares da fronteira e os chefes das tribos, que a liturgia não lê, como no projeto antigo (o mar Salgado, o mar Grande, o mar de Ceneret, com notas); Caleb, filho de Jefoné; Josué, filho de Num.
 - Dt 2: Ló, como o lecionário (Gn 13; a tradução de partida dizia «Lot»); Asion-Gaber, como Nm 33; os aveus (*'avvim*; a tradução de partida dizia «heveus», que são outro povo, *ḥivvi*); Seir, Esaú, Elat, Ar, Zared, Arnon, Cademot, Seon, Hesbon, Jasa, Aroer, Galaad, Jaboc, Gaza, Caftor (os caftorim), os emim, os enacim, os refaim, os zomzomim e os horreus, que a liturgia não lê, como no projeto antigo.
+- Dt 3: Og, Basã, Edrai, Seon, Hesbon, Arnon, Hermon, Galaad, Aroer, Maquir, Jair, Havot-Jair, Jaboc, Ceneret, o mar Salgado, o Fasga e Fogor (Bet-Fogor), como em Números; Argob, Sarion, Sanir, Salca, Rabá, Arabá e os refaim, que a liturgia não lê no capítulo, como no projeto antigo; «maacatitas», como em Josué (a partida dizia «macatitas»).
 - Gn 3: Eva e Éden, como o lecionário.
 - Sl 38–47: Iditun, Coré (os filhos de Coré), o Jordão, o Hermon, o monte Misar, Jacó, Tiro, Ofir (como o lecionário da Assunção) e Abraão, como no projeto antigo.
 - Sl 48–57: Sião, Társis, Asaf, Natã, Betsabé (como o lecionário; a tradução de partida dizia «Betsabeia»), Urias, Doeg, o edomita, Aquimelec, Nob, Zif (os zifeus), Gat, os filisteus, Adulam e Engadi.
@@ -321,6 +322,13 @@ Vale para pessoas, povos e lugares, também nos comentários dos Padres.
 | *hanaf* (Nm 35,33) | poluir | «o sangue polui a terra»; *timme* (v. 34) fica «contaminar» | Nm 35 |
 | *go'el haddam* | o vingador do sangue | Nm 35,12-27 (nota no v. 12) | projeto antigo |
 | *rashe avot* (com *nasi* ao lado) | os cabeças das casas paternas | Nm 36,1, para não repetir «chefes» quando *nasi* vem junto; sozinho, fica «os chefes das casas paternas» (Nm 31,26; 32,28) | Nm 36 |
+| *be'ammat-ish* (Dt 3,11) | pelo côvado comum | o côvado de um homem | Dt 3 |
+| *halo hi* (Dt 3,11) | não está em Rabá…? | mantida a pergunta do hebraico; a tradução de partida dizia «está em Rabá» | Dt 3 |
+| *lerishtah* (Dt 3,18) | para que tomeis posse dela | *yarash*, como em Dt 1,8.21; a tradução de partida dizia «em herança», que é *nahalá* | Dt 3 |
+| *bene hayil* (Dt 3,18) | homens valentes | a tradução de partida dizia «homens válidos» | Dt 3 |
+| *hit'abber* (Dt 3,26) | irar-se | «o Senhor se irou contra mim por vossa causa», o eco de Dt 1,37 | Dt 3 |
+| *rav-lakh* (Dt 3,26) | Basta! | como Dt 1,6 e 2,3 | Dt 3 |
+| *hazzeq* / *ammets* (Dt 3,28) | encorajar / fortalecer | «encoraja-o e fortalece-o»; *hazzeq* como Dt 1,38 | Dt 3 |
 | *huqqim umishpatim* | os estatutos e as normas de direito | Dt 4,1.5.8.14.45, como Nm 36,13; *torá* fica «lei»; o lecionário diz «as leis e os decretos» | Dt 4, a confirmar |
 | *pesel* / *temuná* / *semel* / *tavnit* (Dt 4,16-18) | imagem esculpida / figura / ídolo / forma | «imagem esculpida, figura de qualquer ídolo, forma de homem ou de mulher»; a tradução de partida dizia «figura» para as duas últimas | Dt 4 |
 | *dabaq* (Dt 4,4) | unir-se | «vós, que vos unistes ao Senhor», como Gn 2,24 | Dt 4 |
