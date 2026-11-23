@@ -71,6 +71,7 @@ Vale para pessoas, povos e lugares, também nos comentários dos Padres.
 - Dt 10–14: Levi, Aarão, Eleazar, Datã e Abiram (como Nm 16 e 26; a partida dizia «Datan» e «Abiron»), Rúben, Eliab, o Líbano, o Eufrates, Garizim, Ebal, Moré e a Arabá, como no projeto antigo; **Guilgal**, como o lecionário de Js 5,10 (a partida dizia «Gálgala»); Beerot-Benê-Jaacan e **Jetebata**, como Nm 33 (a partida dizia «Bene-Jaacan» e «Jotbatá»); Moserá e Gudgoda, como no projeto antigo.
 - Dt 15–19: Abib, o Horeb e os sacerdotes levitas, como no projeto antigo; sem nomes novos.
 - Dt 20–24: os hititas (a partida dizia «heteus» em 20,17), os amorreus, os cananeus, os ferezeus, os heveus e os jebuseus, como antes; Balaão, Beor, Petor, a Mesopotâmia, Maria (a irmã de Moisés), como antes.
+- Dt 25–29: Amalec, Simeão, Levi, Judá, Issacar, José, Benjamim, Rúben, Gad, Aser, Zabulon, Dã, Neftali, Seon, Og, Hesbon, Basã, Manassés, Sodoma, Gomorra, Adamá e Seboim, como no projeto antigo e no lecionário; «os rubenitas e os gaditas» (29,7), como Dt 3.
 
 ## Vocabulário
 
@@ -392,6 +393,15 @@ Vale para pessoas, povos e lugares, também nos comentários dos Padres.
 | *sane* (o marido, Dt 22,13.16; 24,3) | odiar, passar a odiar | a partida dizia «aborrecer», que hoje é outra coisa; em Dt 21,15-17, *senu'a* = «desamada» | Dt 22 |
 | *nevala* (Dt 22,21) | infâmia | | Dt 22 |
 | *sefer keritut* | carta de repúdio | Dt 24,1.3 | projeto antigo |
+| *lo-tahsom shor* (Dt 25,4) | Não amordaçarás o boi | como 1Cor 9,9 | Dt 25 |
+| *arammi oved avi* (Dt 26,5) | Meu pai era um arameu errante | como o lecionário | projeto antigo |
+| *bi'er* (o dízimo, Dt 26,13-14) | retirar | aqui não é «extirpar» | Dt 26 |
+| *hasket* (Dt 27,9) | Faze silêncio | a partida dizia «Cala-te» | Dt 27 |
+| *herev* (Dt 28,22) | a espada | as vogais do hebraico; muitas Bíblias corrigem para «seca» | Dt 28 |
+| *shilya* (Dt 28,57) | a placenta | a partida dizia «secundinas» | Dt 28 |
+| *tsavvar* (Dt 28,48) | pescoço | «jugo de ferro sobre o teu pescoço»; *oref* é o de *qeshe-oref* | Dt 28 |
+| *la'ana* (Dt 29,17) | absinto | | Dt 29 |
+| *nitsavim* (Dt 29,9) | estais de pé | | Dt 29 |
 
 ## Inconsistências conhecidas, para corrigir quando o capítulo entrar
 

@@ -1,0 +1,50 @@
+{
+ "livro": "deuteronomio",
+ "cap": 29,
+ "estado": "em revisão",
+ "atualizado": "2026-11-23",
+ "trechos": [
+  {"id": "1", "titulo": "Vistes, e não entendestes", "de": 1},
+  {"id": "2", "titulo": "Hoje estais todos diante do Senhor", "de": 9},
+  {"id": "3", "titulo": "A raiz que produz veneno", "de": 15},
+  {"id": "4", "titulo": "Por que fez o Senhor assim a esta terra?", "de": 21}
+ ],
+ "texto": [
+  {"s": "Vistes, e não entendestes"},
+  {"v": 1, "t": "Moisés convocou todo o Israel e lhes disse: Vós vistes tudo o que o Senhor fez diante dos vossos olhos, na terra do Egito, ao faraó, a todos os seus servos e a toda a sua terra:"},
+  {"v": 2, "t": "as grandes provas que os teus olhos viram, aqueles sinais e grandes prodígios."},
+  {"v": 3, "t": "Mas até o dia de hoje o Senhor não vos deu coração para entender, nem olhos para ver, nem ouvidos para ouvir."},
+  {"v": 4, "t": "Quarenta anos vos conduzi pelo deserto: as vossas roupas não se gastaram sobre vós, nem se gastou a sandália no teu pé;"},
+  {"v": 5, "t": "não comestes pão nem bebestes vinho ou bebida forte, para que soubésseis que eu sou o Senhor vosso Deus."},
+  {"v": 6, "t": "Chegastes a este lugar; e Seon, rei de Hesbon, e Og, rei de Basã, saíram ao nosso encontro para combater, e nós os derrotamos."},
+  {"v": 7, "t": "Tomamos a terra deles e a demos em herança aos rubenitas, aos gaditas e à meia tribo de Manassés."},
+  {"v": 8, "t": "Guardai, pois, as palavras desta aliança e cumpri-as, para que prospereis em tudo o que fizerdes."},
+  {"s": "Hoje estais todos diante do Senhor"},
+  {"v": 9, "t": "Hoje estais todos de pé diante do Senhor vosso Deus: os vossos cabeças, as vossas tribos, os vossos anciãos e os vossos oficiais, todos os homens de Israel,"},
+  {"v": 10, "t": "os vossos pequenos, as vossas mulheres e o estrangeiro que está no meio do teu acampamento, desde o que te racha a lenha até o que te tira a água;"},
+  {"v": 11, "t": "para que entres na aliança do Senhor teu Deus e no juramento que o Senhor teu Deus hoje faz contigo;"},
+  {"v": 12, "t": "a fim de te constituir hoje como seu povo, e de ser ele o teu Deus, como te disse e como jurou a teus pais, Abraão, Isaac e Jacó."},
+  {"v": 13, "t": "E não é somente convosco que faço esta aliança e este juramento,"},
+  {"v": 14, "t": "mas com todo aquele que hoje está aqui conosco diante do Senhor nosso Deus, e também com os que hoje não estão aqui conosco."},
+  {"s": "A raiz que produz veneno"},
+  {"v": 15, "t": "Vós sabeis como habitamos na terra do Egito e como passamos pelo meio das nações por onde passastes;"},
+  {"v": 16, "t": "e vistes as suas abominações e os seus ídolos, de madeira e de pedra, de prata e de ouro, que estavam entre elas."},
+  {"v": 17, "t": "Que não haja entre vós homem ou mulher, família ou tribo, cujo coração hoje se desvie do Senhor nosso Deus, para ir servir aos deuses daquelas nações; que não haja entre vós raiz que produza veneno e absinto;"},
+  {"v": 18, "t": "e que ninguém, ao ouvir as palavras deste juramento, se felicite no seu coração, dizendo: Terei paz, ainda que ande na dureza do meu coração — o que arrastaria consigo tanto a terra regada como a sedenta."},
+  {"v": 19, "t": "O Senhor não quererá perdoar-lhe; antes fumegará a ira e o zelo do Senhor contra esse homem, e cairão sobre ele todas as maldições escritas neste livro, e o Senhor apagará o seu nome de debaixo do céu."},
+  {"v": 20, "t": "O Senhor o separará, para mal, de todas as tribos de Israel, segundo todas as maldições da aliança escritas neste livro da lei."},
+  {"s": "Por que fez o Senhor assim a esta terra?"},
+  {"v": 21, "t": "E a geração seguinte, os vossos filhos que se levantarem depois de vós, e o estrangeiro que vier de terra longínqua, quando virem as pragas daquela terra e as doenças com que o Senhor a afligiu, dirão:"},
+  {"v": 22, "t": "Enxofre e sal, toda a sua terra queimada, sem semeadura, sem produção, sem erva que nela cresça, como a destruição de Sodoma e Gomorra, de Adamá e Seboim, que o Senhor destruiu na sua ira e no seu furor."},
+  {"v": 23, "t": "E todas as nações perguntarão: Por que fez o Senhor assim a esta terra? Que ardor é este de tamanha ira?"},
+  {"v": 24, "t": "E responderão: Porque abandonaram a aliança do Senhor, Deus de seus pais, que ele fizera com eles quando os tirou da terra do Egito;"},
+  {"v": 25, "t": "e foram servir a outros deuses e se prostraram diante deles, deuses que não conheciam e que ele não lhes tinha dado por parte."},
+  {"v": 26, "t": "Por isso se acendeu a ira do Senhor contra esta terra, fazendo vir sobre ela toda a maldição escrita neste livro."},
+  {"v": 27, "t": "E o Senhor os arrancou do seu solo com ira, furor e grande indignação, e os lançou em outra terra, como hoje se vê."},
+  {"v": 28, "t": "As coisas ocultas pertencem ao Senhor nosso Deus, mas as reveladas são para nós e para os nossos filhos, para sempre, a fim de cumprirmos todas as palavras desta lei."}
+ ],
+ "notas": [
+  {"id": "n01", "v": 17, "apos": "absinto", "texto": "Planta muito amarga.", "origem": "nova: contexto para o leitor"}
+ ],
+ "comentarios": {}
+}

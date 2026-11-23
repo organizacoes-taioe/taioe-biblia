@@ -1,0 +1,40 @@
+{
+ "livro": "deuteronomio",
+ "cap": 26,
+ "estado": "em revisão",
+ "atualizado": "2026-11-23",
+ "trechos": [
+  {"id": "1", "titulo": "As primícias", "de": 1},
+  {"id": "2", "titulo": "A declaração do dízimo", "de": 12},
+  {"id": "3", "titulo": "A aliança concluída", "de": 16}
+ ],
+ "texto": [
+  {"s": "As primícias"},
+  {"v": 1, "t": "Quando entrares na terra que o Senhor teu Deus te dá em herança, e dela tomares posse e nela habitares,"},
+  {"v": 2, "t": "tomarás das primícias de todos os frutos do solo que colheres da tua terra, que o Senhor teu Deus te dá, e as porás num cesto, e irás ao lugar que o Senhor teu Deus escolher para ali fazer habitar o seu nome."},
+  {"v": 3, "t": "E irás ao sacerdote que houver naqueles dias e lhe dirás: Declaro hoje ao Senhor teu Deus que entrei na terra que o Senhor jurou a nossos pais que nos daria."},
+  {"v": 4, "t": "O sacerdote tomará o cesto da tua mão e o porá diante do altar do Senhor teu Deus."},
+  {"v": 5, "t": "Então, tomando a palavra, dirás diante do Senhor teu Deus: Meu pai era um arameu errante, que desceu ao Egito e ali viveu como estrangeiro, com pouca gente; e ali se tornou uma nação grande, forte e numerosa."},
+  {"v": 6, "t": "Os egípcios nos maltrataram, nos afligiram e nos impuseram dura servidão."},
+  {"v": 7, "t": "Clamamos ao Senhor, Deus de nossos pais, e o Senhor ouviu a nossa voz e viu a nossa aflição, a nossa fadiga e a nossa opressão."},
+  {"v": 8, "t": "E o Senhor nos tirou do Egito com mão forte e braço estendido, com grande terror, com sinais e prodígios;"},
+  {"v": 9, "t": "e nos trouxe a este lugar e nos deu esta terra, terra que mana leite e mel."},
+  {"v": 10, "t": "E agora, eis que trago as primícias dos frutos do solo que tu, Senhor, me deste. E as porás diante do Senhor teu Deus e te prostrarás diante do Senhor teu Deus,"},
+  {"v": 11, "t": "e te alegrarás com todo o bem que o Senhor teu Deus deu a ti e à tua casa, tu, o levita e o estrangeiro que está no meio de ti."},
+  {"s": "A declaração do dízimo"},
+  {"v": 12, "t": "Quando acabares de separar todo o dízimo da tua colheita, no terceiro ano, o ano do dízimo, e o deres ao levita, ao estrangeiro, ao órfão e à viúva, para que comam dentro das tuas portas e fiquem saciados,"},
+  {"v": 13, "t": "então dirás diante do Senhor teu Deus: Retirei de minha casa o que era santo e o dei ao levita, ao estrangeiro, ao órfão e à viúva, conforme todo o mandamento que me deste; não transgredi os teus mandamentos nem deles me esqueci."},
+  {"v": 14, "t": "Não comi dele no meu luto, nem dele retirei coisa alguma estando impuro, nem dele dei coisa alguma a um morto; obedeci à voz do Senhor meu Deus e fiz conforme tudo o que me ordenaste."},
+  {"v": 15, "t": "Olha desde a tua santa morada, desde o céu, e abençoa o teu povo Israel e o solo que nos deste, como juraste a nossos pais, terra que mana leite e mel."},
+  {"s": "A aliança concluída"},
+  {"v": 16, "t": "Hoje o Senhor teu Deus te ordena que cumpras estes estatutos e estas normas de direito; guarda-os, pois, e cumpre-os de todo o teu coração e de toda a tua alma."},
+  {"v": 17, "t": "Hoje declaraste que o Senhor é o teu Deus, e que andarás nos seus caminhos, guardarás os seus estatutos, os seus mandamentos e as suas normas de direito, e ouvirás a sua voz;"},
+  {"v": 18, "t": "e hoje o Senhor declarou que tu és o seu povo, a sua propriedade particular, como te disse, e que guardarás todos os seus mandamentos,"},
+  {"v": 19, "t": "para te pôr acima de todas as nações que fez, em louvor, em fama e em glória, e para que sejas um povo santo para o Senhor teu Deus, como ele disse."}
+ ],
+ "notas": [
+  {"id": "n01", "v": 5, "apos": "errante", "texto": "A Missa do 1º domingo da Quaresma, ano C, lê esta profissão de fé de Israel (vv. 4-10).", "origem": "nova: contexto para o leitor"},
+  {"id": "n02", "v": 14, "apos": "morto", "texto": "Refere-se às oferendas de comida aos mortos, costume dos povos vizinhos.", "origem": "nova: contexto para o leitor"}
+ ],
+ "comentarios": {}
+}
