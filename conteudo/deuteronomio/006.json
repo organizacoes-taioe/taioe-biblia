@@ -1,0 +1,50 @@
+{
+ "livro": "deuteronomio",
+ "cap": 6,
+ "estado": "em preparo",
+ "atualizado": "2026-11-23",
+ "trechos": [
+  {"id": "1", "titulo": "O fim da lei", "de": 1},
+  {"id": "2", "titulo": "Ouve, Israel", "de": 4},
+  {"id": "3", "titulo": "Guarda-te de esquecer", "de": 10},
+  {"id": "4", "titulo": "Quando teu filho te perguntar", "de": 20}
+ ],
+ "texto": [
+  {"s": "O fim da lei"},
+  {"v": 1, "t": "Este é o mandamento, os estatutos e as normas de direito que o Senhor vosso Deus ordenou que eu vos ensinasse, para que os cumprais na terra para onde passais a fim de tomar posse dela,"},
+  {"v": 2, "t": "para que temas o Senhor teu Deus e guardes, todos os dias da tua vida, tu, teu filho e o filho de teu filho, todos os seus estatutos e mandamentos que eu te ordeno, e para que se prolonguem os teus dias."},
+  {"v": 3, "t": "Ouve, pois, Israel, e cuida de cumpri-los, para que te vá bem e te multipliques muito, como te prometeu o Senhor, Deus de teus pais, na terra que mana leite e mel."},
+  {"s": "Ouve, Israel"},
+  {"v": 4, "t": "Ouve, Israel: o Senhor nosso Deus é o único Senhor."},
+  {"v": 5, "t": "Amarás o Senhor teu Deus de todo o teu coração, de toda a tua alma e de todas as tuas forças."},
+  {"v": 6, "t": "Estas palavras que hoje te ordeno estarão no teu coração;", "np": 1},
+  {"v": 7, "t": "tu as inculcarás a teus filhos e delas falarás sentado em tua casa e andando pelo caminho, ao deitar-te e ao levantar-te;"},
+  {"v": 8, "t": "tu as atarás como sinal na tua mão, e serão como faixa entre os teus olhos;"},
+  {"v": 9, "t": "e as escreverás nos umbrais da tua casa e nas tuas portas."},
+  {"s": "Guarda-te de esquecer"},
+  {"v": 10, "t": "Quando o Senhor teu Deus te introduzir na terra que jurou a teus pais, Abraão, Isaac e Jacó, dar-te cidades grandes e boas, que não edificaste,"},
+  {"v": 11, "t": "casas cheias de toda espécie de bens, que não encheste, cisternas cavadas, que não cavaste, vinhas e olivais, que não plantaste; e quando comeres e te fartares,"},
+  {"v": 12, "t": "guarda-te de esqueceres o Senhor, que te tirou da terra do Egito, da casa da servidão."},
+  {"v": 13, "t": "Ao Senhor teu Deus temerás, a ele servirás e pelo seu nome jurarás.", "np": 1},
+  {"v": 14, "t": "Não seguireis outros deuses, dentre os deuses dos povos que estão ao vosso redor,"},
+  {"v": 15, "t": "porque o Senhor teu Deus, que está no meio de ti, é um Deus zeloso: que não se acenda contra ti a ira do Senhor teu Deus e ele te extermine da face da terra."},
+  {"v": 16, "t": "Não tentareis o Senhor vosso Deus, como o tentastes em Massa.", "np": 1},
+  {"v": 17, "t": "Guardai cuidadosamente os mandamentos do Senhor vosso Deus, os seus testemunhos e os estatutos que te ordenou;"},
+  {"v": 18, "t": "faze o que é reto e bom aos olhos do Senhor, para que te vá bem, e entres e tomes posse da boa terra que o Senhor jurou a teus pais,"},
+  {"v": 19, "t": "expulsando todos os teus inimigos de diante de ti, como o Senhor disse."},
+  {"s": "Quando teu filho te perguntar"},
+  {"v": 20, "t": "Quando amanhã teu filho te perguntar: Que significam os testemunhos, os estatutos e as normas de direito que o Senhor nosso Deus vos ordenou?"},
+  {"v": 21, "t": "responderás a teu filho: Éramos escravos do faraó no Egito, e o Senhor nos tirou do Egito com mão forte;"},
+  {"v": 22, "t": "o Senhor fez diante dos nossos olhos sinais e prodígios grandes e terríveis contra o Egito, contra o faraó e contra toda a sua casa;"},
+  {"v": 23, "t": "e a nós nos tirou dali, para nos introduzir e nos dar a terra que jurara a nossos pais."},
+  {"v": 24, "t": "O Senhor nos ordenou que cumpríssemos todos estes estatutos e temêssemos o Senhor nosso Deus, para que nos fosse bem todos os dias e nos conservasse em vida, como hoje se vê."},
+  {"v": 25, "t": "E esta será a nossa justiça: cuidarmos de cumprir todo este mandamento diante do Senhor nosso Deus, como ele nos ordenou."}
+ ],
+ "notas": [
+  {"id": "n01", "v": 2, "apos": "Deus", "texto": "Os vv. 2-6 são a primeira leitura da Missa do 31º domingo do Tempo Comum, ano B; no Evangelho, Jesus responde com os vv. 4-5 qual é o primeiro de todos os mandamentos (Mc 12,28-34).", "origem": "nova: liturgia; resume a n01 do projeto antigo"},
+  {"id": "n02", "v": 8, "apos": "olhos", "texto": "Os judeus cumprem os vv. 8-9 à letra: para a oração, atam ao braço e à testa pequenas caixas com estes textos, os filactérios, e fixam outra no batente da porta de casa, a mezuzá.", "origem": "revista: n03 do projeto antigo"},
+  {"id": "n03", "v": 13, "apos": "jurarás", "texto": "Com este versículo e com o v. 16, Jesus responde ao diabo nas tentações do deserto (Mt 4,7.10; Lc 4,8.12).", "origem": "revista: n05 do projeto antigo"},
+  {"id": "n04", "v": 16, "apos": "Massa", "texto": "Em Massa, no deserto, o povo exigiu água e pôs o Senhor à prova, dizendo: «O Senhor está no meio de nós ou não?» (Êx 17,1-7).", "origem": "revista: n06 do projeto antigo"}
+ ],
+ "comentarios": {}
+}

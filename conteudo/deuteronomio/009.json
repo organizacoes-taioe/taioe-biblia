@@ -1,0 +1,66 @@
+{
+ "livro": "deuteronomio",
+ "cap": 9,
+ "estado": "em preparo",
+ "atualizado": "2026-11-23",
+ "trechos": [
+  {"id": "1", "titulo": "Não por tua justiça", "de": 1},
+  {"id": "2", "titulo": "O bezerro de metal fundido", "de": 7},
+  {"id": "3", "titulo": "As outras rebeliões", "de": 22},
+  {"id": "4", "titulo": "A intercessão de Moisés", "de": 25}
+ ],
+ "texto": [
+  {"s": "Não por tua justiça"},
+  {"v": 1, "t": "Ouve, Israel: hoje passarás o Jordão para desapossar nações maiores e mais fortes do que tu, cidades grandes e fortificadas até o céu,"},
+  {"v": 2, "t": "um povo grande e alto, os filhos de Enac, que tu conheces e de que ouviste dizer: Quem poderá resistir aos filhos de Enac?"},
+  {"v": 3, "t": "Sabe, pois, hoje que o Senhor teu Deus é quem passa adiante de ti como fogo devorador: ele os destruirá e os abaterá diante de ti, e tu os expulsarás e os farás perecer depressa, como o Senhor te disse."},
+  {"v": 4, "t": "Quando o Senhor teu Deus os houver lançado fora de diante de ti, não digas no teu coração: Foi por causa da minha justiça que o Senhor me trouxe para tomar posse desta terra. Mas é pela impiedade destas nações que o Senhor as expulsa de diante de ti."},
+  {"v": 5, "t": "Não é pela tua justiça nem pela retidão do teu coração que vais entrar para tomar posse da terra delas, mas é pela impiedade destas nações que o Senhor teu Deus as expulsa de diante de ti, e para cumprir a palavra que o Senhor jurou a teus pais, Abraão, Isaac e Jacó."},
+  {"v": 6, "t": "Sabe, pois, que não é pela tua justiça que o Senhor teu Deus te dá esta boa terra para que tomes posse dela, porque és um povo de cabeça dura."},
+  {"s": "O bezerro de metal fundido"},
+  {"v": 7, "t": "Lembra-te, e não te esqueças, de como provocaste à ira o Senhor teu Deus no deserto: desde o dia em que saíste da terra do Egito até chegardes a este lugar, fostes rebeldes contra o Senhor."},
+  {"v": 8, "t": "Já no Horeb provocastes o Senhor, e ele se irou contra vós a ponto de vos querer destruir,"},
+  {"v": 9, "t": "quando subi ao monte para receber as tábuas de pedra, as tábuas da aliança que o Senhor fez convosco, e fiquei no monte quarenta dias e quarenta noites, sem comer pão nem beber água."},
+  {"v": 10, "t": "O Senhor me deu as duas tábuas de pedra, escritas pelo dedo de Deus, com todas as palavras que ele vos falara no monte, do meio do fogo, no dia da assembleia."},
+  {"v": 11, "t": "Ao cabo dos quarenta dias e das quarenta noites, o Senhor me deu as duas tábuas de pedra, as tábuas da aliança,"},
+  {"v": 12, "t": "e me disse: Levanta-te e desce depressa daqui, porque o teu povo, que tiraste do Egito, se corrompeu; depressa se desviaram do caminho que eu lhes ordenei e fizeram para si um ídolo de metal fundido."},
+  {"v": 13, "t": "E o Senhor me disse ainda: Vi este povo, e eis que é um povo de cabeça dura."},
+  {"v": 14, "t": "Deixa-me, para que eu os destrua e apague o seu nome de debaixo do céu, e farei de ti uma nação mais forte e mais numerosa do que esta."},
+  {"v": 15, "t": "Voltei-me e desci do monte, que ardia em fogo, com as duas tábuas da aliança nas minhas duas mãos.", "np": 1},
+  {"v": 16, "t": "Olhei, e eis que havíeis pecado contra o Senhor vosso Deus: tínheis feito para vós um bezerro de metal fundido; depressa vos desviastes do caminho que o Senhor vos ordenara."},
+  {"v": 17, "t": "Peguei então as duas tábuas, lancei-as das minhas duas mãos e as quebrei diante dos vossos olhos."},
+  {"v": 18, "t": "Então me prostrei diante do Senhor, como da primeira vez, quarenta dias e quarenta noites, sem comer pão nem beber água, por causa de todo o vosso pecado, que cometestes fazendo o mal aos olhos do Senhor, para o provocar à ira;", "np": 1},
+  {"v": 19, "t": "porque tive pavor da ira e do furor com que o Senhor se irara contra vós, a ponto de vos querer destruir. E também daquela vez o Senhor me ouviu."},
+  {"v": 20, "t": "Também contra Aarão se irou grandemente o Senhor, a ponto de o querer destruir; e naquele tempo orei também por Aarão."},
+  {"v": 21, "t": "E o vosso pecado, o bezerro que tínheis feito, eu o tomei e o queimei no fogo, o triturei e o moí bem, até ficar reduzido a pó, e lancei o pó na torrente que desce do monte."},
+  {"s": "As outras rebeliões"},
+  {"v": 22, "t": "Também em Tabera, em Massa e em Quibrot-Hataavá provocastes o Senhor à ira;"},
+  {"v": 23, "t": "e quando o Senhor vos enviou de Cades-Barne, dizendo: Subi e tomai posse da terra que vos dei, vós vos rebelastes contra a ordem do Senhor vosso Deus: não crestes nele nem ouvistes a sua voz."},
+  {"v": 24, "t": "Fostes rebeldes contra o Senhor desde o dia em que vos conheci."},
+  {"s": "A intercessão de Moisés"},
+  {"v": 25, "t": "Prostrei-me, pois, diante do Senhor aqueles quarenta dias e quarenta noites, porque o Senhor dissera que vos havia de destruir."},
+  {"v": 26, "t": "E orei ao Senhor, dizendo: Senhor Deus, não destruas o teu povo e a tua herança, que resgataste com a tua grandeza e que tiraste do Egito com mão forte."},
+  {"v": 27, "t": "Lembra-te de teus servos Abraão, Isaac e Jacó; não olhes para a dureza deste povo, nem para a sua impiedade, nem para o seu pecado,"},
+  {"v": 28, "t": "para que não se diga na terra de onde nos tiraste: Porque o Senhor não podia introduzi-los na terra que lhes prometera, e porque os odiava, ele os tirou para os fazer morrer no deserto."},
+  {"v": 29, "t": "Eles, porém, são o teu povo e a tua herança, que tiraste com a tua grande força e com o teu braço estendido."}
+ ],
+ "notas": [
+  {"id": "n01", "v": 8, "apos": "Horeb", "texto": "Moisés relembra aqui a história do bezerro de ouro, contada em Êx 32.", "origem": "nova: localiza o episódio"},
+  {"id": "n02", "v": 22, "apos": "Quibrot-Hataavá", "texto": "Lugares de outras revoltas no deserto: Tabera e Quibrot-Hataavá em Nm 11, Massa em Êx 17.", "origem": "nova: localiza os episódios"}
+ ],
+ "comentarios": {},
+ "revisao": {
+  "escolhas": [
+   {
+    "id": "cabeca-dura",
+    "ref": "Dt 9,6.13",
+    "titulo": "*Qeshe-oref*: «povo de cabeça dura» ou «povo de dura cerviz»?",
+    "contexto": "Ao pé da letra, «de nuca dura»: o animal que não deixa pôr o jugo. O lecionário diz «povo de cabeça dura» (Êx 32,9; 34,9, Santíssima Trindade, ano A); o projeto antigo, «de dura cerviz» (cerviz é a nuca). A escolha vale para a Bíblia inteira (Êx 32–34; Dt 9,6.13; 10,16; 31,27; At 7,51).",
+    "opcoes": [
+     {"id": "a", "texto": "«porque és um povo de cabeça dura»", "nota": "Como o lecionário; a expressão de hoje.", "recomendada": true},
+     {"id": "b", "texto": "«porque és um povo de dura cerviz»", "nota": "Mais perto da imagem do hebraico, mas «cerviz» já não se usa."}
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,55 @@
+{
+ "livro": "deuteronomio",
+ "cap": 8,
+ "estado": "em preparo",
+ "atualizado": "2026-11-23",
+ "trechos": [
+  {"id": "1", "titulo": "A lembrança do deserto", "de": 1},
+  {"id": "2", "titulo": "A terra boa", "de": 7},
+  {"id": "3", "titulo": "Guarda-te, na fartura, de esquecer", "de": 11}
+ ],
+ "texto": [
+  {"s": "A lembrança do deserto"},
+  {"v": 1, "t": "Cuidai de cumprir todo o mandamento que hoje te ordeno, para que vivais, vos multipliqueis, entreis e tomeis posse da terra que o Senhor jurou a vossos pais."},
+  {"v": 2, "t": "Lembra-te de todo o caminho por onde o Senhor teu Deus te conduziu nestes quarenta anos no deserto, para te humilhar e te pôr à prova, para saber o que havia no teu coração: se guardarias os seus mandamentos ou não."},
+  {"v": 3, "t": "Ele te humilhou, te fez passar fome e te alimentou com o maná, que nem tu nem teus pais conhecíeis, para te ensinar que nem só de pão vive o homem, mas de tudo o que sai da boca do Senhor."},
+  {"v": 4, "t": "A tua roupa não se gastou sobre ti, nem o teu pé inchou, nestes quarenta anos."},
+  {"v": 5, "t": "Reconhece, pois, no teu coração que, como um homem corrige o seu filho, assim o Senhor teu Deus te corrige;", "np": 1},
+  {"v": 6, "t": "guarda os mandamentos do Senhor teu Deus, andando nos seus caminhos e temendo-o."},
+  {"s": "A terra boa"},
+  {"v": 7, "t": "Porque o Senhor teu Deus te introduz numa terra boa, terra de torrentes de água, de fontes e de águas profundas que brotam nos vales e nos montes;"},
+  {"v": 8, "t": "terra de trigo e de cevada, de vinhas, figueiras e romãzeiras; terra de oliveiras, de azeite e de mel;"},
+  {"v": 9, "t": "terra em que comerás o pão sem escassez e nada te faltará; terra cujas pedras são ferro e de cujos montes cavarás o cobre."},
+  {"v": 10, "t": "Comerás e te fartarás, e bendirás o Senhor teu Deus pela boa terra que te deu."},
+  {"s": "Guarda-te, na fartura, de esquecer"},
+  {"v": 11, "t": "Guarda-te de esqueceres o Senhor teu Deus, deixando de observar os seus mandamentos, as suas normas de direito e os seus estatutos, que hoje te ordeno;"},
+  {"v": 12, "t": "para que, depois de teres comido e te teres fartado, de teres edificado boas casas e nelas habitado,"},
+  {"v": 13, "t": "de se terem multiplicado as tuas vacas e as tuas ovelhas, de teres em abundância prata, ouro e todas as coisas,"},
+  {"v": 14, "t": "não se ensoberbeça o teu coração e te esqueças do Senhor teu Deus, que te tirou da terra do Egito, da casa da servidão;"},
+  {"v": 15, "t": "que te conduziu por aquele deserto grande e terrível, de serpentes abrasadoras e escorpiões, terra sedenta e sem água; que fez sair para ti água da rocha duríssima;"},
+  {"v": 16, "t": "que te alimentou no deserto com o maná, que teus pais não conheciam, para te humilhar e te pôr à prova, e para no fim te fazer bem;"},
+  {"v": 17, "t": "para que não digas no teu coração: A minha força e o vigor da minha mão é que me deram esta riqueza."},
+  {"v": 18, "t": "Antes, lembra-te do Senhor teu Deus, porque é ele quem te dá força para adquirires riqueza, para confirmar a aliança que jurou a teus pais, como hoje se vê."},
+  {"v": 19, "t": "Se te esqueceres do Senhor teu Deus, seguires outros deuses, os servires e te prostrares diante deles, eu hoje dou testemunho contra vós: certamente perecereis;", "np": 1},
+  {"v": 20, "t": "como as nações que o Senhor destrói diante de vós, assim perecereis, por não terdes obedecido à voz do Senhor vosso Deus."}
+ ],
+ "notas": [
+  {"id": "n01", "v": 2, "apos": "deserto", "texto": "Os vv. 2-3 e 14-16 são a primeira leitura da Missa do Corpo e Sangue de Cristo, ano A: o maná prepara o Evangelho do pão vivo descido do céu (Jo 6,51-58).", "origem": "nova: liturgia"},
+  {"id": "n02", "v": 3, "apos": "Senhor", "texto": "Com este versículo Jesus responde à primeira tentação do diabo no deserto (Mt 4,4; Lc 4,4).", "origem": "revista: n01 do projeto antigo"}
+ ],
+ "comentarios": {},
+ "revisao": {
+  "escolhas": [
+   {
+    "id": "boca-do-senhor",
+    "ref": "Dt 8,3",
+    "titulo": "«de tudo o que sai da boca do Senhor» ou «de toda palavra que sai da boca do Senhor»?",
+    "contexto": "O hebraico diz «de tudo o que sai da boca do Senhor», sem «palavra». A Bíblia grega acrescentou «palavra», e assim Jesus o cita (Mt 4,4; Lc 4,4) e o lecionário o lê (Corpo e Sangue de Cristo, ano A). Vale também para Mt 4,4, que segue o grego.",
+    "opcoes": [
+     {"id": "a", "texto": "«nem só de pão vive o homem, mas de tudo o que sai da boca do Senhor»", "nota": "O hebraico, como manda a regra do original.", "recomendada": true},
+     {"id": "b", "texto": "«nem só de pão vive o homem, mas de toda palavra que sai da boca do Senhor»", "nota": "A forma conhecida, do lecionário e do Evangelho."}
+    ]
+   }
+  ]
+ }
+}
