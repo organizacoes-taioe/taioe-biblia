@@ -31,3 +31,8 @@ De `003/achados-latinos.json` e `003/achados-gregos.json`, sobre Josué que intr
 ## Cuidado
 
 `lourenco-q2-dom3-og-gigante-vencido-por-josue` diz que Og foi vencido por Josué; foi sob Moisés (Dt 3,1-3). Não usar sem cortar.
+
+## Dt 1 e 2 (achado depois de os capítulos prontos; `003/relatorio-orientais.md`)
+
+- Efrém sobre Dt 1,37-38: Deus parece tirar algo de Moisés ao engrandecer Josué, mas Josué é menor que Moisés (Assemani I, comentário a Dt 1).
+- Efrém sobre Dt 2,30: Deus endurece Seon como a Faraó; cada um colhe o fim dos seus costumes.
