@@ -1,0 +1,167 @@
+{
+ "1": [
+  {
+   "id": "conosco-hoje",
+   "titulo": "«Não com os nossos pais, mas conosco»: a aliança feita com os que estão vivos",
+   "versiculos": [
+    2,
+    3
+   ],
+   "itens": [
+    "catecismo-2060-dt-5-2-alianca-antes-do-decalogo",
+    "teodoreto-quaest-dt-1-alianca-conosco-nao-com-os-pais",
+    "lapide-dt-5-3-nao-com-os-pais-mas-conosco"
+   ]
+  },
+  {
+   "id": "face-a-face",
+   "titulo": "«Face a face»: Deus falou sem que o povo visse figura alguma",
+   "versiculos": [
+    4
+   ],
+   "itens": [
+    "agostinho-qh-v-9b-face-a-face-e-o-espelho",
+    "catecismo-2059-dt-5-4-face-a-face-teofania"
+   ]
+  },
+  {
+   "id": "mediador",
+   "titulo": "«Eu estava entre o Senhor e vós»: Moisés, mediador do povo",
+   "versiculos": [
+    5
+   ],
+   "itens": [
+    "agostinho-qh-v-10-moises-entre-o-senhor-e-vos",
+    "tomas-heb-2-3-o-sacerdote-medianeiro-dt-5-5"
+   ]
+  }
+ ],
+ "2": [
+  {
+   "id": "zeloso",
+   "titulo": "O Deus zeloso, que castiga nos filhos a iniquidade que eles imitam",
+   "versiculos": [
+    9,
+    10
+   ],
+   "itens": [
+    "lapide-dt-5-9-deus-zeloso-amor-de-esposo",
+    "jeronimo-in-ez-vi-castigo-adiado-misericordia",
+    "agostinho-ench-46-pecados-dos-pais-e-regeneracao"
+   ]
+  },
+  {
+   "id": "sabado",
+   "titulo": "«Guarda o dia de sábado»: o dia de lembrar o que Deus fez",
+   "versiculos": [
+    12,
+    13,
+    14,
+    15
+   ],
+   "itens": [
+    "joao-paulo-ii-dies-domini-17-sabado-memoria-do-egito",
+    "tomas-cdp-5-o-sabado-ensina-a-amar-a-deus",
+    {
+     "id": "lapide-dt-5-14-as-causas-do-sabado",
+     "texto": "Perguntarás: qual foi a origem do sábado? […] Digo, pois: a primeira origem e causa de se instituir o sábado foi que os homens, no sábado, ponderassem a obra da criação e o benefício da natureza instituída por Deus e do universo criado, como se vê em Gn 2,3. A segunda causa foi que os hebreus, no sábado, celebrassem a memória da dura servidão do Egito e da libertação dela. […] A quarta, que no sábado, depois dos trabalhos de toda a semana, se desse descanso aos servos, às servas e aos animais, para que não fossem esmagados por excesso de trabalho. Esta causa é dada aqui, no v. 14.",
+     "original": "Quaeres, quae fuerit origo sabbati? [...] Dico ergo: Prima origo et causa instituendi sabbati fuit, ut homines sabbato opus creationis, et beneficium institutae a Deo naturae, conditique universi expenderent, ut patet Gen. II, vers. 3 [...]. Secunda causa fuit, ut Hebraei in sabbato laboriosae servitutis Aegyptiacae, et ab ea liberationis memoriam celebrarent: [...] Quarta, ut sabbato, a laboribus totius septimanae, daretur requies servis, ancillis et animalibus, ne nimio labore opprimerentur. Haec causa datur hic vers. 14."
+    }
+   ]
+  },
+  {
+   "id": "servo-descanse",
+   "titulo": "«Para que o teu servo descanse como tu»: quem foi escravo dá descanso",
+   "versiculos": [
+    14,
+    15
+   ],
+   "itens": [
+    "teodoreto-quaest-dt-1-sabado-servo-descansa",
+    "catecismo-2057-dt-5-15-decalogo-caminho-de-liberdade"
+   ]
+  },
+  {
+   "id": "honra-pais",
+   "titulo": "«Honra teu pai e tua mãe»: o mandamento com promessa, e a sua ordem",
+   "versiculos": [
+    16
+   ],
+   "itens": [
+    "crisostomo-ef-hom-21-primeira-com-promessa-dt-5-16",
+    "tomas-ef-6-1-honrar-pai-e-mae-dt-5-16",
+    "agostinho-sermao-denis-25-honra-pai-e-mae-ordem"
+   ]
+  },
+  {
+   "id": "cobica",
+   "titulo": "«Não cobiçarás»: os mandamentos que chegam ao desejo do coração",
+   "versiculos": [
+    21
+   ],
+   "itens": [
+    {
+     "id": "lapide-dt-5-21-mulher-antes-da-casa-ordem-de-dt",
+     "texto": "«Não cobiçarás a mulher do teu próximo.» Nota: a concupiscência é proibida por um preceito especial porque muitos achavam que o sexto preceito («Não cometerás adultério») e o sétimo («Não furtarás») proibiam apenas o ato externo, e não o interno, que não seria proibido nem de evitar. […] «Nem a casa, nem o campo.» Depois da concupiscência da mulher, proibida pelo nono preceito, este décimo proíbe a concupiscência das coisas alheias.",
+     "original": "«Non concupisces uxorem proximi tui.» Nota: Concupiscentia vetatur speciali præcepto, quia plerique putabant sexto præcepto: «Non mœchaberis,» et septimo, «non furtum facies,» tantum vetari actum externum, internum vero non esse vetitum, nec cavendum. [...] «Non domum, non agrum.» Post concupiscentiam uxoris nono præcepto vetitam, decimo hoc vetat concupiscentiam rei alienæ."
+    },
+    "catecismo-2534-dt-5-21-decimo-mandamento"
+   ]
+  }
+ ],
+ "3": [
+  {
+   "id": "tabuas",
+   "titulo": "As duas tábuas de pedra e o coração que entende",
+   "versiculos": [
+    22
+   ],
+   "itens": [
+    "rabano-in-dt-i-11-duas-tabuas-e-coracao-de-pedra",
+    "catecismo-2058-dt-5-22-dez-palavras-as-tabuas"
+   ]
+  },
+  {
+   "id": "medo-da-voz",
+   "titulo": "«Por que havemos de morrer?»: a voz que assusta e a palavra que se fez carne",
+   "versiculos": [
+    24,
+    25,
+    26,
+    27
+   ],
+   "itens": [
+    "tomas-heb-12-4-ninguem-ouve-a-voz-de-deus-e-vive",
+    "crisostomo-hb-hom-32-fale-moises-e-nao-deus",
+    "ruperto-in-cant-i-o-oleo-derramado-e-o-temor-do-sinai"
+   ]
+  },
+  {
+   "id": "quem-dera",
+   "titulo": "«Quem dera tivessem este coração»: o coração novo que só Deus dá",
+   "versiculos": [
+    28,
+    29
+   ],
+   "itens": [
+    "ruperto-in-ex-iii-33-bem-falaram-e-o-desejo-de-deus",
+    "agostinho-qh-v-11-quem-dera-um-coracao-assim",
+    "tomas-st-iii-q85a5-o-proprio-temor-vem-de-deus"
+   ]
+  },
+  {
+   "id": "fica-comigo",
+   "titulo": "«Fica aqui comigo»: perto de Deus, sem desviar para a direita nem para a esquerda",
+   "versiculos": [
+    31,
+    32,
+    33
+   ],
+   "itens": [
+    "ambrosio-enarr-ps-61-fica-aqui-comigo",
+    "pedro-damiao-ep-vi-5-servo-de-deus-fica-com-o-senhor",
+    "jeronimo-in-is-xvi-o-caminho-real-sem-desvios"
+   ]
+  }
+ ]
+}
