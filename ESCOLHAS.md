@@ -56,6 +56,7 @@ Vale para pessoas, povos e lugares, também nos comentários dos Padres.
 - Nm 32: Jazer, Galaad, Atarot, Dibon, Nemra, Hesbon, Eleale, Sabam, Nebo, Beon, Cades-Barne, o vale de Escol (como Nm 13), Aroer, Atarot-Sofan, Jegbaa, Bet-Nemra, Bet-Haran, Cariataim, Baal-Meon, Sabama, Maquir, Jair, Havot-Jair, Nobe e Canat, que a liturgia não lê, como no projeto antigo; Caleb, filho de Jefoné, o quenezeu; Josué, filho de Num.
 - Nm 33: as etapas como no projeto antigo (Ramessés, Sucot, Etam, Fiairot, Baal-Sefon, Magdol, Mara, Elim, Dafca, Alus, Rafidim, Quibrot-Hataavá, Haserot… Asion-Gaber, Salmona, Funon, Dibon-Gad, Helmon-Deblataim, Bet-Jesimot); monte Hor, Arad, Negueb, Obot e Ijé-Abarim como Nm 20–21; «Abel-Setim», como Setim em Nm 25,1 (a partida dizia «Abel-Sitim»).
 - Nm 34: os lugares da fronteira e os chefes das tribos, que a liturgia não lê, como no projeto antigo (o mar Salgado, o mar Grande, o mar de Ceneret, com notas); Caleb, filho de Jefoné; Josué, filho de Num.
+- Dt 2: Ló, como o lecionário (Gn 13; a tradução de partida dizia «Lot»); Asion-Gaber, como Nm 33; os aveus (*'avvim*; a tradução de partida dizia «heveus», que são outro povo, *ḥivvi*); Seir, Esaú, Elat, Ar, Zared, Arnon, Cademot, Seon, Hesbon, Jasa, Aroer, Galaad, Jaboc, Gaza, Caftor (os caftorim), os emim, os enacim, os refaim, os zomzomim e os horreus, que a liturgia não lê, como no projeto antigo.
 - Dt 3: Og, Basã, Edrai, Seon, Hesbon, Arnon, Hermon, Galaad, Aroer, Maquir, Jair, Havot-Jair, Jaboc, Ceneret, o mar Salgado, o Fasga e Fogor (Bet-Fogor), como em Números; Argob, Sarion, Sanir, Salca, Rabá, Arabá e os refaim, que a liturgia não lê no capítulo, como no projeto antigo; «maacatitas», como em Josué (a partida dizia «macatitas»).
 - Gn 3: Eva e Éden, como o lecionário.
 - Sl 38–47: Iditun, Coré (os filhos de Coré), o Jordão, o Hermon, o monte Misar, Jacó, Tiro, Ofir (como o lecionário da Assunção) e Abraão, como no projeto antigo.
@@ -335,6 +336,10 @@ Vale para pessoas, povos e lugares, também nos comentários dos Padres.
 | *'esh okhla, el qanna* (Dt 4,24) | fogo devorador, um Deus zeloso | como Êx 20,5; Js 24,19 («ciumento») muda ao entrar | Dt 4 |
 | *vahashevota el-levavekha* (Dt 4,39) | grava no teu coração | como o lecionário da Santíssima Trindade | Dt 4 |
 | *lema'an yitav lekha* (Dt 4,40) | para que te vá bem | o lecionário diz «para que sejas feliz» | Dt 4 |
+| *hitgarah* (Dt 2,5.9.19.24) | provocar | «não os provoqueis», «nem o provoques à guerra» e, contra Seon, «provoca-o à guerra»: o mesmo verbo na proibição e na ordem; a tradução de partida dizia «entres em guerra» e «trava batalha» | Dt 2 |
+| *rav-lakhem* (Dt 1,6; 2,3) | já basta o tempo que | «Já basta o tempo que rodeastes esta montanha», o eco de Dt 1,6 | Dt 2 |
+| *naḥal* (Dt 2) | torrente; no v. 36, vale | a torrente que se atravessa (Zared, Arnon, Jaboc); «a cidade que fica no vale»; Nm 21,12 diz «vale de Zared» | Dt 2 |
+| *sagvá mimmennu* (Dt 2,36) | alta demais para nós | «não houve cidade alta demais para nós»; a tradução de partida dizia «inexpugnável» | Dt 2 |
 
 ## Inconsistências conhecidas, para corrigir quando o capítulo entrar
 

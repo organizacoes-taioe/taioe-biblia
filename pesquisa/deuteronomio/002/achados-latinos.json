@@ -1,0 +1,316 @@
+[
+ {
+  "lingua": "la",
+  "direitos": "domínio público",
+  "autor": "Santo Agostinho",
+  "autor_id": "agostinho",
+  "datas": "354–430",
+  "titulo_autor": "bispo de Hipona, Doutor da Igreja",
+  "id": "agostinho-quaest-hept-v-2-seon-endurecido",
+  "obra": "Questões sobre o Heptateuco (Quaestiones in Heptateuchum)",
+  "passagem": "V, q. 2 (sobre Dt 2,30)",
+  "edicao": "PL 34, 748–749 (Migne)",
+  "trecho": "4",
+  "versiculos": [
+   30
+  ],
+  "original": "Et noluit Seon rex Esebon transire nos per ipsum, quoniam induraverat Dominus Deus noster spiritum ejus, et confortavit cor ejus, ut traderetur in manus tuas, sicut in hac die. Haec dicens Moyses, dum populum alloquitur, tale aliquid commemorat, quale dicebatur in Exodo, Ego induravi cor Pharaonis; et quod in Psalmis legitur, Convertit cor eorum, ut odissent populum ejus. Nec tacetur hic causa indurationis hujus, cum dicitur, ut traderetur in manus tuas, sicut in hac die: id est, ut vinceretur a te; quod non fieret, nisi resisteret; non autem resisteret, nisi corde obdurato. Cujus rei justitiam si quaesierimus, inscrutabilia sunt judicia Dei: iniquitas autem non est apud Deum. Sane notandum est, confortatum cor posse dici etiam in malo.",
+  "fonte_url": "https://mlat.uzh.ch/browser/cps_2.AugHip.QuInHe",
+  "traducao_pt": "«E Seon, rei de Hesbon, não quis que passássemos por sua terra, porque o Senhor nosso Deus lhe endureceu o espírito e lhe fortaleceu o coração, para que fosse entregue em tuas mãos, como neste dia.» Ao dizer isto, Moisés, falando ao povo, recorda algo semelhante ao que se dizia no Êxodo: «Eu endureci o coração do Faraó», e ao que se lê nos Salmos: «Mudou o coração deles, para que odiassem o seu povo». Aqui também não se cala a causa desse endurecimento, pois se diz: «para que fosse entregue em tuas mãos, como neste dia», isto é, para que fosse vencido por ti; o que não aconteceria, se ele não resistisse; e ele não resistiria, se não tivesse o coração endurecido. Se procurarmos a justiça disso, «insondáveis são os juízos de Deus», mas «não há injustiça em Deus». Note-se, porém, que se pode falar de um coração «fortalecido» também no mal.",
+  "temas": [
+   "o endurecimento de Seon",
+   "a justiça de Deus"
+  ],
+  "resumo": "Deus endurece o coração de Seon para que ele resista e seja vencido; a causa está dita no texto, e a justiça disso está nos juízos insondáveis de Deus, que não é injusto.",
+  "relevancia": 3
+ },
+ {
+  "lingua": "la",
+  "direitos": "domínio público",
+  "autor": "Santo Agostinho",
+  "autor_id": "agostinho",
+  "datas": "354–430",
+  "titulo_autor": "bispo de Hipona, Doutor da Igreja",
+  "id": "agostinho-quaest-hept-iv-44-guerras-justas-edom",
+  "obra": "Questões sobre o Heptateuco (Quaestiones in Heptateuchum)",
+  "passagem": "IV, q. 44 (sobre Nm 21,24-25, paralelo de Dt 2,26-30)",
+  "edicao": "PL 34, 739 (Migne)",
+  "trecho": "4",
+  "versiculos": [
+   26,
+   30
+  ],
+  "original": "Notandum est sane quemadmodum justa bella gerebantur. Innoxius enim transitus negabatur, qui jure humanae societatis aequissimo patere debebat. Sed jam ut Deus sua promissa compleret, adjuvit hic Israelitas, quibus Amorrhaeorum terram dari oportebat. Nam Edom cum similiter eis transitum denegaret, non pugnaverunt cum ipsa gente Israelitae, id est filii Jacob cum filiis Esau, duorum germanorum atque geminorum, quia terram illam Israelitis non promiserat; sed declinaverunt ab eis.",
+  "fonte_url": "https://mlat.uzh.ch/browser/cps_2.AugHip.QuInHe",
+  "traducao_pt": "Note-se como eram justas as guerras que se faziam. Negava-se, com efeito, uma passagem inofensiva, que, pelo direito mais equitativo da sociedade humana, devia estar aberta. Mas, para que Deus cumprisse as suas promessas, ajudou aqui os israelitas, a quem convinha que fosse dada a terra dos amorreus. Quanto a Edom, quando igualmente lhes negou a passagem, os israelitas não lutaram contra aquela nação, isto é, os filhos de Jacó contra os filhos de Esaú, dois irmãos gêmeos, porque Deus não lhes havia prometido aquela terra; antes, desviaram-se deles.",
+  "temas": [
+   "a guerra justa",
+   "a passagem negada"
+  ],
+  "resumo": "A guerra contra Seon foi justa porque ele negou uma passagem inofensiva; contra Edom, irmão de Israel e fora da promessa, os israelitas não lutaram, mas se desviaram.",
+  "relevancia": 2
+ },
+ {
+  "lingua": "la",
+  "direitos": "domínio público",
+  "autor": "Santo Agostinho",
+  "autor_id": "agostinho",
+  "datas": "354–430",
+  "titulo_autor": "bispo de Hipona, Doutor da Igreja",
+  "id": "agostinho-contra-fausto-xxii-60-lo-e-sua-descendencia",
+  "obra": "Contra Fausto, o maniqueu (Contra Faustum Manichaeum)",
+  "passagem": "XXII, 60 (sobre Ló; cita Dt 2,9)",
+  "edicao": "PL 42, 437–438 (Migne)",
+  "trecho": "2",
+  "versiculos": [
+   9,
+   19
+  ],
+  "original": "Caeterum Loth frater, id est consanguineus Abrahae, nequaquam istis comparandus est, de quibus Deus dicit, Ego sum Deus Abraham, et Deus Isaac, et Deus Jacob [...] quamvis inter Sodomitas pie casteque versatus, hospitalitatis etiam meritis commendatus, ab illius terrae incendio liberatus sit, et ejus posteris terra possessionis propter Abraham, qui patruus ejus fuerat, dono Dei data sit. Haec nobis merita in illis Libris laudanda proponuntur, non ebrietas, non incestus: sed cum hominis ejusdem et recte factum et peccatum scriptum invenimus, aliud insinuatur imitandum, aliud praecavendum.",
+  "fonte_url": "https://mlat.uzh.ch/browser/cps_2.AugHip.CoFaMa",
+  "traducao_pt": "Ló, «irmão» de Abraão, isto é, seu parente, de modo algum se compara àqueles de quem Deus diz: «Eu sou o Deus de Abraão, o Deus de Isaac e o Deus de Jacó». [...] Contudo, viveu piedosa e castamente entre os sodomitas, foi recomendado também pelos méritos da hospitalidade, foi livrado do incêndio daquela terra, e à sua descendência foi dada, por dom de Deus, a terra em possessão, por causa de Abraão, que era seu tio. São estes os méritos que aqueles Livros nos propõem para louvar, e não a embriaguez nem o incesto: quando encontramos escritos, do mesmo homem, o ato reto e o pecado, uma coisa se propõe para imitar, outra para evitar.",
+  "temas": [
+   "Moab e Amon poupados por causa de Ló",
+   "a terra dada por causa de Abraão"
+  ],
+  "resumo": "A terra dada aos descendentes de Ló, que Israel não pode tomar, é dom de Deus por causa de Abraão; de Ló a Escritura propõe o que imitar e o que evitar.",
+  "relevancia": 2
+ },
+ {
+  "lingua": "la",
+  "direitos": "domínio público",
+  "autor": "São Jerônimo",
+  "autor_id": "jeronimo",
+  "datas": "c. 347–420",
+  "titulo_autor": "presbítero, Doutor da Igreja",
+  "id": "jeronimo-in-abdiam-prologo-edom-irmao-de-israel",
+  "obra": "Comentário a Abdias (Commentaria in Abdiam)",
+  "passagem": "Prólogo (sobre Ab 1; cita Dt 2)",
+  "edicao": "PL 25, 1099 (Migne)",
+  "trecho": "1",
+  "versiculos": [
+   4,
+   5
+  ],
+  "original": "Edom, id est, Esau, non de extraneis gentibus computatur, filius Isaac et frater Jacob: unde et terra illius non datur in possessionem Israel, nec dimittitur bellare contra eam, et adversus fratrem armari prohibetur.",
+  "fonte_url": "https://mlat.uzh.ch/browser/cps_2.HieStr.CoInAb",
+  "traducao_pt": "Edom, isto é, Esaú, não se conta entre as nações estrangeiras, pois é filho de Isaac e irmão de Jacó. Por isso a sua terra não é dada em posse a Israel, nem se permite fazer guerra contra ela, e se proíbe tomar armas contra um irmão.",
+  "temas": [
+   "Edom, irmão de Israel",
+   "a terra de Esaú"
+  ],
+  "resumo": "Edom não é nação estrangeira, mas irmão de Israel: por isso a sua terra não foi dada a Israel e foi proibido tomar armas contra ele.",
+  "relevancia": 2
+ },
+ {
+  "lingua": "la",
+  "direitos": "domínio público",
+  "autor": "Ruperto de Deutz",
+  "autor_id": "ruperto",
+  "datas": "c. 1075–1129",
+  "titulo_autor": "abade beneditino, teólogo",
+  "id": "ruperto-in-amos-1-edom-moab-amon-terras-vedadas",
+  "obra": "Comentário aos Doze Profetas Menores (Commentaria in duodecim prophetas minores)",
+  "passagem": "Amós I (sobre Am 1,13; cita Dt 2,4-5.9.19)",
+  "edicao": "PL 168, 275–276 (Migne)",
+  "trecho": "3",
+  "versiculos": [
+   5,
+   9,
+   19
+  ],
+  "original": "Ammon iste et Moab, cujus scelera protinus dicturus est, ex propinquitate Abrahae fuerunt, scilicet filii Lot, qui filius fuit fratris Abrahae. Debuerant ergo et ipsi filiis Israel clementiores caeteris gentibus esse, praesertim cum illi nihil eos laesissent, neque terras eorum quaesissent. Nam isti sunt quorum terras Israeli Dominus nominatim interdixit, jam dictus Edom et hic Ammon, et sequens Moab. [...] At illi sicut Edom, inclementiores econtra et impietatis principes exstiterunt.",
+  "fonte_url": "https://mlat.uzh.ch/browser/cps_2.RupTui.CoInDuP",
+  "traducao_pt": "Amon e Moab, cujos crimes o profeta Amós vai logo referir, são da parentela de Abraão: filhos de Ló, que era filho do irmão de Abraão. Deviam, portanto, ser mais clementes com os filhos de Israel do que as outras nações, sobretudo porque estes nada lhes tinham feito de mal nem lhes tinham cobiçado as terras. Pois são estes aqueles cujas terras o Senhor proibiu expressamente a Israel: Edom, Amon e Moab. [...] Mas eles, como Edom, mostraram-se, ao contrário, mais cruéis, e os primeiros na impiedade.",
+  "temas": [
+   "os povos parentes poupados por Deus",
+   "a ingratidão de Edom, Moab e Amon"
+  ],
+  "resumo": "Deus vedou a Israel as terras de Edom, Moab e Amon por serem parentes; mas esses povos, em vez de clemência, deram a Israel hostilidade.",
+  "relevancia": 2
+ },
+ {
+  "lingua": "la",
+  "direitos": "domínio público",
+  "autor": "São Beda, o Venerável",
+  "autor_id": "beda",
+  "datas": "c. 673–735",
+  "titulo_autor": "monge de Jarrow, Doutor da Igreja",
+  "id": "beda-ep-14-acca-38-anos-de-rodeios-subir-de-novo",
+  "obra": "Cartas (Epistolae)",
+  "passagem": "Carta 14 a Acca, sobre as mansões dos filhos de Israel (cita Dt 2,1.14)",
+  "edicao": "PL 94, 701–702 (Migne)",
+  "trecho": "2",
+  "versiculos": [
+   1,
+   3,
+   14
+  ],
+  "original": "post longos triginta et octo annorum anfractus, derelicta tandem eadem Cades venisse in montem Hor, nequaquam hoc frustra, sed magni mysterii gratia taliter actum conscriptumque debet intelligi [...] At quoties vitiis quibuslibet subripientibus a coepto veritatis calle deviamus, non statim ad altiores virtutum gradus ascendere possumus, sed interim ab infimis miserae mentis defectibus, paulatim superiora debeamus poenitendo repetere.",
+  "fonte_url": "https://mlat.uzh.ch/browser/cps_2.Beda.Episto143",
+  "traducao_pt": "Depois de longos rodeios de trinta e oito anos, os filhos de Israel deixaram enfim Cades e vieram ao monte Hor. Não se deve entender que isto foi feito e escrito em vão, mas por causa de um grande mistério. [...] Toda vez que, por vícios que se insinuam, nos desviamos do caminho da verdade que tínhamos começado, não podemos subir de imediato aos graus mais altos das virtudes: devemos, a partir dos defeitos mais baixos de uma alma miserável, recobrar aos poucos, pela penitência, o que está acima.",
+  "temas": [
+   "os trinta e oito anos de rodeios",
+   "recomeçar pela penitência"
+  ],
+  "resumo": "Os trinta e oito anos de rodeios depois de Cades têm sentido moral: quem se desvia do caminho não volta de um salto aos graus altos, mas sobe de novo aos poucos, pela penitência.",
+  "relevancia": 2
+ },
+ {
+  "lingua": "la",
+  "direitos": "domínio público",
+  "autor": "Rábano Mauro",
+  "autor_id": "rabano",
+  "datas": "c. 780–856",
+  "titulo_autor": "abade de Fulda, arcebispo de Mogúncia",
+  "obra": "Exposição sobre o Deuteronômio (Enarratio super Deuteronomium)",
+  "fonte_url": "https://mlat.uzh.ch/browser/cps_2.RabMau.EnSuDe",
+  "id": "rabano-dt-2-26-passar-em-paz-irrita-o-mundo",
+  "passagem": "sobre Dt 2,26-32 (Seon sai ao combate)",
+  "edicao": "PL 108, 851 (Migne)",
+  "trecho": "4",
+  "versiculos": [
+   26,
+   30,
+   32
+  ],
+  "original": "Volumus ergo nos pacifice transire per mundum: sed hoc ipsum magis incitat principem mundi quod dicimus nos nolle permanere cum illo nec morari, nec aliquid ejus velle contingere. Inde magis exacerbatur, inde extollitur et irascitur, et commovet nobis persecutiones, pericula suscitat, cruciatus intentat. [...] Quis est omnis populus Sehon, quem concitat contra Israel? Principes ac judices mundi, cunctique nequitiae ministri, qui impugnant semper et persequuntur populum Dei.",
+  "traducao_pt": "Nós também queremos passar em paz pelo mundo; mas isto mesmo, o dizermos que não queremos ficar com ele nem nos demorar nele, nem tocar em coisa alguma sua, irrita ainda mais o príncipe do mundo. Por isso ele se exaspera mais, se ensoberbece e se enfurece, e suscita contra nós perseguições, levanta perigos, ameaça com tormentos. [...] Quem é todo o povo de Seon, que ele arregimenta contra Israel? São os príncipes e juízes do mundo e todos os ministros da maldade, que sempre combatem e perseguem o povo de Deus.",
+  "temas": [
+   "a perseguição que vem de passar em paz",
+   "o príncipe deste mundo"
+  ],
+  "resumo": "Quem diz ao mundo que apenas passa por ele, sem querer parte nos seus bens, irrita o príncipe do mundo, que levanta contra o povo de Deus perseguições e ameaças.",
+  "relevancia": 2
+ },
+ {
+  "lingua": "la",
+  "direitos": "domínio público",
+  "autor": "Rábano Mauro",
+  "autor_id": "rabano",
+  "datas": "c. 780–856",
+  "titulo_autor": "abade de Fulda, arcebispo de Mogúncia",
+  "obra": "Exposição sobre o Deuteronômio (Enarratio super Deuteronomium)",
+  "fonte_url": "https://mlat.uzh.ch/browser/cps_2.RabMau.EnSuDe",
+  "id": "rabano-dt-2-33-36-cada-um-foi-cidade-de-seon",
+  "passagem": "sobre Dt 2,33-36 (a vitória sobre Seon)",
+  "edicao": "PL 108, 852–853 (Migne)",
+  "trecho": "4",
+  "versiculos": [
+   33,
+   34,
+   36
+  ],
+  "original": "Sed et unusquisque nostrum prius civitas fuit regis Sehon, regis elati. Regnabat enim in nobis stultitia, superbia, impietas, et omnia quae sunt ex parte diaboli; sed ubi expugnatur et devictus est fortis, et vasa ejus direpta sunt, effecti sumus civitates Israel, et haereditas sanctorum, si tamen penitus excisa est in nobis potestas illa quae prius dominabatur nobis [...] et sumus sub eo rege qui dicit: « Discite a me quia mitis sum et humilis corde »",
+  "traducao_pt": "Cada um de nós foi antes cidade do rei Seon, o rei soberbo. Reinavam em nós a insensatez, a soberba, a impiedade e tudo o que vem da parte do diabo; mas, quando o forte foi atacado e vencido, e tomados os seus despojos, nós nos tornamos cidades de Israel e herança dos santos, se é que foi inteiramente extirpado em nós aquele poder que antes nos dominava [...] e estamos sob aquele Rei que diz: «Aprendei de mim, que sou manso e humilde de coração.»",
+  "temas": [
+   "as cidades tomadas: cada alma conquistada",
+   "da soberba à mansidão"
+  ],
+  "resumo": "As cidades de Seon tomadas por Israel figuram cada cristão, que foi antes cidade do rei soberbo e agora vive sob o Rei manso e humilde.",
+  "relevancia": 2
+ },
+ {
+  "lingua": "la",
+  "direitos": "domínio público",
+  "autor": "São Bruno de Segni",
+  "autor_id": "bruno-segni",
+  "datas": "c. 1045–1123",
+  "titulo_autor": "bispo de Segni e abade de Monte Cassino",
+  "id": "bruno-segni-dt-32-10-rodeou-guardou-pupila",
+  "obra": "Exposição sobre o Pentateuco (Expositio in Pentateuchum)",
+  "passagem": "sobre Dt 32,10 (retoma Dt 2,3)",
+  "edicao": "PL 164, 537 (Migne)",
+  "trecho": "1",
+  "versiculos": [
+   1,
+   3,
+   7
+  ],
+  "original": "« Circumduxit eum, et docuit, et custodivit quasi pupillam oculi sui. » Hoc est, quod superius dicitur. Sufficit vobis circuire montem istum. « Et circuimus, » inquit Moyses, « montem Seir longo tempore. » Per quadraginta namque annos circumduxit eos Dominus per desertum, donec illi omnes introirent, qui prius a viginti annis, et supra numerati fuerunt. Semper autem docuit, qualiter se habere debuissent, et quasi pupillam oculi eos custodivit.",
+  "fonte_url": "https://mlat.uzh.ch/browser/cps_2.BruAst.ExInPe",
+  "traducao_pt": "«Rodeou-o, ensinou-o e guardou-o como a menina dos seus olhos.» É o que se disse acima: «Já basta o tempo que rodeastes esta montanha.» E diz Moisés: «E rodeamos a montanha de Seir por muito tempo.» Durante quarenta anos, com efeito, o Senhor os conduziu em círculo pelo deserto, até que entrassem todos aqueles que antes haviam sido recenseados de vinte anos para cima. Mas sempre os ensinou como deviam proceder e os guardou como a menina dos seus olhos.",
+  "temas": [
+   "o deserto como cuidado de Deus",
+   "os quarenta anos"
+  ],
+  "resumo": "Os quarenta anos rodeando a montanha de Seir não foram abandono: Deus os conduzia, ensinava e guardava como a menina dos seus olhos.",
+  "relevancia": 2
+ },
+ {
+  "lingua": "la",
+  "direitos": "domínio público",
+  "autor": "Cornélio a Lápide",
+  "autor_id": "lapide",
+  "datas": "1567–1637",
+  "titulo_autor": "jesuíta, comentador da Bíblia; não canonizado",
+  "obra": "Comentários ao Deuteronômio (Commentaria in Deuteronomium)",
+  "id": "lapide-dt-2-3-ide-para-o-norte-deus-abrevia",
+  "passagem": "cap. II, v. 3",
+  "edicao": "Commentaria in Scripturam Sacram, t. II, Paris, Vivès, 1868, p. 398",
+  "trecho": "1",
+  "versiculos": [
+   3
+  ],
+  "fonte_url": "https://archive.org/details/commentariainscr02lapi_0/page/n429/mode/1up",
+  "original": "Ite contra Aquilonem, — ite contra terram promissam, quae est ad Aquilonem Idumaeae, quam circumiistis jam longo tempore versus Meridiem et Orientem; sed vestri misertus, volo ut quantocius incidatis iter vestrum per extrema Idumaeae, ut recta contendatis in Chanaan, videlicet inter Moabitas et Ammonitas incedendo, per regna Og et Sehon.",
+  "traducao_pt": "«Ide para o norte»: isto é, ide para a terra prometida, que fica ao norte da Idumeia e que vós já rodeastes por longo tempo, para o sul e para o leste; mas, compadecido de vós, quero que abrevieis quanto antes o vosso caminho, passando pelos confins da Idumeia, para que vos dirijais diretamente a Canaã, indo, a saber, entre moabitas e amonitas, pelos reinos de Og e de Seon.",
+  "temas": [
+   "basta de andar em círculos",
+   "Deus abrevia o caminho"
+  ],
+  "resumo": "Deus, compadecido, manda o povo deixar de rodear a montanha e seguir direto para a terra prometida.",
+  "relevancia": 2
+ },
+ {
+  "lingua": "la",
+  "direitos": "domínio público",
+  "autor": "Cornélio a Lápide",
+  "autor_id": "lapide",
+  "datas": "1567–1637",
+  "titulo_autor": "jesuíta, comentador da Bíblia; não canonizado",
+  "obra": "Comentários ao Deuteronômio (Commentaria in Deuteronomium)",
+  "id": "lapide-dt-2-19-filhos-de-lo-por-merito-de-lo",
+  "passagem": "cap. II, v. 19",
+  "edicao": "Commentaria in Scripturam Sacram, t. II, Paris, Vivès, 1868, p. 399",
+  "trecho": "3",
+  "versiculos": [
+   9,
+   19
+  ],
+  "fonte_url": "https://archive.org/details/commentariainscr02lapi_0/page/n430/mode/1up",
+  "original": "Filii Lot fuerunt Ammon et Moab: unde ob merita Lot, voluit Deus posteris ejus cedere Ammonitidem et Moabitidem, aeque ac posteris Esau, ob merita Isaaci et Abrahae, avorum, voluit cedere Idumaeam, expulsis Horrhaeis, noluitque Hebraeos ea invadere, vel occupare.",
+  "traducao_pt": "Os filhos de Ló foram Amon e Moab: por isso, em atenção aos méritos de Ló, Deus quis que a terra de Amon e de Moab coubesse aos seus descendentes, assim como, em atenção aos méritos de Isaac e de Abraão, avós de Esaú, quis que a Idumeia coubesse aos descendentes de Esaú, expulsos os horreus; e não quis que os hebreus as invadissem nem ocupassem.",
+  "temas": [
+   "os méritos dos pais",
+   "a terra de cada povo"
+  ],
+  "resumo": "Deus deu Amon e Moab aos descendentes de Ló, e Edom aos de Esaú, em atenção aos méritos de seus pais, e não quis que Israel as tomasse.",
+  "relevancia": 2
+ },
+ {
+  "lingua": "la",
+  "direitos": "domínio público",
+  "autor": "Cornélio a Lápide",
+  "autor_id": "lapide",
+  "datas": "1567–1637",
+  "titulo_autor": "jesuíta, comentador da Bíblia; não canonizado",
+  "obra": "Comentários ao Deuteronômio (Commentaria in Deuteronomium)",
+  "id": "lapide-dt-2-30-como-deus-endureceu-seon",
+  "passagem": "cap. II, v. 30",
+  "edicao": "Commentaria in Scripturam Sacram, t. II, Paris, Vivès, 1868, p. 400",
+  "trecho": "4",
+  "versiculos": [
+   30
+  ],
+  "fonte_url": "https://archive.org/details/commentariainscr02lapi_0/page/n431/mode/1up",
+  "original": "Quia induraverat Dominus Deus tuus spiritum ejus, — subducendo ei gratiam mollientem, et ex alia parte formidinem ac metum Hebraeorum ei injiciendo: regi enim Gentili jure timendum erat, ne Hebraei specie transitus dolose occuparent ejus regnum; itaque ei petitionem Hebraeorum de transitu proponendo, quem ipsum omnino negaturum praesciebat; unde consecutum est ut Hebraei eumdem vi et bello tentarent, in quo Sehon succumberet, et traderetur in manus eorum.",
+  "traducao_pt": "«Porque o Senhor teu Deus lhe endureceu o espírito» — retirando-lhe a graça que abranda e, por outro lado, infundindo-lhe o temor e o medo dos hebreus: com efeito, um rei pagão tinha razão em temer que os hebreus, sob pretexto de passagem, ocupassem dolosamente o seu reino; assim, apresentando-lhe o pedido de passagem dos hebreus, que Deus previa que ele negaria por completo, seguiu-se que os hebreus o atacassem pela força e pela guerra, e nela Seon sucumbisse e fosse entregue em suas mãos.",
+  "temas": [
+   "como Deus endurece",
+   "a graça retirada e o temor"
+  ],
+  "resumo": "Deus endureceu Seon retirando-lhe a graça que abranda e deixando agir o seu temor de que os hebreus tomassem o reino sob pretexto de passagem.",
+  "relevancia": 2
+ }
+]

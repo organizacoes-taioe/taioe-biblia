@@ -20,6 +20,14 @@ De `003/achados-latinos.json` e `003/achados-gregos.json`, sobre Josué que intr
 - `agostinho-enps98-12-grande-perda-nao-entrar-na-sombra`: que perda seria, para quem entrou no reino, não entrar numa terra que era sombra (outros trechos em Nm 20).
 - `agostinho-qhept4-53-lei-e-sacerdocio-nao-introduzem`: nem Aarão nem Moisés introduzem; só Josué (sobre Nm 27).
 
+## Achados na pesquisa do Dt 2 (pistas, a conferir)
+
+- Dt 1,31: Orígenes, *Adnotationes in Dt* (PG 17, 24–25): «como mestre que balbucia com crianças». Dt 1,44: pseudo-Jerônimo, *De X tentationibus populi Israel* (PL 23).
+- Dt 5,2-6: Agostinho, *Quaestiones in Heptateuchum* V, 9–10.
+- Dt 7 e 20,16 (o anátema): Newman, *Parochial and Plain Sermons* III, 13; o sermão já entrou em Nm 25 e Dt 2, cada vez com outro trecho.
+- Dt 8 (o deserto e o maná): Francisco, homilia de Corpus Christi, 19/06/2014 (só vista em busca).
+- Dt 14,19: Cirilo, nas *Adnotationes* (PG 17). Dt 23 (Edom e Egito): Tomás, *Suma* I-II q. 105 a. 3 ad 2.
+
 ## Cuidado
 
 `lourenco-q2-dom3-og-gigante-vencido-por-josue` diz que Og foi vencido por Josué; foi sob Moisés (Dt 3,1-3). Não usar sem cortar.
