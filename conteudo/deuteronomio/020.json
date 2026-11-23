@@ -1,0 +1,40 @@
+{
+ "livro": "deuteronomio",
+ "cap": 20,
+ "estado": "em revisão",
+ "atualizado": "2026-11-23",
+ "trechos": [
+  {"id": "1", "titulo": "Quando saíres à guerra", "de": 1},
+  {"id": "2", "titulo": "Os que voltam para casa", "de": 5},
+  {"id": "3", "titulo": "O cerco das cidades", "de": 10},
+  {"id": "4", "titulo": "As árvores do cerco", "de": 19}
+ ],
+ "texto": [
+  {"s": "Quando saíres à guerra"},
+  {"v": 1, "t": "Quando saíres à guerra contra os teus inimigos e vires cavalos e carros, um povo mais numeroso do que tu, não os temas, porque está contigo o Senhor teu Deus, que te fez subir da terra do Egito."},
+  {"v": 2, "t": "Quando estiverdes para entrar em combate, o sacerdote se adiantará e falará ao povo,"},
+  {"v": 3, "t": "dizendo: Ouve, Israel: hoje vos aproximais do combate contra os vossos inimigos; não desfaleça o vosso coração; não temais, não vos assusteis nem tremais diante deles,"},
+  {"v": 4, "t": "porque o Senhor vosso Deus é quem vai convosco, para combater por vós contra os vossos inimigos e para vos salvar."},
+  {"s": "Os que voltam para casa"},
+  {"v": 5, "t": "Os oficiais falarão ao povo, dizendo: Quem é o homem que edificou casa nova e ainda não a estreou? Vá e volte para a sua casa, para que não morra na guerra e outro a estreie."},
+  {"v": 6, "t": "Quem é o homem que plantou vinha e ainda não colheu dela? Vá e volte para a sua casa, para que não morra na guerra e outro colha dela."},
+  {"v": 7, "t": "Quem é o homem que ficou noivo de uma mulher e ainda não a recebeu? Vá e volte para a sua casa, para que não morra na guerra e outro a receba."},
+  {"v": 8, "t": "Os oficiais falarão ainda ao povo, dizendo: Quem é o homem medroso e de coração tímido? Vá e volte para a sua casa, para que o coração de seus irmãos não desfaleça como o seu."},
+  {"v": 9, "t": "Quando os oficiais acabarem de falar ao povo, designarão os chefes dos exércitos à frente do povo."},
+  {"s": "O cerco das cidades"},
+  {"v": 10, "t": "Quando te aproximares de uma cidade para a combater, primeiro lhe oferecerás a paz."},
+  {"v": 11, "t": "Se ela te responder com paz e te abrir as portas, todo o povo que nela se achar será posto a trabalhos forçados e te servirá."},
+  {"v": 12, "t": "Mas se ela não fizer paz contigo e te fizer guerra, então a sitiarás;"},
+  {"v": 13, "t": "e, quando o Senhor teu Deus a entregar na tua mão, passarás todos os seus homens ao fio da espada;"},
+  {"v": 14, "t": "somente as mulheres, os pequenos, os animais e tudo o que houver na cidade, todo o seu despojo, tomarás para ti; e comerás o despojo dos teus inimigos, que o Senhor teu Deus te deu."},
+  {"v": 15, "t": "Assim farás a todas as cidades que estiverem muito longe de ti, que não forem das cidades destas nações."},
+  {"v": 16, "t": "Mas das cidades destes povos, que o Senhor teu Deus te dá em herança, não deixarás com vida nenhum ser que respire;"},
+  {"v": 17, "t": "antes os consagrarás por anátema: os hititas, os amorreus, os cananeus, os ferezeus, os heveus e os jebuseus, como o Senhor teu Deus te ordenou,"},
+  {"v": 18, "t": "para que não vos ensinem a fazer conforme todas as abominações que fizeram aos seus deuses, e pequeis contra o Senhor vosso Deus."},
+  {"s": "As árvores do cerco"},
+  {"v": 19, "t": "Quando sitiares uma cidade por muito tempo, combatendo contra ela para a tomar, não destruirás as suas árvores, metendo nelas o machado; delas comerás, mas não as cortarás. Acaso a árvore do campo é homem, para que a sities?"},
+  {"v": 20, "t": "Somente as árvores que souberes não serem de comer, essas destruirás e cortarás, e com elas farás obras de cerco contra a cidade que te faz guerra, até que caia."}
+ ],
+ "notas": [],
+ "comentarios": {}
+}

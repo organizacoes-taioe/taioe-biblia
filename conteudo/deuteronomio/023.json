@@ -1,0 +1,51 @@
+{
+ "livro": "deuteronomio",
+ "cap": 23,
+ "estado": "em revisão",
+ "atualizado": "2026-11-23",
+ "trechos": [
+  {"id": "1", "titulo": "Quem entra na assembleia do Senhor", "de": 1},
+  {"id": "2", "titulo": "A pureza do acampamento", "de": 10},
+  {"id": "3", "titulo": "O escravo fugido", "de": 16},
+  {"id": "4", "titulo": "Prostituição, juros e votos", "de": 18},
+  {"id": "5", "titulo": "A vinha e a seara do próximo", "de": 25}
+ ],
+ "texto": [
+  {"s": "Quem entra na assembleia do Senhor"},
+  {"v": 1, "t": "Nenhum homem tomará a mulher de seu pai, nem levantará a orla do manto de seu pai."},
+  {"v": 2, "t": "O que tiver os testículos esmagados ou o membro cortado não entrará na assembleia do Senhor."},
+  {"v": 3, "t": "O bastardo não entrará na assembleia do Senhor; nem mesmo os seus descendentes até a décima geração entrarão na assembleia do Senhor."},
+  {"v": 4, "t": "O amonita e o moabita não entrarão na assembleia do Senhor; nem mesmo na décima geração entrarão na assembleia do Senhor, para sempre,"},
+  {"v": 5, "t": "porque não vos saíram ao encontro com pão e água no caminho, quando saíeis do Egito, e porque contrataram contra ti Balaão, filho de Beor, de Petor, na Mesopotâmia, para te amaldiçoar."},
+  {"v": 6, "t": "Mas o Senhor teu Deus não quis ouvir Balaão, e mudou para ti a maldição em bênção, porque o Senhor teu Deus te amava."},
+  {"v": 7, "t": "Não procurarás a paz deles nem o seu bem, todos os teus dias, para sempre."},
+  {"v": 8, "t": "Não abominarás o edomita, porque é teu irmão; não abominarás o egípcio, porque foste estrangeiro na sua terra."},
+  {"v": 9, "t": "Os filhos que lhes nascerem na terceira geração entrarão na assembleia do Senhor."},
+  {"s": "A pureza do acampamento"},
+  {"v": 10, "t": "Quando saíres em campanha contra os teus inimigos, guarda-te de toda coisa má."},
+  {"v": 11, "t": "Se houver no meio de ti algum homem que não esteja puro, por causa do que lhe aconteceu de noite, sairá para fora do acampamento e não entrará no acampamento;"},
+  {"v": 12, "t": "ao cair da tarde se lavará com água, e, ao pôr do sol, voltará ao acampamento."},
+  {"v": 13, "t": "Terás um lugar fora do acampamento, aonde irás para as tuas necessidades;"},
+  {"v": 14, "t": "e entre os teus utensílios levarás uma estaca: quando te sentares lá fora, cavarás com ela e cobrirás os teus excrementos."},
+  {"v": 15, "t": "Porque o Senhor teu Deus anda no meio do teu acampamento, para te livrar e para te entregar os teus inimigos; por isso o teu acampamento será santo, para que ele não veja em ti coisa indecente e se aparte de ti."},
+  {"s": "O escravo fugido"},
+  {"v": 16, "t": "Não entregarás ao seu senhor o escravo que a ti se acolher, fugindo dele."},
+  {"v": 17, "t": "Habitará contigo, no meio de ti, no lugar que escolher, numa das tuas cidades, onde lhe agradar; não o oprimirás."},
+  {"s": "Prostituição, juros e votos"},
+  {"v": 18, "t": "Não haverá prostituta sagrada entre as filhas de Israel, nem prostituto sagrado entre os filhos de Israel."},
+  {"v": 19, "t": "Não trarás à casa do Senhor teu Deus, para nenhum voto, o salário de uma prostituta nem o preço de um cão, porque ambos são abominação para o Senhor teu Deus."},
+  {"v": 20, "t": "A teu irmão não emprestarás com juros: nem juros de dinheiro, nem de comida, nem de coisa alguma que se empreste com juros."},
+  {"v": 21, "t": "Ao estrangeiro poderás emprestar com juros, mas a teu irmão não emprestarás com juros, para que o Senhor teu Deus te abençoe em tudo a que puseres a mão, na terra para onde vais a fim de tomar posse dela."},
+  {"v": 22, "t": "Quando fizeres voto ao Senhor teu Deus, não tardarás em cumpri-lo, porque o Senhor teu Deus certamente o requererá de ti, e haveria pecado em ti."},
+  {"v": 23, "t": "Mas, se te abstiveres de fazer voto, não haverá pecado em ti."},
+  {"v": 24, "t": "O que saiu dos teus lábios, guarda-o e cumpre-o, conforme o voto que fizeste ao Senhor teu Deus, a oferta espontânea que prometeste com a tua boca."},
+  {"s": "A vinha e a seara do próximo"},
+  {"v": 25, "t": "Quando entrares na vinha do teu próximo, comerás uvas quantas quiseres, até ficares saciado, mas não as porás no teu cesto."},
+  {"v": 26, "t": "Quando entrares na seara do teu próximo, arrancarás espigas com a mão, mas não meterás a foice na seara do teu próximo."}
+ ],
+ "notas": [
+  {"id": "n01", "v": 1, "texto": "Em muitas Bíblias este versículo é o último do capítulo 22, e os seguintes têm um número a menos.", "origem": "nova: contexto para o leitor"},
+  {"id": "n02", "v": 19, "apos": "cão", "texto": "Nome de desprezo para o prostituto sagrado do v. 18.", "origem": "nova: contexto para o leitor"}
+ ],
+ "comentarios": {}
+}

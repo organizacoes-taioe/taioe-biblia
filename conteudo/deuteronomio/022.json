@@ -1,0 +1,51 @@
+{
+ "livro": "deuteronomio",
+ "cap": 22,
+ "estado": "em revisão",
+ "atualizado": "2026-11-23",
+ "trechos": [
+  {"id": "1", "titulo": "O que se perdeu do irmão", "de": 1},
+  {"id": "2", "titulo": "Preceitos diversos", "de": 5},
+  {"id": "3", "titulo": "A noiva difamada", "de": 13},
+  {"id": "4", "titulo": "O adultério", "de": 22}
+ ],
+ "texto": [
+  {"s": "O que se perdeu do irmão"},
+  {"v": 1, "t": "Se vires extraviado o boi ou a ovelha de teu irmão, não te esconderás deles: tu os farás voltar a teu irmão."},
+  {"v": 2, "t": "Se teu irmão não estiver perto de ti, ou se não o conheceres, recolherás o animal à tua casa, e ficará contigo até que teu irmão o procure, e então o devolverás."},
+  {"v": 3, "t": "Assim farás com o seu jumento, assim farás com a sua roupa, assim farás com toda coisa perdida de teu irmão, que ele tiver perdido e tu achares: não poderás esconder-te."},
+  {"v": 4, "t": "Se vires o jumento de teu irmão, ou o seu boi, caído no caminho, não te esconderás deles: tu o ajudarás a levantá-los."},
+  {"s": "Preceitos diversos"},
+  {"v": 5, "t": "A mulher não usará o que é próprio de homem, nem o homem vestirá roupa de mulher, porque todo o que faz tais coisas é abominação para o Senhor teu Deus."},
+  {"v": 6, "t": "Se encontrares pelo caminho um ninho de ave, numa árvore ou no chão, com filhotes ou ovos, e a mãe pousada sobre os filhotes ou sobre os ovos, não tomarás a mãe com os filhotes;"},
+  {"v": 7, "t": "deixarás ir a mãe e tomarás para ti os filhotes, para que te vá bem e prolongues os teus dias."},
+  {"v": 8, "t": "Quando edificares uma casa nova, farás um parapeito no teu terraço, para que não ponhas culpa de sangue sobre a tua casa, se alguém de lá cair."},
+  {"v": 9, "t": "Não semearás a tua vinha com duas espécies de semente, para que não fique consagrado tudo: a semente que semeaste e o produto da vinha."},
+  {"v": 10, "t": "Não lavrarás com boi e jumento juntos."},
+  {"v": 11, "t": "Não vestirás roupa tecida de lã e linho juntamente."},
+  {"v": 12, "t": "Farás para ti borlas nas quatro pontas do manto com que te cobres."},
+  {"s": "A noiva difamada"},
+  {"v": 13, "t": "Se um homem tomar mulher e, depois de se unir a ela, passar a odiá-la,"},
+  {"v": 14, "t": "e lhe atribuir atos vergonhosos, difamando-a, e disser: Tomei esta mulher e, chegando-me a ela, não achei nela os sinais da virgindade;"},
+  {"v": 15, "t": "então o pai e a mãe da moça tomarão os sinais da virgindade dela e os levarão aos anciãos da cidade, à porta;"},
+  {"v": 16, "t": "e o pai da moça dirá aos anciãos: Dei minha filha por mulher a este homem, e ele passou a odiá-la;"},
+  {"v": 17, "t": "e eis que lhe atribuiu atos vergonhosos, dizendo: Não achei na tua filha os sinais da virgindade. Mas eis aqui os sinais da virgindade de minha filha. E estenderão o lençol diante dos anciãos da cidade."},
+  {"v": 18, "t": "Então os anciãos daquela cidade tomarão o homem e o castigarão,"},
+  {"v": 19, "t": "e o multarão em cem siclos de prata, que darão ao pai da moça, porque difamou uma virgem de Israel; e ela continuará sendo sua mulher, e ele não poderá repudiá-la por todos os seus dias."},
+  {"v": 20, "t": "Mas se a acusação for verdadeira, e não se acharem na moça os sinais da virgindade,"},
+  {"v": 21, "t": "levarão a moça à porta da casa de seu pai, e os homens da sua cidade a apedrejarão até que morra, porque cometeu uma infâmia em Israel, prostituindo-se na casa de seu pai. Assim extirparás o mal do meio de ti."},
+  {"s": "O adultério"},
+  {"v": 22, "t": "Se um homem for achado deitado com mulher casada, morrerão os dois, o homem que se deitou com a mulher, e a mulher. Assim extirparás o mal de Israel."},
+  {"v": 23, "t": "Se houver uma moça virgem prometida a um homem, e outro a achar na cidade e se deitar com ela,"},
+  {"v": 24, "t": "levareis ambos à porta daquela cidade e os apedrejareis até que morram: a moça, porque não gritou na cidade; e o homem, porque humilhou a mulher do seu próximo. Assim extirparás o mal do meio de ti."},
+  {"v": 25, "t": "Mas se for no campo que o homem achar a moça prometida, e a forçar e se deitar com ela, morrerá só o homem que se deitou com ela;"},
+  {"v": 26, "t": "à moça não farás nada: ela não cometeu pecado digno de morte. Este caso é como o daquele que se levanta contra o seu próximo e o mata:"},
+  {"v": 27, "t": "porque a achou no campo; a moça prometida gritou, e não houve quem a salvasse."},
+  {"v": 28, "t": "Se um homem achar uma moça virgem, que não esteja prometida, e a agarrar e se deitar com ela, e forem apanhados,"},
+  {"v": 29, "t": "o homem que se deitou com ela dará ao pai da moça cinquenta siclos de prata, e ela será sua mulher, porque a humilhou; não poderá repudiá-la por todos os seus dias."}
+ ],
+ "notas": [
+  {"id": "n01", "v": 8, "apos": "terraço", "texto": "As casas tinham teto plano, usado como terraço.", "origem": "nova: contexto para o leitor"}
+ ],
+ "comentarios": {}
+}

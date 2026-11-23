@@ -70,6 +70,7 @@ Vale para pessoas, povos e lugares, também nos comentários dos Padres.
 - Dt 5–9: Horeb, Abraão, Isaac, Jacó, o faraó e Aarão, como o lecionário; os hititas (Nm 13), os amorreus, os cananeus e os jebuseus, como antes; os gergeseus, os ferezeus e os heveus (como Js 24,11), Enac, Tabera, Quibrot-Hataavá e Cades-Barne, como no projeto antigo; **Massa**, sem acento (Dt 6,16; 9,22), como o lecionário de Êx 17,7 e o Sl 95 da liturgia, ao lado de Meriba (a tradução de partida dizia «Massá»).
 - Dt 10–14: Levi, Aarão, Eleazar, Datã e Abiram (como Nm 16 e 26; a partida dizia «Datan» e «Abiron»), Rúben, Eliab, o Líbano, o Eufrates, Garizim, Ebal, Moré e a Arabá, como no projeto antigo; **Guilgal**, como o lecionário de Js 5,10 (a partida dizia «Gálgala»); Beerot-Benê-Jaacan e **Jetebata**, como Nm 33 (a partida dizia «Bene-Jaacan» e «Jotbatá»); Moserá e Gudgoda, como no projeto antigo.
 - Dt 15–19: Abib, o Horeb e os sacerdotes levitas, como no projeto antigo; sem nomes novos.
+- Dt 20–24: os hititas (a partida dizia «heteus» em 20,17), os amorreus, os cananeus, os ferezeus, os heveus e os jebuseus, como antes; Balaão, Beor, Petor, a Mesopotâmia, Maria (a irmã de Moisés), como antes.
 
 ## Vocabulário
 
@@ -384,6 +385,13 @@ Vale para pessoas, povos e lugares, também nos comentários dos Padres.
 | *tsedeq tsedeq tirdof* | A justiça, só a justiça seguirás | Dt 16,20 | Dt 16 |
 | *ov veyidde'oni* | espíritos ou adivinhos | Dt 18,11 | Dt 18 |
 | *dibber* (o profeta e o Senhor) | dizer | Dt 18,18-22 «a palavra que o Senhor não disse» | Dt 18 |
+| *lamas* (Dt 20,11) | trabalhos forçados | a partida dizia «tributário» | Dt 20 |
+| *kol-neshama* (Dt 20,16) | nenhum ser que respire | | Dt 20 |
+| *sorer umore* | teimoso e rebelde | Dt 21,18.20; a partida dizia «contumaz» | Dt 21 |
+| *qillat elohim taluy* (Dt 21,23) | o que é pendurado é maldição de Deus | ao pé da letra, como Gl 3,13 cita | Dt 21 |
+| *sane* (o marido, Dt 22,13.16; 24,3) | odiar, passar a odiar | a partida dizia «aborrecer», que hoje é outra coisa; em Dt 21,15-17, *senu'a* = «desamada» | Dt 22 |
+| *nevala* (Dt 22,21) | infâmia | | Dt 22 |
+| *sefer keritut* | carta de repúdio | Dt 24,1.3 | projeto antigo |
 
 ## Inconsistências conhecidas, para corrigir quando o capítulo entrar
 
