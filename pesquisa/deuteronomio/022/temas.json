@@ -1,0 +1,69 @@
+{
+ "1": [
+  {
+   "id": "irmao-perdido",
+   "titulo": "Devolver o que o irmão perdeu e levantar quem caiu",
+   "versiculos": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itens": [
+    "rabano-dt-iii-1-fazer-ao-irmao-o-que-queres-para-ti",
+    "bruno-segni-dt22-1-4-cuidar-do-alheio-e-erguer-quem-cai"
+   ]
+  }
+ ],
+ "2": [
+  {
+   "id": "ninho",
+   "titulo": "A ave no ninho: exercitar-se na misericórdia",
+   "versiculos": [
+    6,
+    7
+   ],
+   "itens": [
+    "tomas-sth-i-ii-102-6-ad8-ninho-misericordia-animais"
+   ]
+  },
+  {
+   "id": "parapeito",
+   "titulo": "O parapeito do terraço: cuidar para que ninguém caia",
+   "versiculos": [
+    8
+   ],
+   "itens": [
+    "rabano-dt-iii-1-parapeito-do-terraco-humildade"
+   ]
+  },
+  {
+   "id": "misturas",
+   "titulo": "Boi e jumento, lã e linho: o que a Lei não deixa misturar",
+   "versiculos": [
+    5,
+    10,
+    11
+   ],
+   "itens": [
+    "tomas-sth-i-ii-102-6-ad6-lana-e-linho-veste-de-homem",
+    "gregorio-mor-i-boi-e-jumento-insensato-e-sabio",
+    "gregorio-mor-viii-veste-de-la-e-linho"
+   ]
+  }
+ ],
+ "4": [
+  {
+   "id": "violencia",
+   "titulo": "A violência sofrida não tira a santidade da vítima",
+   "versiculos": [
+    25,
+    26,
+    27
+   ],
+   "itens": [
+    "agostinho-civ-dei-i-18-violencia-nao-tira-a-santidade"
+   ]
+  }
+ ]
+}

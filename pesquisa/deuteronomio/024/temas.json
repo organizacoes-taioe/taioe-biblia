@@ -1,0 +1,97 @@
+{
+ "1": [
+  {
+   "id": "repudio",
+   "titulo": "A carta de repúdio: um freio à dureza do coração",
+   "versiculos": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itens": [
+    "agostinho-c-fausto-xix-26-carta-de-repudio-freio",
+    "catecismo-1610-repudio-pedagogia-da-lei",
+    "ruperto-in-dt-i-28-repudio-volta-a-mim"
+   ]
+  }
+ ],
+ "2": [
+  {
+   "id": "mo",
+   "titulo": "As duas mós: a esperança e o temor",
+   "versiculos": [
+    6
+   ],
+   "itens": [
+    "gregorio-moralia-xxxiii-24-mo-esperanca-temor"
+   ]
+  }
+ ],
+ "3": [
+  {
+   "id": "penhor",
+   "titulo": "O penhor: não invadir a casa do próximo",
+   "versiculos": [
+    10,
+    11,
+    12,
+    13
+   ],
+   "itens": [
+    "tomas-sth-i-ii-105-2-ad4-penhor-casa",
+    "ruperto-in-dt-i-31-penhor-correcao-fraterna"
+   ]
+  },
+  {
+   "id": "salario",
+   "titulo": "O salário do pobre, pago no mesmo dia",
+   "versiculos": [
+    14,
+    15
+   ],
+   "itens": [
+    "tomas-sth-i-ii-105-2-ad6-salario-no-mesmo-dia",
+    "catecismo-2434-salario-justo-reter"
+   ]
+  }
+ ],
+ "4": [
+  {
+   "id": "cada-um",
+   "titulo": "«Cada um morrerá pelo seu próprio pecado»",
+   "versiculos": [
+    16
+   ],
+   "itens": [
+    "ruperto-in-dt-i-32-pais-filhos-novo-adao"
+   ]
+  },
+  {
+   "id": "veste-viuva",
+   "titulo": "Por que a Lei protege a roupa da viúva",
+   "versiculos": [
+    17
+   ],
+   "itens": [
+    "agostinho-qh-v-43-por-que-so-a-viuva"
+   ]
+  }
+ ],
+ "5": [
+  {
+   "id": "feixe",
+   "titulo": "O feixe esquecido: o que se deixa para o pobre",
+   "versiculos": [
+    19,
+    20,
+    21,
+    22
+   ],
+   "itens": [
+    "agostinho-qh-v-44-feixe-esquecido-para-o-pobre",
+    "ruperto-in-dt-i-33-obras-escondidas-e-exemplo"
+   ]
+  }
+ ]
+}
