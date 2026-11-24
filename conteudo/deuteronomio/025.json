@@ -1,0 +1,42 @@
+{
+ "livro": "deuteronomio",
+ "cap": 25,
+ "estado": "em revisão",
+ "atualizado": "2026-11-23",
+ "trechos": [
+  {"id": "1", "titulo": "A pena de açoites", "de": 1},
+  {"id": "2", "titulo": "O dever do cunhado", "de": 5},
+  {"id": "3", "titulo": "Preceitos diversos", "de": 11},
+  {"id": "4", "titulo": "Amalec", "de": 17}
+ ],
+ "texto": [
+  {"s": "A pena de açoites"},
+  {"v": 1, "t": "Quando houver contenda entre homens, e vierem a juízo para serem julgados, absolverão o justo e condenarão o culpado."},
+  {"v": 2, "t": "E se o culpado merecer açoites, o juiz o fará deitar e açoitar na sua presença, com o número de golpes que a sua culpa merecer."},
+  {"v": 3, "t": "Quarenta golpes lhe poderá dar, não mais; para que, açoitado além disso com muitos golpes, teu irmão não fique aviltado aos teus olhos."},
+  {"v": 4, "t": "Não amordaçarás o boi quando estiver debulhando."},
+  {"s": "O dever do cunhado"},
+  {"v": 5, "t": "Quando irmãos morarem juntos, e um deles morrer sem deixar filho, a mulher do morto não se casará fora, com homem estranho; seu cunhado irá a ela, a tomará por mulher e cumprirá para com ela o dever de cunhado."},
+  {"v": 6, "t": "O primogênito que ela der à luz levará o nome do irmão morto, para que o seu nome não se apague de Israel."},
+  {"v": 7, "t": "Mas, se o homem não quiser tomar a sua cunhada, ela subirá à porta, aos anciãos, e dirá: Meu cunhado recusa suscitar em Israel o nome de seu irmão, e não quer cumprir para comigo o dever de cunhado."},
+  {"v": 8, "t": "Então os anciãos da sua cidade o chamarão e falarão com ele. Se ele insistir e disser: Não quero tomá-la,"},
+  {"v": 9, "t": "sua cunhada se aproximará dele na presença dos anciãos, lhe tirará a sandália do pé, lhe cuspirá no rosto e dirá: Assim se faz ao homem que não edifica a casa de seu irmão."},
+  {"v": 10, "t": "E em Israel a sua casa será chamada: a casa do descalço."},
+  {"s": "Preceitos diversos"},
+  {"v": 11, "t": "Quando dois homens brigarem, um com o outro, e a mulher de um deles se aproximar para livrar o marido da mão do que o fere, e estender a mão e o agarrar pelas partes íntimas,"},
+  {"v": 12, "t": "cortarás a mão dela; o teu olho não terá piedade."},
+  {"v": 13, "t": "Não terás na tua bolsa dois pesos, um grande e um pequeno."},
+  {"v": 14, "t": "Não terás na tua casa duas medidas, uma grande e uma pequena."},
+  {"v": 15, "t": "Terás peso exato e justo, e medida exata e justa, para que se prolonguem os teus dias sobre o solo que o Senhor teu Deus te dá;"},
+  {"v": 16, "t": "porque é abominação para o Senhor teu Deus todo o que faz tais coisas, todo o que comete injustiça."},
+  {"s": "Amalec"},
+  {"v": 17, "t": "Lembra-te do que te fez Amalec no caminho, quando saías do Egito:"},
+  {"v": 18, "t": "como te saiu ao encontro no caminho e atacou na tua retaguarda todos os fracos que iam atrás, quando estavas cansado e exausto; e não temeu a Deus."},
+  {"v": 19, "t": "Quando, pois, o Senhor teu Deus te tiver dado descanso de todos os teus inimigos ao redor, na terra que o Senhor teu Deus te dá em herança para dela tomares posse, apagarás a memória de Amalec de debaixo do céu: não te esqueças."}
+ ],
+ "notas": [
+  {"id": "n01", "v": 4, "apos": "debulhando", "texto": "O boi andava sobre o trigo na eira para soltar os grãos; a lei o deixa comer enquanto trabalha.", "origem": "nova: contexto para o leitor"},
+  {"id": "n02", "v": 17, "apos": "Amalec", "texto": "O ataque de Amalec está em Êx 17,8-16.", "origem": "nova: contexto para o leitor"}
+ ],
+ "comentarios": {}
+}

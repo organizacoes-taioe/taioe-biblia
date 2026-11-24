@@ -1,0 +1,47 @@
+{
+ "livro": "deuteronomio",
+ "cap": 21,
+ "estado": "em revisão",
+ "atualizado": "2026-11-23",
+ "trechos": [
+  {"id": "1", "titulo": "O morto que se acha no campo", "de": 1},
+  {"id": "2", "titulo": "A mulher cativa", "de": 10},
+  {"id": "3", "titulo": "O direito do primogênito", "de": 15},
+  {"id": "4", "titulo": "O filho rebelde", "de": 18},
+  {"id": "5", "titulo": "O corpo pendurado no madeiro", "de": 22}
+ ],
+ "texto": [
+  {"s": "O morto que se acha no campo"},
+  {"v": 1, "t": "Se no solo que o Senhor teu Deus te dá para dele tomares posse se achar um morto caído no campo, sem que se saiba quem o matou,"},
+  {"v": 2, "t": "sairão os teus anciãos e os teus juízes e medirão a distância do morto às cidades ao redor;"},
+  {"v": 3, "t": "e os anciãos da cidade mais próxima do morto tomarão uma novilha que ainda não tenha trabalhado nem puxado o jugo,"},
+  {"v": 4, "t": "e a levarão a um vale de torrente perene, que não tenha sido lavrado nem semeado, e ali, no vale, quebrarão o pescoço da novilha."},
+  {"v": 5, "t": "Então se aproximarão os sacerdotes, filhos de Levi, porque o Senhor teu Deus os escolheu para o servirem e para abençoarem em nome do Senhor, e pela palavra deles se decidirá toda demanda e toda agressão."},
+  {"v": 6, "t": "E todos os anciãos daquela cidade, os mais próximos do morto, lavarão as mãos sobre a novilha cujo pescoço foi quebrado no vale,"},
+  {"v": 7, "t": "e dirão: As nossas mãos não derramaram este sangue, e os nossos olhos não o viram."},
+  {"v": 8, "t": "Perdoa, Senhor, ao teu povo Israel, que resgataste, e não ponhas sangue inocente no meio do teu povo Israel. E o sangue lhes será perdoado."},
+  {"v": 9, "t": "Assim extirparás do meio de ti o sangue inocente, fazendo o que é reto aos olhos do Senhor."},
+  {"s": "A mulher cativa"},
+  {"v": 10, "t": "Quando saíres à guerra contra os teus inimigos, e o Senhor teu Deus os entregar na tua mão, e levares deles cativos,"},
+  {"v": 11, "t": "se vires entre os cativos uma mulher de bela aparência e te afeiçoares a ela, e quiseres tomá-la por mulher,"},
+  {"v": 12, "t": "tu a levarás para dentro da tua casa; ela rapará a cabeça e cortará as unhas,"},
+  {"v": 13, "t": "e tirará de si a roupa do cativeiro; ficará em tua casa e chorará seu pai e sua mãe um mês inteiro. Depois disso irás a ela, serás seu marido, e ela será tua mulher."},
+  {"v": 14, "t": "Se depois não te agradar, deixarás que vá para onde quiser; mas de modo nenhum a venderás por dinheiro, nem a tratarás como escrava, porque a humilhaste."},
+  {"s": "O direito do primogênito"},
+  {"v": 15, "t": "Se um homem tiver duas mulheres, uma amada e outra desamada, e ambas lhe derem filhos, e o filho primogênito for da desamada,"},
+  {"v": 16, "t": "no dia em que repartir a herança entre os filhos, não poderá dar a primogenitura ao filho da amada, preterindo o filho da desamada, que é o primogênito;"},
+  {"v": 17, "t": "mas reconhecerá como primogênito o filho da desamada, dando-lhe porção dobrada de tudo o que tiver, porque ele é o princípio do seu vigor: a ele pertence o direito de primogenitura."},
+  {"s": "O filho rebelde"},
+  {"v": 18, "t": "Se alguém tiver um filho teimoso e rebelde, que não obedeça à voz de seu pai nem à voz de sua mãe, e que, mesmo corrigido, não lhes dê ouvidos,"},
+  {"v": 19, "t": "seu pai e sua mãe o tomarão e o levarão aos anciãos da sua cidade, à porta do seu lugar,"},
+  {"v": 20, "t": "e dirão aos anciãos da cidade: Este nosso filho é teimoso e rebelde, não obedece à nossa voz, é glutão e beberrão."},
+  {"v": 21, "t": "Então todos os homens da sua cidade o apedrejarão até morrer. Assim extirparás o mal do meio de ti, e todo o Israel ouvirá e temerá."},
+  {"s": "O corpo pendurado no madeiro"},
+  {"v": 22, "t": "Se alguém tiver cometido pecado digno de morte, e for morto, e o pendurares num madeiro,"},
+  {"v": 23, "t": "o seu cadáver não passará a noite no madeiro; no mesmo dia o sepultarás, porque o que é pendurado é maldição de Deus; e não contaminarás o teu solo, que o Senhor teu Deus te dá em herança."}
+ ],
+ "notas": [
+  {"id": "n01", "v": 23, "apos": "Deus", "texto": "São Paulo cita esta frase a respeito da cruz de Cristo (Gl 3,13).", "origem": "nova: contexto para o leitor"}
+ ],
+ "comentarios": {}
+}

@@ -1,0 +1,45 @@
+{
+ "livro": "deuteronomio",
+ "cap": 16,
+ "estado": "em revisão",
+ "atualizado": "2026-11-23",
+ "trechos": [
+  {"id": "1", "titulo": "A Páscoa", "de": 1},
+  {"id": "2", "titulo": "A festa das Semanas", "de": 9},
+  {"id": "3", "titulo": "A festa das Tendas", "de": 13},
+  {"id": "4", "titulo": "Juízes e justiça", "de": 18}
+ ],
+ "texto": [
+  {"s": "A Páscoa"},
+  {"v": 1, "t": "Guarda o mês de Abib e celebra a Páscoa ao Senhor teu Deus, porque no mês de Abib o Senhor teu Deus te tirou do Egito, de noite."},
+  {"v": 2, "t": "Sacrificarás a Páscoa ao Senhor teu Deus, das ovelhas e das vacas, no lugar que o Senhor escolher para ali fazer habitar o seu nome."},
+  {"v": 3, "t": "Não comerás com ela pão fermentado; sete dias comerás com ela pães ázimos, pão de aflição, porque às pressas saíste da terra do Egito, para que te lembres do dia da tua saída do Egito todos os dias da tua vida."},
+  {"v": 4, "t": "Por sete dias não se verá fermento contigo, em todo o teu território; e da carne que sacrificares à tarde, no primeiro dia, nada ficará até de manhã."},
+  {"v": 5, "t": "Não poderás sacrificar a Páscoa em nenhuma das cidades que o Senhor teu Deus te dá;"},
+  {"v": 6, "t": "mas no lugar que o Senhor teu Deus escolher para ali fazer habitar o seu nome, ali sacrificarás a Páscoa, à tarde, ao pôr do sol, na hora em que saíste do Egito."},
+  {"v": 7, "t": "Cozerás e comerás no lugar que o Senhor teu Deus escolher; e de manhã voltarás às tuas tendas."},
+  {"v": 8, "t": "Seis dias comerás ázimos, e no sétimo dia haverá reunião solene em honra do Senhor teu Deus: não farás nele trabalho algum."},
+  {"s": "A festa das Semanas"},
+  {"v": 9, "t": "Contarás sete semanas; desde o dia em que se começa a meter a foice na seara começarás a contar as sete semanas."},
+  {"v": 10, "t": "E celebrarás a festa das Semanas ao Senhor teu Deus, com a oferta espontânea da tua mão, que darás conforme o Senhor teu Deus te abençoar."},
+  {"v": 11, "t": "E te alegrarás diante do Senhor teu Deus, tu, teu filho e tua filha, o teu servo e a tua serva, o levita que está dentro das tuas portas, o estrangeiro, o órfão e a viúva que estão no meio de ti, no lugar que o Senhor teu Deus escolher para ali fazer habitar o seu nome."},
+  {"v": 12, "t": "Lembra-te de que foste servo no Egito, e cuida de cumprir estes estatutos."},
+  {"s": "A festa das Tendas"},
+  {"v": 13, "t": "Celebrarás por sete dias a festa das Tendas, quando tiveres recolhido da tua eira e do teu lagar."},
+  {"v": 14, "t": "E te alegrarás na tua festa, tu, teu filho e tua filha, o teu servo e a tua serva, o levita, o estrangeiro, o órfão e a viúva que estão dentro das tuas portas."},
+  {"v": 15, "t": "Sete dias celebrarás a festa ao Senhor teu Deus, no lugar que o Senhor escolher, porque o Senhor teu Deus te abençoará em toda a tua colheita e em toda a obra das tuas mãos; e ficarás cheio de alegria."},
+  {"v": 16, "t": "Três vezes no ano todo homem entre vós comparecerá diante do Senhor teu Deus, no lugar que ele escolher: na festa dos Ázimos, na festa das Semanas e na festa das Tendas; e ninguém comparecerá de mãos vazias diante do Senhor:"},
+  {"v": 17, "t": "cada um dará conforme puder, segundo a bênção que o Senhor teu Deus te deu."},
+  {"s": "Juízes e justiça"},
+  {"v": 18, "t": "Constituirás juízes e oficiais em todas as tuas cidades que o Senhor teu Deus te dá, segundo as tuas tribos, e eles julgarão o povo com juízo justo."},
+  {"v": 19, "t": "Não torcerás o direito; não farás acepção de pessoas nem aceitarás suborno, porque o suborno cega os olhos dos sábios e perverte as palavras dos justos."},
+  {"v": 20, "t": "A justiça, só a justiça seguirás, para que vivas e tomes posse da terra que o Senhor teu Deus te dá."},
+  {"v": 21, "t": "Não plantarás para ti poste sagrado de nenhuma árvore junto ao altar do Senhor teu Deus, que fizeres para ti;"},
+  {"v": 22, "t": "nem levantarás para ti estela, coisa que o Senhor teu Deus odeia."}
+ ],
+ "notas": [
+  {"id": "n01", "v": 1, "apos": "Abib", "texto": "Mês da primavera em Israel, entre março e abril; mais tarde se chamou Nisã.", "origem": "nova: contexto para o leitor"},
+  {"id": "n02", "v": 10, "apos": "Semanas", "texto": "É a festa que, em grego, se chamou Pentecostes, cinquenta dias depois da Páscoa.", "origem": "nova: contexto para o leitor"}
+ ],
+ "comentarios": {}
+}

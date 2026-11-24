@@ -1,0 +1,37 @@
+{
+ "livro": "deuteronomio",
+ "cap": 19,
+ "estado": "em revisão",
+ "atualizado": "2026-11-23",
+ "trechos": [
+  {"id": "1", "titulo": "As cidades de refúgio", "de": 1},
+  {"id": "2", "titulo": "O marco do vizinho; as testemunhas", "de": 14}
+ ],
+ "texto": [
+  {"s": "As cidades de refúgio"},
+  {"v": 1, "t": "Quando o Senhor teu Deus houver eliminado as nações cuja terra o Senhor teu Deus te dá, e tu as desapossares e habitares nas suas cidades e nas suas casas,"},
+  {"v": 2, "t": "separarás três cidades no meio da tua terra, que o Senhor teu Deus te dá para dela tomares posse."},
+  {"v": 3, "t": "Prepararás o caminho e dividirás em três partes o território da tua terra, que o Senhor teu Deus te dá em herança, para que todo homicida possa fugir para lá."},
+  {"v": 4, "t": "Este é o caso do homicida que para ali fugir e ficar vivo: aquele que ferir o seu próximo sem querer, sem o odiar antes;"},
+  {"v": 5, "t": "como o que for com o seu próximo ao bosque cortar lenha e, ao dar o golpe com o machado para cortar a árvore, o ferro se soltar do cabo e atingir o próximo, de modo que morra: esse fugirá para uma dessas cidades e ficará vivo;"},
+  {"v": 6, "t": "para que o vingador do sangue, enquanto o coração lhe arde, não persiga o homicida e, sendo longo o caminho, o alcance e o mate, sem que ele mereça a morte, pois antes não o odiava."},
+  {"v": 7, "t": "Por isso te ordeno: Separarás três cidades."},
+  {"v": 8, "t": "E quando o Senhor teu Deus alargar o teu território, como jurou a teus pais, e te der toda a terra que disse que daria a teus pais —"},
+  {"v": 9, "t": "se guardares todo este mandamento que hoje te ordeno cumprir, amando o Senhor teu Deus e andando sempre nos seus caminhos —, acrescentarás outras três cidades a estas três,"},
+  {"v": 10, "t": "para que não se derrame sangue inocente no meio da tua terra, que o Senhor teu Deus te dá em herança, e não haja sangue sobre ti."},
+  {"v": 11, "t": "Mas se alguém odiar o seu próximo, lhe armar cilada, se levantar contra ele, o ferir de morte e depois fugir para uma dessas cidades,"},
+  {"v": 12, "t": "os anciãos da sua cidade mandarão tirá-lo dali e o entregarão na mão do vingador do sangue, e ele morrerá."},
+  {"v": 13, "t": "O teu olho não terá piedade dele; assim extirparás de Israel o sangue inocente, e te irá bem."},
+  {"s": "O marco do vizinho; as testemunhas"},
+  {"v": 14, "t": "Não mudarás o marco do teu próximo, posto pelos antigos, na herança que receberes na terra que o Senhor teu Deus te dá para dela tomares posse."},
+  {"v": 15, "t": "Uma só testemunha não se levantará contra alguém por qualquer iniquidade ou pecado, seja qual for o pecado cometido; pela declaração de duas ou de três testemunhas se estabelecerá o fato."},
+  {"v": 16, "t": "Se uma testemunha falsa se levantar contra alguém, para o acusar de rebelião,"},
+  {"v": 17, "t": "os dois homens que tiverem a demanda se apresentarão diante do Senhor, diante dos sacerdotes e dos juízes que houver naqueles dias."},
+  {"v": 18, "t": "Os juízes investigarão bem; e se a testemunha for uma testemunha falsa, que acusou falsamente o seu irmão,"},
+  {"v": 19, "t": "fareis com ele o que ele pensava fazer a seu irmão; assim extirparás o mal do meio de ti."},
+  {"v": 20, "t": "Os que ficarem ouvirão e temerão, e nunca mais se cometerá tal maldade no meio de ti."},
+  {"v": 21, "t": "O teu olho não terá piedade: vida por vida, olho por olho, dente por dente, mão por mão, pé por pé."}
+ ],
+ "notas": [],
+ "comentarios": {}
+}

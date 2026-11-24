@@ -1,0 +1,51 @@
+{
+ "livro": "deuteronomio",
+ "cap": 14,
+ "estado": "em revisão",
+ "atualizado": "2026-11-23",
+ "trechos": [
+  {"id": "1", "titulo": "Filhos do Senhor", "de": 1},
+  {"id": "2", "titulo": "Os animais puros e impuros", "de": 3},
+  {"id": "3", "titulo": "O dízimo", "de": 22}
+ ],
+ "texto": [
+  {"s": "Filhos do Senhor"},
+  {"v": 1, "t": "Sois filhos do Senhor vosso Deus: não vos fareis incisões nem rapareis a fronte por causa de um morto,"},
+  {"v": 2, "t": "porque tu és um povo santo para o Senhor teu Deus, e o Senhor te escolheu para seres o seu povo, a sua propriedade particular, dentre todos os povos que há sobre a face da terra."},
+  {"s": "Os animais puros e impuros"},
+  {"v": 3, "t": "Não comerás nenhuma coisa abominável."},
+  {"v": 4, "t": "Estes são os animais que podereis comer: o boi, a ovelha e a cabra,"},
+  {"v": 5, "t": "o veado, a gazela, o gamo, a cabra montesa, o antílope, o boi selvagem e a ovelha montesa."},
+  {"v": 6, "t": "Todo animal que tem o casco fendido, dividido em duas unhas, e que rumina, esse comereis."},
+  {"v": 7, "t": "Mas, dentre os que ruminam ou têm o casco fendido, não comereis estes: o camelo, a lebre e o damão, porque ruminam mas não têm o casco fendido: serão impuros para vós;"},
+  {"v": 8, "t": "nem o porco, porque tem o casco fendido mas não rumina: será impuro para vós. Da sua carne não comereis, nem tocareis os seus cadáveres."},
+  {"v": 9, "t": "Dentre tudo o que há nas águas, podereis comer isto: tudo o que tem barbatanas e escamas comereis;"},
+  {"v": 10, "t": "mas tudo o que não tem barbatanas e escamas não comereis: será impuro para vós."},
+  {"v": 11, "t": "Toda ave pura comereis;"},
+  {"v": 12, "t": "mas estas não comereis: a águia, o quebra-ossos e a águia-marinha,"},
+  {"v": 13, "t": "o açor, o falcão e o milhafre, segundo a sua espécie,"},
+  {"v": 14, "t": "todo corvo, segundo a sua espécie,"},
+  {"v": 15, "t": "o avestruz, a coruja, a gaivota e o gavião, segundo a sua espécie,"},
+  {"v": 16, "t": "o mocho, a íbis e a coruja-branca,"},
+  {"v": 17, "t": "o pelicano, o abutre e o corvo-marinho,"},
+  {"v": 18, "t": "a cegonha e a garça, segundo a sua espécie, a poupa e o morcego."},
+  {"v": 19, "t": "Todo inseto alado será impuro para vós: não se comerá."},
+  {"v": 20, "t": "Toda ave pura comereis."},
+  {"v": 21, "t": "Não comereis nenhum animal que tenha morrido por si; darás ao estrangeiro que está dentro das tuas portas, para que o coma, ou o venderás a um estranho, porque tu és um povo santo para o Senhor teu Deus. Não cozerás o cabrito no leite de sua mãe."},
+  {"s": "O dízimo"},
+  {"v": 22, "t": "Separarás o dízimo de todo o produto da tua semente, o que o campo produzir ano após ano;"},
+  {"v": 23, "t": "e comerás diante do Senhor teu Deus, no lugar que ele escolher para ali fazer habitar o seu nome, o dízimo do teu trigo, do teu vinho novo e do teu azeite, e os primogênitos das tuas vacas e das tuas ovelhas, para que aprendas a temer o Senhor teu Deus todos os dias."},
+  {"v": 24, "t": "Se o caminho for longo demais para ti, de modo que não possas levar o dízimo, por estar longe de ti o lugar que o Senhor teu Deus escolher para ali pôr o seu nome, quando o Senhor teu Deus te abençoar,"},
+  {"v": 25, "t": "então o trocarás por dinheiro e, atando o dinheiro na mão, irás ao lugar que o Senhor teu Deus escolher;"},
+  {"v": 26, "t": "e com esse dinheiro comprarás tudo o que a tua alma desejar: vacas, ovelhas, vinho e bebida forte, tudo o que a tua alma te pedir; e ali comerás diante do Senhor teu Deus e te alegrarás, tu e a tua casa."},
+  {"v": 27, "t": "E não desampararás o levita que está dentro das tuas portas, porque não tem parte nem herança contigo."},
+  {"v": 28, "t": "Ao fim de cada três anos separarás todo o dízimo do teu produto daquele ano e o depositarás dentro das tuas portas;"},
+  {"v": 29, "t": "e virá o levita, que não tem parte nem herança contigo, e o estrangeiro, o órfão e a viúva, que estão dentro das tuas portas, e comerão e ficarão saciados, para que o Senhor teu Deus te abençoe em toda obra que as tuas mãos fizerem."}
+ ],
+ "notas": [
+  {"id": "n01", "v": 1, "apos": "morto", "texto": "Cortar-se e rapar a cabeça eram ritos de luto dos povos vizinhos.", "origem": "nova: contexto para o leitor"},
+  {"id": "n02", "v": 7, "apos": "damão", "texto": "Pequeno animal das pedras, parecido com um coelho.", "origem": "nova: contexto para o leitor"},
+  {"id": "n03", "v": 21, "apos": "mãe", "texto": "Desta proibição, repetida três vezes na Lei, a tradição judaica tirou a separação entre carne e leite na comida.", "origem": "nova: contexto para o leitor"}
+ ],
+ "comentarios": {}
+}

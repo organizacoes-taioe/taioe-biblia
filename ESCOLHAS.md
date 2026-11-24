@@ -68,6 +68,11 @@ Vale para pessoas, povos e lugares, também nos comentários dos Padres.
   Caat, Felet e Eliab (Nm 16), que a liturgia não lê, ficaram como no projeto antigo (aprovado).
 - Dt 4: Israel e o Senhor como o lecionário (Dt 4,1-2.6-8; 4,1.5-9; 4,32-40); Baal-Fogor e Bet-Fogor (como Nm 25), Horeb, Bosor, Ramot, Galaad, Golã, Basã, Seon, Hesbon, Og, Aroer, Arnon, o monte Sion (o Hermon, com nota: não é Sião), Arabá, o mar da Arabá e o Fasga, que a liturgia não lê, como no projeto antigo.
 - Dt 5–9: Horeb, Abraão, Isaac, Jacó, o faraó e Aarão, como o lecionário; os hititas (Nm 13), os amorreus, os cananeus e os jebuseus, como antes; os gergeseus, os ferezeus e os heveus (como Js 24,11), Enac, Tabera, Quibrot-Hataavá e Cades-Barne, como no projeto antigo; **Massa**, sem acento (Dt 6,16; 9,22), como o lecionário de Êx 17,7 e o Sl 95 da liturgia, ao lado de Meriba (a tradução de partida dizia «Massá»).
+- Dt 10–14: Levi, Aarão, Eleazar, Datã e Abiram (como Nm 16 e 26; a partida dizia «Datan» e «Abiron»), Rúben, Eliab, o Líbano, o Eufrates, Garizim, Ebal, Moré e a Arabá, como no projeto antigo; **Guilgal**, como o lecionário de Js 5,10 (a partida dizia «Gálgala»); Beerot-Benê-Jaacan e **Jetebata**, como Nm 33 (a partida dizia «Bene-Jaacan» e «Jotbatá»); Moserá e Gudgoda, como no projeto antigo.
+- Dt 15–19: Abib, o Horeb e os sacerdotes levitas, como no projeto antigo; sem nomes novos.
+- Dt 20–24: os hititas (a partida dizia «heteus» em 20,17), os amorreus, os cananeus, os ferezeus, os heveus e os jebuseus, como antes; Balaão, Beor, Petor, a Mesopotâmia, Maria (a irmã de Moisés), como antes.
+- Dt 25–29: Amalec, Simeão, Levi, Judá, Issacar, José, Benjamim, Rúben, Gad, Aser, Zabulon, Dã, Neftali, Seon, Og, Hesbon, Basã, Manassés, Sodoma, Gomorra, Adamá e Seboim, como no projeto antigo e no lecionário; «os rubenitas e os gaditas» (29,7), como Dt 3.
+- Dt 30–34: Josué, filho de Num; Abarim, Nebo, Moab, Jericó, Canaã, o monte Hor, Meriba de Cades, Sin, Massa (sem acento), Faran, Seir, Jesurun, Zabulon, Issacar, Efraim, Manassés, Gad, Dã, Neftali, Aser, Galaad, Negueb, Segor, o Fasga e Bet-Fogor, como antes.
 
 ## Vocabulário
 
@@ -350,7 +355,7 @@ Vale para pessoas, povos e lugares, também nos comentários dos Padres.
 | *tirosh* | vinho novo | Dt 7,13 | Dt 7 |
 | *moqesh*, *yaqosh* | laço; cair no laço | Dt 7,16.25 | Dt 7 |
 | *lo al-hallehem levaddo yihye ha'adam* | nem só de pão vive o homem | Dt 8,3; «mas de tudo o que sai da boca do Senhor» (o hebraico), a confirmar («de toda palavra», a Bíblia grega, o lecionário e Mt 4,4) | Dt 8, a confirmar |
-| *qeshe-oref* | um povo de cabeça dura | Dt 9,6.13, como o lecionário (Êx 32,9; 34,9); a confirmar («de dura cerviz», a tradução de partida); vale para Êx 32–34, Dt 10,16; 31,27 e At 7,51 | Dt 9, a confirmar |
+| *qeshe-oref* | um povo de cabeça dura | Dt 9,6.13, como o lecionário (Êx 32,9; 34,9); a confirmar («de dura cerviz», a tradução de partida); vale para Êx 32–34 e At 7,51; Dt 10,16 e 31,27 têm pendência própria (em 10,16 o lecionário diz «cerviz») | Dt 9, a confirmar |
 | *yagorti* (Dt 9,19) | tive pavor | | Dt 9 |
 | *nasa* (Dt 1,9.12.31) | carregar | «Não posso carregar-vos sozinho» (v. 9) e o Senhor que «te carregou, como um homem carrega o seu filho» (v. 31): o eco entre Moisés e Deus; a tradução de partida dizia «suportar» e «levar» | Dt 1 |
 | *torah* / *massa* (Dt 1,12) | fardo / carga | «o vosso fardo, a vossa carga e as vossas contendas» | Dt 1 |
@@ -363,6 +368,48 @@ Vale para pessoas, povos e lugares, também nos comentários dos Padres.
 | *hazzeq* (Dt 1,38) | encorajar | «Encoraja-o»; a tradução de partida dizia «Anima-o» | Dt 1 |
 | *lo-yad'u tov vara'* (Dt 1,39) | não conhecem o bem e o mal | o eco de Gn 2,9.17; a tradução de partida dizia «não sabem distinguir» | Dt 1 |
 | *vattahinu* (Dt 1,41) | achastes fácil | palavra que só aparece aqui | Dt 1 |
+| *gibbor* (Deus, Dt 10,17) | poderoso | «o Deus grande, poderoso e terrível», como o lecionário; *gibbor* dos homens continua «valente» | Dt 10 |
+| *dabaq* (a Deus) | unir-se | Dt 10,20; 11,22; 13,5, como Dt 4,4; o lecionário de Dt 10,20 diz «te apegarás» | Dt 10 |
+| *yore umalqosh* | a chuva do outono e a da primavera | Dt 11,14; a partida dizia «a temporã e a serôdia» | Dt 11 |
+| *ha'adama* (a terra dada) | o solo | Dt 11,9.17.21; 12,1.19; a expressão «sobre a face da terra» fica (7,6; 14,2) | Dt 11–12 |
+| *mishlah yad* | tudo a que se põe a mão | Dt 12,7.18; a partida dizia «tudo o que fizerdes» | Dt 12 |
+| *niqqesh* (Dt 12,30) | cair no laço | como *moqesh* (Dt 7,16.25) | Dt 12 |
+| *bi'arta hara'* | extirparás o mal do meio de ti | Dt 13,6 e nos outros lugares do livro (17,7; 19,19; 21,21; 22,21–24; 24,7); a partida dizia «eliminarás», que é *nikhret* | Dt 13 |
+| *kalil* (Dt 13,17) | oferta inteira | como Sl 51,21 | Dt 13 |
+| *shekhar* | bebida forte | Dt 14,26, como em Números | Dt 14 |
+| *peres* (Dt 14,12) | quebra-ossos | a partida dizia «quebrantosso» | Dt 14 |
+| *shemittá* | remissão | Dt 15,1.2.9; «deixar cair» a dívida (*shamat*) | projeto antigo |
+| *be'ahad she'arekha* / *bish'arekha* | numa das tuas cidades / dentro das tuas portas | as duas formas, pelo contexto (Dt 15,7; 16,5; 17,2 × 12,15; 14,21) | Dt 15 |
+| *mum* (Dt 15,21; 17,1) | mancha | como Nm 19,2 | Dt 15 |
+| *hamets* / *se'or* | pão fermentado / fermento | Dt 16,3-4; a partida dizia «levedado» | Dt 16 |
+| *atseret* (Dt 16,8) | reunião solene | como Nm 29,35 | Dt 16 |
+| *zekhur* (Dt 16,16) | homem | como *zakhar* (Nm 26,62); a partida dizia «varão» | Dt 16 |
+| *tsedeq tsedeq tirdof* | A justiça, só a justiça seguirás | Dt 16,20 | Dt 16 |
+| *ov veyidde'oni* | espíritos ou adivinhos | Dt 18,11 | Dt 18 |
+| *dibber* (o profeta e o Senhor) | dizer | Dt 18,18-22 «a palavra que o Senhor não disse» | Dt 18 |
+| *lamas* (Dt 20,11) | trabalhos forçados | a partida dizia «tributário» | Dt 20 |
+| *kol-neshama* (Dt 20,16) | nenhum ser que respire | | Dt 20 |
+| *sorer umore* | teimoso e rebelde | Dt 21,18.20; a partida dizia «contumaz» | Dt 21 |
+| *qillat elohim taluy* (Dt 21,23) | o que é pendurado é maldição de Deus | ao pé da letra, como Gl 3,13 cita | Dt 21 |
+| *sane* (o marido, Dt 22,13.16; 24,3) | odiar, passar a odiar | a partida dizia «aborrecer», que hoje é outra coisa; em Dt 21,15-17, *senu'a* = «desamada» | Dt 22 |
+| *nevala* (Dt 22,21) | infâmia | | Dt 22 |
+| *sefer keritut* | carta de repúdio | Dt 24,1.3 | projeto antigo |
+| *lo-tahsom shor* (Dt 25,4) | Não amordaçarás o boi | como 1Cor 9,9 | Dt 25 |
+| *arammi oved avi* (Dt 26,5) | Meu pai era um arameu errante | como o lecionário | projeto antigo |
+| *bi'er* (o dízimo, Dt 26,13-14) | retirar | aqui não é «extirpar» | Dt 26 |
+| *hasket* (Dt 27,9) | Faze silêncio | a partida dizia «Cala-te» | Dt 27 |
+| *herev* (Dt 28,22) | a espada | as vogais do hebraico; muitas Bíblias corrigem para «seca» | Dt 28 |
+| *shilya* (Dt 28,57) | a placenta | a partida dizia «secundinas» | Dt 28 |
+| *tsavvar* (Dt 28,48) | pescoço | «jugo de ferro sobre o teu pescoço»; *oref* é o de *qeshe-oref* | Dt 28 |
+| *la'ana* (Dt 29,17) | absinto | | Dt 29 |
+| *nitsavim* (Dt 29,9) | estais de pé | | Dt 29 |
+| *niflet* (Dt 30,11) | difícil demais | como o lecionário | Dt 30 |
+| *vahashevota el-levavekha* (Dt 30,1) | gravar no coração | como Dt 4,39 | Dt 30 |
+| *godel* (Dt 32,3) | reconhecei a grandeza | «dai glória» seria *kavod* | Dt 32 |
+| *naval* (Dt 32,6.21) | insensato | | Dt 32 |
+| *heleq* / *hevel* (Dt 32,9) | a parte / o lote | | Dt 32 |
+| *merivvot qodesh* (Dt 33,2) | miríades de santos | o hebraico; a partida seguia a correção «Meriba de Cades» | Dt 33 |
+| *hofef alayv* (Dt 33,12) | ele o protege | o hebraico não traz «o Altíssimo», que a partida acrescentava | Dt 33 |
 
 ## Inconsistências conhecidas, para corrigir quando o capítulo entrar
 

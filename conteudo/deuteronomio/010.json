@@ -1,0 +1,56 @@
+{
+ "livro": "deuteronomio",
+ "cap": 10,
+ "estado": "em revisão",
+ "atualizado": "2026-11-23",
+ "trechos": [
+  {"id": "1", "titulo": "As segundas tábuas", "de": 1},
+  {"id": "2", "titulo": "A morte de Aarão; a tribo de Levi", "de": 6},
+  {"id": "3", "titulo": "O que o Senhor pede de ti", "de": 12}
+ ],
+ "texto": [
+  {"s": "As segundas tábuas"},
+  {"v": 1, "t": "Naquele tempo o Senhor me disse: Talha duas tábuas de pedra como as primeiras e sobe a mim ao monte; faze também uma arca de madeira."},
+  {"v": 2, "t": "Eu escreverei nas tábuas as palavras que estavam nas primeiras, que quebraste, e as porás na arca."},
+  {"v": 3, "t": "Fiz, pois, uma arca de madeira de acácia, talhei duas tábuas de pedra como as primeiras e subi ao monte com as duas tábuas na mão."},
+  {"v": 4, "t": "E o Senhor escreveu nas tábuas, como da primeira vez, as dez palavras que vos falara no monte, do meio do fogo, no dia da assembleia; e o Senhor as deu a mim."},
+  {"v": 5, "t": "Voltei-me, desci do monte e pus as tábuas na arca que eu fizera; e ali ficaram, como o Senhor me ordenou."},
+  {"s": "A morte de Aarão; a tribo de Levi"},
+  {"v": 6, "t": "Os filhos de Israel partiram de Beerot-Benê-Jaacan para Moserá, onde Aarão morreu e foi sepultado; e Eleazar, seu filho, exerceu o sacerdócio em seu lugar."},
+  {"v": 7, "t": "Dali partiram para Gudgoda; de Gudgoda, para Jetebata, terra de torrentes de águas."},
+  {"v": 8, "t": "Naquele tempo o Senhor separou a tribo de Levi para levar a arca da aliança do Senhor, para estar diante do Senhor, servindo-o, e para abençoar em seu nome, como faz até hoje."},
+  {"v": 9, "t": "Por isso Levi não teve parte nem herança com seus irmãos: o Senhor é a sua herança, como o Senhor teu Deus lhe disse."},
+  {"v": 10, "t": "Eu fiquei no monte, como da primeira vez, quarenta dias e quarenta noites; e também desta vez o Senhor me ouviu e não quis destruir-te."},
+  {"v": 11, "t": "O Senhor me disse: Levanta-te, põe-te a caminho à frente do povo, para que entrem e tomem posse da terra que jurei dar a seus pais."},
+  {"s": "O que o Senhor pede de ti"},
+  {"v": 12, "t": "Agora, Israel, que pede de ti o Senhor teu Deus, senão que temas o Senhor teu Deus, que andes em todos os seus caminhos, que o ames e sirvas ao Senhor teu Deus de todo o teu coração e de toda a tua alma,"},
+  {"v": 13, "t": "e que guardes os mandamentos do Senhor e os seus estatutos, que hoje te ordeno para o teu bem?"},
+  {"v": 14, "t": "Eis que do Senhor teu Deus são o céu e o céu dos céus, a terra e tudo o que nela há;"},
+  {"v": 15, "t": "e no entanto só a teus pais o Senhor se afeiçoou, amando-os, e escolheu a descendência deles depois deles, a vós, dentre todos os povos, como hoje se vê."},
+  {"v": 16, "t": "Circuncidai, pois, o prepúcio do vosso coração e não endureçais mais a vossa cabeça;"},
+  {"v": 17, "t": "porque o Senhor vosso Deus é o Deus dos deuses e o Senhor dos senhores, o Deus grande, poderoso e terrível, que não faz acepção de pessoas nem aceita suborno;"},
+  {"v": 18, "t": "que faz justiça ao órfão e à viúva, e ama o estrangeiro, dando-lhe pão e roupa."},
+  {"v": 19, "t": "Amai, pois, o estrangeiro, porque também vós fostes estrangeiros na terra do Egito."},
+  {"v": 20, "t": "Ao Senhor teu Deus temerás, a ele servirás, a ele te unirás e pelo seu nome jurarás."},
+  {"v": 21, "t": "Ele é o teu louvor, ele é o teu Deus, que fez por ti estas coisas grandes e terríveis que os teus olhos viram."},
+  {"v": 22, "t": "Em número de setenta pessoas desceram teus pais ao Egito, e agora o Senhor teu Deus te fez numeroso como as estrelas do céu."}
+ ],
+ "notas": [
+  {"id": "n01", "v": 6, "texto": "Os vv. 6-7 interrompem a fala de Moisés com uma notícia da viagem pelo deserto.", "origem": "nova: contexto para o leitor"}
+ ],
+ "comentarios": {},
+ "revisao": {
+  "escolhas": [
+   {
+    "id": "cerviz-10-16",
+    "ref": "Dt 10,16",
+    "titulo": "*Ve'arpekhem lo taqshu*: «a vossa cabeça» ou «a vossa cerviz»?",
+    "contexto": "Ao pé da letra, «não endureçais mais a vossa nuca». Em Dt 9,6.13 a recomendada é «povo de cabeça dura», como o lecionário de Êx 32,9 e 34,9; mas aqui, em Dt 10,16, o próprio lecionário diz «não endureçais mais vossa cerviz».",
+    "opcoes": [
+     {"id": "a", "texto": "«e não endureçais mais a vossa cabeça»", "nota": "Acompanha «cabeça dura» de Dt 9.", "recomendada": true},
+     {"id": "b", "texto": "«e não endureçais mais a vossa cerviz»", "nota": "Como o lecionário neste versículo."}
+    ]
+   }
+  ]
+ }
+}

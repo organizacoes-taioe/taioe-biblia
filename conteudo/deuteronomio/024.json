@@ -1,0 +1,47 @@
+{
+ "livro": "deuteronomio",
+ "cap": 24,
+ "estado": "em revisão",
+ "atualizado": "2026-11-23",
+ "trechos": [
+  {"id": "1", "titulo": "O repúdio", "de": 1},
+  {"id": "2", "titulo": "Preceitos de humanidade", "de": 5},
+  {"id": "3", "titulo": "O penhor e o salário", "de": 10},
+  {"id": "4", "titulo": "Cada um pelo seu pecado", "de": 16},
+  {"id": "5", "titulo": "O que fica para o pobre", "de": 19}
+ ],
+ "texto": [
+  {"s": "O repúdio"},
+  {"v": 1, "t": "Se um homem tomar mulher e se casar com ela, e depois ela não encontrar graça aos seus olhos, por ter ele achado nela alguma coisa vergonhosa, escreverá para ela uma carta de repúdio, a entregará na mão dela e a despedirá de sua casa;"},
+  {"v": 2, "t": "e, saindo da casa dele, se ela for e se casar com outro homem,"},
+  {"v": 3, "t": "e este último a odiar, escrever para ela uma carta de repúdio, a entregar na mão dela e a despedir de sua casa; ou se morrer este último marido, que a tomou por mulher;"},
+  {"v": 4, "t": "então o primeiro marido, que a despediu, não poderá tornar a tomá-la por mulher, depois que ela se contaminou, porque é abominação diante do Senhor. Não farás pecar a terra que o Senhor teu Deus te dá em herança."},
+  {"s": "Preceitos de humanidade"},
+  {"v": 5, "t": "Quando um homem tiver casado há pouco, não sairá à guerra, nem se lhe imporá encargo algum; ficará livre em sua casa por um ano, para alegrar a mulher que tomou."},
+  {"v": 6, "t": "Ninguém tomará em penhor as duas mós, nem sequer a mó de cima, porque seria tomar em penhor a própria vida."},
+  {"v": 7, "t": "Se se achar alguém que tenha raptado um de seus irmãos, dos filhos de Israel, e o tenha tratado como escravo ou o tenha vendido, esse ladrão morrerá. Assim extirparás o mal do meio de ti."},
+  {"v": 8, "t": "Quanto à praga da lepra, guarda-te bem e faze tudo o que te ensinarem os sacerdotes levitas; cuidarás de fazer como lhes ordenei."},
+  {"v": 9, "t": "Lembra-te do que o Senhor teu Deus fez a Maria no caminho, quando saíeis do Egito."},
+  {"s": "O penhor e o salário"},
+  {"v": 10, "t": "Quando emprestares alguma coisa ao teu próximo, não entrarás na casa dele para lhe tomar o penhor;"},
+  {"v": 11, "t": "ficarás de fora, e o homem a quem emprestaste te trará o penhor para fora."},
+  {"v": 12, "t": "Se ele for pobre, não te deitarás com o seu penhor;"},
+  {"v": 13, "t": "ao pôr do sol o devolverás a ele sem falta, para que ele durma na sua capa e te abençoe; e isso te será justiça diante do Senhor teu Deus."},
+  {"v": 14, "t": "Não oprimirás o diarista pobre e necessitado, seja ele teu irmão ou um estrangeiro que está na tua terra, dentro das tuas portas."},
+  {"v": 15, "t": "No mesmo dia lhe darás o seu salário, antes do pôr do sol, porque é pobre e disso depende a sua vida; para que não clame contra ti ao Senhor, e haja pecado em ti."},
+  {"s": "Cada um pelo seu pecado"},
+  {"v": 16, "t": "Os pais não morrerão pelos filhos, nem os filhos pelos pais: cada um morrerá pelo seu próprio pecado."},
+  {"v": 17, "t": "Não perverterás o direito do estrangeiro nem do órfão, nem tomarás em penhor a roupa da viúva."},
+  {"v": 18, "t": "Lembra-te de que foste servo no Egito e de que dali te resgatou o Senhor teu Deus; por isso te ordeno que faças isto."},
+  {"s": "O que fica para o pobre"},
+  {"v": 19, "t": "Quando fizeres a colheita no teu campo e esqueceres um feixe no campo, não voltarás para o buscar; será para o estrangeiro, para o órfão e para a viúva, a fim de que o Senhor teu Deus te abençoe em toda a obra das tuas mãos."},
+  {"v": 20, "t": "Quando sacudires a tua oliveira, não voltarás a rebuscar os ramos; será para o estrangeiro, para o órfão e para a viúva."},
+  {"v": 21, "t": "Quando vindimares a tua vinha, não voltarás a rebuscá-la; será para o estrangeiro, para o órfão e para a viúva."},
+  {"v": 22, "t": "Lembra-te de que foste servo na terra do Egito; por isso te ordeno que faças isto."}
+ ],
+ "notas": [
+  {"id": "n01", "v": 6, "apos": "cima", "texto": "Com a mó se moía o trigo de cada dia: sem ela, a família ficava sem pão.", "origem": "nova: contexto para o leitor"},
+  {"id": "n02", "v": 9, "apos": "Maria", "texto": "A irmã de Moisés, que ficou leprosa (Nm 12).", "origem": "nova: contexto para o leitor"}
+ ],
+ "comentarios": {}
+}

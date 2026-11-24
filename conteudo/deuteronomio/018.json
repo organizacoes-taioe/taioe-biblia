@@ -1,0 +1,45 @@
+{
+ "livro": "deuteronomio",
+ "cap": 18,
+ "estado": "em revisão",
+ "atualizado": "2026-11-23",
+ "trechos": [
+  {"id": "1", "titulo": "A parte dos sacerdotes e dos levitas", "de": 1},
+  {"id": "2", "titulo": "As abominações das nações", "de": 9},
+  {"id": "3", "titulo": "O profeta como Moisés", "de": 15},
+  {"id": "4", "titulo": "Como reconhecer o profeta", "de": 21}
+ ],
+ "texto": [
+  {"s": "A parte dos sacerdotes e dos levitas"},
+  {"v": 1, "t": "Os sacerdotes levitas, toda a tribo de Levi, não terão parte nem herança com Israel: comerão das ofertas queimadas ao Senhor e da sua herança."},
+  {"v": 2, "t": "Não terão herança no meio de seus irmãos: o Senhor é a sua herança, como lhe disse."},
+  {"v": 3, "t": "Este será o direito dos sacerdotes sobre o povo, sobre os que oferecerem sacrifício, boi ou ovelha: darão ao sacerdote a espádua, as queixadas e o bucho;"},
+  {"v": 4, "t": "as primícias do teu trigo, do teu vinho novo e do teu azeite, e as primícias da tosquia das tuas ovelhas lhe darás;"},
+  {"v": 5, "t": "porque o Senhor teu Deus o escolheu dentre todas as tuas tribos, para estar e servir em nome do Senhor, ele e seus filhos, todos os dias."},
+  {"v": 6, "t": "Quando um levita, saindo de alguma das tuas cidades de todo o Israel, onde morava, vier, com todo o desejo da sua alma, ao lugar que o Senhor escolher,"},
+  {"v": 7, "t": "servirá em nome do Senhor seu Deus, como todos os seus irmãos levitas que ali estão diante do Senhor."},
+  {"v": 8, "t": "Comerá porção igual à deles, além do que receber da venda dos bens da sua família."},
+  {"s": "As abominações das nações"},
+  {"v": 9, "t": "Quando entrares na terra que o Senhor teu Deus te dá, não aprenderás a fazer conforme as abominações daquelas nações."},
+  {"v": 10, "t": "Não se achará entre ti quem faça passar pelo fogo o seu filho ou a sua filha, nem quem pratique adivinhação, nem agoureiro, nem quem interprete presságios, nem feiticeiro,"},
+  {"v": 11, "t": "nem encantador, nem quem consulte espíritos ou adivinhos, nem quem interrogue os mortos."},
+  {"v": 12, "t": "Porque todo o que faz tais coisas é abominação para o Senhor, e por causa dessas abominações o Senhor teu Deus desapossa essas nações de diante de ti."},
+  {"v": 13, "t": "Serás íntegro para com o Senhor teu Deus."},
+  {"v": 14, "t": "Porque estas nações que vais desapossar ouvem os agoureiros e os adivinhos; a ti, porém, o Senhor teu Deus não permitiu tal coisa."},
+  {"s": "O profeta como Moisés"},
+  {"v": 15, "t": "O Senhor teu Deus te suscitará do meio de ti, dentre teus irmãos, um profeta como eu: a ele ouvireis."},
+  {"v": 16, "t": "Conforme tudo o que pediste ao Senhor teu Deus no Horeb, no dia da assembleia, dizendo: Não quero mais ouvir a voz do Senhor meu Deus, nem ver mais este grande fogo, para não morrer."},
+  {"v": 17, "t": "E o Senhor me disse: Disseram bem."},
+  {"v": 18, "t": "Suscitarei para eles, do meio de seus irmãos, um profeta como tu; porei as minhas palavras na sua boca, e ele lhes dirá tudo o que eu lhe ordenar."},
+  {"v": 19, "t": "E quem não ouvir as minhas palavras, que ele disser em meu nome, a esse eu pedirei contas."},
+  {"v": 20, "t": "Mas o profeta que ousar dizer em meu nome uma palavra que eu não lhe mandei dizer, ou que falar em nome de outros deuses, esse profeta morrerá."},
+  {"s": "Como reconhecer o profeta"},
+  {"v": 21, "t": "E se disseres no teu coração: Como conheceremos a palavra que o Senhor não disse?"},
+  {"v": 22, "t": "Quando o profeta falar em nome do Senhor e a palavra não se cumprir nem acontecer, essa é palavra que o Senhor não disse; por presunção a disse o profeta: não o temas."}
+ ],
+ "notas": [
+  {"id": "n01", "v": 10, "apos": "fogo", "texto": "Isto é, queimar os filhos em sacrifício aos deuses.", "origem": "nova: contexto para o leitor"},
+  {"id": "n02", "v": 15, "apos": "ouvireis", "texto": "A Missa do 4º domingo do Tempo Comum, ano B, lê os vv. 15-20 antes do Evangelho em que Jesus ensina com autoridade.", "origem": "nova: contexto para o leitor"}
+ ],
+ "comentarios": {}
+}
