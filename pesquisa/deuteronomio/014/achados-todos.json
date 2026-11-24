@@ -1,0 +1,356 @@
+[
+ {
+  "autor": "Santo Agostinho",
+  "autor_id": "agostinho",
+  "datas": "354–430",
+  "titulo_autor": "bispo de Hipona, Doutor da Igreja",
+  "obra": "Questões sobre o Heptateuco (Quaestiones in Heptateuchum), livro V, Deuteronômio",
+  "lingua": "la",
+  "fonte_url": "https://mlat.uzh.ch/browser/cps_2.AugHip.QuInHe",
+  "direitos": "domínio público",
+  "edicao": "PL 34",
+  "id": "agostinho-qhept-5-20-dizimo-do-terceiro-ano-aos-pobres",
+  "passagem": "QH V, 20, sobre Dt 14,28-29",
+  "trecho": "3",
+  "versiculos": [
+   28,
+   29
+  ],
+  "original": "Post tres annos produces omnem decimam fructuum tuorum, in illo anno pones illud in civitatibus tuis, et veniet Levita, quia non est ei pars neque sors tecum; et advena et pupillus et vidua, quae in civitatibus tuis; et manducabunt, et saturabuntur; ut benedicat te Dominus Deus tuus in omnibus operibus tuis quaecumque feceris. Ex ista decima non dixit ut ipse manducet cum suis - ac per hoc Levitis et advenis et pupillis et viduis eam jussit impendi. [...] Hinc certe manifeste verum est, non istam decimam Deum fieri voluisse communem ei qui offert, et his quibus impendenda est; sed illis solis erogari eam jussit, qui aliud non haberent, in quibus praecipue Levitem posuit.",
+  "traducao_pt": "«Depois de três anos, tirarás todo o dízimo dos teus frutos; nesse ano o porás nas tuas cidades, e virá o levita, que não tem parte nem sorte contigo, e o estrangeiro, o órfão e a viúva que estão nas tuas cidades; e comerão e se saciarão, para que o Senhor teu Deus te abençoe em todas as obras que fizeres.» Desse dízimo não disse que ele mesmo o coma com os seus; por isso mandou que fosse dado aos levitas, aos estrangeiros, aos órfãos e às viúvas. [...] Daqui é claro que Deus não quis que esse dízimo fosse comum a quem o oferece e àqueles a quem deve ser dado, mas mandou que fosse distribuído só aos que nada mais tinham, entre os quais pôs em primeiro lugar o levita.",
+  "temas": [
+   "o dízimo dos pobres",
+   "o levita, o estrangeiro, o órfão e a viúva"
+  ],
+  "resumo": "Agostinho: o dízimo do terceiro ano não se come com a família: é todo para o levita, o estrangeiro, o órfão e a viúva, que nada têm.",
+  "relevancia": 3
+ },
+ {
+  "autor": "São Bruno de Segni",
+  "autor_id": "bruno-segni",
+  "datas": "c. 1045–1123",
+  "titulo_autor": "bispo de Segni e abade de Monte Cassino",
+  "obra": "Exposição sobre o Deuteronômio (Expositio in Deuteronomium)",
+  "lingua": "la",
+  "fonte_url": "https://mlat.uzh.ch/browser/cps_2.BruAst.Exposit",
+  "direitos": "domínio público",
+  "edicao": "PL 164, 505–508",
+  "id": "bruno-segni-in-dt-14-1-filhos-de-deus-e-o-luto",
+  "passagem": "Expositio in Deuteronomium, cap. XIV (Dt 14,1-2)",
+  "trecho": "1",
+  "versiculos": [
+   1,
+   2
+  ],
+  "original": "« Filii estote Domini Dei vestri. Non vos incidetis, nec facietis calvitium super mortuo, quoniam populus sanctus est Domino Deo tuo, et te elegit, ut sis ei in populum peculiarem de cunctis gentibus, quae sunt super terram. » Imitetur Deum, qui ejus esse vult. Decet enim ut parentum imaginem in se filii repraesentent. Se autem incidere, et calvitium super mortuo facere magni doloris indicium est. De mortuo vero non dolere, sed gaudere debet Christianus. Qui enim bene moritur, ad Deum tendit. Doles ergo, o mulier, quod vir tuus ad Deum tendit: doles, o homo, quod frater, vel filius tuus ad Deum vadit, non bene doles.",
+  "traducao_pt": "«Sois filhos do Senhor vosso Deus. Não vos fareis incisões nem rapareis a fronte por causa de um morto, porque és um povo santo para o Senhor teu Deus, e ele te escolheu para seres o seu povo particular dentre todos os povos que há sobre a terra.» Imite a Deus quem quer ser dele: convém que os filhos reproduzam em si a imagem dos pais. Ora, ferir-se e rapar a cabeça por um morto é sinal de grande dor. Mas, diante de um morto, o cristão não deve afligir-se, e sim alegrar-se: quem morre bem caminha para Deus. Se choras, mulher, porque teu marido caminha para Deus, se choras, homem, porque teu irmão ou teu filho vai a Deus, não choras bem.",
+  "temas": [
+   "filhos de Deus",
+   "o luto cristão"
+  ],
+  "resumo": "Bruno de Segni: os filhos de Deus imitam o Pai; quem morre bem caminha para Deus, e por isso o cristão não chora como os que não têm esperança.",
+  "relevancia": 2
+ },
+ {
+  "autor": "São Bruno de Segni",
+  "autor_id": "bruno-segni",
+  "datas": "c. 1045–1123",
+  "titulo_autor": "bispo de Segni e abade de Monte Cassino",
+  "obra": "Exposição sobre o Deuteronômio (Expositio in Deuteronomium)",
+  "lingua": "la",
+  "fonte_url": "https://mlat.uzh.ch/browser/cps_2.BruAst.Exposit",
+  "direitos": "domínio público",
+  "edicao": "PL 164, 505–508",
+  "id": "bruno-segni-in-dt-14-21-nos-somos-os-estrangeiros",
+  "passagem": "Expositio in Deuteronomium, cap. XIV (Dt 14,21)",
+  "trecho": "2",
+  "versiculos": [
+   21
+  ],
+  "original": "Peregrino, qui inter portas tuas est, da, ut comedat, aut vende ei, quia tu populus sanctus Domini Dei tui es. » [...] Quidquid in macello venit, comedimus, interrogantes propter conscientiam. Scientes etiam, quia non est personarum acceptator Deus. Neminem ad fidem venientem ab Ecclesiae corpore separamus. Omnem cibum Ecclesia suscipit, id est omnem hominem suo corpori inducit. Nos ergo sumus peregrini, nos immunda a Judaeis emimus, et comedimus. Judaei enim fuerunt apostoli, qui nos ista docuerunt, ut nihil commune, et immundum esse credamus; modo fidem ipsi nobis vendiderunt, hanc animae pretio emimus, pro hac Christi servi facti sumus. Et quidem sicut nos modo nisi omnia comedamus, perimus; sic et illi tunc si comedissent, periissent. Omnia enim comedit, qui omnia comedenda fatetur.",
+  "traducao_pt": "«Ao estrangeiro que está dentro das tuas portas dá-o, para que o coma, ou vende-o a ele, porque és um povo santo para o Senhor teu Deus.» [...] Comemos tudo o que chega ao mercado, perguntando por causa da consciência. Sabemos também que Deus não faz acepção de pessoas. Não separamos do corpo da Igreja ninguém que venha à fé: a Igreja recebe todo alimento, isto é, introduz em seu corpo todo homem. Nós, pois, somos os estrangeiros: compramos dos judeus o que era impuro, e o comemos. Judeus foram, com efeito, os apóstolos que nos ensinaram a crer que nada é comum e impuro; eles próprios nos venderam a fé, e nós a compramos ao preço da alma; por ela nos tornamos servos de Cristo. E, de fato, assim como nós agora morreríamos se não comêssemos de tudo, também eles, então, teriam morrido se tivessem comido. Pois come de tudo quem confessa que tudo pode ser comido.",
+  "temas": [
+   "alimentos puros e impuros",
+   "os gentios e a lei"
+  ],
+  "resumo": "Bruno de Segni: o cadáver que se dava ao estrangeiro mostra que a lei dos alimentos era sombra; os gentios, estrangeiros, receberam dos apóstolos judeus a liberdade de comer de tudo.",
+  "relevancia": 2
+ },
+ {
+  "autor": "São Tomás de Aquino",
+  "autor_id": "tomas",
+  "datas": "1225–1274",
+  "titulo_autor": "dominicano, Doutor da Igreja",
+  "lingua": "la",
+  "direitos": "domínio público",
+  "id": "tomas-st-1-2-102-6-ad1-por-que-animais-impuros",
+  "obra": "Suma Teológica (Summa Theologiae)",
+  "passagem": "I-II, q. 102, a. 6, ad 1, sobre Dt 14,3-21",
+  "edicao": "ed. Leonina; texto do Corpus Thomisticum",
+  "trecho": "2",
+  "versiculos": [
+   3,
+   4,
+   6,
+   7,
+   8,
+   9,
+   12,
+   19
+  ],
+  "fonte_url": "https://www.corpusthomisticum.org/sth2098.html",
+  "original": "Secundum autem corporalem immunditiam, quae est corruptionis cuiusdam, aliquae animalium carnes immunditiam habent, vel quia ex rebus immundis nutriuntur, sicut porcus; aut immunde conversantur, sicut quaedam animalia sub terra habitantia, sicut talpae et mures et alia huiusmodi, unde etiam quendam fetorem contrahunt; vel quia eorum carnes, propter superfluam umiditatem vel siccitatem, corruptos humores in corporibus humanis generant. [...] Alia ratio fuit in detestationem idololatriae. Nam gentiles, et praecipue Aegyptii, inter quos erant nutriti, huiusmodi animalia prohibita idolis immolabant, vel eis ad maleficia utebantur. Animalia vero quae Iudaeis sunt concessa ad esum non comedebant, sed ea tanquam deos colebant; vel propter aliam causam ab eis abstinebant, ut supra dictum est. Tertia ratio est ad tollendam nimiam diligentiam circa cibaria. Et ideo conceduntur illa animalia quae de facili et in promptu haberi possunt.",
+  "traducao_pt": "Quanto à impureza corporal, que é uma espécie de corrupção, algumas carnes de animais são impuras, ou porque se alimentam de coisas imundas, como o porco; ou porque vivem em lugares imundos, como certos animais que habitam debaixo da terra, como as toupeiras, os ratos e semelhantes, de modo que contraem até certo mau cheiro; ou porque as suas carnes, pelo excesso de umidade ou de secura, geram humores corrompidos no corpo humano. [...] Houve ainda outra razão: o horror à idolatria. Pois os gentios, sobretudo os egípcios, entre os quais foram criados, imolavam aos ídolos esses animais proibidos, ou os usavam para malefícios. Os animais permitidos aos judeus para comer, esses os egípcios não comiam, mas os veneravam como deuses, ou deles se abstinham por outra causa, como se disse acima. A terceira razão é afastar o excessivo cuidado com a comida; por isso são permitidos os animais que se podem ter com facilidade e à mão.",
+  "temas": [
+   "alimentos puros e impuros",
+   "a lei e a idolatria"
+  ],
+  "resumo": "Tomás: a lista de animais impuros tem razões simples (higiene, o horror aos cultos dos egípcios e o fim da preocupação com a mesa), antes de qualquer alegoria.",
+  "relevancia": 3
+ },
+ {
+  "autor": "São Tomás de Aquino",
+  "autor_id": "tomas",
+  "datas": "1225–1274",
+  "titulo_autor": "dominicano, Doutor da Igreja",
+  "lingua": "la",
+  "direitos": "domínio público",
+  "id": "tomas-st-2-2-87-1-ad4-o-dizimo-dos-pobres-na-nova-lei",
+  "obra": "Suma Teológica (Summa Theologiae)",
+  "passagem": "II-II, q. 87, a. 1, arg. 4 e ad 4, sobre Dt 14,22-29",
+  "edicao": "ed. Leonina; texto do Corpus Thomisticum",
+  "trecho": "3",
+  "versiculos": [
+   22,
+   23,
+   28,
+   29
+  ],
+  "fonte_url": "https://www.corpusthomisticum.org/sth3082.html",
+  "original": "Erant quoque et aliae decimae, de quibus legitur Deut. XIV, decimam partem separabis de cunctis fructibus tuis qui nascuntur in terra per annos singulos, et comedes in conspectu domini Dei tui in loco quem elegerit Deus . Erant quoque et aliae decimae, de quibus ibidem subditur, anno tertio separabis aliam decimam ex omnibus quae nascuntur tibi eo tempore, et repones intra ianuas tuas, venietque Levites, qui aliam non habet partem neque possessionem tecum, et peregrinus ac pupillus et vidua qui intra portas tuas sunt, et comedent et saturabuntur . [...] Ad quartum dicendum quod secundae decimae, quae reservabantur ad sacrificia offerenda, locum in nova lege non habent, cessantibus legalibus victimis. Tertiae vero decimae, quas cum pauperibus comedere debebant, in nova lege augentur, per hoc quod dominus non solum decimam partem, sed omnia superflua pauperibus iubet exhiberi, secundum illud Luc. XI, quod superest, date eleemosynam . Ipsae etiam decimae quae ministris Ecclesiae dantur, per eos debent in usus pauperum dispensari.",
+  "traducao_pt": "Havia também outros dízimos, de que se lê em Deuteronômio 14: «Separarás a décima parte de todos os teus frutos que nascem na terra a cada ano, e comerás diante do Senhor teu Deus no lugar que Deus escolher.» E havia ainda outros, de que se diz no mesmo lugar: «No terceiro ano separarás outro dízimo de tudo o que te nascer nesse tempo, e o depositarás dentro das tuas portas; e virá o levita, que não tem outra parte nem posse contigo, e o estrangeiro, o órfão e a viúva que estão dentro das tuas portas, e comerão e se saciarão.» [...] Respondo ao quarto: os segundos dízimos, reservados para oferecer sacrifícios, não têm lugar na lei nova, cessadas as vítimas legais. Mas os terceiros, que deviam comer com os pobres, crescem na lei nova, porque o Senhor manda dar aos pobres não só a décima parte, mas tudo o que sobra, conforme Lucas 11: «O que sobra, dai-o em esmola.» E também os dízimos que se dão aos ministros da Igreja devem ser distribuídos por eles para o uso dos pobres.",
+  "temas": [
+   "o dízimo dos pobres",
+   "a esmola"
+  ],
+  "resumo": "Tomás: dos três dízimos de Dt 14, o dos pobres é o que cresce na lei nova: o Senhor pede tudo o que sobra, e os dízimos da Igreja também servem aos pobres.",
+  "relevancia": 3
+ },
+ {
+  "autor": "São Cirilo de Alexandria",
+  "autor_id": "cirilo",
+  "datas": "c. 376–444",
+  "titulo_autor": "patriarca de Alexandria, Doutor da Igreja",
+  "lingua": "grc",
+  "direitos": "domínio público",
+  "id": "cirilo-de-adoratione-dt-14-1-nao-ha-mancha-no-luto",
+  "obra": "Sobre a adoração e o culto em espírito e verdade (De adoratione et cultu in spiritu et veritate)",
+  "passagem": "De adoratione, sobre Dt 14,1",
+  "edicao": "PG 68, 448",
+  "trecho": "1",
+  "versiculos": [
+   1
+  ],
+  "original": "Ὥστε καὶ εἴ τις αὐτῶν ἐπὶ τύμβον ἴοι, καὶ τοῖς τῶν τεθνεώτων ἐμβάλλοι σήμασιν, ἱμάτιον ἀποβαλὼν, ψιλοῦται τὴν κεφαλὴν, καὶ αὐτὴν ἀποκείρων ὡς μεμολυσμένην τὴν τρίχα, ὧν ὅτι προσῆκεν ἀποφοιτᾷν καὶ παραιτεῖσθαι τὴν μίμησιν, ὁ θεῖος ἡμᾶς ἐπαίδευσε νόμος. Ἔφη γὰρ πάλιν· «Οὐ φοιβήσετε, οὐκ ἐπιθήσετε φαλάκρωμα ἐπὶ νεκρῷ, ἀνὰ μέσον ὀφθαλμῶν ὑμῶν.» Ἑλλήνων γὰρ οἱ λογάδες, Ἀπόλ-λωνα μυθολογοῦσι θεὸν, ὃν καὶ Φοῖβον ὀνομάζουσι, τουτέστι, καθαρὸν καὶ ἀμίαντον. Τὸν αὐτὸν δὲ εἶναι τῷ ἡλίῳ φασί. Φοιβάζειν οὖν ἔφασκον, καὶ φοιβᾶσθαι πάλιν, κατὰ συνήθειαν τὴν Ἑλληνικὴν, τὸ καθαίρειν τε καὶ καθαίρεσθαι, κατά γε τὸ αὐτοῖς δοκοῦν, καὶ τοὺς παρὰ σφίσιν αὐτοῖς νόμους. Ἀπείργει δὴ οὖν ἡμᾶς τὸ θεῖον χρησμῴδημα τῶν οὕτως αἰσχρῶν καὶ ἀκαλλεστάτων ἐπιτηδευμάτων. Οὐ γάρτοι προσήκει μολυσμὸν ἡγεῖσθαι ψυχῆς, τὸν τῶν σωμάτων θάνατον, οὔτε μὴν οἴεσθαι ταῖς τῶν ὁρώντων καρδίαις ἐναπομάττεσθαι ῥύπον, τὴν ἐπὶ νεκρῷ θέαν, οὐδ' αὖ ἐπὶ τῷδε προσήκει τὴν τρίχα ψιλοῦν.",
+  "fonte_url": "https://khazarzar.skeptik.net/pgm/PG_Migne/Cyril%20of%20Alexandria_PG%2068-77/De%20adoratione%20et%20cultu%20in%20spiritu%20et%20veritate.pdf",
+  "traducao_pt": "Assim, se alguém deles vai a um túmulo e toca os sinais dos mortos, tira o manto, raspa a cabeça e corta o cabelo como se estivesse contaminado; que devíamos afastar-nos dessa imitação e recusá-la, ensinou-nos a lei divina. Pois diz também: «Não vos “febareis”, não poreis calvície sobre o morto, entre os vossos olhos.» Os doutos dos gregos contam que Apolo é um deus, a quem chamam também Febo, isto é, puro e imaculado; dizem que é o mesmo que o Sol. Por isso diziam «febar» e «ser febado» para purificar e ser purificado, segundo o uso grego, conforme lhes parecia e conforme as suas leis. O oráculo divino nos afasta, pois, de práticas tão vergonhosas e feias. Não convém, de fato, considerar a morte dos corpos uma mancha da alma, nem pensar que a vista de um morto imprime sujeira no coração de quem o vê; tampouco convém, por isso, raspar o cabelo.",
+  "temas": [
+   "o luto",
+   "pureza e morte"
+  ],
+  "resumo": "Cirilo: a lei proíbe os ritos de purificação dos gregos junto ao morto, porque a morte do corpo não mancha a alma de quem a vê.",
+  "relevancia": 2
+ },
+ {
+  "autor": "Teodoreto de Ciro",
+  "autor_id": "teodoreto",
+  "datas": "c. 393–c. 460",
+  "titulo_autor": "bispo de Ciro, exegeta da escola de Antioquia",
+  "obra": "Questões sobre o Octateuco (Quaestiones in Octateuchum), Deuteronômio",
+  "lingua": "grc",
+  "direitos": "domínio público",
+  "fonte_url": "https://khazarzar.skeptik.net/pgm/PG_Migne/Theodoretus%20of%20Cyrrhus_PG%2080-84/Quaestiones%20in%20Octateuchum.pdf",
+  "id": "teodoreto-quaest-dt-13-nao-fareis-calvicie-pelo-morto",
+  "passagem": "Quaest. in Deut. 13, sobre Dt 14,1",
+  "edicao": "ed. Fernández Marcos–Sáenz-Badillos (1979), pp. 241–242",
+  "trecho": "1",
+  "versiculos": [
+   1
+  ],
+  "original": "Τί ἐστιν, «οὐ φοιβήσετε καὶ οὐκ ἐπιθήσετε φαλάκρωμα ἀνὰ μέσον τῶν ὀφθαλμῶν ὑμῶν ἐπὶ νεκρῷ»; Τῶν δυσσεβῶν ἐθνῶν ἀπαγορεύει τὰ ἔθη· καὶ διὰ μὲν τοῦ, «οὐ φοιβήσετε», τὰς μαντείας ἐξέβαλε. φοῖβον γὰρ τὸν ψευδόμαντιν ἐκάλουν τὸν Πύθιον. διὰ δὲ τοῦ, «οὐ ποιήσετε φαλάκρωμα ἀνὰ μέσον τῶν ὀφθαλμῶν ὑμῶν ἐπὶ νεκρῷ», τὴν τοῦ πένθους ἀπηγόρευσεν ἀμετρίαν. τινὲς μὲν γὰρ τῶν ἀλλοφύλων ἐθνῶν τὰς τῆς κεφαλῆς ἀπεκείροντο τρίχας καὶ ταύτας προσέφερον τοῖς νεκροῖς· τινὲς δὲ τὰς τῶν γενείων, ἄλλοι τὰς τῶν ὀφρύων. ταῦτα γίνεσθαι ὁ θεῖος ἀπηγόρευσε νόμος.",
+  "traducao_pt": "Que significa «não vos “febareis” e não poreis calvície entre os vossos olhos por um morto»? Proíbe os costumes das nações ímpias: com «não vos “febareis”» baniu as adivinhações (pois chamavam «Febo» ao falso adivinho pítio); e com «não fareis calvície entre os vossos olhos por um morto» proibiu o excesso no luto. Alguns povos estrangeiros cortavam os cabelos da cabeça e os ofereciam aos mortos; outros, os da barba; outros, os das sobrancelhas. A lei divina proibiu essas práticas.",
+  "temas": [
+   "o luto",
+   "costumes pagãos"
+  ],
+  "resumo": "Teodoreto: Dt 14,1 proíbe dois costumes pagãos, as adivinhações «febeias» e o excesso no luto, em que se cortava o cabelo para oferecê-lo aos mortos.",
+  "relevancia": 2
+ },
+ {
+  "autor": "Teodoreto de Ciro",
+  "autor_id": "teodoreto",
+  "datas": "c. 393–c. 460",
+  "titulo_autor": "bispo de Ciro, exegeta da escola de Antioquia",
+  "obra": "Questões sobre o Octateuco (Quaestiones in Octateuchum), Deuteronômio",
+  "lingua": "grc",
+  "direitos": "domínio público",
+  "fonte_url": "https://khazarzar.skeptik.net/pgm/PG_Migne/Theodoretus%20of%20Cyrrhus_PG%2080-84/Quaestiones%20in%20Octateuchum.pdf",
+  "id": "teodoreto-quaest-dt-13-tres-dizimos-a-festa-e-os-pobres",
+  "passagem": "Quaest. in Deut. 13, sobre Dt 14,22-29",
+  "edicao": "ed. Fernández Marcos–Sáenz-Badillos (1979), pp. 242–243",
+  "trecho": "3",
+  "versiculos": [
+   22,
+   23,
+   28,
+   29
+  ],
+  "original": "ὅτι δὲ δύο δεκάτας ἀφορίζεσθαι πάντων προσέταξε, σαφῶς ἐνταῦθα δεδήλωκε ὅτι δύο δεκάτας προσάγειν νενομοθέτηκε τῷ λαῷ, μίαν τοῖς λευΐταις καὶ μίαν εἰς λόγον δοχῆς καὶ εὐωχίας. «δεκάτην, γάρ φησιν, ἀποδεκατώσεις παντὸς γενήματος τοῦ σπέρματός σου· τὸ γένημα τοῦ ἀγροῦ σου ἐνιαυτὸν κατ' ἐνιαυτόν· καὶ φάγῃ αὐτὸ ἐναντίον Κυρίου τοῦ Θεοῦ σου, ἐν τῷ τόπῳ ᾧ ἂν ἐκλέξηται Κύριος ὁ Θεός σου ἐπικληθῆναι τὸ ὄνομα αὐτοῦ ἐκεῖ». εἰ δὲ μία δεκάτη ἦν, πῶς οἷόν τε καὶ τοὺς λευΐτας λαμβάνειν καὶ τοὺς προσκομίζοντας εὐωχεῖσθαι; ἀλλὰ δῆλον ὡς τοῖς μὲν λευΐταις μίαν δεκάτην ἀπένειμεν, ταῖς δὲ τῶν προσφερόντων εὐωχίαις ἑτέραν. [...] «μετὰ τρία ἔτη ἐξοίσεις πᾶν τὸ ἐπιδέκατον τῶν γενημάτων σου ἐν τῷ ἐνιαυτῷ ἐκείνῳ· καὶ θήσεις αὐτὸ ἐν ταῖς πόλεσί σου, καὶ ἐλεύσεται ὁ λευΐτης, ὅτι οὐκ ἔστιν αὐτῷ μερὶς οὐδὲ κλῆρος μετὰ σοῦ· καὶ ὁ προσήλυτος καὶ ὁ ὀρφανὸς καὶ ἡ χήρα, οἱ ἐν ταῖς πόλεσί σου, καὶ φάγονται καὶ ἐμπλησθήσονται, ἵνα εὐλογήσῃ σε Κύριος ὁ Θεός σου ἐν πᾶσι τοῖς ἔργοις σου οἷς ἂν ποιῇς». ἰστέον δέ, ὡς Ἰώσηππος, ἐντεῦθεν λαβὼν ἀφορμήν, μᾶλλον δὲ καὶ τὸ ἰουδαίων ἐπιστάμενος ἔθος ὡς ἰουδαῖος, τρεῖς ἔφη δεκάτας προστεταχέναι τὸν νόμον προσφέρεσθαι, τὴν μὲν τοῖς λευΐταις, τὴν δὲ τοῖς ὀρφανοῖς καὶ ταῖς χήραις, τὴν δὲ ἄλλην ταῖς τῶν προσφερόντων εὐωχίαις.",
+  "traducao_pt": "Que ele mandou separar duas dízimas de tudo, mostrou-o aqui claramente: estabeleceu que o povo levasse duas dízimas, uma para os levitas e outra para a refeição e a festa. «Darás o dízimo», diz, «de todo o produto da tua semente, o produto do teu campo, ano após ano; e o comerás diante do Senhor teu Deus, no lugar que o Senhor teu Deus escolher para que ali seja invocado o seu nome.» Se houvesse um só dízimo, como seria possível que os levitas o recebessem e os que o trazem fizessem festa? Mas é claro que aos levitas atribuiu um dízimo, e aos banquetes dos que o oferecem, outro. [...] «Depois de três anos tirarás todo o dízimo dos teus produtos naquele ano, e o porás nas tuas cidades, e virá o levita, porque não tem parte nem sorte contigo, e o estrangeiro, o órfão e a viúva que estão nas tuas cidades, e comerão e se saciarão, para que o Senhor teu Deus te abençoe em todas as tuas obras.»",
+  "temas": [
+   "o dízimo dos pobres",
+   "a festa diante do Senhor"
+  ],
+  "resumo": "Teodoreto: além do dízimo dos levitas, havia o que se comia em festa diante do Senhor, e depois, no terceiro ano, o dos órfãos, das viúvas e do estrangeiro.",
+  "relevancia": 2
+ },
+ {
+  "autor": "Clemente de Alexandria",
+  "autor_id": "clemente-alexandria",
+  "datas": "c. 150–c. 215",
+  "titulo_autor": "mestre da escola de Alexandria",
+  "obra": "Tapeçarias (Stromata), livro VII",
+  "passagem": "Stromata VII, 18, 109–110, sobre a lei dos animais puros (Dt 14,3-8)",
+  "edicao": "ed. O. Stählin–L. Früchtel, GCS 17; PG 9",
+  "trecho": "2",
+  "versiculos": [
+   3,
+   6,
+   7,
+   8
+  ],
+  "lingua": "grc",
+  "original": "τὰ μὲν γὰρ διχηλοῦντα καὶ μηρυκισμὸν ἀνάγοντα τῶν ἱερείων καθαρὰ καὶ δεκτὰ τῷ θεῷ παραδίδωσιν ἡ γραφή, ὡς ἂν εἰς πατέρα καὶ εἰς υἱὸν διὰ τῆς πίστεως τῶν δικαίων τὴν πορείαν ποιουμένων (αὕτη γὰρ ἡ τῶν διχηλούντων ἑδραιότης) τῶν τὰ λόγια τοῦ θεοῦ νύκτωρ καὶ μεθ' ἡμέραν μελετώντων καὶ ἀναπεμπαζομένων ἐν τῷ τῆς ψυχῆς τῶν μαθημάτων δοχείῳ [...] ἔμπαλίν τε αὖ ἀκάθαρτα ὁμοίως κἀκεῖνα, ὅσα διχηλεῖ μέν, μηρυκισμὸν δὲ οὐκ ἀνάγει. ταυτὶ γὰρ τοὺς αἱρετικοὺς ἐνδείκνυται ὀνόματι μὲν πατρὸς καὶ υἱοῦ ἐπιβεβηκότας, τὴν δὲ τῶν λογίων ἀκριβῆ σαφήνειαν λεπτουργεῖν καὶ καταλεαίνειν ἐξασθενοῦντας, πρὸς δὲ καὶ τὰ ἔργα τῆς δικαιοσύνης ὁλοσχερέστερον, οὐχὶ δὲ ἀκριβέστερον μετερχομένους, εἴ γε καὶ μετέλθοιεν.",
+  "fonte_url": "https://khazarzar.skeptik.net/pgm/PG_Migne/Clement%20of%20Alexandria_PG%2008-09/Stromata.pdf",
+  "direitos": "domínio público",
+  "id": "clemente-strom-7-18-casco-fendido-e-ruminar",
+  "traducao_pt": "A Escritura apresenta como puros e aceitos por Deus, entre os animais de sacrifício, os que têm o casco fendido e ruminam: são a figura dos justos que, pela fé, caminham ao Pai e ao Filho (pois essa é a firmeza dos de casco fendido), meditando de noite e de dia as palavras de Deus e remoendo-as no receptáculo da alma, onde guardam o que aprenderam [...] Por outro lado, são igualmente impuros os que têm o casco fendido mas não ruminam: a lei mostra com eles os hereges, que se apoiam no nome do Pai e do Filho, mas não conseguem esmiuçar com exatidão a clareza das palavras divinas, e perseguem as obras da justiça de modo mais geral do que exato, se é que as perseguem.",
+  "temas": [
+   "alimentos puros e impuros",
+   "meditar a palavra"
+  ],
+  "resumo": "Clemente: o casco fendido e o ruminar figuram a fé no Pai e no Filho e a meditação da palavra de dia e de noite; quem tem só uma das duas coisas fica a meio caminho.",
+  "relevancia": 2
+ },
+ {
+  "autor": "São Cirilo de Alexandria",
+  "autor_id": "cirilo",
+  "datas": "c. 376–444",
+  "titulo_autor": "patriarca de Alexandria, Doutor da Igreja",
+  "lingua": "grc",
+  "direitos": "domínio público",
+  "obra": "Sobre a adoração e o culto em espírito e verdade (De adoratione et cultu in spiritu et veritate)",
+  "fonte_url": "https://khazarzar.skeptik.net/pgm/PG_Migne/Cyril%20of%20Alexandria_PG%2068-77/De%20adoratione%20et%20cultu%20in%20spiritu%20et%20veritate.pdf",
+  "id": "cirilo-de-adoratione-dt-14-tudo-e-puro-para-os-puros",
+  "passagem": "De adoratione, sobre a lei dos animais puros e impuros (Lv 11; Dt 14,3-21)",
+  "edicao": "PG 68, 916–917",
+  "trecho": "2",
+  "versiculos": [
+   3,
+   4,
+   6,
+   7,
+   8
+  ],
+  "original": "Ἐναργέστατα μὲν οὖν ὁ Χριστὸς, «Οὐ τὸ εἰσερχόμενον εἰς τὸ στόμα,» φησὶ, «κοινοῖ τὸν ἄνθρωπον.» Εἴρηται δέ που καὶ πρὸς τὸν θεσπέσιον Πέτρον, τῆς σινδόνος ἄνωθεν καθιεμένης τέσσαρσιν ἀρχαῖς, ἐν ᾗ πάντα γέγραπται τὰ τετράποδα καὶ πτηνά· «Ἀναστὰς Πέτρε, θύσον καὶ φάγε.» Ἀνακεκραγότος δὲ τοῦ μαθητοῦ καὶ τὴν νομικὴν ἐπιτήρησιν δεδιότος ἔτι, καὶ, «Μηδαμῶς, Κύριε,» λέγοντος, «ὅτι οὐδέ ποτε ἔφαγον πᾶν κοινὸν ἢ ἀκάθαρτον, οὐδὲ εἰσῆλθεν εἰς τὸ στόμα μου πᾶν κρέας βέβηλον,» πάλιν ἐφώνει Θεός· «Ἃ ὁ Θεὸς ἐκαθάρισε, σὺ μὴ κοίνου.» Γράφει δὲ καὶ ὁ θεσπέσιος Παῦλος, ὅτι «Βρῶμα ἡμᾶς οὐ παρίστησι τῷ Θεῷ.» Ἔστι δὴ οὖν οὐκ ἀσυμφανὲς, ὅτι βεβηλοῖ μέν τι τῶν ὄντων ἥκιστα μὲν ὁ νόμος, πάντα δὲ οἶδε καθαρὰ τοῖς καθαροῖς· ἀλλ' εἰς ἠθῶν ποιότητας ἀνθρωπίνων τὸ ἑκάστου ζώου φυσικὸν εὖ μάλα παραλαβὼν, ὀνίνησιν οὐ μετρίως.",
+  "traducao_pt": "Com toda a clareza Cristo disse: «Não é o que entra pela boca que torna impuro o homem.» E também foi dito ao divino Pedro, quando o lençol descia do alto, preso pelas quatro pontas, no qual estavam escritos todos os quadrúpedes e aves: «Levanta-te, Pedro, mata e come.» Como o discípulo exclamasse, ainda temendo a observância da lei, e dissesse: «De modo algum, Senhor, pois nunca comi nada comum ou impuro, nem entrou na minha boca carne profana», Deus lhe disse de novo: «O que Deus purificou, tu não o chames comum.» Escreve também o divino Paulo que «o alimento não nos recomenda a Deus». Não é, pois, obscuro que a lei de modo algum profana qualquer das coisas que existem, mas sabe que tudo é puro para os puros; ao tomar, porém, a natureza própria de cada animal para figurar a qualidade dos costumes humanos, ajuda-nos não pouco.",
+  "temas": [
+   "alimentos puros e impuros",
+   "tudo é puro para os puros"
+  ],
+  "resumo": "Cirilo: a lei não declara impura nenhuma criatura (Mc 7,15; At 10; 1Cor 8,8); a lista de animais figura os costumes humanos.",
+  "relevancia": 3
+ },
+ {
+  "autor": "São Cirilo de Alexandria",
+  "autor_id": "cirilo",
+  "datas": "c. 376–444",
+  "titulo_autor": "patriarca de Alexandria, Doutor da Igreja",
+  "lingua": "grc",
+  "direitos": "domínio público",
+  "obra": "Sobre a adoração e o culto em espírito e verdade (De adoratione et cultu in spiritu et veritate)",
+  "fonte_url": "https://khazarzar.skeptik.net/pgm/PG_Migne/Cyril%20of%20Alexandria_PG%2068-77/De%20adoratione%20et%20cultu%20in%20spiritu%20et%20veritate.pdf",
+  "id": "cirilo-de-adoratione-dt-14-22-27-o-caminho-aplainado",
+  "passagem": "De adoratione, sobre Dt 14,22-27",
+  "edicao": "PG 68, 880",
+  "trecho": "3",
+  "versiculos": [
+   22,
+   23,
+   24,
+   25,
+   26,
+   27
+  ],
+  "original": "Ἵνα τοίνυν ἁπάντων ἡμῖν τῶν ἐν μέσῳ παραποδισμάτων χρησίμως ἐξῃρημένων, καὶ εἰς τὸ τῷ νομοθέτῃ δοκοῦν διεξάγοιτο λοιπὸν ὁ ἐπὶ τῷδε νόμος, πεπαιδαγώγηκεν ὁ Μωσῆς, καὶ τὴν θείαν διερμηνεύει βούλησιν ἐν τῷ Δευτερονομίῳ, λέγων· «Δεκάτην ἀποδεκατώσεις παντὸς γεννήματος τοῦ σπέρματός σου, τὸ γέννημα τοῦ ἀγροῦ σου ἐνιαυτὸν κατ' ἐνιαυτὸν, καὶ φάγῃ αὐτὸ ἐναντίον Κυρίου τοῦ Θεοῦ σου ἐν τῷ τόπῳ ᾧ ἐὰν ἐκλέξηται Κύριος ὁ Θεός σου, ἐπικληθῆναι τὸ ὄνομα αὐτοῦ, ἐκεῖ οἴσεις τὰ ἐπιδέκατα τοῦ σίτου σου, καὶ τοῦ οἴνου σου, καὶ τοῦ ἐλαίου σου, καὶ τὰ πρωτότοκα τῶν βοῶν σου, καὶ τῶν προβάτων σου, ἵνα μάθῃς φοβεῖσθαι Κύριον τὸν Θεόν σου πάσας τὰς ἡμέρας. Ἐὰν δὲ μακρὰν γένη-ται ἡ ὁδὸς ἀπὸ σοῦ, καὶ μὴ δύνῃ ἀναφέρειν αὐτὰ, ὅτι μακρὰν ἀπὸ σοῦ ὁ τόπος ὃν ἂν ἐκλέξηται Κύριος ὁ Θεός σου, ἐπικληθῆναι τὸ ὄνομα αὐτοῦ ἐκεῖ, ὅτι εὐλογήσει σε Κύριος ὁ Θεός σου, καὶ ἀποδώσῃ αὐτὰ ἀργυρίου, καὶ λήψῃ τὸ ἀργύριον ἐν ταῖς χερσί σου, καὶ πορεύσῃ εἰς τὸν τόπον ὃν ἂν ἐκλέξηται Κύριος ὁ Θεός σου, αὐτὸν ἐπικληθῆναι τὸ ὄνομα αὐτοῦ ἐκεῖ, καὶ δώσεις ἀργύριον ἐπὶ παντὸς οὗ ἂν ἐπιθυμῇ ἡ ψυχή σου, ἐπὶ βουσὶν ἢ ἐπὶ προβάτοις, ἢ ἐπ' οἴνῳ ἢ ἐπὶ σίκερα, ἢ ἐπὶ παντὸς οὗ ἂν ἐπιθυμῇ ἡ ψυχή σου, καὶ φάγῃ ἐκεῖ ἐναντίον Κυρίου τοῦ Θεοῦ σου, καὶ εὐφρανθήσῃ σὺ καὶ ὁ οἶκός σου, καὶ ὁ Λευίτης ὁ ἐν ταῖς πόλεσί σου, ὅτι οὐκ ἔστιν αὐτῷ μερὶς οὐδὲ κλῆρος μετὰ σοῦ.» Ὁρᾷς τοῦ νόμου τὸ εὐτεχνὲς, καταψιλοῦντος τὸ ἄναντες, καὶ βάσιμα τὰ δυσπόρευτα τιθέντος εὖ μάλα, κατευμαρίζοντος δὲ καὶ τὰ λίαν δυσχερῆ; καὶ τοῦτο, οἶμαι, ἐστὶ, τὸ διὰ τῆς τοῦ προφήτου φωνῆς· «Ὁδὸς εὐσεβῶν εὐθεῖα ἐγένετο, καὶ παρεσκευασμένη ἡ ὁδὸς τῶν εὐσεβῶν.",
+  "traducao_pt": "Para que, retirados de modo útil todos os obstáculos do caminho, a lei sobre isso fosse levada adiante como ao legislador parecia, Moisés instruiu e interpreta a vontade divina no Deuteronômio, dizendo: «Se o caminho for longo demais para ti, e não puderes levá-los, porque está longe de ti o lugar que o Senhor teu Deus escolher para que ali seja invocado o seu nome, porque o Senhor teu Deus te abençoará, vende-os por dinheiro, toma o dinheiro nas tuas mãos e vai ao lugar que o Senhor teu Deus escolher.» Vês a habilidade da lei, que aplaina o que é íngreme, torna transitável o que é de difícil passagem e facilita até o que é muito penoso? É isto, creio, o que diz o profeta: «O caminho dos piedosos tornou-se reto, e preparado está o caminho dos piedosos.»",
+  "temas": [
+   "o dízimo diante do Senhor",
+   "a lei que aplaina o caminho"
+  ],
+  "resumo": "Cirilo: quando o lugar escolhido é longe, a lei deixa trocar o dízimo por dinheiro e comprá-lo lá; assim ela aplaina o caminho de quem quer oferecer.",
+  "relevancia": 2
+ },
+ {
+  "autor": "Rábano Mauro",
+  "autor_id": "rabano",
+  "datas": "c. 780–856",
+  "titulo_autor": "abade de Fulda, arcebispo de Mogúncia",
+  "obra": "Exposição sobre o Deuteronômio (Enarratio super Deuteronomium), livro II",
+  "passagem": "Enarratio in Deut. II, 5, sobre Dt 14,1-2",
+  "edicao": "PL 108, 882",
+  "trecho": "1",
+  "versiculos": [
+   1,
+   2
+  ],
+  "lingua": "la",
+  "original": "Filii estote Domini Dei vestri. Non vos incidetis, nec facietis calvitium super mortuo, quoniam populus sanctus es Domino Deo tuo. » Carnem incidere et calvitium super mortuo, indicia fuerunt luctus: in quo luctu nonnullae gentes habent consuetudinem secare corpora sua. Hoc Deus his quos in filiorum nomine censuit, facere prohibuit. Sic enim affligi super mortuos oportet, ut nec in faciem laedat, nec corpus corrumpat, a quibus nos Paulus prohibens ait: « Nolo vos ignorare, fratres, ut non contristemini, sicut et caeteri, qui spem non habent (I Thes. IV). » Nam quodlibet eorum, quae praedicta sunt agere, non est spem habere resurrectionis mortuorum, quia tanquam illis corruptis, semetipsos dissipant atque corrumpunt.",
+  "fonte_url": "https://mlat.uzh.ch/browser/cps_2.RabMau.EnSuDe",
+  "direitos": "domínio público",
+  "id": "rabano-in-dt-2-5-filhos-do-senhor-e-o-luto",
+  "traducao_pt": "«Sois filhos do Senhor vosso Deus. Não vos fareis incisões nem fareis calvície sobre um morto, porque és um povo santo para o Senhor teu Deus.» Ferir a carne e fazer calvície sobre um morto eram sinais de luto, e algumas nações têm o costume de cortar o próprio corpo nesse luto. Deus proibiu isso aos que ele contou pelo nome de filhos. Convém, com efeito, afligir-se pelos mortos de modo que não se fira o rosto nem se estrague o corpo; e Paulo, que nos proíbe essas coisas, diz: «Não quero que ignoreis, irmãos, que não vos entristeçais como os outros, que não têm esperança» (1Ts 4). Fazer qualquer das coisas ditas é, de fato, não ter esperança na ressurreição dos mortos, porque é como se, estando eles corrompidos, os próprios enlutados se destruíssem e se corrompessem.",
+  "temas": [
+   "filhos de Deus",
+   "o luto cristão"
+  ],
+  "resumo": "Rábano: Dt 14,1 proíbe ferir-se pelo morto, e Paulo explica por quê: o luto cristão não é o dos que não têm esperança na ressurreição.",
+  "relevancia": 3
+ },
+ {
+  "autor": "Catecismo da Igreja Católica",
+  "autor_id": "catecismo",
+  "datas": "1992 (ed. típica 1997)",
+  "titulo_autor": "",
+  "obra": "Catecismo da Igreja Católica",
+  "lingua": "pt",
+  "direitos": "citação curta",
+  "fonte_url": "https://www.vatican.va/archive/cathechism_po/index_new/p1s2cap2_422-682_po.html",
+  "edicao": "CIC 441",
+  "id": "catecismo-441-dt-14-1-filhos-de-israel",
+  "passagem": "CIC 441 (nota 46: Dt 14,1)",
+  "trecho": "1",
+  "versiculos": [
+   1,
+   2
+  ],
+  "original": "Filho de Deus, no Antigo Testamento, é um título dado aos anjos, ao povo eleito, aos filhos de Israel e aos seus reis. Nestes casos, significa uma filiação adoptiva, que estabelece entre Deus e a sua criatura relações de particular intimidade.",
+  "traducao_pt": "«Filho de Deus», no Antigo Testamento, é um título dado aos anjos, ao povo eleito, aos filhos de Israel e aos seus reis. Nestes casos, significa uma filiação adotiva, que estabelece entre Deus e a sua criatura relações de particular intimidade.",
+  "temas": [
+   "filhos de Deus",
+   "o povo santo"
+  ],
+  "resumo": "Catecismo: quando Dt 14,1 chama Israel «filhos do Senhor», é uma filiação por adoção, de particular intimidade com Deus, que só em Cristo se faz plena.",
+  "relevancia": 2
+ }
+]

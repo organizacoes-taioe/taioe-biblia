@@ -1,0 +1,63 @@
+{
+ "1": [
+  {
+   "id": "filhos-e-luto",
+   "titulo": "«Sois filhos do Senhor»: o luto de quem espera a ressurreição",
+   "versiculos": [
+    1,
+    2
+   ],
+   "itens": [
+    "catecismo-441-dt-14-1-filhos-de-israel",
+    "rabano-in-dt-2-5-filhos-do-senhor-e-o-luto",
+    "bruno-segni-in-dt-14-1-filhos-de-deus-e-o-luto"
+   ]
+  }
+ ],
+ "2": [
+  {
+   "id": "puros-e-impuros",
+   "titulo": "Animais puros e impuros: por que a Lei os distinguia",
+   "versiculos": [
+    3,
+    6,
+    7,
+    8
+   ],
+   "itens": [
+    "tomas-st-1-2-102-6-ad1-por-que-animais-impuros",
+    "clemente-strom-7-18-casco-fendido-e-ruminar",
+    "cirilo-de-adoratione-dt-14-tudo-e-puro-para-os-puros"
+   ]
+  }
+ ],
+ "3": [
+  {
+   "id": "dizimo-da-festa",
+   "titulo": "O dízimo comido em festa diante do Senhor",
+   "versiculos": [
+    22,
+    23,
+    24,
+    25,
+    26
+   ],
+   "itens": [
+    "teodoreto-quaest-dt-13-tres-dizimos-a-festa-e-os-pobres",
+    "cirilo-de-adoratione-dt-14-22-27-o-caminho-aplainado"
+   ]
+  },
+  {
+   "id": "dizimo-dos-pobres",
+   "titulo": "O dízimo do terceiro ano, para os que nada têm",
+   "versiculos": [
+    28,
+    29
+   ],
+   "itens": [
+    "agostinho-qhept-5-20-dizimo-do-terceiro-ano-aos-pobres",
+    "tomas-st-2-2-87-1-ad4-o-dizimo-dos-pobres-na-nova-lei"
+   ]
+  }
+ ]
+}

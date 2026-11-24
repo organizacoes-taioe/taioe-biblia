@@ -1,0 +1,73 @@
+{
+ "1": [
+  {
+   "id": "sinal-e-falso-profeta",
+   "titulo": "O sinal que se cumpre não prova que o profeta diz a verdade",
+   "versiculos": [
+    2,
+    3,
+    4
+   ],
+   "itens": [
+    "teodoreto-quaest-dt-12-os-sinais-do-falso-profeta",
+    "cassiano-coll-15-1-2-sinais-nao-provam-santidade"
+   ]
+  },
+  {
+   "id": "pondo-a-prova",
+   "titulo": "«O Senhor vos está pondo à prova»: para que vós saibais se o amais",
+   "versiculos": [
+    4
+   ],
+   "itens": [
+    "agostinho-in-io-43-5-6-deus-tenta-para-que-saibais",
+    "tomas-st-1-114-2-tentar-para-que-saibam"
+   ]
+  },
+  {
+   "id": "mestre-que-se-desvia",
+   "titulo": "Quando um mestre da Igreja se desvia da fé",
+   "versiculos": [
+    2,
+    3,
+    4,
+    5
+   ],
+   "itens": [
+    "vicente-lerins-commonit-10-deus-permite-mestre-novo",
+    "vicente-lerins-commonit-19-20-o-verdadeiro-catolico"
+   ]
+  }
+ ],
+ "2": [
+  {
+   "id": "nada-antes-de-deus",
+   "titulo": "Irmão, filho, mulher ou amigo: nada se antepõe a Deus",
+   "versiculos": [
+    7,
+    8,
+    9
+   ],
+   "itens": [
+    "cirilo-in-io-dt-13-lei-sobre-um-ponto-aplicada-a-tudo",
+    "rabano-in-dt-2-5-todo-o-capitulo-contra-a-idolatria"
+   ]
+  }
+ ],
+ "3": [
+  {
+   "id": "cidade-e-heresia",
+   "titulo": "A cidade desviada: a espada do espírito contra o erro",
+   "versiculos": [
+    14,
+    15,
+    16,
+    17,
+    18
+   ],
+   "itens": [
+    "bruno-segni-in-dt-13-cidade-espada-do-espirito"
+   ]
+  }
+ ]
+}

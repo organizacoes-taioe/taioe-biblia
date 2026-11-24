@@ -1,0 +1,66 @@
+{
+ "1": [
+  {
+   "id": "segundas-tabuas",
+   "titulo": "As segundas tábuas: o homem talha, e Deus escreve",
+   "versiculos": [
+    1,
+    2,
+    4
+   ],
+   "itens": [
+    "agostinho-qh5-15-segundas-tabuas-deus-e-homem"
+   ]
+  }
+ ],
+ "2": [
+  {
+   "id": "levi-parte",
+   "titulo": "«O Senhor é a sua herança»: Levi e o sacerdócio de todos os fiéis",
+   "versiculos": [
+    8,
+    9
+   ],
+   "itens": [
+    "agostinho-qh5-16-levi-parte-do-senhor-sacerdocio"
+   ]
+  }
+ ],
+ "3": [
+  {
+   "id": "o-que-pede",
+   "titulo": "«Que pede de ti o Senhor?»: temer como filho e amar",
+   "versiculos": [
+    12,
+    13
+   ],
+   "itens": [
+    "lapide-dt-10-12-o-que-deus-pede-e-o-temor-filial",
+    "ruperto-trin-in-dt-1-3-moises-convida-ao-amor"
+   ]
+  },
+  {
+   "id": "ceu-e-terra",
+   "titulo": "Do Senhor são o céu e a terra, e ele escolheu amar os teus pais",
+   "versiculos": [
+    14,
+    15
+   ],
+   "itens": [
+    "teodoreto-qdt-7-o-que-pede-de-ti-dt10-12",
+    "francisco-laudato-si-67-do-senhor-e-a-terra-dt10-14"
+   ]
+  },
+  {
+   "id": "circuncisao-coracao",
+   "titulo": "A circuncisão do coração, mais preciosa que a da carne",
+   "versiculos": [
+    16
+   ],
+   "itens": [
+    "teodoreto-qdt-7-circuncisao-do-coracao-dt10-16",
+    "rabano-in-dt-2-1-circuncisao-do-coracao"
+   ]
+  }
+ ]
+}
