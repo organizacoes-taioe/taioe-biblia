@@ -1,0 +1,73 @@
+{
+ "1": [
+  {
+   "id": "remissao",
+   "titulo": "O ano da remissão: socorrer o irmão e perdoar a dívida",
+   "versiculos": [
+    1,
+    2,
+    3
+   ],
+   "itens": [
+    "tomas-st-1-2-105-2-ad4-remissao-sete-anos",
+    "cirilo-adoratione-ano-sete-remissao-e-cristo"
+   ]
+  }
+ ],
+ "2": [
+  {
+   "id": "palavra-oculta",
+   "titulo": "O pensamento vil que ninguém ousaria dizer em voz alta",
+   "versiculos": [
+    9
+   ],
+   "itens": [
+    "agostinho-qh5-21-palavra-oculta-dt15-9",
+    "basilio-attende-tibi-ipsi-1-pensamento-oculto"
+   ]
+  },
+  {
+   "id": "abrir-a-mao",
+   "titulo": "«Abrirás a tua mão»: o clamor do pobre e o dever de socorrê-lo",
+   "versiculos": [
+    7,
+    8,
+    9,
+    11
+   ],
+   "itens": [
+    "rabano-in-dt-3-8-acudir-ao-pobre-obra-do-amor",
+    "catecismo-2449-dt-15-11-abrir-a-mao-ao-pobre",
+    "francisco-eg-187-dt-15-9-o-pobre-clamaria-contra-ti"
+   ]
+  }
+ ],
+ "3": [
+  {
+   "id": "nao-vazio",
+   "titulo": "O servo que sai livre, e não de mãos vazias: figura da redenção",
+   "versiculos": [
+    12,
+    13,
+    14
+   ],
+   "itens": [
+    "cirilo-adoratione-7-nao-partir-vazio-dt15-13"
+   ]
+  }
+ ],
+ "4": [
+  {
+   "id": "primogenitos",
+   "titulo": "Os primogênitos: os começos do bem pertencem a Deus",
+   "versiculos": [
+    19,
+    21
+   ],
+   "itens": [
+    "rabano-in-dt-3-9-primogenitos-primicias-do-bem",
+    "paterius-greg-dt15-19-nao-lavrar-primogenito"
+   ]
+  }
+ ]
+}

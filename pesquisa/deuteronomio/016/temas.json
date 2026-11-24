@@ -1,0 +1,93 @@
+{
+ "1": [
+  {
+   "id": "pascoa-passagem",
+   "titulo": "A Páscoa, passagem das coisas desta vida para Deus",
+   "versiculos": [
+    1,
+    3
+   ],
+   "itens": [
+    "origenes-contra-celso-8-22-pascoa-e-pao-de-aflicao",
+    "rabano-in-dt-3-10-pascoa-passagem-e-azimos"
+   ]
+  },
+  {
+   "id": "pascoa-lugar",
+   "titulo": "A Páscoa só no lugar escolhido, figura da Igreja",
+   "versiculos": [
+    2,
+    5,
+    6
+   ],
+   "itens": [
+    "cirilo-adoratione-17-pascoa-so-na-cidade-santa"
+   ]
+  }
+ ],
+ "2": [
+  {
+   "id": "sete-semanas",
+   "titulo": "As sete semanas contadas até a festa",
+   "versiculos": [
+    9,
+    10
+   ],
+   "itens": [
+    "agostinho-qh5-25-contar-as-sete-semanas"
+   ]
+  }
+ ],
+ "3": [
+  {
+   "id": "tres-festas",
+   "titulo": "As três festas do ano e a alegria depois da colheita",
+   "versiculos": [
+    13,
+    14,
+    15,
+    16
+   ],
+   "itens": [
+    "cirilo-hom-pasc-tres-festas-do-ano-dt16-16",
+    "rabano-in-dt-3-12-tabernaculos-alegria-do-fim"
+   ]
+  },
+  {
+   "id": "maos-vazias",
+   "titulo": "«Ninguém comparecerá de mãos vazias diante do Senhor»",
+   "versiculos": [
+    16,
+    17
+   ],
+   "itens": [
+    "paterius-greg-dt16-16-nao-aparecer-vazio"
+   ]
+  }
+ ],
+ "4": [
+  {
+   "id": "juizes",
+   "titulo": "Juízes sem suborno: o presente que cega os que se julgam sábios",
+   "versiculos": [
+    18,
+    19
+   ],
+   "itens": [
+    "cirilo-adoratione-8-juizes-sem-suborno-imagem-de-cristo",
+    "rabano-in-dt-3-13-munera-cegam-quem-se-julga-sabio"
+   ]
+  },
+  {
+   "id": "so-a-justica",
+   "titulo": "«A justiça, só a justiça»: buscá-la por ela mesma",
+   "versiculos": [
+    20
+   ],
+   "itens": [
+    "paterius-greg-dt16-20-juste-quod-iustum",
+    "teodoreto-quaest-dt-16-justica-pela-justica"
+   ]
+  }
+ ]
+}
