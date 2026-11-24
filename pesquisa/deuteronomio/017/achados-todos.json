@@ -1,0 +1,324 @@
+[
+ {
+  "autor": "Santo Agostinho",
+  "datas": "354–430",
+  "titulo_autor": "bispo de Hipona, Doutor da Igreja",
+  "autor_id": "agostinho",
+  "id": "agostinho-qh5-26-rei-pedido-permitido",
+  "obra": "Questões sobre o Heptateuco (Quaestiones in Heptateuchum)",
+  "passagem": "V, q. 26 (sobre Dt 17,14-15)",
+  "edicao": "PL 34, 761",
+  "trecho": "3",
+  "versiculos": [
+   14,
+   15
+  ],
+  "lingua": "la",
+  "fonte_url": "https://mlat.uzh.ch/browser/cps_2.AugHip.QuInHe",
+  "traducao_pt": "Pode-se perguntar por que o povo desagradou a Deus quando desejou um rei, se aqui se vê que isso lhe foi permitido. Mas deve-se entender, antes, que não era segundo a vontade de Deus porque ele não o mandou, e sim o permitiu aos que o desejavam. Mandou, contudo, que o rei não fosse estrangeiro, mas irmão, isto é, nativo do mesmo povo e não de outra nação. E o «não poderás» deve entender-se como «não deverás».",
+  "temas": [
+   "o pedido de um rei",
+   "rei do próprio povo"
+  ],
+  "resumo": "Agostinho explica que Deus não ordenou o rei, mas o permitiu a quem o desejava, e só exigiu que fosse irmão, do próprio povo.",
+  "relevancia": 2,
+  "original": "Quaeri potest cur displicuerit populus Deo, quando regem desideravit, cum hic inveniatur esse permissus. Sed magis hinc intelligendum est, merito non fuisse secundum voluntatem Dei, quia fieri hoc non praecepit, sed desiderantibus permisit. Verumtamen praecepit, ne fieret alienus, sed frater, id est, ex eodem populo indigena non alienigena. Quod autem ait, non poteris, intelligendum est, non debebis.",
+  "direitos": "domínio público"
+ },
+ {
+  "autor": "Rábano Mauro",
+  "datas": "c. 780–856",
+  "titulo_autor": "abade de Fulda, arcebispo de Mogúncia",
+  "autor_id": "rabano",
+  "id": "rabano-dt-xvii-duas-testemunhas-escrituras",
+  "obra": "Comentário ao Deuteronômio (Enarratio super Deuteronomium)",
+  "passagem": "I, cap. 15 (sobre Dt 17,6)",
+  "edicao": "PL 108, 902C–D",
+  "trecho": "1",
+  "versiculos": [
+   6
+  ],
+  "lingua": "la",
+  "fonte_url": "https://mlat.uzh.ch/browser/cps_2.RabMau.EnSuDe",
+  "traducao_pt": "«Pela boca de duas ou três testemunhas perecerá aquele que for morto.» Por que se diz que morre pela boca de duas ou três testemunhas o culpado, senão porque o testemunho da Lei, dos Profetas e dos Evangelhos o convence de que é rebelde ao culto divino? Por isso o Salvador diz no Evangelho: «A palavra que vos falei, essa o julgará no último dia.»",
+  "temas": [
+   "duas ou três testemunhas",
+   "o culpado julgado pela Escritura"
+  ],
+  "resumo": "Rábano vê nas duas ou três testemunhas a Lei, os Profetas e os Evangelhos, cuja palavra julgará o rebelde no último dia.",
+  "relevancia": 2,
+  "original": "«In ore duorum vel trium testium, peribit, qui interficietur.» Quid est quod in ore duorum vel trium testium perire dicitur, qui noxius est, nisi quia attestationem legis et prophetarum atque evangeliorum esse convincitur, qui divinae culturae indevotus esse reperitur. Unde Salvator in Evangelio ait: «Sermo quem locutus sum vobis, ipse judicabit eum in novissimo die.»",
+  "direitos": "domínio público"
+ },
+ {
+  "autor": "Rábano Mauro",
+  "datas": "c. 780–856",
+  "titulo_autor": "abade de Fulda, arcebispo de Mogúncia",
+  "autor_id": "rabano",
+  "id": "rabano-dt-xvii-sacerdotes-quem-vos-ouve",
+  "obra": "Comentário ao Deuteronômio (Enarratio super Deuteronomium)",
+  "passagem": "I, cap. 16 (sobre Dt 17,8-13)",
+  "edicao": "PL 108, 903A–B",
+  "trecho": "2",
+  "versiculos": [
+   8,
+   9,
+   10,
+   12
+  ],
+  "lingua": "la",
+  "fonte_url": "https://mlat.uzh.ch/browser/cps_2.RabMau.EnSuDe",
+  "traducao_pt": "Com esta sentença o legislador ensina a norma do ministério da Igreja: que os sacerdotes e os pastores das Igrejas de Deus exerçam com reverência os julgamentos eclesiásticos segundo o poder que Deus lhes deu, e discirnam com justiça as causas e os atos de cada um. Recomenda sobretudo que cada um se esforce por julgar não conforme o que lhe agrada, mas conforme os decretos da lei do Senhor, e que não mude a sentença por favor ou por ofensa a alguém, mas em todas as coisas guarde a justiça da lei do Senhor. [...] Morrerá, diz ele, quem não quiser obedecer à ordem do sacerdote: isto é, do sacerdote que, feito sacerdote para sempre segundo a ordem de Melquisedec, constituiu pastores, seus representantes, para governar a Igreja que adquiriu com o seu sangue, a fim de que, enviados em seu lugar, pregassem o Evangelho em todo o mundo. Que autoridade têm, ele próprio o mostra: «Quem vos ouve, ouve a mim; e quem vos despreza, despreza a mim. E quem me despreza, despreza aquele que me enviou.» É justo, pois, que receba a sentença da sua condenação quem não teme desprezar o poder da divindade.",
+  "temas": [
+   "o tribunal do santuário e os pastores da Igreja",
+   "«quem vos ouve, ouve a mim»"
+  ],
+  "resumo": "Rábano lê o tribunal supremo como figura dos pastores da Igreja, que julgam segundo a lei do Senhor e a quem Cristo deu a sua autoridade.",
+  "relevancia": 2,
+  "original": "Hac sententia legislator ritum docet ecclesiastici ministerii, ut sacerdotes et praesules Ecclesiarum Dei, judicia ecclesiastica secundum potestatem sibi datam a Deo reverenter agant justeque discernant causas et actus singulorum. Hoc maxime commendat, ut ipsa judicia non secundum sua libera quisque, sed secundum legis Domini agere studeat decreta; nec ob gratiam sive injuriam cujuslibet suscipiendo personam mutet sententiam, sed in omnibus rebus legis Domini observet justitiam. [...] Morietur, inquit, homo, qui obedire noluerit sacerdotis imperio: ipsius videlicet sacerdotis imperio, qui secundum ordinem Melchisedech sacerdos factus in aeternum, pastores, hoc est, vicarios suos constituit regere Ecclesiam quam acquisivit sanguine suo, ut pro ipso legatione functi Evangelium in toto orbe praedicarent. Qui quantae auctoritatis sint ipse demonstrat dicens: «Qui vos audit, me audit; et qui vos spernit, me spernit. Qui autem me spernit, spernit eum qui me misit.» Dignum est ergo, ut suae damnationis accipiat sententiam, qui non metuit contemnere Divinitatis potentiam.",
+  "direitos": "domínio público"
+ },
+ {
+  "autor": "São Bruno de Segni",
+  "datas": "c. 1045–1123",
+  "titulo_autor": "bispo de Segni e abade de Montecassino",
+  "autor_id": "bruno-de-segni",
+  "id": "bruno-segni-dt17-reis-nao-multiplicar-equos",
+  "obra": "Exposição sobre o Pentateuco (Expositio in Pentateuchum), «Sobre o Deuteronômio»",
+  "passagem": "sobre Dt 17,14-20",
+  "edicao": "PL 164, 510–511",
+  "trecho": "3",
+  "versiculos": [
+   16,
+   17,
+   18,
+   20
+  ],
+  "lingua": "la",
+  "fonte_url": "https://mlat.uzh.ch/browser/cps_2.BruAst.ExInPe",
+  "traducao_pt": "Oxalá os nossos reis entendam este capítulo e, entendendo-o, o guardem, e não causem tão grandes males à Igreja de Deus. [...] Aquele, pois, que for constituído rei não multiplique para si os cavalos, para não correr à guerra com o seu soberbo aparato e não esmagar o povo humilde. [...] À mesa, proíbem-se as quantidades de ouro e de prata, porque com elas facilmente se cai no desprezo de Deus e se é elevado à soberba. E manda-se que ele escreva para si e observe este livro, que anda a meio caminho entre o novo e o velho, a fim de poder, segundo o Evangelho, tirar do seu tesouro coisas novas e velhas. [...] Não se desvia nem para a direita nem para a esquerda quem não se afasta da verdade e do caminho reto.",
+  "temas": [
+   "a lei do rei",
+   "o rei e o orgulho do poder"
+  ],
+  "resumo": "Bruno lê a lei do rei como advertência aos governantes: sem aparato soberbo, sem riqueza que leve ao desprezo de Deus, fiéis à Lei, sem desvio da verdade.",
+  "relevancia": 2,
+  "original": "Utinam hoc capitulum reges nostri intelligant, intellectumque custodiant, neque tantis malis Ecclesiam Dei afficiant. [...] Qui ergo rex constitutus fuerit, non multiplicet sibi equos, quorum superbo apparatu in bellum ruat, humilemque populum prosternat. [...] In mensa vero pondera auri et argenti prohibentur, quoniam his facillime in contemptum Dei, et in superbiam elevatur. Hunc autem librum, qui inter nova et vetera medius discurrit, scribere sibi, et observare praecipitur, ut secundum Evangelium de thesauro suo nova, et vetera proferre possit. [...] Ille vero nec ad dexteram, nec ad sinistram declinat, qui a veritate, et a recto itinere non recedit.",
+  "direitos": "domínio público"
+ },
+ {
+  "autor": "São Tomás de Aquino",
+  "datas": "1225–1274",
+  "titulo_autor": "dominicano, Doutor da Igreja",
+  "autor_id": "tomas-de-aquino",
+  "id": "tomas-sth-i-ii-105-1-ad2-rei-limites",
+  "obra": "Suma Teológica (Summa Theologiae)",
+  "passagem": "I-II, q. 105, a. 1, resposta ao 2º (sobre Dt 17,14-20)",
+  "edicao": "Ed. Leonina; Corpus Thomisticum",
+  "trecho": "3",
+  "versiculos": [
+   14,
+   15,
+   16,
+   17,
+   18,
+   19,
+   20
+  ],
+  "lingua": "la",
+  "fonte_url": "https://www.corpusthomisticum.org/sth2098.html",
+  "traducao_pt": "Desde o princípio, porém, a lei estabeleceu normas para o rei a ser instituído. Primeiro, o modo de escolhê-lo: determinou duas coisas, a saber, que na eleição esperassem o juízo do Senhor e que não fizessem rei um homem de outra nação, porque tais reis costumam ter pouca afeição pelo povo que governam e, por conseguinte, não se importam com ele. Em segundo lugar, ordenou como os reis instituídos deviam portar-se quanto a si mesmos: que não multiplicassem carros e cavalos, nem mulheres, nem riquezas imensas, porque pela cobiça dessas coisas os príncipes descambam para a tirania e abandonam a justiça. Estabeleceu também como se haviam de portar diante de Deus: que lessem e meditassem sempre a lei de Deus e vivessem sempre no temor e na obediência a Deus. Estabeleceu ainda como se haviam de portar com os súditos: que não os desprezassem com soberba nem os oprimissem, nem se desviassem da justiça.",
+  "temas": [
+   "a lei do rei",
+   "o rei e o orgulho do poder"
+  ],
+  "resumo": "Tomás resume a lei do rei em quatro regras: escolher quem Deus indica e do próprio povo; não acumular cavalos, mulheres e riquezas; ler a lei de Deus; não oprimir os súditos.",
+  "relevancia": 3,
+  "original": "Instituit tamen a principio circa regem instituendum, primo quidem, modum eligendi. In quo duo determinavit, ut scilicet in eius electione expectarent iudicium domini; et ut non facerent regem alterius gentis, quia tales reges solent parum affici ad gentem cui praeficiuntur, et per consequens non curare de eis. Secundo, ordinavit circa reges institutos qualiter deberent se habere quantum ad seipsos, ut scilicet non multiplicarent currus et equos, neque uxores, neque etiam immensas divitias; quia ex cupiditate horum principes ad tyrannidem declinant, et iustitiam derelinquunt. Instituit etiam qualiter se deberent habere ad Deum, ut scilicet semper legerent et cogitarent de lege Dei, et semper essent in Dei timore et obedientia. Instituit etiam qualiter se haberent ad subditos suos, ut scilicet non superbe eos contemnerent, aut opprimerent, neque etiam a iustitia declinarent.",
+  "direitos": "domínio público"
+ },
+ {
+  "autor": "São Tomás de Aquino",
+  "datas": "1225–1274",
+  "titulo_autor": "dominicano, Doutor da Igreja",
+  "autor_id": "tomas-de-aquino",
+  "id": "tomas-sth-ii-ii-70-2-duas-ou-tres-testemunhas",
+  "obra": "Suma Teológica (Summa Theologiae)",
+  "passagem": "II-II, q. 70, a. 2 (sobre Dt 17,6 e 19,15)",
+  "edicao": "Ed. Leonina; Corpus Thomisticum",
+  "trecho": "1",
+  "versiculos": [
+   6
+  ],
+  "lingua": "la",
+  "fonte_url": "https://www.corpusthomisticum.org/sth3061.html",
+  "traducao_pt": "Deuteronômio 17: «Pela boca de duas ou três testemunhas perecerá aquele que for morto»; e mais adiante, no cap. 19: «Pela boca de duas ou três testemunhas estará firme toda palavra.» [...] É provável que a palavra de muitos contenha mais verdade que a de um só. Por isso, como o réu que nega é um só, e várias testemunhas afirmam o mesmo que o acusador, estabeleceu-se com razão, por direito divino e humano, que se atenda ao que as testemunhas dizem. [...] E Agostinho, sobre aquele passo de João 8, «o testemunho de dois homens é verdadeiro», diz que nisso a Trindade foi recomendada em mistério, porque nela está a firmeza perpétua da verdade.",
+  "temas": [
+   "duas ou três testemunhas",
+   "a certeza possível nos julgamentos"
+  ],
+  "resumo": "Tomás explica que nos atos humanos basta a certeza provável, e que duas ou três testemunhas bastam por ser a multidão que dá firmeza ao testemunho.",
+  "relevancia": 3,
+  "original": "Deut. XVII, in ore duorum vel trium testium peribit qui interficietur; et infra, XIX, in ore duorum vel trium testium stabit omne verbum. [...] Est autem probabile quod magis veritatem contineat dictum multorum quam dictum unius. Et ideo, cum reus sit unus qui negat, sed multi testes asserunt idem cum actore, rationabiliter institutum est, iure divino et humano, quod dicto testium stetur. Omnis autem multitudo in tribus comprehenditur, scilicet principio, medio et fine, unde secundum philosophum, in I de coelo, omne et totum in tribus ponimus. Ternarius quidem constituitur asserentium, cum duo testes conveniunt cum actore. Et ideo requiritur binarius testium, vel, ad maiorem certitudinem, ut sit ternarius, qui est multitudo perfecta, in ipsis testibus. Unde et Eccle. IV dicitur, funiculus triplex difficile rumpitur. Augustinus autem, super illud Ioan. VIII, duorum hominum testimonium verum est, dicit quod in hoc est Trinitas secundum mysterium commendata, in qua est perpetua firmitas veritatis.",
+  "direitos": "domínio público"
+ },
+ {
+  "autor": "São Tomás de Aquino",
+  "datas": "1225–1274",
+  "titulo_autor": "dominicano, Doutor da Igreja",
+  "autor_id": "tomas-de-aquino",
+  "id": "tomas-sth-i-ii-105-2-ad7-tribunal-supremo",
+  "obra": "Suma Teológica (Summa Theologiae)",
+  "passagem": "I-II, q. 105, a. 2, resposta ao 7º (sobre Dt 17,8-13)",
+  "edicao": "Ed. Leonina; Corpus Thomisticum",
+  "trecho": "2",
+  "versiculos": [
+   8,
+   9,
+   10,
+   11
+  ],
+  "lingua": "la",
+  "fonte_url": "https://www.corpusthomisticum.org/sth2098.html",
+  "traducao_pt": "De outro modo, algo pode ser duvidoso até para os peritos. Para tirar essa dúvida, a lei determinou que todos recorressem ao lugar principal escolhido por Deus, no qual estivesse o sumo sacerdote, que decidia as dúvidas sobre as cerimônias do culto divino, e o juiz supremo do povo, que decidia o que toca aos julgamentos dos homens, como ainda hoje, por apelação ou por consulta, as causas são levadas dos juízes inferiores aos superiores. Por isso se diz em Deuteronômio 17: «Se te parecer difícil e duvidoso um julgamento, sobe ao lugar que o Senhor escolher e vai aos sacerdotes do sangue de Levi e ao juiz que houver naquele tempo.» Esses julgamentos duvidosos, porém, não surgiam com frequência; por isso o povo não era onerado.",
+  "temas": [
+   "o tribunal supremo",
+   "os casos difíceis"
+  ],
+  "resumo": "Tomás vê no tribunal do santuário o recurso para as dúvidas que os próprios peritos não resolvem, semelhante à apelação a um juiz superior.",
+  "relevancia": 2,
+  "original": "Alio modo contingit aliquid esse dubium etiam apud peritos. Et ideo ad hoc dubium tollendum, constituit lex ut omnes recurrerent ad locum principalem a Deo electum, in quo et summus sacerdos esset, qui determinaret dubia circa caeremonias divini cultus; et summus iudex populi, qui determinaret quae pertinent ad iudicia hominum, sicut etiam nunc per appellationem, vel per consultationem, causae ab inferioribus iudicibus ad superiores deferuntur. Unde dicitur Deut. XVII, si difficile et ambiguum apud te iudicium perspexeris, et iudicum intra portas tuas videris verba variari; ascende ad locum quem elegerit dominus, veniesque ad sacerdotes levitici generis, et ad iudicem qui fuerit illo tempore. Huiusmodi autem ambigua iudicia non frequenter emergebant. Unde ex hoc populus non gravabatur.",
+  "direitos": "domínio público"
+ },
+ {
+  "autor": "Teodoreto de Ciro",
+  "datas": "c. 393–c. 460",
+  "titulo_autor": "bispo de Ciro, na Síria; escritor eclesiástico",
+  "autor_id": "teodoreto",
+  "id": "teodoreto-qdt-17-juiz-nao-julgue-por-suspeita",
+  "obra": "Perguntas sobre o Octateuco (Quaestiones in Octateuchum)",
+  "passagem": "Perguntas sobre o Deuteronômio, XVII (sobre Dt 17,8-13)",
+  "edicao": "ed. N. Fernández Marcos e A. Sáenz-Badillos (Madri, 1979); PG 80",
+  "trecho": "2",
+  "versiculos": [
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "lingua": "grc",
+  "fonte_url": "https://khazarzar.skeptik.net/pgm/PG_Migne/Theodoretus%20of%20Cyrrhus_PG%2080-84/Quaestiones%20in%20Octateuchum.pdf",
+  "original": "Τί ἐστιν, «ἐὰν ἀδυνατήσῃ ἀπὸ σοῦ ῥῆμα ἐν κρίσει ἀνὰ μέσον αἵματος, καὶ ἀνὰ μέσον κρίσεως, καὶ ἀνὰ μέσον ἁφῆς», καὶ τὰ ἑξῆς; Ἐὰν φησί, μὴ δυνηθῇς εὑρεῖν τἀληθὲς δικάζων, ἢ τὸ σῶμα τὸ λεπρὸν δοκιμάζων· τοῦτο γὰρ ἁφὴν καλεῖ· μηδὲ διαγνῷς εἴτε ἀλφός ἐστιν, εἴτε λέπρα· μήτε κρίνῃς, μήτε δικάσῃς ἐξ ὑποψίας, ἀλλ᾽ εἰς τὸν θεῖον νεὼν ἄπιθι καὶ δίδαξον αὐτὰ τὸν ἱερέα, ἢ τὸν κατ᾽ ἐκεῖνον τὸν καιρὸν τὴν δημαγωγίαν πεπιστευμένον, καὶ τὸ κελευόμενον πλήρωσον. εἰ δή τις τύφῳ χρώμενος τοῖς ὑπὸ τοῦ ἀρχιερέως, ἢ τοῦ κριτοῦ λεγομένοις ἀντείποι, θανάτῳ ζημιούσθω, καὶ γινέσθω τοῖς ἄλλοις ὠφελείας ἀρχέτυπον.",
+  "traducao_pt": "Que significa: «Se te faltar a palavra no julgamento entre sangue e sangue, entre causa e causa, entre toque e toque», e o que segue? Se não conseguires, diz ele, descobrir a verdade ao julgar, ou ao examinar o corpo leproso (pois é isso que ele chama «toque»), nem distinguir se é vitiligo ou lepra, não julgues nem sentencies por suspeita: vai ao templo de Deus, expõe o caso ao sacerdote, ou a quem naquele tempo tenha a chefia do povo, e cumpre o que for ordenado. Se alguém, movido pelo orgulho, contradisser o que o sumo sacerdote ou o juiz declarou, seja punido com a morte e se torne para os outros um exemplo proveitoso.",
+  "temas": [
+   "o tribunal supremo",
+   "os casos difíceis"
+  ],
+  "resumo": "Teodoreto entende que o juiz sem certeza não deve julgar por suspeita, mas recorrer ao sacerdote, e que a desobediência soberba ao veredito é punida como exemplo.",
+  "relevancia": 2,
+  "direitos": "domínio público"
+ },
+ {
+  "autor": "Teodoreto de Ciro",
+  "datas": "c. 393–c. 460",
+  "titulo_autor": "bispo de Ciro, na Síria; escritor eclesiástico",
+  "autor_id": "teodoreto",
+  "id": "teodoreto-qdt-18-cavalos-confiar-so-em-deus",
+  "obra": "Perguntas sobre o Octateuco (Quaestiones in Octateuchum)",
+  "passagem": "Perguntas sobre o Deuteronômio, XVIII (sobre Dt 17,16)",
+  "edicao": "ed. N. Fernández Marcos e A. Sáenz-Badillos (Madri, 1979); PG 80",
+  "trecho": "3",
+  "versiculos": [
+   16
+  ],
+  "lingua": "grc",
+  "fonte_url": "https://khazarzar.skeptik.net/pgm/PG_Migne/Theodoretus%20of%20Cyrrhus_PG%2080-84/Quaestiones%20in%20Octateuchum.pdf",
+  "original": "Τί δήποτε κελεύει τὸν ἄρχοντα ἵππους μὴ πληθύνειν; Βούλεται αὐτοὺς τῷ Θεῷ μόνῳ θαρρεῖν. διά τοι τοῦτο καὶ Δαβὶδ ὁ μακάριος ἐβόα· «οὐ σώζεται βασιλεὺς διὰ πολλὴν δύναμιν, καὶ γίγας οὐ σωθήσεται ἐν πλήθει ἰσχύος αὐτοῦ. ψευδὴς ἵππος εἰς σωτηρίαν, ἐν δὲ πλήθει δυνάμεως αὐτοῦ οὐ σωθήσεται».",
+  "traducao_pt": "Por que ele manda que o governante não multiplique cavalos? Quer que confiem somente em Deus. Por isso também o bem-aventurado Davi clamava: «O rei não se salva pela grande força, e o gigante não será salvo pela abundância do seu vigor. Falso é o cavalo para a salvação, e na abundância do seu poder não será salvo.»",
+  "temas": [
+   "o rei e o orgulho do poder",
+   "confiar em Deus e não nos cavalos"
+  ],
+  "resumo": "Teodoreto explica que a lei proíbe o rei de multiplicar cavalos para que confie só em Deus, como canta Davi: o cavalo é falso para a salvação.",
+  "relevancia": 2,
+  "direitos": "domínio público"
+ },
+ {
+  "autor": "São Tomás de Aquino",
+  "datas": "1225–1274",
+  "titulo_autor": "dominicano, Doutor da Igreja",
+  "autor_id": "tomas-de-aquino",
+  "id": "tomas-de-regno-i-16-rei-le-a-lei-de-deus",
+  "obra": "Sobre o governo dos príncipes (De regno ad regem Cypri)",
+  "passagem": "I, cap. 16 (sobre Dt 17,18-19)",
+  "edicao": "Ed. Leonina; Corpus Thomisticum",
+  "trecho": "3",
+  "versiculos": [
+   18,
+   19
+  ],
+  "lingua": "la",
+  "fonte_url": "https://www.corpusthomisticum.org/orp.html",
+  "traducao_pt": "Qual é o caminho da verdadeira bem-aventurança, e quais os seus obstáculos, conhece-se pela lei divina, cuja doutrina pertence ao ofício dos sacerdotes, segundo o que diz Malaquias: «Os lábios do sacerdote guardarão a ciência, e da sua boca se buscará a lei.» Por isso o Senhor ordena no Deuteronômio: «Depois que o rei se sentar no trono do seu reino, escreverá para si num livro o Deuteronômio desta lei, recebendo o exemplar do sacerdote da tribo de Levi; e o terá consigo e o lerá todos os dias da sua vida, para aprender a temer o Senhor seu Deus e a guardar as suas palavras e cerimônias, que estão prescritas na lei.» Instruído, pois, pela lei divina, deve aplicar-se sobretudo ao seguinte: como a multidão que lhe está sujeita há de viver bem.",
+  "temas": [
+   "o rei lê a lei de Deus",
+   "a lei do rei"
+  ],
+  "resumo": "Tomás mostra por que o rei deve copiar e ler a lei: só ela ensina o caminho da bem-aventurança, e instruído por ela ele governa para que o povo viva bem.",
+  "relevancia": 3,
+  "original": "Quae autem sit ad veram beatitudinem via, et quae sint impedimenta eius, ex lege divina cognoscitur, cuius doctrina pertinet ad sacerdotum officium, secundum illud Mal.: labia sacerdotis custodient scientiam, et legem requirent de ore eius. Et ideo in Deut. dominus praecipit: postquam sederit rex in solio regni sui, describet sibi Deuteronomium legis huius in volumine, accipiens exempla a sacerdote leviticae tribus, et habebit secum, legetque illud omnibus diebus vitae suae, ut discat timere dominum Deum suum et custodire verba et caeremonias eius, quae in lege praecepta sunt. Per legem igitur divinam edoctus, ad hoc praecipuum studium debet intendere, qualiter multitudo sibi subdita bene vivat",
+  "direitos": "domínio público"
+ },
+ {
+  "autor": "Cornélio a Lápide",
+  "datas": "1567–1637",
+  "titulo_autor": "jesuíta flamengo, comentador de toda a Bíblia",
+  "autor_id": "lapide",
+  "id": "lapide-dt-17-16-platao-e-o-cavalo-da-soberba",
+  "obra": "Comentário a toda a Sagrada Escritura (Commentaria in Scripturam Sacram), Deuteronômio",
+  "passagem": "cap. 17, v. 16 (ed. Vivès, t. II, p. 461)",
+  "edicao": "ed. Vivès, Paris, 1867, t. II, p. 461 (conferido na imagem)",
+  "trecho": "3",
+  "versiculos": [
+   16
+  ],
+  "lingua": "la",
+  "fonte_url": "https://archive.org/details/commentariainscr02lapi_0/page/n492/mode/1up",
+  "original": "Legimus de Platone, in ejus apophthegmatibus, quod cum aliquando equum conscendisset, mox descenderit, dicens vereri se μὴ ἱπποτυφίᾳ λήφθῇ, id est, ne equestri fastu corriperetur. Superbum enim animal est equus, et equitare quiddam habet altum et magnificum. Hac ergo fastus causa noluit Deus regem sui populi multiplicare equos; sed dicere cum Davide, Psalm. XIX, 8: «Hi in curribus, et hi in equis: nos autem in nomine Domini Dei nostri invocabimus.»",
+  "traducao_pt": "Lemos nos ditos de Platão que, tendo uma vez montado a cavalo, logo desceu, dizendo temer ser tomado de «hipotifia», isto é, ser dominado pela vaidade de cavaleiro. De fato, o cavalo é um animal soberbo, e andar a cavalo tem algo de altivo e magnífico. Por causa dessa vaidade, portanto, Deus não quis que o rei do seu povo multiplicasse cavalos, mas que dissesse com Davi, no Salmo 19,8: «Uns confiam em carros, outros em cavalos; nós, porém, invocaremos o nome do Senhor, nosso Deus.»",
+  "temas": [
+   "o rei e o orgulho do poder",
+   "confiar em Deus e não nos cavalos"
+  ],
+  "resumo": "Lápide conta que Platão desceu do cavalo para não se envaidecer e explica que a lei proíbe ao rei multiplicar cavalos por causa da soberba que eles dão.",
+  "relevancia": 2,
+  "direitos": "domínio público"
+ },
+ {
+  "autor": "Cornélio a Lápide",
+  "datas": "1567–1637",
+  "titulo_autor": "jesuíta flamengo, comentador de toda a Bíblia",
+  "autor_id": "lapide",
+  "id": "lapide-dt-17-14-20-reis-felizes-agostinho",
+  "obra": "Comentário a toda a Sagrada Escritura (Commentaria in Scripturam Sacram), Deuteronômio",
+  "passagem": "cap. 17, v. 16 (cita Agostinho, Cidade de Deus V, 24, pelo Panormitano; ed. Vivès, t. II, p. 461)",
+  "edicao": "ed. Vivès, Paris, 1867, t. II, p. 461 (conferido na imagem)",
+  "trecho": "3",
+  "versiculos": [
+   14,
+   20
+  ],
+  "lingua": "la",
+  "fonte_url": "https://archive.org/details/commentariainscr02lapi_0/page/n492/mode/1up",
+  "original": "Optime eam S. Augustinus hisce verbis expressit: «Reges felices erunt et regna, si primo, juste imperent; secundo, si inter linguas sublimiter honorantium, et obsequia nimis humiliter salutantium non extollantur, sed se homines esse meminerint; tertio, si suam potestatem ad Dei cultum maxime dilatandum, majestatis ejus famulam faciant; quarto, si Deum timent, diligunt et colunt; [...] decimo tertio, si pro suis peccatis, humilitatis, et misericordiae, et orationis sacrificium, Deo suo vero immolare non negligunt. Tales Christianos Reges et Imperatores dicemus esse felices, item et eorum regna.» Ita Panormitanus in Vita Alphonsi.",
+  "traducao_pt": "Santo Agostinho a exprimiu otimamente com estas palavras: «Os reis e os reinos serão felizes: primeiro, se governarem com justiça; segundo, se, entre as línguas de quem os honra com grandeza e os cumprimentos de quem os saúda com excessiva humildade, não se ensoberbecerem, mas se lembrarem de que são homens; terceiro, se fizerem do seu poder servo da majestade de Deus, para dilatar o seu culto o mais possível; quarto, se temerem, amarem e cultuarem a Deus; [...] décimo terceiro, se, pelos seus pecados, não deixarem de imolar ao seu Deus verdadeiro o sacrifício da humildade, da misericórdia e da oração. Diremos que tais reis e imperadores cristãos são felizes, e também os seus reinos.» Assim diz o Panormita na *Vida de Afonso*.",
+  "temas": [
+   "a lei do rei",
+   "o rei e o orgulho do poder"
+  ],
+  "resumo": "Lápide cita Agostinho: o rei é feliz se governa com justiça, não se ensoberbece com os louvores, serve ao culto de Deus e lhe oferece o sacrifício da humildade.",
+  "relevancia": 2,
+  "direitos": "domínio público"
+ }
+]

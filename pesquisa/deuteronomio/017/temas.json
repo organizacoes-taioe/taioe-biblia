@@ -1,0 +1,73 @@
+{
+ "1": [
+  {
+   "id": "duas-testemunhas",
+   "titulo": "«Duas ou três testemunhas»: por que uma só não basta",
+   "versiculos": [
+    6
+   ],
+   "itens": [
+    "tomas-sth-ii-ii-70-2-duas-ou-tres-testemunhas",
+    "rabano-dt-xvii-duas-testemunhas-escrituras"
+   ]
+  }
+ ],
+ "2": [
+  {
+   "id": "causas-dificeis",
+   "titulo": "As causas difíceis e a autoridade dos que julgam",
+   "versiculos": [
+    8,
+    9,
+    10,
+    11,
+    12
+   ],
+   "itens": [
+    "tomas-sth-i-ii-105-2-ad7-tribunal-supremo",
+    "teodoreto-qdt-17-juiz-nao-julgue-por-suspeita",
+    "rabano-dt-xvii-sacerdotes-quem-vos-ouve"
+   ]
+  }
+ ],
+ "3": [
+  {
+   "id": "o-rei",
+   "titulo": "O rei permitido por Deus e os limites do seu poder",
+   "versiculos": [
+    14,
+    15,
+    16,
+    17
+   ],
+   "itens": [
+    "agostinho-qh5-26-rei-pedido-permitido",
+    "tomas-sth-i-ii-105-1-ad2-rei-limites"
+   ]
+  },
+  {
+   "id": "cavalos",
+   "titulo": "Não multiplicar cavalos: a soberba e a confiança só em Deus",
+   "versiculos": [
+    16
+   ],
+   "itens": [
+    "teodoreto-qdt-18-cavalos-confiar-so-em-deus",
+    "lapide-dt-17-16-platao-e-o-cavalo-da-soberba"
+   ]
+  },
+  {
+   "id": "rei-le-a-lei",
+   "titulo": "O rei que copia a lei e a lê todos os dias",
+   "versiculos": [
+    18,
+    19,
+    20
+   ],
+   "itens": [
+    "tomas-de-regno-i-16-rei-le-a-lei-de-deus",
+    "bruno-segni-dt17-reis-nao-multiplicar-equos"
+   ]
+  }
+ ]
+}

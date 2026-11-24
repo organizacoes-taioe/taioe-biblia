@@ -1,0 +1,63 @@
+{
+ "1": [
+  {
+   "id": "refugio",
+   "titulo": "As cidades de refúgio e o machado que escapa da mão",
+   "versiculos": [
+    4,
+    5,
+    6
+   ],
+   "itens": [
+    "tomas-sth-i-ii-105-2-ad10-exilio-ate-morte-sumo-sacerdote",
+    "bruno-segni-dt19-5-machado-e-a-palavra-de-deus"
+   ]
+  }
+ ],
+ "2": [
+  {
+   "id": "marco",
+   "titulo": "Não mudar o marco: a fé recebida dos antigos",
+   "versiculos": [
+    14
+   ],
+   "itens": [
+    "bruno-segni-dt19-14-marco-da-fe"
+   ]
+  },
+  {
+   "id": "testemunhas",
+   "titulo": "Duas ou três testemunhas: a Trindade e as Escrituras",
+   "versiculos": [
+    15
+   ],
+   "itens": [
+    "agostinho-cfaust-16-13-testemunhas-trindade",
+    "isidoro-qvt-dt13-testemunhas-escrituras"
+   ]
+  },
+  {
+   "id": "falsa-testemunha",
+   "titulo": "A falsa testemunha sofre o que queria fazer ao irmão",
+   "versiculos": [
+    18,
+    19,
+    20
+   ],
+   "itens": [
+    "lapide-dt-19-18-19-falso-testemunho-susana",
+    "tomas-sth-ii-ii-68-4-falso-acusador-taliao"
+   ]
+  },
+  {
+   "id": "olho-por-olho",
+   "titulo": "«Olho por olho»: não pavio, mas limite do furor",
+   "versiculos": [
+    21
+   ],
+   "itens": [
+    "agostinho-cfaust-19-25-taliao-limite-do-furor"
+   ]
+  }
+ ]
+}
