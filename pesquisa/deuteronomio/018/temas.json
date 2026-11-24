@@ -1,0 +1,108 @@
+{
+ "1": [
+  {
+   "id": "senhor-heranca",
+   "titulo": "«O Senhor é a sua herança»: os ministros do altar não buscam outra",
+   "versiculos": [
+    1,
+    2,
+    3
+   ],
+   "itens": [
+    "rabano-dt-18-1-ministros-do-altar-o-senhor-e-heranca",
+    "bruno-segni-dt-18-1-4-o-senhor-herdado-ombro-estomago"
+   ]
+  }
+ ],
+ "2": [
+  {
+   "id": "adivinhar",
+   "titulo": "Adivinhar é tomar para si o que só a Deus pertence",
+   "versiculos": [
+    10,
+    11
+   ],
+   "itens": [
+    "tomas-st-2-2-q95-a1-adivinhar-e-tomar-o-que-e-de-deus",
+    "maximo-turim-hom-16-auspicios-de-ano-novo-dt18",
+    "catecismo-2115-2116-adivinhacao-rejeitar-e-confiar"
+   ]
+  },
+  {
+   "id": "verdade-em-cristo",
+   "titulo": "Ainda quando acerta, a adivinhação engana; a verdade se busca em Cristo",
+   "versiculos": [
+    10,
+    11,
+    14
+   ],
+   "itens": [
+    "tomas-st-2-2-q95-a4-invocar-os-demonios-pacto-e-engano",
+    "rabano-magicis-artibus-cristo-unica-fonte-de-verdade"
+   ]
+  }
+ ],
+ "3": [
+  {
+   "id": "profeta-como-moises",
+   "titulo": "«Um profeta como eu»: Moisés anuncia Cristo",
+   "versiculos": [
+    15,
+    18
+   ],
+   "itens": [
+    "rabano-dt-18-15-19-o-profeta-como-moises-e-cristo",
+    "lapide-dt-18-15-cristo-semelhante-a-moises-cinco-modos",
+    "francisco-angelus-2021-01-31-profeta-definitivo"
+   ]
+  },
+  {
+   "id": "senhor-dos-profetas",
+   "titulo": "Semelhante a Moisés e, ao mesmo tempo, Senhor dos profetas",
+   "versiculos": [
+    15,
+    18
+   ],
+   "itens": [
+    "agostinho-tr-joao-24-7-senhor-dos-profetas-e-profeta",
+    "agostinho-contra-faustum-16-15-semelhante-a-moises"
+   ]
+  },
+  {
+   "id": "pediram-mediador",
+   "titulo": "No Horeb, o medo do povo já era um pedido de Mediador",
+   "versiculos": [
+    16,
+    17
+   ],
+   "itens": [
+    "ruperto-in-dt-1-4-o-profeta-mediador-nuvem-da-carne"
+   ]
+  },
+  {
+   "id": "a-ele-ouvireis",
+   "titulo": "«A ele ouvireis»: o que acontece a quem não ouve esse profeta",
+   "versiculos": [
+    18,
+    19
+   ],
+   "itens": [
+    "beda-retractatio-acta-3-22-o-profeta-como-moises",
+    "cipriano-testimonia-2-18-outro-profeta-como-moises"
+   ]
+  }
+ ],
+ "4": [
+  {
+   "id": "sinal-do-profeta",
+   "titulo": "Como reconhecer o profeta: as obras dão testemunho",
+   "versiculos": [
+    21,
+    22
+   ],
+   "itens": [
+    "ruperto-in-dt-1-4-sinal-do-profeta-as-obras-de-cristo"
+   ]
+  }
+ ]
+}
