@@ -1,0 +1,73 @@
+{
+ "1": [
+  {
+   "id": "maos-lavadas",
+   "titulo": "As mãos lavadas: quem foi lavado em Cristo é mudado",
+   "versiculos": [
+    6,
+    7,
+    8
+   ],
+   "itens": [
+    "ruperto-trin-v-7-maos-lavadas-novilha-batizados"
+   ]
+  }
+ ],
+ "2": [
+  {
+   "id": "cativa",
+   "titulo": "A mulher cativa: o tempo de luto e o que se deixa para trás",
+   "versiculos": [
+    11,
+    12,
+    13,
+    14
+   ],
+   "itens": [
+    "teodoreto-qdt-xix-cativa-luto-liberdade",
+    "tomas-sth-i-ii-105-4-ad6-cativa-estrangeira",
+    "jeronimo-ep-70-2-mulher-cativa-sabedoria-profana"
+   ]
+  }
+ ],
+ "3": [
+  {
+   "id": "primogenito",
+   "titulo": "O direito do primogênito e o caso de Rúben e José",
+   "versiculos": [
+    15,
+    16,
+    17
+   ],
+   "itens": [
+    "ruperto-trin-v-10-primogenito-ruben-jose"
+   ]
+  }
+ ],
+ "5": [
+  {
+   "id": "maldicao-por-nos",
+   "titulo": "«Maldição de Deus»: Cristo se fez maldição por nós",
+   "versiculos": [
+    23
+   ],
+   "itens": [
+    "ambrosio-de-fide-ii-93-94-maldicao-nossa-carne",
+    "agostinho-expos-gl-22-maldito-nao-e-judas",
+    "agostinho-cf-xiv-morte-maldita-peccatum-cristo"
+   ]
+  },
+  {
+   "id": "morte-verdadeira",
+   "titulo": "Uma morte verdadeira, sem nenhuma culpa",
+   "versiculos": [
+    22,
+    23
+   ],
+   "itens": [
+    "agostinho-enar-ps-37-26-maldito-vera-morte",
+    "bruno-ex-pent-dt-21-maldito-por-deus-paulo-omite"
+   ]
+  }
+ ]
+}
