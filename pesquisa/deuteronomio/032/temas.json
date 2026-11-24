@@ -1,0 +1,85 @@
+{
+ "1": [
+  {
+   "id": "ouvi-ceus",
+   "titulo": "«Ouvi, ó céus»: o Deus perfeito que é Pai",
+   "versiculos": [
+    1,
+    2,
+    3,
+    4,
+    6
+   ],
+   "itens": [
+    "bruno-segni-pent-dt32-ouvi-ceus-obras-perfeitas",
+    "catecismo-238-deus-pai-do-mundo-e-da-alianca"
+   ]
+  }
+ ],
+ "2": [
+  {
+   "id": "menina-dos-olhos",
+   "titulo": "A menina dos olhos e a águia que leva os filhotes",
+   "versiculos": [
+    10,
+    11
+   ],
+   "itens": [
+    "ruperto-in-dt-i-7-pupila-do-olho-e-aguia",
+    "rabano-in-dt-iv-2-a-aguia-e-cristo"
+   ]
+  }
+ ],
+ "3": [
+  {
+   "id": "engordou",
+   "titulo": "«Engordou e deu coices»: a fartura sem disciplina",
+   "versiculos": [
+    15
+   ],
+   "itens": [
+    "bernardo-ep-152-engordou-e-deu-coices"
+   ]
+  }
+ ],
+ "6": [
+  {
+   "id": "vinganca",
+   "titulo": "«Minha é a vingança»: não vingar a si mesmo",
+   "versiculos": [
+    35
+   ],
+   "itens": [
+    "ambrosio-ps118-s12-a-mim-a-vinganca"
+   ]
+  },
+  {
+   "id": "fere-e-cura",
+   "titulo": "«Eu firo e eu curo»: Deus fere para salvar",
+   "versiculos": [
+    39,
+    40
+   ],
+   "itens": [
+    "gregorio-moralia-vi-25-fere-para-curar",
+    "bruno-segni-pent-dt32-eu-faco-morrer-e-viver"
+   ]
+  }
+ ],
+ "8": [
+  {
+   "id": "moises-nebo",
+   "titulo": "Moisés duvidou, mas não foi condenado",
+   "versiculos": [
+    48,
+    49,
+    50,
+    51,
+    52
+   ],
+   "itens": [
+    "agostinho-serm352-4-moises-duvidou-nao-foi-condenado"
+   ]
+  }
+ ]
+}

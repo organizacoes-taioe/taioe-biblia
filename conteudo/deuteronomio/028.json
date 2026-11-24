@@ -101,5 +101,67 @@
  "notas": [
   {"id": "n01", "v": 69, "texto": "Em muitas Bíblias este versículo é o primeiro do capítulo 29, e os seguintes têm um número a mais.", "origem": "nova: contexto para o leitor"}
  ],
- "comentarios": {}
+ "comentarios": {
+  "1": {
+   "temas": [
+    {
+     "id": "bencaos",
+     "titulo": "As bênçãos da terra e as do espírito",
+     "versiculos": [3, 4, 5, 6],
+     "itens": [
+      {"id": "agostinho-c-adimanto-18-bencaos-carnais-mesmo-deus", "autor": "Santo Agostinho", "sobre": "bispo de Hipona (354–430), Doutor da Igreja", "obra": "Contra Adimanto (Contra Adimantum), XVIII", "passagem": "XVIII, 1 (sobre Dt 28,1-6) (PL 42, 162)", "texto": "Sobre o que está escrito no Deuteronômio: «Se ouvires a voz do Senhor teu Deus, serás bendito no campo, bendito no prado, bendito o fruto do teu ventre e o fruto da tua terra, a cria dos teus animais, o gado dos teus bois e o rebanho das tuas ovelhas; serás bendito ao entrares e ao saíres.» A este capítulo, dizem, opõe-se o que está no Evangelho: «Se alguém quer seguir-me, renuncie a si mesmo, tome a sua cruz e siga-me.» […] Mas esta regra mostra que não há oposição, e já se deve saber: a um povo ainda carnal convinham promessas carnais e temporais, feitas contudo pelo mesmo e único Deus, de quem é toda criatura, a superior e a inferior. […] Que há de admirar, então, que ele dê espiritualmente os bens do seu trono aos que o servem espiritualmente, e dê carnalmente os bens do escabelo dos seus pés aos que o servem carnalmente, sendo o espírito superior e a carne inferior, como as coisas celestes são superiores e as terrestres, inferiores?", "link": "https://mlat.uzh.ch/browser/cps_2.AugHip.ConAdi", "original": "De eo quod in Deuteronomio scriptum est: Si aure audieris vocem Domini Dei tui, benedictus es in agro tuo, benedictus es in prato tuo, benedictus fructus ventris tui, et fructus terrae tuae, et generationes jumentorum tuorum, et armentum boum tuorum, et grex ovium tuarum; benedictus es in introitu tuo et egressu. Huic capitulo illud dicunt in Evangelio esse contrarium: Si quis vult me sequi, abneget semetipsum sibi, et tollat crucem suam, et sequatur me. [...] Sed ex illa regula ostenditur non esse contrarium, qua notum esse jam debet, carnali adhuc populo congruenter carnalia et temporalia praemia fuisse promissa, sed tamen ab uno Deo, cujus est creatura omnis et superior et inferior. [...] Quid ergo mirum si bona throni sui dat spiritualiter sibi servientibus, et bona scabelli pedum suorum dat carnaliter sibi servientibus; cum spiritus superior sit, et caro inferior, sicut superiora sunt coelestia, et inferiora terrestria?"},
+      {"id": "rabano-in-dt-iii-25-cidade-campo-entrar-sair", "autor": "Rábano Mauro", "sobre": "abade de Fulda e arcebispo de Mogúncia (c. 780–856), beato", "obra": "Comentário sobre o Deuteronômio (Enarratio super Deuteronomium)", "passagem": "III, cap. XXV (sobre Dt 28,3-6) (PL 108, 952A–D)", "texto": "«Bendito serás na cidade e bendito serás no campo.» Segundo a história, o sentido é fácil: em troca da obediência, anuncia prosperidade aos judeus, dentro e fora de casa, e promete abundância de frutos e de rebanhos. Segundo a alegoria, ao povo cristão promete, por sua devoção, não tanto uma felicidade passageira quanto uma bem-aventurança perpétua. Será bendito na cidade quem, na santa Igreja, se dedica à contemplação divina; bendito no campo, quem se esforça na prática das boas obras. Por estas duas formas de vida cada fiel será agradável a Deus. […] «Bendito serás ao entrares e ao saíres.» É o que diz o Salvador no Evangelho: «Eu sou a porta. Se alguém entrar por mim, será salvo e encontrará pastagem.» Pois quem entra pela fé receberá o alimento da sabedoria e as pastagens das virtudes, e, ao sair desta vida, receberá a recompensa certa das boas obras. Entra por essa porta quem medita e trata interiormente, segundo a vontade de Deus, alguma coisa pela fé católica; e sai quando, segundo essa mesma fé, prepara um exemplo, praticando também fora, diante dos homens, alguma boa obra para o louvor de Deus.", "link": "https://mlat.uzh.ch/browser/cps_2.RabMau.EnSuDe", "original": "Benedictus tu in civitate, et benedictus in agro. » Juxta historiam facilis est intellectus, ubi Judaeis pro obedientia intus forisque praenuntiat prospera, et fructuum atque animalium spondet abundantiam. Secundum allegoriam autem, populo Christiano propria devotione non tam felicitatem aeternam quam beatitudinem promittit perpetuam. Benedictus erit in civitate qui in Ecclesia sancta vacat divinae contemplationi. Benedictus in agro, qui boni operis laborat exercitio. Per has duas species conversationis unusquisque fidelis gratus erit Deo. [...] « Benedictus eris ingrediens et egrediens. » Hoc est, quod Salvator in Evangelio ait: « Ego sum ostium. Per me, si quis introierit, salvabitur, et pascua inveniet. » Quia hic ad fidem ingrediens sapientiae cibum et pascua accipiet virtutum, et egrediens de praesenti vita, certam mercedem accipiet bonorum actuum. Ingreditur et ille per illud ostium, qui aliquid per fidem catholicam interius juxta voluntatem Dei meditatur et tractat. Egreditur, quando secundum ipsam fidem, etiam foris coram hominibus ad laudem Dei aliqua bene operando, ad exemplum praeparat."}
+     ]
+    }
+   ]
+  },
+  "2": {
+   "temas": [
+    {
+     "id": "emprestar",
+     "titulo": "«Emprestarás a muitas nações»: a palavra que se empresta",
+     "versiculos": [12, 13],
+     "itens": [
+      {"id": "ambrosio-de-tobia-18-62-emprestar-a-palavra", "autor": "Santo Ambrósio", "sobre": "bispo de Milão (c. 340–397), Doutor da Igreja", "obra": "Sobre Tobias (De Tobia), XVIII", "passagem": "XVIII, 62 (sobre Dt 28,12-13) (PL 14, 783D–784A)", "texto": "Diz-se ao povo dos pais: «Se guardares os mandamentos de Deus, serás bendito e emprestarás a palavra a muitas nações.» Que não se fala de dinheiro, mostra o que se segue: «Serás príncipe de muitas nações, mas ninguém dominará sobre ti. O Senhor teu Deus te porá por cabeça e não por cauda, e estarás então por cima e não por baixo, se ouvires a voz do Senhor teu Deus.» E continua: «Se, porém, não ouvires, serás maldito na cidade e maldito no campo.» E mais adiante: «Maldita a descendência do teu ventre.» O que faz alguém bendito não é o dinheiro, mas o conhecimento de Deus e a pregação da palavra: se emprestamos a graça do Senhor, se damos aos necessitados as palavras do Senhor, se guardamos os mandamentos celestes. E, ao contrário, o que faz alguém maldito não é faltar dinheiro para emprestar, mas faltar empenho, faltar a observância dos preceitos celestes: então serás maldito.", "link": "https://mlat.uzh.ch/browser/cps_2.AmbMed.DeTob", "original": "Dicitur populo patrum: Si custodieris mandata Dei, benedictus eris, et fenerabis gentibus verbum. Denique non de pecunia dici significant sequentia: Princeps eris gentibus multis: tibi autem nemo dominabitur. Constituet te Dominus Deus tuus caput, et non in caudam, et eris tunc supra, et non subter, si exaudieris vocem Domini Dei tui. Et sequitur: Si autem non audieris, maledictus tu in civitate, et maledictus in agro. Et infra: Maledicta progenies ventris tui. Non pecunia utique benedictum facit, sed cognitio Dei, praedicatio verbi: si gratiam Domini feneremus, si indigentibus eloquia Domini conferamus, si observemus mandata coelestia. Et contra maledictum non facit, si desit pecunia quae feneretur: sed si desit studium, si desit observatio coelestium statutorum, maledictus eris."}
+     ]
+    }
+   ]
+  },
+  "3": {
+   "temas": [
+    {
+     "id": "maldicoes-profecia",
+     "titulo": "As maldições como profecia, não como desejo de mal",
+     "versiculos": [15],
+     "itens": [
+      {"id": "agostinho-c-fausto-16-22-maldicoes-profeticas", "autor": "Santo Agostinho", "sobre": "bispo de Hipona (354–430), Doutor da Igreja", "obra": "Contra Fausto, o maniqueu (Contra Faustum Manichaeum), XVI", "passagem": "XVI, 22 (sobre as maldições de Dt 28) (PL 42, 329–330)", "texto": "Pois as maldições, quando são ditas por profecia, não nascem do mau desejo de quem roga mal, mas do espírito que prevê e anuncia. As que nascem de mau desejo são proibidas, quando se diz: «Bendizei e não maldigais.» Estas, porém, aparecem muitas vezes nas palavras dos santos, como no apóstolo Paulo: «Alexandre, o ferreiro, causou-me muitos males; o Senhor lhe retribuirá segundo as suas obras.»", "link": "https://mlat.uzh.ch/browser/cps_2.AugHip.CoFaMa", "original": "Maledicta enim, cum ex prophetia dicuntur, non sunt de malo voto imprecantis, sed de praescio spiritu denuntiantis. Nam illa quae de malo voto sunt, prohibentur, cum dicitur, Benedicite, et nolite maledicere. Haec autem saepe inveniuntur in sermone sanctorum, sicut apostolus Paulus, Alexander, inquit, aerarius multa mala mihi ostendit; reddet illi Dominus secundum opera sua"}
+     ]
+    }
+   ]
+  },
+  "4": {
+   "temas": [
+    {
+     "id": "fome-palavra",
+     "titulo": "A fome de ouvir a palavra do Senhor",
+     "versiculos": [20],
+     "itens": [
+      {"id": "rabano-in-dt-iii-25-fome-da-palavra", "autor": "Rábano Mauro", "sobre": "abade de Fulda e arcebispo de Mogúncia (c. 780–856), beato", "obra": "Comentário sobre o Deuteronômio (Enarratio super Deuteronomium)", "passagem": "III, cap. XXV (sobre Dt 28,20) (PL 108, 955B–C)", "texto": "«O Senhor enviará sobre ti a fome, a penúria e a repreensão em todas as obras que fizeres, até que te consuma e te faça perecer depressa, por causa das tuas péssimas invenções, com as quais me abandonaste.» Fala de uma fome que não é de pão, nem de uma sede de água, mas de ouvir a palavra do Senhor, e de uma esterilidade nas virtudes, que os ímpios sofrem pelo mérito da sua perversidade, porque não são dignos de receber a graça divina. Por isso está escrito, falando o Senhor: «Mandarei às minhas nuvens que não derramem chuva sobre eles.»", "link": "https://mlat.uzh.ch/browser/cps_2.RabMau.EnSuDe", "original": "« Mittet Dominus super te famem et esuriem et increpationem in omnia opera tua quae facies, donec conterat te et perdat velociter, propter adinventiones tuas pessimas in quibus reliquisti me. » Famem dicit non panis neque sitim aquae, sed audiendi verbum Domini; et sterilitatem virtutum, quam impii merito suae perversitatis patiuntur, quia digni non sunt ad percipiendum gratiam divinam. Unde scriptum est dicente Domino: « Mandabo nubibus meis ne pluant super eos imbrem »."}
+     ]
+    }
+   ]
+  },
+  "7": {
+   "temas": [
+    {
+     "id": "gafanhotos",
+     "titulo": "Muita semente e pouca colheita: o dom que se perde por descuido",
+     "versiculos": [38, 39, 40],
+     "itens": [
+      {"id": "rabano-in-dt-iii-25-gafanhotos-e-vermes-da-graca", "autor": "Rábano Mauro", "sobre": "abade de Fulda e arcebispo de Mogúncia (c. 780–856), beato", "obra": "Comentário sobre o Deuteronômio (Enarratio super Deuteronomium)", "passagem": "III, cap. XXV (sobre Dt 28,38-40) (PL 108, 959B–C)", "texto": "«Lançarás muita semente à terra e recolherás pouco, porque os gafanhotos tudo devorarão. Plantarás a vinha e a cultivarás, mas não beberás vinho nem colherás dela coisa alguma, porque será devastada por vermes. Terás oliveiras em todos os teus territórios, mas não te ungirás com azeite, porque as azeitonas cairão e perecerão», etc. Nota, leitor, que os gafanhotos devoram a semeadura, os vermes devastam a vinha, e as azeitonas caem e perecem. Sê prudente, para que não aconteça que gafanhotos e vermes espirituais comam, devastem e tirem de ti a graça que recebeste por dom divino, e que o que te foi dado para o aumento da tua salvação acabe, por descuido teu, em prejuízo.", "link": "https://mlat.uzh.ch/browser/cps_2.RabMau.EnSuDe", "original": "« Sementem multam jacies in terram et modicum congregabis, quia locustae omnia devorabunt. Vineam plantabis et fodies eam, et non bibes vinum, nec colliges ex ea quidpiam, quoniam vastabitur vermibus. Olivas habebis in omnibus terminis tuis, et non ungeris oleo, quia defluent et peribunt, etc. » Nota, lector, quod sementem devorant locustae, vineam devastant vermes, olivae defluunt et pereunt: et cautus esto ne forte gratiam, quam divino munere percepisti, locustae et vermes spiritales exedant, devastent atque a te auferant, et quae tibi in augmentum salutis tuae collata sunt, propter incuriam tuam ad detrimentum perveniant."}
+     ]
+    }
+   ]
+  }
+ }
 }
