@@ -1,0 +1,30 @@
+{
+ "livro": "deuteronomio",
+ "cap": 34,
+ "estado": "em revisão",
+ "atualizado": "2026-11-23",
+ "trechos": [
+  {"id": "1", "titulo": "Moisés vê a terra", "de": 1},
+  {"id": "2", "titulo": "A morte de Moisés", "de": 5},
+  {"id": "3", "titulo": "Josué, e o louvor de Moisés", "de": 9}
+ ],
+ "texto": [
+  {"s": "Moisés vê a terra"},
+  {"v": 1, "t": "Moisés subiu das planícies de Moab ao monte Nebo, ao cume do Fasga, que está defronte de Jericó; e o Senhor lhe mostrou toda a terra: Galaad até Dã,"},
+  {"v": 2, "t": "todo Neftali, a terra de Efraim e de Manassés, toda a terra de Judá até o mar ocidental,"},
+  {"v": 3, "t": "o Negueb e a planície, o vale de Jericó, cidade das palmeiras, até Segor."},
+  {"v": 4, "t": "E o Senhor lhe disse: Esta é a terra que jurei a Abraão, a Isaac e a Jacó, dizendo: À tua descendência a darei. Fiz que a visses com os teus olhos, mas não passarás para lá."},
+  {"s": "A morte de Moisés"},
+  {"v": 5, "t": "E ali morreu Moisés, servo do Senhor, na terra de Moab, conforme a palavra do Senhor."},
+  {"v": 6, "t": "E o sepultou no vale, na terra de Moab, defronte de Bet-Fogor; e ninguém, até o dia de hoje, soube da sua sepultura."},
+  {"v": 7, "t": "Moisés tinha cento e vinte anos quando morreu; os seus olhos não se escureceram, nem se perdeu o seu vigor."},
+  {"v": 8, "t": "Os filhos de Israel choraram Moisés nas planícies de Moab por trinta dias, e cumpriram-se os dias do pranto pela morte de Moisés."},
+  {"s": "Josué, e o louvor de Moisés"},
+  {"v": 9, "t": "Josué, filho de Num, estava cheio do espírito de sabedoria, porque Moisés tinha imposto as mãos sobre ele; e os filhos de Israel lhe obedeceram e fizeram como o Senhor ordenara a Moisés."},
+  {"v": 10, "t": "E nunca mais se levantou em Israel profeta como Moisés, a quem o Senhor conhecesse face a face,"},
+  {"v": 11, "t": "quanto a todos os sinais e prodígios que o Senhor o enviou a fazer na terra do Egito, ao faraó, a todos os seus servos e a toda a sua terra,"},
+  {"v": 12, "t": "e quanto a toda a mão forte e a todos os grandes e terríveis feitos que Moisés realizou aos olhos de todo o Israel."}
+ ],
+ "notas": [],
+ "comentarios": {}
+}

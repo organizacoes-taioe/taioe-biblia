@@ -72,6 +72,7 @@ Vale para pessoas, povos e lugares, também nos comentários dos Padres.
 - Dt 15–19: Abib, o Horeb e os sacerdotes levitas, como no projeto antigo; sem nomes novos.
 - Dt 20–24: os hititas (a partida dizia «heteus» em 20,17), os amorreus, os cananeus, os ferezeus, os heveus e os jebuseus, como antes; Balaão, Beor, Petor, a Mesopotâmia, Maria (a irmã de Moisés), como antes.
 - Dt 25–29: Amalec, Simeão, Levi, Judá, Issacar, José, Benjamim, Rúben, Gad, Aser, Zabulon, Dã, Neftali, Seon, Og, Hesbon, Basã, Manassés, Sodoma, Gomorra, Adamá e Seboim, como no projeto antigo e no lecionário; «os rubenitas e os gaditas» (29,7), como Dt 3.
+- Dt 30–34: Josué, filho de Num; Abarim, Nebo, Moab, Jericó, Canaã, o monte Hor, Meriba de Cades, Sin, Massa (sem acento), Faran, Seir, Jesurun, Zabulon, Issacar, Efraim, Manassés, Gad, Dã, Neftali, Aser, Galaad, Negueb, Segor, o Fasga e Bet-Fogor, como antes.
 
 ## Vocabulário
 
@@ -354,7 +355,7 @@ Vale para pessoas, povos e lugares, também nos comentários dos Padres.
 | *tirosh* | vinho novo | Dt 7,13 | Dt 7 |
 | *moqesh*, *yaqosh* | laço; cair no laço | Dt 7,16.25 | Dt 7 |
 | *lo al-hallehem levaddo yihye ha'adam* | nem só de pão vive o homem | Dt 8,3; «mas de tudo o que sai da boca do Senhor» (o hebraico), a confirmar («de toda palavra», a Bíblia grega, o lecionário e Mt 4,4) | Dt 8, a confirmar |
-| *qeshe-oref* | um povo de cabeça dura | Dt 9,6.13, como o lecionário (Êx 32,9; 34,9); a confirmar («de dura cerviz», a tradução de partida); vale para Êx 32–34, Dt 31,27 e At 7,51; Dt 10,16 tem pendência própria (ali o lecionário diz «cerviz») | Dt 9, a confirmar |
+| *qeshe-oref* | um povo de cabeça dura | Dt 9,6.13, como o lecionário (Êx 32,9; 34,9); a confirmar («de dura cerviz», a tradução de partida); vale para Êx 32–34 e At 7,51; Dt 10,16 e 31,27 têm pendência própria (em 10,16 o lecionário diz «cerviz») | Dt 9, a confirmar |
 | *yagorti* (Dt 9,19) | tive pavor | | Dt 9 |
 | *nasa* (Dt 1,9.12.31) | carregar | «Não posso carregar-vos sozinho» (v. 9) e o Senhor que «te carregou, como um homem carrega o seu filho» (v. 31): o eco entre Moisés e Deus; a tradução de partida dizia «suportar» e «levar» | Dt 1 |
 | *torah* / *massa* (Dt 1,12) | fardo / carga | «o vosso fardo, a vossa carga e as vossas contendas» | Dt 1 |
@@ -402,6 +403,13 @@ Vale para pessoas, povos e lugares, também nos comentários dos Padres.
 | *tsavvar* (Dt 28,48) | pescoço | «jugo de ferro sobre o teu pescoço»; *oref* é o de *qeshe-oref* | Dt 28 |
 | *la'ana* (Dt 29,17) | absinto | | Dt 29 |
 | *nitsavim* (Dt 29,9) | estais de pé | | Dt 29 |
+| *niflet* (Dt 30,11) | difícil demais | como o lecionário | Dt 30 |
+| *vahashevota el-levavekha* (Dt 30,1) | gravar no coração | como Dt 4,39 | Dt 30 |
+| *godel* (Dt 32,3) | reconhecei a grandeza | «dai glória» seria *kavod* | Dt 32 |
+| *naval* (Dt 32,6.21) | insensato | | Dt 32 |
+| *heleq* / *hevel* (Dt 32,9) | a parte / o lote | | Dt 32 |
+| *merivvot qodesh* (Dt 33,2) | miríades de santos | o hebraico; a partida seguia a correção «Meriba de Cades» | Dt 33 |
+| *hofef alayv* (Dt 33,12) | ele o protege | o hebraico não traz «o Altíssimo», que a partida acrescentava | Dt 33 |
 
 ## Inconsistências conhecidas, para corrigir quando o capítulo entrar
 

@@ -1,0 +1,64 @@
+{
+ "livro": "deuteronomio",
+ "cap": 31,
+ "estado": "em revisão",
+ "atualizado": "2026-11-23",
+ "trechos": [
+  {"id": "1", "titulo": "Josué sucede a Moisés", "de": 1},
+  {"id": "2", "titulo": "A leitura da lei de sete em sete anos", "de": 9},
+  {"id": "3", "titulo": "O Senhor anuncia a infidelidade", "de": 14},
+  {"id": "4", "titulo": "O livro ao lado da arca", "de": 24}
+ ],
+ "texto": [
+  {"s": "Josué sucede a Moisés"},
+  {"v": 1, "t": "Moisés foi e falou estas palavras a todo o Israel,"},
+  {"v": 2, "t": "e lhes disse: Hoje tenho cento e vinte anos; já não posso sair nem entrar, e o Senhor me disse: Não passarás este Jordão."},
+  {"v": 3, "t": "O Senhor teu Deus é quem passará à tua frente; ele destruirá estas nações de diante de ti, e tu as desapossarás. Josué é quem passará à tua frente, como o Senhor disse."},
+  {"v": 4, "t": "O Senhor lhes fará como fez a Seon e a Og, reis dos amorreus, e à terra deles, quando os destruiu."},
+  {"v": 5, "t": "O Senhor as entregará a vós, e lhes fareis conforme todo o mandamento que vos ordenei."},
+  {"v": 6, "t": "Sede fortes e corajosos; não temais nem vos assusteis diante deles, porque o Senhor teu Deus é quem vai contigo: não te deixará nem te abandonará."},
+  {"v": 7, "t": "Moisés chamou Josué e lhe disse, à vista de todo o Israel: Sê forte e corajoso, porque tu entrarás com este povo na terra que o Senhor jurou dar a seus pais, e tu a darás a eles em herança."},
+  {"v": 8, "t": "O Senhor é quem vai à tua frente; ele estará contigo, não te deixará nem te abandonará; não temas nem te assustes."},
+  {"s": "A leitura da lei de sete em sete anos"},
+  {"v": 9, "t": "Moisés escreveu esta lei e a entregou aos sacerdotes, filhos de Levi, que levavam a arca da aliança do Senhor, e a todos os anciãos de Israel."},
+  {"v": 10, "t": "E lhes ordenou: Ao fim de cada sete anos, no tempo marcado do ano da remissão, na festa das Tendas,"},
+  {"v": 11, "t": "quando todo o Israel vier comparecer diante do Senhor teu Deus, no lugar que ele escolher, lerás esta lei diante de todo o Israel, aos seus ouvidos."},
+  {"v": 12, "t": "Reúne o povo, homens, mulheres e pequenos, e o estrangeiro que está dentro das tuas portas, para que ouçam e aprendam a temer o Senhor vosso Deus, e cuidem de cumprir todas as palavras desta lei;"},
+  {"v": 13, "t": "e para que os filhos deles, que ainda não a conhecem, ouçam e aprendam a temer o Senhor vosso Deus todos os dias que viverdes sobre o solo para onde ides, passando o Jordão, a fim de tomar posse dele."},
+  {"s": "O Senhor anuncia a infidelidade"},
+  {"v": 14, "t": "O Senhor disse a Moisés: Eis que se aproximam os dias da tua morte; chama Josué, e apresentai-vos na tenda do encontro, para que eu lhe dê as minhas ordens. Foram, pois, Moisés e Josué e se apresentaram na tenda do encontro;"},
+  {"v": 15, "t": "e o Senhor apareceu na tenda, numa coluna de nuvem, e a coluna de nuvem parou à entrada da tenda."},
+  {"v": 16, "t": "E o Senhor disse a Moisés: Eis que vais dormir com teus pais; e este povo se levantará e se prostituirá atrás dos deuses estrangeiros da terra em que vai entrar; há de abandonar-me e quebrar a aliança que fiz com ele."},
+  {"v": 17, "t": "Naquele dia a minha ira se acenderá contra ele; eu os abandonarei e lhes esconderei o meu rosto, e ele será devorado; muitos males e angústias o atingirão, e ele dirá naquele dia: Não será porque o meu Deus não está no meio de mim que estes males me atingiram?"},
+  {"v": 18, "t": "E eu, naquele dia, esconderei de todo o meu rosto, por causa de todo o mal que ele fez, voltando-se para outros deuses."},
+  {"v": 19, "t": "Agora, pois, escrevei para vós este cântico e ensina-o aos filhos de Israel; põe-no na boca deles, para que este cântico me sirva de testemunha contra os filhos de Israel."},
+  {"v": 20, "t": "Porque eu o farei entrar no solo que jurei a seus pais, que mana leite e mel; e ele comerá, ficará saciado e engordará; então se voltará para outros deuses e os servirá, me desprezará e quebrará a minha aliança."},
+  {"v": 21, "t": "E quando muitos males e angústias o atingirem, este cântico responderá diante dele como testemunha, porque não será esquecido na boca da sua descendência; pois conheço a inclinação que ele tem hoje, antes de o fazer entrar na terra que jurei."},
+  {"v": 22, "t": "Naquele mesmo dia Moisés escreveu este cântico e o ensinou aos filhos de Israel."},
+  {"v": 23, "t": "E o Senhor deu as suas ordens a Josué, filho de Num, dizendo: Sê forte e corajoso, porque tu farás entrar os filhos de Israel na terra que lhes jurei; e eu estarei contigo."},
+  {"s": "O livro ao lado da arca"},
+  {"v": 24, "t": "Quando Moisés acabou de escrever num livro as palavras desta lei, até o fim,"},
+  {"v": 25, "t": "ordenou aos levitas que levavam a arca da aliança do Senhor:"},
+  {"v": 26, "t": "Tomai este livro da lei e ponde-o ao lado da arca da aliança do Senhor vosso Deus, para que ali esteja como testemunha contra ti."},
+  {"v": 27, "t": "Porque conheço a tua rebeldia e a tua cabeça dura: se, vivendo eu ainda hoje convosco, fostes rebeldes contra o Senhor, quanto mais depois da minha morte!"},
+  {"v": 28, "t": "Reuni diante de mim todos os anciãos das vossas tribos e os vossos oficiais, para que eu diga estas palavras aos seus ouvidos e tome por testemunhas contra eles o céu e a terra."},
+  {"v": 29, "t": "Porque sei que depois da minha morte vos corrompereis de todo e vos desviareis do caminho que vos ordenei; e nos últimos dias o mal vos atingirá, por terdes feito o que é mau aos olhos do Senhor, irritando-o com a obra das vossas mãos."},
+  {"v": 30, "t": "Então Moisés disse, aos ouvidos de toda a assembleia de Israel, as palavras deste cântico, até o fim:"}
+ ],
+ "notas": [],
+ "comentarios": {},
+ "revisao": {
+  "escolhas": [
+   {
+    "id": "cabeca-dura-31-27",
+    "ref": "Dt 31,27",
+    "titulo": "*Orpekha haqqashe*: «a tua cabeça dura» ou «a tua dura cerviz»?",
+    "contexto": "A mesma expressão de Dt 9,6.13, dita aqui por Moisés ao povo. Deve acompanhar a resposta dada em Dt 9.",
+    "opcoes": [
+     {"id": "a", "texto": "«conheço a tua rebeldia e a tua cabeça dura»", "nota": "Acompanha a recomendada de Dt 9.", "recomendada": true},
+     {"id": "b", "texto": "«conheço a tua rebeldia e a tua dura cerviz»", "nota": "Se em Dt 9 a escolha for «cerviz»."}
+    ]
+   }
+  ]
+ }
+}
