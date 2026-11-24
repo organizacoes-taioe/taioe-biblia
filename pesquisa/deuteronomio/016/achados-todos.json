@@ -1,0 +1,315 @@
+[
+ {
+  "autor": "Teodoreto de Ciro",
+  "autor_id": "teodoreto",
+  "datas": "c. 393–c. 460",
+  "titulo_autor": "bispo de Ciro, exegeta da escola de Antioquia",
+  "id": "teodoreto-quaest-dt-16-justica-pela-justica",
+  "obra": "Questões sobre o Octateuco (Quaestiones in Octateuchum)",
+  "passagem": "Questões sobre o Deuteronômio, 16 (sobre Dt 16,20)",
+  "edicao": "ed. Fernández Marcos–Sáenz-Badillos (Madri, 1979), p. 244 (PG 80)",
+  "trecho": "4",
+  "versiculos": [
+   20
+  ],
+  "lingua": "grc",
+  "original": "Τί ἐστι, \" δικαίως τὸ δίκαιον διώξετε \"; Κατὰ τὸν τοῦ δικαίου, φησί, σκοπὸν μὴ διὰ δόξαν κενήν, μὴ διὰ θεραπείαν ἀνθρωπίνην, ἀλλὰ δι' αὐτὸ τὸ ἀγαθόν. εἰσὶ γάρ τινες γνώμῃ μὲν οὐ τιμῶντες τὸ δίκαιον, διὰ δὲ τοὺς ἀληθῶς τιμῶντας τὸ δίκαιον, ὑποκρινόμενοι τιμᾶν τὸ δίκαιον.",
+  "fonte_url": "https://khazarzar.skeptik.net/pgm/PG_Migne/Theodoretus%20of%20Cyrrhus_PG%2080-84/Quaestiones%20in%20Octateuchum.pdf",
+  "traducao_pt": "Que quer dizer: «Seguirás justamente o que é justo»? Que o faças com o olhar posto no que é justo: não por vanglória, não por agradar aos homens, mas pelo próprio bem. Pois há os que não estimam o justo em seu pensamento, mas, por causa dos que de verdade o honram, fingem honrá-lo.",
+  "temas": [
+   "a justiça pela justiça",
+   "a justiça fingida"
+  ],
+  "resumo": "Teodoreto: seguir a justiça «com justiça» é buscá-la pelo próprio bem, não pela fama nem para agradar; há quem a finja por causa dos que a amam de verdade.",
+  "relevancia": 2,
+  "direitos": "domínio público"
+ },
+ {
+  "autor": "São Gregório Magno",
+  "autor_id": "gregorio-magno",
+  "datas": "c. 540–604",
+  "titulo_autor": "papa, Doutor da Igreja",
+  "id": "paterius-greg-dt16-16-nao-aparecer-vazio",
+  "obra": "Exposição do Antigo e do Novo Testamento (Expositio Veteris ac Novi Testamenti), colhida por Paterius nas obras de Gregório Magno",
+  "passagem": "livro V, «Testemunhos do Deuteronômio», cap. 6 (sobre Dt 16,16; Paterius dá como origem a Exposição de Jó, isto é, os Moralia, l. VII)",
+  "edicao": "PL 79, 776C",
+  "trecho": "3",
+  "versiculos": [
+   16,
+   17
+  ],
+  "lingua": "la",
+  "original": "«Non apparebis in conspectu Domini vacuus.» In conspectu Domini vacuus apparet, qui nihil secum de fructu sui laboris portat. Alius multiplicandis facultatibus aestuat, alius promerendis laudibus anhelat. Sed quia cuncta haec quisque moriens deserit, ante Dominum vacuus apparet, quia secum ante judicem nihil tulit. Hinc ergo per legem salubriter admonemur, dicentem: Non apparebis in conspectu Domini vacuus. Qui enim promerendae vitae mercedem bene agendo non providet, in conspectu Domini vacuus apparet. Hinc de justis per Psalmistam dicitur: Venientes autem venient cum exsultatione, portantes manipulos suos. Ad examen quippe judicii portantes manipulos veniunt, qui in semetipsis recta opera, quibus vitam mereantur ostendunt.",
+  "fonte_url": "https://mlat.uzh.ch/browser/cps_2.PaNoGrI.ExVeAcN",
+  "traducao_pt": "«Não aparecerás de mãos vazias diante do Senhor.» Aparece de mãos vazias diante do Senhor quem nada leva consigo do fruto do seu trabalho. Um se agita para multiplicar os bens, outro anseia por conquistar louvores. Mas, como tudo isso cada um o deixa ao morrer, comparece vazio diante do Senhor, porque nada levou consigo diante do juiz. Por isso a lei nos adverte salutarmente: «Não aparecerás de mãos vazias diante do Senhor.» Com efeito, quem, agindo bem, não providencia o prêmio da vida que deve merecer, aparece de mãos vazias diante do Senhor. Por isso se diz dos justos pelo Salmista: «Virão, porém, com exultação, levando os seus feixes.» Chegam ao exame do juízo levando os feixes os que mostram em si mesmos as obras retas pelas quais mereçam a vida.",
+  "temas": [
+   "ninguém de mãos vazias",
+   "as obras que se levam ao juízo"
+  ],
+  "resumo": "Gregório: comparece vazio diante do Senhor quem leva da vida só o que deixa ao morrer; os justos chegam trazendo os feixes das boas obras.",
+  "relevancia": 3,
+  "direitos": "domínio público"
+ },
+ {
+  "autor": "São Gregório Magno",
+  "autor_id": "gregorio-magno",
+  "datas": "c. 540–604",
+  "titulo_autor": "papa, Doutor da Igreja",
+  "id": "paterius-greg-dt16-20-juste-quod-iustum",
+  "obra": "Exposição do Antigo e do Novo Testamento (Expositio Veteris ac Novi Testamenti), colhida por Paterius nas obras de Gregório Magno",
+  "passagem": "livro V, «Testemunhos do Deuteronômio», cap. 7 (sobre Dt 16,20; Paterius dá como origem a Exposição de Jó, isto é, os Moralia, l. IX)",
+  "edicao": "PL 79, 776D",
+  "trecho": "4",
+  "versiculos": [
+   20
+  ],
+  "lingua": "la",
+  "original": "«Juste quod justum est exsequeris.» Injuste quod justum est exsequitur, qui ad defensionem justitiae non virtutis aemulatione, sed amore praemii temporalis excitatur. Injuste quod justum est exsequitur, qui ipsam, quam praetendit, justitiam venundare minime veretur. Juste ergo justum exsequi est in assertione justitiae eamdem ipsam justitiam quaerere.",
+  "fonte_url": "https://mlat.uzh.ch/browser/cps_2.PaNoGrI.ExVeAcN",
+  "traducao_pt": "«Executarás com justiça o que é justo.» Executa sem justiça o que é justo quem é levado a defender a justiça não pelo zelo da virtude, mas pelo amor do prêmio temporal. Executa sem justiça o que é justo quem não teme vender a própria justiça que alega. Executar com justiça o que é justo é, portanto, ao afirmar a justiça, buscar essa mesma justiça.",
+  "temas": [
+   "a justiça pela justiça",
+   "o zelo interesseiro"
+  ],
+  "resumo": "Gregório: faz o justo de modo injusto quem defende a justiça por interesse; só a busca com justiça quem busca a própria justiça.",
+  "relevancia": 3,
+  "direitos": "domínio público"
+ },
+ {
+  "autor": "Orígenes",
+  "autor_id": "origenes",
+  "datas": "c. 185–c. 254",
+  "titulo_autor": "presbítero e teólogo de Alexandria (não é santo nem Padre canonizado, mas a tradição o leu sempre)",
+  "id": "origenes-contra-celso-8-22-pascoa-e-pao-de-aflicao",
+  "obra": "Contra Celso (Contra Celsum), livro VIII",
+  "passagem": "Contra Celso VIII, 22–23 (cita Dt 16,3)",
+  "edicao": "ed. P. Koetschau, GCS 3 (Leipzig 1899), VIII, 22–23 (PG 11)",
+  "trecho": "1",
+  "versiculos": [
+   1,
+   3
+  ],
+  "lingua": "grc",
+  "original": "Ἔτι δὲ ὁ νοήσας ὅτι \"τὸ πάσχα ἡμῶν ἐτύθη Χριστός\", καὶ χρὴ ἑορτάζειν ἐσθίοντα τῆς σαρκὸς τοῦ λόγου, οὐκ ἔστιν ὅτε οὐ ποιεῖ τὸ πάσχα, ὅπερ ἑρμηνεύεται διαβατήρια, διαβαίνων ἀεὶ τῷ λογισμῷ καὶ παντὶ λόγῳ καὶ πάσῃ πράξει ἀπὸ τῶν τοῦ βίου πραγμάτων ἐπὶ τὸν θεόν, καὶ ἐπὶ τὴν πόλιν αὐτοῦ σπεύδων. [...] Πολὺ δ' ἂν εἴη νῦν λέγειν, διὰ τί αἱ κατὰ τὸν τοῦ θεοῦ νόμον ἑορταὶ \"ἄρτον κακώσεως\" διδάσκουσιν ἐσθίειν ἢ \"ἄζυμα μετὰ πικρίδων\", ἢ διότι φασί· \"Ταπεινώσατε τὰς ψυχὰς ὑμῶν\" ἤ τι τούτοις παραπλήσιον. Οὐδὲ γὰρ δυνατόν ἐστι τὸν σύνθετον ἄνθρωπον, ὅσον ἔτι \"Ἡ σὰρξ ἐπιθυμεῖ κατὰ τοῦ πνεύματος, τὸ δὲ πνεῦμα κατὰ τῆς σαρκός\", ἐξ ὅλων ἑορτάζειν· ἢ γὰρ ἑορτάζων τις τῷ πνεύματι κακοῖ τὸ σῶμα, μὴ πεφυκὸς διὰ \"τὸ φρόνημα τῆς σαρκὸς\" ἑορτάζειν μετὰ τοῦ πνεύματος, ἢ ἑορτάζων κατὰ σάρκα οὐ χωρεῖ καὶ τὴν κατὰ πνεῦμα ἑορτήν.",
+  "fonte_url": "https://khazarzar.skeptik.net/pgm/PG_Migne/Origenes_PG%2011-17/Contra%20Celsum.pdf",
+  "traducao_pt": "Ainda: quem compreendeu que «Cristo, nossa Páscoa, foi imolado», e que se deve festejar comendo a carne do Verbo, não tem momento em que não celebre a Páscoa, palavra que se interpreta «passagem»: passando sempre, pelo pensamento, por toda palavra e toda ação, das coisas desta vida para Deus, e apressando-se para a cidade dele. [...] Seria longo dizer agora por que as festas segundo a lei de Deus ensinam a comer «pão de aflição», ou «ázimos com ervas amargas», ou por que mandam: «Humilhai as vossas almas», ou algo semelhante. Pois não é possível ao homem composto, enquanto «a carne deseja contra o espírito, e o espírito contra a carne», festejar por inteiro: quem festeja com o espírito aflige o corpo, que, por causa do «pensamento da carne», não pode festejar com o espírito; e quem festeja segundo a carne não comporta a festa segundo o espírito.",
+  "temas": [
+   "a Páscoa como passagem",
+   "o pão de aflição"
+  ],
+  "resumo": "Orígenes: a Páscoa é «passagem» contínua das coisas da vida para Deus; o pão de aflição ensina que, enquanto a carne luta contra o espírito, não se festeja por inteiro.",
+  "relevancia": 2,
+  "direitos": "domínio público"
+ },
+ {
+  "autor": "São Cirilo de Alexandria",
+  "autor_id": "cirilo",
+  "datas": "c. 376–444",
+  "titulo_autor": "bispo de Alexandria, Doutor da Igreja",
+  "id": "cirilo-adoratione-17-pascoa-so-na-cidade-santa",
+  "obra": "Da adoração e do culto em espírito e verdade (De adoratione et cultu in spiritu et veritate)",
+  "passagem": "livro XVII, sobre Dt 16,2.5-6",
+  "edicao": "PG 68, 1085",
+  "trecho": "1",
+  "versiculos": [
+   2,
+   5,
+   6
+  ],
+  "lingua": "grc",
+  "original": "Μυρίαις μὲν γὰρ ὅσαις πόλεσί τε καὶ κώμαις ἡ τῶν Ἰουδαίων ἐπεπλήθη χώρα, τελεῖν δὲ καὶ τὰ ἱερὰ καὶ τὸν ἐπὶ τῷ Πάσχα νόμον, ἐν μόνῃ δὲ χρῆναι τῇ ἁγίᾳ πόλει διετύπου Θεὸς, ἐκεῖνο, οἶμαί που, σκιαγραφοῦντος ἡμῖν εὖ μάλα τοῦ νομικοῦ γράμματος, ὡς οὐκ ἂν εἴη θέμις οὔτε μὴν ἐφεῖταί τισι τὸ ἐπὶ Χριστῷ μυστήριον, καθ' ὃν ἂν ἕλοιτο τρόπον, ἤγουν ἐν τόπῳ παντὶ δύνασθαι πληροῦν· χῶρος γὰρ μόνος ὁ πρέπων αὐτῷ, καὶ οἰκειότατος ἀληθῶς, ἡ ἁγία πόλις, τουτέστιν, ἡ Ἐκκλησία, ἐν ᾗ καὶ νόμιμος ἱερεὺς, καὶ διὰ χειρῶν ἡγιασμένων τελεῖται τὰ ἱερὰ, καὶ θυμίαμα προσφέρεται τῷ πάντων κρατοῦντι Θεῷ, καὶ θυσία καθαρὰ, κατὰ τὴν τοῦ προφήτου φωνήν.",
+  "fonte_url": "https://khazarzar.skeptik.net/pgm/PG_Migne/Cyril%20of%20Alexandria_PG%2068-77/De%20adoratione%20et%20cultu%20in%20spiritu%20et%20veritate.pdf",
+  "traducao_pt": "Embora a terra dos judeus estivesse cheia de inumeráveis cidades e aldeias, Deus determinou que se celebrassem os ritos sagrados e a lei da Páscoa somente na Cidade santa. Com isso, creio eu, a letra da lei nos desenha muito bem uma sombra: não é lícito nem permitido a ninguém cumprir o mistério de Cristo do modo que escolher, nem em qualquer lugar. O único lugar que lhe convém, e verdadeiramente o mais próprio, é a cidade santa, isto é, a Igreja, na qual há sacerdote legítimo, os ritos sagrados se cumprem por mãos santificadas, e se oferecem incenso a Deus, que domina todas as coisas, e um sacrifício puro, segundo a palavra do profeta.",
+  "temas": [
+   "a Páscoa só no lugar escolhido",
+   "a Igreja, cidade santa"
+  ],
+  "resumo": "Cirilo: a Páscoa só podia ser sacrificada no lugar que Deus escolhesse, figura de que o mistério de Cristo se celebra na Igreja, com sacerdote legítimo.",
+  "relevancia": 2,
+  "direitos": "domínio público"
+ },
+ {
+  "autor": "São Cirilo de Alexandria",
+  "autor_id": "cirilo",
+  "datas": "c. 376–444",
+  "titulo_autor": "bispo de Alexandria, Doutor da Igreja",
+  "id": "cirilo-adoratione-8-juizes-sem-suborno-imagem-de-cristo",
+  "obra": "Da adoração e do culto em espírito e verdade (De adoratione et cultu in spiritu et veritate)",
+  "passagem": "livro VIII, sobre Dt 16,18-19",
+  "edicao": "PG 68, 576",
+  "trecho": "4",
+  "versiculos": [
+   18,
+   19
+  ],
+  "lingua": "grc",
+  "original": "Ἵνα τοίνυν ὀρθῶς τε καὶ ἀδεκάστως τὰ παρεμπίπτοντα διακρίνοιτο, καὶ οἱ τῆς πλεονεξίας ἀφανίζοιντο τρόποι, «Κριτὰς, φησὶ, καὶ γραμματοεισαγωγεῖς καταστήσεις σεαυτῷ ἐν πάσαις ταῖς πόλεσί σου, αἷς Κύριος ὁ Θεὸς δίδωσί σοι, κατὰ φυλὰς καὶ κρινοῦσι τὸν λαὸν δικαίαν κρίσιν. Οὐκ ἐκκλινοῦσι κρίσιν, οὐδὲ ἐπιγνώσονται πρόσωπον, οὐδὲ λήψονται δῶρα· τὰ γὰρ δῶρα ἐκτυφλοῖ ὀφθαλμοὺς σοφῶν, καὶ ἐξαίρει λόγους δικαίων.» Ὤετο γὰρ δεῖν ὁ νόμος, καὶ μάλα εἰκότως τοὺς οἵπερ ἂν εἶεν εἰς τὸ δικάζειν ἠγμένοι, καὶ τοῦ χρηματίζεσθαι φιλεῖν ὁρᾶσθαι βελτίους, καὶ τῇ πρός τινας αἰδοῖ μὴ χαριζομένους τοῦ καλῶς καὶ ἀδιαβλήτως ἔχοντος τὴν παράβασιν, καὶ μὴν καὶ τὸ ἑτεροκλινὲς, ὡς ἀνόσιον ἀποσειομένους ταλαντεύοντάς τε συννόμως ἕκαστα τῶν πραγμάτων, καὶ τὸν τῶν ὅλων ἀπομιμεῖσθαι κριτὴν, τοῦτ' ἔστι, Χριστὸν, ὃν καὶ αὐτὸς ὁ νόμος προαναπεφώνηκεν ἐναργῶς, καὶ κριτὴν ὄντα εἰδὼς ὡς Θεόν.",
+  "fonte_url": "https://khazarzar.skeptik.net/pgm/PG_Migne/Cyril%20of%20Alexandria_PG%2068-77/De%20adoratione%20et%20cultu%20in%20spiritu%20et%20veritate.pdf",
+  "traducao_pt": "Para que as causas sejam julgadas com retidão e sem corrupção, e desapareçam os modos da avareza, diz a Escritura: «Estabelecerás juízes e escribas em todas as tuas cidades, que o Senhor teu Deus te dá, segundo as tribos, e eles julgarão o povo com juízo justo. Não desviarão o julgamento, não farão acepção de pessoas, nem aceitarão presentes; pois os presentes cegam os olhos dos sábios e arruínam as palavras dos justos.» Com razão pensou a lei que os encarregados de julgar deviam mostrar-se superiores ao gosto do dinheiro; que, por respeito a alguém, não podiam ceder em nada do que é reto e irrepreensível; que deviam repelir como ímpia toda parcialidade e pesar com justiça cada caso, imitando o juiz de todos, isto é, Cristo, que a própria lei anunciou com clareza, sabendo que ele é juiz por ser Deus.",
+  "temas": [
+   "os juízes sem suborno",
+   "o juiz imita o Juiz de todos"
+  ],
+  "resumo": "Cirilo: a lei quer juízes livres da cobiça e da parcialidade, que imitem o verdadeiro juiz, Cristo.",
+  "relevancia": 3,
+  "direitos": "domínio público"
+ },
+ {
+  "autor": "Santo Tomás de Aquino",
+  "autor_id": "tomas",
+  "datas": "1225–1274",
+  "titulo_autor": "dominicano, Doutor da Igreja",
+  "id": "tomas-st-1-2-102-4-ad7-nao-plantar-bosque-junto-ao-altar",
+  "obra": "Suma Teológica (Summa Theologiae)",
+  "passagem": "I-II, q. 102, a. 4, ad 7 (sobre Dt 16,21)",
+  "edicao": "ed. Leonina; Corpus Thomisticum",
+  "trecho": "4",
+  "versiculos": [
+   21,
+   22
+  ],
+  "lingua": "la",
+  "original": "De constructione autem altaris datur a domino duplex praeceptum. Unum quidem in principio legis, Exod. XX, ubi dominus mandavit quod facerent altare de terra, vel saltem de lapidibus non sectis; et iterum quod non facerent altare excelsum, ad quod oporteret per gradus ascendere. Et hoc, ad detestandum idololatriae cultum, gentiles enim idolis construebant altaria ornata et sublimia, in quibus credebant aliquid sanctitatis et numinis esse. Propter quod etiam dominus mandavit, Deut. XVI, non plantabis lucum, et omnem arborem, iuxta altare domini Dei tui , idololatrae enim consueverunt sub arboribus sacrificare, propter amoenitatem et umbrositatem. Quorum etiam praeceptorum ratio figuralis fuit. Quia in Christo, qui est nostrum altare, debemus confiteri veram carnis naturam, quantum ad humanitatem, quod est altare de terra facere, et quantum ad divinitatem, debemus in eo confiteri patris aequalitatem, quod est non ascendere per gradus ad altare. Nec etiam iuxta Christum debemus admittere doctrinam gentilium, ad lasciviam provocantem.",
+  "fonte_url": "https://www.corpusthomisticum.org/sth2098.html",
+  "traducao_pt": "Sobre a construção do altar o Senhor deu um duplo preceito. Um, no princípio da lei, em Êxodo 20, onde mandou que fizessem o altar de terra, ou ao menos de pedras não lavradas, e que não fizessem altar elevado, ao qual fosse preciso subir por degraus. Isso, para detestar o culto idolátrico: os gentios construíam para os ídolos altares ornados e elevados, nos quais criam haver algo de santidade e de divindade. Por isso também o Senhor mandou, em Deuteronômio 16: «Não plantarás bosque nem árvore alguma junto ao altar do Senhor teu Deus», porque os idólatras costumavam sacrificar sob as árvores, pela amenidade e pela sombra. A razão figurada desses preceitos foi esta: em Cristo, que é o nosso altar, devemos confessar a verdadeira natureza da carne, quanto à humanidade, o que é fazer o altar de terra; e, quanto à divindade, devemos confessar nele a igualdade com o Pai, o que é não subir por degraus ao altar. E, junto a Cristo, tampouco devemos admitir a doutrina dos gentios, que provoca à lascívia.",
+  "temas": [
+   "o poste sagrado e as árvores junto ao altar",
+   "o altar simples"
+  ],
+  "resumo": "Tomás: a proibição de plantar bosque junto ao altar afasta o costume dos idólatras de sacrificar sob as árvores; em figura, junto a Cristo não cabe a doutrina dos pagãos.",
+  "relevancia": 2,
+  "direitos": "domínio público"
+ },
+ {
+  "autor": "Rábano Mauro",
+  "autor_id": "rabano",
+  "datas": "c. 780–856",
+  "titulo_autor": "abade de Fulda, arcebispo de Mogúncia",
+  "id": "rabano-in-dt-3-12-tabernaculos-alegria-do-fim",
+  "obra": "Enarração sobre o Deuteronômio (Enarratio super Deuteronomium)",
+  "passagem": "III, cap. 12 (sobre Dt 16,13-15)",
+  "edicao": "PL 108, 899D–900C",
+  "trecho": "3",
+  "versiculos": [
+   13,
+   14,
+   15
+  ],
+  "lingua": "la",
+  "original": "«Solemnitatem quoque tabernaculorum celebrabis per septem dies, quando collegeris de area tua et torculari fruges tuas; et epulaberis in festivitate tua [...]» Post finitam ergo messem omnium fructum, solemnitatem tabernaculorum praecepit agendam, et epulandum cum filiis et filiabus, cum servis et ancillis, cum Levitis et advenis, pupillis ac viduis, quia post finitum bonorum operum actum, et post virtutum plurimorum collectum, laetandum tunc cum amicis et gaudendum esse designat. Tunc vere quisque exsultabit de percepta retributione, qui hic reminiscatur se largum fuisse in munere. Tunc vere solemnitas agitur tabernaculorum, cum non mutabilium, sed aeternarum possessio conceditur mansionum. De quibus Salvator in Evangelio ait: « In domo Patris mei multae mansiones sunt. » Et iterum: « Facite, inquit, vobis amicos de mammona iniquitatis, ut, cum defeceritis, recipiant vos in aeterna tabernacula.",
+  "fonte_url": "https://mlat.uzh.ch/browser/cps_2.RabMau.EnSuDe",
+  "traducao_pt": "«Celebrarás por sete dias a festa das Tendas, quando tiveres recolhido da tua eira e do teu lagar os teus frutos; e te alegrarás na tua festa [...].» Mandou celebrar a festa das Tendas depois de terminada a colheita de todos os frutos e banquetear-se com filhos e filhas, servos e servas, levitas, forasteiros, órfãos e viúvas, porque indica que, concluído o trabalho das boas obras e recolhidas muitas virtudes, é então que se deve alegrar com os amigos e rejubilar. Então exultará de verdade, pela retribuição recebida, quem aqui se lembrar de ter sido generoso no dar. Então se celebra de verdade a festa das Tendas: quando se concede a posse não de moradas mutáveis, mas de moradas eternas. Delas diz o Salvador no Evangelho: «Na casa de meu Pai há muitas moradas.» E também: «Fazei amigos com o dinheiro da injustiça, para que, quando ele faltar, vos recebam nas tendas eternas.»",
+  "temas": [
+   "a festa das Tendas",
+   "a alegria depois do trabalho"
+  ],
+  "resumo": "Rábano: a festa das Tendas, depois da colheita, figura a alegria de quem terminou as boas obras e é recebido nas tendas eternas.",
+  "relevancia": 2,
+  "direitos": "domínio público"
+ },
+ {
+  "autor": "Rábano Mauro",
+  "autor_id": "rabano",
+  "datas": "c. 780–856",
+  "titulo_autor": "abade de Fulda, arcebispo de Mogúncia",
+  "id": "rabano-in-dt-3-13-munera-cegam-quem-se-julga-sabio",
+  "obra": "Enarração sobre o Deuteronômio (Enarratio super Deuteronomium)",
+  "passagem": "III, cap. 13 (sobre Dt 16,18-19)",
+  "edicao": "PL 108, 901A–901C",
+  "trecho": "4",
+  "versiculos": [
+   18,
+   19
+  ],
+  "lingua": "la",
+  "original": "«Judices et magistros constituas in omnibus portis tuis [...]» Ut advenientes undique, statim in introitu civitatis judices et magistros paratos inveniant, a quibus justa judicia accipiant. [...] «Non accipies personam nec munera, quia munera excaecant oculos sapientum, et mutant verba justorum.» Non hoc dicit quod veraciter sapientes et justi per munerum cupiditatem subvertantur, sed quod illi, qui videntur sibi esse sapientes et justi, saepius corruant. Ad quos propheta loquens ait: « Vae, qui sapientes estis in oculis vestris, et coram vobismetipsis prudentes. [...] Nam qui vere sunt sapientes et justi, nunquam praeponunt res caducas veritati atque justitiae, sed in omni tempore student in aequitate permanere.",
+  "fonte_url": "https://mlat.uzh.ch/browser/cps_2.RabMau.EnSuDe",
+  "traducao_pt": "«Constituirás juízes e mestres em todas as tuas portas [...].» Para que os que chegam de toda parte encontrem, logo à entrada da cidade, juízes e mestres prontos, dos quais recebam julgamentos justos. [...] «Não farás acepção de pessoas nem aceitarás suborno, porque o suborno cega os olhos dos sábios e perverte as palavras dos justos.» Não diz que os verdadeiramente sábios e justos se percam pela cobiça de presentes, mas que caem com mais frequência os que se julgam sábios e justos. A eles fala o profeta: «Ai de vós, que sois sábios aos vossos olhos e prudentes na vossa própria opinião!» [...] Pois os que são de verdade sábios e justos nunca antepõem coisas perecíveis à verdade e à justiça, mas em todo tempo procuram permanecer na retidão.",
+  "temas": [
+   "o suborno que cega",
+   "a falsa sabedoria de quem se julga justo"
+  ],
+  "resumo": "Rábano: os juízes ficam às portas, ao alcance de todos; e o suborno cega sobretudo os que se julgam sábios e justos, não os que o são de verdade.",
+  "relevancia": 2,
+  "direitos": "domínio público"
+ },
+ {
+  "autor": "Santo Agostinho",
+  "autor_id": "agostinho",
+  "datas": "354–430",
+  "titulo_autor": "bispo de Hipona, Doutor da Igreja",
+  "id": "agostinho-qh5-25-contar-as-sete-semanas",
+  "obra": "Questões sobre o Heptateuco (Quaestiones in Heptateuchum)",
+  "passagem": "V, q. 25 (sobre Dt 16,9-10)",
+  "edicao": "PL 34, 759–760",
+  "trecho": "2",
+  "versiculos": [
+   9,
+   10
+  ],
+  "lingua": "la",
+  "original": "Quaerendum quomodo praeceperit observari quod ait: Septem septimanas integras dinumerabis tibi ipsi, inchoare te falcem injicere in messem: incipies numerare septem septimanas, et facies diem festum septimanarum Domino Deo tuo, prout valet manus tua, quaecumque Dominus tibi dederit, secundum quod benedicet te Dominus Deus tuus; et epulaberis ante Dominum Deum tuum. Si enim ab universo populo haec pentecoste jussa est observari, numquid omnes uno die credendum est falcem jussos mittere in messem? Si autem sibi quisque observat istam quinquagesimam, dinumerans ab illo die quo falcem mittit; non una est universo populo: illa vero una est quae computatur ab immolatione Paschae usque in diem datae Legis in Sina.",
+  "fonte_url": "https://mlat.uzh.ch/browser/cps_2.AugHip.QuInHe",
+  "traducao_pt": "Pergunta-se de que modo mandou observar o que diz: «Contarás sete semanas inteiras, a partir de quando começares a meter a foice na messe; começarás a contar sete semanas e celebrarás a festa das Semanas ao Senhor teu Deus, conforme puder a tua mão, o que quer que o Senhor te tenha dado, segundo te houver abençoado o Senhor teu Deus; e farás banquete diante do Senhor teu Deus.» Se todo o povo recebeu a ordem de observar este Pentecostes, deve-se acaso crer que a todos foi mandado meter a foice na messe no mesmo dia? Se, porém, cada um o observa por si, contando os cinquenta dias a partir do dia em que mete a foice, ele não é um só para todo o povo. Um só é aquele que se conta desde a imolação da Páscoa até o dia em que a Lei foi dada no Sinai.",
+  "temas": [
+   "a festa das Semanas",
+   "a contagem dos cinquenta dias"
+  ],
+  "resumo": "Agostinho: se cada um contasse as sete semanas desde a sua própria colheita, a festa não seria uma só para o povo; por isso o Pentecostes conta-se da Páscoa até a Lei do Sinai.",
+  "relevancia": 2,
+  "direitos": "domínio público"
+ },
+ {
+  "autor": "Rábano Mauro",
+  "autor_id": "rabano",
+  "datas": "c. 780–856",
+  "titulo_autor": "abade de Fulda, arcebispo de Mogúncia",
+  "id": "rabano-in-dt-3-10-pascoa-passagem-e-azimos",
+  "obra": "Enarração sobre o Deuteronômio (Enarratio super Deuteronomium)",
+  "passagem": "III, cap. 10 (sobre Dt 16,1-3)",
+  "edicao": "PL 108, 896A–896C",
+  "trecho": "1",
+  "versiculos": [
+   1,
+   3
+  ],
+  "lingua": "la",
+  "original": "«Observa mensem novarum frugum, et verni primum temporis, ut facias phase Domino Deo tuo: quoniam in isto mense eduxit te Dominus Deus tuus ex Aegypto nocte, immolabisque phase Domino Deo tuo de ovibus et bubus in loco quem elegerit Dominus Deus tuus, ut inhabitet nomen ejus ibi.» Ideo quoque facere phase, hoc est, pascha a Domino jubentur, ut redemptionem eorum de Aegypto festivitate congrua celebrent: sic et nos per hoc exemplum instruimur, ut qui per gratiam Dei de spiritali Aegypto liberati sumus, novum hominem induti, deinceps in novitate vitae ambulemus, consecrantes Deo primitias bonorum operum, ac religiosae vitae gratum munus illi semper exhibentes, simusque semper memores, unde appellata sit illa solemnitas phase, quod nos transitum possumus vocare; scilicet ut de pejoribus ad meliora pergentes, tenebrosam Aegyptum derelinquamus, et ad terram repromissionis feliciter pervenire contendamus. [...] Hoc et a nobis modis omnibus, si fieri potest, elaborandum est, ut exeuntes a saeculi hujus illecebris, non ambulemus in fermento veteris malitiae et nequitiae, sed in azymis sinceritatis et veritatis, quod est nova conversatio hominis, relicto pristino homine cum sociis suis. Et illis quidem septem diebus mundus peragitur, istis qui semper in suo ordine revolvuntur, et quotidie nobis agnus occiditur, et pascha quotidie celebratur, si fermentum malitiae et nequitiae non habemus, si innovati nihil ex corruptionis veteris malitia delectemur.",
+  "fonte_url": "https://mlat.uzh.ch/browser/cps_2.RabMau.EnSuDe",
+  "traducao_pt": "«Guarda o mês das novas colheitas e o início da primavera, para fazeres a Páscoa ao Senhor teu Deus, porque neste mês o Senhor teu Deus te tirou do Egito de noite; e imolarás a Páscoa ao Senhor teu Deus, de ovelhas e bois, no lugar que o Senhor teu Deus escolher, para que ali habite o seu nome.» Por isso o Senhor manda fazer o *phase*, isto é, a Páscoa: para que celebrem com festa condizente a sua libertação do Egito. Também nós somos instruídos por este exemplo: nós, que pela graça de Deus fomos libertados do Egito espiritual e nos revestimos do homem novo, andemos daí em diante em novidade de vida, consagrando a Deus as primícias das boas obras e oferecendo-lhe sempre o dom agradável de uma vida religiosa; e lembremo-nos sempre de por que aquela solenidade se chama *phase*, que podemos traduzir por «passagem», a saber: para que, passando do pior ao melhor, deixemos o Egito tenebroso e nos esforcemos por chegar felizmente à terra da promessa. [...] Isto também nós temos de procurar, de todos os modos, se possível: que, saindo das seduções deste século, não andemos no fermento da velha malícia e perversidade, mas nos ázimos da sinceridade e da verdade, que é a vida nova do homem, deixado o homem velho com os seus companheiros. Naqueles sete dias o mundo é percorrido até o fim; nestes que sempre voltam em sua ordem, imola-se-nos cada dia o cordeiro e cada dia se celebra a Páscoa, se não temos o fermento da malícia e da perversidade, se, renovados, nada nos deleita da malícia da antiga corrupção.",
+  "temas": [
+   "a Páscoa como passagem",
+   "os ázimos da sinceridade"
+  ],
+  "resumo": "Rábano: a Páscoa é «passagem» do pior ao melhor; quem foi libertado do Egito espiritual celebra cada dia a Páscoa, sem o fermento da malícia.",
+  "relevancia": 2,
+  "direitos": "domínio público"
+ },
+ {
+  "autor": "São Cirilo de Alexandria",
+  "autor_id": "cirilo",
+  "datas": "c. 376–444",
+  "titulo_autor": "bispo de Alexandria, Doutor da Igreja",
+  "id": "cirilo-hom-pasc-tres-festas-do-ano-dt16-16",
+  "obra": "Homilias festivas (Cartas pascais), Homiliae paschales",
+  "passagem": "Homilia pascal, sobre Dt 16,16",
+  "edicao": "PG 77, 944",
+  "trecho": "3",
+  "versiculos": [
+   13,
+   15,
+   16
+  ],
+  "lingua": "grc",
+  "original": "\"Τρεῖς καιροὺς τοῦ ἐνιαυτοῦ ὀφθήσεται πᾶν ἀρσενικόν σου ἔναντι Κυρίου τοῦ Θεοῦ σου, ἐν τόπῳ ᾧ ἂν ἐκλέξηται Κύριος ὁ Θεός σου, ἐν τῇ ἑορτῇ τῶν Ἀζύμων, καὶ ἐν τῇ ἑορτῇ τῶν Ἑβδομάδων, καὶ ἐν τῇ ἑορτῇ τῆς Σκηνοπηγίας.\" [...] Ἡ μὲν γὰρ τῶν Ἀζύμων ἑορτὴ, πρόφασιν ἔχει τῶν ἐξ αἵματος Ἰσραὴλ τὴν λύτρωσιν, ὅτε καὶ ἐν τῷ πρώτῳ καθ' Ἑβραίους μηνὶ τὸν ἀμνὸν ἱερεύσαντες εἰς τύπον Χριστοῦ, καὶ ἀζύμους ἄρτους ἐσθίοντες ἐπ' αὐτῷ, τῆς σκαιότητος τῶν Αἰγυπτίων ἀπελύσαντο τὸν ζυγὸν, καὶ τῆς ἀσυνήθους θητείας τὸ πικρὸν καὶ δύσοιστον ἄχθος ἀποπεμψάμενοι, τῶν περὶ γῆν καὶ πλινθείαν ἀπηλλάττοντο πόνων, καὶ τυραννικῆς ὠμότητος ἀποτρέχοντες, ἐλευθέρῳ θελήματι Θεῷ λατρεύειν ἐσπούδαζον. Ἡ δέ γε τῶν Ἑβδομάδων πανήγυρις, ἐπὶ θερισμῷ πυρῶν ἐπράττετο καὶ καρπῶν ἑτέρων, οἷς τὴν ἅλω χαίροντες πιμπλῶσι γηπόνοι, τὰ ἐξ ἀγρῶν συλλέγοντες, καὶ τῶ ἐπ' ἀρότροις ἱδρώτων λιπαρωτάτην ἔχοντες τὴν ἀντέκτισιν. Ἡ δέ γε τρίτη, τουτέστιν, ἡ ἐπὶ ταῖς σκηναῖς, ἤγουν τῆς Σκηνοπηγίας, ἐπὶ συντελείᾳ πόνου παντὸς, καὶ ὡς ἤδη σεσωρευμένης ἐν θησαυροῖς πολυειδοῦς εὐκαρπίας, ἐτελεῖτο μετ' εὐθυμίας. Πάντα γὰρ ὥσπερ ἱδρῶτα διαπεράναντες τῶν τοῖς γηπονεῖν εἰωθόσιν ἐπηρτημένων, ἐδέχοντο μὲν κάλυντρα φοινίκων, καὶ ὡραίου ξύλου καρπὸν, καὶ κλάδους ξύλου δασεῖς, καὶ ἄγνου, καὶ ἰτέας· εἶτα διαπλέκοντες τὰς σκηνὰς, ἀνειμένοι τε καὶ ἁβροδίαιτοι, ἑπτὰ τὰς πάσας ἡμέρας ἐπ' αὐταῖς ηὐλίζοντο.",
+  "fonte_url": "https://khazarzar.skeptik.net/pgm/PG_Migne/Cyril%20of%20Alexandria_PG%2068-77/Epistulae%20paschales%20sive%20Homiliae%20paschales.pdf",
+  "traducao_pt": "«Três vezes no ano todo varão teu aparecerá diante do Senhor teu Deus, no lugar que o Senhor teu Deus escolher: na festa dos Ázimos, na festa das Semanas e na festa das Tendas.» [...] A festa dos Ázimos tem por motivo a libertação dos filhos de Israel: no primeiro mês, segundo os hebreus, imolaram o cordeiro como figura de Cristo e comeram com ele pães ázimos; livraram-se do jugo da dureza dos egípcios e, afastando de si o fardo amargo e pesado de um serviço insólito, deixaram os trabalhos de barro e de tijolo e, fugindo à crueldade de um tirano, apressaram-se a servir a Deus por livre vontade. A reunião das Semanas se fazia na colheita do trigo e de outros frutos, com que os lavradores, alegres, enchem a eira, recolhendo o que vem dos campos e tendo, no suor do arado, uma retribuição abundantíssima. A terceira, a das tendas, isto é, a das Tendas, celebrava-se com alegria ao fim de todo o trabalho, quando já estava amontoada nos celeiros a variedade das colheitas. Tendo como que enxugado todo o suor das fadigas próprias de quem cultiva a terra, recebiam ramos de palmeira, o fruto da árvore formosa, ramos densos de árvore, de agnocasto e de salgueiro; e então, entrelaçando as tendas, descansados e em delícias, passavam nelas sete dias inteiros.",
+  "temas": [
+   "as três festas do ano",
+   "a alegria ao fim do trabalho"
+  ],
+  "resumo": "Cirilo explica o motivo de cada festa de Dt 16: os Ázimos recordam a libertação, as Semanas a colheita, as Tendas a alegria ao fim de todo o trabalho.",
+  "relevancia": 3,
+  "direitos": "domínio público"
+ }
+]
