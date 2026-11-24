@@ -1,0 +1,32 @@
+{
+ "1": [
+  {
+   "id": "primicias",
+   "titulo": "As primícias: o melhor do nosso trabalho para Deus",
+   "versiculos": [
+    1,
+    2,
+    3,
+    7,
+    8,
+    9
+   ],
+   "itens": [
+    "ruperto-dt-ii-1-primicias-o-melhor-dos-nossos-esforcos",
+    "rabano-dt-iii-23-terra-de-leite-e-mel"
+   ]
+  }
+ ],
+ "2": [
+  {
+   "id": "terceiro-ano",
+   "titulo": "O dízimo do terceiro ano, para todos os que nada têm",
+   "versiculos": [
+    12
+   ],
+   "itens": [
+    "ruperto-dt-ii-3-o-terceiro-ano-dos-dizimos"
+   ]
+  }
+ ]
+}

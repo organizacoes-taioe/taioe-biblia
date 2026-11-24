@@ -1,0 +1,48 @@
+{
+ "1": [
+  {
+   "id": "altar-pedras",
+   "titulo": "O altar de pedras sem ferro e a lei escrita nos corações",
+   "versiculos": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    8
+   ],
+   "itens": [
+    "ruperto-dt-ii-4-altar-sem-ferro-nada-de-violencia",
+    "rabano-dt-iii-24-pedras-vivas-e-o-deuteronomio-novo"
+   ]
+  }
+ ],
+ "3": [
+  {
+   "id": "garizim-ebal",
+   "titulo": "Garizim e Ebal: o amor, o temor e o juízo final",
+   "versiculos": [
+    12,
+    13
+   ],
+   "itens": [
+    "rabano-dt-iii-25-garizim-por-amor-ebal-por-temor",
+    "ruperto-dt-ii-5-garizim-e-ebal-e-o-juizo-final"
+   ]
+  }
+ ],
+ "4": [
+  {
+   "id": "maldicoes",
+   "titulo": "As maldições: o direito do pobre e a maldição que Cristo tomou",
+   "versiculos": [
+    19,
+    26
+   ],
+   "itens": [
+    "rabano-dt-iii-25-direito-do-estrangeiro-orfao-viuva",
+    "rabano-dt-iii-25-quem-nao-permanece-cristo-nos-remiu"
+   ]
+  }
+ ]
+}
