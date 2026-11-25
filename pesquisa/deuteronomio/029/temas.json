@@ -8,7 +8,28 @@
     3
    ],
    "itens": [
-    "agostinho-qh-v-50-deus-nao-deu-coracao-culpa"
+    "agostinho-qh-v-50-deus-nao-deu-coracao-culpa",
+    "procopio-in-dt-29-3-deus-nada-da-a-quem-se-afastou"
+   ]
+  }
+ ],
+ "2": [
+  {
+   "id": "com-os-ausentes",
+   "titulo": "«Hoje estais todos aqui»: a aliança com o povo inteiro e com os que virão",
+   "versiculos": [
+    9,
+    10,
+    13,
+    14
+   ],
+   "itens": [
+    "lapide-dt-29-9-o-que-a-todos-toca-por-todos-aprovado",
+    {
+     "id": "teodoreto-qdt-37-nao-so-convosco-mas-com-os-que-virao",
+     "texto": "«Não é só convosco», diz, «que faço esta aliança e esta maldição, mas também com os que caminham hoje convosco diante do Senhor vosso Deus e com os que não estão hoje aqui convosco.» Ora, quem provê também para os que hão de vir, como haveria de descuidar-se dos presentes, que recebem a lei? E por que legislaria para os que não conseguem entender?",
+     "passagem": "Quaest. in Deut. 37, sobre Dt 29,13-14"
+    }
    ]
   }
  ],
@@ -22,6 +43,7 @@
     19
    ],
    "itens": [
+    "procopio-in-dt-29-18-arrancar-a-raiz-de-amargura",
     "hugo-adnotationes-dt-29-ebria-sedenta-e-raiz-de-fel",
     "pedro-damiao-intemperantes-2-5-paz-erit-mihi"
    ]
@@ -35,7 +57,9 @@
     28
    ],
    "itens": [
+    "teodoreto-qdt-38-ocultas-deus-conhece-os-pensamentos",
     "hugo-adnotationes-dt-29-ocultas-e-reveladas",
+    "procopio-in-dt-29-28-o-oculto-que-cristo-revelou",
     "agostinho-ep-78-5-o-oculto-e-de-deus-nao-julgar"
    ]
   }

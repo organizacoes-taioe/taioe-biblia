@@ -14,6 +14,34 @@
    ]
   }
  ],
+ "2": [
+  {
+   "id": "ruben-juda",
+   "titulo": "Rúben, que vive apesar da culpa, e Judá, de onde vem o Senhor",
+   "versiculos": [
+    6,
+    7
+   ],
+   "itens": [
+    "origenes-adn-dt-33-6-rubem-vive-e-nao-morre",
+    "teodoreto-qdt-44-juda-e-o-senhor-que-dele-nasceu-dt33-7"
+   ]
+  },
+  {
+   "id": "levi",
+   "titulo": "Levi, que deixa pai e mãe para guardar a palavra de Deus",
+   "versiculos": [
+    8,
+    9,
+    10,
+    11
+   ],
+   "itens": [
+    "teodoreto-qdt-44-levi-despreza-tudo-para-servir-dt33-9",
+    "bruno-segni-pent-dt33-levi-acusa-a-si-mesmo"
+   ]
+  }
+ ],
  "3": [
   {
    "id": "benjamim-jose",
@@ -23,8 +51,21 @@
     16
    ],
    "itens": [
+    "teodoreto-qdt-45-benjamim-perto-do-templo-dt33-12",
     "bruno-segni-pent-dt33-amadissimo-confiante-paulo",
     "rabano-in-dt-iv-3-aquele-que-apareceu-na-sarca"
+   ]
+  }
+ ],
+ "5": [
+  {
+   "id": "neftali",
+   "titulo": "Neftali e a Galileia das nações, que viu uma grande luz",
+   "versiculos": [
+    23
+   ],
+   "itens": [
+    "teodoreto-qdt-45-neftali-a-galileia-das-nacoes-dt33-23"
    ]
   }
  ],
@@ -38,6 +79,7 @@
    ],
    "itens": [
     "bruno-segni-pent-dt33-embaixo-os-bracos-eternos",
+    "lapide-dt33-27-bracos-eternos-cuidam-do-mundo",
     "ruperto-in-dt-i-21-israel-habitara-confiante"
    ]
   }
