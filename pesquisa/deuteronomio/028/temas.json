@@ -18,12 +18,15 @@
  "2": [
   {
    "id": "emprestar",
-   "titulo": "«Emprestarás a muitas nações»: a palavra que se empresta",
+   "titulo": "A bênção sobre a obra: povo santo, que empresta e não pede",
    "versiculos": [
+    9,
+    10,
     12,
     13
    ],
    "itens": [
+    "teodoreto-qdt-34-bencao-espiritual-e-ser-cabeca",
     "ambrosio-de-tobia-18-62-emprestar-a-palavra"
    ]
   }
@@ -31,11 +34,12 @@
  "3": [
   {
    "id": "maldicoes-profecia",
-   "titulo": "As maldições como profecia, não como desejo de mal",
+   "titulo": "Por que tantas maldições: advertência e profecia, não desejo de mal",
    "versiculos": [
     15
    ],
    "itens": [
+    "teodoreto-qdt-36-mais-maldicoes-que-bencaos",
     "agostinho-c-fausto-16-22-maldicoes-profeticas"
    ]
   }
@@ -43,12 +47,16 @@
  "4": [
   {
    "id": "fome-palavra",
-   "titulo": "A fome de ouvir a palavra do Senhor",
+   "titulo": "A seca e a fome: castigo que corrige, e a fome da palavra",
    "versiculos": [
-    20
+    20,
+    22,
+    23,
+    24
    ],
    "itens": [
-    "rabano-in-dt-iii-25-fome-da-palavra"
+    "rabano-in-dt-iii-25-fome-da-palavra",
+    "rabano-in-dt-iii-25-deus-permite-ceu-de-bronze"
    ]
   }
  ],
@@ -63,6 +71,47 @@
    ],
    "itens": [
     "rabano-in-dt-iii-25-gafanhotos-e-vermes-da-graca"
+   ]
+  }
+ ],
+ "8": [
+  {
+   "id": "nacao-de-longe",
+   "titulo": "«Uma nação que vem de longe»: a derrota que vem dos próprios vícios",
+   "versiculos": [
+    49
+   ],
+   "itens": [
+    "salviano-gub-dei-vii-7-inimigos-fracos-e-a-causa"
+   ]
+  }
+ ],
+ "9": [
+  {
+   "id": "cerco",
+   "titulo": "O cerco anunciado e as Lamentações de Jeremias",
+   "versiculos": [
+    53
+   ],
+   "itens": [
+    {
+     "id": "teodoreto-qdt-34-cerco-e-lamentacoes",
+     "texto": "Em seguida, o que acontece num cerco: «Tomarás uma mulher, e outro homem a possuirá; edificarás uma casa e não habitarás nela; plantarás uma vinha e não a vindimarás», e o que vem depois tem o mesmo sentido. Acrescenta ainda ameaças de úlceras, de toda sorte de sofrimentos e de escravização. [...] E predisse o cerco feito pelos assírios, pelos babilônios, pelos macedônios e, por fim, pelos romanos, e as desgraças do cerco. «Comerás, disse, o fruto do teu ventre, a carne dos teus filhos e das tuas filhas, que o Senhor teu Deus te tiver dado, na tua angústia e na aflição com que o teu inimigo te afligir», e tudo o mais que o profeta Jeremias disse nas Lamentações, que escreveu depois de passar pela prova."
+    }
+   ]
+  }
+ ],
+ "11": [
+  {
+   "id": "vida-suspensa",
+   "titulo": "«Verás a tua vida suspensa diante de ti»: a profecia da cruz",
+   "versiculos": [
+    66
+   ],
+   "itens": [
+    "atanasio-de-incarnatione-35-moises-anuncia-a-cruz",
+    "agostinho-c-fausto-16-22-a-vida-suspensa-e-cristo",
+    "ruperto-victoria-verbi-3-28-a-vida-suspensa-velada"
    ]
   }
  ]

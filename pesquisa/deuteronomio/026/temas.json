@@ -7,25 +7,73 @@
     1,
     2,
     3,
+    4,
     7,
     8,
-    9
+    9,
+    10
    ],
    "itens": [
     "ruperto-dt-ii-1-primicias-o-melhor-dos-nossos-esforcos",
+    "tomas-st-2-2-86-4-primicias-reconhecer-o-beneficio",
     "rabano-dt-iii-23-terra-de-leite-e-mel"
+   ]
+  },
+  {
+   "id": "arameu",
+   "titulo": "«Meu pai era um arameu errante»: quem era e por que lembrá-lo",
+   "versiculos": [
+    5,
+    6
+   ],
+   "itens": [
+    "lapide-dt-26-5-siro-era-labao-o-arameu-errante",
+    "ruperto-dt-ii-2-o-sirio-labao-e-jaco-meu-pai"
+   ]
+  },
+  {
+   "id": "acao-de-gracas",
+   "titulo": "Agradecer a Deus pela terra e pelos frutos que ele deu",
+   "versiculos": [
+    9,
+    10,
+    11
+   ],
+   "itens": [
+    "tomas-st-2-2-86-4-ad2-ad1-a-terra-e-os-frutos-de-todos",
+    "lapide-dt-26-10-11-acao-de-gracas-deo-gratias"
    ]
   }
  ],
  "2": [
   {
    "id": "terceiro-ano",
-   "titulo": "O dízimo do terceiro ano, para todos os que nada têm",
+   "titulo": "O dízimo do terceiro ano e a declaração diante de Deus",
    "versiculos": [
-    12
+    12,
+    13,
+    14,
+    15
    ],
    "itens": [
-    "ruperto-dt-ii-3-o-terceiro-ano-dos-dizimos"
+    "ruperto-dt-ii-3-o-terceiro-ano-dos-dizimos",
+    "lapide-dt-26-12-o-terceiro-ano-e-os-pobres",
+    "agobardo-dispensatione-27-a-confissao-das-primicias-e-dizimos"
+   ]
+  }
+ ],
+ "3": [
+  {
+   "id": "alianca-dois-lados",
+   "titulo": "A aliança dos dois lados: Israel escolhe o Senhor, e o Senhor escolhe Israel",
+   "versiculos": [
+    17,
+    18,
+    19
+   ],
+   "itens": [
+    "henrique-marcy-peregrinante-1-alianca-de-mao-dupla-dt26",
+    "ruperto-victoria-verbi-3-21-escolheu-te-povo-peculiar"
    ]
   }
  ]

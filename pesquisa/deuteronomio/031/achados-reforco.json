@@ -1,0 +1,56 @@
+[
+ {
+  "autor": "São Cirilo de Alexandria",
+  "autor_id": "cirilo",
+  "datas": "c. 376–444",
+  "titulo_autor": "bispo de Alexandria, Doutor da Igreja",
+  "lingua": "grc",
+  "direitos": "domínio público",
+  "fonte_url": "https://khazarzar.skeptik.net/pgm/PG_Migne/Cyril%20of%20Alexandria_PG%2068-77/Glaphyra%20in%20Pentateuchum.pdf",
+  "id": "cirilo-glaph-dt-josue-sucede-moises-dt31-7",
+  "obra": "Glafiras sobre o Pentateuco (Glaphyra in Pentateuchum), Deuteronômio, «Sobre a escolha de Josué», 2",
+  "passagem": "sobre Dt 31,7-8",
+  "edicao": "PG 69, 672–673 (texto digital da PG)",
+  "trecho": "1",
+  "versiculos": [
+   7,
+   8
+  ],
+  "original": "Μέλλοντος ἀπαίρειν πραγμάτων τοῦ παναρίστου Μωσέως καὶ εἰς τὰς ἄνω λοιπὸν μεθαρμόζεσθαι μονὰς, ἀντανίσταται τρόπον τινὰ καὶ διαδέχεται τὴν ἡγεμονίαν ὁ θεσπέσιος Ἰησοῦς. [...] Οὐκ ἠγνόησεν ὁ Μωσῆς τοῦ Σωτῆρος τὴν δόξαν, τὴν ἀσύγκριτον, ὑπεροχὴν τὴν κατὰ παντὸς ἁγίου, μᾶλλον δὲ ἁπάσης κτίσεως λογικῆς. [...] Οὐκ ἠγνόησεν ὅτι δεδικαίωκεν ὁ δι' αὐτοῦ νόμος οὐδένα· καὶ γὰρ ἦν ἀμήχανον αἷμα ταύρων καὶ τράγων ἀφαιρεῖν ἁμαρτίαν. Ἀπαλλάξει δὲ τὴν οἰκουμένην ὁ Κύριος ἡμῶν Ἰησοῦς Χριστὸς τῶν ἀρχαίων αἰτιαμάτων, καὶ ἐπείπερ ἐστὶν αὐτὸς ἡ ἀλήθεια, καὶ ὁ κατὰ φύσιν ἅγιος, ἁγιάζει τοὺς πεπιστευκότας τῷ ἰδίῳ αἵματι, καὶ θανάτου μὲν καὶ φθορᾶς ἀμείνους ἀποφαίνει, εἰσκομιεῖ δὲ καὶ εἰς αὐτὴν τὴν τῶν οὐρανῶν βασιλείαν, τὴν ἀξιέραστον ἀληθῶς καὶ ἁγίαν γῆν τῆς ἄνω μονῆς, τὴν ἐν οὐρανῷ καλλίπολιν, τὴν τῶν πρωτοτόκων Ἐκκλησίαν, ἧς τεχνίτης καὶ δημιουργὸς ὁ Θεός.",
+  "traducao_pt": "Quando o excelente Moisés estava para partir e ser transferido para as moradas do alto, o admirável Josué se levanta, por assim dizer, e recebe o comando. [...] Moisés não ignorou a glória do Salvador, a glória sem comparação, que está acima de todo santo e, mais ainda, de toda criatura racional. [...] Não ignorou que a Lei dada por meio dele não justificou ninguém: era impossível que o sangue de touros e de bodes tirasse o pecado. O nosso Senhor Jesus Cristo libertará o mundo das antigas acusações e, porque ele mesmo é a verdade e o santo por natureza, santifica os que creem com o seu próprio sangue, torna-os superiores à morte e à corrupção e os introduzirá no próprio Reino dos céus, a terra verdadeiramente digna de amor e santa da morada do alto, a cidade bela dos céus, a Igreja dos primogênitos, da qual Deus é o artífice e o construtor.",
+  "temas": [
+   "Josué sucede a Moisés",
+   "a Lei que entrega o povo a Cristo"
+  ],
+  "resumo": "Quando Moisés passa o comando a Josué, Cirilo vê a Lei, que não podia tirar o pecado, entregar o povo a Cristo, que santifica com o seu sangue e introduz na verdadeira terra prometida, o céu.",
+  "relevancia": 2
+ },
+ {
+  "autor": "São Cirilo de Alexandria",
+  "autor_id": "cirilo",
+  "datas": "c. 376–444",
+  "titulo_autor": "bispo de Alexandria, Doutor da Igreja",
+  "lingua": "grc",
+  "direitos": "domínio público",
+  "fonte_url": "https://khazarzar.skeptik.net/pgm/PG_Migne/Cyril%20of%20Alexandria_PG%2068-77/Glaphyra%20in%20Pentateuchum.pdf",
+  "id": "cirilo-glaph-dt-lei-lida-no-setimo-ano-dt31-10",
+  "obra": "Glafiras sobre o Pentateuco (Glaphyra in Pentateuchum), Deuteronômio, «Sobre a escolha de Josué», 3",
+  "passagem": "sobre Dt 31,9-13",
+  "edicao": "PG 69, 676–677 (texto digital da PG)",
+  "trecho": "2",
+  "versiculos": [
+   10,
+   11,
+   12,
+   13
+  ],
+  "original": "Ἐπιτήρει δὲ ὅτι ἐν ἔτεσι τοῖς ἑπτὰ τοῖς πρὸ τῆς ἀφέσεως, τουτέστιν, ἐν χρόνοις τοῖς πρὸ τῆς ἐπιδημίας, ὁ νόμος οὐκ ἀνεγινώσκετο. Ὅμοιον γὰρ τὸ μηδ' ὅλως ἀναγινώσκειν αὐτὸν, τὸ μηδὲν δύνασθαι νοεῖν, κἂν εἴ τις αὐτὸν ἀναγινώσκοι τυχόν. Γνώριμος δὲ, ὡς ἔφην, τότε δὴ γέγονε μικροῖς καὶ μεγάλοις, ὅτε καὶ ὁ τῆς ἀφέσεως ἐνέστη καιρός. [...] Τότε πεφωτίσμεθα, καὶ τὸν πάλαι κεκρυμμένον, καὶ οὐδενί που τάχα τῶν ἀρχαιοτέρων γνώριμον νενοήκαμεν νόμον. Τότε συνεγηγέρμεθα καὶ ἐκ τῶν περάτων τῆς γῆς, εἰς ὃν ἐξελέξατο τόπον, τουτέστι, τὴν Ἐκκλησίαν, ἐκεῖ γεγονόσιν ἡμῖν τὸν ἐν σκιαῖς καὶ τύποις διερμηνεύουσι νόμον οἱ ἀπόλεκτοί τε καὶ ἱεροὶ μυσταγωγοὶ καὶ διδάσκαλοι.",
+  "traducao_pt": "Observa que, nos sete anos que antecedem o ano da remissão, isto é, nos tempos anteriores à vinda de Cristo, a Lei não era lida. Pois é o mesmo não a ler de modo algum e não poder entender nada, ainda que alguém por acaso a leia. Ela se tornou conhecida de pequenos e grandes, como eu disse, só quando chegou o tempo da remissão. [...] Então fomos iluminados e compreendemos a Lei, escondida desde antigamente e talvez conhecida de nenhum dos mais antigos. Então fomos reunidos desde os confins da terra no lugar que ele escolheu, isto é, a Igreja, e ali, para nós, os escolhidos e santos mestres que nos iniciam nos mistérios explicam a Lei, que estava em sombras e figuras.",
+  "temas": [
+   "a leitura da Lei no ano da remissão",
+   "a Lei explicada na Igreja"
+  ],
+  "resumo": "Cirilo vê na leitura da Lei a cada sete anos o tempo de Cristo: só então a Lei, antes velada, é entendida por todos, e a Igreja é o lugar escolhido onde os mestres a explicam.",
+  "relevancia": 2
+ }
+]
