@@ -135,3 +135,6 @@ de onde veio. Ler antes de preparar um capítulo (`CAPITULO.md`, etapas 2 a 4).
   na nota mais do que o texto sustenta.
 - 2026-11-22, Nm 25,11 (a nota da Missa, para reescrever): «Está confuso. A missa lembra ou a leitura lembra? De que modo a missa lembra?». Nota de liturgia diz qual é a leitura e o que ela faz com o versículo.
 - 2026-11-22, Nm 26,33 (a nota que remetia ao capítulo seguinte, excluída): «É só continuar que vou ver isso, não precisa avisar na nota». Nota não anuncia o que vem logo adiante.
+- 2026-11-26, Nm 28,18 (*miqra-qodesh*, a opção b): «Não vejo nesse caso necessidade de distinguir de qahal, não são duas coisas que não possam se confundir, não perde nada assim». Distinguir palavras hebraicas só quando a confusão perde algo para o leitor; senão, a forma mais natural.
+- 2026-11-26, Dt 4,1 (a nota da Missa, excluída): «relacionou o versículo a um ponto da liturgia sem nenhum distintivo relevante, então acabou sendo uma nota "sem sal"». Nota de liturgia só quando a leitura da Missa ilumina o versículo; dizer apenas que ele é lido num domingo não basta.
+- 2026-11-26, Dt 4,13 («São os Dez Mandamentos», excluída): «Achei que ficou óbvio no texto». Também em Dt 1,1 a nota cortou a frase final, que resumia o livro inteiro: fica o que situa.

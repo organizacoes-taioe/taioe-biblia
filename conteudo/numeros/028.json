@@ -1,8 +1,8 @@
 {
  "livro": "numeros",
  "cap": 28,
- "estado": "em revisão",
- "atualizado": "2026-11-15",
+ "estado": "revisado",
+ "atualizado": "2026-11-26",
  "trechos": [
   {"id": "1", "titulo": "O holocausto de cada dia", "de": 1},
   {"id": "2", "titulo": "O sábado", "de": 9},
@@ -32,16 +32,16 @@
   {"s": "A Páscoa e os Ázimos"},
   {"v": 16, "t": "No primeiro mês, no dia catorze do mês, é a Páscoa do Senhor."},
   {"v": 17, "t": "No dia quinze deste mês haverá festa: durante sete dias se comerão pães ázimos."},
-  {"v": 18, "t": "No primeiro dia haverá santa convocação; não fareis nenhum trabalho servil."},
+  {"v": 18, "t": "No primeiro dia haverá santa assembleia; não fareis nenhum trabalho servil."},
   {"v": 19, "t": "Apresentareis em oferta queimada, em holocausto ao Senhor, dois novilhos, um carneiro e sete cordeiros de um ano; sejam sem defeito."},
   {"v": 20, "t": "E, como oblação, flor de farinha amassada com azeite: oferecereis três décimos para cada novilho e dois décimos para o carneiro,"},
   {"v": 21, "t": "e oferecerás um décimo para cada um dos sete cordeiros;"},
   {"v": 22, "t": "e um bode como sacrifício pelo pecado, para fazer a expiação por vós."},
   {"v": 23, "t": "Fareis isso além do holocausto da manhã, que é o holocausto perpétuo."},
   {"v": 24, "t": "Assim fareis cada dia, durante sete dias: é alimento, oferta queimada de aroma agradável ao Senhor; será oferecido além do holocausto perpétuo e da sua libação."},
-  {"v": 25, "t": "No sétimo dia haverá para vós santa convocação; não fareis nenhum trabalho servil."},
+  {"v": 25, "t": "No sétimo dia haverá para vós santa assembleia; não fareis nenhum trabalho servil."},
   {"s": "A festa das Semanas"},
-  {"v": 26, "t": "No dia das primícias, quando apresentardes ao Senhor a oblação nova, na vossa festa das Semanas, haverá para vós santa convocação; não fareis nenhum trabalho servil."},
+  {"v": 26, "t": "No dia das primícias, quando apresentardes ao Senhor a oblação nova, na vossa festa das Semanas, haverá para vós santa assembleia; não fareis nenhum trabalho servil."},
   {"v": 27, "t": "Oferecereis em holocausto, em aroma agradável ao Senhor, dois novilhos, um carneiro e sete cordeiros de um ano,"},
   {"v": 28, "t": "e, como oblação, flor de farinha amassada com azeite: três décimos para cada novilho, dois décimos para o carneiro,"},
   {"v": 29, "t": "e um décimo para cada um dos sete cordeiros;"},
@@ -124,19 +124,5 @@
     }
    ]
   }
- },
- "revisao": {
-  "escolhas": [
-   {
-    "id": "santa-convocacao",
-    "ref": "Nm 28,18",
-    "titulo": "*Miqra-qodesh*: «santa convocação» ou «santa assembleia»?",
-    "contexto": "*Miqra-qodesh* é o dia de festa em que o povo é chamado ao culto e não faz trabalho servil (Nm 28,18.25.26; 29,1.7.12; Ex 12,16; Lv 23, onze vezes). *Miqra* vem de «chamar». A tradução de partida dizia «santa assembleia», mas pelas nossas escolhas «assembleia» já é *qahal* (e «comunidade», *'edá*). A Vulgata diz «venerabilis et sancta» ou «celeberrimus et sanctus»; a Bíblia grega, «chamada santa». A escolha vale para a Bíblia inteira.",
-    "opcoes": [
-     {"id": "a", "texto": "«haverá santa convocação»", "nota": "Diz o que a palavra diz e não se confunde com *qahal*.", "recomendada": true},
-     {"id": "b", "texto": "«haverá santa assembleia», como a tradução de partida", "nota": "Mais natural, mas a mesma palavra de *qahal*."}
-    ]
-   }
-  ]
  }
 }

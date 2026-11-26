@@ -1,8 +1,8 @@
 {
  "livro": "deuteronomio",
  "cap": 2,
- "estado": "em revisão",
- "atualizado": "2026-11-23",
+ "estado": "revisado",
+ "atualizado": "2026-11-26",
  "trechos": [
   {"id": "1", "titulo": "A passagem por Edom", "de": 1},
   {"id": "2", "titulo": "A passagem por Moab e o fim da geração do deserto", "de": 9},

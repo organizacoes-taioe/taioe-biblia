@@ -1,8 +1,8 @@
 {
  "livro": "deuteronomio",
  "cap": 1,
- "estado": "em revisão",
- "atualizado": "2026-11-23",
+ "estado": "revisado",
+ "atualizado": "2026-11-26",
  "trechos": [
   {"id": "1", "titulo": "As palavras que Moisés falou", "de": 1},
   {"id": "2", "titulo": "A ordem de partir do Horeb", "de": 6},
@@ -68,9 +68,8 @@
   {"v": 46, "t": "Assim permanecestes em Cades muitos dias, todo o tempo que ali ficastes."}
  ],
  "notas": [
-  {"id": "n01", "v": 1, "apos": "Jordão", "texto": "Isto é, a leste do rio, na terra de Moab, de frente para a terra prometida. O Deuteronômio é a despedida de Moisés ao povo, pouco antes de morrer ali.", "origem": "nova: situa o livro inteiro"},
+  {"id": "n01", "v": 1, "apos": "Jordão", "texto": "Isto é, a leste do rio, na terra de Moab, de frente para a terra prometida.", "origem": "nova: situa o livro inteiro"},
   {"id": "n02", "v": 2, "apos": "Horeb", "texto": "Outro nome do monte Sinai, onde Deus deu a Lei a Moisés.", "origem": "nova: primeira vez no livro"},
-  {"id": "n03", "v": 2, "apos": "Seir", "texto": "Esse caminho de onze dias acabou levando quarenta anos, por causa da revolta que o capítulo vai contar.", "origem": "revista do projeto antigo"},
   {"id": "n04", "v": 7, "apos": "Negueb", "texto": "A Arabá é o vale profundo do Jordão; a montanha, o centro do país; a Sefelá, as colinas baixas entre a montanha e o mar; o Negueb, o sul seco.", "origem": "nova: lugares pouco conhecidos"},
   {"id": "n05", "v": 13, "apos": "frente", "texto": "Os vv. 9–14 estão entre as leituras previstas para a Missa de admissão dos candidatos ao diaconato e ao presbiterato.", "origem": "nova: liturgia (OLM 775)"},
   {"id": "n06", "v": 37, "apos": "causa", "texto": "Em Números, Moisés fica fora da terra pela sua falta nas águas de Meriba (Nm 20,12); aqui, ele diz que foi por causa do povo.", "origem": "revista do projeto antigo: resolve um estranhamento"}

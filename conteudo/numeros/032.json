@@ -1,8 +1,8 @@
 {
  "livro": "numeros",
  "cap": 32,
- "estado": "em revisão",
- "atualizado": "2026-11-15",
+ "estado": "revisado",
+ "atualizado": "2026-11-26",
  "trechos": [
   {"id": "1", "titulo": "O pedido de Rúben e Gad", "de": 1},
   {"id": "2", "titulo": "A repreensão de Moisés", "de": 6},

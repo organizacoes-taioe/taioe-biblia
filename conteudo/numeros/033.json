@@ -1,8 +1,8 @@
 {
  "livro": "numeros",
  "cap": 33,
- "estado": "em revisão",
- "atualizado": "2026-11-15",
+ "estado": "revisado",
+ "atualizado": "2026-11-26",
  "trechos": [
   {"id": "1", "titulo": "As etapas desde o Egito", "de": 1},
   {"id": "2", "titulo": "A ordem de expulsar os cananeus", "de": 50}
