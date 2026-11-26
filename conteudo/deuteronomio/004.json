@@ -2,7 +2,7 @@
  "livro": "deuteronomio",
  "cap": 4,
  "estado": "em revisão",
- "atualizado": "2026-11-23",
+ "atualizado": "2026-11-26",
  "trechos": [
   {"id": "1", "titulo": "Exortação a guardar a lei", "de": 1},
   {"id": "2", "titulo": "O Horeb e a proibição das imagens", "de": 9},
@@ -69,12 +69,9 @@
   {"v": 49, "t": "com toda a Arabá do outro lado do Jordão, ao oriente, até o mar da Arabá, ao pé das encostas do Fasga."}
  ],
  "notas": [
-  {"id": "n01", "v": 1, "apos": "Israel", "texto": "Os vv. 1-2 e 6-8 são a primeira leitura da Missa do 22º domingo do Tempo Comum, ano B.", "origem": "nova: liturgia da Missa"},
-  {"id": "n02", "v": 3, "apos": "Baal-Fogor", "texto": "Em Baal-Fogor, em Moab, os israelitas se entregaram ao culto desse deus, e vinte e quatro mil morreram (Nm 25).", "origem": "nova: localiza a referência"},
-  {"id": "n03", "v": 13, "apos": "dez palavras", "texto": "São os Dez Mandamentos.", "origem": "revista do projeto antigo: sem a nota de língua"},
-  {"id": "n04", "v": 20, "apos": "fornalha de ferro", "texto": "A fornalha onde se fundia o ferro: imagem do sofrimento de Israel no Egito.", "origem": "revista do projeto antigo, mais curta"},
-  {"id": "n05", "v": 32, "apos": "antigos", "texto": "Os vv. 32-34 e 39-40 são a primeira leitura da Missa da Santíssima Trindade, ano B.", "origem": "nova: liturgia da Missa"},
-  {"id": "n06", "v": 48, "apos": "Sion", "texto": "Não é o monte Sião, de Jerusalém: Sion é outro nome do Hermon, no extremo norte da terra.", "origem": "nova: evita a confusão entre os dois nomes"}
+  {"id": "n02", "v": 3, "apos": "Baal-Fogor", "texto": "Em Baal-Fogor, em Moab, os israelitas se entregaram ao culto desse deus, e vinte e quatro mil morreram (Nm 25).", "origem": "nova: localiza a referência", "revista": true},
+  {"id": "n05", "v": 32, "apos": "antigos", "texto": "Os vv. 32-34 e 39-40 são a primeira leitura da Missa da Santíssima Trindade, ano B.", "origem": "nova: liturgia da Missa", "revista": true},
+  {"id": "n06", "v": 48, "apos": "Sion", "texto": "Não é o monte Sião, de Jerusalém: Sion é outro nome do Hermon, no extremo norte da terra.", "origem": "nova: evita a confusão entre os dois nomes", "revista": true}
  ],
  "comentarios": {
   "1": {
@@ -250,10 +247,11 @@
    {
     "id": "estatutos-normas",
     "ref": "Dt 4,1",
-    "titulo": "*Huqqim umishpatim*: «os estatutos e as normas de direito» ou «as leis e os decretos»?",
-    "contexto": "É a fórmula que abre e fecha os discursos do Deuteronômio (4,1.5.8.14.45; 5,1; 11,32; 12,1; 26,16…). O lecionário diz «as leis e os decretos» (22º domingo, ano B). Mas «lei» já é *torá*, que aparece junto com a fórmula no v. 8, e Nm 36,13 já tem «as normas de direito». A escolha vale para a Bíblia inteira.",
+    "titulo": "*Huqqim umishpatim*: «os estatutos e as normas de direito» ou «os estatutos e os decretos»?",
+    "contexto": "É a fórmula que abre e fecha os discursos do Deuteronômio (4,1.5.8.14.45; 5,1; 11,32; 12,1; 26,16…). O lecionário diz «as leis e os decretos» (22º domingo, ano B). Mas «lei» já é *torá*, que aparece junto com a fórmula no v. 8, e Nm 36,13 já tem «as normas de direito». A escolha vale para a Bíblia inteira. Resposta à sua pergunta: em Nm 36,13 o hebraico é *ha-mitsvot veha-mishpatim*; «normas de direito» traduz *mishpatim*, a mesma palavra daqui. «Os estatutos e os decretos» serve: *huqqim* = estatutos, *mishpatim* = decretos, e «decretos» ainda não traduz nenhuma outra palavra. Nesse caso Nm 36,13 passa a «os mandamentos e os decretos», e o mesmo nas 21 vezes de Dt 4–30.",
     "opcoes": [
-     {"id": "a", "texto": "«ouve os estatutos e as normas de direito»", "nota": "Mantém «lei» só para *torá*, como Nm 36,13.", "recomendada": true},
+     {"id": "a", "texto": "«ouve os estatutos e as normas de direito»", "nota": "Mantém «lei» só para *torá*, como Nm 36,13."},
+     {"id": "c", "texto": "«ouve os estatutos e os decretos», a sua sugestão", "nota": "Fica perto do lecionário («decretos»), e «lei» continua só para *torá*.", "recomendada": true},
      {"id": "b", "texto": "«ouve as leis e os decretos», como o lecionário", "nota": "A forma que se ouve na Missa, mas «lei» passa a traduzir duas palavras."}
     ]
    }

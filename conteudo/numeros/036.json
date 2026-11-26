@@ -1,8 +1,8 @@
 {
  "livro": "numeros",
  "cap": 36,
- "estado": "em revisão",
- "atualizado": "2026-11-15",
+ "estado": "revisado",
+ "atualizado": "2026-11-26",
  "trechos": [
   {"id": "1", "titulo": "A herança das filhas de Salfaad", "de": 1}
  ],

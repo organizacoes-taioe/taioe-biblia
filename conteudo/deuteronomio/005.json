@@ -1,8 +1,8 @@
 {
  "livro": "deuteronomio",
  "cap": 5,
- "estado": "em revisão",
- "atualizado": "2026-11-23",
+ "estado": "revisado",
+ "atualizado": "2026-11-26",
  "trechos": [
   {"id": "1", "titulo": "A aliança do Horeb", "de": 1},
   {"id": "2", "titulo": "As dez palavras", "de": 6},
@@ -47,7 +47,6 @@
   {"v": 33, "t": "Andareis por todo o caminho que o Senhor vosso Deus vos ordenou, para que vivais, e vos vá bem, e prolongueis os vossos dias na terra de que ides tomar posse."}
  ],
  "notas": [
-  {"id": "n01", "v": 12, "apos": "sábado", "texto": "Os vv. 12-15 são a primeira leitura da Missa do 9º domingo do Tempo Comum, ano B, em que o Evangelho traz Jesus como «senhor também do sábado» (Mc 2,23–3,6).", "origem": "nova: liturgia"},
   {"id": "n02", "v": 21, "apos": "próximo", "texto": "Por este texto o Catecismo conta os mandamentos, como Santo Agostinho: os vv. 7-10 (os outros deuses e as imagens) são o primeiro; não cobiçar a mulher do próximo é o nono, e não desejar os bens dele, o décimo.", "origem": "nova: a contagem dos mandamentos"}
  ],
  "comentarios": {

@@ -317,7 +317,7 @@ Vale para pessoas, povos e lugares, também nos comentários dos Padres.
 | *mishpat ha'urim* | a decisão do Urim | Nm 27,21 | Nm 27 |
 | *yifqod* (Nm 27,16) | designar | «designe um homem à frente desta comunidade» | Nm 27 |
 | *'ishe* / *'olá* / *minhá* / *nesekh* (rituais) | oferta queimada / holocausto / oblação / libação | como Nm 15 (Nm 28–29); *reah nihoah* = «aroma agradável»; a tradução de partida dizia «sacrifício pelo fogo» e «odor suave» | Nm 28 |
-| *miqra-qodesh* | santa convocação | Nm 28,18.25.26; 29,1.7.12; *qahal* fica «assembleia»; a tradução de partida dizia «santa assembleia»; Lv 23 muda ao entrar | Nm 28 |
+| *miqra-qodesh* | santa assembleia | Nm 28,18.25.26; 29,1.7.12; Lv 23; o Gere (26/11): não precisa distinguir de *qahal* («assembleia»), não se confundem | Nm 28 |
 | *ben ha'arbayim* | ao entardecer | Nm 28,4.8 | projeto antigo |
 | *bemo'ado* (Nm 28,2) | no tempo marcado | | Nm 28 |
 | *'atseret* (Nm 29,35) | reunião solene | o oitavo dia da festa das Tendas; *qahal* fica «assembleia»; a tradução de partida dizia «assembleia solene» | Nm 29 |
@@ -336,7 +336,7 @@ Vale para pessoas, povos e lugares, também nos comentários dos Padres.
 | *hit'abber* (Dt 3,26) | irar-se | «o Senhor se irou contra mim por vossa causa», o eco de Dt 1,37 | Dt 3 |
 | *rav-lakh* (Dt 3,26) | Basta! | como Dt 1,6 e 2,3 | Dt 3 |
 | *hazzeq* / *ammets* (Dt 3,28) | encorajar / fortalecer | «encoraja-o e fortalece-o»; *hazzeq* como Dt 1,38 | Dt 3 |
-| *huqqim umishpatim* | os estatutos e as normas de direito | Dt 4,1.5.8.14.45, como Nm 36,13; *torá* fica «lei»; o lecionário diz «as leis e os decretos» | Dt 4, a confirmar |
+| *huqqim umishpatim* | os estatutos e as normas de direito | Dt 4,1.5.8.14.45, como Nm 36,13; *torá* fica «lei»; o lecionário diz «as leis e os decretos» | Dt 4, a confirmar (26/11: proposta a opção «os estatutos e os decretos», sugestão dele) |
 | *pesel* / *temuná* / *semel* / *tavnit* (Dt 4,16-18) | imagem esculpida / figura / ídolo / forma | «imagem esculpida, figura de qualquer ídolo, forma de homem ou de mulher»; a tradução de partida dizia «figura» para as duas últimas | Dt 4 |
 | *dabaq* (Dt 4,4) | unir-se | «vós, que vos unistes ao Senhor», como Gn 2,24 | Dt 4 |
 | *rahum* (Dt 4,31) | compassivo | como *rahamim* = compaixão; a tradução de partida dizia «misericordioso», que é *hesed* | Dt 4 |
