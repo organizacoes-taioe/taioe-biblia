@@ -1,8 +1,8 @@
 {
  "livro": "deuteronomio",
  "cap": 11,
- "estado": "em revisão",
- "atualizado": "2026-11-23",
+ "estado": "revisado",
+ "atualizado": "2026-11-27",
  "trechos": [
   {"id": "1", "titulo": "O que os vossos olhos viram", "de": 1},
   {"id": "2", "titulo": "A terra que bebe a chuva do céu", "de": 8},
@@ -48,7 +48,7 @@
   {"v": 32, "t": "Cuidai, pois, de cumprir todos os estatutos e as normas de direito que hoje ponho diante de vós."}
  ],
  "notas": [
-  {"id": "n01", "v": 10, "apos": "pé", "texto": "No Egito, a água do Nilo chegava às plantações por canais, que se abriam e fechavam com o pé.", "origem": "nova: contexto para o leitor"},
+  {"id": "n01", "v": 10, "apos": "pé", "texto": "No Egito, onde quase não chove, a água do Nilo era levada às plantações por irrigação. Muitos entendem com o pé como alusão aos pequenos diques de terra dos canais, que o camponês abria e fechava com o pé. Outros pensam numa roda d'água movida com os pés, ou na água carregada a pé.", "origem": "nova: contexto para o leitor"},
   {"id": "n02", "v": 24, "apos": "ocidental", "texto": "O mar Mediterrâneo.", "origem": "nova: contexto para o leitor"},
   {"id": "n03", "v": 29, "apos": "Ebal", "texto": "Dois montes frente a frente, com a cidade de Siquém no vale entre eles.", "origem": "nova: contexto para o leitor"}
  ],

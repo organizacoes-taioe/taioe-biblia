@@ -1,8 +1,8 @@
 {
  "livro": "deuteronomio",
  "cap": 8,
- "estado": "em revisão",
- "atualizado": "2026-11-23",
+ "estado": "revisado",
+ "atualizado": "2026-11-27",
  "trechos": [
   {"id": "1", "titulo": "A lembrança do deserto", "de": 1},
   {"id": "2", "titulo": "A terra boa", "de": 7},
@@ -34,7 +34,6 @@
   {"v": 20, "t": "como as nações que o Senhor destrói diante de vós, assim perecereis, por não terdes obedecido à voz do Senhor vosso Deus."}
  ],
  "notas": [
-  {"id": "n01", "v": 2, "apos": "deserto", "texto": "Os vv. 2-3 e 14-16 são a primeira leitura da Missa do Corpo e Sangue de Cristo, ano A: o maná prepara o Evangelho do pão vivo descido do céu (Jo 6,51-58).", "origem": "nova: liturgia"},
   {"id": "n02", "v": 3, "apos": "Senhor", "texto": "Com este versículo Jesus responde à primeira tentação do diabo no deserto (Mt 4,4; Lc 4,4).", "origem": "revista: n01 do projeto antigo"}
  ],
  "comentarios": {
@@ -115,19 +114,5 @@
     }
    ]
   }
- },
- "revisao": {
-  "escolhas": [
-   {
-    "id": "boca-do-senhor",
-    "ref": "Dt 8,3",
-    "titulo": "«de tudo o que sai da boca do Senhor» ou «de toda palavra que sai da boca do Senhor»?",
-    "contexto": "O hebraico diz «de tudo o que sai da boca do Senhor», sem «palavra». A Bíblia grega acrescentou «palavra», e assim Jesus o cita (Mt 4,4; Lc 4,4) e o lecionário o lê (Corpo e Sangue de Cristo, ano A). Vale também para Mt 4,4, que segue o grego.",
-    "opcoes": [
-     {"id": "a", "texto": "«nem só de pão vive o homem, mas de tudo o que sai da boca do Senhor»", "nota": "O hebraico, como manda a regra do original.", "recomendada": true},
-     {"id": "b", "texto": "«nem só de pão vive o homem, mas de toda palavra que sai da boca do Senhor»", "nota": "A forma conhecida, do lecionário e do Evangelho."}
-    ]
-   }
-  ]
  }
 }

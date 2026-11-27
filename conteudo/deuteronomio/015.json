@@ -1,8 +1,8 @@
 {
  "livro": "deuteronomio",
  "cap": 15,
- "estado": "em revisão",
- "atualizado": "2026-11-23",
+ "estado": "revisado",
+ "atualizado": "2026-11-27",
  "trechos": [
   {"id": "1", "titulo": "O ano da remissão", "de": 1},
   {"id": "2", "titulo": "O irmão pobre", "de": 7},
@@ -38,9 +38,7 @@
   {"v": 22, "t": "dentro das tuas portas o comerás; o impuro e o puro juntamente o comerão, como se come a gazela e o veado."},
   {"v": 23, "t": "Somente não comerás o seu sangue; sobre a terra o derramarás como água."}
  ],
- "notas": [
-  {"id": "n01", "v": 17, "apos": "porta", "texto": "A orelha furada na porta da casa era o sinal de que ele pertencia àquela casa para sempre.", "origem": "nova: contexto para o leitor"}
- ],
+ "notas": [],
  "comentarios": {
   "1": {
    "temas": [

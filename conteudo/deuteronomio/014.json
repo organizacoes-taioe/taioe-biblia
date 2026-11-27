@@ -1,8 +1,8 @@
 {
  "livro": "deuteronomio",
  "cap": 14,
- "estado": "em revisão",
- "atualizado": "2026-11-23",
+ "estado": "revisado",
+ "atualizado": "2026-11-27",
  "trechos": [
   {"id": "1", "titulo": "Filhos do Senhor", "de": 1},
   {"id": "2", "titulo": "Os animais puros e impuros", "de": 3},
@@ -44,8 +44,7 @@
  ],
  "notas": [
   {"id": "n01", "v": 1, "apos": "morto", "texto": "Cortar-se e rapar a cabeça eram ritos de luto dos povos vizinhos.", "origem": "nova: contexto para o leitor"},
-  {"id": "n02", "v": 7, "apos": "damão", "texto": "Pequeno animal das pedras, parecido com um coelho.", "origem": "nova: contexto para o leitor"},
-  {"id": "n03", "v": 21, "apos": "mãe", "texto": "Desta proibição, repetida três vezes na Lei, a tradição judaica tirou a separação entre carne e leite na comida.", "origem": "nova: contexto para o leitor"}
+  {"id": "n02", "v": 7, "apos": "damão", "texto": "Pequeno animal das pedras, parecido com um coelho.", "origem": "nova: contexto para o leitor"}
  ],
  "comentarios": {
   "1": {

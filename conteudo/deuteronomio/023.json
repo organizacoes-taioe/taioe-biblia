@@ -1,8 +1,8 @@
 {
  "livro": "deuteronomio",
  "cap": 23,
- "estado": "em revisão",
- "atualizado": "2026-11-23",
+ "estado": "revisado",
+ "atualizado": "2026-11-27",
  "trechos": [
   {"id": "1", "titulo": "Quem entra na assembleia do Senhor", "de": 1},
   {"id": "2", "titulo": "A pureza do acampamento", "de": 10},

@@ -1,8 +1,8 @@
 {
  "livro": "deuteronomio",
  "cap": 31,
- "estado": "em revisão",
- "atualizado": "2026-11-23",
+ "estado": "revisado",
+ "atualizado": "2026-11-27",
  "trechos": [
   {"id": "1", "titulo": "Josué sucede a Moisés", "de": 1},
   {"id": "2", "titulo": "A leitura da lei de sete em sete anos", "de": 9},
@@ -88,19 +88,5 @@
     }
    ]
   }
- },
- "revisao": {
-  "escolhas": [
-   {
-    "id": "cabeca-dura-31-27",
-    "ref": "Dt 31,27",
-    "titulo": "*Orpekha haqqashe*: «a tua cabeça dura» ou «a tua dura cerviz»?",
-    "contexto": "A mesma expressão de Dt 9,6.13, dita aqui por Moisés ao povo. Deve acompanhar a resposta dada em Dt 9.",
-    "opcoes": [
-     {"id": "a", "texto": "«conheço a tua rebeldia e a tua cabeça dura»", "nota": "Acompanha a recomendada de Dt 9.", "recomendada": true},
-     {"id": "b", "texto": "«conheço a tua rebeldia e a tua dura cerviz»", "nota": "Se em Dt 9 a escolha for «cerviz»."}
-    ]
-   }
-  ]
  }
 }

@@ -1,8 +1,8 @@
 {
  "livro": "deuteronomio",
  "cap": 28,
- "estado": "em revisão",
- "atualizado": "2026-11-23",
+ "estado": "revisado",
+ "atualizado": "2026-11-27",
  "trechos": [
   {"id": "1", "titulo": "As bênçãos", "de": 1},
   {"id": "2", "titulo": "A bênção sobre a obra das tuas mãos", "de": 7},

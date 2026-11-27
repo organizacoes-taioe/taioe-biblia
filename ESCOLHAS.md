@@ -105,7 +105,7 @@ Vale para pessoas, povos e lugares, também nos comentários dos Padres.
 | *al-mut* (Sl 48,15) | até a morte | o hebraico; a confirmar («para sempre», a Bíblia grega e a Vulgata) | Sl 48, a confirmar |
 | *tehatte'eni be'ezov* (Sl 51,9) | Asperge-me com o hissopo | como a Vulgata e o rito da aspersão; a confirmar («Purifica-me») | Sl 51, a confirmar |
 | *mittov* (Sl 39,3) | calar-se até do bem | como a Vulgata e Ambrósio; a tradução de partida dizia «sem proveito» | Sl 39, aprovado (22/11) |
-| *ve'era'e pene elohim* (Sl 42,3) | apresentar-me diante da face de Deus | as vogais do hebraico, a LXX e a Vulgata; a confirmar («ver a face», o lecionário) | Sl 42, a confirmar |
+| *ve'era'e pene elohim* (Sl 42,3) | apresentar-me diante da face de Deus | as vogais do hebraico, a LXX e a Vulgata; o lecionário diz «ver a face» | Sl 42 (o Gere, 27/11) |
 | *teruá* | aclamação | conferir os lugares em que saiu «júbilo»; Sl 33,3 «tocai com arte, entre aclamações» | Sl 33, aprovado |
 | *ruah* | sopro / espírito / vento, pelo contexto | Sl 33,6 «sopro», com nota da leitura trinitária | Sl 33, aprovado |
 | *tseva'* (dos céus) | exército | | projeto antigo |
@@ -354,8 +354,8 @@ Vale para pessoas, povos e lugares, também nos comentários dos Padres.
 | *nissá* (Deus, sujeito) | pôr à prova | Dt 8,2.16, como o lecionário; com Deus por objeto, «tentar» (Dt 6,16 «Não tentareis o Senhor vosso Deus») | Dt 8 |
 | *tirosh* | vinho novo | Dt 7,13 | Dt 7 |
 | *moqesh*, *yaqosh* | laço; cair no laço | Dt 7,16.25 | Dt 7 |
-| *lo al-hallehem levaddo yihye ha'adam* | nem só de pão vive o homem | Dt 8,3; «mas de tudo o que sai da boca do Senhor» (o hebraico), a confirmar («de toda palavra», a Bíblia grega, o lecionário e Mt 4,4) | Dt 8, a confirmar |
-| *qeshe-oref* | um povo de cabeça dura | Dt 9,6.13, como o lecionário (Êx 32,9; 34,9); a confirmar («de dura cerviz», a tradução de partida); vale para Êx 32–34 e At 7,51; Dt 10,16 e 31,27 têm pendência própria (em 10,16 o lecionário diz «cerviz») | Dt 9, a confirmar |
+| *lo al-hallehem levaddo yihye ha'adam* | nem só de pão vive o homem | Dt 8,3; «mas de tudo o que sai da boca do Senhor» (o hebraico; o lecionário e Mt 4,4 dizem «de toda palavra», da Bíblia grega) | Dt 8 (o Gere, 27/11) |
+| *qeshe-oref* | um povo de cabeça dura | Dt 9,6.13, como o lecionário (Êx 32,9; 34,9); a tradução de partida dizia «de dura cerviz»; vale para Êx 32–34 e At 7,51; também Dt 10,16 («não endureçais mais a vossa cabeça», onde o lecionário diz «cerviz») e 31,27 («a tua cabeça dura») | Dt 9, 10 e 31 (o Gere, 27/11) |
 | *yagorti* (Dt 9,19) | tive pavor | | Dt 9 |
 | *nasa* (Dt 1,9.12.31) | carregar | «Não posso carregar-vos sozinho» (v. 9) e o Senhor que «te carregou, como um homem carrega o seu filho» (v. 31): o eco entre Moisés e Deus; a tradução de partida dizia «suportar» e «levar» | Dt 1 |
 | *torah* / *massa* (Dt 1,12) | fardo / carga | «o vosso fardo, a vossa carga e as vossas contendas» | Dt 1 |

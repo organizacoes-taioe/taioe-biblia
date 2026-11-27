@@ -1,8 +1,8 @@
 {
  "livro": "deuteronomio",
  "cap": 10,
- "estado": "em revisão",
- "atualizado": "2026-11-23",
+ "estado": "revisado",
+ "atualizado": "2026-11-27",
  "trechos": [
   {"id": "1", "titulo": "As segundas tábuas", "de": 1},
   {"id": "2", "titulo": "A morte de Aarão; a tribo de Levi", "de": 6},
@@ -35,9 +35,7 @@
   {"v": 21, "t": "Ele é o teu louvor, ele é o teu Deus, que fez por ti estas coisas grandes e terríveis que os teus olhos viram."},
   {"v": 22, "t": "Em número de setenta pessoas desceram teus pais ao Egito, e agora o Senhor teu Deus te fez numeroso como as estrelas do céu."}
  ],
- "notas": [
-  {"id": "n01", "v": 6, "texto": "Os vv. 6-7 interrompem a fala de Moisés com uma notícia da viagem pelo deserto.", "origem": "nova: contexto para o leitor"}
- ],
+ "notas": [],
  "comentarios": {
   "1": {
    "temas": [
@@ -94,19 +92,5 @@
     }
    ]
   }
- },
- "revisao": {
-  "escolhas": [
-   {
-    "id": "cerviz-10-16",
-    "ref": "Dt 10,16",
-    "titulo": "*Ve'arpekhem lo taqshu*: «a vossa cabeça» ou «a vossa cerviz»?",
-    "contexto": "Ao pé da letra, «não endureçais mais a vossa nuca». Em Dt 9,6.13 a recomendada é «povo de cabeça dura», como o lecionário de Êx 32,9 e 34,9; mas aqui, em Dt 10,16, o próprio lecionário diz «não endureçais mais vossa cerviz».",
-    "opcoes": [
-     {"id": "a", "texto": "«e não endureçais mais a vossa cabeça»", "nota": "Acompanha «cabeça dura» de Dt 9.", "recomendada": true},
-     {"id": "b", "texto": "«e não endureçais mais a vossa cerviz»", "nota": "Como o lecionário neste versículo."}
-    ]
-   }
-  ]
  }
 }

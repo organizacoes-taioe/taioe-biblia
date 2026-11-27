@@ -1,8 +1,8 @@
 {
  "livro": "deuteronomio",
  "cap": 30,
- "estado": "em revisão",
- "atualizado": "2026-11-23",
+ "estado": "revisado",
+ "atualizado": "2026-11-27",
  "trechos": [
   {"id": "1", "titulo": "A volta e a restauração", "de": 1},
   {"id": "2", "titulo": "A palavra está muito perto de ti", "de": 11},
@@ -33,9 +33,7 @@
   {"v": 19, "t": "Tomo hoje por testemunhas contra vós o céu e a terra: pus diante de ti a vida e a morte, a bênção e a maldição. Escolhe, pois, a vida, para que vivas, tu e a tua descendência,"},
   {"v": 20, "t": "amando o Senhor teu Deus, obedecendo à sua voz e unindo-te a ele; porque ele é a tua vida e a extensão dos teus dias, para que habites sobre o solo que o Senhor jurou dar a teus pais, Abraão, Isaac e Jacó."}
  ],
- "notas": [
-  {"id": "n01", "v": 14, "apos": "cumpras", "texto": "A Missa do 15º domingo do Tempo Comum, ano C, lê os vv. 10-14 antes da parábola do bom samaritano.", "origem": "nova: contexto para o leitor"}
- ],
+ "notas": [],
  "comentarios": {
   "1": {
    "temas": [

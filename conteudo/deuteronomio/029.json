@@ -1,8 +1,8 @@
 {
  "livro": "deuteronomio",
  "cap": 29,
- "estado": "em revisão",
- "atualizado": "2026-11-23",
+ "estado": "revisado",
+ "atualizado": "2026-11-27",
  "trechos": [
   {"id": "1", "titulo": "Vistes, e não entendestes", "de": 1},
   {"id": "2", "titulo": "Hoje estais todos diante do Senhor", "de": 9},
@@ -43,9 +43,7 @@
   {"v": 27, "t": "E o Senhor os arrancou do seu solo com ira, furor e grande indignação, e os lançou em outra terra, como hoje se vê."},
   {"v": 28, "t": "As coisas ocultas pertencem ao Senhor nosso Deus, mas as reveladas são para nós e para os nossos filhos, para sempre, a fim de cumprirmos todas as palavras desta lei."}
  ],
- "notas": [
-  {"id": "n01", "v": 17, "apos": "absinto", "texto": "Planta muito amarga.", "origem": "nova: contexto para o leitor"}
- ],
+ "notas": [],
  "comentarios": {
   "1": {
    "temas": [

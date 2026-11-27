@@ -1,8 +1,8 @@
 {
  "livro": "deuteronomio",
  "cap": 24,
- "estado": "em revisão",
- "atualizado": "2026-11-23",
+ "estado": "revisado",
+ "atualizado": "2026-11-27",
  "trechos": [
   {"id": "1", "titulo": "O repúdio", "de": 1},
   {"id": "2", "titulo": "Preceitos de humanidade", "de": 5},

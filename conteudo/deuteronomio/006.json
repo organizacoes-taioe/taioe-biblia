@@ -1,8 +1,8 @@
 {
  "livro": "deuteronomio",
  "cap": 6,
- "estado": "em revisão",
- "atualizado": "2026-11-23",
+ "estado": "revisado",
+ "atualizado": "2026-11-27",
  "trechos": [
   {"id": "1", "titulo": "O fim da lei", "de": 1},
   {"id": "2", "titulo": "Ouve, Israel", "de": 4},
@@ -41,7 +41,7 @@
   {"v": 25, "t": "E esta será a nossa justiça: cuidarmos de cumprir todo este mandamento diante do Senhor nosso Deus, como ele nos ordenou."}
  ],
  "notas": [
-  {"id": "n01", "v": 2, "apos": "Deus", "texto": "Os vv. 2-6 são a primeira leitura da Missa do 31º domingo do Tempo Comum, ano B; no Evangelho, Jesus responde com os vv. 4-5 qual é o primeiro de todos os mandamentos (Mc 12,28-34).", "origem": "nova: liturgia; resume a n01 do projeto antigo"},
+  {"id": "n01", "v": 5, "texto": "No Evangelho, Jesus responde com os vv. 4-5 qual é o primeiro de todos os mandamentos (Mc 12,28-34).", "origem": "nova: liturgia; resume a n01 do projeto antigo"},
   {"id": "n02", "v": 8, "apos": "olhos", "texto": "Os judeus cumprem os vv. 8-9 à letra: para a oração, atam ao braço e à testa pequenas caixas com estes textos, os filactérios, e fixam outra no batente da porta de casa, a mezuzá.", "origem": "revista: n03 do projeto antigo"},
   {"id": "n03", "v": 13, "apos": "jurarás", "texto": "Com este versículo e com o v. 16, Jesus responde ao diabo nas tentações do deserto (Mt 4,7.10; Lc 4,8.12).", "origem": "revista: n05 do projeto antigo"},
   {"id": "n04", "v": 16, "apos": "Massa", "texto": "Em Massa, no deserto, o povo exigiu água e pôs o Senhor à prova, dizendo: «O Senhor está no meio de nós ou não?» (Êx 17,1-7).", "origem": "revista: n06 do projeto antigo"}

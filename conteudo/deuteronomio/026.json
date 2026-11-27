@@ -1,8 +1,8 @@
 {
  "livro": "deuteronomio",
  "cap": 26,
- "estado": "em revisão",
- "atualizado": "2026-11-23",
+ "estado": "revisado",
+ "atualizado": "2026-11-27",
  "trechos": [
   {"id": "1", "titulo": "As primícias", "de": 1},
   {"id": "2", "titulo": "A declaração do dízimo", "de": 12},
@@ -33,7 +33,6 @@
   {"v": 19, "t": "para te pôr acima de todas as nações que fez, em louvor, em fama e em glória, e para que sejas um povo santo para o Senhor teu Deus, como ele disse."}
  ],
  "notas": [
-  {"id": "n01", "v": 5, "apos": "errante", "texto": "A Missa do 1º domingo da Quaresma, ano C, lê esta profissão de fé de Israel (vv. 4-10).", "origem": "nova: contexto para o leitor"},
   {"id": "n02", "v": 14, "apos": "morto", "texto": "Refere-se às oferendas de comida aos mortos, costume dos povos vizinhos.", "origem": "nova: contexto para o leitor"}
  ],
  "comentarios": {
